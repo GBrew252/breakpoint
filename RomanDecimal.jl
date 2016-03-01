@@ -9,6 +9,9 @@
     Returns string of decimal date
 =#
 function r2d2(roman_date::String)
+    # convert to uppercase
+    roman_date = Base.uppercase(roman_date)
+
     # check if input argument is a roman numeral
     if is_rn(roman_date)
         roman_date_rev = reverse(roman_date) # reverse the date
@@ -65,6 +68,7 @@ end # r2d2 function
     Returns boolean
 =#
 function is_rn(input::String)
+    input = Base.uppercase(input) # make uppercase
     numerals = ['I','V','X','L','C','D','M'] # all roman numerals
     is_numeral = true # boolean to be returned
     
