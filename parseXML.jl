@@ -150,10 +150,12 @@ end # function get-metadata
 
 #=
     Function to create a file with the file name and the year the text was created
-    Arguments: Array of files to be analyzed
+    Arguments: Array of file names to be analyzed;
+               String of input folder where original files are;
+               String of output file name
     Return: N/A 
 =#
-function create_year_text_file(raw_files::Array, output_name::String, file_folder::String)
+function create_year_text_file(raw_files::Array, input_file_folder::String, output_name::String)
     # open file by name in argument
     year_f = open("/Users/connor/workspace/breakpoint/$output_name", "w+")
 
@@ -165,7 +167,7 @@ function create_year_text_file(raw_files::Array, output_name::String, file_folde
         file_name = split(file, '.')[1]
 
         # get line from metadata for year
-        year_line = get_metadata(file_folder * file)[3]
+        year_line = get_metadata(input_file_folder * file)[3]
         year = Int64
 
         # loop to get year from text in metadata
@@ -201,47 +203,138 @@ function create_year_text_file(raw_files::Array, output_name::String, file_folde
     close(year_f)
 end # function create_year_text_file
 
-
-function main()
-    raw_files = readdir("/Users/connor/workspace/breakpoint/Sample_All")
+#=
+    Function to create folder with word frequency files for each text
+    Arguments: Array of the raw file names; 
+               String of the folder where input files are; 
+               String of output folder name where new files will go
+    Return: N/A
+=#
+function create_freq_files(raw_files::Array, input_file_folder::String, output_folder::String)
+    # try and create new directory for files
+    output_folder = pwd() * "/" * output_folder * "/"
+    progress = false
     
-    while ismatch(r"^\..*", raw_files[1])
-        shift!(raw_files)
-    end
-    
-    create_year_text_file(raw_files, "test.tsv", "Sample_All/")
-    #=
+    # loop to make sure user inputs valid folder
+    while progress == false
+        try
+            mkdir(output_folder)
+            progress = true
+        catch
+            println("Caution: Folder already exists.")
+            print("Overwrite? (y/n) ")
 
-    #mkdir("/Users/connor/Desktop/breakpoint/freq_samples_rev") 
+            # all valid answers
+            answers = ["y","yes","n","no"]
 
+            # get user input in lowercase
+            answer = Base.lowercase(chomp(readline(STDIN)))
+
+            # check if answer valid
+            while !in(answer, answers)
+                println("Invalid answer.")
+                print("Overwrite? (y/n) ")
+                answer = Base.lowercase(chomp(readline(STDIN)))
+            end # while loop
+            
+            # if they answer yes to overwrite, continue
+            if (answer == "y") || (answer == "yes")
+                progress = true
+            # if user answers no to overwrite, ask for new directory
+            elseif (answer == "n") || (answer == "no")
+                print("Create new output folder: ")
+                output_folder = pwd() * "/" * chomp(readline(STDIN)) * "/"
+            end # if/elseif statement
+
+        end # try/catch
+
+    end # while loop
+
+    # loop over files in raw_files and calculate word freqency
     for file in raw_files
         println("Parsing file...")
-        parsed_file = parse_xml("Sample_All/" * file)
+
+        # initial parsing of xml
+        parsed_file = parse_xml(input_file_folder * file)
         println("Cleaning text...")
+
+        # get rid of unwanted characters
         clean_text = sort(clean(parsed_file))
         
         println("Creating frequencies...")
+
+        # create a dictionary of word frequencies
         freq_dict = Dict()
         for word in clean_text
+            # if word already exists, add to its frequency
             if haskey(freq_dict, word)
                 freq_dict[word] += 1
+            # else create new dictionary key with frequency as value
             else
                 freq_dict[word] = 1
             end
-        end
+        end # inner for loop
 
+        # Add extention to file name
         file_name = split(file, '.')[1] * ".txt"
+
+        # open file where frequency then word is printed
         #f = open("freq_samples/" * file_name, "w+")
-        f = open("freq_samples_rev/" * file_name, "w+")
+        # open file where word then frequency is printed
+        f = open(output_folder * file_name, "w+")
+
+        # loop over sorted words in dictionary
         for key in sort(collect(keys(freq_dict)))
-            write(f, "$key\t$(freq_dict[key])\n")
-            #write(f, "$(freq_dict[key])\t$key\n")
-        end
+            write(f, "$key\t$(freq_dict[key])\n") # write word then freq
+            #write(f, "$(freq_dict[key])\t$key\n") # write freq then word
+        end # inner for loop
+
+        # close file and print it's done.
         close(f)
         println("Made file: " * file_name)
-     end   
-    =#
-end
 
+     end # outter for loop
+ 
+end # function create_freq_file
 
+#= 
+    Main function to run the functions to create a text with date file and a folder of files
+        that have word frequency for each text
+    Arguments: String of directory to get original xml files
+    Return: N/A
+=#
+function main()
+    # error check argument
+    if length(ARGS) != 1
+        println("ERROR: Wrong amount of arguments. $(length(ARGS)) given, 1 needed.")
+        exit()
+    end # if statement
+    if !ispath(ARGS[1])
+        println("ERROR: Not a valid directory path.")
+        exit()
+    end # if statement
+
+    # get all the file names in directory
+    raw_files = readdir(ARGS[1])
+
+    # check directory actually has contents
+    if length(raw_files) == 0
+        println("ERROR: Directory empty.")
+        exit()
+    end # if statement
+
+    # get rid of any hidden files that start with "."
+    while ismatch(r"^\..*", raw_files[1])
+        shift!(raw_files)
+    end # while loop
+    
+    # get directory name for full file path
+    path_split = split(ARGS[1], "/")
+    orig_dir_name = path_split[length(path_split)] * "/"
+    
+    # make text year file and frequency file folder
+#    create_year_text_file(raw_files, orig_dir_name, "test.tsv")
+    create_freq_files(raw_files, orig_dir_name, "test_folder") 
+
+end # function main
 main()
