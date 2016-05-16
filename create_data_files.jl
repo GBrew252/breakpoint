@@ -3,6 +3,7 @@
     By: Connor Riddell
     Creates directory of files with name being each unique word
         and the frequency for each year it appears.
+    Usage: julia create_data_files.jl metadata-file word-frequency-files-folder
 =#
 
 #=
