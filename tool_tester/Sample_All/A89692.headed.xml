@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">Nineteen cases of conscience. Submissively tendred to Mr. Hugh Peters, and the rest of his fellow commissioners, the triars by sundry weak brethren.</TITLE></TITLESTMT><EXTENT>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2008-09 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A89692</IDNO>
+
+
+<IDNO TYPE="stc">Wing N1163</IDNO>
+
+<IDNO TYPE="stc">Thomason E986_16</IDNO>
+
+<IDNO TYPE="stc">ESTC R203061</IDNO>
+
+<IDNO TYPE="eebo citation">99863149</IDNO>
+
+<IDNO TYPE="proquest">99863149</IDNO>
+
+<IDNO TYPE="vid">115333</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A89692)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 115333)</NOTE><NOTE>Images scanned from microfilm: (Thomason Tracts ; 147:E986[16])</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">Nineteen cases of conscience. Submissively tendred to Mr. Hugh Peters, and the rest of his fellow commissioners, the triars by sundry weak brethren.</TITLE><AUTHOR>Peters, Hugh, 1598-1660.</AUTHOR></TITLESTMT><EXTENT>8 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>[s.n.],</PUBLISHER>
+<DATE>printed in the year MDCLIX. [1659]</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Variant: title page has "Petrs".</NOTE><NOTE>Annotation on Thomason copy: "June. 14.".</NOTE><NOTE>Reproduction of the original in the British Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Religious tolerance --  England --  Early works to 1800.</TERM><TERM>Great Britain --  Church history --  17th century --  Early works to 1800.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2007-05</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2007-05</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2007-06</DATE><RESPSTMT><RESP>Jonathan Blaney</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2007-06</DATE><RESPSTMT><RESP>Jonathan Blaney</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2008-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A89692">
+<STC T="W">N1163</STC>
+<STC T="T">E986_16</STC>
+<BIBNO T="umi">99863149</BIBNO>
+<VID>115333</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y"/>
+<P><HI>NINETEEN</HI>
+CASES
+OF
+CONSCIENCE.</P>
+<P>Submissively tendred to
+Mr. <HI>HƲGH PETRS,</HI>
+And the rest of his Fellow Commis∣sioners,
+the TRIARS</P>
+<P>By sundry weak Brethren.</P>
+<P>LONDON, Printed in the year MDCLIX.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<HEAD><PB REF="2"/>
+<PB N="3" REF="2"/>
+NINETEEN
+CASES
+OF
+CONSCIENCE.</HEAD>
+<DIV1 N="1" TYPE="case">
+<HEAD>I</HEAD>
+<P>WHether the <HI>Immortality</HI> of a man's <HI>Soul</HI> be a Do∣ctrine
+at all fit, or suitable to be preached, or
+taught, either in Pulpits or Books, to the men
+of <HI>this</HI> Generation? and whether there be any such thing as
+a <HI>future</HI> condition of <HI>happiness or misery in another world?</HI>
+Now the ground of <HI>this</HI> scruple ariseth from l<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ng observations
+in <HI>State</HI> ever since 1641, till this present 1659.</P>
+</DIV1>
+<DIV1 N="2" TYPE="case">
+<HEAD>II</HEAD>
+<P>Whether it be not a matter of weighty consequence, that
+a <HI>Petition</HI> be preferred to the <HI>Parliament,</HI> to entreat <HI>them,</HI>
+that they would <HI>pass an Act for repealing, nulling, and making
+void all Oathes whatsoever, taken since</HI> 1 Caroli <HI>to the 3 of</HI>
+<PB N="4" REF="3"/>
+Septemb. 1658? And whether it be not expedient that <HI>this</HI>
+be done very suddenly, least some who may be concern'd
+should in the <HI>interim</HI> sneak out of the world, and so become
+incapable of receiving any benefit thereby?</P>
+</DIV1>
+<DIV1 N="3" TYPE="case">
+<HEAD>III</HEAD>
+<P>Whether it would not much advance our long desired <HI>Re∣formation,</HI>
+if those places of <HI>Scripture,</HI> out of which the
+<HI>Common-Prayer-Book</HI> is collected, were diligently sought af∣ter,
+and <HI>blotted out of our Bibles,</HI> that no mark of the <HI>Su∣perstitious
+Liturgy</HI> may remain among us, to make our Chil∣dren
+<HI>Idolaters?</HI></P>
+</DIV1>
+<DIV1 N="4" TYPE="case">
+<HEAD>IV</HEAD>
+<P>Whether <HI>Lying, crying</HI> at pleasure, <HI>swearing by the living
+God,</HI> murthering men at an <HI>High Court of Justice;</HI> Perjury
+three or four times over; eating the Bread of Orphans;
+grinding the faces of the Poor; trampling on abilities; star∣ving
+a learned and orthodox <HI>Ministry,</HI> and exercizing worse
+Tyranny for <HI>five years last past</HI> over <HI>England</HI> than <HI>Pharaoh</HI> did
+over <HI>Aegypt,</HI> were sins or <GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ot? And if sins, whether any
+whit more venial in a <HI>Saint</HI> than a <HI>Sinner?</HI></P>
+</DIV1>
+<DIV1 N="5" TYPE="case">
+<HEAD>V</HEAD>
+<P>Whether we have not as good cause to celebrate a solemn
+<HI>Anniversary of Thanksgiving</HI> upon the 3 of <HI>Sept.</HI> as the 5 of
+<HI>Novemb.</HI> for the mercifull deliverance from the <HI>Author of all
+our co<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>fusions.</HI></P>
+</DIV1>
+<DIV1 N="6" TYPE="case">
+<HEAD>VI</HEAD>
+<P>VVhether a <HI>Common wealth</HI> modell'd (as Mr. <HI>Harrington</HI>
+would have it) like to that of <HI>Israel,</HI> be not now the <HI>best</HI>
+kind of Government for us, seeing we have so many <HI>Jewes</HI>
+amongst us?</P>
+</DIV1>
+<DIV1 N="7" TYPE="case">
+<PB N="5" REF="3"/>
+<HEAD>(VII)</HEAD>
+<P>VVhether the <HI>fellowes of Magdalen College in Oxford,</HI>
+have not given Dr. <HI>Thomas Goodwin</HI> (upon the account of
+his <HI>wife</HI> better reason to make an <HI>Horn-booke</HI> than Dr.
+<HI>Owen</HI> had given him by any body, to make a <HI>Primmer?</HI></P>
+</DIV1>
+<DIV1 N="8" TYPE="case">
+<HEAD>(VIII)</HEAD>
+<P>VVhether his <HI>late Highness</HI>'s <HI>Letter to the House</HI> was not
+a large <HI>manifesto</HI> of the humility of his Spirit, of his <HI>forsa∣king
+the World, and the Devil;</HI> of his Christian valour,
+and fortitude, a tryal of his patience, an exercising of all
+his virtues, a probate of his desire to save his <HI>windpipe,</HI> and
+lastly of his mighty will to inform the world and the wor∣thies
+thereof how inconstant that same <HI>blind</HI> whore <HI>Fortune</HI>
+is, how burthensome <HI>Thrones</HI> and <HI>Scepters;</HI> nay how emp∣ty
+a thing, and how vain is <HI>Supream-Magistracy:</HI> And <HI>this
+Remarqu'</HI> may give us occasion to think upon those <HI>Com∣parisons</HI>
+which are frequent concerning <HI>this</HI> matter: Mr.
+<HI>Quarl<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/></HI> hee sayes,
+<Q><L>Or like a Sun, or like a shade,</L>
+<L>Or like the Gourd that <HI>Jonas</HI> had &amp;c.</L></Q>
+Another, he sings sweetly.</P>
+<Q>Fortune my foe, why art thou thus unkind, <HI>&amp;c.</HI></Q>
+<P>Comparing <HI>Crowns</HI> to <HI>Crabtrees,</HI> the <HI>Pearls</HI> upon them to
+<HI>Missletoe-berries</HI> which (which we are confident) are pro∣fitable
+for nothing save only to make <HI>birdlime</HI> to ensnare
+ambitious mortalls, who (as <HI>hee</HI> goes on with the <HI>Allego∣ry)</HI>
+are like little <HI>birds</HI> that hop up and down on little
+twigs on the <HI>highest</HI> trees they can find. O (sayes the
+<HI>School-boy)</HI> think upon <HI>Icarus</HI> and <HI>Phaaeton</HI> thou that aspi∣rest
+to a <HI>Diadem!</HI> (saies another <HI>Classicall Author)</HI> re∣member
+<HI>Belizarius, Blind Belizarius</HI> reaching out his
+cripled fingers, and crying, <HI>Give poor Belizarius one
+<PB N="6" REF="4"/>
+farthing!</HI> O who would not part with an hundred <HI>Protector∣domes</HI>
+(if hee had them) to occasion <HI>so many good thoughts
+in a sinner.</HI></P>
+</DIV1>
+<DIV1 N="9" TYPE="case">
+<HEAD>IX.</HEAD>
+<P>VVhether this <HI>Parliament</HI> would not quit Curtesie hand∣somly
+to turn <HI>his bones</HI> out of the <HI>Abbey,</HI> who turn'd them by
+force, and violence against all humanity, and good man∣ners
+out of the <HI>Parliament House?</HI> or in short whether
+<HI>Quid pro Quo</HI> be not lawfull, and avowable?</P>
+</DIV1>
+<DIV1 N="10" TYPE="case">
+<HEAD>X.</HEAD>
+<P>VVhether <HI>Machiavels</HI> maxime, for which our <HI>Divines</HI>
+rail so at him <HI>(viz.)</HI> that <HI>[Christian Religion makes man
+Cowards,]</HI> be not now sound Doctrine, and most evident∣ly
+demonstrated his by <HI>late Highnesse?</HI></P>
+</DIV1>
+<DIV1 N="11" TYPE="case">
+<HEAD>XI.</HEAD>
+<P>VVhether a man may not venture his <HI>Soul</HI> for the pro∣curement
+of an <HI>Estate,</HI> and promotion of his worldly inte∣rests,
+altogether as laudably as for <HI>Religion?</HI></P>
+</DIV1>
+<DIV1 N="12" TYPE="case">
+<HEAD>XII.</HEAD>
+<P>VVhether it were not a deed of <HI>Charity</HI> in the <HI>Parliament</HI>
+to erect another <HI>High Court of Justice,</HI> that so the <HI>Lord
+L<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>s;le</HI> might know how to dispose of some of that time, and
+leasure which they have thought fit to allot <HI>him,</HI> by dis∣charging
+<HI>him</HI> the trouble of being one of the <HI>Keepers</HI> of the
+<HI>great Seal of England?</HI> And whether we ought not to think
+in Charity that the <HI>House</HI> discarded <HI>him</HI> of his dignities in
+tender <HI>compassion to his Soul,</HI> that so he might have conve∣nience
+to repent him of his <HI>blood guiltinesse,</HI> and other cry∣ing
+Sins, which can the pared off with his nails.</P>
+</DIV1>
+<DIV1 N="13" TYPE="case">
+<PB N="7" REF="4"/>
+<HEAD>XIII.</HEAD>
+<P>VVhether <HI>Sermons</HI> should not be put down as well as
+<HI>Playes,</HI> the <HI>meetings</HI> being farr <HI>greater,</HI> the <HI>A<GAP DESC="illegible" RESP="oxf" EXTENT="2 letters" DISP="••"/>ores</HI> more <HI>se∣ditious,</HI>
+and <HI>fewer Souldiers being there,</HI> by their good wills?</P>
+</DIV1>
+<DIV1 N="14" TYPE="case">
+<HEAD>XIV.</HEAD>
+<P>Whether the <HI>Whore of Babylon that Man of Sin,</HI> be in
+good earnest (after so many disputes) a <HI>Man,</HI> or a <HI><GAP DESC="illegible" RESP="oxf" EXTENT="1 word" DISP="〈◊〉"/>,</HI>
+or an <HI>Hermaphrodit<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>?</HI></P>
+</DIV1>
+<DIV1 N="15" TYPE="case">
+<HEAD>XV.</HEAD>
+<P>Whether old <HI>Oliver Cromwel,</HI> and Dr. <HI>Iohn Hewyt,</HI> are
+now within sight of one another; and if not, how many
+Leagues over the <HI>Gulph</HI> is that parts 'um? And truly the
+resolution of this one <HI>doubt</HI> (if the <HI>Gulph</HI> were stated to be
+but narrow) would make many men in this world excel∣lent
+<HI>Swimmers,</HI> in hopes one day to <HI>make use of their Art,</HI>
+when the time shall come that they must either <HI>Sink, or
+Swim.</HI></P>
+</DIV1>
+<DIV1 N="16" TYPE="case">
+<HEAD>XVI.</HEAD>
+<P>Whether they best deserve of the <HI>State</HI> who have hazar∣ded
+their persons, and estates, or they that have ventur'd
+their <HI>Souls</HI> and <HI>Consciences</HI> for the <HI>Good Old Cause.</HI></P>
+</DIV1>
+<DIV1 N="17" TYPE="case">
+<HEAD>XVII.</HEAD>
+<P>Whether we be not much happier <HI>now</HI> than we have been
+any time this seven years before, in regard we have again
+gotten over us the <HI>Harp, and Crosse, one</HI> being an <HI>inctrument
+of mirth,</HI> and the <HI>other a badg of our Religion;</HI> wheras <HI>be∣fore</HI>
+we had a <HI>great white ramping Lyon</HI> over us: now a <HI>Lyon</HI>
+is a <HI>beast of prey,</HI> and the property of beasts of prey is to <HI>de∣vour</HI>
+(as we all know.)</P>
+</DIV1>
+<DIV1 N="18" TYPE="case">
+<PB N="8" REF="5"/>
+<HEAD>VIII.</HEAD>
+<P>VVhether the <HI>Devil</HI> be not a <HI>Malignant,</HI> because he is so
+<HI>hot</HI> for <HI>Monarchy?</HI> and whether (if the <HI>Act</HI> of <HI>Oblivion</HI>
+will not quit him) that one <HI>Argument</HI> be not enough to
+perswade men to <HI>defie him and all his works?</HI></P>
+</DIV1>
+<DIV1 N="19" TYPE="case">
+<HEAD>(XIX)</HEAD>
+<P>VVhether, seeing that <HI>Liberty of Conscience</HI> is now gene∣rally
+granted to all men, it be not the best exercise for <HI>poor</HI>
+witty <HI>Cavalliers</HI> to <HI>write Pamphlets,</HI> and the best recreation
+for <HI>rich Commonwealth's men to read them?</HI></P>
+</DIV1>
+<TRAILER>The End.</TRAILER>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

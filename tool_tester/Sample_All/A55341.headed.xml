@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The choice a poem / by a person of quality.</TITLE><AUTHOR>Pomfret, John, 1667-1702.</AUTHOR></TITLESTMT><EXTENT>Approx. 9 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2003-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A55341</IDNO>
+
+
+<IDNO TYPE="stc">Wing P2795</IDNO>
+
+<IDNO TYPE="stc">ESTC R23203</IDNO>
+
+<IDNO TYPE="eebo citation">12065933</IDNO>
+
+<IDNO TYPE="oclc">ocm 12065933</IDNO>
+
+<IDNO TYPE="vid">53343</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A55341)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 53343)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 819:20)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The choice a poem / by a person of quality.</TITLE><AUTHOR>Pomfret, John, 1667-1702.</AUTHOR></TITLESTMT><EXTENT>[2], 9 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed, and are to be sold by J. Nutt ...,</PUBLISHER>
+<DATE>1700.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Reproduction of original in Huntington Library.</NOTE><NOTE>Attributed to John Pomfret. cf. BM.</NOTE><NOTE>Caption title: The choyce.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>English poetry --  Early modern, 1500-1700.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2000-00</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2001-11</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2001-12</DATE><RESPSTMT><RESP>TCP Staff (Michigan)</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2001-12</DATE><RESPSTMT><RESP>TCP Staff (Michigan)</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2002-01</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A55341">
+<STC T="W">P2795</STC>
+<BIBNO T="oclc">12065933</BIBNO>
+<VID>53343</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>THE
+CHOICE.
+A
+POEM.</P>
+<P>By a Person of Quality.</P>
+<P><HI>LONDON:</HI>
+Printed, and are to be sold by <HI>I. Nutt,</HI> near Sta∣tioners-Hall,
+MDCC.</P>
+</DIV1>
+<DIV1 TYPE="half title">
+<PB REF="2"/>
+<P>THE
+CHOICE.
+A
+POEM.</P>
+<GAP DESC="duplicate" EXTENT="1 page" DISP="〈1 page duplicate〉"/>
+<PB REF="3"/>
+<GAP DESC="duplicate" EXTENT="1 page" DISP="〈1 page duplicate〉"/>
+<PB REF="3"/>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="4"/>
+<PB N="3" REF="4"/>
+<HEAD>THE
+CHOYCE.</HEAD>
+<LG>
+<L>IF Heav'n the grateful Liberty wou'd give,</L>
+<L>That I might chuse my Method how to live:</L>
+<L>And all those Hours propitious Fate shou'd lend,</L>
+<L>In blissful Ease and Satisfaction spend.</L>
+</LG>
+<LG>
+<L>Near some fair Town I'd have a private Seat,</L>
+<L>Built Uniform, not little, nor too great:</L>
+<L>Better, if on a rising Ground it stood,</L>
+<L>Fields on this side, on that a Neighb'ring Wood.</L>
+<L>It shou'd within no other Things contain,</L>
+<L>But what are Useful, Necessary, Plain:</L>
+<L>Methinks, 'tis Nauseous, and I'd ne'er endure</L>
+<L>The needless Pomp of gawdy Furniture:</L>
+<L>A little Garden, grateful to the Eye,</L>
+<L>And a cool Rivulet run Murmuring by:</L>
+<L>On whose delicious Banks a stately Row</L>
+<L>Of shady Lymes, or Sycamores, shou'd grow.</L>
+<L>At th' end of which a silent Study plac'd,</L>
+<L>Shou'd with the Noblest Authors there be grac'd.</L>
+<L><HI>Horace</HI> and <HI>Virgil,</HI> in whose mighty Lines,</L>
+<L>Immortal Wit, and solid Learning Shines.</L>
+<L><PB N="4" REF="5"/>Sharp <HI>Iuvenal,</HI> and am'rous <HI>Ovid</HI> too,</L>
+<L>Who all the turns of Loves soft Passion knew:</L>
+<L>He, that with Judgment reads his Charming Lines,</L>
+<L>In which strong Art, with stronger Nature joyns,</L>
+<L>Must grant, his Fancy do's the best Excel:</L>
+<L>His Thoughts so tender, and exprest so well;</L>
+<L>With all those Moderns, Men of steady Sense,</L>
+<L>Esteem'd for Learning, and for Eloquence:</L>
+<L>In some of These, as Fancy shou'd advise,</L>
+<L>I'd always take my Morning Exercise.</L>
+<L>For sure, no Minutes bring us more Content,</L>
+<L>Than those in pleasing useful Studies spent.</L>
+</LG>
+<LG>
+<L>I'd have a Clear and Competent Estate,</L>
+<L>That I might live Genteelly, but not Great.</L>
+<L>As much as I cou'd moderately spend,</L>
+<L>A little more sometimes t'oblige a Friend.</L>
+<L>Nor shou'd the Sons of Poverty Repine</L>
+<L>Too much at Fortune, they shou'd taste of Mine;</L>
+<L>And all that Objects of true Pity were,</L>
+<L>Shou'd be reliev'd with what my Wants cou'd spare;</L>
+<L>For what our Maker has too largely giv'n,</L>
+<L>Shou'd be return'd in gratitude to Heav'n.</L>
+<L>A frugal Plenty shou'd my Table spread,</L>
+<L>With healthful, not luxurious Dishes, fed:</L>
+<L>Enough to satisfy, and something more</L>
+<L>To feed the Stranger, and the Neighb'ring Poor.</L>
+<L>Strong Meat indulges Vice, and pampering Food</L>
+<L>Creates Diseases, and inflames the Blood.</L>
+<L><PB N="5" REF="5"/>But what's sufficient to make Nature Strong,</L>
+<L>And the bright Lamp of Life continue long,</L>
+<L>I'd freely take, and as I did possess</L>
+<L>The bounteous Author of my Plenty bless.</L>
+</LG>
+<LG>
+<L>I'd have a little Cellar, Cool, and Neat,</L>
+<L>With Humming Ale, and Virgin Wine Repleat.</L>
+<L>Wine whets the Wit, improves its Native Force,</L>
+<L>And gives a pleasant Flavour to Discourse;</L>
+<L>By making all our Spirits Debonair,</L>
+<L>Throws off the Lees, the Sedement of Care.</L>
+<L>But as the greatest Blessing Heaven lends</L>
+<L>May be debauch'd, and serve ignoble Ends;</L>
+<L>So, but too oft, the Grapes refreshing Juice,</L>
+<L>Does many mischievous Effects produce.</L>
+<L>My House, shou'd no such rude Disorders know,</L>
+<L>As from high Drinking consequently flow.</L>
+<L>Nor wou'd I use what was so kindly giv'n,</L>
+<L>To the dishonour of Indulgent Heav'n.</L>
+<L>If any Neighbour came he shou'd be free,</L>
+<L>Us'd with respect, and not Uneasy be,</L>
+<L>In my Retreat, or to himself, or me.</L>
+<L>What Freedom, Prudence, and Right Reason give,</L>
+<L>All Men, may with Impunity receive:</L>
+<L>But the least swerving from their Rules too much;</L>
+<L>For what's forbidden Us, 'tis Death to touch.</L>
+<L>That Life might be more comfortable yet,</L>
+<L>And all my Joys refin'd, sincere and great,</L>
+<L>I'd chuse two Friends, whose Company wou'd be</L>
+<L>A great Advance to my Felicity.</L>
+<L><PB N="6" REF="6"/>Well born, of Humours suited to my own;</L>
+<L>Discreet, and Men as well as Books have known.</L>
+<L>Brave, Gen'rous, Witty, and exactly free</L>
+<L>From loose Behaviour, or Formality.</L>
+<L>Airy, and Prudent, Merry, but not Light,</L>
+<L>Quick in discerning, and in Judging Right;</L>
+<L>Secret they shou'd be, faithful to their Trust,</L>
+<L>In Reasoning Cool, Strong, Temperate and Just.</L>
+<L>Obliging, Open, without huffing, Brave;</L>
+<L>Brisk in gay Talking, and in sober Grave.</L>
+<L>Close in Dispute, but not tenacious, try'd</L>
+<L>By solid Reason, and let that decide;</L>
+<L>Not prone to Lust, Revenge, or envious Hate;</L>
+<L>Nor busy Medlers with Intrigues of State.</L>
+<L>Strangers to Slander, and sworn Foes to spight,</L>
+<L>Not Quarrelsom, but Stout enough to Fight:</L>
+<L>Loyal and Pious, Friends to <HI>Caesar</HI> true</L>
+<L>As dying Martyrs to their Maker too.</L>
+<L>In their Society I cou'd not miss,</L>
+<L>A permanent, sincere, substantial Bliss.</L>
+</LG>
+<LG>
+<L>Wou'd bounteous Heav'n once more indulge, I'd chuse</L>
+<L>(For, who wou'd so much Satisfaction lose,</L>
+<L>As Witty Nymphs in Conversation give)</L>
+<L>Near some obliging Modest-Fair to live;</L>
+<L>For there's that sweetness in a Female Mind,</L>
+<L>Which in a Man's we cannot find;</L>
+<L>That by a secret, but a pow'rful Art,</L>
+<L>Winds up the Spring of Life, and do's impart</L>
+<L>Fresh Vital Heat to the transported Heart.</L>
+<L><PB N="7" REF="6"/>I'd have her Reason, and her Passions sway,</L>
+<L>Easy in Company, in private Gay.</L>
+<L>Coy to a Fop, to the Deserving free,</L>
+<L>Still constant to her self, and just to me.</L>
+<L>A Soul she shou'd have for great Actions fit,</L>
+<L>Prudence, and Wisdom to direct her Wit.</L>
+<L>Courage to look bold danger in the Face,</L>
+<L>No Fear, but only to be proud, or base:</L>
+<L>Quick to advise by an Emergence prest,</L>
+<L>To give good Counsel, or to take the best.</L>
+<L>I'd have th' Expressions of her Thoughts be such,</L>
+<L>She might not seem Reserv'd, nor talk too much;</L>
+<L>That shows a want of Judgment, and of Sense:</L>
+<L>More than enough, is but Impertinence.</L>
+<L>Her Conduct Regular, her Mirth refin'd,</L>
+<L>Civil to Strangers, to her Neighbours kind.</L>
+<L>Averse to Vanity, Revenge, and Pride,</L>
+<L>In all the Methods of Deceit untry'd:</L>
+<L>So faithful to her Friend, and good to all,</L>
+<L>No Censure might upon her Actions fall.</L>
+<L>Then wou'd ev'n Envy be compell'd to say,</L>
+<L>She goes the least of Womankind astray.</L>
+</LG>
+<LG>
+<L>To this fair Creature I'd sometimes retire,</L>
+<L>Her Conversation wou'd new Joys inspire,</L>
+<L>Give Life an Edge so keen, no surly Care</L>
+<L>Wou'd venture to assault my Soul, or dare</L>
+<L>Near my Retreat to hide one secret Snare.</L>
+<L><PB N="8" REF="7"/>But so Divine, so Noble a Repast,</L>
+<L>I'd seldom, and with Moderation taste.</L>
+<L>For highest Cordials all their Virtue lose,</L>
+<L>By a too frequent, and too bold an use;</L>
+<L>And what would cheer the Spirits in distress,</L>
+<L>Ruins our Health when taken to Excess.</L>
+</LG>
+<LG>
+<L>I'd be concern'd in no litigious Jarr,</L>
+<L>Belov'd by all, not vainly popular:</L>
+<L>Whate'er Assistance I had power to bring</L>
+<L>T' oblige my Country, or to serve my King,</L>
+<L>Whene'er they call'd, I'd readily afford,</L>
+<L>My Tongue, my Pen, my Counsel, or my Sword.</L>
+<L>Law Suits I'd shun with as much Studious Care,</L>
+<L>As I wou'd Dens, where hungry Lyons are;</L>
+<L>And rather put up Injuries, than be</L>
+<L>A Plague to him, who'd be a Plague to me.</L>
+<L>I value Quiet, at a Price too great,</L>
+<L>To give for my Revenge so dear a Rate:</L>
+<L>For what do we by all our Bustle gain,</L>
+<L>But counterfeit Delight for real Pain.</L>
+</LG>
+<LG>
+<L>If Heav'n a date of many years wou'd give,</L>
+<L>Thus I'd in Pleasure, Ease, and Plenty live.</L>
+<L>And as I near approach'd the Verge of Life,</L>
+<L>Some kind Relation (for I'd have no Wife)</L>
+<L>Shou'd take upon him all my Worldly Care,</L>
+<L>While I did for a better State prepare.</L>
+<L>Then I'd not be with any trouble vext,</L>
+<L>Nor have the Evening of my Days perplext.</L>
+<L><PB N="9" REF="7"/>But by a silent, and a peaceful Death,</L>
+<L>Without a Sigh, Resign my Aged Breath:</L>
+<L>And when committed to the Dust, I'd have</L>
+<L>Few Tears, but Friendly, dropt into my Grave.</L>
+<L>Then wou'd my Exit so propitious be,</L>
+<L>All Men wou'd wish to live and dye like me.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

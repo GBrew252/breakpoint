@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The unfortunate bride, or, The Blind lady a beauty a novel / by Mrs. A. Behn.</TITLE><AUTHOR>Behn, Aphra, 1640-1689.</AUTHOR></TITLESTMT><EXTENT>Approx. 30 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2007-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A69554</IDNO>
+
+
+<IDNO TYPE="stc">Wing B1773</IDNO>
+
+<IDNO TYPE="stc">ESTC R23165</IDNO>
+
+<IDNO TYPE="eebo citation">17891359</IDNO>
+
+<IDNO TYPE="oclc">ocm 17891359</IDNO>
+
+<IDNO TYPE="vid">39420</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A69554)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 39420)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 1116:9)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The unfortunate bride, or, The Blind lady a beauty a novel / by Mrs. A. Behn.</TITLE><AUTHOR>Behn, Aphra, 1640-1689.</AUTHOR></TITLESTMT><EXTENT>[6], 18 p., [1] leaf of plates : port.  </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for S.B. and sold by the booksellers of London and Westminster,</PUBLISHER>
+<DATE>1700.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Added t.p. on p. [5] : The unfortunate bride, or, the blind lady a beauty : a novel / by Mrs. A. Behn. - London : Printed for Sauel Briscoe ..., 1698.</NOTE><NOTE>Page 8 misnumbered as 9. Numbers 14 and 15 are repeated in pagination.</NOTE><NOTE>Imperfect: stained.</NOTE><NOTE>Reproduction of original in the Huntington Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2005-11</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2006-04</DATE><RESPSTMT><RESP>SPi Global</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2006-06</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2006-06</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2006-09</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A69554">
+<STC T="W">B1773</STC>
+<BIBNO T="oclc">17891359</BIBNO>
+<VID>39420</VID>
+</IDG>
+<TEXT>
+<FRONT>
+<DIV1 TYPE="frontispiece">
+<PB REF="1"/>
+<P><FIGURE>
+<HEAD>M<SUP>rs</SUP>. Behn.</HEAD>
+<FIGDESC>portrait</FIGDESC>
+</FIGURE></P>
+</DIV1>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<P>THE Unfortunate Bride: OR, The Blind Lady a Beauty.</P>
+<P>A NOVEL.</P>
+<P>By Mrs. <HI>A. BEHN.</HI></P>
+<P>LONDON, Printed for <HI>S. B.</HI> and sold by the Book∣sellers of <HI>London</HI> and <HI>Westminster.</HI> 1700.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>TO Richard Norton, OF <HI>Southwick</HI> in <HI>Hantshire,</HI> Esquire.</HEAD>
+<OPENER><SALUTE>Honour'd SIR,</SALUTE></OPENER>
+<P>EMinent Wit, Sir, no more than Emi∣nent Beauty, can escape the Trouble and Presumption of Addresses; and that which can strike every body with Wonder, can never avoid the Praise which naturally flows from that Wonder: And Hea∣ven is forc'd to hear the Addresses as well as Praises of the Poor as Rich, of the Igno∣rant as Learned, and takes, nay rewards, the officious, tho' perhaps impertinent Zeal of its least qualify'd Devotees. Wherefore, Sir, tho' your Merits meet with the Applause of the Learned and Witty, yet your Generosity will judge favourably of the untaught Zeal of an humbler Admirer, since what I do your eminent Vertues compel. The Beautiful will
+<PB REF="3"/>
+permit the most despicable of their Admirers to love them, tho' they never intend to make him happy, as unworthy their Care, but they will not be angry at the fatal Effect of their own Eyes.</P>
+<P>But what I want in my self, Sir, to merit your Regard, I hope my Authoress will in some measure supply, so far at least to lessen my Presumption in prefixing your Name to a Posthumous Piece of hers, whom all the Men of Wit, that were her Contemporaries, look'd on as the Wonder of her Sex; and in none of her Performances has she shew'd so great a Mastery as in her Novels, where Nature al∣ways prevails; and if they are not true, they are so like it, that they do the business every jot as well.</P>
+<P>This I hope, Sir, will induce you to par∣don my Presumption in dedicating this No∣vel to you, and declaring my self,</P>
+<CLOSER><SALUTE>Sir,</SALUTE>
+<SIGNED>Your most obedient and most humble Servant, S. BRISCOE.</SIGNED>
+<NOTE N="{inverted ⁂}" PLACE="foot">Place this Epistle Dedicatory next after the Title of the <HI>Blind Lady.</HI></NOTE></CLOSER>
+</DIV1>
+<DIV1 TYPE="title page">
+<PB REF="3"/>
+<P>THE Unfortunate Bride: OR, The Blind Lady a Beauty.</P>
+<P>A NOVEL·</P>
+<P>By Mrs. <HI>A. BEHN.</HI></P>
+<P>LONDON: Printed for <HI>Samuel Briscoe,</HI> in <HI>Charles-Street, Covent-Garden,</HI> 1698.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="novel">
+<PB REF="4"/>
+<PB N="3" REF="4"/>
+<HEAD>THE Unfortunate Bride: OR, THE The Blind Lady a Beauty.</HEAD>
+<P><HI>FRankwit</HI> and <HI>Wildvill</HI> were two young Gentlemen of very considerable For∣tunes, both born in <HI>Staffordshire,</HI> and during their minority, both educated together, by which opportunity they contracted a very inviolable Friendship, a Friendship which grew up with them; and though it was re∣markably known to every body else, they knew it not themselves; they never made profession of it in words, but actions; so true a warmth their fires could boast, as needed not the effusion of their breath to make it live. <HI>Wildvill</HI> was of the richest Family, but <HI>Frankwit</HI> of the noblest; <HI>Wild∣vil</HI> was admired for outward qualifications, as strength, and manly proportions, <HI>Frank∣wit</HI> for a much softer beauty, for his inward endowments, pleasing in his conversation, of
+<PB N="4" REF="5"/>
+a free, and moving air, humble in his be∣haviour, and if he had any pride, it was but just enough to shew that he did not af∣fect humility, his mind bowed with a motion as unconstrained as his body, nor did he force this virtue in the least, but he allow∣ed it only; so aimable he was, that every Virgin that had Eyes, knew too she had a Heart, and knew as surely she should lose it. His <HI>Cupid</HI> could not be reputed blind, he never shot for him, but he was sure to wound. As every other Nymph admired him, so he was dear to all the Tuneful Sisters, the Muses were fired with him as much as their own radiant God <HI>Apollo</HI>; not their loved Springs and Fountains were so grateful to their eyes as he, him they esteemed their <HI>Helicon</HI> and <HI>Parnassus</HI> too; in short, when ever he pleased, he could enjoy them all. Thus he ena∣mour'd the whole Female Sex, but amongst all the sighing captives of his Eyes, <HI>Belvira</HI> only boasted charms to move him, her parents lived near his, and even from their Child∣hood they felt mutual Love, as if their Eyes at their first meeting had struck out such glances as had kindled into am'rous flame. And now <HI>Belvira</HI> in her fourteenth year, (when the fresh spring of young virginity began to cast more lively bloomings in her Cheeks, and softer longings in her Eyes) by her indulgent Father's care was sent to <HI>London</HI> to a Friend, her Mother being lately dead: When, as if fortune ordered it so, <HI>Frankwit</HI>'s Father took a journey to the other
+<PB N="5" REF="5"/>
+World, to let his Son the better enjoy the pleasures and delights of this: the young Lover now with all imaginable haste interred his Father, nor did he shed so many Tears for his loss as might in the least quench the Fires, which he received from his <HI>Belvira</HI>'s Eyes, but (master of seventeen hundred pounds a year, which his Father left him) with all the Wings of Love he flys to <HI>London,</HI> and sollicits <HI>Belvira</HI> with such fervency, that it might be thought he meant Deaths Torch should kindle <HI>Hymen</HI>'s; and now as soon as he arrives at his Journeys end, he goes to pay a visit to the fair Mistress of his Soul, and assures her, that tho he was absent from her, yet she was still with him; and that all the Road he Travell'd her beauteous Image danced before him, and like the ra∣vished Prophet, he saw his Deity in every Bush; in short, he paid her constant visits, the Sun ne're rose, or set, but still he saw it in her company, and every minute of the day he counted by his sighs so incessantly he importuned her that she could no longer hold out, and was pleased in the surrender of her heart, since it was he was Conqueror, and therefore felt a triumph in her yielding; their Flames now joyned, grew more and more, glowed in their Cheeks, and lightened in their glances; eager they looked, as there were pulses beating in their Eyes; and all endearing, at last she vowed, that <HI>Frank∣wit</HI> living she would ne're be any other mans; thus they past on some time, while every
+<PB N="6" REF="6"/>
+day rowled over fair, Heaven showed an aspect all serene, and the Sun seemed to smile at what was done; he still caressed his charmer with an innocence becoming his sincerity, he lived upon her tender breath, and basked in the bright lustre of her Eyes, with pride, and secret joy.</P>
+<P>He saw his Rivals languish for that bliss, those charms, those rapturous and extatick transports which he engrossed alone. But now some eighteen months (some ages in a lovers Kalendar) winged with delights, and fair <HI>Belvira</HI> now grown fit for riper joys, knows hardly how she can deny her pressing lover and herself to crown their vows, and joyn their hands as well as hearts. All this while the young Gallant wash'd himself clean of that shining dirt, his Gold; he fancied little of Heaven dwelt in his yellow Angels, but let them fly away as it were on their own Gol∣den wings, he only valued the smiling Ba∣bies in <HI>Belvira</HI>'s Eyes. His generosity was boundless as his Love, for no man ever truly loved that was not generous. He thought his Estate like his passion, was a sort of a Pontick Ocean, it could never know an Ebb: but now he found it could be fathom'd, and that the Tide was turning, therefore he sollicits with more impatience, the consum∣mation of their joy<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> that both might go like Martyrs from the <GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>ames immediately to Heaven; and now at last it was agreed be∣tween them that they should both be one, but not without some reluctancy on the fe∣male
+<PB N="7" REF="6"/>
+side, for 'tis the humour of our Sex, to deny most eagerly those grants to Lovers, for which most tenderly we sigh: so contra∣dictory are we to our selves, as if the Deity had made us with a seeming reluctancy to his own designs, placing as much discords in our minds, as there is harmony in our faces. We are a sort of aiery Clouds, whose Light∣ning flash out one way, and the Thunder another. Our words and thoughts can ne're agree. So, this young charming Lady thought her desires could live in their own longings, like Misers wealth-devouring Eyes; and e're she consented to her Lover, prepared him first with speaking looks, and then with a fore-running sigh, applyed to the dear charmer thus: <HI>Frankwit, I am afraid to venture the Matrimonal bondage, it may make you think your self too much confined, in being only free to one.</HI> Ah! my dear <HI>Belvira,</HI> he replyed, that one, like Manna, has the taste of all, why should I be displeased to be confined to Paradice, when it was the curse of our fore∣fathers to be set at large, tho they had the whole World to roam in: You have, my Love, ubiquitary charms, and you are all in all, in every part. <HI>Ay but,</HI> reply'd <HI>Belviria, we are all like perfumes, and too continual smelling makes us seem to have lost our Sweets, I<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>ll be judged by my Cousin</HI> Celesia <HI>here, if it he not better to live still in mutual love, without the last Enjoy∣ment.</HI> (I had forgot to tell my Reader that <HI>Celesia</HI> was an heiress, the only child of a rich <HI>Turkey</HI> Merchant, who when he dyed left
+<PB N="9" REF="7"/>
+her fifty thousand pound in Money, and some Estate in Land; but, poor creature, she was blind to all these riches, having been born without the use of sight, though in all other respects charming to a wonder.) <HI>Indeed, says</HI> Celesia, (for she saw clearly in her mind) <HI>I admire you should ask my judgment in such a case, where I have never had the least experience; but I believe it is but a sickly soul which cannot nourish its Off-spring of desires without preying upon the body.</HI> Believe me, reply'd <HI>Frankwit,</HI> I be∣wail your want of sight, and I could almost wish you my own eyes for a moment, to view your charming Cousin, where you would see such Beauties as are too dazzling to be long beheld; and if too daringly you gazed, you would feel the misfortune of the loss of sight, much greater than the want on't; and you would acknowledge, that in too presumptuously seeing, you would be blinder then, than now unhappily you are.</P>
+<P><HI>Ah! I must confess,</HI> reply'd Belvira, <HI>my poor dear Cousin is blind, for I fancy she bears too great an esteem for</HI> Frankwit, <HI>and only longs for sight to look on him.</HI> Indeed, reply'd <HI>Celesia,</HI> I would be glad to see <HI>Frankwit,</HI> for I fancy he's as dazzling as he but now describ'd his Mistress, and if I fancy I see him, sure I do see him, for sight is fancy, is it not? or do you feel my Cousin with your Eyes? <HI>This is indeed, a charming blindness, reply'd</HI> Frankwit, <HI>and the fancy of your sight excels the certainty of ours; strange! that there should be such glances even in
+<PB N="9" REF="7"/>
+blindness? You, fair Maid, require not Eyes to conquer, if your night has such Stars, what Sun∣shine would your day of sight have, if ever you should see?</HI> I fear those Stars you talk of, said <HI>Belvira,</HI> have some influence on you, and by the compass you sail by now, I guess you are steering to my Cousin. She is in∣deed charming enough to have been another Off-spring of bright <HI>Venus,</HI> blind like her Brother <HI>Cupid. That</HI> Cupid, <HI>reply'd</HI> Celesia, <HI>I am afraid has shot me, for methinks I would not have you marry</HI> Frankwit, <HI>but rather live as you do without the least Enjoyment, for methinks if he were marry'd, he would be more out of my sight than he already is.</HI> Ah! Ma∣dam, return'd <HI>Frankwit,</HI> love is no Cameli∣on, it cannot feed on Air alone. <HI>No but, rejoyn'd</HI> Celesia, <HI>you Lovers that are not blind like love itself, have am'rous looks to feed on.</HI> Ah! believe it, said <HI>Belvira,</HI> 'tis better <HI>Frank∣wit,</HI> not to lose Paradice by too much know∣ledge; Marriage-enjoyment does but wake you from your sweet golden Dreams: Plea∣sure is but a Dream, dear <HI>Frankwit,</HI> but a Dream, and to be waken'd. <HI>Ah! Dearest, but unkind</HI> Belvira, <HI>answer'd</HI> Frankwit, <HI>sure there's no waking from delight, in being lull<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>d on those soft Breasts of thine.</HI> Alas! (reply'd the Bride to be) it is that very lulling wakes you; Women enjoy'd, are like Romances read, or Raree-shows once seen, meer tricks of the slight of hand, which, when found out, you only wonder at your selves for wondering so before at them. 'Tis expecta∣tion
+<PB N="10" REF="8"/>
+endears the blessing; heaven would not be heaven, could we tell what 'tis. When the Plot's out you have done with the Play, and when the last Act's done, you see the Curtain drawn with great indifferency. <HI>O my</HI> Belvira, <HI>answered</HI> Frankwit, <HI>that expecta∣tion were indeed a Monster which enjoyment could not satisfy; I should take no pleasure</HI> he rejoin'd, <HI>running from hill to hill, like Children chasing that Sun which I could never catch.</HI> O thou shalt have it then, that Sun of Love, reply'd <HI>Belvira,</HI> fir'd by this complaint, and gently rush'd into his arms, (rejoyning,) so <HI>Phaebus</HI> rushes radiant, and unfullied into a gilded Cloud. <HI>Well then, my dear</HI> Belvira, answer'd Frankwit, <HI>be assured I shall be ever yours, as you are mine; fear not you shall never draw Bills of love upon me so fast as I shall wait in readiness to pay them; but now I talk of Bills, I must retire into</HI> Cambridgeshire, <HI>where I have a small concern as yet unmortgaged, I will return thence with a brace of thousand pounds within a week at farthest, with which our Nuptials by their celebration shall be worthy of our love. And then, my Life, my Soul, we shall be joyn<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>d, never to part again.</HI> This tender expression mov'd <HI>Belvira</HI> to shed some few tears, and poor <HI>Celesia</HI> thought herself most unhappy that she had not eyes to weep with too; but if she had, such was the greatness of her grief, that sure she would have soon grown blind with weeping. In short, after a great many soft vows, and promises of an inviolable faith, they parted with a pompous sort of pleasing woe; their
+<PB N="11" REF="8"/>
+concern was of such a mixture of joy and sadness, as the weather seems, when it both rains and shines. And now the last, the very last of last adieu's was over, for the farewels of Lovers hardly ever end, and <HI>Frankwit</HI> (the time being Summer) reach'd <HI>Cambridge</HI> that night, about nine a clock; (strange! that he should have make such haste to fly from what so much he lov'd!) and now, tir'd with the fatigue of his Jour∣ney, he thought fit to refresh himself by writing some few lines to his belov'd <HI>Belvira</HI>; for a little Verse after the dull prose compa∣ny of his servant, was as great an ease to him, (from whom it flow'd as naturally and unartificially, as his love or his breath) as a pace or hand-gallop, after a hard, uncouth, and rugged trot. He therefore, finding his <HI>Pegasus</HI> was no way tir'd with his land travel, takes a short journey thro the air, and writes as follows.</P>
+<LETTER>
+<OPENER><SALUTE><HI>My dearest dear</HI> Belvira,</SALUTE></OPENER>
+<L>YOu knew my soul, you knew it yours be∣fore,</L>
+<L>I told it all, and now can tell no more;</L>
+<L>Your presence never wants fresh charms to move,</L>
+<L>But now more strange, and unknown pow'r you prove,</L>
+<L>For now your very absence 'tis I love.</L>
+<L>Something there is which strikes my wan∣dring view,</L>
+<L>And still before my eyes I fancy you.</L>
+<L><PB N="12" REF="9"/>Charming you seem, all charming, hea∣venly fair,</L>
+<L>Bright as a Goddess does my love appear,</L>
+<L>You seem, <HI>Belvira,</HI> what indeed you are.</L>
+<L>Like the Angelick off-spring of the skies,</L>
+<L>With beatifick glories in your eyes.</L>
+<L>Sparkling with radiant lustre all Divine,</L>
+<L>Angels, and Gods! oh heavens! how bright they shine!</L>
+<L>Are you <HI>Belvira</HI>? can I think you mine!</L>
+<L>Beyond ev'n thought, I do thy beauties see,</L>
+<L>Can such a heaven of heavens be kept for me!</L>
+<L>O be assur'd, I shall be ever true,</L>
+<L>I must —</L>
+<L>For if I would, I can't be false to you.</L>
+<L>Oh! how I wish I might no longer stay,</L>
+<L>Tho I resolve I will no time delay,</L>
+<L>One tedious week, and then I'll fleet a∣way.</L>
+<L>Tho love be blind, he shall conduct my road,</L>
+<L>Wing'd with almighty love to your abode,</L>
+<L>I'll fly, and grow immortal as a God.</L>
+<L>Short is my stay, yet my impatience strong,</L>
+<L>Short tho it is, alas! I think it long.</L>
+<L>I'll come, my life, new blessings to pursue,</L>
+<L>Love then shall fly a flight, he never flew,</L>
+<L>I'll stretch his balmy wings; I'm yours,—</L>
+<CLOSER><SIGNED>Adieu. Frankwit.</SIGNED></CLOSER>
+</LETTER>
+<P>This Letter <HI>Belvira</HI> receiv'd with unspeak∣able joy, and laid it up safely in her bosom, laid it, where the dear Author of it lay be∣fore,
+<PB N="13" REF="9"/>
+and wonderfully pleas'd with his hu∣mour of writing in Verse, resolv'd not to be at all behind-hand with him, and so writ as follows.</P>
+<LETTER>
+<OPENER><SALUTE>My dear Charmer,</SALUTE></OPENER>
+<L>YOu knew before what power your love could boast,</L>
+<L>But now your constant faith confirms me most.</L>
+<L>Absent sincerity the best assures,</L>
+<L>Love may do much, but faith much more allures,</L>
+<L>For now your constancy has bound me yours.</L>
+<L>I find, methinks, in Verse some pleasure too,</L>
+<L>I cannot want a Muse, who write to you.</L>
+<L>Ah! soon return, return, my charming dear,</L>
+<L>Heav'n knows how much we mourn your absence here:</L>
+<L>My poor <HI>Celesia</HI> now would charm your soul,</L>
+<L>Her eyes, once blind, do now divinely rowl.</L>
+<L>An aged Matron has by charms unknown,</L>
+<L>Given her clear sight as perfect as thy own.</L>
+<L>And yet, beyond her eyes, she values thee,</L>
+<L>'Tis for thy sake alone she's glad to see.</L>
+<L>She begg'd me, pray remember her to you,</L>
+<L>That is a task which now I gladly do.</L>
+<L>Gladly, since so I only recommend</L>
+<L>A dear relation, and a dearer friend,</L>
+<L>Ne're shall my love — but here my note must end.</L>
+<CLOSER><SIGNED><HI>Your ever true</HI> Belvira.</SIGNED></CLOSER>
+</LETTER>
+<P><PB N="14" REF="10"/>When this Letter was written, it was strait shown to <HI>Celesia,</HI> who lookt upon any thing that belong'd to <HI>Frankwit</HI> with re∣joycing glances; so eagerly she perus'd it, that her tender eyes beginning to water, she cry'd out, (fancying she saw the words dance before her view) Ah! Cousin, Cou∣sin, your Letter is running away, sure it can't go itself to <HI>Frankwit</HI>? A great deal of other pleasing innocent things she said, but still her eyes flow'd more bright with lu∣strous beams, as if they were to shine out; now all that glancing radiancy which had been so long kept secret, and as if, as soon as the cloud of blindness once was broke, nothing but lightnings were to flash for ever after. Thus in mutual discourse they spent their hours, while <HI>Frankwit</HI> was now ravished with the receipt of this charm∣ing answer of <HI>Belvira</HI>'s, and blest his own eyes which discovered to him the much welcome news of fair <HI>Celesia</HI>'s. Often he reads the Letter o're and o're, but there his fate lay hid, for 'twas that very fondness proved his ruin. He lodg'd at a Cousin's House of his, and there, (it being a private family) lodged likewise a Blackamoor Lady, then a Widow; a whimsical Knight had taken a fancy to enjoy her; <HI>enjoy her did I say? enjoy the Devil in the flesh at once</HI>? I know not how it was, but he would fain have been a bed with her, but she not consenting on unlawful terms, <HI>(but sure all terms are with her unlawful)</HI> the Knight soon marry'd her,
+<PB N="15" REF="10"/>
+as if there were not hell enough in Matri∣mony, but he must wed the Devil too. The Knight a little after died, and left this Lady of his (whom I shall call <HI>Moorea</HI>) an Estate of six thousand pounds <HI>per Ann.</HI> Now this <HI>Moorea</HI> observed the joyous <HI>Frankwit</HI> with an eager look, her Eyes seemed like Stars of the first magnitude glaring in the night; she greatly importuned him to discover the oc∣casion of his transport, but he denying it, (as 'tis the humour of our Sex) made her the more inquisitive; and being jealous that it was from a Mistress, employ'd her Maid to steal it, and if she found it such to bring it her; accordingly it succeeded, for <HI>Frankwit</HI> having drank hard with some of the Gen∣tlemen of that Shire, found himself indis∣posed, and soon went to Bed, having put the Letter in his pocket: The Maid there∣fore to <HI>Moorea</HI> contrived that all the other Servants should be out of the way, that she might plausibly officiate in the warming the bed of the indisposed Lover, but likely, had it not been so, she had warmed it by his in∣treaties in a more natural manner; he be∣ing in bed in an inner Room, she slips out the Letter from his pocket, carries it to her Mistress to read, and so restores it whence she had it; in the morning the poor Lover wakened in a violent Fever, burning with a fire more hot than that of Love. In short, he continued sick a considerable while, all which time the Lady <HI>Moorea</HI> constantly visit∣ed him, and he as unwillingly saw her (poor
+<PB N="14" REF="11"/>
+Gentleman) as he would have seen a Par∣son; for as the latter would have per∣swaded, so the former scared him to Re∣pentance. In the mean while, during his sickness, several Letters were sent to him by his Dear <HI>Belvira,</HI> and <HI>Celesia</HI> too, (then learning to write) had made a shift to give him a line or two in Postscript with her Cousin, but all was intercepted by the jea∣lousy of the Black <HI>Moorea,</HI> black in her mind, and dark, as well as in her body. <HI>Frankwit</HI> too writ several Letters as he was able, com∣plaining of her unkindness, those likewise were all stopt by the same Blackmoor Devil. At last, it happened that <HI>Wildvill,</HI> (who I told my Reader was <HI>Frankwit</HI>'s friend) came to <HI>London,</HI> his Father likewise dead, and now Master of a very plentiful fortune, he re∣solves to marry, and paying a visit to <HI>Belvi∣ra,</HI> enquires of her, concerning <HI>Frankwit,</HI> she all in mourning for the loss, told him his friend was dead. Ah! <HI>Wildvill,</HI> he is dead, said she, and died not mine, a Blackmoor Lady had bewitched him from me; I receiv∣ed a Letter lately which informed me all▪ there was no name subscribed to it, but it intimated, that it was written at the request of dying <HI>Frankwit.</HI> Oh! I am sorry at my soul, said <HI>Wildvill,</HI> for I loved him with the best, the dearest friendship; no doubt then, rejoyned he, 'tis Witchcraft indeed that could make him false to you; what delight could he take in a Blackmoor Lady, tho she had re∣ceived him at once with a soul as open as
+<PB N="15" REF="11"/>
+her longing arms, and with her Petticoat put off her modesty. Gods! How could he change a whole <HI>Field argent</HI> into down∣right <HI>Sables.</HI> 'Twas done, returned <HI>Celesia,</HI> with no small blot, I fancy to the Female Scutcheon. In short, after some more dis∣course, but very sorrowful, <HI>Wildvill</HI> takes his leave, extreamly taken with the fair <HI>Bel∣vira,</HI> more beauteous in her cloud of woe; he paid her afterwards frequent visits, and found her wonder for the odd inconstancy of <HI>Frankwit,</HI> greater than her sorrow, since he dy'd so unworthy of her. <HI>Wildvill</HI> at∣tack'd her with all the force of vig'rous love, and she (as she thought) fully convinc'd of <HI>Frankwit</HI>'s death, urg'd by the fury and im∣patience of her new ardent Lover, soon surrender'd, and the day of their Nuptials now arriv'd, their hands were joyn'd. In the mean time <HI>Frankwit,</HI> (for he still liv'd) knew nothing of the injury the base <HI>Moorea</HI> practic'd, knew not that 'twas thro her pri∣vate order, that the fore-mention'd account of his falshood and his death was sent; but impatient to see his Dear <HI>Bolvira,</HI> tho yet extremely weak, rid post to <HI>London,</HI> and that very day arriv'd there, immediately after the Nuptials of his Mistress and his Friend were celebrated. I was at this time in <HI>Cambridge,</HI> and having some small ac∣quaintance with this Blackamoor Lady, and sitting in her Room that evening, after <HI>Frankwit</HI>'s departure thence, in <HI>Moorea</HI>'s ab∣sence, saw inadvertently a bundle of Papers,
+<PB N="16" REF="12"/>
+which she had gathered up, as I suppose, to burn, since now they grew but useless, she having no further hopes of him; I fancy'd I knew the hand, and thence my curiosity only led me to see the name, and finding <HI>Belvira</HI> subscrib'd, I began to guess there was some foul play in hand, <HI>Belvira</HI> being my particularly intimate acquaintance: I read one of them, and finding the contents, convey'd them all secretly out with me, as I thought, in point of justice I was bound, and sent them to <HI>Belvira</HI> by that night's Post; so that they came to her hands soon after the minute of her Marriage, with an ac∣count how, and by what means I came to light on them. No doubt but they exceed∣ingly surpriz'd her: but Oh! Much more she grew amaz'd immediately after, to see the poor, and now unhappy <HI>Frankwit</HI>▪ who privately had enquir'd for her below, being received as a stranger, who said he had some urgent business with her in a back Chamber below stairs. What Tongue, what Pen can express the mournful sorrow of this Scene: At first they both stood dumb, and almost senseless; she took him for the Ghost of <HI>Frankwit</HI>; he looked so pale, new risen from his sickness, he (for he had heard at his entrance in the House, that his <HI>Belvira</HI> mar∣ry'd <HI>Wildvil</HI>) stood in a maze, and like a Ghost indeed, wanted the power to speak, till spoken to the first. At last, he draws his Sword, designing there to fall upon it in her presence; she then imagining it his
+<PB N="17" REF="12"/>
+Ghost too sure, and come to kill her, shrieks out and swoons; he ran immediately to her, and catch'd her in his arms, and while he strove to revive and bring her to herself, tho that he thought could never now be done, since she was marry'd, <HI>Wildvill</HI> mis∣sing his Bride, and hearing the loud shriek, came running down, and entring the Room, sees his Bride lye claspt in <HI>Frankwit</HI>'s arms, Ha! Traytor! He crys out, drawing his Sword with an impatient fury, have you kept that Strumpet all this while, curst <HI>Frank∣wit,</HI> and now think fit to put your damn'd cast Mistress upon me; could not you for∣bear her neither ev'n on my wedding day? Abominable Wretch! Thus saying, he made awfull pass at <HI>Frankwit,</HI> and run him thro the left arm, and quite thro the Body of the poor <HI>Belvira</HI>; that thrust immediately made her start, tho <HI>Frankwit</HI>'s endeavours all be∣fore were useless. Strange! that her death reviv'd her! for ah! she felt that now she only liv'd to dye! striving thro wild amaze∣ment to run from such a Scene of horror, as her apprehensions-shew'd her; down she dropt, and <HI>Frankwit</HI> seeing her fall, (all friendship disannull'd by such a chain of in∣juries) draws, fights with, and stabs his own lov'd <HI>Wildvill.</HI> Ah! who can express the horror and distraction of this fatal misunder∣standing! the House was alarm'd, and in came poor <HI>Celesia,</HI> running in confusion just as <HI>Frankwit</HI> was off'ring to kill himself, to dye with a false friend, and perjur'd Mistress,
+<PB N="18" REF="13"/>
+for he suppos'd them such. Poor <HI>Celesia</HI> now bemoan'd her unhappiness of sight, and wish'd she again were blind. <HI>Wildvill</HI> dy'd immediately, and <HI>Belvira</HI> only surviv'd him long enough to unfold all their most unhap∣py fate, desiring <HI>Frankwit</HI> with her dying breath, if ever he lov'd her, (and now she said that she deserv'd his love, since she had convinc'd him that she was not false) to marry her poor dear <HI>Celesia,</HI> and love her tenderly for her <HI>Belvira</HI>'s sake; leaving her, being her nearest Relation, all her fortune, and he, much dearer than it all, to be added to her own; so joyning his and <HI>Celesia</HI>'s Hands, she pour'd her last breath upon his Lips, and said, Dear <HI>Frankwit, Frankwit,</HI> I dye yours. With tears and wondrous sorrow he promis'd to obey her Will, and in some months after her interrment, he perform'd his promise.</P>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="13"/>
+<PB N="18" REF="14"/>
+<GAP DESC="duplicate" EXTENT="1 page" DISP="〈1 page duplicate〉"/>
+<PB REF="14"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">Mercvrivs Aqvaticvs, or, The vvater-poets ansvver to all that hath or shall be writ by Mercvrivs Britanicvs</TITLE><AUTHOR>Taylor, John, 1580-1653.</AUTHOR></TITLESTMT><EXTENT>Approx. 48 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2003-11 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A64181</IDNO>
+
+
+<IDNO TYPE="stc">Wing T481</IDNO>
+
+<IDNO TYPE="stc">ESTC R8378</IDNO>
+
+<IDNO TYPE="eebo citation">11981970</IDNO>
+
+<IDNO TYPE="oclc">ocm 11981970</IDNO>
+
+<IDNO TYPE="vid">51873</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A64181)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 51873)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 233:E29, no 11)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">Mercvrivs Aqvaticvs, or, The vvater-poets ansvver to all that hath or shall be writ by Mercvrivs Britanicvs</TITLE><AUTHOR>Taylor, John, 1580-1653.</AUTHOR></TITLESTMT><EXTENT>[4], 121-126, [12] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>[Oxford] :</PUBPLACE>
+<PUBLISHER>Printed in the waine of the moone pag. 121, and number 16, of Mercurius Britanicus,</PUBLISHER>
+<DATE>1643.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Reprint of Mercurius Britannicus, no. 16, Dec. 7-14, 1643, p. 121-126, that Taylor half parodies, half satirizes, piece by piece.</NOTE><NOTE>Wing gives imprint as 1644.</NOTE><NOTE>Reproduction of original in Thomason Collection, British Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Great Britain --  History --  Civil War, 1642-1649.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2000-00</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2001-07</DATE><RESPSTMT><RESP>Apex CoVantage</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2001-08</DATE><RESPSTMT><RESP>TCP Staff (Michigan)</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2001-10</DATE><RESPSTMT><RESP>TCP Staff (Michigan)</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2001-11</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A64181">
+<STC T="W">T481</STC>
+<BIBNO T="oclc">11981970</BIBNO>
+<VID>51873</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y"/>
+<P>MERCVRIVS AQVATICVS, OR, THE VVATER-POETS ANSVVER TO ALL THAT hath or shall be Writ by MERCVRIVS BRITANICVS.</P>
+<P>Ex omni ligno non fit MERCURIUS.</P>
+<P>Printed in the Waine of the Moone <HI>Pag.</HI> 121, <HI>and Number</HI> 16, <HI>of</HI> Mercurius Britanicus. 1643.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="part">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>MERCVRIVS AQVATICVS Confuting the Fooleries of BRITANICUS.</HEAD>
+<P>BE it known to all People to whom these presents shall come, that I <HI>Thorny Aylo</HI> Water-Poet Laureat (if my place be not sequestred for the use of <HI>Tho. May</HI> for his Poeticall relation of his Excellencies Victory at <HI>Newbury,</HI> and more Po∣eticall interpretation of TOUCH NOT MINE ANOYNTED) whose <HI>Pegasus</HI> was a Wherry, and whose <HI>Heli∣con</HI> the <HI>Thames,</HI> till all Wit and Honesty were banished out of <HI>London,</HI> except what lies <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> in the Close-Committee) doe resolve once and but once to take into little consideration, one that calls himselfe by the high and mighty title of <HI>Mercurius Britanicus,</HI> who by Order of the House is made Receiver Gene∣rall of all Quibbles, Crops, Clinches, Puns, Halfe-jests, jests, fine sentences, witty-sayings, rare truths, modest and dutifull ex∣pressions that are to be found within the Line of Communication, to the utter undoing of poor <HI>Mercurius Aulicus,</HI> did not such a doughty Squire as my selfe daigne to take up that Paper which <HI>Aulicus</HI> scorns to touch for feare of fouling his fingers.) And though I count the employment more fit for some Scavinger or <HI>Gregory,</HI> then my selfe, yet that the City may no longer worship a Calfe (set up since the demolishing of <HI>Cheap∣side-crosse</HI>) and that the Abettors of such horrible empty Li∣bells, may see that <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> is not safe witt. I shall for once
+<PB REF="3"/>
+undertake him. And because I have as little skill in Iudi∣ciall Astrology as <HI>Booker,</HI> I have calculated his Nativity, and find the <HI>Moon</HI> (not <HI>Mercury</HI>) Lord of the Ascendent. This makes the poor mans cold, thin, waterish Braine so subject to ebbs and flowes, which enclines him to <HI>Moon-fits,</HI> and <HI>Lunacy.</HI> This makes him to rave and snap, to fome at Mouth, and drivell like a mad dogge. And therefore because I have some skill in Medicines (though I cannot cure the <HI>Lowsy disease</HI>) I shall venture to cure his biting with a piece of his own Liver. But be∣cause he admires his own language (having a very <HI>Vnhappy</HI> Wit) he shall receive his answer in That, the Persons and Scene only altered for my little Wit-cracker.</P>
+<Q><HI>Mutato nomine de Te Fabula.</HI></Q>
+<P>You see I have gathered some scraps of Latin since I came to the Vniversity; if it please the City, they may petition that the Synod may be sent hither to learne some also. And now <HI>rum∣pantur ut ilia Codro,</HI> here enters Mr <HI>Rhombus Britanicus,</HI> chiefe Pedagogue to all the Puisney Newes-mongers, from the A. B. C. <HI>three daies Informer,</HI> to the Lyar of the first forme, <HI>the Scottish Dove,</HI> his face of late more plump and ruddy since imployment, but his haire somewhat shorter, his skull (or place where his Braines should be) covered with halfe a dozen Night-caps; to keepe it from adling this <HI>Winter</HI> (how now man? if Sir <HI>Iohn</HI> left <HI>Winter</HI> at <HI>Glocester,</HI> who has left it at <HI>London,</HI> there is a true Iest now, but just of thy straine.) Over this a long crown'd Hat (the last Legacy of a Lay elder of <HI>Amsterdam</HI>) a <HI>Geneva</HI> band, Dub∣let and Hose, out of the <HI>Wardrobe for Ireland,</HI> which by a mistake and contrary winde, was since carried into <HI>New England;</HI> his Gowne well lined Checquee, with <HI>Fox</HI> and <HI>Seale</HI> skin, and if after you have heard his Tale, and <HI>Aquaticus's</HI> Answer, you find no wit in either, then laugh at <HI>Britanicus</HI> that is such a dull piece to work on. See here he comes, just as he came from <HI>London.</HI></P>
+</DIV1>
+<DIV1 TYPE="part">
+<PB N="121" REF="3"/>
+<HEAD><HI>Mercurius Britanicus:</HI> Communicating the affairs of Great BRITAINE: For the better information of the people.</HEAD>
+<HEAD>Numb. 16.</HEAD>
+<HEAD>From <HI>Thursday</HI> the 7 of <HI>Decem.</HI> to <HI>Thursday</HI> the 14. <HI>Decemb.</HI> 1643.</HEAD>
+<DIV2 N="1" TYPE="section">
+<P><NOTE PLACE="marg">§. 1. The ingre∣dients where∣of Mercurius Aulicus is composed.</NOTE>THough I thought it beneath my pen to <HI>dip</HI> into the <HI>lies,</HI> and follies, and Calumnies of such an <HI>Oxford Pamphlet,</HI> yet because I was infor∣med it was not the Act of one, but many: <HI>viz. Derkenhead</HI> the Scribe, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> <HI>Nicholas</HI> the Informer, <HI>George Digby</HI> the contriver, and an <HI>assessement</HI> of Wits is laid upon every <HI>Colledge,</HI> and paid weekly for the continuation of this thing called <HI>Mercurius Aulicus,</HI> upon these considera∣tions, and to <HI>vindicate</HI> the Honour of a Parliament, I tooke my pen, I have discovered the <HI>Lies, forgeries, insolencies, impieties, prophanations, blasphe∣mies, Popery</HI> of the two sheets, and now I have done; and you most excel∣lent <HI>Senators,</HI> that you may see how justly I replyed, and how unjustly ye are calumniated, I have summed up his last abused printed at <HI>Oxford,</HI> formerly an Vniversity, now a Garrison of Popery, His Majesties own Royall Court for the recreation of their Nobility, and Gentry, and Clergy, and other Liege People.</P>
+</DIV2>
+<DIV2 N="2" TYPE="section">
+<LIST>
+<HEAD><NOTE PLACE="marg">§ 2. A Catalogue, &amp;c.</NOTE>A Catalogue of the Abuses, Reproaches, and Calumnies; against this present Parliament, this last week in the first sheet.</HEAD>
+<ITEM>1. Rebells at Westminster.</ITEM>
+<ITEM>2. Pretended houses.</ITEM>
+<ITEM>3. East-Indian Legislatours.</ITEM>
+<ITEM>4. Turkes.</ITEM>
+<ITEM>5. Pretended Houses.</ITEM>
+<ITEM>6. Pretended Houses.</ITEM>
+<ITEM>7. A groundlesse horrid Rebellion.</ITEM>
+<ITEM>8. The Frauds and Pretences of the Rebells at Westminster.</ITEM>
+<ITEM>9. Their bloudy League at London.</ITEM>
+<ITEM>10. Forswearers of all peace.</ITEM>
+<ITEM>11. Faction.</ITEM>
+<ITEM>12. Rebells.</ITEM>
+<ITEM>13. Rebells.</ITEM>
+<ITEM>14. Rebels.</ITEM>
+<ITEM>15. Rebels.</ITEM>
+<ITEM>16. Rebels in England.</ITEM>
+<ITEM>17. Brownists.</ITEM>
+<ITEM>18. Anabaptists.</ITEM>
+<ITEM>19. An Order of the House to the eternall shame of the Rebels at VVestminster.</ITEM>
+<ITEM>20. Pretended House of Commons.</ITEM>
+<ITEM>21. Pretended Houses.</ITEM>
+<ITEM>22. The pretended two Houses.</ITEM>
+<ITEM>23. The Faction.</ITEM>
+<ITEM>24. The Rebels at VVestminster.</ITEM>
+<ITEM>25. Faction and Pretended Houses.</ITEM>
+</LIST>
+</DIV2>
+<DIV2 N="3" TYPE="section">
+<P><PB N="122" REF="4"/><NOTE PLACE="marg">§. 3.</NOTE>Reader this is a just account of the first shect of that idle, scurrilous, ridicu∣lous, treasonable, insolent Pamphlet, do you thinke this is written in <HI>defence</HI> of the priviledges of Parliament? Are not here a reasonable company of <HI>abuses</HI> to be in the <HI>Preamble</HI> of the Pamphlet? What will these act abroad amongst a <HI>credulous</HI> and <HI>seduced people,</HI> especially so religiously, and devoutly begun upon <HI>Sundayes,</HI> but I cannot stirre till I Petition his Majestie.</P>
+</DIV2>
+<DIV2 N="4" TYPE="section">
+<HEAD><NOTE PLACE="marg">§. 4. Britanicus Petition to the King.</NOTE>The Humble Petition of <HI>Britanicus</HI> to his Majestie.</HEAD>
+<P><HI>MAy it please your Majestie, after so much</HI> bloodshed <HI>of your owne Sub∣jects, after so many</HI> plundrings by <HI>your Royall Nephewes, be pleased to remember your</HI> <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> <HI>and</HI> <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> <HI>of your care and respect to your</HI> two Houses, <HI>that they should be as dear to you, as your</HI> honour <HI>and</HI> <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, <HI>be pleased to <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> you called them your</HI> Parliament <HI>in your late</HI> Treaty, <HI>and now there is</HI> a Pamphlet, <HI>a thing, a <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> of sheets, a</HI> Mercurius Aulicus, <HI>abuses, rails, miscalls your Majesties Supreame Court, and your <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> too, in your</HI> politicall <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>: <HI>I beseech your Majesty if those</HI> Declarations <HI>or</HI> Protestati∣ons <HI>were of your Majesties own making, remember them and your</HI> Royall ob∣ligations, <HI>if not,</HI><Q>Your Petitioners shall ever pray, &amp;c.</Q></P>
+</DIV2>
+<DIV2 N="5" TYPE="section">
+<P><NOTE PLACE="marg">§. 5. Small <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> to obtaine his Petition, and <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> reason.</NOTE>This is my Petition to his <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, but there are so many <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> Counsellers</HI> about him, I despaire of prevailing, when his <HI>great Councell</HI> the Parliament cannot be heard; nay now when <HI>Davis</HI> the Barbar is turnd <HI>privy Councellor</HI> too, I never look to see his Majestie trimmed hereafter for the <HI>Protestant Reli∣gion,</HI> for I am informed that fellow shaves with <HI>Popish Rasors,</HI> and cuts with <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> Sissars,</HI> and washes in <HI>holy water,</HI> there are diverse bottles come <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> to the Court sent from his holinesse own Barbour.</P>
+</DIV2>
+<DIV2 N="6" TYPE="section">
+<P><NOTE PLACE="marg">§. 6. The power that is given to the East∣Indian Mer∣chants.</NOTE><HI>Aulicus</HI> tells us, that the Parliament hath given power to the <HI>East-Indian. Merchants</HI> to impose new Laws; <HI>Aulicus,</HI> is not this a more precious Act to keep up Trading, then to plunder it, and to give power for Laws, then to take away all power and Laws too, as your Party, in all places they come, do; nor do they give power to them to <HI>impose Laws,</HI> but to contrive and suggest, as no Councell, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> estate in the world but will take hints at Inferiours, especially those that are <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/></HI> and <HI>knowing men;</HI> but I must tell you, that the Mer∣chants, though they trade in <HI>East India,</HI> yet their Factors say that the <HI>Indians</HI> are better to trade with, and converse with, then your <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>,</HI> and have lesse Barbarisme and inhumanity.</P>
+</DIV2>
+<DIV2 N="7" TYPE="section">
+<P><NOTE PLACE="marg">§. 7. Assembly to write to For∣raign States.</NOTE>He tells us of the Parliament that <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> <HI>ordered</HI> the <HI>Assembly</HI> to write <HI>Letters</HI> to stirre up the <HI>Netherlands,</HI> and other parts in the <HI>Cause: Aulicus</HI> it is time I thinke, had they not need to write to <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> States,</HI> and all the <HI>Reformed Churches,</HI> when you at <HI>Oxford</HI> have sent your <HI>Mendicant Epistles</HI> to the Pope and <HI>Cardinall,</HI> and are at this time electing <HI>Doctor Cousins</HI> <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>-flamen</HI> to go a pilgrimage to the <HI>Monasteries,</HI> and <HI>Priories,</HI> and <HI>Popish States</HI> for their assistance and <HI>Contributions,</HI> you have sent old <HI>Goring</HI> the <HI>Publican</HI> into <HI>Hol∣land,</HI>
+<PB N="123" REF="4"/>
+and so to <HI>France,</HI> he is excellent at an <HI>Ambassage</HI> of Monopolizing, and a very worthy Patriot at a Project of soape or Salt-peeter.</P>
+</DIV2>
+<DIV2 N="8" TYPE="section">
+<P><NOTE PLACE="marg">§. 8. Lord Ormonds VVarrants.</NOTE>He tels us of the Lord of <HI>Ormonds</HI> Warrants for transporting the Regi∣ment: Reader this is <HI>Ormond</HI> the Apostate, who was hired from the Parlia∣ment and Protestant Cause with the title of a <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>,</HI> this is he that fought very well, till he got his Iewell, and for the other Diamond the Parliament might have bought him againe.</P>
+</DIV2>
+<DIV2 N="9" TYPE="section">
+<P><NOTE PLACE="marg">§. 9. Ormonds oath to them that come over.</NOTE>He tells us of the <HI>oath</HI> that <HI>Ormond administers</HI> to all that comes over; <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> you must know that is the <HI>old pollicie</HI> still, to sweare them for the <HI>Protestant Religion;</HI> and it is resolved on at the Cabinet or <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/></HI> in the Queenes Closet, that <HI>Popery</HI> be not named yet, till the Protestants be a little more cut of their wits, which they hope will be soone effected by <HI>companying together,</HI> and ha∣ving Churches together, and by bringing the Masse and the Common-prayer a little better acquainted, but the oath begins.</P>
+</DIV2>
+<DIV2 N="10" TYPE="section">
+<P><NOTE PLACE="marg">§. 10. The oath.</NOTE>I. A. B. <HI>resting fully assured; viz.</HI> (that his Majestie will ruine his King∣dome of Ireland and England with running these courses) <HI>I will <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> the true Protestant Religion established in the Church of England, viz</HI> (in <HI>York</HI> Minister, or Saint <HI>Maries</HI> in <HI>Oxford,</HI> or any such reformed <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> all:) <HI>against all the Forces now under the conduct of the Earle of Essex: viz.</HI> (because they fight for the Protestant Religion, and Laws, and Liberties:) <HI>and I will do my utmost to procure the Peace and quietnesse of the Kingdome of England: viz.</HI> (by <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> obbing, fighting, pillaging, and plundering, killing, and destroying)</P>
+</DIV2>
+<DIV2 N="11" TYPE="section">
+<P><NOTE PLACE="marg">§. 11. One of Auli∣cus his victo∣ries.</NOTE>He tells us of a <HI>Victory</HI> they had upon us at <HI>Stafford:</HI> and Reader, it was thus; they had two Troopes to charge us, and we took the most of them: and yet <HI>Aulicus</HI> has the conceit they had the day, and we their men and horses; I know not how to distinguish upon dayes and victories, but I think it is not usuall to conquer, and be routed both at a time, but this is not the first victory they have given thanks for, witnesse <HI>Edgehill</HI> and <HI>Newbury,</HI> two places in which they were soundly beaten into a day of thanksgiving.</P>
+</DIV2>
+<DIV2 N="12" TYPE="section">
+<P><NOTE PLACE="marg">§. 12. Sir VVilliam Breretons Letter.</NOTE>He tells us of Sir <HI>William Breretons</HI> Letter to the Irish Commanders to leave fighting, and expounds every line ofit as he did a Chapter in the <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>,</HI> where he took his Text it seems last Sunday in <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> sorenoon, and expoun∣ded Sir <HI>William Breretons Epistle</HI> in the afternoone, and so he divided the Sabbath.</P>
+<P>He tels us of the Letter which the Irish Commanders returned to Sir <HI>Williams.</HI></P>
+</DIV2>
+<DIV2 N="13" TYPE="section">
+<P><NOTE PLACE="marg">§. 13. The Answer to Sir VVilli∣ams Letter.</NOTE><HI>Gentlemen we were not engaged to the service of Ireland otherwise then by the Kings Commission:</HI> no, did you fight neither for God, nor your Countrey? <HI>the service we have done;</HI> in leaving the Kingdome of Ireland to the mercilesle bloudy Rebels, and making a base, dishonourable, and irreligious Peace: <HI>envy it selfe dares not extenuate,</HI> why do you threaten her? it is pitty such deserving Gentlemen were not landed in a richer Teritory then Wales: <HI>and though we are very sensible,</HI> of the good plunder in England, and of every thing but Po∣pery: <HI>how worthily we have carried our selves,</HI> in comming <GAP DESC="illegible" RESP="apex" EXTENT="2 words" DISP="〈◊◊〉"/> from fighting
+<PB N="124" REF="5"/>
+against the <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> in Ireland, to fight for them in England: <HI>by your preteneded Parliament,</HI> a very old title; <HI>Aulicus</HI> taught you <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> <HI>yet we are not returned hi∣ther without his Majesties speciall Commission:</HI> we are more sorry to heare his Majesty hath such a hand in it, you doe well to confesse the truth: <HI>If you have the like Commission <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> the King:</HI> no, we should be sorry we had, nor could we ever get so near him for evill Counsellors, that have stood in the way: <HI>we shall Treat with you:</HI> you are good at <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, you came lately from a bloody pa∣cification in Ireland, and the drops of so much innocent bloud sticks upon your cloathes yet, <HI>otherwise you must give us leave:</HI> What to doe, to murder his Ma∣jesties Subjects, to bring in Popery and <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> <HI>to carry our selves like <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> and Loyall Subjects,</HI> in killing and plundring</P>
+<LIST>
+<ITEM>Michael Earnele, Francis Butler.</ITEM>
+<ITEM>Richard Gibson, Edward Hamond.</ITEM>
+<ITEM>George <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>.</ITEM>
+</LIST>
+<P>These are the <HI>names,</HI> if any man can charge them with more then I have done.</P>
+</DIV2>
+<DIV2 N="14" TYPE="section">
+<P><NOTE PLACE="marg">§. 14.</NOTE><HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>,</HI> if I say no more to thee at this time, thank the <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/></HI> of Master <HI>Pym.</HI></P>
+</DIV2>
+<DIV2 N="15" TYPE="section">
+<HEAD><NOTE PLACE="marg">§. 15. Glocester newes.</NOTE>The Intelligence.</HEAD>
+<P>I Shall begin at <HI>Glocester</HI> with news, that very place where Colonell <HI>Massey</HI> <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> against the whole Army, against all their shot, and oathes, and execrations, that very place where his Excellency arrived with no lesse honour then he returned, it being <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> a question, whether of his Lawrels were the best, that of <HI>Glocester,</HI> or that of <HI>Newbury:</HI> Not farre from this City, at <HI>Newnam,</HI> Colonell Sir <HI>Iohn Winter</HI> would needs set up a new Government, and had some Forces from the Lord <HI>Herbert,</HI> as many as he could well spare, to be bea∣ten at one time; but Colonell <HI>Massey,</HI> I meane that same Colonell that was attended by his Majesties Army so long, went with a Party from his Garrison, and dissolved Sir <HI>Iohn Winters</HI> Government, and dis-garrisoned his Army Royal, and his plundered cattell, so as they all run away, crying, all was lost, after Sir <HI>Iohns</HI> owne example: but I conjecture the cause was, for that Colonel <HI>Winter</HI> was of too cold a constitution for Colonell <HI>Masseys</HI> hot Alarme: but that which is strangest in that defeat, Sir <HI>Iohn</HI> run away, and yet left <HI>Winter</HI> behinde him.</P>
+<P>I should tel you more Intelligence, but I am not able at this time to write beyond Master <HI>Pym,</HI> and this <HI>Elegie</HI> I shal sacrifice to his Hearse.</P>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="elegy">
+<PB N="125" REF="5"/>
+<HEAD>An <HI>Elegie</HI> on Master <HI>Pym.</HI></HEAD>
+<L>NO immature or sullen Fate</L>
+<L>Did his immortall soul translate,</L>
+<L>He passed <HI>gravely</HI> hence even</L>
+<L>Kept the old pace, from <HI>earth</HI> to <HI>heaven;</HI></L>
+<L>He had a <HI>soule</HI> did alwaies stand</L>
+<L>Open for <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>,</HI> like his <HI>hand,</HI></L>
+<L>He took in so much, I could call</L>
+<L><HI>Him more</HI> then individuall,</L>
+<L>And so much <HI>businesse</HI> waited by,</L>
+<L>Would scarcely give <HI>him</HI> leave to <HI>dye;</HI></L>
+<L>He knew the <HI>bounds,</HI> and every thing</L>
+<L>Betwixt the people and the <HI>King;</HI></L>
+<L>He could the just <HI>Proportions</HI> draw</L>
+<L>Betwixt <HI>Prerogative</HI> and <HI>Law;</HI></L>
+<L>He liv'd a <HI>Patriot</HI> here so late,</L>
+<L>He knew each syllable of <HI>State,</HI></L>
+<L>That had our <HI>Charters</HI> all been gone,</L>
+<L>In <HI>him</HI> we had them every one;</L>
+<L>He durst be <HI>good,</HI> and at that time</L>
+<L>When <HI>innocence</HI> was halfe a <HI>crime;</HI></L>
+<L>He had seen death before he went,</L>
+<L>Once had it as a <HI>token</HI> sent:</L>
+<L>He surfeted on <HI>State affaires,</HI></L>
+<L>Di'd on a <HI>Plurisie</HI> of <HI>cares,</HI></L>
+<L>Nor doth he now his <HI>mourners</HI> lacke,</L>
+<L>We have few <HI>soules</HI> but go in black,</L>
+<L><PB N="126" REF="6"/>And for his sake have novv put on</L>
+<L>A <HI>solemne</HI> Meditation.</L>
+<L><HI>Teares</HI> are too narrovv <HI>drops</HI> for him,</L>
+<L>And <HI>private</HI> sighes, too <HI>strait</HI> for <HI>Pym;</HI></L>
+<L>None can compleatly <HI>Pym</HI> lament,</L>
+<L>But <HI>something</HI> like a <HI>Parliament,</HI></L>
+<L>The <HI>publike sorrow</HI> of a State,</L>
+<L>Is but a griefe <HI>commensurate,</HI></L>
+<L>We must <HI>enacted passions</HI> have,</L>
+<L>And <HI>Lawes</HI> for vveeping at his grave.</L>
+</DIV1>
+<DIV1 TYPE="imprint">
+<P>Printed according to Order, for <HI>G. B.</HI> and <HI>R. W.</HI></P>
+</DIV1>
+<DIV1 TYPE="part">
+<PB REF="6"/>
+<HEAD>Mercurius Aquaticus his Answer to <HI>BRITANICUS.</HI></HEAD>
+<DIV2 N="1" TYPE="section">
+<P><NOTE PLACE="marg">§. 1.</NOTE><HI>Though I thought it beneath my penne to dip into the lies, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, and Calumnies of such a foolish</HI> London <HI>pamphlet, yet be∣cause I was informed, it was <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> the <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> of one but many,</HI> which for a while made mee think this monster-piece of vanitie was the abortive issue of Mr <HI>Saltmarsh the Scribe,</HI> 'till I remembred he had spent more then all his own Wit upon his <HI>Epigram∣matasacra:</HI> the <HI>Close-Committy the Informer,</HI> till I considered that it stood not with the Policy of their State, that they should informe any but the Close-Committee of thē Common-coun∣cell, that should inform Captain <HI>Ven,</HI> that should inform the Prentises and Butchers when 'twas fit to make a tumult at <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>,</HI> and the Brownists when at <HI>Westminster,</HI> and also the Woe∣men and Schoole-boyes to petition against Popery &amp; evill Coun∣sellors; <HI>Tom May the Contriver</HI> and chiefe Engineer, but that I thought he was better at Translation then Invention) and e∣specially because I heard <HI>an assessement of <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> was laid upon the</HI> Synod, <HI>and every</HI> Lecturer, and private conventicler, from Mr <HI>Marshall</HI> at <HI>Margarets</HI> to <HI>Green</HI> the Feltmaker in the Tub, <HI>and paid wéekly for the continuation of this thing called <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/></HI> Britanicus, <HI>upon these considerations, and not to vindicate</HI> Aulicus, (who is only unhappy in that he must weekly write to
+<PB REF="7"/>
+their capacity who have no more Brains then <HI>Britanicus</HI>) I re∣solved to <HI>take <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> Pen, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> discover the</HI> Fooleries, <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>,</HI> Brow∣nism, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> <HI>of the one sheet; and now I have done, and you most worthy</HI> Patriots and Noble <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, whose valour and loyalty <HI>are the constant <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> of</HI> Aulicus, <HI>that you may see how <GAP DESC="illegible" RESP="apex" EXTENT="2 words" DISP="〈◊◊〉"/> reply, and how uniustly you and Anlicus are calumnia∣ted, I have summed</HI> <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> <HI>last <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> abuses, painted at</HI> <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> (<GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> a scene of Loyalty, and never tainted till now <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> was betraid into a Garrison of <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> and tame Citizens, that are their own Masters and their own Slaves) wherein once <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> <HI><GAP DESC="illegible" RESP="apex" EXTENT="3 words" DISP="〈◊◊◊〉"/></HI> Palace, al waies open for the free <GAP DESC="illegible" RESP="apex" EXTENT="2 words" DISP="〈◊◊〉"/> all Petitioners, and His Great Councell of <HI><GAP DESC="illegible" RESP="apex" EXTENT="2 words" DISP="〈◊◊〉"/>, and <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>,</HI> and a safe harbour for <HI>His Liege People,</HI> <GAP DESC="illegible" RESP="apex" EXTENT="2 words" DISP="〈◊◊〉"/> of Coblers and Prentises, prodigious <HI>Covenants,</HI> and <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> of Taxes for the propagation of Rebellion, forced all Ho∣nest <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> thence.</P>
+</DIV2>
+<DIV2 N="2" TYPE="section">
+<P><NOTE PLACE="marg">§. 2.</NOTE><HI>A catalogue of the abuses, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, calumnies,</HI> traitereous and Rebellious <HI>speeches against</HI> His sacred Majesty, the Nobili∣ly, Gentry, and other Liege People <HI>this last Week,</HI> by which 'tis evident the Authors (for they stile themselves <HI>your Petitio∣ners,</HI> pa. 122) are rather a <HI>lunto</HI> of <HI>Belins-gate Oyster wives,</HI> (whose daughters write short hand, and frequent M. <HI>Calamy, Case, Peeters,</HI> to furnish out the rayling Conventicle with san∣ctfied Blasphemies, Treasons, Forgeries, hot from the Pulpit) then any that favoured of the ingenuity and education of a Schol∣ler, or a Souldier.</P>
+<LIST>
+<ITEM>1. Secretary Nicholas the Informer, George Digby con∣triver of the Lyes, <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, and Calumntes of an Drford Pam, phlet.</ITEM>
+<ITEM>2. Lyes, forgeries, insolencies, impieties, prophanations, blasphemies of the two sheets.</ITEM>
+<ITEM>3. Drford formerly a University now a Garrison of Po∣pery.</ITEM>
+<ITEM>4. <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, Scurrilous, ridiculous, treasonable, insolent Pam∣phlet.</ITEM>
+<ITEM>5. Credulous and seduced People to belive Aulicus.</ITEM>
+<ITEM><PB REF="7"/>6. <NOTE N="*" PLACE="marg">If the Parlia∣ment are offen∣ded at any thing in <HI>Aquaticus,</HI> let them consi∣der what tis to suffer such trea∣sonable blas∣phemies against the Lords A∣nointed to be <HI>priated accord∣ing to Order.</HI></NOTE> Your Dasesties so much bloodshed of your own Subjects.</ITEM>
+<ITEM>7. So many Plunderings by Your Royall nephews.</ITEM>
+<ITEM>8. If your Declarations and Protestations were of your Da∣jesties own making,</ITEM>
+<ITEM>9. Evill Councellors about his Dajesty.</ITEM>
+<ITEM>10. His Majesty not <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> for the Protessant Religion.</ITEM>
+<ITEM>11. Irimd with Popish <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, consecrated sissars, and ho∣ly water.</ITEM>
+<ITEM>12. <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> bottles of it sent to Court from his holinesse own Barber.</ITEM>
+<ITEM>13. Indians have lesse Barbarisine and inhumanity then his Maajestes best Subjects.</ITEM>
+<ITEM>14. Mendicant Epistles sent to the Pope and Cardinalls.</ITEM>
+<ITEM>15. Doctor Couns the Arch flamin sent to Popish States for assistance.</ITEM>
+<ITEM>16. <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> the Publican excellent at monopolizing, a Pro∣jector.</ITEM>
+<ITEM>17. Drmond the Apostate.</ITEM>
+</LIST>
+<LIST>
+<HEAD>A catalogue of other notable Passage.</HEAD>
+<LABEL>1. Truths, God blesse us.</LABEL>
+<ITEM><HI>Tis high time for the Parliament, and they had never more need to write for helpe to forraigne States.</HI></ITEM>
+<LABEL>2. Politique <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>.</LABEL>
+<ITEM><HI>No Councell nor estate in the World but will take hints at inferiours, especially those that are scientificall and knowing men.</HI></ITEM>
+<LABEL>3. Politique discourses.</LABEL>
+<ITEM>As that of the <HI>Cast India Merchants,</HI> farre beyond Sir <HI>Pol. Onyons,</HI> and <HI>Tar. Paulin.</HI></ITEM>
+<LABEL>4. Subtill distinctions.</LABEL>
+<ITEM>Of <HI>His Majesties Royall Person</HI> from His <HI>politicall capacity,</HI> which savours of the subtill Logick of <HI>Goodwin</HI> the <HI>Socinian,</HI> creature to my <HI>Lord Say.</HI></ITEM>
+<LABEL>5. Grosse forgeries beyond that of the <HI>Danish fleet,</HI> and <HI>the mens Training under ground.</HI></LABEL>
+<ITEM>As the <HI>intelligence from <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>.</HI></ITEM>
+<LABEL><PB REF="8"/>6. Imitations of <HI>Aulicus.</HI></LABEL>
+<ITEM>As the descanting and Paraphrase on the <HI>Irish Oath,</HI> and the <HI>Commanders letter.</HI></ITEM>
+<LABEL>7. Iests, halfe-jefts, Puns, clinches, and Quibbles.</LABEL>
+<ITEM><HI>I dare throw Winter</HI> or <HI>Summer</HI> with you that there's none of these in the whole book.</ITEM>
+<LABEL>8. Downeright Popery.</LABEL>
+<ITEM>The Canonization of Mr. <HI>Pym</HI> before his going into <HI>Purgatory,</HI> and <HI>sacrificing at his hearse.</HI></ITEM>
+<LABEL>9. Good Popery.</LABEL>
+<ITEM>As <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> Pyms Clegy.</HI></ITEM>
+</LIST>
+<P>To which adde three tales of a Tub, or three blew beanes in a bladder, and you have the ingredients of the last weeks <HI>Brita∣nicus.</HI></P>
+</DIV2>
+<DIV2 N="3" TYPE="section">
+<P><NOTE PLACE="marg">§. 3.</NOTE><HI>And Reader this is the just account of the</HI> one <HI>shéet, of that idle, scurrilous, treasonable, insolent Pamphlet, doe you think this was written to procure the peace of the Kingdome in de∣fence</HI> of His Majesties Honour and Prerogative, and to make Him the gloriousest Prince in Christendome. <HI>Are not here a</HI> treasona∣ble <HI>company of abuses, and in the</HI> substance <HI>of the Pamphlet? What will these act at home amongst a credulous and seduced people, especially so Religiously</HI> Lectured and Trained to Rebel∣lion <HI>upon Sundaies? But I cannot <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> till I Petition the</HI> New Assembly.</P>
+</DIV2>
+<DIV2 N="4" TYPE="section">
+<HEAD><NOTE PLACE="marg">§. 4. <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/></HI> <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>. Petition to the <HI>New∣Assembly.</HI></NOTE><HI>The humble Petition of</HI> Aquaticus to A NEW AS∣SEMBLY, prophetically Anagrammatized and called at their Anabaptisme in the River of <HI>Bowe</HI></HEAD>
+<HEAD>MANY BLEW ASSES.</HEAD>
+<P><HI>MAy it please you,</HI> Religions, learned, and reverend Men, fathers, and brethren (I cry your fatherhoods mercy, if I miscall you, I had the title from <HI>Fr: Cheynells discovery,</HI> one of the mad Fathers of your fraternity) <HI>after so long</HI> sitting to no purpose; <HI>So many</HI> Sermons and discourses writ in defence of this present Rebellion, <HI>after so many</HI> encouragements of the Brownists in all their wild plunderings, after so long <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> to the prayers and prayers, and sighes and prayers, and prayers and
+<PB REF="8"/>
+Sermons of the Lady <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>,</HI> against the finall falling away of her Knight, <HI>be pleased to remember your</HI> so often taken oaths of Al∣legiance and Supremacy, not to be dispensed with all even by pope <HI>Calamy</HI> and pope <HI>Burges,</HI> and be sure to take into your mis∣understanding the established protestant Religion, and because you intend to alter the Articles of the Church of <HI>England,</HI> be sure first you send to your Deacon, Sir <HI>Harry Vaine</HI> the younger, to treat with the Reformed Churches, that this may be done, the <HI>Harmony of consessions</HI> not withstanding. And because you intend to banish the Common prayer Book out of <HI>England,</HI> because 'tis popishly affected, you were best also silence the use of the <HI>Lords prayer,</HI> for the same reason, because 'tis found in the <HI>Masse-book</HI> and <HI>Ladies Psalter,</HI> besides 'tis a set forme of prayer, and therefore a stinter of the spirit; and besides you and your disciples are re∣solved never to <HI>forget trespasses, nor remember benefits.</HI> And since you are upon the correcting the <HI>Creed,</HI> for the cause sake which might be much prejudiced by the Opinion that there's a Hell, let the article of <HI>Christs descent</HI> for the word <HI>Hell's</HI> sake be strook out. Furthermore (because the <HI>lesuits</HI> make great use of your Schismes and Factions, saying, that you have more Factions, then Conventicles, more Religions then men) be pleased in the next place to undertake the reconciliation of the <HI>Presbyterians</HI> and <HI>Independents,</HI> the <HI>Sabbatarians</HI> and <HI>Covenanters,</HI> with the <HI>Anti∣nomians</HI> and <HI>Libertines,</HI> the rigid <HI>Calvinists</HI> with the <HI>Socinians,</HI> the <HI>protestation</HI> and <HI>Covenant</HI> with the oaths of <HI>Supremacy</HI> and <HI>Allegiance,</HI> and last of all your selves with your selves, a work of very easy Taske, especially when the <HI>Houses</HI> shall recover their power from the Common-councell. Furthermore, I be∣seech you justifie your selves from the scandall of the <HI>Papists,</HI> who say, our Religion is but meerly <HI>Parliamentary,</HI> and subject to translation, for some politick turne, every third yeare, and for proof, they urge the <HI>Lay Elders</HI> of the House of <HI>Commons,</HI> a ru∣ling part of your Conventicle, and that you dare not think of any Religion, but what they shall dictate to you. Next I desire you to neglect the true staring of the question of <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, and to consider whether this <HI>everlasting Parliament</HI> may not be rather proved to be <HI>jure divino,</HI> from the example of the <HI>Iewish</HI> <NOTE N="*" PLACE="marg">or LXX</NOTE> <HI>San∣hedrim,</HI> then this present Rebellion justified by the example of
+<PB REF="9"/>
+<HI>David;</HI> and that you would also furnish the Brethren, and the <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> of the <HI>Philistim-writers</HI> against Dr <HI>Fearne</HI> with better argu∣ments and answers, or else wholly to suppresse them (for this is the Iesuites policy, whose foot-steps you follow, though you goe back wards) lest the people reading the Doctors arguments, though mangled and abused in their Pamphlets, should at last be undeceived. Lastly, I desire you to state the question affirmative∣ly, that the same person may be a Clergy-man and Lay-man at the same time, because otherwise me thinkes Mr <HI>Marshall</HI> and Mr <HI>Nye,</HI> could not be admitted of the <HI>Close Committee,</HI> nor em∣ployed in <HI>Embassage</HI> to Farraigne States, because a <HI>late act this Parliament,</HI> forbids Clergy men to intermedle in secular affaires, and if they were Lay-men only, me thinks your grave Father∣hoods would exclude them the pulpit at <HI>Margarets.</HI></P>
+<P>And because you are never like to find <HI>Scripture</HI> or <HI>Reason</HI> or <HI>Fathers</HI> to perswade your Religion, I beseech you to consider of setting the <HI>Inquisition</HI> up in <HI>London,</HI> which is already made feasi∣ble by the mercifull dealing of the <HI>Committee for Religion.</HI> Mr. <HI>Burton</HI> is able to justifie it from <HI>Scripture,</HI> and Mr <HI>Prinne</HI> will establish it by <HI>Law,</HI> and Mr St <HI>Iohns</HI> shew a <HI>President</HI> for it, out of the <HI>Records in Lowlards Tower.</HI> And because you are not to determine any thing, but what is resolved at the Close Com∣mittee, and they, at this present have more weighty affaires to consider of then Religion, be pleased at this your leasure (because you have little else to doe, and you must not go forward with the notes upon the Bible) to write a weekly comment upon <HI>Brita∣nicus,</HI> that men may the better understand his hidden wit, or else instead of confuting the <HI>lesuits,</HI> pray undertake in his behalf the confutation of <HI>Aquaticus.</HI></P>
+<P>And because studying and long prayers, especially disputati∣ons <HI>in Moode and figure,</HI> will extreamly wast your spirits, and haften your death, to the eternall losse of <HI>ignorance and Faction,</HI> the parents of this zealous Rebellion, be pleased to take a Dose of this <HI>Cordiall</HI> Fasting. It will preserve your braine and lungs, and keep you from the danger of the <HI>Plague plaister,</HI> or the in∣fection of an Answer from <HI>Oxford</HI> to your grave determinations. Pray send the Bill to Mr <HI>Pyms Apothecary,</HI> who will very care∣fully compound it.</P>
+<LIST>
+<PB REF="9"/>
+<HEAD>R.</HEAD>
+<ITEM>Of Sir <HI>Harry Vanes</HI> Memory.</ITEM>
+<ITEM>Of <HI>Hollands</HI> gratitude.</ITEM>
+<ITEM>Of <HI>Martines</HI> Continence.</ITEM>
+<ITEM>Of <HI>Wallers</HI> Valour.</ITEM>
+<ITEM>Of the <HI>Close Committees</HI> honesty. 2 graines. <HI>ana.</HI></ITEM>
+<ITEM>One good look from Mr <HI>Perd.</HI></ITEM>
+</LIST>
+<LIST>
+<ITEM>Two arguments at Law of <HI>Sergeant Wilde</HI> owne making.</ITEM>
+<ITEM>Two ounces of the shavings of his <HI>Excellencies</HI> Hornes, and an ounce and halfe of the fat of his black Calfe at <HI>Chartley.</HI></ITEM>
+<ITEM>1 Scruple of conscience of Mr <HI>Marshall.</HI></ITEM>
+<ITEM>1 Headfull of jealousies of <HI>Say and Seale.</HI></ITEM>
+<ITEM>1 Heartfull of feares of <HI>Nath: Fiennes.</HI></ITEM>
+<ITEM>1 Pound of the City slavery, and halfe a dram of your owne Di∣vinity and Logick, <HI>ana:</HI></ITEM>
+<ITEM>3 Gallons of Orphans and Widdowesteares.</ITEM>
+</LIST>
+<P>Boyle all these the length of a Fast Sermon at <HI>Margarets</HI> in <HI>Balneo,</HI> close stop'd with a past made of <HI>Pembrookes</HI> discretion. Your firing by no meanes must be of <HI>New castle Coale,</HI> ('twill send all up in <HI>Fumo</HI>) but of Char-cole made out of the <HI>Parlia∣ments owne woods in their politick capacity.</HI> Let it be con∣stantly blowed with the curses of the <HI>Excise.</HI> And if any one beleeve the <HI>Apostacy of the Saints,</HI> and therefore doubts his owne standing to the Cause, you may infuse three drams of Dr <HI>Burges</HI> his falling from the <HI>Sence,</HI> and also <HI>grace</HI> of the <HI>House</HI> till his late submission. You may take a spoonfull of it <HI>Fasting,</HI> to the enfla∣ming of your zeale, aswell as the pŕeserving of your health, which I beseech your grave Fatherhoods to have especiall care of, and</P>
+<P>Your Petitioner shall ever pray, &amp;c.</P>
+</DIV2>
+<DIV2 N="5" TYPE="section">
+<P><NOTE PLACE="marg">§. 5. Small hopes to abtaine his Petition, and the reason.</NOTE><HI>This is my petition to</HI> the Synod, (a little longer I confesse then <HI>Britanicus</HI> his, but his was made for the Court, and mine for the <HI>Round-heads,</HI> who love all long, but their haire, especially long eares, that may have wherewithall to suffer Martyrdome,
+<PB REF="10"/>
+long meales, long graces to help digestion, <HI>but there are so many of</HI> the Committee for Religion, that watch over them, <HI>that <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, spaire of <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, when the great</HI> serviceable Rabbie of the <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> cannot be heard; <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, now when</HI> Sir <HI>Benjamin Rud∣yeard is turn'd</HI> Assembly man <HI>too, I never look to sée</HI> our Church <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/></HI> according to the ancient Primitive Form of Doctrine and discipline, which is the same with the <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> Religion</HI> her established. <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> I am informed</HI> that Gentleman <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/></HI> Par∣sons <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> with Brownisticall <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>,</HI> and cuts Episcopacy with sanctified-presbyterian <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, and <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> in holy water</HI> of the lake <HI>Lemannus. There are <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> bottles come lately to the</HI> new Assembly, and more are dayly expected <HI>from the</HI> Close Commit∣tees <HI>own <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>,</HI> for the shaving from the face of the Church those superfluous excrements of Cathedrall Lands; height Moun∣sieur <HI>Salmasius,</HI> if the Schollers spell his name right.</P>
+</DIV2>
+<DIV2 N="6" TYPE="section">
+<P><NOTE PLACE="marg">§. 6. The power that is given to <HI>Marshall</HI> and <HI>Nye.</HI></NOTE><HI>Aquaticus tells you, that the Parliament did give power to Marshall,</HI> and <HI>Nye,</HI> to contract with the Scots by new Covenants for the ruine of the English Nation, if God prevent not. For shal we thinke the Scots are such fools, if they conquer, to return back againe to their Whig and Scotch porredge, Frost and snow (and little wood) from good fetherbeds, gallant houses, English beef, ale, and broad-cloth? No, <HI>Britanicus,</HI> if that day once come, the Brotherhood shall find their Brethren of <HI>Scotland</HI> will be the <HI>Elders,</HI> and carry away the Land. And <HI>is not this a more</HI> treasonable <HI>Act to</HI> destroy <HI>Trading,</HI> advance <HI>Plundering,</HI> and ru∣ine the whole Nation, only to secure the five Members (which yet you see cannot escape Gods vengeance) from a legall tryall, rather then that of furthering an honest modest petition for peace? Is not this <HI>to give power for</HI> licence, and <HI>to take away all power and Lawes too, as your party in all places where they come doe; <GAP DESC="illegible" RESP="apex" EXTENT="2 words" DISP="〈◊◊〉"/> they</HI> only <HI>give power to them to impose</HI> new Covenants to another Nation, <HI>but to contrive and suggest</HI> them, <HI>as no Coun∣cell <GAP DESC="illegible" RESP="apex" EXTENT="2 words" DISP="〈◊◊〉"/> in the world</HI> ever did to such contemptible <HI>infe∣riours, especially to those that are</HI> so little <HI>Scientificall <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> know∣ing men. But I must-tell</HI> my <HI>Merchants</HI> of <HI>London, though they</HI> <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> greedily <HI>trade into Scotland</HI> for the present, whatsoever <HI>their
+<PB REF="10"/>
+<GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/></HI> and Lecturers tell them, <HI>the Cavaliers are farre better to trade with and converse with then your Round heads, and have</HI> a thousand times <HI>lesse barbarisme and inhumanity.</HI> But they will beleeve this too lat.</P>
+</DIV2>
+<DIV2 N="7" TYPE="section">
+<P><NOTE PLACE="marg">§. 7.</NOTE><HI>He tells you of the Parliament that hath ordered the Assem∣bly,</HI> that have odrered their Deacon, Sir <HI>Harry <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/></HI> to carry Letters to <HI>Zurick,</HI> and <HI>to <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> up the <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> and other parts,</HI> that in case the <HI>Synod</HI> should be dissolved they may have a place assigned them to sit in safety, to determine of rules that shall never guide the <HI>Brownists</HI> and <HI>Anabaptists</HI> two dayes to∣gether. And it seems <HI>'tis high time; when they have sent their <GAP DESC="illegible" RESP="apex" EXTENT="2 words" DISP="〈◊◊〉"/></HI> (by their two Legats a <HI>Latere</HI>) to the Fa∣mily of Love, their Brethren in <HI>Scotland, when old Fines the Publican</HI> who hath sate so long at the Receipt of <HI>Custome</HI> (<HI>so ex∣cellent</HI> at the contriving and managing a Rebellion, as also <HI>at an <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> of</HI> more contribution to the common Councell, <HI>and a very worthy Patriot at a Project of</HI> Publick Faith, Land in <HI>Ireland, Newcastle</HI> Coles and Excise) now begins as much to despaire of the successe of the Cause, as of freeing <HI>Nath: Fiennes,</HI> or getting <HI>Goodwin,</HI> that Arch-Socinian to be admitted into the New Assembly,</P>
+</DIV2>
+<DIV2 N="8" TYPE="section">
+<P><NOTE PLACE="marg">§. 8. <HI>Lord Lessyes</HI> Warrants.</NOTE><HI>He tells you of</HI> Leslyes <HI>Warrants for transporting his</HI> fellow Rebells: <HI>Reader this is Lesly</HI> the same man still, <HI>who though</HI> he were honoured by His Majesty with <HI>the title of an Carle,</HI> most unlike a Souldier and a Gentleman basely and ingratefully drawes his sword against his Prince, to whom he was so obliged for his favour, and Pardon.</P>
+</DIV2>
+<DIV2 N="9" TYPE="section">
+<P><NOTE PLACE="marg">§. 9. <HI>Leslyes</HI> Cove∣nant to them that come in∣to <HI>England.</HI></NOTE><HI>He tells</HI> you <HI>of the</HI> Covenant <HI>Lesly administers to all that come over: for you must know it was the old policy still to swear them for the <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> Religion; and it was long since <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> on at the Cabinet <GAP DESC="illegible" RESP="apex" EXTENT="2 words" DISP="〈◊◊〉"/></HI> in Sir <HI>Gilbert Gerards</HI> Parlour at <HI>Har∣row oth' Hill, that</HI> Brownisme <HI>be not named yet, till the <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> be a little more out of their <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, by companying together and having</HI> Conventicles <HI>together,</HI> (where the Candle some∣times most unfortunately is put out,) <HI>and by bringing</HI> extempo∣rary nonsense and Blasphemy in fashion, to the dishonour of all
+<PB REF="11"/>
+Religion, and the contempt of <HI>Common-Prayer, but the Cove∣nant begins.</HI></P>
+</DIV2>
+<DIV2 N="10" TYPE="section">
+<P><NOTE PLACE="marg">§. 10. <GAP DESC="illegible" RESP="apex" EXTENT="3 words" DISP="〈◊◊◊〉"/></NOTE><HI>I</HI> (Ananias Bodkin) <HI>resting fully assured that His Majesty</HI> labours to preserve <HI>His two Kingdoms of England and Ire∣land</HI> from <HI>ruine,</HI> by Lawfull and <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> <HI>courses</HI>) <HI>will endeavour to</HI> overthrow <HI>the true Protestant Religion established in the Church of England,</HI> (to let up a new nothing not yet hatched at the Close Committee, nor yet thought of by the assemlly, or <HI>any Reformed</HI> Lecturer) <HI>against all the forces now raised by</HI> Commission from his Majesty <HI>(because they fight for the true Protestant Religion Lawes and Liberties) and I will doe my utmost to</HI> destroy <HI>the Peace and quietnesse of this Kingdome of England, by robbing, fireing, pillaging, plundring, killing and destroying.</HI></P>
+</DIV2>
+<DIV2 N="11" TYPE="section">
+<P><NOTE PLACE="marg">§. 11.</NOTE><HI>Aquaticus</HI> <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> <HI>a great Victory Sir William Waller had upon us at Basing house,</HI> whence he carried no lesle then forty or fifty carts of our Wounded prisoners in Triumph, and no lesse then foure or five hundred more dead. Which made the Trained Bands so willing to returne home, that they might pro∣claime the cowardise of the Cavaliers, and the Valour of Sir <HI>Wil∣liam</HI> with weeping eyes to their Wives and Children. <HI>And yet Aulicus conceits that they had the day, though you</HI> carried home <HI>the men</HI> in Carts. <HI>I know not how to distinguish upon daies and <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>, but I think it is not usuall to conquer and be rou∣ted both at a time, but this is not the first Victory they have given thankes for, witnesse Edge-hill,</HI> Brainceford, <HI>and <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>,</HI> three <HI>places in which they were <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> beaten into a day of <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>.</HI></P>
+</DIV2>
+<DIV2 N="12" TYPE="section">
+<P><NOTE PLACE="marg">§. 12. Sir <HI>William <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/></HI> Letter.</NOTE><HI>He tells</HI> you <HI>of</HI> wise <HI>Sir William <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> Letter to the Irish Commanders to leave fighting, and erpounded it as seri∣ously as</HI> the Assembly will doe the Covenant, or M. <HI>Marshall</HI> did this piece of Scripture, <HI>The good man is perished out of the earth,</HI> at the <HI>hideing</HI> of <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> Pym,</HI> where he did not as he ought, divide the <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> Scripture from the <HI>Apochrypha,</HI> but tyed the Text and Sermon both together, which was no <HI>Sabbaths</HI> exercise to the Auditors patience.</P>
+</DIV2>
+<DIV2 N="13" TYPE="section">
+<P><NOTE PLACE="marg">§. 13. <HI>Deest</HI> the an∣swer of the Irish comman∣ders.</NOTE><PB REF="11"/><HI>He tells</HI> you <HI>of the Letters which the Irish commanders re∣turned to Sir William,</HI> which because <HI>Britanicus</HI> hath printed according to Sir <HI>Williams</HI> Copy which he sent to the <HI>Parliament,</HI> and not according to that which was sent to Sir <HI>William,</HI> I shall forbeare to trouble my selfe and the Reader, by making the man here eat his own words. This piece is so extreame dull and hea∣vk, that tis a taske unfit for a Schooleboy to reply to. But you must pitty the mans heavinesse, for alas he tells us, his Wit run all out at his eyes and nose, at the <HI>Funerall of V. Pym.</HI></P>
+</DIV2>
+<DIV2 N="14" TYPE="section">
+<P><NOTE PLACE="marg">§. 14.</NOTE>And therefore Reader, if I trouble thee not with this piece of <HI>Britanicus, thank the Funeralls of V. Pym.</HI> But yet I am sorry, I must tell you, the poore fellow had so good an excuse to be dull and heavy; and though I cannot make Elegies, yet I pitty poore <HI>Iohn Pym,</HI> that he fell not by the hand of Iustice, <HI>because more</HI> (saies the <HI>Help to Discourse,</HI> a book I commend to your carefull perusall) <HI>goe to heaven from the Gallowes then the Church-yard,</HI> and now for our <HI>Intelligence</HI> a little truer then <HI>Britaxicus</HI> his.</P>
+</DIV2>
+<DIV2 N="15" TYPE="section">
+<P><NOTE PLACE="marg">§. 15. <HI>Glocester</HI> newes.</NOTE><HI>I shall begin at Glocester with news, that very place whence his Excellency</HI> with his whole army run away <HI>with no lesse dis∣honour then he</HI> came thither with Feare, <HI>it being yet a question whether of his Lawrells were the best, that of Glocester or that of Pewbury,</HI> or <HI>Edgehill,</HI> or <HI>Brainceford,</HI> or <HI>Oxford,</HI> where he was well <HI>Tamed</HI> (there's a Pun halfe a dram better then yours upon Sir <HI>Iohn Winter.</HI>) <HI>Pot farre from this City,</HI> yet without the distance of a Mile (for within that compasse through the mercilesse oppression and cruell plundering of the Rebells in the Towne, the <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> were forced to burne downe their own houses) are Quartered on one side 16. or 1800. old <HI>Irish</HI> Soul∣diers, on the other side, the Loyall <HI>Welsh,</HI> and elsewhere the op∣pressed inhabitants of the County of <HI>Glocester,</HI> who arc all resol∣ved to be revenged for the cruelty of that Rebellious City, which will put <HI>Masser,</HI> now a <HI>Factor for Rebellion,</HI> there to his Familiar Epistles, and humble supplications to his Excellency before <HI>Win∣ters</HI> done. For Sir <HI>Iohn</HI> is resolved to stay behind in despight of all <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> hot allarmes.</HI></P>
+</DIV2>
+<DIV2 N="16" TYPE="section">
+<P><NOTE PLACE="marg">§. 16.</NOTE>Reader this tale upon Sir <HI>Iohn</HI> was framed at the <HI>Staple of</HI>
+<PB REF="12"/>
+<HI>Newes,</HI> to bring in the Quibble of <HI>Winter,</HI> and so I leave my pret∣ty <HI>Wit-Harmophrodite</HI> made up of Orator and Poet, <HI>to sacrifice his Elegy at the Hearse of John Pym.</HI> But Sir before you go to your devotions, you must tell me whether he was Canonized by the <HI>New Assembly</HI> (for some doubt whether a <HI>Synod</HI> has that power) or Pope <HI>Marshall.</HI> And I shall tell you in requitall that you must <HI>sacrifice no lame things,</HI> and shall therefore advise you to send your third Verse,</P>
+<P><HI>He passed gravely hence, even</HI> to M. <HI>Iohn Sedgiwicke,</HI> the number of whose fingers will make it <HI>commensurate.</HI> And so having cost my Reader halfe an hower, and my selfe an afternoone (my little City Poet) I leave you as I found you, fit only to write Verses on the Death of Mr PYM.</P>
+</DIV2>
+</DIV1>
+<TRAILER>FINIS.</TRAILER>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

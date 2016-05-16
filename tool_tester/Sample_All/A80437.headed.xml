@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="2">A fiery flying roll: a word from the Lord to all the great ones of the Earth, whom this may concerne: being the last warning piece at the dreadfull day of judgement. For now the Lord is come to 1 Informe 2 Advise and warne 3 Charge 4 Judge and sentence the great ones. As also most compassionately informing, and most lovingly and pathetically advising and warning London. With a terrible word and fatall blow from the Lord, upon the gathered churches. And all by his Most Excellent Majesty, dwelling in, and shining through Auxilium Patris, vu alias, Coppe. With another flying roll ensuing (to all the inhabitants of the Earth.) The contents of both following.</TITLE><AUTHOR>Coppe, Abiezer, 1619-1672.</AUTHOR></TITLESTMT><EXTENT>Approx. 48 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2008-09 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A80437</IDNO>
+
+
+<IDNO TYPE="stc">Wing C6087</IDNO>
+
+<IDNO TYPE="stc">Thomason E587_13</IDNO>
+
+<IDNO TYPE="stc">ESTC R206283</IDNO>
+
+<IDNO TYPE="eebo citation">99865456</IDNO>
+
+<IDNO TYPE="proquest">99865456</IDNO>
+
+<IDNO TYPE="vid">117697</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A80437)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 117697)</NOTE><NOTE>Images scanned from microfilm: (Thomason Tracts ; 90:E587[13])</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="2">A fiery flying roll: a word from the Lord to all the great ones of the Earth, whom this may concerne: being the last warning piece at the dreadfull day of judgement. For now the Lord is come to 1 Informe 2 Advise and warne 3 Charge 4 Judge and sentence the great ones. As also most compassionately informing, and most lovingly and pathetically advising and warning London. With a terrible word and fatall blow from the Lord, upon the gathered churches. And all by his Most Excellent Majesty, dwelling in, and shining through Auxilium Patris, vu alias, Coppe. With another flying roll ensuing (to all the inhabitants of the Earth.) The contents of both following.</TITLE><AUTHOR>Coppe, Abiezer, 1619-1672.</AUTHOR></TITLESTMT><EXTENT>[8], 15, [1] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>Imprinted at London :</PUBPLACE>
+<PUBLISHER>in the beginning of that notable day, wherein the secrets of all hearts are laid open; and wherein the worst and foulest of villanies, are discovered, under the best and fairest outsides,</PUBLISHER>
+<DATE>1649. [i.e. 1650]</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Annotation on Thomason copy: "Jan. 4. 1649".</NOTE><NOTE>Reproduction of the original in the British Library.</NOTE><NOTE>The letters vu in the title, following "Auxilium Patris," are in Hebrew characters.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Ranters --  Early works to 1800.</TERM><TERM>Levellers --  Early works to 1800.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2007-02</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2007-02</DATE><RESPSTMT><RESP>Apex CoVantage</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2007-03</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2007-03</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2008-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A80437">
+<STC T="W">C6087</STC>
+<STC T="T">E587_13</STC>
+<BIBNO T="umi">99865456</BIBNO>
+<VID>117697</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y"/>
+<P>A Fiery Flying Roll: A Word from the Lord to all the Great Ones of the Earth, whom this may concerne: Being the last WARNING PIECE at the dreadfull day of JUDGEMENT.</P>
+<P>For now the LORD is come to
+<LIST>
+<ITEM>1 <HI>Informe</HI> the Great Ones.</ITEM>
+<ITEM>2 <HI>Advise and warne</HI> the Great Ones.</ITEM>
+<ITEM>3 <HI>Charge</HI> the Great Ones.</ITEM>
+<ITEM>4 <HI>Judge and sentence</HI> the Great Ones.</ITEM>
+</LIST></P>
+<P>As also most compassionately informing, and most lo∣vingly and patheti<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>ally advising and warning <HI>London.</HI></P>
+<P>With a terrible Word and fatall Blow from the LORD, upon the Gathered CHURCHES.</P>
+<P>And all by his Most Excellent MAJESTY, dwelling in, and shining through <HI>AUXILIUM PATRIS,</HI> ףכ alias, <HI>Coppe..</HI></P>
+<P>With another FLYING ROLL ensuing (to all the Inhabi∣tants of the Earth.) The Contents of both following.</P>
+<Q><BIBL>Isa. 23. 9,</BIBL>
+<P>The Lord of Hosts (is) staining the pride of all glory, and bring∣ing into contempt all the honourable (persons and things) of the Earth.</P></Q>
+<Q>O London, London, how would I gather thee, as a hen gathereth her chickens under her wings, &amp;c.</Q>
+<Q><P>Know thou (in this thy day) the things that belong to thy Peace—</P>
+<P>I know the blasphemy of them which say they are Jewes, and are not, but are the Synagogue of Satan,</P>
+<BIBL>Rev. 2. 9.</BIBL></Q>
+<P>Imprinted at <HI>London,</HI> in the beginning of that notable day, wherein the secrets of all hearts are laid open; and wherein the worst and foulest of villanies, are discovered, under the best and fairest outsides. 1649.</P>
+</DIV1>
+<DIV1 TYPE="preface">
+<PB REF="2"/>
+<PB REF="2" MS="y"/>
+<HEAD>THE PREFACE.</HEAD>
+<HEAD TYPE="sub">An inlet into the Land of Promise, the new <HI>Hierusalem,</HI> and a gate into the ensuing Discourse, worthy of serious consideration.</HEAD>
+<LG>
+<L><SEG REND="decorInit">M</SEG>Y Deare One.</L>
+<L>All or None.</L>
+<L>Every one under the Sunne.</L>
+<L>Mine own.</L>
+</LG>
+<P>My most Excellent Majesty (in me) hath strangely and variously transfor∣med this forme.</P>
+<P>And behold, by mine owne Almightinesse (In me) I have been changed in a moment, in the twinkling of an eye, at the sound of the Trump.</P>
+<P>And now the Lord is d<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>scended from Heaven, with a shout, with the voyce of the Arch-angell, and with the Trump of God.</P>
+<P>And the sea, the earth, yea all things are now giving up their dead. And all things that ever were, are, or shall be visible—are the Grave wherein the King of Glory (the eternall, invisible Almightinesse, hath lain as it were) dead and buried.</P>
+<P>But behold, behold, he is now risen with a witnesse, to save <HI>Zion</HI> with vengeance, or to confound and plague all things into himself; who by his mighty Angell is proclaiming (with a loud voyce) That Sin and Transgression is finished and ended; and everlast∣ing righteousnesse brought in; and the everlasting Gospell preaching; Which everlasting Gospell is brought in with most terrible earth-quakes, and hea∣ven-quakes, and with signes and wonders following. <HI>Amen.</HI></P>
+<P><PB REF="3"/>And it hath pleased my most Excellent Majesty, (who is universall love, and whose service is perfect freedome) to set this forme (the Writer of this Roll) as no small signe and wonder in fleshly <HI>Israel;</HI> as you may partly see to the ensuing Discourse.</P>
+<P>And now (my deare ones!) every one under the Sun, I will onely point at the gate, thorow which I was led into that new City, new <HI>Hierulalem,</HI> and to the Spirits of just men, made perfect▪ and to God the Judge of all.</P>
+<P>First, all my strength, my forces were utterly routed, my house I dwelt in fired, my father and mother for∣sook me▪ the wife of my bosome loathed me, mine old name was rotted, perished; and I was utterly plagued, consumed, damned, rammed, and sunke into nothing, into the bowels of the still Eternity (my mothers wombe) out of which I came naked, and whetherto I returned again naked▪ And lying a while there, rapt up in silence, at length (the body or outward forme being aw<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ke <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ll this while) I heard with my outward eare (to my apprehension) a most terrible thunder-clap, and after that a▪ second. And upon the second thunder-clap, which was exceeding terrible, I saw a great body of light, like the light of the Sun, and red as fire, in the forme of a drum (as it were) whereupon with exceeding trembling and amazement on the flesh, and with joy unspe<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>k<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>ble in the spirit, I clapt my hands, and cryed out, <HI>Amen, Halelujah, Halelujah, Amen.</HI> And so lay trembling, sweating, and smoaking (for the space of half an houre) at length with a loud voyce (I inwardly) cryed out, Lord, what wilt thou do with me; my most excellent majesty and eternall glory (in me) answered &amp; sayd▪ Fear not, I will take thee up into mine everlasting Kingdom. But thou shalt (first) drink
+<PB REF="3"/>
+a bitter cup, a bitter cup, a bitter cup; wherupon (be∣ing filled with exceeding amazement) I was throwne into the belly of hell (and take what you can of it in these expressions, though the matter is beyond expres∣sion) I was among all the Devils in hell, even in their most hideous how.</P>
+<P>And under all this terrour, and amazement, there was a little spark of transcendent, transplendent, un∣speakable glory, which <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>urvived, and sustained it self, triumphing, exulting, and exalting it self above all the Fiends. And confounding the very blacknesse of dark∣nesse (you must take it in these tearmes, for it is infi∣nitely beyond expression.) Vpon this the life was ta∣ken out of the body (for a season) and it was thus re∣sembled, as if a man with a great brush dipt in whi∣ting, should with one stroke w<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>pe out, or sweep off a picture upon a wall, &amp;c. after a while, breath and life was recurned into the form againe; whereupon I saw various streames of light (in the night) which appea∣red to the outward eye; and immediately I saw three hearts (or three appearances) in the form of hearts, of exceeding brightnesse; and immediately an innumera∣ble company of hearts, filling each corner of the room where I was. And me thoughts there was variety and distinction, as if there had been severall hearts, and yet most strangely and unexpressibly complicated or fol∣ded up in unity. I clearely saw distinction, diversity, variety, and as clearly saw all swallowed up into unity. And it hath been my song many times since, within and without, unity, universality, universality, unity, Eter∣nall Majesty, &amp;c. And at this vision, a most strong, glo∣rious voyce uttered these words, <HI>The spirits of just men made perfect▪</HI> the spirits &amp;c, with whom I had as absolut, cleare, full communion, and in a two fold more fami∣liar
+<PB REF="4"/>
+way, then ever I had outwardly with my dearest friends, and nearest relations. The visions and revela∣tions of God, and the strong hand of eternall invisible almightinesse, was stretched out upon me, within me, for the space of foure dayes and nights, without inter∣mission.</P>
+<P>The time would faile if I would tell you all, but it is not the good will and pleasure of my most excellent Majesty in me, to declare any more (as yet) then thus m<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>ch further: That amongst those various voyces that were then uttered within, these were some, <HI>Blood, blood, Where, where? upon the hypocriticall holy heart, &amp;c.</HI> Another thus, <HI>Vengeance, vengeance, vengeance, Plagues, plagues, upon the Inhabitants of the earth; Fire, fire, fire, Sword, sword, &amp;c. upon all that bow not down to eternall Ma∣jesty, universall love; I'le recover, recover, my wooll, my flax, my money. Declare, declare, feare thou not the faces of any; I am (in thee) a munition of Rocks, &amp;c.</HI></P>
+<P>Go up to <HI>London,</HI> <NOTE N="*" PLACE="marg">It not be∣ing shewen to me, what I should do, more then preach and print some∣thing, &amp;c. ve∣ry little expe∣cting I should be so strange∣ly acted, as to (my exceed∣ing joy and delight) I have been, though to the utter crack∣ing of my credit, and to the rotting of my old name which is dam∣ned, and cast out (as a toad to the dung∣hill) that I might have a new name, with me, upon me, within me, which is, Iam—</NOTE> to <HI>London,</HI> that great City, write, write, write. And behold I writ, and lo a hand was sent to me, and a roll of a book was therein, which this fleshly hand would have put wings to, before the time. Whereupon it was snatcht out of my hand, &amp; the Roll thrust into my mouth; and I eat it up, and filled my bowels with it, (<HI>Eze.</HI> 2. 8. &amp;c. <HI>cha.</HI> 3. 1, 2, 3.) where it was as bitter as worm-wood; and it lay broiling, and burning in my stomack, till I brought it forth in this forme.</P>
+<P>And now I send it flying to thee, with my heart, And all</P>
+<CLOSER><SIGNED><HI>Per AUXILIUM PATRIS</HI> ףכ</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="table of contents">
+<DIV2 N="1" TYPE="part">
+<PB REF="4"/>
+<HEAD>THE CONTENTS.</HEAD>
+<LIST>
+<ITEM>CHAP. 1. SEverall strange, yet true and seasonable informations to the great ones, as also an apologeticall hint of the Authors principle, &amp;c.</ITEM>
+<ITEM>CHAP. 2. Severall new, strange, yet seasonable and good advice, and wholsome admonitions, and the last warning to the great ones, as from the Lord.</ITEM>
+<ITEM>CHAP. 3. Severall dismall, dole∣full cryes, &amp; out-crieo, which pierce the eares and heart of his excellent Majesty, &amp; how the King of Kings, the King of heaven charges the great ones of the earth.</ITEM>
+<ITEM>CHAP. 4. How the Judge of heaven and earth, who judgeth righteous▪ judgment, passeth sentence against all those great ones, who like sturdy O akes &amp; tall Cedars wil not bow, and how hee intends to breake them, and blow them up by the roots▪</ITEM>
+<ITEM>CHAP. 5. A most compassionate in∣formation, and a most loving &amp; pa∣theticall warning and advice to <HI>Lon∣don.</HI></ITEM>
+<ITEM>CHAP. 6. A terrible word and fatall blow from the Lord upon the gathe∣red Churches, who pretend most for God, yet defie the Almighty more then the vilest.</ITEM>
+</LIST>
+</DIV2>
+<DIV2 N="2" TYPE="part">
+<HEAD>The second Flying Roll.</HEAD>
+<LIST>
+<ITEM>CHAP. 1. The Authors commission to write. A terrible woe denounced against those that flight the roll. The Lords claim to all things; Together with a hint of a two-fold recovery, where through the most hypocriticall heart shall be ripped up, &amp;c.</ITEM>
+<ITEM>CHAP. 2. How the Lord will recover his outward things (things of this life) as money, corn, wool, flax, &amp;c. and for whom: And how they shal be plagned that detaine them as their owne. Wherein also are some mistical hints concerning St. <HI>Michaels</HI> day, and the Lords day following it this yeare; as also of the dominicall letter D, &amp;c.</ITEM>
+<ITEM>CHAP. 3. A strange, yet most true storie, vnder which is couch<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>d that lion, whose roaring shall make all the beasts of the field to tremble, and all the kingdomes of the world quake.
+Wherein also (in part) the subtility of the welfavour'd harlot is discovered, and her flesh burnt with that fire which shall burn down all Churches, except that of the first borne, &amp;c.</ITEM>
+<ITEM>CHAP. 4. That the Author hath been set as a sign and wonder, &amp;c. as well as most of the Prophets formerly; as also what strange posturs that divine Majestie (that dwels in his forme) hath set the'forme in: with the most strange and varions effects thereof
+<PB REF="5"/>
+upon the spectators. His communion with the spirits of just men made perfect, and with God the judg of all hinted at.</ITEM>
+<ITEM>CHAP. 5. The Authors strange and lofty carriage towards great ones, &amp; his most lowly carriage towards beg∣gars, rogues, prisoners, gypsies, &amp;c. Together with a large Declaration what glory shall arise up from under all these ashes. The most strange &amp; most secret and terrible, yet most glo∣rious designe of God, in choosing base things, to confound▪ things that are: And how, A most terrible viall pou∣red out upon the well-favoured har∣lot; and how the Lord is bringing in∣to contempt not only honourable per∣sons (with a vengeance) but all ho∣nourable holy things also.
+Wholsome advice, with a terrible threat to the Formalists: And how BASE things have confounded base things: And how base things have been a fie∣ry chariot to mount the Author up into divine glory and unspeakable Majestie: And how his wife is, &amp; his life is in that beauty, which maketh visible beauty seem meere deformity.</ITEM>
+<ITEM>CHAP. 6. Great ones must bow to the poorest peasants, or else they shall rue for it; No material sword or humane power (whatsoever) but the pure spi∣rit of universall love, who is the eter∣nall God, can breake the necke of ty∣ranny, oppr<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ssion, and abhominable pride and cruell murther, &amp;c. A ca∣tologue of severall judgments recited, as so many warning-pieces to appro∣p<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>iators, impropriators, and ant<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>▪free communicants.</ITEM>
+<ITEM>CHAP. 7. A further discovery of the subtilty of the well favoured harlot, with a parley between her and the spi∣rit. As also the hor<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>id villany that l<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>es hid under her smooth words, and sweet tongue (in pleading against the letter and history, and for the spirit and mistery, and all for her own ends) detected. Also upon what account the spirit is put, and upon what account the letter, &amp;c. And what the true communion, and what the true brea∣king of bread is.</ITEM>
+<ITEM>CHAP. 8. The wel-favoured harlots cloaths stript off, her nakednesse dis∣covered, her nose slit. Her <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>unting after the young man void of under∣standing, from corner to corner, from religion to religion: And the spirit pursuing, overtaking, and destroying her, &amp;c.
+With a terrible thunder-clap i'th close.</ITEM>
+</LIST>
+</DIV2>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="religious treatise">
+<PB N="1" REF="5"/>
+<HEAD>A word from the Lord to all the Great Ones of the Earth (whom this may concerne) being the last Warning Piece, &amp;c.</HEAD>
+<ARGUMENT>
+<P>1 The word of the Lord came expresly to me, saying, Sonne of man write a Roule, and these words, from my mouth, to the Great ones, saying, thus saith the Lord:</P>
+<P>Slight not this Roule, neither laugh at it, least I slight you, and cause all men to slight and scorne you; least I destroy you, and laugh at your destruction, &amp;c.</P>
+<P>2 This is, (and with a witnesse, some of you shall finde it, to be) an edg'd toole; and there's no jesting with it, or laughing at it.</P>
+<P>It's a sharp sword, sharpned, and also fourbished—</P>
+<P>No sleepy Dormouse shall dare to creep up the edge of it.</P>
+<P>Thus saith the Lord, You shall finde with a witnesse, that I am now comming to</P>
+<LIST>
+<ITEM>1 Informe you, O ye great ones.</ITEM>
+<ITEM>2 Advise and warne you, O ye great ones.</ITEM>
+<ITEM>3 Charge you, O ye great ones.</ITEM>
+<ITEM>4 Judge and sentence you, O ye great ones.</ITEM>
+</LIST>
+</ARGUMENT>
+<DIV2 N="1" TYPE="chapter">
+<HEAD><HI>CHAP. I.</HI> Containing severall strange, yet true and seasonable Informa∣tions, to the great ones. As also an apologeticall hint, of the Authors Principle, standing in the front.—</HEAD>
+<P>1. <SEG REND="decorInit">T</SEG>Hus saith the Lord, <HI>I inform you, that I over∣turn, overturn, overturn.</HI> And as the Bi∣shops, <HI>Charles,</HI> and the Lords, have had their turn, overturn, so your turn shall be next (ye surviving great ones) by what Name or Title soever dignified or distinguished) who ever you are, that oppose me, the Eternall God, who am UNIVERSALL Love, and whose service is perfect freedome, and pure Libertinisme.</P>
+<P><PB N="2" REF="6"/>2 <NOTE N="*" PLACE="marg">An Apolo∣geticall hint concerning the Authors Principle, the re<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>ult—is ne∣gative; hee speaks little in the affirmative because not one in a hun∣dred, yea even of his former acqu<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>intance, now know him, neither must they yet.</NOTE> But afore I proceed any further, be it known to you, That although that excellent Majesty, which dwels in the Writer of this Roule, hath reconciled ALL THINGS to himselfe, yet this hand (which now writes) never drew sword, or shed one drop of any mans blood. [I am free from the blood of all men] though (I say) all things are reconciled to me, the eternall God (IN HIM) yet sword levelling, or digging-levelling, are neither of them his principle.</P>
+<P>Both are as farre from his principle, as the East is from the West, or the Heavens from the Earth, (though, I say, reconciled to both, as to all things else) and though he hath more justice, righteousnesse, truth, and sincerity, shining in those low dung∣hils, (as they are esteemed) then in the Sunne, Moone, and all the Stars.</P>
+<P>3 I come not forth (in him) either with materiall sword, or Mattock, but now (in this my day—) I make him my Sword∣bearer, to brandish the Sword of the Spirit, as he hath done se∣verall dayes and nights together, thorow the streets of the great City.</P>
+<P>4 And now thus saith the Lord:</P>
+<P>Though you can as little endure the word LEVELLING, as could the lat-slaine or dead <HI>Charles</HI> (your foretunner, who is gone before you—) and had as live heare the Devill named, as heare of the Levellers (M<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>n-Levellers) which is, and who (in∣deed) are but shadowes of most terrible, yet great and glorious good things to come.</P>
+<P>5 Behold, behold, behold, I the eternall God, the Lord of Hosts▪ who am that mighty Leveller, am comming (yea even at the doores) to Levell in good earnest, to Levell to some purpose, to Levell with a witnesse, to Levell the Hills with the Valleyes, and to lay the Mountaines low.</P>
+<P>6 High Mountaines! lofty Cedars! its high time for you to enter into the Rocks, and to hide you in the dust, for feare of the Lord, and for the glory of his Majesty. For the lofty looks of man shall be humbled, and the haughtinesse of men shall be bowed downe, and the Lord ALONE shall be exalted in that day; For the day of the Lord of Hoasts, shall be upon every one that is proud, and lofty, and upon every one that is lifted up, and he shall be brought low. And upon all the Cedars of <HI>Lebanon,</HI> that
+<PB N="3" REF="6"/>
+are high and lifted up, and upon all the Oaks of <HI>Bashan;</HI> and up∣on all the high Mountaines; and upon all the Hils that are lifted up, and upon every high Tower▪ and upon every fenced Wall; and upon all the Ships of <HI>Tarshish,</HI> and upon all pleasant Pictures.</P>
+<P>And the LOFTINESSE of man shall be bowed down, and the haughtinesse of men shall be laid low. And the Lord ALONE shall be exalted in that day, and the Idols he shall ut∣terly abolish.</P>
+<P>And they shall go into the holes of the Rocks, and into the Caves of the Earth, for scare of the Lord, and for the glory of his Majesty, when he ariseth to shake terribly the earth.</P>
+<P>In that day a man shall cast his Idols of Silver, and Idols of Gold—to the bats, and to the Moles. To go into the Clefts of the Rocks and into the tops of the ragged Rocks, for feare of the Lord, and for the glory of his Majesty. For the Lord is now RISEN to shake terribly the Earth, <HI>Isa.</HI> 2. 10. to the end of the Chapter.</P>
+<P>7 Hill! Mountains! Cedars! Mighty men! Your breath is in your nostrils.</P>
+<P>Those that have admired, adored, idolized, magnified, set you up, fought for you, ven<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>ured goods, and good name; limbe and life for you, shall cease from you.</P>
+<P>You shall not (at all be accounted of (not one of you) ye stur∣dy Oake) who bowe not downe before eternall Majesty: Vni∣versall Love, whose service is perfect freedome, and who hath put down the mighty (remember, remember your fore-runner) and who is putting down the mighty from their seats; and ex∣alting them of low degree.</P>
+<P>8 Oh let not, (for your owne sakes) let not the mother of Harlots in you, who is very subtle of heart.</P>
+<P>Nor the Beast (without you) what do you call 'em? The Mi∣nisters, fat parsons, Vica<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>s, Lecturers, &amp;c. who (for their owne base ends, to maintaine their pride, and pompe, and to fill their owne paunche<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>, and purses) have been the chiefe instruments of all those horrid abominations, hellish, cruell, devillish p<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>rsecuti∣ons, in this Nation which cry for vengeance. For your owne sakes (I say) let neither the one, nor the other bewitch you, or charme your eares, to heare them say, these things shall not befall
+<PB N="4" REF="7"/>
+you, these Scriptures shall not be fulfilled upon you, but upon the Pope, Turke, and Heathen Princes, &amp;c.</P>
+<P>9 Or if any of them should (through subtilty for their owne base ends) creep into the Mystery of that forementioned <NOTE N="*" PLACE="marg">Isay 2▪</NOTE> Scrip∣ture.</P>
+<P>And tell you, Those words are to be taken in the Mystery on∣ly; and they onely point out a spirituall, inward levelling (once more, for your owne sakes, I say) believe them not.</P>
+<P>10 'Tis true, the History, or Letter, (I speake comparatively) is but as it were haire-cloth; the Mystery is fine Flax. My flax, saith the Lord, and the Thief and the Robber will steale from me my flax, to cover his nakednesse, that his filthinesse may not ap∣peare.</P>
+<P>But behold, I am (now) recovering my flax out of his hand, and discovering his lewdnesse—<HI>verbum sat</HI>—</P>
+<P>11 'Tis true, the Mystery is my joy, my delight, my life.</P>
+<P>And the Prime levelling, is laying low the Mountaines, and levelling the Hils in man.</P>
+<P>But this is not all.</P>
+<P><HI>For lo I come (saith the Lord) with a vengeance, to levell also your Honour, Riches, &amp;c. to staine the pride of all your glory, and to bring into contempt all the Honourable (both persons and things) upon the earth,</HI> Isa. 23. 9.</P>
+<P>12 For this Honour, Nobility, Gentility, Propriety, Super∣fluity, &amp;c. hath (without contradiction) been the Father of hel∣lish horrid pride, arrogance, haughtinesse, loftinesse, murder, ma∣lice, of all manner of wickednesse and implety; yea the cause of all the blood that ever hath been shed, from the blood of righte∣ous <HI>Abell,</HI> to the blood of the last-Levellers that were shot to death. <HI>And now (as I live saith the Lord) I am come to make in∣quisition for blood; for murder and pride, &amp;c.</HI></P>
+<P>13 I see the root of it all <HI>The Axe is laid to the root of the Tree</HI> (by the Eternall God, <HI>My Self,</HI> saith the Lord) <HI>I will hew <GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/> down.</HI> And as I live, I will plague your Honour, Pompe, Great∣nesse, Superfluity, and confound it into parity, equality, commu∣nity; that the neck of horrid pride, murder, malice, and tyran∣ny, &amp;c. may be chopt off at one blow. And that my selfe, the Eternall God, who am Vniversall Love, may fill the Earth with universall love, universall peace, and perfect freedome; which
+<PB N="5" REF="7"/>
+can never be by humane sword or strength accomplished.</P>
+<P>14 Wherefore bow downe, bow downe, you sturdy Oakes, and tall Cedars; bow, or by my self Ile break you.</P>
+<P>Ile cause some of you (on whom I have compassion) to bow &amp;c. and will terribly plague the rest.</P>
+<P>My little finger shall be heavier on them, then my whole loynes were on <HI>Pharaoh</HI> of old.</P>
+<P>15 And maugre the subtilty, and sedulity, the craft and cruel∣ty of hell, and earth: this Levelling shall up.</P>
+<P>Not by sword; we (holily) scorne to fight for any thing; we had as live be dead drunk every day of the weeke, and lye with whores i'th market place, and account these as good actions as taking the poore abused, enslaved ploughmans money from him (who is almost every where undone, and squeezed to death; and not so much as that plaguy, unsupportable, hellish burden, and oppression, of Tythes taken off his shoulders, notwithstanding all his honesty, fidelity, Taxes, Freequarter, petitioning &amp;c. for the same,) we had rather starve, I say, then take away his money from him, for killing of men.</P>
+<P>Nay, if we might have Captains pay, and a good fat Parsonage or two besides, we would scorne to be swordsmen, or fight with those (mostly) carnall weapons, for any thing, or against any one, or for our livings.</P>
+<P>16 No, no, wee'l live in despite of our foes; and this level∣ling (to thy torment, O mighty man) shall up, not by sword, not by might, &amp;c. but by my Spirit, saith the Lord.</P>
+<P>For I am risen, for I am risen, for I am risen, to shake terribly the earth, and not the earth onely, but the heavens also, &amp;c.</P>
+<P>But here I shall cease informing you.</P>
+<P>You may for your further information (if you please) reade my Roule to all the rich Inhabitants of the earth.</P>
+<P>Reade it if you be wise, I shall now advice you.</P>
+</DIV2>
+<DIV2 N="2" TYPE="chapter">
+<PB N="6" REF="8"/>
+<HEAD><HI>CHAP. II.</HI> Containing severall new, strange, yet seasonable Admoniti∣ons, and good advice; as the last warning to the Great Ones of the Earth. from the Lord.</HEAD>
+<P>1 THus saith the Lord: B: <NOTE N="*" PLACE="marg">Serò sapiunt P<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>ryges, sed nunquam Sera est ad Bonos mores via, 1 Admonition to great ones.</NOTE> wise now therefore, O ye Ru∣lers, &amp;c. Be instructed, &amp;c. Kisse the Sunne, &amp;c. Yea, kisse Beggers, Prisoners, warme them, feed them, cloathe them, mo∣ney them, relieve them, release them, take them into your houses, don't serve them as dogs, without doore. &amp;c.</P>
+<P>Owne them, they are flesh of your flesh, your owne brothren, your owne Sisters, every whit as good (and if I should stand in competition with you) in some degrees better then your selves.</P>
+<P>2 Once more, I say, own them; they are your self, make them one with you, or el<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>e go howling into hell; bowle for the mise∣ries that are comming upon you, sowle.</P>
+<P>The very shadow of levelling sword-levelling, man-levelling, frighted you, (and who, li<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>e your selves, can blame you, because it shook your Kingdome?) but now the substantiality of level∣ling is coming.</P>
+<P>The Eternall God, the mighty Leveller is comming, yea come, even at the door; and what will you do in that day.</P>
+<P>Repent, repent, repent, Bow down, bow down, bow, or howle, refigne, or be damned; Bow downe, bow downe, you stu<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>dy Oakes, and Cedars, bow downe.</P>
+<P>Veile too, and kisse the meaner shru<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>s. Bow, or else (by my self saith the Lord) Ile breake you in pieces (some of you) others I will teare up by the roots; I will suddenly deale with you all, some in one way; some in another. Wherefore</P>
+<LG>
+<L>Each Begger that you meet</L>
+<L>Eall down before him, kisse him in the street.</L>
+</LG>
+<P>Once more, he is thy brother, thy fellow, flesh of thy flesh.</P>
+<P>Turne not away thi<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>e eyes from thine own▪ FLESH, least I pull out thine eyes and throw thee headlong into hell.</P>
+<P>3 Mine eares are fill<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>d brim full with cryes of poore prisoners, Newgate, Ludgate cryes (of late) are seldome out of mine eares.
+<PB N="7" REF="8"/>
+Those dolefull cryes, Bread, bread, bread for the Lords sake, pierce mine eares, and heart, I can no longer for<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>eare.</P>
+<P>Werefore high you apace to all prisons in the Kingdome,<NOTE PLACE="marg">2 Admonition to great ones.</NOTE></P>
+<P>4 Bow before those poore, nasty, lousie, ragged wretches, say to them, your humble servants, Sirs▪ (without a complement) we let you go free, and serve you, &amp;c.</P>
+<P>Do this (or as I live saith the Lord) thine eyes (at least) shall be boared out, and thou carried captive into a strange Land.</P>
+<P>5 Give over, give over, thy od<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>ous, nasty, abominable fasting,<NOTE PLACE="marg">3 Admonition to great ones</NOTE> for strife and debate, and to smite with the fist of wickednesse. And instead thereof, loose the bands of wickednesse, undo the hea∣vy burdens, let the oppressed go free, and breake every yoake. Deale thy bread to the hungry, and bring the poore that are cast out (both of houses and Synagogues) to thy house. Cover the raked: Hide not thy self from thine owne flesh, from a creeple, a rogue, a begg<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>r, he's thine owne flesh. From a Whoremong<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>r, a thief, &amp;c. he's flesh of thy flesh, and his theft, and wheredome is flesh of thy flesh also, thine owne flesh. Thou maist have ten, times more of each within thee, then he that acts outwardly in either, Remember, turn not away thine eyes from thine OWN FLESH.</P>
+<P>6 Give over, give over thy midnight mischief.<NOTE PLACE="marg">4 Admonition to great ones</NOTE></P>
+<P>Let branding with the letter <HI>B▪</HI> alone.</P>
+<P>Be no longer so horridly, hellishly, impudently, arrogantly, wicked▪ as to judge what is sinne, what not, what evill, and what not, what bla<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>phemy, and what not.</P>
+<P>For thou and all thy reverend Divines, so called (who Divine for Tythes, hire, and money, and serve the Lord Jesus Christ for their owne bellyes) are ignorant of this one thing.</P>
+<P>7 That sinne and transgression is finisht, its a meere riddle, that they, with all their humane learning can never reade.</P>
+<P>Neither can they understand what pure honour is wrapt up in the Kings Motto, <HI>Honi Soit qui Mal. y. Pense.</HI> Evill to him that evill thinks.</P>
+<P>Some there are (who are accounted the off scouring of all things) who are Noble Knights of the Garter. Since which—they could see no evill, thinke no evill, doe no evill, know no evill.</P>
+<P>ALL is Religion that they speak, and honour that they do.</P>
+<P><PB N="8" REF="9"/>But all you that eat of the Tree of Knowledge of Good and Evill, and have not your Evill eye Pickt out, you call Good Evill, and Evill Good; Light Darknesse, and Darknesse Light; Truth Blasphemy, and Blasphemy Truth.</P>
+<P>And you are at this time of your Father the Devill, and of your brother the Pharisee, who still say of Christ (who is now alive) say we not well that he hath a Devill.</P>
+<P>9 Take heed, take heed, take heed.</P>
+<P>Filthy blinde Sodomites called Angels men, they seeing no further then the formes of men.</P>
+<P>10 There are Angels (now) come downe from Heaven, in the shapes and formes of men, who are full of the vengeance of the Lord; and are to poure out the plagues of God upon the Earth, and to torment the Inhabitants thereof.</P>
+<P>Some of these Angels I have been acquainted withall.</P>
+<P>And I have looked upon them as Devils, accounting them De∣vils incarnate, and have run from place to place, to hide my self from them, shunning their company; and have been utterly asha∣med when I have been seen with them.</P>
+<P>But for my labour; I have been plagued and tormented beyond expression. So that now I had rather behold one of these Angels <NOTE N="*" PLACE="marg">Rev. 15, Judges 5, Revel. 10, Neh. 13. 25,</NOTE> pouring out the plagues of God, cursing; and teaching others to curse bitterly.</P>
+<P>And had rather heare a mighty Angell (in man) swearing a full-mouthd Oath; and see the spirit of <HI>Nehemiah</HI> (in any form of man, or woman) running upon an uncleane Jew (a pretended Saint) and tearing the haire of his head like a mad man, cursing, and making others fall a swearing, then heare a zealous Presbyte∣rian, Independent, or <NOTE N="*" PLACE="marg">This will come in re∣quest with you next; you may remember that Independency, which is now so hug'd, was counted blas∣phemy, and banishment was too good for it.</NOTE> spirituall Notionist, pray, preach, or ex∣ercis<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>.</P>
+<P>11 Well▪! To the pure all things are pure. God hath so clea∣red cursing, swearing, in some, that that which goes for swearing and cursing in them, is more glorious then praying and preaching in others.</P>
+<P>And what God hath cleansed, call not thou uncleane.</P>
+<P>And if <HI>Peter</HI> prove a great transgressor of the Law, by doing that which was as odious as killing a man; if he at length (though he be loath at first) eat that which was common and unclean &amp;c. (I give but a hint) blame him not, much lesse lift up a finger
+<PB N="9" REF="9"/>
+against, or plant a hellish Ordinance—against him, least thou be plagu<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>d, and damned too, for thy zeale, blinde Religion, and fleshly holinesse, which now stinks above ground, though for∣merly it had a good savour,</P>
+<P>12 But O thou holy, zealous, devout, righteous, religious on<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> (whoever thou art) that seest evill, or any thing uncleane; do thou sweare, if thou darest, if it be but (l'faith) I'le throw thee to Hell for it (saith the Lord) and laugh at thy destruction.</P>
+<P>While Angels (in the forme of men) shall sweare, Heart, Blood, Wounds, and by the Eternall God, &amp;c. in profound pu∣rity, and in high Honour, and Majesty.</P>
+<P>13 Well! one hint more; there's swearing ignorantly, i'th darke, vainely, and there's swearing i'th light, gloriously.</P>
+<P>Well! man of the earth! Lord <HI>Esau!</HI> what hast thou to do with those who sweare upon the former account?</P>
+<P>Vengeance is mine, Judgement, Hell, Wrath, &amp;c. all is mine (saith the Lord) dare not thou to set thy foot so impudently and arrogantly upon one step of my Throne: I am Judge my self—Be wise, give over, have done—</P>
+<P>14 And as for the latter sort of swearing, thou knowest it not when thou hearest it. It's no new thing for thee to call Christ Beel-zebub, and Beel-zebub Christ; to call a holy Angell a De∣vill, and a Devill an Angell.</P>
+<P>15 I charge thee (in the name of the Eternall God) meddle not with either, let the Tares alone, least thou pull up the Wheat also, woe be to thee if thou dost. Let both alone (I say) least thou shouldest happen of a holy swearing Angell; and take a Lion by the paw to thine owne destruction.</P>
+<P>—Never was there such a time since the world stood, as now is.</P>
+<P>Thou knowest not the strange appearances of the Lord, now a daies. Take heed, know thou hast been warned.</P>
+<P>16 And whatever thou dost, dip not thy little finger in blood<NOTE PLACE="marg">5 Admonition to great ones</NOTE> any more, thou art up to the elbowes already: Much sope, yea much nitre cannot cleanse thee, &amp;c.</P>
+<P>Much more have I to say to thee (saith the Lord) but I will do it secretly; and dart a quiver full of arrowes into thy h<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>art; and I will now charge thee.</P>
+</DIV2>
+<DIV2 N="3" TYPE="chapter">
+<PB N="10" REF="10"/>
+<HEAD><HI>CHAP. III.</HI> Containing severall dismall, dolefull cryes, and outcries. which pierce the eares and heart of his Excellent Majesty, the King of Kings. And how the King of Heaven char∣geth the Great Ones of the Earth.</HEAD>
+<P>1 THus saith the Lord, Be silent, O all flesh, before the Lord; be silent; O lofty, haughty, great ones of the Earth.</P>
+<P>There are so many Bils of Indictment preferred against thee, that both heaven and earth blush thereat.</P>
+<P>How long shall I heare the sighs and groanes, and see the teares of poore widowes; and heare curses in every corner; and all sorts of people crying out oppression, oppression, tyran∣ny, tyranny, the worst of tyranny, unheard of, unna<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>urall tyranny.</P>
+<P>—O my back, my shoulders. O Tythes, Excize, Taxes, Pol∣lings, &amp;c. O Lord! O Lord God Almighty!</P>
+<P>What, a little finger heavier then former loynes?</P>
+<P>What have I engaged my goods, my life, &amp;c. forsooke my dea∣rest relations, and all for liberty and true freedome, for freedome from oppression, and more laid on my back, &amp;c.</P>
+<P>2 Mine eares are filled brim full with confused noise, cries, and outcries; O the innumerable complaints and groanes that pierce my heart (thorow and thorow) O astonishing com∣plaints.</P>
+<P>Was ever the like ingratitude heard of since the world stood? what! best friends, surest friends, slighted, scorned, and that which cometh from them (in the basest manner) contemned, and some rewarded with prisons, some with death?</P>
+<P>O the abominable persidiousnesse, falseheartednesse; self-seek∣ing, self-inriching, and Kingdome-depopulating, and devasta∣ting, &amp;c.</P>
+<P>These, and divers of the same nature, are the cries of <HI>England.</HI></P>
+<P>And can I any longer for beare?</P>
+<P>I have heard, I have heard, the groaning of my people. And now I come to deliver them, saith the Lord.</P>
+<P><PB N="11" REF="10"/>Woe be to <HI>Pharaoh</HI> King of <HI>Egypt.</HI></P>
+<P>You Great Ones that are not tackt nor tainted, you may laugh and sing, whom this hitteth it hitteth. And it shall hit home.</P>
+<P>And this which followeth, all whom it concerneth, by what name or title soever dignified or distinguished.</P>
+<P>3 You mostly hate those (called Levellers) who (for ought you know) acted as they did, out of the sincerity, simplicity, and fidelity of their hearts; fearing least they should come under the notion of Covenant-breakers, if they did not so act.</P>
+<P>Which if so, then were they most barbarously, unnaturally, bellishly murdered; and they died Martyrs for God and their Countrey.</P>
+<P>And their blood cries vengeance, vengeance, in mine ears, saith the Lord.</P>
+<P>4 Well! let it be how it will; these <NOTE N="*" PLACE="marg">Once more know, that Sword-level∣ing is not my principle; I onely pro∣nounce the righteous judgements of the Lord upon Earth, as I durst.</NOTE> Levellers (so called) you mostly hated, though in outward declarations you owned their Tenents as your owne Principle.</P>
+<P>So you mostly hate me (saith the Lord) though in outward declarations you professe me, and seeme to owne me, more then a thousand whom you despise, and account worse than your selves, who are neerer the Kingdome of Heaven then your selve.</P>
+<P>You have killed Levellers (so called) you also (with wicked hands) have slain me the Lord of life, who am now risen, and risen indeed, (and you shall know, and feele it with a witnesse) to Le∣vell you in good earnest. And to lay low all high hils, and every mountaine that is high, and lifted up, &amp;c.</P>
+<P>5 Well! once more, read <HI>Jam.</HI> 5, 1. to 7—Ye have killed the just—Ye have killed, ye have killed, ye have killed the just.</P>
+<P>The blood cryeth in mine eares, Vengeance, vengeance, ven∣geance, vengeance is mine, I will recompence.</P>
+<P>Well! what will you do with <HI>Bray,</HI> and the poore prisoners elsewhere? You know not what you do.</P>
+<P>You little know what will become of you.</P>
+<P>One of you had best remember your dream about your Fathers Moule—</P>
+<P>6 Neither do I forget the one hundred spent in supersluous dishes (at your late great <HI>London</HI> Feast, for I know what—)
+<PB N="12" REF="11"/>
+when hundreds of poore wretches dyed with hunger▪</P>
+<P>I have heard a sound in mine eares, that no lesse then a hun∣dred died in one week, pined, and starved with hunger.</P>
+<P>Howle you great ones, for all that feast daies dole, &amp;c. heare your doome.</P>
+</DIV2>
+<DIV2 N="4" TYPE="chapter">
+<HEAD><HI>CHAP. IV.</HI> How the Judge of Heaven and Earth, who judgeth righteous judgement, passeth sentence against all those Great Ones, who (like Oakes and tall Cedars) will not bow. And how he intends to blow them up by the roots.</HEAD>
+<P>1 THus saith the Lord: All you tall Cedars, and sturdy Oakes, who bow not down, who bow not down—This sentence is gone out of my mouth against you, MENE, MENE, TEKEL.</P>
+<P>Thou art weighed in the ballances, and art found wanting.</P>
+<P>God hath numbred thy Kingdome, and finished it.</P>
+<P>And thou, and all that joyne with thee, or are (in the least de∣gree) accessary to thy former, or like intended pranks, shall most terribly and most strangely be plagued.</P>
+<P>2 There is a little sparke lies under (that huge heap of ashes) all thine honour, pomp, pride, wealth, and riches, which shall utterly consume all that is uppermost, as it is written.</P>
+<P>The Lord, the Lord of Hosts, shall send among his fat ones, leanenesse; and under his glory he shall kindle a burning, like the burning of a fire, and the light of <HI>Israel</HI> shall be for a fire, and his holy one for a flame, and it shall burne and devoure his thornes, and his briers in one day.</P>
+<P>And shall consume the glory of his Forrest, and of his fruitfull field, both soule and body (<HI>i. e.</HI> this shall be done inwardly and outwardly, and shall be fulfilled both in the history and mystery) and the rest of the trees of his Forrest shall be few, that a childe may write them.</P>
+<P>And the Lord, the Lord of Hoasts, shall lop the bough with terror, and the high ones of stature shall be hewen down, and the
+<PB N="13" REF="11"/>
+haughty shall be humbled, And he shall cut down the thickets of the Forrest with iron, and <HI>Lebanon</HI> shall fall by a mighty one, <HI>Isa.</HI> 10.</P>
+<P>3 Behold, behold, I have told you.</P>
+<P>Take it to heart, else you'l repent every veine of your heart.</P>
+<P>For your own sakes take heed.</P>
+<P>Its my last warning.</P>
+<P>For the cryes of the poore, for the oppression of the needy. For the horrid insolency of proud man, who will dare to sit in my throne, and judge unrighteous judgement.</P>
+<P>Who will dare to touch mine Annoynted, and do my Pro∣phets harme.</P>
+<P>For these things sake (now) am I arrisen, saith the Lord,</P>
+<CLOSER><SIGNED>In Auxilium Patris ףכ</SIGNED></CLOSER>
+</DIV2>
+<DIV2 N="5" TYPE="chapter">
+<HEAD>CHAP. V.</HEAD>
+<P>1 O <HI>London, London,</HI> my bowels are rolled together (in me) for thee, and my compassions within me, are kindled towards thee.</P>
+<P>And now I onely tell thee, that it was not in vaine that this forme hath been brought so farre to thee, to proclaime the day of the Lord throughout thy streets, day and night, for twelve or thirteen dayes together.</P>
+<P>And that I have been made such a signe, and a wonder before many of thine Inhabitants faces.</P>
+<P>2 Many of them (among other strange exploits) beholding me, fall down flat at the feet of creeples, beggers, lazars, kissing their feet, and resigning up my money to them; being severall times over-emptied of money, that I have not had one penny left, and yet have recruited againe—</P>
+<P>3 And now my hearts! you have been forwardly in all the appearances of God,</P>
+<P>There is a strange one (now on foot) judge it not, least you be judged with a vengeance.</P>
+<P>4 Turne not away your eyes from it, least you (to your tor∣ment) heare this voyce—<HI>I was a Stranger, and ye tooke me not in.</HI></P>
+<P><PB N="14" REF="12"/>Well! bow down before Eternall Majesty, who is universall love, bow down to equality, or free community, that no more of your blood be split; that pride, arrogance, covetuousnesse, malice, hypocrisie, self seeking, &amp;c. may live no longer. Else I tremble at whats comming upon you.</P>
+<P>Remember you have been warned with a witnesse.</P>
+<CLOSER>Deare hearts Farewell.</CLOSER>
+</DIV2>
+<DIV2 N="6" TYPE="chapter">
+<HEAD><HI>CHAP. VI.</HI> A terrible word, and fatall blow from the Lord, upon the ga∣thered Churches (so called) especially upon those that are stiled Anabaptists.</HEAD>
+<P>1. HE that hath an eare to heare, let him hear what the Spirit saith against the Churches.</P>
+<P>Thus saith the Lord: Woe be to thee <NOTE N="*" PLACE="marg">The house of vanity.</NOTE> <HI>Bethaven,</HI> who callest) thy selfe by the name <NOTE N="*" PLACE="marg">The house of God.</NOTE> <HI>Bethel,</HI> it shall be more tollerable (now in the day of judgement, for <HI>Tyre</HI> and <HI>Sydon,</HI> for those whom thou accountest, and callest Heathens, then for thee.</P>
+<P>2 And thou proud <HI>Lu<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ifer,</HI> who exaltest thy self above all the Stars of God in heaven, shalt be brought down into hell; it shall be more tollerable for <HI>Sodom</HI> and <HI>Gomorrah,</HI> for drunkards and whoremongers, then for thee. Publicans and Harlots shall, Pub∣licans and Harlots do sooner enter into the Kingdome of heaven, then you.</P>
+<P>I'le give thee this fatall blow, and leave thee.</P>
+<P>3 Thou hast affronted, and defied the Almighty, more then the vilest of men (upon the face of the earth) and that so much the more, by how much the more thou takest upon thee the name of Saint, and assumest it to thy self onely, damning all those that are not of thy S<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ct.</P>
+<P>4 Wherefore be it knowne to all Tongues, Kinreds, Nations, and languages upon earth, That my most Excellent Majesty, the King of glory, the Eternall God, who dwelleth in the forme of the Writer of this Roll (among many other strange and great ex∣ploits) hath i'th open streets, with his hand fiercely stretcht out, his hat cockt up, his eyes set as if they would sparkle out; and with
+<PB N="15" REF="12"/>
+a mighty loud voyce charged 100. of Coaches, 100. of men and women of the greater ranke, and many notorious, deboist, swea∣ring, roystering roaring Cavalliers (so called) and other wilde sparks of the Gentry: And have proclaimed the notable day of the Lord to them, and that through the streets of the great Citie, and in Southwark; Many times great multitudes following him up and down, and this for the space of 12. or 13. dayes: And yet (all this while) not one of them lifting up one finger, not tou∣ching one haire of his head, or laying one hand on his raiment.</P>
+<P>But many, yea many notorious vile ones, in the esteeme of men (yea of great quality among men) trembling and bowing to the God of heaven, &amp;c.</P>
+<P>But when I came to proclaim (also) the great day of the Lord (among you) O ye carnall Gospellers.</P>
+<P>The Devill (in you) roared out, who was tormented to some purpose, though not before his time.</P>
+<P>He there shewed both his phangs and pawes, and would have torn me to pieces, and have eaten me up. Thy pride, envy, ma∣lice, arrogance, &amp;c. was powred out like a river of Brimstone, crying out, a Blasphemer, a Blasphemer, away with him: At length threatning me, and being at last raving mad, some tooke hold of my Cloak on one side, some on another, endeavouring to throw me from the place where I stood (to proclaime his Maje∣sties message) making a great uproar in a great congregation of people: Till at length I wrapt up my self in silence (for a season) for the welfavour'd harlots confusion, &amp;c.</P>
+<P>And to thine eternall shame and damnation (O mother of witchcrafts, who dwellest in gathered Churches) let this be told abroad: And let her FLESH be burnt with FIRE.</P>
+<CLOSER>Amen, Halelujah.</CLOSER>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

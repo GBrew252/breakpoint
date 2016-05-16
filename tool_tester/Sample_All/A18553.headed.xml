@@ -1,0 +1,1967 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The book of fame made by Gefferey Chaucer</TITLE><TITLE TYPE="alt" I2="0">House of fame</TITLE><AUTHOR>Chaucer, Geoffrey, d. 1400.</AUTHOR></TITLESTMT><EXTENT>Approx. 89 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2003-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A18553</IDNO>
+
+
+<IDNO TYPE="stc">STC 5087</IDNO>
+
+<IDNO TYPE="stc">ESTC S108768</IDNO>
+
+<IDNO TYPE="eebo citation">99844424</IDNO>
+
+<IDNO TYPE="proquest">99844424</IDNO>
+
+<IDNO TYPE="vid">9235</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A18553)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 9235)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1475-1640 ; 1:04)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The book of fame made by Gefferey Chaucer</TITLE><TITLE TYPE="alt" I2="0">House of fame</TITLE><AUTHOR>Chaucer, Geoffrey, d. 1400.</AUTHOR></TITLESTMT><EXTENT>[64] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>[[Westminster] :</PUBPLACE>
+<PUBLISHER>Enprynted by Wylliam Caxton,</PUBLISHER>
+<DATE>[1483]]</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Caption title.</NOTE><NOTE>Printer's name from colophon; place and date of publication from STC.</NOTE><NOTE>Edited by William Caxton.--STC.</NOTE><NOTE>In verse.</NOTE><NOTE>Signatures: a-d (a1 and d8 are blanks).</NOTE><NOTE>Reproduction of the original in the British Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2002-02</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2002-03</DATE><RESPSTMT><RESP>SPi Global</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2002-04</DATE><RESPSTMT><RESP>TCP Staff (Oxford)</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2002-04</DATE><RESPSTMT><RESP>Judith Siefring</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2002-05</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A18553">
+<STC T="S">5087</STC>
+<BIBNO T="umi">99844424</BIBNO>
+<VID>9235</VID>
+</IDG>
+<TEXT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<HEAD>The book of Fame made by Gefferey Chaucer</HEAD>
+<LG>
+<L><ABBR>GOd</ABBR> torne vs euery dreme to <ABBR>good</ABBR></L>
+<L>For it is wonder <ABBR>thyng</ABBR> by the <ABBR>wod</ABBR></L>
+<L>To my wyt / what cousyth sweuenys</L>
+<L>On the morowe / or on euenys</L>
+<L><ABBR>And</ABBR> why theffect foloweth of som̄e</L>
+<L><ABBR>And</ABBR> of som̄e it shal neuer come</L>
+<L>Why that it is a visyon</L>
+<L><ABBR>And</ABBR> why thys / a reuelacion</L>
+<L>Why thys a dreme / why that a sweuen</L>
+<L><ABBR>And</ABBR> not to euery man / syche euen</L>
+<L>Why thys a fanton / why they oracles</L>
+<L>I note / but who so of thyse myracles</L>
+<L>The causes knowe bet than I</L>
+<L>Deuyne he / for I certaynly</L>
+<L>Ne can hem not ne neuer thynke</L>
+<L>To besy my wyt / for to swynke</L>
+<L>To knowe of her signyfycacions</L>
+<L>T<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e gendres ne dystynctions</L>
+<L>Of the tymes of hem ne the causis</L>
+<L>Or why thys is more than that is</L>
+<L>Or yef folkes complexions</L>
+<L>Make hem dreme of reflexions</L>
+<L>Or ellis thus as other seyne</L>
+<L>For the grete feblenes of her brayn</L>
+<L>By abstynence / or by sekenes</L>
+<L>Pryson / stryf / or grete dystres</L>
+<L>Or ellys by dysordynance</L>
+<L>Or naturel accustomance</L>
+<L>That som̄e men be to curyous</L>
+<L>In studye / or melancolyous</L>
+<L>Or thus / so inly ful of drede</L>
+<L>That noman may hym bote rede</L>
+<L>Or ellis that deuocion</L>
+<L>Of som̄e / <ABBR>and</ABBR> contemplacion</L>
+<L>Causen suche dremes ofte</L>
+<L>Or that the cruel lyf vnsofte</L>
+<L><PB REF="2"/>Of them that loues leden</L>
+<L>Oft hopen moche or dreden</L>
+<L>That purely her impressions</L>
+<L>Causen hem to haue visions</L>
+<L>Or yf spyrites <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>an the myght</L>
+<L>To make folk to dreme on nyght</L>
+<L>Or yf the soule of propre kynde</L>
+<L>Be so perfyght as men fynde</L>
+<L>That it wote / what is to come</L>
+<L><ABBR>And</ABBR> that he warneth alle <ABBR>and</ABBR> som̄e</L>
+<L>Of eueryche of her auentures</L>
+<L>By auysyons or by fygures</L>
+<L>But that our flessh hath no myght</L>
+<L>To vnderstande it a ryght</L>
+<L>For it is <ABBR>warned</ABBR> to derkly</L>
+<L>But why the cause is / not wote I</L>
+<L>Wel worth of thys <ABBR>thyng</ABBR> clerkis</L>
+<L>That treten of that <ABBR>and</ABBR> of other werkis</L>
+<L>For I of none oppynyon</L>
+<L>No<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> as nowe / make mencion</L>
+<L>B<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>t on<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>y that the holy rode</L>
+<L>Torne vs euery dreme to <ABBR>good</ABBR></L>
+<L>For neeur syth I was born</L>
+<L>Ne noman els me byforn</L>
+<L>Mette I trowe stedfastly</L>
+<L>So wonderful a dreme / as dide I</L>
+<L>THe tenthe day of decembre</L>
+<L>The whyche as I can remembre</L>
+<L>I wyl make inuocacio<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Wyth a deuoute specyal deuocion</L>
+<L>Vnto the <ABBR>god</ABBR> of slepe anone</L>
+<L>That dwellyth in a caue of stone</L>
+<L>Vpon a streme that cometh fro le<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e</L>
+<L>That is a flode ful vnswetr</L>
+<L>Besyde a folke that men clepe cym<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>rye</L>
+<L>Ther slepeth ay thys <ABBR>god</ABBR> vnmerye</L>
+<L>Wyth hys slepy <ABBR>thousand</ABBR> sones</L>
+<L>That allewey to slepe / her woon i<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L><PB REF="2"/><ABBR>And</ABBR> to thys <ABBR>god</ABBR> / that I of rede</L>
+<L>Praye that he wyl me spede</L>
+<L>My sweuene for to telle a ryght</L>
+<L>Ye<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> ony dreme stonde in hys myght</L>
+<L><ABBR>And</ABBR> he that mouer is of al</L>
+<L>That is <ABBR>and</ABBR> was / <ABBR>and</ABBR> euer shal</L>
+<L>So yeue hem Ioye that it here</L>
+<L>Or alle that they dreme to yere</L>
+<L><ABBR>And</ABBR> for to stande alle in grace</L>
+<L>Of her loues / or in what place</L>
+<L>That hem were leuest for to stonde</L>
+<L><ABBR>And</ABBR> shelde hem / from pouerte &amp; shonde</L>
+<L><ABBR>And</ABBR> from euery vnhapp <ABBR>and</ABBR> dysese</L>
+<L><ABBR>And</ABBR> sende hem that may hem plese</L>
+<L>That taketh wel / <ABBR>and</ABBR> scorneth nought</L>
+<L>Ne it mysdeme in her thought</L>
+<L>Thurgh malicious intencion</L>
+<L><ABBR>And</ABBR> he thurgh hys presumpcion</L>
+<L>Or hate / <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> sc<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>ne / or thurgh enuye</L>
+<L>Despyte. or Iape / or felonye</L>
+<L>Mysdeme it / pray I Ihesus <ABBR>good</ABBR></L>
+<L>Dreme he barefoot or dreme be <ABBR>shood</ABBR></L>
+<L>That euery harme / that ony man</L>
+<L>Hath <ABBR>had</ABBR> syth the <ABBR>world</ABBR> began</L>
+<L>Befalle hym therof / or he sterue</L>
+<L><ABBR>And</ABBR> graunte / that he may it deserue</L>
+<L>Lo wyth suche a conclusion</L>
+<L>As <ABBR>had</ABBR> of hys vysion</L>
+<L>Cresus / that was <ABBR>kyng</ABBR> of lyde</L>
+<L>That he vpon a gy<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>et dyde</L>
+<L>Thys prayer shal he haue of me</L>
+<L>I am no bette in charyte</L>
+<L>NOw herkene as I haue you <ABBR>seyd</ABBR></L>
+<L>What that I mette / or I <ABBR>abreyd</ABBR></L>
+<L>Of decembre the tenthe daye</L>
+<L>Whan it was nyght to slepe I laye</L>
+<L>Ryght as I was wont to done</L>
+<L><ABBR>And</ABBR> fyl a slepe / wonder sone</L>
+<L><PB REF="3"/>As he that was wery for go</L>
+<L>On pylgremage myle<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> two</L>
+<L>To the corps of seynt <ABBR>leonard</ABBR></L>
+<L>To maken lythe that erst was <ABBR>hard</ABBR></L>
+<L>But as I slepte / me mette I was</L>
+<L>Wy<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>hin a temple y made of glas</L>
+<L>In whyche / there were mo ymages</L>
+<L>Of <ABBR>gold</ABBR> / <ABBR>standyng</ABBR> in dyuers stages</L>
+<L><ABBR>And</ABBR> mo ryche tabernacles</L>
+<L><ABBR>And</ABBR> wyth perte / mo pynnacles</L>
+<L><ABBR>And</ABBR> mo ryche portretures</L>
+<L><ABBR>And</ABBR> queynt maner of fygures</L>
+<L>Of <ABBR>gold</ABBR> werke / than I sawe euer</L>
+<L>For certeynly I nyst neuer</L>
+<L>Where that I was / but wel wyse I</L>
+<L>It was of venus redyly</L>
+<L>The temple for in portreture</L>
+<L>I sawe anone her fygure</L>
+<L><ABBR>Naked</ABBR> <ABBR>fletyng</ABBR> in a see</L>
+<L><ABBR>And</ABBR> also on her hede parde</L>
+<L>Rose garlondes <ABBR>smellyng</ABBR> as a mede</L>
+<L><ABBR>And</ABBR> also <ABBR>fleyng</ABBR> aboute her hede</L>
+<L>He<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> douues / <ABBR>and</ABBR> dan Cupydo</L>
+<L>Her <ABBR>blynd</ABBR> sone / <ABBR>And</ABBR> vlcano</L>
+<L>That in hys face was ful brown</L>
+<L>But I <ABBR>romed</ABBR> vp <ABBR>and</ABBR> down</L>
+<L>I fonde that on a wal there was</L>
+<L>Thus wryten on a table of bras</L>
+<L>I wyl now synge yf that I can</L>
+<L>The armes <ABBR>and</ABBR> also the man</L>
+<L>That fyrst cam thurgh hys destyne</L>
+<L>Fugytyf fro Troye / the contre</L>
+<L>In to Itaylle wyth moche pyne</L>
+<L>Vnto the strondes of lauyne</L>
+<L><ABBR>And</ABBR> tho began the storye anon</L>
+<L>As I shal telle you eche on</L>
+<L>Fyrst sawe I the destruction</L>
+<L>Of Troye thurgh the greke Synon</L>
+<L><PB REF="3"/>Wyth hys fals vntrewe <ABBR>forsweryng</ABBR></L>
+<L><ABBR>And</ABBR> wyth hys chere <ABBR>and</ABBR> hys <ABBR>lesyng</ABBR></L>
+<L>Made the hors / brought in to Troye</L>
+<L>By whyche Troians loste theyr Ioye</L>
+<L><ABBR>And</ABBR> after thys was <ABBR>graued</ABBR> alas</L>
+<L>How ylion <ABBR>assayled</ABBR> was</L>
+<L><ABBR>And</ABBR> wonne / <ABBR>and</ABBR> <ABBR>kyng</ABBR> Priamus slayn</L>
+<L><ABBR>And</ABBR> plyto hys sone certayn</L>
+<L>Dyspytously of dan Pirrus</L>
+<L><ABBR>And</ABBR> next that / saw I how Venus</L>
+<L>Whan that she sawe the castel brende</L>
+<L>Down from heuen she gan descende</L>
+<L><ABBR>And</ABBR> <ABBR>bad</ABBR> her sone / En<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>as flee</L>
+<L><ABBR>And</ABBR> how he <ABBR>fled</ABBR> / <ABBR>and</ABBR> how that he</L>
+<L><ABBR>Escaped</ABBR> was / from alle the prees</L>
+<L><ABBR>And</ABBR> toke hys fader olde Anchyses</L>
+<L><ABBR>And</ABBR> dare hym on hys back awey</L>
+<L><ABBR>Cryeng</ABBR> alas / <ABBR>and</ABBR> we<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>eawey</L>
+<L>The whyche Anchises in hys <ABBR>hand</ABBR></L>
+<L>Bare tho the goddes of the <ABBR>land</ABBR></L>
+<L>Thylke / that <ABBR>vnbrennyd</ABBR> were</L>
+<L>Thenne sawh I next in al thys fere</L>
+<L>How Creusa daun Eneas wyf</L>
+<L>Whom that he <ABBR>loued</ABBR> as hys lyf</L>
+<L><ABBR>And</ABBR> her <ABBR>yong</ABBR> sone Iulo</L>
+<L><ABBR>And</ABBR> eke askanius also</L>
+<L>Fledden eke wyth drery chere</L>
+<L>That it was pyte for to h<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>re</L>
+<L><ABBR>And</ABBR> in a forest as they wente</L>
+<L>At a <ABBR>tornyng</ABBR> of a wente</L>
+<L>How Creusa was y lost / alas</L>
+<L>That <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ede note I how it was</L>
+<L>How he her sought / <ABBR>and</ABBR> how her ghoos<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L><ABBR>Bad</ABBR> hym <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>le the grekes hoost</L>
+<L><ABBR>And</ABBR> seyde he most in to Itaylle</L>
+<L>As was hys destyne / sauns fayll<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>That it was pyt<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> for to here</L>
+<L>Whan her spyryte gan appere</L>
+<L><PB REF="4"/><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> worde<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> / that to hym she <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>eyd<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L><ABBR>And</ABBR> for to k<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>pe her sone she preyd<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>There sawe I grauen eke / how he</L>
+<L>Hys fader eke <ABBR>and</ABBR> hys meyne</L>
+<L>Wyth hys shyppis gan to saylle</L>
+<L><ABBR>Tolbard</ABBR> the contre of I wylle</L>
+<L>As streyght as that they myght go</L>
+<L>There sawe I eke / the cruel Iuno</L>
+<L>That art dan Iubit<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>rs wyf</L>
+<L>That hast <ABBR>hated</ABBR> alle thy lyf</L>
+<L>Alle the Twian <ABBR>blood</ABBR></L>
+<L>Renne <ABBR>and</ABBR> crye as thou were <ABBR>wood</ABBR></L>
+<L>On Eolus the <ABBR>god</ABBR> of wyndes</L>
+<L>To blowen out of alle kyndes</L>
+<L>So lowde that he <ABBR>shold</ABBR> drenche</L>
+<L><ABBR>Lord</ABBR>. lady. grome. <ABBR>and</ABBR> w<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>nche</L>
+<L>Of alle the troians nacion</L>
+<L>Wythout ony of her sauacion</L>
+<L>Ther sawe I suche tempest arys<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>That euery hert myght agryse</L>
+<L>To see hyt <ABBR>p<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ynted</ABBR> on the wa<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Ther sawe I eke g<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>uen wyth al</L>
+<L>Venus / how ye my lady d<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>e</L>
+<L><ABBR>Wepyng</ABBR> wyth ful woful chere</L>
+<L><ABBR>Prayng</ABBR> Iubiter on hye</L>
+<L>To saue <ABBR>and</ABBR> kepe that nauy<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Of that Trogean Eneas</L>
+<L>Syth that he her sone was</L>
+<L>Ther sawe I Ioues <ABBR>and</ABBR> venus kysse</L>
+<L><ABBR>And</ABBR> <ABBR>graunted</ABBR> was of the tempest lysse</L>
+<L>Ther sawe I how the tempest stent<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L><ABBR>And</ABBR> how wyth peyne he went<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L><ABBR>And</ABBR> pryuely toke a ryuage</L>
+<L>In the contre of Cartage</L>
+<L><ABBR>And</ABBR> on the morow / hou that he</L>
+<L><ABBR>And</ABBR> a knyght that hyght Ach<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>te</L>
+<L>Metten wyth venus that daye</L>
+<L><ABBR><GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>yng</ABBR> in a queynt a<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>aye</L>
+<L><PB REF="4"/>As she <ABBR>had</ABBR> be an huntrresse</L>
+<L>Wyth wynde <ABBR>blowyng</ABBR> her tresse</L>
+<L><ABBR>And</ABBR> how Eneas began to pleyne</L>
+<L>Whan he knewe her / of hys peyne</L>
+<L><ABBR>And</ABBR> how hys shippes dreynt were</L>
+<L>Or ellis y lost he nyst where</L>
+<L>How she gan hym conforte th<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L><ABBR>And</ABBR> <ABBR>bad</ABBR> hym to Cartage go</L>
+<L><ABBR>And</ABBR> there he <ABBR>shold</ABBR> hys folke fynde</L>
+<L>That in the see were left behynde</L>
+<L><ABBR>And</ABBR> shortly of thys <ABBR>thyng</ABBR> to pass<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>She made Eneas so in grace</L>
+<L>Of Dido quene of that contre</L>
+<L>That shortly for to tellen / she</L>
+<L>Becam hys loue / <ABBR>and</ABBR> lete hym d<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Alle that <ABBR>wedd<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>g</ABBR> longeth to</L>
+<L>What <ABBR>shold</ABBR> I speke more queynt</L>
+<L>Or peyne / my wordes to peynte</L>
+<L>To speke of loue / it wyl not be</L>
+<L>I can not of that fa<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>lte</L>
+<L><ABBR>And</ABBR> eke to tellen of the manere</L>
+<L>How they fyrst <ABBR>acqueynted</ABBR> were</L>
+<L>It were a <ABBR>long</ABBR> processe to t<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ke</L>
+<L><ABBR>And</ABBR> ouer longe for yow to dwell<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Ther sawe I graue / how Eneas</L>
+<L><ABBR>Told</ABBR> to Dido euery <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>as</L>
+<L>That hym was <ABBR>tyd</ABBR> vpon the see</L>
+<L><ABBR>And</ABBR> efte grauen was how that sh<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Made of hym shortly at a worde</L>
+<L>Her lyf / her loue / her lust / her <ABBR>lord</ABBR></L>
+<L><ABBR>And</ABBR> dyde to hym alle reuerence</L>
+<L><ABBR>And</ABBR> <ABBR>leyd</ABBR> on hym alle dyspen<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/></L>
+<L>That ony womman myght do</L>
+<L><ABBR>Wenyng</ABBR> alle hyt <ABBR>had</ABBR> be soo</L>
+<L>As he her swore <ABBR>and</ABBR> h<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>rtly <ABBR>demed</ABBR></L>
+<L>That he was <ABBR>good</ABBR> / for he suche <ABBR>semed</ABBR></L>
+<L>Alas what harme doth apparenc<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Whan it is fals in existen<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e</L>
+<L><PB REF="5"/><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> he to her a traytour was</L>
+<L>Wherfor she slowe her self alas</L>
+<L>Lo how a womman doth amys</L>
+<L>To loue hym that vnknowen is</L>
+<L>For euery trust / lo thus it faryth</L>
+<L>It is not all <ABBR>gold</ABBR> that glaryth</L>
+<L>For also browke I myn hede</L>
+<L>Ther may be vnder goodlyhede</L>
+<L><ABBR>Couerd</ABBR> many a <ABBR>sherewd</ABBR> vyce</L>
+<L>Therfore be no wyght so nyce</L>
+<L>To take a loue only for chere</L>
+<L>Or for speche or frendely manere</L>
+<L>For thus shal euery womman fynde</L>
+<L><ABBR>And</ABBR> swere / how he is vnkynde</L>
+<L>Or fals <ABBR>prouyd</ABBR> / or double was</L>
+<L>Alle thys saye I by Eneas</L>
+<L><ABBR>And</ABBR> dido / <ABBR>and</ABBR> her nece loste</L>
+<L>That <ABBR>louyd</ABBR> al to sone a ghoste</L>
+<L>Therfore I wyl saye o prouerbe</L>
+<L>That he that fully knoweth the herbe</L>
+<L>May saufly leye it to hys eye</L>
+<L>Wythouten drede that is no lye</L>
+<L>But lete vs speke of Eneas</L>
+<L>How he <ABBR>betrayed</ABBR> her alas</L>
+<L><ABBR>And</ABBR> left her ful vnkyndly</L>
+<L>So whan she alle sawe vtterly</L>
+<L>That he <ABBR>wold</ABBR> her of trouth faylle</L>
+<L><ABBR>And</ABBR> wende fro her in to Itaylle</L>
+<L>She began to wrynge her handes two</L>
+<L>Alas <ABBR>quod</ABBR> she / that myn hert is wo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Alas is euery man thus trewe</L>
+<L>That euery yere wyl haue a newe</L>
+<L>Yf hyt so <ABBR>long</ABBR> tyme endure</L>
+<L>Or ellis thre perauenture</L>
+<L><ABBR>And</ABBR> thus of one / he wyl haue fame</L>
+<L>In <ABBR>magnefyeng</ABBR> hys owen name</L>
+<L>Another for frenshyp seyth he</L>
+<L><ABBR>And</ABBR> yet shal the thyrde be</L>
+<L><PB REF="5"/>That is taken / for delyte</L>
+<L>Lo or els for synguler prouffyte</L>
+<L>In suche wordes gan compleyne</L>
+<L>Dido / of her grete peyne</L>
+<L>As me mette / <ABBR>dremyng</ABBR> redyly</L>
+<L>None other auctour alege wyl I</L>
+<L>Alas <ABBR>quod</ABBR> she my swete herte</L>
+<L>Haue pyte of my sorowes smerte</L>
+<L><ABBR>And</ABBR> sle me not / go not away</L>
+<L>O woful Dido / weleaway</L>
+<L><ABBR>Quod</ABBR> she / to her self tho</L>
+<L>O Eneas what wyl ye do</L>
+<L>O that loue / ne oth ne your bonde</L>
+<L>That ye swore wyth your ryght honde</L>
+<L>Ne my cruel deth <ABBR>quod</ABBR> she</L>
+<L>May <ABBR>hold</ABBR> yow stylle wyth me</L>
+<L>O. haue ye of my deth pyte</L>
+<L>Y wys my owne dere h<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>rte ye</L>
+<L>Knowe ful wel that neuer yet</L>
+<L>As fer as euer I <ABBR>had</ABBR> wytte</L>
+<L>Agylte yow in thought ne in dede</L>
+<L>O men haue ye suche goodlyhede</L>
+<L>In speche / <ABBR>and</ABBR> neuer a dele in trouthe</L>
+<L>Alas / that euer <ABBR>had</ABBR> routhe</L>
+<L>Ony womman / on a fals man</L>
+<L>Nowe I see wel <ABBR>and</ABBR> telle can</L>
+<L>We <ABBR>wretchyd</ABBR> wymmen can no arte</L>
+<L>For certayn for the more parte</L>
+<L>Thus we ben <ABBR>seruyd</ABBR> euerychone</L>
+<L>How sore ye men can grone</L>
+<L>Anon as we haue you <ABBR>resceyuyd</ABBR></L>
+<L>Certaynly / we be <ABBR>dysceyuyd</ABBR></L>
+<L>For though your loue laste a seson</L>
+<L>Wayte vppon the conclusion</L>
+<L><ABBR>And</ABBR> eke how ye determyne</L>
+<L><ABBR>And</ABBR> for the more par<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> defyne</L>
+<L>O weleaway / that I was born</L>
+<L>For thurgh yow my name is born</L>
+<L><PB REF="6"/><ABBR><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>nd</ABBR> myn actes <ABBR>red</ABBR> <ABBR>and</ABBR> songe</L>
+<L>Oueral thys londe in euery tonge</L>
+<L>Of <ABBR>wyckyd</ABBR> fame / for ther nys</L>
+<L>No <ABBR>thyng</ABBR> so swyft / <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>o as she is</L>
+<L>O syth euery <ABBR>thyng</ABBR> is wyst</L>
+<L>Though it be <ABBR>couerd</ABBR> wyth the myst</L>
+<L>Eke though I myght / endure euer</L>
+<L>That I haue don / recouer I neuer</L>
+<L>That I ne shal be <ABBR>sayd</ABBR> / alas</L>
+<L>Y <ABBR>shamed</ABBR> was thurgh Eneas</L>
+<L><ABBR>And</ABBR> that I shal thus <ABBR>Iuged</ABBR> be</L>
+<L>Lo / ryght as she hath now / she</L>
+<L>Wyll done eftsones hardely</L>
+<L>Thus seyth the peple preuely</L>
+<L>But that is don / is not to done</L>
+<L>But alle <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>er compleynt / ne her mo<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/></L>
+<L>Cer<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>yn auayleth not a s<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>e</L>
+<L><ABBR>And</ABBR> whan she wyst sothly / <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e</L>
+<L>Was for<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>h in to hys shyp goon</L>
+<L>S<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e in to her chambre w<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>nte anon<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>And <ABBR>ca<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>led</ABBR> for her suster Anne</L>
+<L><ABBR>And</ABBR> beganne h<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>r to compleyne than<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/></L>
+<L><ABBR>And</ABBR> <ABBR>sayd</ABBR> that she the cause was</L>
+<L>That she so <ABBR>loued</ABBR> alas</L>
+<L><ABBR>And</ABBR> thus <ABBR>councey<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>yd</ABBR> she her to</L>
+<L>But what whan thys <ABBR>sayd</ABBR> was <ABBR>and</ABBR> d<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>S<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e roof h<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>r self to the herte</L>
+<L><ABBR>And</ABBR> so deyde / thurgh h<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>r smert<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>But alle the maner / hou she deyde</L>
+<L><ABBR>And</ABBR> alle the wordes how she seyde</L>
+<L>Who so to knowe / hath it in purpoo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Rede Vyrgyle in Eneydo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>O<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> the e<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ystle of Ouyde</L>
+<L>What that she wrote / or she deyde</L>
+<L><ABBR>And</ABBR> nere it were to longe t<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ndyte</L>
+<L>By <ABBR>god</ABBR> I wolde it here wryte</L>
+<L>But welawey / the harme <ABBR>and</ABBR> routhe</L>
+<L>That hath <ABBR>betyd</ABBR> for suche vntrouthe</L>
+<L><PB REF="6"/>As men may ofte in bookes rede</L>
+<L><ABBR>And</ABBR> alday / it is yet in dede</L>
+<L>That for to thynken it tren is</L>
+<L>Lo Demophon / duk of Athenes</L>
+<L>How he forswore hym falsely</L>
+<L><ABBR>And</ABBR> <ABBR>trayed</ABBR> Phillis wyckedly</L>
+<L>That kynges doughter was of trace</L>
+<L><ABBR>And</ABBR> falsely gan hys terme pace</L>
+<L><ABBR>And</ABBR> whan she wyst / that he was fa<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/></L>
+<L>She henge her self by the hals</L>
+<L>For he <ABBR>had</ABBR> don her suche vntrowthe</L>
+<L>Lo was not thys / a woo <ABBR>and</ABBR> routhe</L>
+<L>Eke loke how fals <ABBR>and</ABBR> recheles</L>
+<L>Was to Breseyda Achylles</L>
+<L><ABBR>And</ABBR> Paris to Oenone</L>
+<L><ABBR>And</ABBR> Iason to ysyphyle</L>
+<L><ABBR>And</ABBR> eft Iason to Med<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>a</L>
+<L><ABBR>And</ABBR> Hercules to Dionyra</L>
+<L>For he l<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ft her for Yolee</L>
+<L>That made hym catche hys deth parde</L>
+<L>How fals was eke Thescus</L>
+<L>That as the story telleth vs</L>
+<L>How he <ABBR>betrayed</ABBR> Adriane</L>
+<L>The deuyl be hys soule bane</L>
+<L>For <ABBR>had</ABBR> he <ABBR>sanged</ABBR> or <ABBR><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ow<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>id</ABBR></L>
+<L>He muste haue ben all <ABBR>deuourid</ABBR></L>
+<L>Yef that Adrian <ABBR>had</ABBR> not be</L>
+<L><ABBR>And</ABBR> for she <ABBR>had</ABBR> of hym pyte</L>
+<L>She made hym from the deth escape</L>
+<L><ABBR>And</ABBR> he made her a ful fals Iape</L>
+<L>For after thys / wythin a whyle</L>
+<L>He left her <ABBR>slepyng</ABBR> wythin an yle</L>
+<L>Desert allone wythin the s<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e</L>
+<L><ABBR>And</ABBR> scale away / <ABBR>and</ABBR> lete her be</L>
+<L><ABBR>And</ABBR> toke her suster / Phed<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>a tho</L>
+<L>Wyth hym / <ABBR>and</ABBR> gan to shyp go</L>
+<L><ABBR>And</ABBR> yet <ABBR>had</ABBR> he sworn to <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ere</L>
+<L>On alle that euer he myght swere</L>
+<L><PB REF="7"/>That so she <ABBR>sauyd</ABBR> hym hys lyf</L>
+<L>He wolde taken her to hys wyf</L>
+<L>For she <ABBR>desyred</ABBR> <ABBR>nothyng</ABBR> ellis</L>
+<L>In certeyn / as the book vs tellis</L>
+<L>But texcuse thys Eueas</L>
+<L>Fullych of hys grete trespaas</L>
+<L>The book sayth sauns faylle</L>
+<L>The goddis <ABBR>bad</ABBR> hym go to Itaylle</L>
+<L><ABBR>And</ABBR> leuen Affryques regyoun</L>
+<L><ABBR>And</ABBR> Dido <ABBR>and</ABBR> her fayr toun</L>
+<L>Tho I sawe graue hou to ytaylle</L>
+<L>Dan Eneas is goon to saylle</L>
+<L><ABBR>And</ABBR> hou the tempest al began</L>
+<L><ABBR>And</ABBR> hou he lost hys stere<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>man</L>
+<L>Whyche that the stern / or he tok<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> kepe</L>
+<L>Smot<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> ouer the <ABBR>bord</ABBR> / lo er he lepe</L>
+<L><ABBR>And</ABBR> also saugh I how s<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>byle</L>
+<L><ABBR>And</ABBR> Eneas besyde an yle</L>
+<L>To helle wenten for to see</L>
+<L>Hys fader Anchyses the fre</L>
+<L><ABBR>And</ABBR> how he there fonde Polymarus</L>
+<L><ABBR>And</ABBR> also Dido / <ABBR>and</ABBR> Deyphebus</L>
+<L><ABBR>And</ABBR> euerych torment eke in helle</L>
+<L>Sawe he whyche no tonge can telle</L>
+<L>Whyche / who so lyste to knowe</L>
+<L>He muste rede many a rowe</L>
+<L>In Virgyle / or in Claudian</L>
+<L>Or daunt / that it tellen can</L>
+<L>There sawe I eke alle the arryuaylle</L>
+<L>That Eneas <ABBR>had</ABBR> made in to ytaylle</L>
+<L><ABBR>And</ABBR> wyth <ABBR>kyng</ABBR> latyn hys tret<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e</L>
+<L><ABBR>And</ABBR> alle the bataylles that he</L>
+<L>Was at hym self / <ABBR>and</ABBR> alle hys knyghtis</L>
+<L>Or he <ABBR>had</ABBR> alle ywonne hys ryghtis</L>
+<L><ABBR>And</ABBR> whan he turnus reft hys lyf</L>
+<L><ABBR>And</ABBR> wan lauyna to hys wyf</L>
+<L><ABBR>And</ABBR> alle the meruayllous signals</L>
+<L>Of the goddes celestyals</L>
+<L><PB REF="7"/>How maugre Iuno / Eneas</L>
+<L>For alle her flygt <ABBR>and</ABBR> compas</L>
+<L><ABBR>Achyeuyd</ABBR> alle hys auenture</L>
+<L>For Iubiter toke on hym <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ure</L>
+<L>At the prayer of venus</L>
+<L>The I praye alway saue vs</L>
+<L><ABBR>And</ABBR> vs aye of our sorowes lyghte</L>
+<L>Whan I <ABBR>had</ABBR> alle seyn thys syght</L>
+<L>In thys noble temple thus</L>
+<L>Ay <ABBR>lord</ABBR> / thought I that madest vs</L>
+<L>Yet sawe I neuer suche noblesse</L>
+<L>Of ymages / ner suche rychesse</L>
+<L>As I sawe grauen in thys chyrche</L>
+<L>But not wote I / who dide hem wyrche</L>
+<L>Ne where I am ne in what contre</L>
+<L>But anone I gan out see</L>
+<L>Ryght at the wyket / yf I can</L>
+<L>Seen oughwher / ony <ABBR>steryng</ABBR> man</L>
+<L>That <ABBR>wold</ABBR> haue <ABBR>told</ABBR> where I am</L>
+<L>Whan I out of the dore cam</L>
+<L>I fast aboute me behelde</L>
+<L>Then sawe I but a large felde</L>
+<L>As fer as euer I myght see</L>
+<L>Wythoute toun / hous / or tree</L>
+<L>Or busshes or gras / or <ABBR>ered</ABBR> londe</L>
+<L>For alle the felde was but of sonde</L>
+<L>As smal as man may see at eye</L>
+<L>In the deserte of lybye</L>
+<L>Ne I no maner creature</L>
+<L>That is <ABBR>fourmed</ABBR> by natūre</L>
+<L>Ne sawe I / me to rede or wysse</L>
+<L>O Cryst thought I / that art in blysse</L>
+<L>From fanton / <ABBR>and</ABBR> illusioun</L>
+<L>Me saue / <ABBR>and</ABBR> wyth deuocioun</L>
+<L>Myn eyen to the heuen I caste</L>
+<L>Tho was I ware / <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>o at the laste</L>
+<L>That fast by the sonne an hye</L>
+<L>As kēne myght I / wyth myn <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ye</L>
+<L><PB REF="8"/>Me thought I sawe an Egle fore</L>
+<L>But that it <ABBR>semed</ABBR> moche more</L>
+<L>Than I <ABBR>had</ABBR> ony Egle I seen</L>
+<L>Thys is as soth / as d<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>th certeyn</L>
+<L>It was of <ABBR>gold</ABBR> / <ABBR>and</ABBR> shone so bryght</L>
+<L>That neuer sawe men suche a syght</L>
+<L>But yf the heuen <ABBR>had</ABBR> y wonne</L>
+<L>Alle newe of <ABBR>gold</ABBR> another sonne</L>
+<L>So shone the Egles fethers bryght</L>
+<L><ABBR>And</ABBR> sone <ABBR>downward</ABBR> gan it lyght</L>
+</LG>
+<LG>
+<L>Explicit liber primus</L>
+<L>Incipit liber secundus</L>
+</LG>
+<LG>
+<L>TOw herkene euery maner man</L>
+<L>Hat ony maner of englyssh can</L>
+<L><ABBR>And</ABBR> listeneth / of my dreme to lere</L>
+<L>For at the fyrst / shal ye here</L>
+<L>So s<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ly / <ABBR>and</ABBR> so dredeful a vision</L>
+<L>That I saye that neuer Scipio<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Ne kynge Nabugodonosor</L>
+<L>Pharao. Turnus. ne Elcanor</L>
+<L>Ne metten suche a dreme as thys</L>
+<L>Now fayr blysful O cyprys</L>
+<L>So be my fauour at thys tyme</L>
+<L>That ye me tendytr <ABBR>and</ABBR> ryme</L>
+<L>Helpe ye that in pornaso dwelle</L>
+<L>By syde Elycon the clew welle</L>
+<L>O. thought. that wrot alle that I mette</L>
+<L><ABBR>And</ABBR> in the tresorye it sette</L>
+<L>Of my brayn / now shal men see</L>
+<L>Yf ony vertu / in the be</L>
+<L>To telle alle my dreme a ryght</L>
+<L>Now kythe thyn engyn <ABBR>and</ABBR> myght</L>
+<L>Thys Egle / of whyche I now haue <ABBR>told</ABBR></L>
+<L>That hys fethers shoon alle of <ABBR>gold</ABBR></L>
+<L>Whyche that so hye gan to sore</L>
+<L>I gan beholden more <ABBR>and</ABBR> more</L>
+<L><PB REF="8"/>To seen her beaute / <ABBR>and</ABBR> the wonder</L>
+<L>But neuer was ther dynte of thonder</L>
+<L>Ne that <ABBR>thyng</ABBR> that men calle fowdre</L>
+<L>That smyte sone a tour to powdre</L>
+<L><ABBR>And</ABBR> in hys swyft <ABBR>comyng</ABBR> brende</L>
+<L>That so swythe gan <ABBR>douneward</ABBR> descende</L>
+<L><ABBR>And</ABBR> thys fowle whan I behelde</L>
+<L>Whan I a rowme was in the felde</L>
+<L><ABBR>And</ABBR> wyth hys grym pawys stronge</L>
+<L>Wythin hys sharpe nayles longe</L>
+<L>Me <ABBR>fleyng</ABBR> / at a swap he hente</L>
+<L><ABBR>And</ABBR> wyth hys sours / agayn vp wente</L>
+<L>Me <ABBR>caryeng</ABBR> in hys clawes starke</L>
+<L>As lyghtly as I <ABBR>had</ABBR> ben a larke</L>
+<L>How hye I can not telle yow</L>
+<L>For I cam vp I nyste neuer how</L>
+<L>For so <ABBR>astoned</ABBR> <ABBR>and</ABBR> <ABBR>assweued</ABBR></L>
+<L>That euery vertu in my <ABBR>heued</ABBR></L>
+<L>What wyth hys sours <ABBR>and</ABBR> my drede</L>
+<L>That alle my <ABBR>felyng</ABBR> gan to dede</L>
+<L>For why it was a grete affraye</L>
+<L>Thus I longe / in hys clawes laye</L>
+<L>Tyl atte laste / he to me spack</L>
+<L>In mannes voys / <ABBR>and</ABBR> <ABBR>sayd</ABBR> awake</L>
+<L><ABBR>And</ABBR> <ABBR>sayd</ABBR> be not agast so for shame</L>
+<L><ABBR>And</ABBR> <ABBR>callyd</ABBR> me tho by my name</L>
+<L><ABBR>And</ABBR> for I <ABBR>shold</ABBR> better abreyde</L>
+<L>Me to awake / thus he seyde</L>
+<L>Ryght in the same voys <ABBR>and</ABBR> steuen</L>
+<L>That vseth one / that I can neuen</L>
+<L><ABBR>And</ABBR> wyth that voys soth to seyn</L>
+<L>My mynde cam to me ageyn</L>
+<L>For it was godely <ABBR>sayd</ABBR> to me</L>
+<L>So was it neuer wont to be</L>
+<L><ABBR>And</ABBR> here wyth alle I gan to ste<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e</L>
+<L>As he me in hys feet <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ere</L>
+<L>Tyl that he felt that I <ABBR>had</ABBR> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ete</L>
+<L><ABBR>And</ABBR> felte eke tho myn herte bete</L>
+<L><PB REF="9"/><ABBR>And</ABBR> tho gan he me to dysporte</L>
+<L><ABBR>And</ABBR> wyth gentyl wordes me conforte</L>
+<L><ABBR>And</ABBR> seyde twyes seynt Marye</L>
+<L>Thou art anoyous <ABBR>thyng</ABBR> to carye</L>
+<L><ABBR>And</ABBR> <ABBR>nothyng</ABBR> nedeth it parde</L>
+<L>For also wys <ABBR>god</ABBR> helpe me</L>
+<L>As thou no harme shal haue of thys</L>
+<L><ABBR>And</ABBR> thys was that <ABBR>betyd</ABBR> the is</L>
+<L>Is for thy bore <ABBR>and</ABBR> for thy prowe</L>
+<L>Lete see darst thou loke yet nowe</L>
+<L>Be ful <ABBR>ensured</ABBR> boldely</L>
+<L>I am thy frende / <ABBR>and</ABBR> therwyth I</L>
+<L>Gan for to wondre in my mynde</L>
+<L>O <ABBR>god</ABBR> <ABBR>quod</ABBR> I that madest alle kynde</L>
+<L>Shal I none otherwyse dye</L>
+<L>Whether Ioue wyl me stellyfye</L>
+<L>Or what <ABBR>thyng</ABBR> may thys signefye</L>
+<L>I am nether Enock ne Helye</L>
+<L>Ne Romulus ne Ganemede</L>
+<L>That were bore vp as men rede</L>
+<L>To heuen / wyth dan Iubiter</L>
+<L><ABBR>And</ABBR> made the goddis boteler</L>
+<L>Lo thys was tho my fantasye</L>
+<L>But he that bare gan espye</L>
+<L>That I so thought / <ABBR>and</ABBR> <ABBR>seyd</ABBR> thys</L>
+<L>Thou d<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>mest of thy self amys</L>
+<L>For Ioue is not ther aboute</L>
+<L>I dar the put ful out of d<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ute</L>
+<L>To make of the yet a sterre</L>
+<L>But er I bere the moche ferre</L>
+<L>I wyl the telle what I am</L>
+<L><ABBR>And</ABBR> whyther thou shalt <ABBR>and</ABBR> why I cam</L>
+<L>To do thys so that thou take</L>
+<L><ABBR>Good</ABBR> herte / <ABBR>and</ABBR> not for fere quake</L>
+<L>Gladly <ABBR>quod</ABBR> I / now wel <ABBR>quod</ABBR> he</L>
+<L>Fyrst I that in my f<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>et haue the</L>
+<L>Of whom thou hast feer <ABBR>and</ABBR> wonder</L>
+<L>I am <ABBR>dwellyng</ABBR> / wyth the <ABBR>god</ABBR> of thoeder</L>
+<L><PB REF="9"/>Whyche men callen Iubiter</L>
+<L>That doth me fleen ful oft fer</L>
+<L>To do alle hys comandement</L>
+<L><ABBR>And</ABBR> for thys cause he hath me sent</L>
+<L>To the / herke now by thy trouthe</L>
+<L>Certeyn he hath of the routhe</L>
+<L>That thou hast so truly</L>
+<L>Longe <ABBR>seruyd</ABBR> ententyfly</L>
+<L>Hys blynde neuew Cupido</L>
+<L><ABBR>And</ABBR> fayr venus also</L>
+<L>Wyth oute guerdon euer yet</L>
+<L><ABBR>And</ABBR> netheles hast set thy wyt</L>
+<L>Al though in thy hede / ful lytyl is</L>
+<L>To make bookes. songes .or ditees</L>
+<L>In ryme or ellis in Cadence</L>
+<L>As thou best canst in reuerence</L>
+<L>Of loue <ABBR>and</ABBR> of hys seruantis eke</L>
+<L>That ha<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e hys seruyse sought <ABBR>and</ABBR> seke</L>
+<L><ABBR>And</ABBR> peynest the to preyse hys arte</L>
+<L>Al though thou haddest neuer parte</L>
+<L>Wherfore also <ABBR>god</ABBR> me blesse</L>
+<L>Ioues holt hyt grete humblesse</L>
+<L><ABBR>And</ABBR> vertu / eke thou dost wake</L>
+<L>On nyght <ABBR>and</ABBR> makest thyn hede ake</L>
+<L>In thy studye / so thou wrytest</L>
+<L><ABBR>And</ABBR> euermore of loue endytest</L>
+<L>In honour of hym <ABBR>and</ABBR> <ABBR>preysyng</ABBR></L>
+<L><ABBR>And</ABBR> in hys folkes <ABBR>furthryng</ABBR></L>
+<L><ABBR>And</ABBR> in her mater alle deuysest</L>
+<L><ABBR>And</ABBR> not hym ne hys folk de<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>pisest</L>
+<L>Alle though thou mayst go in the daunce</L>
+<L>Of hem that hym lyst not auaunce</L>
+<L>Wherfore as I seyde ywys</L>
+<L>Iubyter considereth wel thys</L>
+<L><ABBR>And</ABBR> also <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>eau sire of other thyngis</L>
+<L>That is / thou hast no tydynges</L>
+<L>Of loues folk / yf they be glade</L>
+<L>Ne of <ABBR>nothyng</ABBR> els / that <ABBR>god</ABBR> made</L>
+<L><PB REF="10"/><ABBR>And</ABBR> not only fro fer contre</L>
+<L>That no tidynges comen to the</L>
+<L>Not of thy very neygheboris</L>
+<L>That dwellen almost at thy doris</L>
+<L>Thou herest neyther that ne thys</L>
+<L>For whan thy labour alle don is</L>
+<L><ABBR>And</ABBR> hast made alle thy rekenyngis</L>
+<L>In stede of rest <ABBR>and</ABBR> of newe thyngis</L>
+<L>Thou gost home / to thyn hous anone</L>
+<L><ABBR>And</ABBR> also dombe as a stone</L>
+<L>Thou sittest at an other book</L>
+<L>Tyl fully <ABBR>daswed</ABBR> is thy book</L>
+<L><ABBR>And</ABBR> lyuest thus as an hermyte</L>
+<L>Alle though thyn abstynence is lyte</L>
+<L><ABBR>And</ABBR> therfore Ioues thurgh hys grace</L>
+<L>Wylle that I shal bere the to a place</L>
+<L>Whyche that hyte the hous of fame</L>
+<L><ABBR>And</ABBR> to <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>o the sporte <ABBR>and</ABBR> game</L>
+<L>In som̄e recompensacion</L>
+<L>Of thy labour <ABBR>and</ABBR> deuocyon</L>
+<L>that tho<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> hast <ABBR>had</ABBR> / lo causeles</L>
+<L>To <ABBR>god</ABBR> Cupido the recheles</L>
+<L><ABBR>And</ABBR> thus thys <ABBR>god</ABBR> for hys meryte</L>
+<L>Wyl wyth som̄e maner <ABBR>thyng</ABBR> the quyte</L>
+<L>So that thou wylt be of <ABBR>good</ABBR> chere</L>
+<L>For trust wel / that thou shat her<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Whan we be comen / there I saye</L>
+<L>Mo wonder thynges / I dar wel laye</L>
+<L><ABBR>And</ABBR> of loues folk mo tydynges</L>
+<L>Bothe sothsawes / <ABBR>and</ABBR> lesynges</L>
+<L><ABBR>And</ABBR> mo loues / new begonne</L>
+<L><ABBR>And</ABBR> longe <ABBR>serued</ABBR> tyl loue is wonne</L>
+<L><ABBR>And</ABBR> mo louers casuelly</L>
+<L>That ben <ABBR>betyd</ABBR> / noman wote why</L>
+<L>But as a <ABBR>blynd</ABBR> man sterteth an hare</L>
+<L><ABBR>And</ABBR> more Iolyte / <ABBR>and</ABBR> welfare</L>
+<L>Whyle they fynde loue of stele</L>
+<L>As thynke men / <ABBR>and</ABBR> oueral wele</L>
+<L><PB REF="10"/>Mo dyscordis / <ABBR>and</ABBR> mo Ielousyes</L>
+<L>Mo murmures / <ABBR>and</ABBR> mo nouelryes</L>
+<L><ABBR>And</ABBR> also mo dyssymylacions</L>
+<L><ABBR>And</ABBR> eke <ABBR>feyned</ABBR> reperacions</L>
+<L><ABBR>And</ABBR> mo berdes in two oures</L>
+<L>Wythoute rasour or sysours</L>
+<L>Y made than graynes be of sondes</L>
+<L><ABBR>And</ABBR> eke mo <ABBR>haldyng</ABBR> in hondes</L>
+<L><ABBR>And</ABBR> also mo renouelances</L>
+<L>Of olde forleten acqueyntances</L>
+<L>Mo louedayes / <ABBR>and</ABBR> mo accordes</L>
+<L>Than on Instrumentis ben cordes</L>
+<L><ABBR>And</ABBR> eke of loue moo eschaunges</L>
+<L>Than euer cornes were in graūges</L>
+<L>Vnnethe may thou trrowen thys</L>
+<L><ABBR>Quod</ABBR> he / no so helpe me <ABBR>god</ABBR> as wys</L>
+<L><ABBR>Quod</ABBR> I / ne why <ABBR>quod</ABBR> he / for it</L>
+<L>Were impossyble to my wyt</L>
+<L>Though fame <ABBR>had</ABBR> alle the pyes</L>
+<L>In alle a <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>oyame / <ABBR>and</ABBR> alle espyes</L>
+<L>How that she <ABBR>shold</ABBR> here alle thys</L>
+<L>Or they aspyen that or thys</L>
+<L><ABBR>Quod</ABBR> he to me / that can I preue</L>
+<L>By reson worthy for to leue</L>
+<L>So that thou gyue thyn aduertence</L>
+<L>To vnderstonde my sentence</L>
+<L>Fyrst shal thou here wher she dwellyth</L>
+<L>Ryght so as thyn owen book telleth</L>
+<L>Her palays stondeth as I shal saye</L>
+<L>Ryght euen amyddes of the waye</L>
+<L>Betwen heuen / erthe / <ABBR>and</ABBR> see</L>
+<L>That what so euer in alle the thre</L>
+<L>Is spoken in pryue or appert</L>
+<L>The way therto is so smert</L>
+<L><ABBR>And</ABBR> stant eke in so Iust a place</L>
+<L>That euery sowne mote to it pace</L>
+<L>Or what so comyth / from ony tonge</L>
+<L>Be it <ABBR>rowned</ABBR> / <ABBR>red</ABBR> or songe</L>
+<L><PB REF="11"/>Or spoken in sewerte / or drede</L>
+<L>Certeyn it mote thethyr nede</L>
+<L>Now herkne wel / for why I wyl</L>
+<L>Tellen the a proper Skyl</L>
+<L><ABBR>And</ABBR> a worthy demonstracion</L>
+<L>In myn ymagynacion</L>
+<L>Geffrey / thou wotest wel thys</L>
+<L>That euery kynde that is</L>
+<L>Hath a kyndly stede that he</L>
+<L>May best in it <ABBR>conserued</ABBR> be</L>
+<L>Vnto whyche place euery <ABBR>thyng</ABBR></L>
+<L>Thurgh hys kyndly <ABBR>enclynyng</ABBR></L>
+<L>Meueth for to come to</L>
+<L>Thenne that is away therto</L>
+<L>As thus / lo hou thou mayst alday see</L>
+<L>That ony <ABBR>thyng</ABBR> / that heuy be</L>
+<L>As stone or lede / or <ABBR>thyng</ABBR> of weyght</L>
+<L><ABBR>And</ABBR> bere it neuer so hygh on heyght</L>
+<L>Let<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> go thyn <ABBR>hand</ABBR> / it falleth doun</L>
+<L>Ryght so saye I by fyre <ABBR>and</ABBR> soun</L>
+<L>Or smoke or other thynges lyght</L>
+<L>Alleway they seke <ABBR>vpward</ABBR> on hyght</L>
+<L>Lyght thynges vp <ABBR>and</ABBR> <ABBR>downward</ABBR> charge</L>
+<L>Whyle eueryche of bem be at large</L>
+<L><ABBR>And</ABBR> for thys cause thou mayst wel see</L>
+<L>That euery ryuer vuto the see</L>
+<L><ABBR>Enclyned</ABBR> is to goo by kynde</L>
+<L><ABBR>And</ABBR> by thyse skylles I fynde</L>
+<L>Haue fysshes <ABBR>dwellyng</ABBR> in <ABBR>flood</ABBR> <ABBR>and</ABBR> see</L>
+<L><ABBR>And</ABBR> trees eke on erthe be</L>
+<L>Thus euery <ABBR>thyng</ABBR> by hys reson</L>
+<L>Hath hys owen propre mancion</L>
+<L>The whyche he seketh to repayre</L>
+<L>Ther as it <ABBR>shold</ABBR> not apayre</L>
+<L>Lo thys sentence is knowen couthe</L>
+<L>Of euery phylosophers mouthe</L>
+<L>As Aristotle <ABBR>and</ABBR> dan Platon</L>
+<L><ABBR>And</ABBR> other clerkys many <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>on</L>
+<L><PB REF="11"/><ABBR>And</ABBR> to conferme my reson</L>
+<L>Thou wost wel that speche is a soune</L>
+<L>Or ellis noman myght it here</L>
+<L>Now herke what I wyl the lere</L>
+<L>Sown is not / but eyer y broken</L>
+<L><ABBR>And</ABBR> euery speche / that is spoken</L>
+<L>Lowde or pryue / fowl or fayr</L>
+<L>In hys substance is but an ayer</L>
+<L>For as flame is but <ABBR>lyghtyd</ABBR> smoke</L>
+<L>Ryght so is sowne / ayer y broke</L>
+<L>But thys may be in many wyse</L>
+<L>Of whyche I wyl the deuyse</L>
+<L>As Sowne cometh of pype or harpe</L>
+<L>For whan a pype is blowen sharpe</L>
+<L>The ayer is twyst wyth violence</L>
+<L><ABBR>And</ABBR> rent / lo thys is my sentence</L>
+<L>Eke whan men harpe strengis smyte</L>
+<L>Whether it be moche or lyt<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Lo wyth the serooke / the ayer to breketh</L>
+<L><ABBR>And</ABBR> ryght so brekyth it / when men spekyth</L>
+<L>Thys wost thou wel / what <ABBR>thyng</ABBR> is speche</L>
+<L>Now hens forth / I wyl the teche</L>
+<L>How eueryche speche / voys or sown</L>
+<L>Thurgh hys multyplycacion</L>
+<L>Though it were pype or mowse</L>
+<L>Mote nedes come to fames howse</L>
+<L>I<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> proue it thus / take hede now</L>
+<L>By experience for yf thow</L>
+<L>Threwe in a water now a stone</L>
+<L>Wel wost thou it wyl make anone</L>
+<L>A lytyl roundel as a cercle</L>
+<L>Perauenture as brode as a couer<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>l<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Brodder than hym self was</L>
+<L><ABBR>And</ABBR> thus fro roundel to compas</L>
+<L>Eche a<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>oute other <ABBR>goyng</ABBR></L>
+<L>Causeth of others <ABBR>steryng</ABBR></L>
+<L><ABBR>And</ABBR> <ABBR>multyplyeng</ABBR> euermo</L>
+<L>Tyl it be so ferre go</L>
+<L><PB REF="12"/><GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>at it at bothe brynkys be</L>
+<L>Alle though / thou may it not see</L>
+<L>Aboue it goth / yet alway vnder</L>
+<L>It is / though thou thynke it wonder</L>
+<L><ABBR>And</ABBR> who so sayth / of trouth I varye</L>
+<L><ABBR>Byd</ABBR> hym proue the contrarye</L>
+<L><ABBR>And</ABBR> ryght thus / euery <ABBR>word</ABBR> ywys</L>
+<L>That lowde or preuy spoken is</L>
+<L>Moueth fyrst / in the eyer abowte</L>
+<L><ABBR>And</ABBR> of hys <ABBR>mouyng</ABBR> out of dowte</L>
+<L>Another eyer / anon is <ABBR>moued</ABBR></L>
+<L>As I haue of the water <ABBR>proued</ABBR></L>
+<L>That euery cercle causeth other</L>
+<L>Ryght so of eyer / my leue brother</L>
+<L>Eueryche eyer in other steryth</L>
+<L>More <ABBR>and</ABBR> more / <ABBR>and</ABBR> speche vp beryth</L>
+<L>Or voys or noys / <ABBR>word</ABBR> or sowne</L>
+<L>Ay thurgh multiplicacion</L>
+<L>Tyl it be at the hows of fame</L>
+<L>Take it on ernest / or in game</L>
+<L>Now haue I <ABBR>told</ABBR> yf thou haue mynde</L>
+<L>How speche or sowne / of pure kynde</L>
+<L><ABBR>Enclyned</ABBR> is <ABBR>vpward</ABBR> to moue</L>
+<L>Thys maysthow fele wel by proue</L>
+<L>Ha .a. <ABBR>quod</ABBR> he lo so I can</L>
+<L>Lewdely vnto a lewde man</L>
+<L>Speke <ABBR>and</ABBR> shewe hym suche skylles</L>
+<L>That he may take hym by the bylles</L>
+<L>So palpable the skylles be</L>
+<L>But telle me thys / now pray I the</L>
+<L>How thynketh the / my conclusion</L>
+<L>A <ABBR>good</ABBR> persuasion</L>
+<L><ABBR>Quod</ABBR> I / <ABBR>and</ABBR> lyke to be</L>
+<L>Ryght so as thou hast <ABBR>proued</ABBR> me</L>
+<L>By <ABBR>god</ABBR> <ABBR>quod</ABBR> he / <ABBR>and</ABBR> as I lene</L>
+<L>Thou shalt haue yet or it be eue</L>
+<L>Of euery <ABBR>word</ABBR> / of thys senteuce</L>
+<L><ABBR><GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>d</ABBR> also pro<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>f by experience</L>
+<L><PB REF="12"/><ABBR>And</ABBR> wyth thyn eres heren woll</L>
+<L>Top <ABBR>and</ABBR> tayll / <ABBR>and</ABBR> eu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>rydell</L>
+<L>That euery <ABBR>word</ABBR> / that spoken is</L>
+<L>Cometh in to fames hous ywys</L>
+<L>As I haue <ABBR>sayd</ABBR> / what wylt thou more</L>
+<L><ABBR>And</ABBR> wyth thys <ABBR>word</ABBR> / vpper to sore</L>
+<L>He began <ABBR>and</ABBR> <ABBR>seyd</ABBR> by seynt Iame</L>
+<L>Now wyl we speken al of game</L>
+<L>How faryst thou now. <ABBR>quod</ABBR> he to me</L>
+<L>Wel <ABBR>quod</ABBR> I / now see <ABBR>quod</ABBR> he</L>
+<L>By thy trouth <ABBR>yond</ABBR> adoun</L>
+<L>Where that thou knowest ony toun</L>
+<L>Or house / or ony other <ABBR>thyng</ABBR></L>
+<L><ABBR>And</ABBR> whan thou hast of ought <ABBR>knowyng</ABBR></L>
+<L>Loke that thou warne me</L>
+<L><ABBR>And</ABBR> I anone shal telle the</L>
+<L>How fer thou art nowe ther fro</L>
+<L><ABBR>And</ABBR> I adoun gan to loke tho</L>
+<L><ABBR>And</ABBR> behelde feldes <ABBR>and</ABBR> pleynes</L>
+<L>Now hylles / <ABBR>and</ABBR> now mounteynes</L>
+<L>Now valeyes / <ABBR>and</ABBR> now forestes</L>
+<L><ABBR>And</ABBR> now vnnethe grete bestes</L>
+<L>Now ryuers / now grete cyt<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>es</L>
+<L>Now townes / now grete trees</L>
+<L>Now shyppes <ABBR>sayllyng</ABBR> in the see</L>
+<L>But thus sone / in a whyle he</L>
+<L>Was flowen fro the <ABBR>ground</ABBR> so hye</L>
+<L>Tat alle the <ABBR>world</ABBR> as to myn eye</L>
+<L>Nomore <ABBR>semed</ABBR> than a prykke</L>
+<L>Or els the eyer was so thykke</L>
+<L>That I myght it not decerne</L>
+<L>Wyth that he spack to me so yerne</L>
+<L><ABBR>And</ABBR> seyde / seest thou ony token</L>
+<L>Or ought / that in the <ABBR>world</ABBR> is of spoken</L>
+<L>I <ABBR>sayd</ABBR> nay / no wonder is</L>
+<L><ABBR>Quod</ABBR> he / for neuer ha<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>f so hyr as thys</L>
+<L>Nas Alysaunder of Macedo</L>
+<L>Kynge / ne of rome dan Scipio</L>
+<L><PB REF="13"/>That saw in dreme poynt deuys</L>
+<L>Heuen <ABBR>and</ABBR> helle <ABBR>and</ABBR> paradys</L>
+<L>Ne eke the wryght Dedalus</L>
+<L>Ne hys sone Nyse Icharus</L>
+<L>That flawe so hye / that the hete</L>
+<L>Hys wynges malte / <ABBR>and</ABBR> he fyl wete</L>
+<L>In <ABBR>myd</ABBR> the see / <ABBR>and</ABBR> there he dreynte</L>
+<L>For whome was made a grete compleynt</L>
+<L>Now torne <ABBR>vpward</ABBR> / <ABBR>quod</ABBR> he / thy face</L>
+<L><ABBR>And</ABBR> beholde thys large space</L>
+<L>Thys eyer / but loke that thou ne be</L>
+<L>A <ABBR>drad</ABBR> of h<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>m / that thou shalt <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e</L>
+<L>For in thys regyon certeyn</L>
+<L>Dwelleth many a Cytezeyn</L>
+<L>Of whyche speketh dan plato</L>
+<L>These ben the eyrissh bestes <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>o</L>
+<L><ABBR>And</ABBR> tho sawe I alle the meyne</L>
+<L>Bothe goon <ABBR>and</ABBR> also flee</L>
+<L>Lo <ABBR>quod</ABBR> he / caste vp thyn eye</L>
+<L>Se yonder lo the Galaxye</L>
+<L>The whyche men clepe the mylky wey<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>For it is whyt / <ABBR>And</ABBR> som̄e perfeye</L>
+<L>Callen it <ABBR>watlyng</ABBR> strete</L>
+<L>That ones was brente wyth the hete</L>
+<L>Whan the sonnes sone the rede</L>
+<L>That hyte Pheton <ABBR>wold</ABBR> lede</L>
+<L>Algate hys faders carte <ABBR>and</ABBR> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> gye</L>
+<L>The cart hors gan wel aspye</L>
+<L>That he coude / no gouernaunce</L>
+<L><ABBR>And</ABBR> gan for to lepe <ABBR>and</ABBR> daunce</L>
+<L><ABBR>And</ABBR> bere hym vp <ABBR>and</ABBR> now doun</L>
+<L>Tyl he sawe the Scorpyoun</L>
+<L>Whyche that in heuen / a signe is yet</L>
+<L><ABBR>And</ABBR> he for fere / lost hys wyt</L>
+<L>Of that / <ABBR>and</ABBR> lete the reynes gon</L>
+<L>Of thyse hors <ABBR>and</ABBR> they anon</L>
+<L>Gan vp to mounte <ABBR>and</ABBR> doun descend<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>yl bothe eyer <ABBR>and</ABBR> erthe brende</L>
+<L><PB REF="13"/>Tyl Iubiter / lo at the laste</L>
+<L>Hym slowe / <ABBR>and</ABBR> fro the cart caste</L>
+<L>Lo is it not a grete myschaunce</L>
+<L>To let<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> a fole haue gouernaunce</L>
+<L>Of thynges / that he can not demeyn</L>
+<L><ABBR>And</ABBR> wyth thys <ABBR>word</ABBR> soth for to seyn</L>
+<L>He gan alway vpper to sore</L>
+<L><ABBR>And</ABBR> <ABBR>gladed</ABBR> me than more <ABBR>and</ABBR> more</L>
+<L>So faythfully to me spak he</L>
+<L>Tho gan I loke vnder me</L>
+<L><ABBR>And</ABBR> behelde the ayrisshe bestes</L>
+<L>Clowdes mystes <ABBR>and</ABBR> tempestes</L>
+<L>Snowes. Hayles. raynes / <ABBR>and</ABBR> wyndes</L>
+<L><ABBR>And</ABBR> alle <ABBR>thengendryng</ABBR> in her kyndes</L>
+<L><ABBR>And</ABBR> alle the wey / thurgh whyche I cam</L>
+<L>O <ABBR>god</ABBR> <ABBR>quod</ABBR> I that made adam</L>
+<L>Moche is thy myght <ABBR>and</ABBR> noblesse</L>
+<L><ABBR>And</ABBR> tho thought I vpon Boece</L>
+<L>That wryt<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>th / a thought may fle so hye</L>
+<L>Wyth fethers of phylosophye</L>
+<L>To passen eueriche Element</L>
+<L><ABBR>And</ABBR> he hath so fer y went</L>
+<L>Thenne may be see <ABBR>behynd</ABBR> hys bak</L>
+<L>Clowde <ABBR>and</ABBR> alle that I of spack</L>
+<L>Tho gan I waxe in a were</L>
+<L><ABBR>And</ABBR> <ABBR>seyd</ABBR> / I wote wel I am here</L>
+<L>Whether in body / or in ghoost</L>
+<L>I note ywys / but <ABBR>god</ABBR> thou wost</L>
+<L>For more clere entendement</L>
+<L>Nadde he me neuer yet sent</L>
+<L>Thenne thought I on Marcyan</L>
+<L><ABBR>And</ABBR> eke on anteclaudyan</L>
+<L>That soth was theyr discrypcion</L>
+<L>Of alle the heuens regyon</L>
+<L>As f<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>r a<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> I sawe the preue</L>
+<L><ABBR>And</ABBR> therfore I can hem beleue</L>
+<L>Wyth that the Egle can to cry<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Late be <ABBR>quod</ABBR> he thy fantasye</L>
+<L><PB REF="14"/>Wylt thou here of sterris ought</L>
+<L>Nay certay<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ly <ABBR>quod</ABBR> I ryght nought</L>
+<L><ABBR>And</ABBR> why <ABBR>quod</ABBR> he / for I am olde</L>
+<L>Elles <ABBR>wold</ABBR> I haue the tolde</L>
+<L><ABBR>Quod</ABBR> he / sterres names lo</L>
+<L><ABBR>And</ABBR> alle the heuens signes to</L>
+<L><ABBR>And</ABBR> whyche they be / no fors <ABBR>quod</ABBR> I</L>
+<L>Yes parde <ABBR>quod</ABBR> he / wost thou why</L>
+<L>Whan thou redest poetrye</L>
+<L>How the goddes can stellefye</L>
+<L><ABBR>Byrd</ABBR> fyssh / or hym or here</L>
+<L>As the ra<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>en <ABBR>and</ABBR> othere</L>
+<L>Or Ariones harp fyn</L>
+<L>Castor Polux or Delphyn</L>
+<L>Or Athalantes doughters seuen</L>
+<L>How alle these ar sette in heuen</L>
+<L>For tho<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>gh thou haue hem oft in honde</L>
+<L>Yet nost thou where they stonde</L>
+<L>No fo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>s <ABBR>quod</ABBR> I / hyt is no nede</L>
+<L>As wel I l<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ue so <ABBR>god</ABBR> me spede</L>
+<L>Hem that wryten of thys matere</L>
+<L>As though I knewe her places here</L>
+<L><ABBR>And</ABBR> eke they shynen here so bryght</L>
+<L>I <ABBR>shuld</ABBR> shenden alle my syght</L>
+<L>To loke on hem / that may wel be</L>
+<L><ABBR>Quod</ABBR> he / <ABBR>And</ABBR> so forth bare he me</L>
+<L>A whyle / <ABBR>And</ABBR> tho he gan to crye</L>
+<L>That neuer <ABBR>herd</ABBR> I <ABBR>thyng</ABBR> so hye</L>
+<L><ABBR>Hold</ABBR> vp thyn hede / for it is wel</L>
+<L>Seynt Iulyen lo / bonne hostel</L>
+<L>See here the hous of fame lo</L>
+<L>Mayst thou not here that I do</L>
+<L>What <ABBR>quod</ABBR> I the grete sown</L>
+<L><ABBR>Quod</ABBR> he / that rombleth vp <ABBR>and</ABBR> down</L>
+<L>In fames hous / ful of tydyngis</L>
+<L>Both of fayr speche / <ABBR>and</ABBR> of other thyngis</L>
+<L><ABBR>And</ABBR> of fals <ABBR>and</ABBR> so<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>h <ABBR>compowned</ABBR></L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>erkne wel / it is not <ABBR>rowned</ABBR></L>
+<L><PB REF="14"/>Herest thou not the grete swough</L>
+<L>Yes parde <ABBR>quod</ABBR> I / wel ynough</L>
+<L><ABBR>And</ABBR> what sown is it lyke <ABBR>quod</ABBR> he</L>
+<L>Peter lyke the <ABBR>betyng</ABBR> of the see</L>
+<L><ABBR>Quod</ABBR> I / ay<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>nst the roches holow</L>
+<L>Whan tempestes don her shyppes swalow</L>
+<L><ABBR>And</ABBR> that a man <ABBR>stand</ABBR> out of doute</L>
+<L>A myle thens <ABBR>and</ABBR> here it rowte</L>
+<L>Or ellis like the <ABBR>humblyng</ABBR></L>
+<L>After the clappe of a <ABBR>thondryng</ABBR></L>
+<L>Whan Ioues hath the eyer y bete</L>
+<L>But it doth me for fere swete</L>
+<L>Nay drede the not therof <ABBR>quod</ABBR> he</L>
+<L>It is <ABBR>nothyng</ABBR> / that wyl greue the</L>
+<L>Thou shalt haue no harme truly</L>
+<L><ABBR>And</ABBR> wyth that <ABBR>word</ABBR> / both he <ABBR>and</ABBR> I</L>
+<L>As nyghe the place <ABBR>arriued</ABBR> were</L>
+<L>As men myght cast wyth a spere</L>
+<L>I nys<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> how but in a strete</L>
+<L>He sette me fayr on my fete</L>
+<L><ABBR>And</ABBR> <ABBR>sayd</ABBR> walke forth a paas</L>
+<L><ABBR>And</ABBR> tel thyn auenture <ABBR>and</ABBR> caas</L>
+<L>That thou shalt fynde in fames place</L>
+<L>Now quod I whyle we haue space</L>
+<L>To speke or that I go fro the</L>
+<L>For the loue of <ABBR>god</ABBR> telle me</L>
+<L>In soth that I wyl of the lere</L>
+<L>Yef thys noyse / that I here</L>
+<L>Be as I haue <ABBR>herd</ABBR> the telle</L>
+<L>Of folk that forth in erth dwelle</L>
+<L><ABBR>And</ABBR> here in the same wyse</L>
+<L>As I the <ABBR>herd</ABBR> or thys deuyse</L>
+<L><ABBR>And</ABBR> that her lyues body nys</L>
+<L>In alle that hous / that yonder i<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>That maketh / alle thys lowde fare</L>
+<L>No <ABBR>quod</ABBR> he by seynt clare</L>
+<L><ABBR>And</ABBR> also wys <ABBR>god</ABBR> helpe me</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ut o <ABBR>thyng</ABBR> / I wyl warne the</L>
+<L><PB REF="15"/>Of the whyche / thou wylt haue wonder</L>
+<L>Lo to the hous of fame yonder</L>
+<L>Thou wost how comyth euery speche</L>
+<L>It nedeth not the more to teche</L>
+<L>But vnderstande ryght wel thys</L>
+<L>Whan ony speche y comen is</L>
+<L>Vnto that palays anon ryght</L>
+<L>It weye<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>h lyche the same weyght</L>
+<L>Whyche that in erthe the <ABBR>word</ABBR> spack</L>
+<L>Be he <ABBR>clothed</ABBR> rede or black</L>
+<L><ABBR>And</ABBR> hath so very hys lykenes</L>
+<L>That spack the <ABBR>word</ABBR> / <ABBR>and</ABBR> thou wylt gesse</L>
+<L>That it the same body be</L>
+<L>Man or woman he or she</L>
+<L><ABBR>And</ABBR> is not thys a wonder <ABBR>thyng</ABBR></L>
+<L>Yes <ABBR>quod</ABBR> I / by heuens <ABBR>kyng</ABBR></L>
+<L><ABBR>And</ABBR> wyth thys <ABBR>word</ABBR> / fare wel <ABBR>quod</ABBR> he</L>
+<L><ABBR>And</ABBR> here wyl I abyde the</L>
+<L><ABBR>And</ABBR> <ABBR>god</ABBR> of heuen sende the grace</L>
+<L>Som̄e <ABBR>good</ABBR> to lerne in thys place</L>
+<L><ABBR>And</ABBR> I of hym toke leue anon</L>
+<L><ABBR>And</ABBR> gan forth to the palays gon</L>
+</LG>
+<LG>
+<L>Explicit liber secundus</L>
+<L>Incipit liber Tercius</L>
+</LG>
+<LG>
+<L>O <ABBR>God</ABBR> of science <ABBR>and</ABBR> of lyght</L>
+<L>Appollo thurgh thy grete myght</L>
+<L>Thys lytyl last boke / thou now gye</L>
+<L>Not that I wyl for maystrye</L>
+<L>Here arte poetical be <ABBR>shewd</ABBR></L>
+<L>But the ryme that is so <ABBR>lewd</ABBR></L>
+<L>Made it somwhat agreable</L>
+<L>Though som̄e vers faylle <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>illable</L>
+<L><ABBR>And</ABBR> that I do no dylygence</L>
+<L>To shewe craft / but sentence</L>
+<L><ABBR>And</ABBR> yf dyuyne vertu thou</L>
+<L>Wylt helpe me to shewe now</L>
+<L><PB REF="15"/>That in my hede <ABBR>markyd</ABBR> is</L>
+<L>Lo that is for to meuen thys</L>
+<L>The house of fame to dyscryue</L>
+<L>Thou shalt see me go as blyue</L>
+<L>Vnto the next lawrer I see</L>
+<L><ABBR>And</ABBR> kysse it for it is thy tre</L>
+<L>Now entre in to my brest anon</L>
+<L>Whan I was from the Egle gon</L>
+<L>I gan beholde vpon thys place</L>
+<L><ABBR>And</ABBR> certayn or I further pace</L>
+<L>I wyl you alle the shap deuyse</L>
+<L>Of hous of Cyte / <ABBR>and</ABBR> of the wyse</L>
+<L>How I gan to the place approche</L>
+<L>That stant vpon so hye a roche</L>
+<L>Ther standeth none so hye in spayne</L>
+<L>But vp I clam wyth moche payne</L>
+<L><ABBR>Aud</ABBR> though to clymbe / it <ABBR>greuyd</ABBR> me</L>
+<L>Yet I ententyf was to see</L>
+<L><ABBR>And</ABBR> for to poure wonder lowe</L>
+<L>Yef I coude ony wyse knowe</L>
+<L>What maner stone thys roche was</L>
+<L>For it was lyke a <ABBR>lymed</ABBR> glas</L>
+<L>But that it <ABBR>shewed</ABBR> more clere</L>
+<L>But of what <ABBR>congelyd</ABBR> matere</L>
+<L>It was / I ne wyst redyly</L>
+<L>But at the last <ABBR>espyed</ABBR> I</L>
+<L><ABBR>And</ABBR> fonde that it was euerydeel</L>
+<L>A roche of yse / <ABBR>and</ABBR> not of steel</L>
+<L>Thought I by seynt Thomas of kent</L>
+<L>Thys were a feble found<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ment</L>
+<L>To bylden on / a place so hy<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>He aught hym wel to gloryfye</L>
+<L>That heron bylt so <ABBR>god</ABBR> me saue</L>
+<L>Tho sawe I alle the halle y graue</L>
+<L>Wyth famous folkes names fele</L>
+<L>That haue ben in moche wele</L>
+<L><ABBR>And</ABBR> her fames wyde blowe</L>
+<L>But wel vnnethe myght I know<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L><PB REF="16"/><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ny letters for to rede</L>
+<L>Her names / for out of drede</L>
+<L>They weren almost <ABBR>ouerthowed</ABBR> so</L>
+<L>That of the lettres / one or two</L>
+<L>Were molte away / of euery name</L>
+<L>So vnfamous was wax her fame</L>
+<L>But men saye / what may euer laste</L>
+<L>Tho gan I in myn herte co<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ste</L>
+<L>That they were molte away for hete</L>
+<L><ABBR>And</ABBR> not away wyth stormes bete</L>
+<L>For on that other syde / I saye</L>
+<L>On thys hyll that <ABBR>northward</ABBR> lay</L>
+<L>How it was wreton ful of names</L>
+<L>Of folk that <ABBR>had</ABBR> afore grete fames</L>
+<L>Of olde tyme / <ABBR>And</ABBR> yet they were</L>
+<L>As fressh as men <ABBR>had</ABBR> wreton hem there</L>
+<L>The self day / or that houre</L>
+<L>That I on hem gan to poure</L>
+<L>But wel I wyste / what it made</L>
+<L>It was <ABBR>conseruyd</ABBR> / wyth the shade</L>
+<L>Of a castel / that so stode on hye</L>
+<L>Alle the <ABBR>wrytyng</ABBR> that I sye</L>
+<L><ABBR>And</ABBR> stode eke in so colde a place</L>
+<L>That hete myght it not deface</L>
+<L>Tho gan I on thys hyll to gon</L>
+<L><ABBR>And</ABBR> fonde on the ceppe a wone</L>
+<L>That alle the men that ben on lyue</L>
+<L>Ne han the <ABBR>connyng</ABBR> to dyscryue</L>
+<L>The beaute of that ylke place</L>
+<L>Ne coude caste the compace</L>
+<L>Suche an other for to make</L>
+<L>That myght of beaute be hys make</L>
+<L>Ne so wonderly y wrought</L>
+<L>That it <ABBR>astonyed</ABBR> / yet my thought</L>
+<L><ABBR>And</ABBR> maketh alle my wyt to swynke</L>
+<L>On thys caste<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> for to thynke</L>
+<L>So that the grete beaute</L>
+<L>The cast craft <ABBR>and</ABBR> curiosite</L>
+<L><PB REF="16"/>Ne can I not to yow deuyse</L>
+<L>My wytt may it not suffyse</L>
+<L>But netheles alle the sulstaunce</L>
+<L>I haue yet in my remembraunce</L>
+<L>For why / me thought by seynt gyl<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Alle was of stone of beryle</L>
+<L>Bo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>he the castel <ABBR>and</ABBR> the tour</L>
+<L><ABBR>And</ABBR> eke the halle <ABBR>and</ABBR> euery bour</L>
+<L>Wythoute peces or Ioynynges</L>
+<L>But many subtyl compas<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ynges</L>
+<L>As bab<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>uwryes <ABBR>and</ABBR> pynnacles</L>
+<L>Ymageryes <ABBR>and</ABBR> tabernacles</L>
+<L>I sawe eke <ABBR>and</ABBR> ful of wyndowes</L>
+<L>As flakes fallen in grete snowys</L>
+<L><ABBR>And</ABBR> eke in euery of eche pynacles</L>
+<L>Were sondry habytacles</L>
+<L>In whyche stoden alle they wythouten</L>
+<L>Ful the castel all abowten</L>
+<L>Of alle maner of mynstrallis</L>
+<L><ABBR>And</ABBR> gestours that tellen talis</L>
+<L>Bothe of <ABBR>wepyng</ABBR> / <ABBR>and</ABBR> of game</L>
+<L><ABBR>And</ABBR> of alle / that longeth vnto fame</L>
+<L>There <ABBR>herd</ABBR> I pleye on an harpe</L>
+<L>That <ABBR>sowned</ABBR> wel <ABBR>and</ABBR> sharpe</L>
+<L>Hym Orpheus ful craftely</L>
+<L><ABBR>And</ABBR> on hys syde fast by</L>
+<L>Sat the harper / Oryon</L>
+<L><ABBR>And</ABBR> gacides Chyryon</L>
+<L><ABBR>And</ABBR> other harpers many one</L>
+<L><ABBR>And</ABBR> the bryton Glaskyryon</L>
+<L><ABBR>And</ABBR> smale harpers / wyth her gl<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ys</L>
+<L>Sat vnder hem in dyuerse seys</L>
+<L><ABBR>And</ABBR> gon on hem <ABBR>vpward</ABBR> to gape</L>
+<L><ABBR>And</ABBR> <ABBR>counterfeted</ABBR> hem as an ape</L>
+<L>Or as craft count<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>rfete kynde</L>
+<L>Tho sawe I hem behynde</L>
+<L>A fer from hem / as by hem selue</L>
+<L>Many <ABBR>thousand</ABBR> tyme twelue</L>
+<L><PB REF="17"/>That made lowde mynstraleyes</L>
+<L>An cornmuse or shalemeyes</L>
+<L><ABBR>And</ABBR> many an other / pype</L>
+<L>That craftely began to pyp<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Bothe in <ABBR>dowced</ABBR> <ABBR>and</ABBR> in rede</L>
+<L>That ben at festes wyth the brede</L>
+<L><ABBR>And</ABBR> many a floyte <ABBR>and</ABBR> lytelynge horn</L>
+<L><ABBR>And</ABBR> pype<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> made of stree of corn</L>
+<L>As haue thyse lytyl herde gromes</L>
+<L>That kepen bestis in the bromes</L>
+<L>There sawe I thenne dan Cytherus</L>
+<L><ABBR>And</ABBR> of Atthenes / dan proserus</L>
+<L>The Marcia / that bost her skyn</L>
+<L>Both in face. body <ABBR>and</ABBR> chyn</L>
+<L>For that she <ABBR>wold</ABBR> enuyen lo</L>
+<L>To py<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>en bet than Appollo</L>
+<L>The<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> sawe I eke / famous <ABBR>old</ABBR> <ABBR>and</ABBR> <ABBR>yong</ABBR></L>
+<L>Pypers of the duc<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e tonge</L>
+<L>To lerne houe dauncis sprynges</L>
+<L>Reyes / <ABBR>and</ABBR> the strange thynges</L>
+<L>Tho sawe I in an other place</L>
+<L><ABBR>Standyng</ABBR> in a large spac<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/></L>
+<L>Of hem that maken blody sown</L>
+<L>In tromp beme <ABBR>and</ABBR> claryoun</L>
+<L>For in fyght / <ABBR>and</ABBR> blood <ABBR>shedyng</ABBR></L>
+<L>Is <ABBR>vsed</ABBR> <ABBR>good</ABBR> <ABBR>clarionyng</ABBR></L>
+<L>There <ABBR>herd</ABBR> I trompe messenus</L>
+<L>Of whom that speketh virgilius</L>
+<L>There <ABBR>herd</ABBR> I Ioab trompe also</L>
+<L>Theodonas <ABBR>and</ABBR> other moo</L>
+<L><ABBR>And</ABBR> alle that <ABBR>vsed</ABBR> claryon</L>
+<L>In Castyle lyon <ABBR>and</ABBR> Aragon</L>
+<L>That in her tymes / famous were</L>
+<L>To lernen / sawe I trompen there</L>
+<L>Ther sawe I sytte in her sees</L>
+<L>Ployenge vpon other lees</L>
+<L>Whyche I can not neuene</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>o than sterris ben in heuene</L>
+<L><PB REF="17"/>Of whyche I nyl / as now not ryme</L>
+<L>For ese of you / <ABBR>And</ABBR> l<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>sse of tyme</L>
+<L>For tyme y lost that knowe ye</L>
+<L>By no wey / <ABBR>recouered</ABBR> may be</L>
+<L>Ther sawe I pley Iogelers</L>
+<L>Magyciens <ABBR>and</ABBR> trageotours</L>
+<L><ABBR>And</ABBR> phetonysses <ABBR>and</ABBR> charmeresses</L>
+<L>Olde wycches <ABBR>and</ABBR> sorceresses</L>
+<L>That vsen exorsisacions</L>
+<L><ABBR>And</ABBR> many other Inuocacions</L>
+<L><ABBR>And</ABBR> clerkes that connen wel</L>
+<L>Alle thys magyk naturel</L>
+<L>That craftely do her ententes</L>
+<L>To maken in certayn ascendentes</L>
+<L>Ymages lo / thurgh suche magyke</L>
+<L>To make a man / hole or seke</L>
+<L>Ther saw I the quene Medea</L>
+<L><ABBR>And</ABBR> Cir<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>s eke / <ABBR>and</ABBR> Caliophia</L>
+<L>There sawe I hermes / ballenus</L>
+<L>Lymote / <ABBR>and</ABBR> eke Symon magus</L>
+<L>There sawe I <ABBR>and</ABBR> knewe hym by name</L>
+<L>That by suche arte don men fame</L>
+<L>There sawe I / colle tregetour</L>
+<L>Vpon a table of Sycomour</L>
+<L>Pleye / an vncouth <ABBR>thyng</ABBR> to telle</L>
+<L>I sawe hym carye a <ABBR>wynd</ABBR> me<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>le</L>
+<L>Vnder a walnote shale</L>
+<L>What <ABBR>shold</ABBR> I make lenger tale</L>
+<L>Of alle the peple that I say</L>
+<L>I <ABBR>coud</ABBR> not telle tyl domesday</L>
+<L>Whan I <ABBR>had</ABBR> alle thys folke beholde</L>
+<L><ABBR>And</ABBR> fonde me <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>oos / <ABBR>and</ABBR> not holde</L>
+<L><ABBR>And</ABBR> eft I <ABBR>mused</ABBR> a lenger whyle</L>
+<L>Vpon thys wall of Beryle</L>
+<L>That shone lyghter than a glas</L>
+<L><ABBR>And</ABBR> made it wel more than it was</L>
+<L>As kynde <ABBR>thyng</ABBR> of fame is</L>
+<L><ABBR>And</ABBR> thenne anon after thys</L>
+<L><PB REF="18"/>I gan forth romen tyl I fonde</L>
+<L>The castel / that on my ryght honde</L>
+<L>Whyche so wel coruen was</L>
+<L>That neuer suche an other nas</L>
+<L><ABBR>And</ABBR> yet it was by auenture</L>
+<L>Y wrought by grete <ABBR>and</ABBR> subtyl cure</L>
+<L>It nedeth not yow for to telle</L>
+<L>To make yow lenger to dwelle</L>
+<L>Of these yates florysshynges</L>
+<L>Ne of compaces ne of keruynges</L>
+<L>Ne how the <ABBR>hackyng</ABBR> in masonryes</L>
+<L>As corbettis / <ABBR>and</ABBR> ymageryes</L>
+<L>But <ABBR>lord</ABBR> so feyr it was to shewe</L>
+<L>For it was alle of <ABBR>gold</ABBR> behewe</L>
+<L>But in I wente <ABBR>and</ABBR> that anone</L>
+<L>There mette I <ABBR>cryeng</ABBR> many one</L>
+<L>A larges / A larges vp <ABBR>hold</ABBR> well</L>
+<L><ABBR>God</ABBR> saue the lady of thys pele</L>
+<L>Our owen gentyle lady fame</L>
+<L><ABBR>And</ABBR> hem that wylleth to haue a name</L>
+<L>Of vs / thus <ABBR>herd</ABBR> I cryen alle</L>
+<L><ABBR>And</ABBR> fast comen out of the halle</L>
+<L><ABBR>And</ABBR> shoke nobles / <ABBR>and</ABBR> sterlynges</L>
+<L><ABBR>And</ABBR> <ABBR>crowned</ABBR> were they as kynges</L>
+<L>Wyth crownes wrought ful of lesynges</L>
+<L><ABBR>And</ABBR> many reban <ABBR>and</ABBR> many thynges</L>
+<L>Were in her clothes truly</L>
+<L>Tho at laste / <ABBR>aspyed</ABBR> I</L>
+<L>That purseuauntes <ABBR>and</ABBR> herawdes</L>
+<L>That cryen ryche folkes lawdes</L>
+<L>It weren alle / <ABBR>and</ABBR> euery man</L>
+<L>Of them as I yow telle can</L>
+<L><ABBR>Had</ABBR> on hym throwe a vesture</L>
+<L>Whyche men clepe a cote Armur<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L><ABBR>Enbrowdred</ABBR> wonderly ryche</L>
+<L>Alle though they were not ylyche</L>
+<L>But not wyl I so mot<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> I thryu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Be aboute to dyscryue</L>
+<L><PB REF="18"/>Alle thyse armes what they weren</L>
+<L>That they thus on her cot<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>s beren</L>
+<L>For it to me were Impossible</L>
+<L>Men myght make of hem a byble</L>
+<L>Twenty fote thycke as I trowe</L>
+<L>For certayn who so coude knowe</L>
+<L>Myght there alle the armes see</L>
+<L>Of famous folk that <ABBR>had</ABBR> be</L>
+<L>In Affry<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>que. Europe / <ABBR>and</ABBR> Asy<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Syth first lo chyualrye</L>
+<L>Lo how <ABBR>shold</ABBR> I telle alle thys</L>
+<L>Ne of the ha<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>le eke / what nede is</L>
+<L>To tellen yow that euery wal</L>
+<L>Of it / <ABBR>and</ABBR> <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>of <ABBR>and</ABBR> flore wyth al</L>
+<L>Was <ABBR>plated</ABBR> half a fote thykke</L>
+<L>Of <ABBR>gold</ABBR> / <ABBR>and</ABBR> that was not wykke</L>
+<L>But to proef in alle wyse</L>
+<L>As fyn as doket of venyse</L>
+<L>Of whyche to lyte in my powche is</L>
+<L><ABBR>And</ABBR> were sette as thyck as owchys</L>
+<L>Ful of the fynest stones fayre</L>
+<L>That men reden in the lapydayre</L>
+<L>Or as grasses growen in a mede</L>
+<L>But it were al to longe to rede</L>
+<L>The names / <ABBR>And</ABBR> therfore I pace</L>
+<L>But in thys ryche lusty place</L>
+<L>That fames halle / <ABBR>called</ABBR> was</L>
+<L>Ful moche prees of folk / ther was</L>
+<L>No <ABBR>gronyng</ABBR> for somoche prees</L>
+<L>But al an hye vpon a dees</L>
+<L>Sat on a See Emperyal</L>
+<L>That was made of a rubye ryal</L>
+<L>Whyche a Carbuncle is y <ABBR>callyd</ABBR></L>
+<L>I sawe perpetuelly y <ABBR>stalled</ABBR></L>
+<L>A femynyn Creature</L>
+<L>That neuer <ABBR>formed</ABBR> by nature</L>
+<L>Suche Another <ABBR>thyng</ABBR> I say</L>
+<L>For altherfyrst soth to say</L>
+<L><PB REF="19"/><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e thought / that she was so lyte</L>
+<L>That the lengthe of a Cubyte</L>
+<L>Was lenger that she <ABBR>semed</ABBR> be</L>
+<L>But thus sone in a whyle she</L>
+<L>Her self / tho wonderly streyght</L>
+<L>That wyth her feet she therthe reyght</L>
+<L><ABBR>And</ABBR> wyth her hede she <ABBR>towchyd</ABBR> heuen</L>
+<L>Ther as shyneth the sterres seuen</L>
+<L><ABBR>And</ABBR> therto yet as to my wyt</L>
+<L>I sawe as grete a wonder yet</L>
+<L>Vpon her eyen to beholde</L>
+<L>But certeynly / I hem neuer bolde</L>
+<L>For as f<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ls eyen <ABBR>had</ABBR> she</L>
+<L>As fethers vpon fowles be</L>
+<L>Or weren on the bestis foure</L>
+<L>That goddis trone can honoure</L>
+<L>A<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> wryteth Iohn in the Apocalyps</L>
+<L>Her <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>er that was owndy <ABBR>and</ABBR> cryps</L>
+<L>As <ABBR><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>orned</ABBR> <ABBR>gold</ABBR> shone / as for to see</L>
+<L><ABBR>And</ABBR> soth to tellen also she</L>
+<L><ABBR>Had</ABBR> also fele <ABBR>stondyng</ABBR> eris</L>
+<L><ABBR>And</ABBR> tonges / as on a beste ben h<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>eris</L>
+<L><ABBR>And</ABBR> on her feet woxen sawe I</L>
+<L>Partrychs wynges redyl<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>y</L>
+<L>But <ABBR>lord</ABBR> the perry <ABBR>and</ABBR> rychesse</L>
+<L>I sawe <ABBR>syttyng</ABBR> on the goddesse</L>
+<L><ABBR>And</ABBR> the heuenly melodye</L>
+<L>Of songes ful of Armonye</L>
+<L>I herde aboute her trone y songe</L>
+<L>That alle the palays wal ronge</L>
+<L>So songe the myghty muse she</L>
+<L>That <ABBR>clepyd</ABBR> is Calyope</L>
+<L><ABBR>And</ABBR> her seuen sustren eke</L>
+<L>That in her faces semen meke</L>
+<L><ABBR>And</ABBR> euermore eternally</L>
+<L>The songe of fame tho <ABBR>herd</ABBR> I</L>
+<L><ABBR>Heryed</ABBR> be thou <ABBR>and</ABBR> thy name</L>
+<L>Goddesse of renoun <ABBR>and</ABBR> of fame</L>
+<L><PB REF="19"/>Tho was I ware at the laste</L>
+<L>As I myn eyen gan vp caste</L>
+<L>That thys ylke noble quen<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>On her shuldres gan sustene</L>
+<L>Bothe Armes <ABBR>and</ABBR> the name</L>
+<L>Of tho that <ABBR>had</ABBR> large fame</L>
+<L>Alysandre <ABBR>and</ABBR> Hercules</L>
+<L>That wyth a sherte hys lyf l<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>es</L>
+<L><ABBR>And</ABBR> thus fonde I <ABBR>syttyng</ABBR> thys goddesse</L>
+<L>In nobley honour <ABBR>and</ABBR> rychesse</L>
+<L>Of whyche I styn<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e a whyle now</L>
+<L>Other thynges to tellen yow</L>
+<L>Tho sawe I stonde on thother syde</L>
+<L>Strayt doun to the doris wyde</L>
+<L>From the deys many a pyler</L>
+<L>Of metal that shone not ful cleer</L>
+<L>But though they were of no ryches</L>
+<L>Yet were they made for grete nobles</L>
+<L><ABBR>And</ABBR> in hem grete sentence</L>
+<L><ABBR>And</ABBR> folk of grete <ABBR>and</ABBR> dygne reuerence</L>
+<L>Of whyche to telle wyl I fonde</L>
+<L>Vpon a pyler sawe I stonde</L>
+<L>Alderfyrst / ther I seyghe</L>
+<L>Vpon a pyler stonde an hy<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>That was of <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ede <ABBR>and</ABBR> of yron fyne</L>
+<L>Hym that wrote thactes dyuyne</L>
+<L>The Ebrayk Iosephus the olde</L>
+<L>That of Iewes gestis tolde</L>
+<L><ABBR>And</ABBR> bare vpon hys sholdres hy<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>The fame vp of the Iewery<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L><ABBR>And</ABBR> by hym / ther stoden seuene</L>
+<L>Wyse <ABBR>and</ABBR> worthy / for to neuene</L>
+<L>To helpen hym <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ere vp the charge</L>
+<L>It was so heuy <ABBR>and</ABBR> so large</L>
+<L><ABBR>And</ABBR> for they wryten of bataylles</L>
+<L>As wel as of other meruaylles</L>
+<L>Thefor was <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>o thys pyler</L>
+<L>Of whyche I you telle he<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/></L>
+<L><PB REF="20"/><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> l<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>de <ABBR>and</ABBR> y<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>n bothe ywys</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> yron Martis metal is</L>
+<L>Whyche that <ABBR>god</ABBR> is of bataylle</L>
+<L><ABBR>And</ABBR> the <ABBR>leed</ABBR> wythoute faylle</L>
+<L>Is Lo the metall of saturne</L>
+<L>That hath ful large wh<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>le to turne</L>
+<L>To stonde forth on euery rowe</L>
+<L>Of hem / whyche I coude knowe</L>
+<L>Though I by ordre hem not telle</L>
+<L>To maken you to <ABBR>long</ABBR> to dwelle</L>
+<L>These of whyche I gan rede</L>
+<L>Ther sawe I stande out of drede</L>
+<L>Vpon a pyler hye <ABBR>and</ABBR> stronge</L>
+<L>That <ABBR>peynted</ABBR> was al <ABBR>endlong</ABBR></L>
+<L>Wyth <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ygres <ABBR>blood</ABBR> in euery place</L>
+<L>The tholoph<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>n that hyght s<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ace</L>
+<L>That bare of thebes vp the name</L>
+<L>Vpon hys sholdres <ABBR>and</ABBR> / the fame</L>
+<L>Also of cruel Achylles</L>
+<L><ABBR>And</ABBR> by hym wythout lees</L>
+<L>Ful wonder hygh vpon a pyler</L>
+<L>Of yron he the grete Omer</L>
+<L><ABBR>And</ABBR> wyth hym dares <ABBR>and</ABBR> Titus</L>
+<L>Before <ABBR>and</ABBR> eke he lollius</L>
+<L><ABBR>And</ABBR> Guydo eke de Columpnys</L>
+<L><ABBR>And</ABBR> Englysh <ABBR>Gaufryd</ABBR> eke ywys</L>
+<L><ABBR>And</ABBR> eche of these as I haue Ioye</L>
+<L>Was besy for to bere vp Troye</L>
+<L>So heuy was therof the fame</L>
+<L>That for to bere it was no game</L>
+<L>But yet I gan ful wel aspy<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Betwene hem was a lyt<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>l enuy<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Other sayde that Omer made lyes</L>
+<L><ABBR>Faynyng</ABBR> in hys poetryes</L>
+<L><ABBR>And</ABBR> was to the grekis fauorable</L>
+<L>Therfore <ABBR>held</ABBR> he it but fable</L>
+<L>Tho sawe I stonde on a pyler</L>
+<L>That was of <ABBR>tynned</ABBR> y<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>en cler</L>
+<L><PB REF="20"/>The latyn poete Virgyle</L>
+<L>That hath bo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e vp a longe whyle</L>
+<L>The fame of Pius Eneas</L>
+<L><ABBR>And</ABBR> next on a pyler was</L>
+<L>Of Co<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>er / Venus clerk Ouyde</L>
+<L>That hath sowen wonder wyde</L>
+<L>The grete <ABBR>god</ABBR> of loue / hys fame</L>
+<L><ABBR>And</ABBR> ther he bare vp wel hys name</L>
+<L>Vpon thys pyler / also hye</L>
+<L>As I myght see hyt wyth myn <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ye</L>
+<L>For whyche thys halle / wherof I rede</L>
+<L>Was waxe on heyght / length <ABBR>and</ABBR> brede</L>
+<L>Wel more by a <ABBR>thousand</ABBR> dele</L>
+<L>Than it was erst / that saw I wele</L>
+<L>Tho saw I on a pyler by</L>
+<L>Of yron wrought ful sternly</L>
+<L>The grete poete dan Lucan</L>
+<L>That on hys sholdres bare vp than</L>
+<L>As hye as I myght see</L>
+<L>The name of Iulius <ABBR>and</ABBR> Pompee</L>
+<L><ABBR>And</ABBR> by hym stoden alle these clerkis</L>
+<L>That wryte of Romes myghty werkis</L>
+<L>That yf I <ABBR>wold</ABBR> her names telle</L>
+<L>Alto <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>onge must I dwelle</L>
+<L><ABBR>And</ABBR> thenne vpon a pyler stode</L>
+<L>Of Sulphur lyche as he were wode</L>
+<L>Dan Claudian soth for to telle</L>
+<L>That bare vp alle the fame of helle</L>
+<L>Of Pluto <ABBR>and</ABBR> of Proserpyne</L>
+<L>That quene is of the derke pyne</L>
+<L>What <ABBR>shold</ABBR> I more telle of thys</L>
+<L>The halle was al ful ywys</L>
+<L>Of hem that writen olde gestis</L>
+<L>As ben in trees rokes nestis</L>
+<L>Wer<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> alle thyse gestes for to here</L>
+<L>But it is a ful confuse matere</L>
+<L>That they of wryte <ABBR>and</ABBR> how they hyght</L>
+<L>But whyle that I behelde that syght</L>
+<L><PB REF="21"/><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> a noyse <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>prochen blyue</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> fareth as bees don in an hyue</L>
+<L>Ayenst her tyme of out <ABBR>comyng</ABBR></L>
+<L>Ryght suche a <ABBR>murmoryng</ABBR></L>
+<L>Fye alle the <ABBR>world</ABBR> <ABBR>semed</ABBR> me</L>
+<L>Tho gan I loke aboute me <ABBR>and</ABBR> see</L>
+<L>That ther come <ABBR>entryng</ABBR> in to the halle</L>
+<L>A ryght grete company wyth alle</L>
+<L><ABBR>And</ABBR> that of sondry regyons</L>
+<L>Of alle kyns condicions</L>
+<L>That dwelle in erthe vnder the mone</L>
+<L>Poure <ABBR>and</ABBR> ryche <ABBR>and</ABBR> also sone</L>
+<L>As they were come in to the halle</L>
+<L>They gonne on knees doun falle</L>
+<L>Before thys ylke noble quene</L>
+<L><ABBR>And</ABBR> seyde graunte vs lady shene</L>
+<L>Ec<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e of vs / of thy grace a bone</L>
+<L><ABBR>And</ABBR> som̄e of hem / she <ABBR>graunted</ABBR> sone</L>
+<L><ABBR>And</ABBR> som̄e she <ABBR>warned</ABBR> wel <ABBR>and</ABBR> fay<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L><ABBR>And</ABBR> som̄e she <ABBR>graunted</ABBR> the contray<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>What ther grace was I nyste</L>
+<L>For of thyse folk ful wel I wyste</L>
+<L>They <ABBR>had</ABBR> <ABBR>good</ABBR> fame eche <ABBR>deserued</ABBR></L>
+<L>Alle though they were dyuersly <ABBR>serued</ABBR></L>
+<L>Ryght as her suster dame fortune</L>
+<L>Is wont to serue in Comune</L>
+<L>Now herkne how she gan to paye</L>
+<L>Hem / that gan her of grace praye</L>
+<L><ABBR>And</ABBR> yet lo / alle thys companye</L>
+<L>Seyden soth / <ABBR>and</ABBR> not a lye</L>
+<L>Madame <ABBR>sayd</ABBR> they / we be</L>
+<L>Folke / that here besechen the</L>
+<L>That thou graunte vs now <ABBR>good</ABBR> fame</L>
+<L><ABBR>And</ABBR> lete our werkes haue <ABBR>good</ABBR> name</L>
+<L>In ful recompensacioun</L>
+<L>Of <ABBR>good</ABBR> werkis / yeue vs renoun</L>
+<L>I warne yow <ABBR>quod</ABBR> she anon</L>
+<L>Ye gete of me <ABBR>good</ABBR> fame non</L>
+<L><PB REF="21"/>By <ABBR>god</ABBR> / <ABBR>and</ABBR> therfore go your wey</L>
+<L>Alas / <ABBR>quod</ABBR> they <ABBR>and</ABBR> weleawey</L>
+<L>Telle vs what your cause be</L>
+<L>For me lyst not it / <ABBR>quod</ABBR> she</L>
+<L>No wyght shal speke ywys</L>
+<L>Gode ne harme / ne that ne thys</L>
+<L><ABBR>And</ABBR> wyth that <ABBR>word</ABBR> she gan to calle</L>
+<L>Her messager that was in halle</L>
+<L><ABBR>And</ABBR> <ABBR>bad</ABBR> that he <ABBR>shold</ABBR> fast gon</L>
+<L>Vpon peyne to be <ABBR>blynd</ABBR> anone</L>
+<L>For Eolus / the <ABBR>god</ABBR> of wynde</L>
+<L>Iy trace / ther ye shal hym fynde</L>
+<L><ABBR>And</ABBR> <ABBR>byd</ABBR> hym <ABBR>bryng</ABBR> hys Claryon</L>
+<L>That is ful dyuerse of hys sown</L>
+<L><ABBR>And</ABBR> it is <ABBR>cleped</ABBR> clere lawde</L>
+<L>Wyth whyche he wont is to herawde</L>
+<L>Hem that me lyst y <ABBR>preysed</ABBR> be</L>
+<L><ABBR>And</ABBR> also <ABBR>byd</ABBR> hym / how that he</L>
+<L>Brynge eke hys other claryon</L>
+<L>That hyght sklaunder in euery town</L>
+<L>In whyche he wont is to deffame</L>
+<L>Hem that m<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> lyste / <ABBR>and</ABBR> do hem shame</L>
+<L>Thys Messager gan fast to goon</L>
+<L><ABBR>And</ABBR> fonde where in a caue<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> of stoon</L>
+<L>In a contre that hyght Trace</L>
+<L>Thys Eolus wyth <ABBR>hard</ABBR> grace</L>
+<L>Helde the wyndes in dystresse</L>
+<L><ABBR>And</ABBR> gan hem vnder hym to presse</L>
+<L>That they gonne as the beres rore</L>
+<L>He bonde <ABBR>and</ABBR> <ABBR>pressed</ABBR> hem so sore</L>
+<L>Thys messager gan fyrst crye</L>
+<L>Ryse vp <ABBR>quod</ABBR> he / <ABBR>and</ABBR> fast the hye</L>
+<L>Tyl thou at my lady be</L>
+<L><ABBR>And</ABBR> take thy clarions eke wyth the</L>
+<L><ABBR>And</ABBR> spede the faste / <ABBR>and</ABBR> he anon</L>
+<L>Toke to one that hyght Triton</L>
+<L>Hys claryon to beren tho</L>
+<L><ABBR>And</ABBR> lete a certayn <ABBR>wynd</ABBR> go</L>
+<L><PB REF="22"/><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>hat blew so hydously <ABBR>and</ABBR> hye</L>
+<L>That it left not a skye</L>
+<L>In alle the welkyn <ABBR>long</ABBR> <ABBR>and</ABBR> <ABBR>brood</ABBR></L>
+<L>Thys Eolus nowher a <ABBR>bood</ABBR></L>
+<L>Tyl he was come at fames fete</L>
+<L><ABBR>And</ABBR> eke the man that Tryton hete</L>
+<L><ABBR>And</ABBR> there he stode as styl as stone</L>
+<L><ABBR>And</ABBR> here wythal ther cam anon</L>
+<L>An other huge Companye</L>
+<L>Of <ABBR>old</ABBR> folke / <ABBR>and</ABBR> gan to crye</L>
+<L>Lady graunte vs now <ABBR>good</ABBR> fame</L>
+<L><ABBR>And</ABBR> lete our werkys haue that name</L>
+<L>Now in honour <ABBR>and</ABBR> gentylnes</L>
+<L><ABBR>And</ABBR> also <ABBR>god</ABBR> your sowle bles</L>
+<L>For we han wel <ABBR>deserued</ABBR> it</L>
+<L>T<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>erfore is ryght / that we be quyt</L>
+<L>As thryue I <ABBR>quod</ABBR> she ye shal faylle</L>
+<L><ABBR>Good</ABBR> werkis shall you not auaylle</L>
+<L>To haue of me <ABBR>good</ABBR> fame as now</L>
+<L>But wote ye what / I graunt yow</L>
+<L>That ye shal haue a <ABBR>shrewd</ABBR> name</L>
+<L><ABBR>And</ABBR> <ABBR>wycked</ABBR> loos / <ABBR>and</ABBR> werse fame</L>
+<L>Though ye <ABBR>good</ABBR> loos haue wel <ABBR>deseruyd</ABBR></L>
+<L>Now goth your w<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>y / for ye ben <ABBR>seruyd</ABBR></L>
+<L><ABBR>And</ABBR> thow dan Eolus / <ABBR>quod</ABBR> she</L>
+<L>Take forth thy trompe anon lete see</L>
+<L>That is I <ABBR>cleped</ABBR> sklaunder lyght</L>
+<L><ABBR>And</ABBR> blowe her loos / that euery wyght</L>
+<L>Speke of hem harme <ABBR>and</ABBR> shrewdnes</L>
+<L>An stede of <ABBR>good</ABBR> <ABBR>and</ABBR> worthynes</L>
+<L>For thou shalt trompe alle the contrayre</L>
+<L>That they haue don / wel <ABBR>and</ABBR> fayre</L>
+<L>Alas thought I what auentures</L>
+<L>Haue thyse sory creatures</L>
+<L>That they <ABBR>among</ABBR> alle the pres</L>
+<L><ABBR>Shuld</ABBR> thus be <ABBR>shamed</ABBR> gyltles</L>
+<L>But what it must nedes be</L>
+<L>What dide thys Eolus but he</L>
+<L><PB REF="22"/>Toke out hys black trompe of bras</L>
+<L>That fowler than the deuyl was</L>
+<L><ABBR>And</ABBR> gan thys trompe for to blowe</L>
+<L>As alle the <ABBR>world</ABBR> <ABBR>shold</ABBR> ouer throwe</L>
+<L>Thurgh out euery regyoun</L>
+<L>Wente hys fowle trompes sown</L>
+<L>As swyft as a pelet / out of a gonne</L>
+<L>Whan fyre is in to it ronne</L>
+<L><ABBR>And</ABBR> suche a smoke / gan out wende</L>
+<L>Out of the fowle trompes ende</L>
+<L>Black / blo / grenyssh / swartysh rede</L>
+<L>As doth / whan men melte lede</L>
+<L>Lo al on hye / from the welle</L>
+<L><ABBR>And</ABBR> therto one <ABBR>thyng</ABBR> saw I wel</L>
+<L>That the fer ther / that it ranne</L>
+<L>The gretter waxen / it began</L>
+<L>As doth the ryuer from a welle</L>
+<L><ABBR>And</ABBR> it stank / as the pyt of helle</L>
+<L>Alas thus was her shame y ronge</L>
+<L><ABBR>And</ABBR> gyltles / on euery tonge</L>
+<L>Tho cam the thyrde companye</L>
+<L><ABBR>And</ABBR> cam vp to the deys on hye</L>
+<L><ABBR>And</ABBR> doun on knees / they fell anon</L>
+<L><ABBR>And</ABBR> seyden / they ben euerychon</L>
+<L>Folk that han ful trewly</L>
+<L><ABBR>Deserued</ABBR> fame rightfully</L>
+<L><ABBR>And</ABBR> <ABBR>prayd</ABBR> hyt myght be knowe</L>
+<L>Ryght as it is <ABBR>and</ABBR> forth blowe</L>
+<L>I graunt <ABBR>quod</ABBR> she for now me lyst</L>
+<L>That now your <ABBR>good</ABBR> werkis ben wyst</L>
+<L><ABBR>And</ABBR> yet ye shal haue better loos</L>
+<L>Ryght in despyte of alle your foos</L>
+<L>Than wor<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>hy is / <ABBR>and</ABBR> that anone</L>
+<L>Lete now <ABBR>quod</ABBR> she / thy trompe gone</L>
+<L>Thou Eolus / that is so blacke</L>
+<L><ABBR>And</ABBR> oute thyn other trompe take</L>
+<L>That hyght lawde / <ABBR>And</ABBR> blowe it so</L>
+<L>That thurgh the <ABBR>world</ABBR> / her fame go</L>
+<L><PB REF="23"/>Alle esyly / <ABBR>and</ABBR> not to faste</L>
+<L>That it be knowen at the laste</L>
+<L>Ful gladly / lady myn he seyde</L>
+<L><ABBR>And</ABBR> out hys trompe of <ABBR>gold</ABBR> he breyde</L>
+<L>Anone / <ABBR>and</ABBR> set it to hys mouth</L>
+<L><ABBR>And</ABBR> blewe it eest. west. <ABBR>and</ABBR> south</L>
+<L><ABBR>And</ABBR> north as lowde as ony thonder</L>
+<L>That euery wyght hath of it wonder</L>
+<L>So brode it ran or that it stynte</L>
+<L><ABBR>And</ABBR> certes alle the breth that wente</L>
+<L>Out of hys trompe / it <ABBR>smellyd</ABBR></L>
+<L>As men a pyt ful of bawme <ABBR>heled</ABBR></L>
+<L>Amonge a basket ful of roses</L>
+<L>Thys fauour dy<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e he to her looses</L>
+<L><ABBR>And</ABBR> ryght wy<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>h thys I gan espye</L>
+<L>Ther cam the four<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>h companye</L>
+<L>But certeyn they were wonder fewe</L>
+<L><ABBR>And</ABBR> gonne to stonde on a rewe</L>
+<L><ABBR>And</ABBR> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ayden cert<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>s lady bryght</L>
+<L>We haue don wel / wyth al our myght</L>
+<L>But we n<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> kepe to haue fame</L>
+<L>Hyde our werkys <ABBR>and</ABBR> our name</L>
+<L>For goddes loue / for certes we</L>
+<L>Haue certayn don hyt for bounte</L>
+<L><ABBR>And</ABBR> for no maner other <ABBR>thyng</ABBR></L>
+<L>I graunte you alle your <ABBR>askyng</ABBR></L>
+<L><ABBR>Quod</ABBR> she / lete alle your werkys be dede</L>
+<L>Wyth that aboute I <ABBR>torned</ABBR> my hede</L>
+<L><ABBR>And</ABBR> sawe anon the fyrst rowte</L>
+<L>That to thys lady gan lowte</L>
+<L><ABBR>And</ABBR> doun anon on knees falle</L>
+<L><ABBR>And</ABBR> her, tho besoughten alle</L>
+<L>To hyde her <ABBR>good</ABBR> werkys eke</L>
+<L><ABBR>And</ABBR> seyde they yeue not a leke</L>
+<L>Foe fame ne suche renoun</L>
+<L>For they for comtemplacioun</L>
+<L><ABBR>And</ABBR> goddis loue <ABBR>had</ABBR> it wrought</L>
+<L>N<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> of fame <ABBR>wold</ABBR> they nought</L>
+<L><PB REF="23"/>What <ABBR>quod</ABBR> she / be ye <ABBR>wood</ABBR></L>
+<L><ABBR>And</ABBR> wene ye to do <ABBR>good</ABBR></L>
+<L><ABBR>And</ABBR> for to haue of that no fame</L>
+<L>Haue ye despyte to haue a name</L>
+<L>Nay ye shal euerychon</L>
+<L>Blowe thy trompe <ABBR>and</ABBR> that anon</L>
+<L><ABBR>Quod</ABBR> she thou Eolus / I hote</L>
+<L><ABBR>And</ABBR> rynge thyse folkes werkis by note</L>
+<L>That alle the <ABBR>world</ABBR> may of it here</L>
+<L><ABBR>And</ABBR> he gan blowe heer loos so clere</L>
+<L>In hys golden clarioun</L>
+<L>That thurgh the <ABBR>world</ABBR> wente the soun</L>
+<L><ABBR>And</ABBR> so kyndely / <ABBR>and</ABBR> eke so softe</L>
+<L>That theyr fame was blowe a lofte</L>
+<L>Tho cam the syxt companye</L>
+<L><ABBR>And</ABBR> gan faste / to fame crye</L>
+<L>Ryght veryly in thys manere</L>
+<L>They sey den mercy lady dere</L>
+<L>To t<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>lle certeyn as it is</L>
+<L>We haue don neyther that ne thys</L>
+<L>But ydle alle our lyf hath be</L>
+<L>But netheles we praye the</L>
+<L>That we may haue so <ABBR>good</ABBR> a fame</L>
+<L><ABBR>And</ABBR> grete renom̄ <ABBR>and</ABBR> knowen name</L>
+<L>As they that haue do noble gestis</L>
+<L><ABBR>And</ABBR> <ABBR>eschewyd</ABBR> alle her bestes</L>
+<L>As wel of loue / as other thynge</L>
+<L>Al was vs / neuer broche ne rynge</L>
+<L>Ne ellis what fro women sent</L>
+<L>Ne ones in her hert y ment</L>
+<L>To make vs frendly chere</L>
+<L>But mought temen vs vpon bere</L>
+<L>Yet lete vs to the peple seme</L>
+<L>Suche as the <ABBR>world</ABBR> / may of vs dem<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>That wommen <ABBR>loued</ABBR> vs for wode</L>
+<L>That shal do vs as moche gode</L>
+<L><ABBR>And</ABBR> to our hert as moche auayle</L>
+<L>To counterpoyse ese <ABBR>and</ABBR> trauayle</L>
+<L><PB REF="24"/><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>s we <ABBR>had</ABBR> wonne wyth labour</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>or that is dere bought tresour</L>
+<L>At regarde of our grete ese</L>
+<L><ABBR>And</ABBR> yet ye muste vs more plese</L>
+<L>Lete vs beholde eke therto</L>
+<L>Worthy wyse / <ABBR>and</ABBR> <ABBR>good</ABBR> also</L>
+<L><ABBR>And</ABBR> ryche <ABBR>and</ABBR> happy vnto loue</L>
+<L>For goddes loue / that sytteth aboue</L>
+<L>Though we may not the body hau<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Of womm<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>n / yet so <ABBR>god</ABBR> me saue</L>
+<L>Lete men blowe of vs the name</L>
+<L>Suffyseth vs / that we haue the fame</L>
+<L>I graunte <ABBR>quod</ABBR> she / by my trouthe</L>
+<L>Now Eolus / wythouten slouthe</L>
+<L>Take out thy trompe of <ABBR>gold</ABBR> <ABBR>quod</ABBR> she</L>
+<L><ABBR>And</ABBR> blowe as they haue <ABBR>axed</ABBR> me</L>
+<L>That euery man wene hem at ese</L>
+<L>Though they goo in <ABBR>bad</ABBR> bese</L>
+<L>Thys Eolus / gan it so blowe</L>
+<L>That thurgh the <ABBR>world</ABBR> it was knowe</L>
+<L>Tho cam the seuenth rowte anon</L>
+<L><ABBR>And</ABBR> fyl on knees euerychone</L>
+<L><ABBR>And</ABBR> <ABBR>sayd</ABBR> lady graunte vs soone</L>
+<L>The same <ABBR>thyng</ABBR> the same bone</L>
+<L>That to thyse next folk hast done</L>
+<L>Fy on you <ABBR>quod</ABBR> she euerychone</L>
+<L>Ye masty Swyne / ye Idle wretches</L>
+<L>Ful of roten <ABBR>and</ABBR> slowe triches</L>
+<L>What false theuys / where ye wolde</L>
+<L>Ben famous <ABBR>good</ABBR> / <ABBR>and</ABBR> <ABBR>no<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>hyng</ABBR> nolde</L>
+<L>Deserue why ne neuer thought</L>
+<L>Men rather yow to hangen ought</L>
+<L>For ye <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e lyke the slepy catte</L>
+<L>That <ABBR>wold</ABBR> haue fyssh / but wost thou what</L>
+<L>He wyl <ABBR>nothyng</ABBR> wete hys clawes</L>
+<L>Euyl thryft come on your Iawes</L>
+<L><ABBR>And</ABBR> on myn / yf I hyt graunte</L>
+<L>Or do fauour you to auaunte</L>
+<L><PB REF="24"/>Thou Eolus / <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>hou <ABBR><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>yng</ABBR> of trace</L>
+<L>Go blow thy<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> folk a sory grace</L>
+<L><ABBR>Quod</ABBR> she anon / <ABBR>and</ABBR> wost thou how</L>
+<L>As I shal telle the ryght now</L>
+<L>Say / <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>hese ben they / that wolden honou<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Haue / <ABBR>and</ABBR> do no kyns labour</L>
+<L><ABBR>And</ABBR> do no <ABBR>good</ABBR> / <ABBR>and</ABBR> yet hem lawde</L>
+<L>That men wende / that be<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e I sawde</L>
+<L>Ne coude hem not of loue werne</L>
+<L><ABBR>And</ABBR> yet she that grynt at querne</L>
+<L>Is al to <ABBR>good</ABBR> to ese her herte</L>
+<L>Thys Eolus anon vp sterte</L>
+<L><ABBR>And</ABBR> wyth hys black claryoun</L>
+<L>Began to blasyn out a soun</L>
+<L>As lowde as bellyth wynde in helle</L>
+<L><ABBR>And</ABBR> eke therwyth soth to t<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>lle</L>
+<L>Thys sown was ful of Iapes</L>
+<L>As euer mowes were in Apes</L>
+<L><ABBR>And</ABBR> that wende the <ABBR>world</ABBR> aboute</L>
+<L>That euery wyght gan on hem shoute</L>
+<L><ABBR>And</ABBR> for to lawhe / as they were <ABBR>wood</ABBR></L>
+<L>Suche game fonde they in her mode</L>
+<L>Tho cam there another companye</L>
+<L>That <ABBR>had</ABBR> y doon the trecherye</L>
+<L>The harme <ABBR>and</ABBR> grete wyckednesse</L>
+<L>That euery herte coude gesse</L>
+<L><ABBR>And</ABBR> <ABBR>prayd</ABBR> hem to haue <ABBR>good</ABBR> fam<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L><ABBR>And</ABBR> that she nolde do hem no shame</L>
+<L>But yeue hem loos <ABBR>and</ABBR> <ABBR>good</ABBR> renoun</L>
+<L><ABBR>And</ABBR> do it blowe in claryoun</L>
+<L>Nay wys <ABBR>quod</ABBR> she / it were a vyce</L>
+<L>Alle be there in me no Iustyce</L>
+<L>Me lyst not to do it now</L>
+<L>Ne I no wyl graunte it yow</L>
+<L>Tho cam there <ABBR>crepyng</ABBR> in a rowte</L>
+<L><ABBR>And</ABBR> gan clappe al abowte</L>
+<L>Euery man vpon the Crowne</L>
+<L>That alle the halle gan sowne</L>
+<L><PB REF="25"/><ABBR><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>nd</ABBR> sayde lady lyef <ABBR>and</ABBR> d<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ee</L>
+<L>We ben suche folkes as ye may here</L>
+<L>To telle alle the tale a ryght</L>
+<L>We ben shrewys euery wyght</L>
+<L><ABBR>And</ABBR> haue delyte in wyckednes</L>
+<L>As <ABBR>good</ABBR> folke haue in godenes</L>
+<L><ABBR>And</ABBR> Ioye to be knowen shrewes</L>
+<L><ABBR>And</ABBR> ful of vyce <ABBR>and</ABBR> <ABBR>wycked</ABBR> thewes</L>
+<L>Wherfore we pray you on a rowe</L>
+<L>That our fame be suche y knowe</L>
+<L>In alle <ABBR>thyng</ABBR> suche as it is</L>
+<L>I graunte it yow <ABBR>quod</ABBR> she ywys</L>
+<L>But what art thou / that seyst thys tale</L>
+<L>That werest on thy hose a pale</L>
+<L><ABBR>And</ABBR> on thy typet suche a belle</L>
+<L>Madame <ABBR>quod</ABBR> he soth to telle</L>
+<L>I am that ylke shrewe ywys</L>
+<L>That brente the temple of ysidis</L>
+<L>In Athenes lo that cyte</L>
+<L><ABBR>And</ABBR> wherfor dedest thou so <ABBR>quod</ABBR> she</L>
+<L>By my trouthe <ABBR>quod</ABBR> he madame</L>
+<L>I <ABBR>wold</ABBR> fayn haue <ABBR>had</ABBR> a fame</L>
+<L>As other folke <ABBR>had</ABBR> / in the town</L>
+<L>Alle though they were of grete renoun</L>
+<L>For her vertu <ABBR>and</ABBR> her thewes</L>
+<L>Thought I / as grete fame haue shrewes</L>
+<L>Though it be for Shrewdnes</L>
+<L>As <ABBR>good</ABBR> folke haue for goodnes</L>
+<L><ABBR>And</ABBR> sythen I may not haue that on</L>
+<L>That other nyl I not forgoon</L>
+<L>As for to gete a fame here</L>
+<L>The temple sette I on fyre</L>
+<L>Now late our loos be blowe swythe</L>
+<L>As wysly be thou euer blythe</L>
+<L>Gladly <ABBR>quod</ABBR> she / thou Eolus</L>
+<L>Herest thou not / what they prayen vs</L>
+<L>Madame yes ful wel <ABBR>quod</ABBR> he</L>
+<L><ABBR>And</ABBR> I wyl trompen it parde</L>
+<L><PB REF="25"/><ABBR>And</ABBR> toke hys black trompe faste</L>
+<L><ABBR>And</ABBR> gan to puffen <ABBR>and</ABBR> to blaste</L>
+<L>Tyl it was atte worldes ende</L>
+<L>Wyth that I gan aboute wende</L>
+<L>For one / that stode at my back</L>
+<L>Me thought ful goodly to me spack</L>
+<L><ABBR>And</ABBR> <ABBR>seyd</ABBR> frende what is thy name</L>
+<L>Art thou come heder to haue fame</L>
+<L>Nay forsoth frende <ABBR>quod</ABBR> I</L>
+<L>I come not hether gramercy</L>
+<L>For no suche cause by my hede</L>
+<L>Suffyse<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>h me / as I were dede</L>
+<L>That no wyght haue my name in honde</L>
+<L>I wote my self best how I stonde</L>
+<L>For what I drye or what I thynke</L>
+<L>I wyl my self alle hyt drynke</L>
+<L>Certeyn for the more parte</L>
+<L>As ferforth as I can myn Arte</L>
+<L>What dost thou here thenne <ABBR>quod</ABBR> he</L>
+<L><ABBR>Quod</ABBR> I that wyl I telle the</L>
+<L>The cause why I stonde here</L>
+<L>Som̄e newe tydynges forto lere</L>
+<L>Som̄e newe <ABBR>thyng</ABBR> I not what</L>
+<L>Tydynges eyther thys or that</L>
+<L>Of loue or suche thynges glade</L>
+<L>For certeynly he that me made</L>
+<L>To come heder <ABBR>sayd</ABBR> to me</L>
+<L>I Shulde bothe here <ABBR>and</ABBR> see</L>
+<L>In thys place wonder thynges</L>
+<L>But these be no suche tydynges</L>
+<L>As I mente / noo <ABBR>quod</ABBR> he</L>
+<L><ABBR>And</ABBR> I answerde / noo parde</L>
+<L>For wel I wote / euer yet</L>
+<L>Syth that fyrst I <ABBR>had</ABBR> wytte</L>
+<L>That som̄e folke / han <ABBR>desired</ABBR> fame</L>
+<L>Dyuersly <ABBR>and</ABBR> loos <ABBR>and</ABBR> name</L>
+<L>But certeynly I nyst ner how</L>
+<L>Where that fame dwellyth / or now</L>
+<L><PB REF="26"/>Ne eke of her dyscripcion</L>
+<L>Ne also of her condicion</L>
+<L>Ne the ordre of her dome</L>
+<L>Knewe I not tyl I hether come</L>
+<L>Why than be loo these tydynges</L>
+<L>That thou now hether brynges</L>
+<L>That thou hast <ABBR>herd</ABBR> <ABBR>quod</ABBR> he to me</L>
+<L>But now no force / for wel I see</L>
+<L>What thou desirest for to here</L>
+<L>Come forth <ABBR>and</ABBR> stonde no lenger here</L>
+<L><ABBR>And</ABBR> I wyl the wythouten drede</L>
+<L>In to suche another place lede</L>
+<L>There thou shalt here many one</L>
+<L>Tho gan I forth wyth hym goon</L>
+<L>Oute of the castel soth to saye</L>
+<L>Tho sawe I stonde in a valeye</L>
+<L>Vnder a castel fast by</L>
+<L>An hous lyke to domus dedaly</L>
+<L>That laborintus y <ABBR>cleped</ABBR> is</L>
+<L>Nas made so wonderly ywys</L>
+<L>Ne half so queyntly ywrought</L>
+<L><ABBR>And</ABBR> euermo as swyft as thought</L>
+<L>Thys queynt hous aboute wente</L>
+<L>That neuermo styll it stente</L>
+<L><ABBR>And</ABBR> ther come oute so grete a noyse</L>
+<L>That yf I <ABBR>had</ABBR> stande vpon oyse</L>
+<L>I myght it haue <ABBR>herd</ABBR> easely</L>
+<L>To rome I trow sikyrly</L>
+<L><ABBR>And</ABBR> the noyse whyche I <ABBR>had</ABBR> <ABBR>herd</ABBR></L>
+<L>For alle the <ABBR>world</ABBR> ryght so it <ABBR>f<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>rd</ABBR></L>
+<L>As doth the <ABBR>rowtyng</ABBR> of the stone</L>
+<L>That fro thengyne is leten gone</L>
+<L><ABBR>And</ABBR> al thys hous of whyche I rede</L>
+<L>Was made of twygges falow rede</L>
+<L><ABBR>And</ABBR> grene eke / <ABBR>and</ABBR> som̄e were whyt<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Suche as men to these gates thwyte</L>
+<L>Or maken of these paners</L>
+<L>Or elles hattes or dossers</L>
+<L><PB REF="26" MS="y"/>They were a <ABBR>chekked</ABBR> bothe two</L>
+<L><ABBR>And</ABBR> neyther of hym myght out goo</L>
+<L><ABBR>And</ABBR> wyth the noyse of them wo<NOTE PLACE="marg">Caxton</NOTE></L>
+<L>I Sodeynly awoke anon tho</L>
+<L><ABBR>And</ABBR> <ABBR>remembryd</ABBR> what I <ABBR>had</ABBR> se<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>n</L>
+<L><ABBR>And</ABBR> how hye <ABBR>and</ABBR> ferre I <ABBR>had</ABBR> been</L>
+<L>In my ghoost / <ABBR>and</ABBR> <ABBR>had</ABBR> grete wonder</L>
+<L>Of that the <ABBR>god</ABBR> of thonder</L>
+<L><ABBR>Had</ABBR> lete me knowen / <ABBR>and</ABBR> began to wryte</L>
+<L>Lyke as ye haue <ABBR>herd</ABBR> me endyte</L>
+<L>Wherfor to studye <ABBR>and</ABBR> rede alway</L>
+<L>I purpose to doo day by day</L>
+<L>Thus in <ABBR>dremyng</ABBR> <ABBR>and</ABBR> in game</L>
+<L>Endeth thys lytyl book of Fame</L>
+</LG>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="explication">
+<HEAD>Explicit</HEAD>
+<P>I fynde nomore of this werke to fore <ABBR>sayd</ABBR> / For as f<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>r as I can vnderstōde / This noble man Gefferey Chaucer <ABBR>fynysshyd</ABBR> at the <ABBR>sayd</ABBR> conclusion of the <ABBR>metyng</ABBR> of <ABBR>lesyng</ABBR> <ABBR>and</ABBR> sothsawe / where as yet they ben <ABBR>chekked</ABBR> <ABBR>and</ABBR> maye not depar<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e / whyche werke as me semeth is craftyly made / <ABBR>and</ABBR> dygne to be wreton &amp; knowen / For he towchyth in it ryght grete wysedom &amp; subtyll vnderston∣dynge / <ABBR>And</ABBR> so in alle hys werkys he excellyth in myn oppyny∣on alle other wryters in our Englyssh / For he wrytteth no voy∣de wordes / but alle hys mater is ful of hye <ABBR>and</ABBR> quycke senten¦ce / to whom ought to be gyuen laude <ABBR>and</ABBR> preysynge for hys no∣ble <ABBR>makyng</ABBR> <ABBR>and</ABBR> <ABBR>wrytyng</ABBR> / For of hym alle other haue borowed syth <ABBR>and</ABBR> taken / in alle theyr wel <ABBR>sayeng</ABBR> <ABBR>and</ABBR> <ABBR>wrytyng</ABBR> / <ABBR>And</ABBR> I humbly beseche &amp; praye yow / emonge your prayers to remem∣bre hys soule / on whyche <ABBR>and</ABBR> on alle crysten soul<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>s I beseche al∣myghty <ABBR>god</ABBR> to haue mercy Amen</P>
+</DIV1>
+<DIV1 TYPE="colophon">
+<P><ABBR>Emprynted</ABBR> by Wylliam Caxton</P>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>
+

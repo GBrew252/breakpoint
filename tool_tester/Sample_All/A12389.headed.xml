@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The sinners conuersion. By Henrie Smith</TITLE><AUTHOR>Smith, Henry, 1550?-1591.</AUTHOR></TITLESTMT><EXTENT>Approx. 36 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2005-12 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A12389</IDNO>
+
+
+<IDNO TYPE="stc">STC 22702</IDNO>
+
+<IDNO TYPE="stc">ESTC S117480</IDNO>
+
+<IDNO TYPE="eebo citation">99852693</IDNO>
+
+<IDNO TYPE="proquest">99852693</IDNO>
+
+<IDNO TYPE="vid">18030</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A12389)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 18030)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1475-1640 ; 354:2)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The sinners conuersion. By Henrie Smith</TITLE><AUTHOR>Smith, Henry, 1550?-1591.</AUTHOR></TITLESTMT><EXTENT>[32] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>At London :</PUBPLACE>
+<PUBLISHER>Printed [by Peter Short] for William Leake, and are to be solde at his shop in Paules Church-yard, at the signe of the Crane,</PUBLISHER>
+<DATE>1594.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Printer's name from STC.</NOTE><NOTE>Signatures: A-B.</NOTE><NOTE>The first leaf is blank except for signature-mark "A.i."; the last leaf is blank.</NOTE><NOTE>Another edition has "william Leake" in imprint.</NOTE><NOTE>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Sermons, English --  16th century.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2005-04</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2005-05</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2005-06</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2005-06</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2005-10</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A12389">
+<STC T="S">22702</STC>
+<BIBNO T="umi">99852693</BIBNO>
+<VID>18030</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>THE
+SINNERS CON∣uersion.</P>
+<P>By Henrie Smith.</P>
+<BIBL>Math. 18. verse, 3.</BIBL>
+<Q>Verily, I say vnto you, except yee be
+conuerted, and become as little children,
+y<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/> <GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>all not enter into the kingdome of
+Heauen.</Q>
+<P><FIGURE>
+<HEAD>ET VS∣QVE AD NV∣BES VERIT∣AS TVA·</HEAD>
+<FIGDESC>printer's or publisher's device</FIGDESC>
+<P>PS</P>
+</FIGURE></P>
+<P>At London printed for <HI>William
+Leake,</HI> and are to be solde at his shop in
+Paules Church-yard, at the
+signe of the Crane.
+1594.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="religious tract">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>The Text.</HEAD>
+<EPIGRAPH>
+<BIBL>Luke, 19. verses, 1. 2. 3. 4 5.</BIBL>
+<Q>¶1. Nowe when Iesus entred and passed through Ie∣richo,
+2. Beholde, there was a man named Zac∣cheus,
+which was the chiefe receiuer of the try∣bute,
+and he was rich. 3. And hee sought to see
+Iesus, who hee shoulde be, and coulde not for the
+prease, because he was of a lowe stature. 4. Where∣fore
+he ranne before, and climbed vp into a wilde
+figge tree, that hee might see him: for hee shoulde
+come that way. 5. And when Iesus came to the place,
+he looked vp, and sawe him, and saide vnto him,
+Zaccheus, come downe at once: for to day I must
+abide at thine house.</Q>
+</EPIGRAPH>
+<P><SEG REND="decorInit">I</SEG>N the ende of
+the Chapter before
+going, wee may see
+how Christ healed a
+man, blinde in his bo∣dily
+sight, namely
+<HI>Bartimeus,</HI> wherby he
+sheweth himselfe to be the phisition of the
+body: Heere we shall see how he cured one
+blind in mind, namely <HI>Zaccheus,</HI> whereby
+he sheweth himselfe to be the Phisition of
+the soule,<NOTE PLACE="marg">Ephes. 5. 23</NOTE> and therefore the Sauiour of the
+whole man.</P>
+<P><PB REF="3"/>
+In speaking of <HI>Zaccheus</HI> and his conuer∣sion,
+wee will obserue foure circumstances.
+First, the place where he was called, which
+was <HI>Iericho.</HI> Secondly, the person that was
+called, <HI>Zaccheus</HI> the Publican. Thirdly, by
+whom and how he was called, by the voice
+of Christ. And lastly, the effect and fruite of
+his calling, his good confession.</P>
+<DIV2 N="1" TYPE="part">
+<HEAD>The first Circumstance.</HEAD>
+<P>First therefore for the place where he was
+conuerted, it appeareth to be <HI>Iericho,</HI> a Cit∣tie
+not farre distant from <HI>Ierusalem.</HI> It was
+sometime a notable Citie, till it was subuer∣ted
+and ruinated by the Lordes Champion
+<HI>Iosua.</HI><NOTE PLACE="marg">Iosua, 6,</NOTE> It was builded againe in the dayes of
+<HI>Ahab,</HI><NOTE PLACE="marg">1. Reg. 16, 34</NOTE> by <HI>Hiel</HI> the Bethelite, and remaineth
+at this day with the rest of that holy-land,
+vnder the Turkish Empire. Vnto this <HI>Ieri∣cho,</HI>
+the Lord of heauen and earth vouch∣safeth
+to come, in the likenesse of a seruaunt.
+And as <HI>Iosua</HI> compassed <HI>Iericho</HI> seuen
+times, minding to destroy it, so Christ the
+true <HI>Iosua,</HI> resorted oftentimes to <HI>Iericho,</HI>
+minding to saue it. But as in the destruction
+of <HI>Iericho, Iosua</HI> spared none but <HI>Rahab</HI> the
+harlot: so <HI>Iesus</HI> in his iourney to <HI>Iericho,</HI>
+<PB REF="3"/>
+conuerted none but <HI>Zaccheus</HI> the Publican.
+When <HI>Iosua</HI> had conquered and rased <HI>Ieri∣cho,</HI>
+hee sowed salt in it to make it barren,
+and cursed him that should attempt to build
+it vp: yet in thys barren soyle Christ hath his
+spirituall haiuest, and in this cursed Cytty he
+hath a holy Temple a blessed building. <HI>Sa∣maria</HI>
+that wicked Citty affordeth many
+that belieue in Christ.<NOTE PLACE="marg">Iohn, 4, 49.</NOTE> <HI>Iohn,</HI> 4, 39. And out of
+<HI>Galile,</HI><NOTE PLACE="marg">Iohn, 1, 46</NOTE> from whence they thought no good
+thing might come.<NOTE PLACE="marg">Iohn, 7, 52,</NOTE> <HI>Iohn, 1, ver.</HI> 46. Christ
+called diuers of his Apostelles, and euen in
+<HI>Iericho</HI> this cursed Cittie, Christ hath a rich
+man that is to be saued. In euerie place
+Christ hath his chosen. There is neither Iewe
+nor Gentile, Barbarian nor Scythian, bound
+nor free,<NOTE PLACE="marg">Rom, 10, 12</NOTE> but Christ is all in all, to all that call
+vpon him. <HI>Rom.</HI> 10, 12.</P>
+</DIV2>
+<DIV2 N="2" TYPE="part">
+<HEAD>The second circumstance.</HEAD>
+<P>Now followeth the description of <HI>Zac∣cheus,</HI>
+which is most plainlie and fully sette
+forth vnto vs. The holy Ghost speaking of
+<HI>Zaccheus</HI> and his conuersion, comes in with
+an <HI>Ecce, behold,</HI> as if it were a wonder that
+<HI>Zaccheus</HI> shold be conuerted. <HI>Zaccheus</HI> was
+a Gentile, a Publican, and a rich man, and
+<PB REF="4"/>
+therefore behold a miracle, as if in the con∣uersion
+of <HI>Zaccheus,</HI> these three should be
+conuerted al once.</P>
+<P><HI>Zaccheus</HI> was a Gentile, a meruaile to see
+a Gentile become a Iew:<NOTE PLACE="marg">Rom. 2. 28.</NOTE> that is, to belieue
+in Christ. He was a principall Publican. A
+strange thing to see a chiefe Customer to
+giue ouer his office: and he was rich also, a
+rare matter to see a rich man to enter into
+the kingdome of God:<NOTE PLACE="marg">Mat. 19. 23.</NOTE> and therefore behold
+a miracle, as if at this day, the Turck: the
+Pope, and the King of Spaine, were at once
+perswaded to forsake their Idolatry and su∣perstition.
+Christ going to <HI>Ierusalem,</HI> con∣uerteth
+a Gentile, to signifie the calling of
+the Gentiles: he conuerteth a Publican, to
+shewe that notorious sinners may hope to
+be saued, if they repent and amend, as <HI>Zac∣cheus</HI>
+did. He cōuerteth a rich man, to shew
+that all rich men are not excluded from the
+kingdome of heauen,</P>
+<P>Hee was called <HI>Zaccheus</HI> before his con∣uersion,
+but he was neuer trulie called <HI>Zac∣cheus</HI>
+till Christ called him so. His name
+signifieng, simple, pure honest, but his lyfe
+was subtile, impure, and most detestable.
+Thus manie are called by honest names,
+whose deedes bewray their dishonest na∣tures,
+<PB REF="4"/>
+and vices oftentimes are shrowded
+in the habites of vertue, like <HI>Esops</HI> Asse,
+masking in the Lyons skinne, till hys long
+eares detect his folly; or like the Crowe
+that is decked in other plumes, till euerie
+byrd doe plucke his feather.</P>
+<P><HI>Zaccheus</HI> by his profession was a Publi∣can,
+and therefore much detested of the
+Iewes: for Publicans were the Romaine
+Officers, appoynted to gather and receiue
+publique custome or tribute of the Iewes,
+who were at that tyme in subiection vnto
+the Romaines. And amongst these Offi∣cers,
+<HI>Zaccheus</HI> was the chiefe, and (as it see∣meth)
+Ouer-seer of the rest that where in <HI>Ie∣rico,</HI>
+and therefore in chiefe hatred among
+the Iewes, as one that chiefely fauored the
+Romans tiranny, and serued to abridge their
+Country liberty, which ought not be subiect
+to any Nation.</P>
+<P>Besides, he contemned the ceremonies of
+the Iewes, and regarded not their Religion,
+nor liued after theyr Lawe, and therefore
+with the rest of the Heathen Publicans,
+was excommunicate out of theyr Sinagogue
+<HI>Math.</HI><NOTE PLACE="marg">Math. 18.</NOTE> 18.</P>
+<P>Thus was he hated for his profession, be∣cause
+he was a Publican, &amp; for his religion,
+<PB REF="5"/>
+because he was a Heathen. Yet was hee be∣loued
+for his wealth, for rich men haue ma∣nie
+friends.<NOTE PLACE="marg">Prou. 14, 20</NOTE> <HI>Prou.</HI> 14. 20. And though they
+doe neuer so wickedly, yet haue they some
+to take theyr parts. If they speake neuer so
+proudly, yet are there some to prayse their
+saying.<NOTE PLACE="marg">Eccle, 13, 23 24.</NOTE> <HI>Eccle</HI> 13, 23, 24.</P>
+<P><HI>Zaccheus</HI> was a Publican, and therefore
+riche: for Publicanes muste needes he rich,
+and Vsurers will be welthy. But rich Pub∣licans
+make poore princes, and wealthy V∣surers
+make many beggers. In euery Pro∣uince
+there were many Publicans, and
+therefore much poore people in euery place:
+for where there be many Caterpillers, the
+fruit is soone consumed, and where there be
+many extorcioners, beggers must needes a∣bound.</P>
+<P>By the Law of God,<NOTE PLACE="marg">Deut. 15</NOTE> there might be no∣begger
+in Israell, but when so many Publi∣cans
+were suffered to receiue tribute of the
+Iewes contrarie to Gods Law, no maruaile
+though so many sate and begged, contrarie
+to Gods Law.<NOTE PLACE="marg">Luke, 18</NOTE> <HI>Luke. 18. Iohn, 9. Acts.</HI> 3 By
+the Lawe of God.<NOTE PLACE="marg">Iohn, 9</NOTE> There ought to bee no
+beggers among Christians.<NOTE PLACE="marg">Acts, 3 Psal, 37, 25</NOTE> <HI>Psal.</HI> 3. 2. 25. but
+when so manie Vsurers are tollerated in a
+Christian Common-wealth, contrarie to
+<PB REF="5"/>
+the Law of Chirst,<NOTE PLACE="marg">Luke, 6. 35.</NOTE> <HI>Luke.</HI> 6. 35. no meruaile
+though we haue so many beggers,<NOTE PLACE="marg">Leuit. 25. 36. 37.</NOTE> contrarie
+to the minde of Christ.<NOTE PLACE="marg">Mark. 14. 7.</NOTE> <HI>The poore</HI> (sayth
+Christ) <HI>yee shall haue alwaies with you, but
+when you will you may doe them good:</HI> and
+we shall be sure to haue the poore amongst
+vs alwaies,<NOTE PLACE="marg">Psalm. 37.</NOTE> but wee must make such good
+prouision for them, that they be not faine to
+begge theyr bread.</P>
+<P>Thus was <HI>Zaccheus</HI> rich to himselfe,<NOTE PLACE="marg">Luke, 12. 21</NOTE> for
+he was a Publican, but he was rich towarde
+God also, for he had a desire to see Christ.
+Almightie God,<NOTE PLACE="marg">Ephe, 2.</NOTE> <HI>who is rich in mercie, Eph.</HI> 2.
+hath so inspyred his hart with the desire of
+heauenlie riches, that whereas before, hys
+whole delight was in seeking of worldlie
+wealth, now his greatest care is to seeke
+for heauenlie treasure. He now forgetteth
+what his profession is, and begins to be of a
+newe profession: and he whose hart was
+whollie sette vpon earthlie profit, is now like
+old <HI>Simeon,</HI> most desirous to see his Sauiour.
+The Tetrach <HI>Herod</HI> desired to see Christ,
+and despised him when hee saw him.<NOTE PLACE="marg">Luke, 23. 8.</NOTE> <HI>Luke.</HI>
+23. 8. 11. but <HI>Zaccheus</HI> the Publican, desired
+to see Christ, and reioyced when hee sawe
+him, like <HI>Abraham</HI> that desired to see the
+day of Christ.<NOTE PLACE="marg">Iohn, 8, 56.</NOTE> <HI>Iohn.</HI> 8. 56. and therefore of
+<PB REF="6"/>
+the seruant of Sathan, <HI>Zaccheus</HI> is nowe be∣come
+the childe of <HI>Abraham,</HI> which reioy∣ced
+to see the day of Christ. Happie were
+his eyes that sawe so blessed a sight, for ma∣nie
+Prophets and righteous men haue desi∣red
+to see and to heare those thinges that
+<HI>Zaccheus</HI> both saw and heard,<NOTE PLACE="marg">Luke. 10.</NOTE> and coulde
+not see nor heare the same. If <HI>Iacob</HI> thought
+himselfe happy,<NOTE PLACE="marg">Gene. 45.</NOTE> if that hee might but see his
+Sonne <HI>Ioseph</HI> before his death, then surelie
+thrise happie <HI>Zaccheus,</HI> whose hap it was,
+not onely to see (as <HI>Iacob</HI> did) but to reioyce
+(as <HI>Marie</HI> did) in Christ his Sauiour.</P>
+<P>As <HI>Zaccheus</HI> was desirous to see Christ in
+earth, so I would haue the riche men of our
+time, desirous to see Christ in heauen. For
+although with the eies of our bodie we can∣not
+see Christ as <HI>Zaccheus</HI> did, yet with the
+eies of our faith wee may beholde him as
+<HI>Stephen</HI> did.<NOTE PLACE="marg">Acts. 7.</NOTE> <HI>Actes.</HI> 7. But if our faith be so
+weake sighted that wee cannot see Christ,
+yet let vs haue a desire to heare Christ in his
+word, whereby our faith may be increased,
+for faith commeth by hearing the worde of
+God.<NOTE PLACE="marg">Rom. 10.</NOTE> And as the Queene of the South desi∣red
+to heare the wisedome of <HI>Salomon,</HI><NOTE PLACE="marg">1. Reg. 10.</NOTE> so let
+vs bee desirous to heare the wisedome of
+Christ our Sauiour.</P>
+<P><PB REF="6"/>
+King <HI>Salomon</HI> left some bookes in wri∣ting,
+wherein is seene some part of his wise∣dome,
+and Christ our king, hath left vnto vs
+his most sacred word, as it were a tast of his
+wisedome,<NOTE PLACE="marg">Iohn. 20. 31</NOTE> sufficient matter for our saluati∣on.
+This is that heauenly foode,<NOTE PLACE="marg">Math. 4, 4</NOTE> <HI>Math.</HI> 4.
+4. whereby our soules are fedde vnto eter∣nall
+life, let vs therefore labour for that hea∣uenly
+foode: and as the Israelites were care∣full
+to gather <HI>Manna</HI> to sustaine their bo∣dies,<NOTE PLACE="marg">Exod. 16</NOTE>
+so let vs be as carefull to heare the word
+to feede our soules. The people in the time
+of Christ,<NOTE PLACE="marg">Iobn, 6, 24</NOTE> <HI>Iohn,</HI> 6. 24. tooke great paines to
+follow Christ both by land and sea, and ma∣ny
+nowe a dayes (I confesse) are verie for∣ward
+to follow his faithfull Ministers, but as
+they followed Christ so fast to<NOTE N="a" PLACE="marg">Ioh. 6, 26</NOTE> fill their bel∣lies,
+so these frequent Sermons for fashion to
+serue the time.</P>
+<P><HI>Zaccheus</HI> is desirous to see Christ, a godly
+care, but yet hee coulde not obtaine his pur∣pose:
+a thing common, for euerie one that
+hath any good motion, hath alwaies some
+hinderaunce to crosse the same,<NOTE PLACE="marg">Two impe∣diments.</NOTE> and <HI>Zac∣cheus</HI>
+hath a double impediment to hinder
+his honest enterprise: The prease of the
+people, And his little stature. Whereof the
+former, that is, the multitude, is alwaies
+<PB REF="7"/>
+wont to be an enemie to those that woulde
+come to Christ. This hindered the blinde
+man from receiuing his sight.<NOTE PLACE="marg">Luke, 18</NOTE> <HI>Luke,</HI> 18. for
+the people rebuked him that he should hold
+his peace, till Christ called him and opened
+his eyes. This hindered them that brought
+the man sicke of the Palsie.<NOTE PLACE="marg">Marke, 2</NOTE> <HI>Marke,</HI> 2. for
+they could not come at Christ for y<SUP>e</SUP> prease,
+till they vncouered the roofe of the house,
+and let downe the bed wherein the sicke of
+the Palsey lay.</P>
+<P>This hindered the healing of the deafe
+and dumbe,<NOTE PLACE="marg">Marke, 7</NOTE> <HI>Marke,</HI> 7. till Christ tooke
+him aside out of the multitude and cured
+him. This hindered the raising of the Ru∣lers
+daughter.<NOTE PLACE="marg">Math. 9</NOTE> <HI>Mathew,</HI> 9. till Christ had
+thrust out the Minstrels and the multitude,
+and then restored the maid to life. Finally,
+this hindered <HI>Zaccheus</HI> here from comming
+vnto Christ, till Christ vouchsafed to call
+him to himselfe. Thus alwaies a multitude
+that is prone to euill, doth withdrawe and
+hinder vs from approching vnto Christ: and
+therefore wee must not followe a multitude
+to doe euill, nor decline after many to ouer∣throw
+the trueth.<NOTE PLACE="marg">Exod. 23</NOTE> <HI>Exod.</HI> 23.</P>
+<P>The second impediment that hindereth
+<HI>Zaccheus</HI> from seeing Christ, is his little sta∣ture.
+<PB REF="7"/>
+Hee was so lowe of stature, that hee
+coulde not see Christ aboue the multitude:
+but Christ was aboue the multitude, and
+therefore coulde see <HI>Zaccheus</HI> though hee
+were so lowe of stature. For God looketh
+not on the countenance,<NOTE PLACE="marg">Sam. 16. 7</NOTE> nor on the height
+of a mans stature, but the Lord beholdeth
+the heart, and preferreth little <HI>Dauid</HI> before
+<HI>Eliab</HI> his eldest brother,<NOTE PLACE="marg">1. Sam. 16 12.</NOTE> because he findeth
+in him a better heart to serue the Lord. And
+<HI>Zaccheus</HI> in his little bodie, hath a heart and
+minde prepared to seeke and see the Lord.
+<HI>Zaccheus</HI> was so lowe that he could not see
+Christ, but many amongest vs are so high
+that they will not see Christ. The common
+people in the time of Christ, were so desi∣rous
+to followe Christ, that neither lame∣nesse,
+nor blindnes, nor sicknes, coulde staie
+them from comming to him: but the Com∣mon
+people in our time, are more readie to
+follow their sport and pastime, then to come
+to the Church to heare of Christ. And as
+for our rich men, who seeth not that they
+will make great hast to see a commoditie,
+but will scarce come out of doores to heare
+a Sermon?</P>
+<P>They come to Church,<NOTE PLACE="marg">Iohn, 32</NOTE> as <HI>Nichodemus</HI>
+came to Christ by night, as if they were a∣shamed
+<PB REF="8"/>
+to come to Church: but they runne
+after profite to gette riches,<NOTE PLACE="marg">2. King. 5</NOTE> as <HI>Gehezi</HI> ran
+after <HI>Naaman</HI> the Syrian to get a bribe.</P>
+<P>Thus hath <HI>Zaccheus</HI> two lettes, that hee
+could not see Christ, the one in the people,
+the other in himselfe: and wee haue many
+lettes to withdrawe vs from Christ, some are
+externall and without vs, as the intice∣mentes
+of the world, and some are internall
+and within vs, as the lustes of our owne
+fleshe. The prease of the people, hindereth
+<HI>Zaccheus</HI> from seeing Christ in his humili∣tie,
+and the multitude of our sinnes,<NOTE PLACE="marg">Esay. 59. 2</NOTE> doe
+presse vs downe that wee cannot see Christ
+in glorie. <HI>Zaccheus</HI> was a man of little sta∣ture,
+and that hindered him from seeing
+Christ in earth, and we are men of little faith,
+and that is the cause wee cannot beholde
+Christ in heauen.</P>
+<P>Though <HI>Zaccheus</HI> was a man of little sta∣ture,
+yet it appeareth that hee was not a
+man of little wit: For when hee coulde not
+come to the sight of Christ for the multi∣tude,
+he had the wit to runne before, and to
+clime vp into a tree to obtaine his purpose.
+And for the moste part it falleth out, that
+men of lowe stature, are men of high con∣ceite,
+and the shortest bodies, haue the
+<PB REF="8"/>
+sharpest wittes, God so prouiding, that the
+defectes of their bodies, might bee supplied
+with the giftes of their minde. Nowe <HI>Zac∣cheus</HI>
+that before was loth to moue his foote
+from the Custom-house for loosing his pro∣fite,
+beginnes to runne after Christ for feare
+of a greater losse, like <HI>Elisa</HI> that left his plow∣ing,
+and ranne after <HI>Elias</HI> to followe his
+newe vocation.<NOTE PLACE="marg">1, Reg. 19</NOTE> But <HI>Zaccheus</HI> doth not
+onely runne, but also clymbe vp into a Tree
+to see Christ: A strange thing, that <HI>Zaccheus</HI>
+a rich man, and a chiefe Customer, shoulde
+behaue himselfe so childishly in the sight of
+so great a multitude: but the desire hee had
+to see Christ, made him forget himselfe, and
+to commit such thinges as were not fitting
+for his state and credite. So they that wil fol∣low
+Christ, must make account to doe ma∣nie
+thinges contrarie to the<NOTE N="a" PLACE="marg">Rom. 12</NOTE> fashion of the
+worlde, and their owne liking. If Christ
+himselfe were content to leaue the glorie
+which he had with his father to come down
+to vs, shall not wee be content to leaue the
+reputation which wee haue with men, to go
+vp to him?</P>
+<P>But alas where is there any almost, that
+preferreth not the fruition of this earthly pri∣son,
+before the possession of that hea∣uenlie
+<PB REF="9"/>
+mansion: and had rather hazard the
+hope which they haue of eternall glory, then
+leese the present enioying of theyr fading
+pleasure.</P>
+<P>The ambitious man hunteth after honor,
+and will not leese an inche of his estimation.
+The couetous man seekes after profit, and
+counts (like <HI>Iudas</HI>) all lost that comes not
+to his bags. And the voluptuous man be∣stowes
+his time in pleasure,<NOTE PLACE="marg">Iohn. 12. 6.</NOTE> and thinketh
+that hys chiefe felicittie. Thus euerie man
+makes his heauen of that wherein he most
+delighteth, &amp; is content to take great paines
+to accōplish his fond desires. But here <HI>Zac∣cheus</HI>
+is of another minde, for being a pub∣lique
+officer, he climbes into a tree, which
+stoode not with his grauitie: and being a rich
+man, he runnes to see Christ, which was not
+for his worldly profit; yea hee takes great
+paines to see Christ, not respecting his ease
+or pleasure.</P>
+<P>Thus must we be affected if we desire to
+come to Christ, that neither honours nor
+preferments, nor profit nor pleasure, nor
+kyndred nor freends, be able to holde vs
+backe.<NOTE PLACE="marg">Mat. 8. 22.</NOTE> We must be readie not only to run,<NOTE PLACE="marg">Luk. 14. 26.</NOTE>
+but also to climbe (if need require) as <HI>Zac∣cheus</HI>
+dyd: that is, to take some payne and
+<PB REF="9"/>
+trauaile to haue a sight of Christ.</P>
+<P>The Queene of the South,<NOTE PLACE="marg">1. King. 10.</NOTE> vndertooke a
+great and tedious iourney, to heare the wise∣dome
+of <HI>Salomon,</HI> but we are lothe to take a∣ny
+paine to heare one that is greater then <HI>Sa∣lomon.</HI></P>
+<P>The people in <HI>Dauids</HI> tyme, brought so
+much treasure,<NOTE PLACE="marg">1. Chr. 29. 9.</NOTE> and so many gyfts to the buil∣ding
+of Gods Temple, that the Priestes were
+fayne to byd them cease, but a great part of
+the people in our tyme, are so sparing of their
+paynes and cost, that they thinke that very
+time mispent whiche is imployed in the ser∣uice
+of God: and that money ill bestowed,
+which is gyuen to the maintenaunce of his
+Ministers.</P>
+<P>When <HI>Zaccheus</HI> could not see Christ for
+the multitude, he climbes vp into a tree, that
+groweth in the way where he was to passe,
+that from a tree he might behold him, which
+was to suffer on a tree for mans saluation. So
+when wee cannot drawe neere to Christ by
+reason of our sinnes that presse vs downe, we
+must clymb vp by a liuely faith, whiche is the
+tree of life, that groweth in the waie to eter∣nall
+life, that so with the eyes of our fayth, we
+may behold him that dyed for our sinnes vp∣on
+a tree.</P>
+<P><PB REF="10"/>
+It was a wilde figge tree that <HI>Zaccheus</HI>
+clymbed,<NOTE PLACE="marg">Math. 21, 19</NOTE> but not like that vnfruitfull one
+which our Sauiour cursed: for this bare most
+pretious fruite, euen such as Christ himselfe
+vouchsafed to plucke. A happie tree that
+bare suche pretious fruite as <HI>Zaccheus</HI> was,
+but thrise happie <HI>Zaccheus,</HI> that so happily
+clymbed on that happie tree.</P>
+<P>This tree grewe in the way that Christ
+was to passe, for else <HI>Zaccheus</HI> might haue
+climbed to no purpose: So if wee desire to
+finde Christ, we must seeke him in the waie
+where hee hath promised to shewe himselfe
+vnto vs, that is, in his holy Temple, where
+his word is duely preached,<NOTE PLACE="marg">Math. 18, 20</NOTE> and his Sacra∣mentes
+reuerently administred, for where
+two or three are so gathered together, hee
+hath promised to be present amongst them.</P>
+</DIV2>
+<DIV2 N="3" TYPE="part">
+<HEAD>The third Circumstance.</HEAD>
+<P>When Christ came to the place, he looked
+vp and saw <HI>Zaccheus.</HI></P>
+<P>As <HI>Zaccheus</HI> ranne before to see Christ,
+so Christ followed after to see <HI>Zaccheus.</HI>
+Sathan for his part, <HI>went about like a roaring
+Lyon,</HI><NOTE PLACE="marg">1, Pet. 5, 8</NOTE> <HI>seeking to deuoure him,</HI> but Christ for
+his part,<NOTE PLACE="marg">Iohn, 10</NOTE> goeth about like a good Sheepe∣heard,
+<PB REF="10"/>
+minding to saue him.<NOTE PLACE="marg">Luke, 11, 21</NOTE> And although
+Sathan a strong armed man, had taken some
+possession in y<SUP>e</SUP> heart of <HI>Zaccheus,</HI> yet Christ
+a stronger then he, commeth vnarmed, and
+taketh from him his harnesse wherein hee
+trusted, and rescueth the spoyle.</P>
+<P>Christ comes to the place where <HI>Zac∣cheus</HI>
+was, because otherwise, it had been
+vnpossible for <HI>Zaccheus</HI> to come to his pre∣sence:
+for vnlesse the Lorde vouchsafe to
+come vnto vs, we cannot attaine to the pre∣sence
+of God. As no man might haue anie
+accesse to King <HI>Assuerus,</HI><NOTE PLACE="marg">Hester. 4</NOTE> except hee stret∣ched
+out his golden Scepter, so no man may
+come to Christ, vnlesse hee be called by the
+golden scepter of his sacred word.</P>
+<P><HI>Christ looked vp and saw Zaccheus,</HI> before
+<HI>Zaccheus</HI> could looke down to behold him.
+Thus doth the Lord preuent vs with his mer∣cie,
+whome hee might cast off in his iustice:
+and if hee perceiue in vs a willing minde
+to come vnto him, he is content to come
+first vnto vs. And like that good Father,
+<HI>Luke,</HI><NOTE PLACE="marg">Luke, 15</NOTE> 15. to beholde vs while wee are
+yet a great way off, and to haue compassi∣on
+on vs.</P>
+<P>When <HI>Iobs</HI> three friends that came to vi∣site
+him in his great calamitie,<NOTE PLACE="marg">Iob. 2. 12.</NOTE> lift vp their
+<PB REF="11"/>
+eyes a farre of, they knewe not <HI>Iob,</HI> because
+he was so sore afflicted: but Christ who is the
+myrror of true friendship, cannot so soone
+forget his friendes, howsoeuer they be dis∣guised.
+He knoweth his owne sheepe where
+soeuer hee seethe them.<NOTE PLACE="marg">Iohn, 10,</NOTE> <HI>Iohn</HI> 10. whether
+they be vnder the figge-tree as <HI>Nathaniell</HI>
+was,<NOTE PLACE="marg">Iohn. 1.</NOTE> or vppon the figge-tree as <HI>Zaccheus</HI>
+was, he hath respect vnto them. And if they
+haue a desire to seeke, they shall be sure to
+find.<NOTE PLACE="marg">Math. 7.</NOTE> <HI>Math,</HI> 7. And if they labour and are
+heauie laden,<NOTE PLACE="marg">Math. 11.</NOTE> he will refresh them. <HI>Math.</HI>
+11. Christ is nowe come to the place where
+<HI>Zaccheus</HI> is to be called, and as <HI>Abraham,
+Gene.</HI><NOTE PLACE="marg">Gene. 22.</NOTE> 22. lift vp his eyes and saw in the bushe
+a Ramme that was to be sacrificed, so Christ
+lifting vp his eyes, sawe in the tree, <HI>Zaccheus</HI>
+the sinner that was to bee conuerted. And
+now beginnes the conuersion of <HI>Zacche∣us,</HI>
+for now Christ beginnes to speake vnto
+him.</P>
+<P><HI>Zaccheus</HI> desired onely to see Christ, but
+now Christ calleth him by name, and offe∣reth
+hys owne selfe vnto him. This was
+more then <HI>Zaccheus</HI> expected, and yet no
+more then Christ vouchsafeth, namelie, to
+giue more then is desired. The sicke of the
+Palsey that asked health,<NOTE PLACE="marg">Luke. 5.</NOTE> obtained also for∣giuenesse
+<PB REF="11"/>
+of sinnes. <HI>Salomon</HI> desired wise∣dome,<NOTE PLACE="marg">1. Kings, 3, 12. 13.</NOTE>
+and the Lord gaue him wisedome &amp;
+aboundance of wealth beside. <HI>Iacob</HI> asked
+but meate and clothing,<NOTE PLACE="marg">Gen. 28 20.</NOTE> and God made
+him a great rich man. And <HI>Zaccheus</HI> desi∣red
+onely to haue a sight of Christ, and was
+so happie as to entertaine him into hys
+house.</P>
+<P>Thus the Lord that is rich in mercy to all
+that call vppon him,<NOTE PLACE="marg">Rom. 10. 12. phes. 2. 4.</NOTE> vseth oftentimes to
+giue more then wee aske: and hee that is
+alwaies found of them that seeke him with
+their whole heart,<NOTE PLACE="marg">Ierem, 29.</NOTE> is founde also sometime
+of Gentiles that knew not God.<NOTE PLACE="marg">Esay, 65. 1.</NOTE> <HI>Esa.</HI> 65. 1.
+Let vs therefore that were sometime sinners
+of the Gentiles,<NOTE PLACE="marg">Rom. 10. 20</NOTE> seeke the Lord as <HI>Zac∣cheus</HI>
+did while he may be founde,<NOTE PLACE="marg">Esay, 55.</NOTE> and call
+vppon him while hee is nigh. Hee will be
+found of them that seeke him heartilie, and
+is nigh to all them that call vppon him faith∣fully.
+<HI>Psalm.</HI><NOTE PLACE="marg">Psalm, 145,</NOTE> 145. 18.</P>
+<P><HI>Zaccheus come downe at once.</HI> Now Christ
+begins to call <HI>Zaccheus</HI> from the tree to be
+conuerted, as God called <HI>Adam</HI> from a∣mong
+the trees of the Garden to be cursed.<NOTE PLACE="marg">Gene, 3.</NOTE>
+<HI>Gene,</HI> 3. Before, <HI>Zaccheus</HI> was too lowe, and
+therefore was faine to climbe, but nowe he
+is too high, and therefore hee must come
+<PB REF="12"/>
+downe. And we (for the most part) are ei∣ther
+too high, or too low, too hot or too cold,
+too quick, or too slothfull in the Lords busi∣nes.
+Somtime wee flock together to heare a
+Sermon,<NOTE PLACE="marg">Luke. 5</NOTE> like the people <HI>Luke,</HI> 5, that pres∣sed
+vpon Christ to heare the word: and a∣none
+wee runne to see some pleasant past∣time,
+like the <HI>Athenians,</HI><NOTE PLACE="marg">Acts. 17</NOTE> whose eares al∣waies
+itched to heare some newes. Who
+make more shewe of conscience and religi∣on,
+then they that shewe themselues most ir∣religious
+and vnconscionable? Who seemed
+more confident and vertuous in Christ hys
+cause then <HI>Peter?</HI><NOTE PLACE="marg">Math, 26</NOTE> and not long after, who
+more trayterous and faint-harted.</P>
+<P>Many can saie with <HI>Peter,</HI> that they will
+not stick to die before they will denye
+Christ, but when it comes to the tryall they
+are readie to abiure Christ and his religion,
+before they will hazarde either life or ly∣uing.</P>
+<P>He that will come to Christ, must come
+at once, without delay, for delays (special∣ly
+in the matter of our saluation) are most
+daungerous, &amp; repentance may not be de∣ferred.
+<HI>We must make no tarrying to turne vn∣to
+the Lord,</HI><NOTE PLACE="marg">Eccle, 5, 7</NOTE> <HI>nor put off from day to day, least
+the wrath of the Lord breake forth sudainelie
+<PB REF="12"/>
+and we be destroyed in our securitie and perish
+in the time of vengeance.</HI> When the Lord is
+minded to doe vs good, he wil haue vs come
+quickly like <HI>Ioseph, Gene,</HI><NOTE PLACE="marg">Gene. 45</NOTE> 45. 6. that in the
+tyme of famine, would haue his Father <HI>Ia∣cob</HI>
+to come downe quickly vnto him, to so∣iourne
+in Egypt, where there was some plen∣tie
+of foode.</P>
+<P>As the children of thys world are verie
+nimble to worke wickednes, so the children
+of light, shoulde be as nimble to followe
+goodnesse. <HI>Iudas</HI> was nimble to betraie
+Christ, <HI>Iohn.</HI> 13. 27. and the badde debters,
+<HI>Luke.</HI><NOTE PLACE="marg">Ioh, 13, 27</NOTE> 16.<NOTE PLACE="marg">Luke, 16</NOTE> could sitte downe quickly to mis∣reckon
+their creditor: so let vs come quick∣lie
+to heare of Christ, that Christ may ac∣cept
+of vs quicklie, let vs be nimble to make
+our account before,<NOTE PLACE="marg">Luke, 14. 28</NOTE> that we doe not (lyke
+the foolish builder) come short of our rec∣koning.</P>
+<P>But why must <HI>Zaccheus</HI> come downe so
+hastily? euen to entertaine Christ into hys
+house. <HI>For to day</HI> (sayth Christ) <HI>I must a∣bide
+with thee.</HI> This was ioyfull newes to
+little <HI>Zaccheus.</HI> Not long before, he wanted
+meanes to see Christ, but now he hath op∣portunitie
+to entertaine him into his house.
+There was more humanitie in Christ then
+<PB REF="13"/>
+in <HI>Zaccheus,</HI> for if Christ had not bidden
+himselfe to dinner, hee had not been bidden
+for <HI>Zaccheus.</HI> So if Christ doe not offer
+himselfe vnto vs in his afflicted members,
+hee may go long enough before we will of∣fer
+him any entertainment.<NOTE PLACE="marg">Math, 25, 40</NOTE> As often as the
+poore craueth anie reliefe at our handes, let
+vs imagine that Christ asketh something of
+vs: but as <HI>Zaccheus</HI> must entertaine him
+presently without delay, so let vs be readie
+to helpe them presently, because they stand
+in neede of present helpe. And as hee must
+receiue Christ into his house, so wee must
+make account to receiue his needie mem∣bers
+into our houses:<NOTE PLACE="marg">Luke, 16.</NOTE> And as the vniust
+Steward procureth himselfe friendes with
+his maisters goodes, so let vs make the poore
+to be our friendes, by our beneficence and
+bountie towards them, that so receiuing thē
+(when they haue neede) into our earthly
+houses, they may receiue vs when we stand
+in greatest neede, into euerlasting habitati∣ons.</P>
+<P>They that were inuited to the marriage,
+<HI>Math.</HI><NOTE PLACE="marg">Math. 22.</NOTE> 22. refused to come, but Christ is
+content to come to <HI>Zaccheus</HI> house before
+he was inuited. Wherein also, hee sheweth
+his great humilitie, in comming before hee
+<PB REF="13"/>
+was requested, as they bewrayed their great
+arrogancie, in refusing to come beeing so∣lemnely
+bidden. It was a part of great hu∣militie,
+that he that was most free from sinne,
+woulde vouchsafe to come into a sinners
+house: but it was a signe of greater humilitie,
+that he would be wray his great necessitie, &amp;
+seeke for succour at a sinners hand.</P>
+<P>Alas poore humble Sauiour, who though
+thou be Lord of heauen and earth, as thou art
+the sonne of God, yet as thou art the sonne
+of man, hast not whereon to lay thy head,
+<HI>Math.</HI><NOTE PLACE="marg">Math. 8.</NOTE> 8. How iustly did thy Prophet <HI>Iere∣my</HI>
+wonder at thy humble pouerty, saying.
+<HI>O thou hope of Israell, the Sauiour thereof in
+the time of trouble,</HI><NOTE PLACE="marg">Iere. 14.</NOTE> <HI>why art thou as a straunger
+in the land, or as one that passeth by to tarry for
+a night?</HI> The sonne of GOD vouchsafeth to
+come and that vnrequested, to a sinfull mans
+house, a speciall fauour: but hee disdaineth
+not to make his necessity knowne vnto him,
+O straunge humilitie!</P>
+<P>Heere therefore appeareth the singuler
+humanitie and great humilitie of Christ to
+sinfull men; he offereth himselfe to bee their
+guest if he finde them willing to entertaine
+him for their guest. And <HI>Zaccheus</HI> no doubt
+was willing to entertaine him: for although
+<PB REF="14"/>
+Christ heard not the voyce, yet he heard the
+affection of <HI>Zaccheus</HI> inuiting him to dyn∣ner.
+As therefore <HI>Zaccheus</HI> was willing to
+receiue Christ into his house, so let vs be rea∣dy
+to receiue him into our harts. For as Christ
+sayd to <HI>Zaccheus: This day I must abide at
+thy house,</HI> so he saith to euery one of vs, <HI>This
+day I must abide in your harts.</HI></P>
+<P>Wherefore as the Prophet <HI>Dauid</HI> sayth,<NOTE PLACE="marg">Psalm, 24</NOTE>
+<HI>Open your gates that the King of glorie may
+come in,</HI> so I say vnto you, <HI>Open your hartes
+that the word of God may enter in.</HI> This daie
+the word of God may abide in your harts,
+for thys day the word is preached vnto you,
+and who knoweth whether he shall liue to
+heare it the next Saboth.<NOTE PLACE="marg">Psal, 95</NOTE> <HI>To day therefore if ye
+will heare his voyce, harden not your hearts:</HI> as
+did y<SUP>e</SUP> Israelites, least if you harden your harts,
+his voice be heard no more amōgst you. This
+day you may gather this heauenlie <HI>Man∣na,</HI>
+as the Isralites might gather theyr <HI>Man∣na</HI>
+sixe dayes together,<NOTE PLACE="marg">Exod, 16</NOTE> but to morrow (per∣haps)
+and sixe dayes after you, may not ga∣ther
+it, as on the seauenth day <HI>Manna</HI> might
+not be found.</P>
+<P>The Lord graunt that you may gather
+sufficient foode for the sustentation of your
+soules, that as <HI>Elias</HI> the Prophet iournied in
+<PB REF="14"/>
+the strength of the meate that the Angell
+brought him,<NOTE PLACE="marg">1, Reg. 19.</NOTE> euen vnto <HI>Horeb</HI> the Mount
+of God, so you in the strength of this spiri∣tuall
+meate which heere I bring you, may
+be able to passe thorowe the daungerous
+wayes of this troublesome worlde, vnto
+Gods holy Mountaine, the Hauen of all
+happinesse, whither hee bring vs that hath
+deerely bought vs with his precious bloud,
+euen Christ Iesus the righteous: to whome
+with the Father and the holy Ghost, three
+persons and one GOD, be giuen all glorie
+and maiestie, world without, end <HI>Amen.</HI></P>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

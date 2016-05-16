@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">Great Brittaines generall ioyes. Londons glorious triumphes Dedicated to the immortall memorie of the ioyfull mariage of the two famous and illustrious princes, Fredericke and Elizabeth. Celebrated the 14. of Februarie, being S. Valentines day. With the instalment of the sayd potent Prince Fredericke at Windsore, the 7. of Februarie aforesaid.</TITLE><AUTHOR>Nixon, Anthony.</AUTHOR></TITLESTMT><EXTENT>Approx. 31 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2004-08 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A08250</IDNO>
+
+
+<IDNO TYPE="stc">STC 18587</IDNO>
+
+<IDNO TYPE="stc">ESTC S110171</IDNO>
+
+<IDNO TYPE="eebo citation">99845774</IDNO>
+
+<IDNO TYPE="proquest">99845774</IDNO>
+
+<IDNO TYPE="vid">10695</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A08250)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 10695)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1475-1640 ; 1282:22)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">Great Brittaines generall ioyes. Londons glorious triumphes Dedicated to the immortall memorie of the ioyfull mariage of the two famous and illustrious princes, Fredericke and Elizabeth. Celebrated the 14. of Februarie, being S. Valentines day. With the instalment of the sayd potent Prince Fredericke at Windsore, the 7. of Februarie aforesaid.</TITLE><AUTHOR>Nixon, Anthony.</AUTHOR></TITLESTMT><EXTENT>[24] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>Imprinted at London :</PUBPLACE>
+<PUBLISHER>[By W. White] for Henry Robertes. and are to be sold by T[homas] P[avier],</PUBLISHER>
+<DATE>1613.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Dedication signed: A.N., i.e. Anthony Nixon.</NOTE><NOTE>In verse.</NOTE><NOTE>Printer's and bookseller's names from STC.</NOTE><NOTE>Signatures: A-C⁴.</NOTE><NOTE>Reproduction of a photostat of the original in the Henry E. Huntington Library and Art Gallery.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Elizabeth, --  Queen, consort of Frederick I, King of Bohemia, 1596-1662 --  Poetry --  Early works to 1800.</TERM><TERM>Frederick --  I, --  King of Bohemia, 1596-1632 --  Poetry --  Early works to 1800.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2004-02</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2004-03</DATE><RESPSTMT><RESP>SPi Global</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2004-04</DATE><RESPSTMT><RESP>Judith Siefring</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2004-04</DATE><RESPSTMT><RESP>Judith Siefring</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2004-07</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A08250">
+<STC T="S">18587</STC>
+<BIBNO T="umi">99845774</BIBNO>
+<VID>10695</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<P>GREAT BRITTAINES Generall Ioyes. LONDONS Glorious Triumphes. Dedicated to the Immortall memorie of the ioyfull Mariage of the two famous and illustrious Princes, <HI>FREDERICKE</HI> and <HI>ELIZABETH.</HI> Celebrated the 14. of Februarie, being S. Valentines day. With the Instalment of the sayd potent Prince <HI>Fredericke</HI> at <HI>Windsore,</HI> the 7. of Februarie aforesaid.</P>
+<P>Imprinted at London for <HI>Henry Robertes,</HI> and are to be sold by <HI>T.P. 1613.</HI></P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>TO THE MOST LEAR∣NED AND COMPLEAT Gentleman <HI>William Redman</HI> of great <HI>Shelsord</HI> in the Countie of <HI>Cam∣bridge</HI> Esquire.</HEAD>
+<LG>
+<L>I Not respect the pride of common prayse,</L>
+<L>Nor the disdaine of Fooles, abusing kind;</L>
+<L>Rude Ignorance her thoughts could neuer raise</L>
+<L>To iudge of Wisedome, or to know the Minde:</L>
+<L>My heart in this, shall euer be precise,</L>
+<L>To wish the loue of few, so they be wise:</L>
+</LG>
+<LG>
+<L>Thus to the wight, whose thoughts are still deuine,</L>
+<L>In whom a worthy honour'd heart doth raigne:</L>
+<L>Where Wisedome in her best attire doth shine,</L>
+<L>And all the vertues, voyde of all disdaine:</L>
+<L>To such am I transferd, my Muse doth vow</L>
+<L>To honour such a wight; and such are you.</L>
+</LG>
+<CLOSER><SIGNED>By the true honorer of your learning and vertue, <HI>A.N.</HI></SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="3"/>
+<PB REF="3"/>
+<HEAD>Great Brittaines generall Ioyes. Londons glorious Triumphes</HEAD>
+<LG>
+<L><SEG REND="decorInit">Y</SEG>OV sacred Spirits, that haunt <HI>Pernassus spring,</HI></L>
+<L>And pierce the skies, raysing from lowest dust,</L>
+<L>(With scaring thoughts, mounted on <HI>Pegas</HI> wing)</L>
+<L>Euen whom you list, and whom you list downe thrust:</L>
+<L>You whom the <HI>Muses</HI> all doe ioyntly greet,</L>
+<L>My weakling Muse doth many wishes make:</L>
+<L>(You that drinke <HI>Nectar</HI> and <HI>Ambrosia</HI> sweet,)</L>
+<L>That some of you, her taske would vndertake,</L>
+<L>And shew the profits, prayse, and dignitie,</L>
+<L>Of this Diuine-bred Nuptiall vnitie:</L>
+<L>For if true Glory, or stabilitie,</L>
+<L><PB REF="4"/>In bodyes Politique, or Naturall,</L>
+<L>Hath ere been gaynd, it came from vnitie;</L>
+<L>The foundresse and true gouernesse of all:</L>
+<L>For as in bodyes Naturall we see,</L>
+<L>VVhere differing Elements are euer found,</L>
+<L>They yet in equall mixture doe agree,</L>
+<L>Making each seuerall Complexion sound,</L>
+<L>VVhen with a mutuall reference to either,</L>
+<L>The hot doth cleare the cold, the moyst the dry:</L>
+<L>But when there is a iarring strife together</L>
+<L>Which shall be great, which beare Supremacie;</L>
+<L>The litle world of Man is quite vndone;</L>
+<L>Nor can the Minde (being King thereof) indure,</L>
+<L>Where such insulting humours ouer-runne,</L>
+<L>To liue within a Kingdome so vnsute.</L>
+</LG>
+<LG>
+<L>Euen thus in Bodies politicke it stands,</L>
+<L>Where contrary conditions yet agree,</L>
+<L>Where Soueraigne power with Equity commaunds,</L>
+<L>And powers subordinate obedient bee:</L>
+<L>But if that spirits turbulent be found,</L>
+<L>To stirre vp factious strifes within the State;</L>
+<L>As many such doe in each Land abound,</L>
+<L>Mayntayning discord with inueterate hate.</L>
+<L>Let them know this, they worke in what them lyes,</L>
+<L>To marre the Musicke of this sweete Consent:</L>
+<L>And as malignant Opposites, deuise</L>
+<L>Against the Soueraigne state and regiment.</L>
+<L>They erre in blindnes much, that will not see</L>
+<L>What excellent occurrents may befall,</L>
+<L>By this Coniunctions heauenly harmony</L>
+<L>Confirm'd on earth by powers Celestiall.</L>
+<L><PB REF="4"/>For set aside the profits that may rise</L>
+<L>To'th <HI>Palsgraues</HI> Land and this, by their comerce,</L>
+<L>(As that whereon a Common-wealth relyes)</L>
+<L>It shall be heere more fitting to reherse,</L>
+<L>The fame, and glorious state, and dignity,</L>
+<L>That in this Sea-wald Ile will euer spring,</L>
+<L>By this Deuine Coniunction, which will bee</L>
+<L>Common to both the Subiect, as the King.</L>
+<L>For if before the <HI>Palsgraues</HI> force did stand</L>
+<L>Strong, both when <HI>Spaine,</HI> and <HI>Rome</HI> was bent thereto;</L>
+<L>If then it chekt them, hauing but one hand?</L>
+<L>Now ioynd with ours, what power hath it to doe?</L>
+<L>With Flowers therefore each man strewes the way,</L>
+<L>For though this Land were often blest of yore,</L>
+<L>Yet <HI>Hymen</HI> makes this his chiefe Holy-day,</L>
+<L>For that it neuer was true prou'd before:</L>
+<L>Now th'ayre is sweeter farre then the sweet Balme,</L>
+<L>The Earth begins with Verdure to be dight;</L>
+<L>The <HI>Satyrs</HI> now doe daunce about the Palme;</L>
+<L>All thinges giue perfect signe of their delight:</L>
+<L>Now do the Birdes record new harmony,</L>
+<L>Now Trees, and euery thing that Nature breeds,</L>
+<L>Doe whistle their consenting melody,</L>
+<L>And clad it selfe with fresh and pleasant weeds:</L>
+<L>And why? <HI>Eliza,</HI> flower of second <HI>Troy,</HI></L>
+<L>Enioyes her <HI>Frederick;</HI> both haue mutuall ioy.</L>
+<L>Oh <HI>Hymen,</HI> father of all Nuptiall tites,</L>
+<L>Begun on earth, and registred in Heauen,</L>
+<L>Graunt these conioyned Princes, faire delights,</L>
+<L>And free them from false hearts, and thoughts vneuen▪</L>
+<L>The Princely enioyers of this Vnion,</L>
+<L>That in the sacred band of loue are twynd,</L>
+<L><PB REF="5"/>Are both from Kinges, and lignes Imperiall sprung,</L>
+<L>And by their match, great Kingdomes are combinde:</L>
+<L>By it great <HI>Brittaine,</HI> and the <HI>Palsgraues</HI> Land,</L>
+<L>Shall checke the <HI>Popish</HI> pride with fierce Alarme,</L>
+<L>And make it in much trepidation stand,</L>
+<L>When both their Colours shall ioyne arme in arme:</L>
+<L>And (thus conioyned) shall tryumphant flye,</L>
+<L>Both in one line of Loue and Dignitie.</L>
+</LG>
+<LG>
+<L>ELIZABETH, to whom God giues,</L>
+<L>Fulnes of Peace, in which she liues:</L>
+<L>Fulnes of God, her name so importes,</L>
+<L>How well her Name, and Nature sortes?</L>
+<L>ELIZAES eyes are blessed Starres,</L>
+<L>Inducing Peace, traducing Warres;</L>
+<L>ELIZAES hand is Christall bright,</L>
+<L>Her wordes are Balme, her lookes are light:</L>
+<L>ELIZAES Brest is that same hill,</L>
+<L>Where Vertue dwels, and sacred skill:</L>
+<L>Oh blessed be each day and hower,</L>
+<L>Where this ELIZA builds her Bower.</L>
+</LG>
+<LG>
+<L>Thou great Pince <HI>Palatine,</HI> and Prime elector,</L>
+<L>That didst for our Prince lately with vs greeue:</L>
+<L>And whilom woodst with woe, now heauens protector</L>
+<L>To hard beginninges, ioyfull endes doth giue.</L>
+<L>Thy welcome first, was a sad Funerall,</L>
+<L>Which now's transformd to a ioyfull Nuptiall.</L>
+<L>Thou found'st vs glad at thy arriuall heere,</L>
+<L>And hadst had entertainement to thy state,</L>
+<L>Had not Heauens hand turn'd all to mournefull cheere,</L>
+<L>And to our ioyes, giuen so vntimely date.</L>
+<L><PB REF="5"/>Yet are they now reuiu'd for griefes are gon,</L>
+<L>Our hopes are happy in thy Coniunction.</L>
+<L>Oh Nuptiall vnity, produ'ct from Heauen,</L>
+<L>To propagate thy blessings in this Lande;</L>
+<L>Why should disioyned hearts, with thoughts vneuen,</L>
+<L>Refuse the grace of thine algiuing hand?</L>
+<L>That adst to profit, pleasure, friends, and fame,</L>
+<L>Maintainst Religion in her sacred seate,</L>
+<L>Giu'st <HI>Brittains</HI> Ile a neuer-dying name,</L>
+<L>And such a Stile as euer will be great:</L>
+<L>Great in the glory of her present state,</L>
+<L>Great in the setled hopes of times to come,</L>
+<L>Great in preuenting of all forraine lu<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>e,</L>
+<L>Great in preseruing of her peace at home▪</L>
+<L>Great in this match, great in her wealth and fame:</L>
+<L>In all thinges great, as is Great <HI>Brittains</HI> name.</L>
+<L>By Vnity, perfectious things are gaynds</L>
+<L>Defects are bred by Dissipation;</L>
+<L>By Concord was the <HI>Romaine</HI> state maintaind,</L>
+<L>By Discord brought to desolation.</L>
+<L>Witnesse the outstretcht rule and Royalties</L>
+<L>That time through their disiunction hath decayd;</L>
+<L>Now chang'd to poore weake states, and seigniories,</L>
+<L>Which once vnited, all the world obayd:</L>
+<L>So <HI>Fraunce,</HI> and <HI>Spaine,</HI> and other parts can tell,</L>
+<L>The braine sicke battaile of disseuered bands,</L>
+<L>VVhose sad memorials yet can witnesse well,</L>
+<L>The horrid Actes of dis-vnited hands.</L>
+</LG>
+<LG>
+<L>In former times, on vs strange Nations</L>
+<L>(As <HI>Danes,</HI> and <HI>Saxons,</HI> hearing our dissention)</L>
+<L><PB REF="6"/>Oft plagu'd this Land with strong inuasions,</L>
+<L>Still working on the wracke of our Contention:</L>
+<L>Whose loftie pride, and high insulting power,</L>
+<L>Did many hundred yeares vsurping stand,</L>
+<L>When Seauen deuided Kingdomes did deuoure</L>
+<L>The fame, the state, and riches of the Land.</L>
+<L>But how shall euer Time forget to tell,</L>
+<L>The Tragicke actions of that bloody Warre,</L>
+<L>That in this Kingdome many yeeres befell</L>
+<L>Betwixt the Houses <HI>Torke</HI> and <HI>Lancaster</HI>?</L>
+<L>VVhere <HI>Englands</HI> honour 'gainst it selfe was arm'd▪</L>
+<L>Saint <HI>George</HI> against Saint <HI>George,</HI> did lift his hand:</L>
+<L>Nature by Nature, was vnkindly harm'd▪</L>
+<L>Blood did 'gainst Blood, in opposition stand.</L>
+</LG>
+<LG>
+<L>And if the sacred hand of Vnitie,</L>
+<L>Had left vntun'd the stringes of their debate,</L>
+<L>Mischiefe, with vnpreuented Miserie,</L>
+<L>Had wrought the vtter ruine of the State:</L>
+<L>But God, and good foresight, preuent such ill,</L>
+<L>That no eclipse of Glory may befall▪</L>
+<L>But that this Vnitie may flourish still,</L>
+<L>To be the power-full safegard of vs all:</L>
+<L>That so the Imperiall <HI>Ensignes</HI> of this Land,</L>
+<L>And the Prince <HI>Palatines</HI> admired fame,</L>
+<L>In high Maiesticke glory long may stand,</L>
+<L>To dignifie their glorious Countries name.</L>
+<L>And that the Nobles of each Land, may ioyne,</L>
+<L>Aswell in forraine, as Domesticke state,</L>
+<L>By peace and warre, to make their Glories shine,</L>
+<L>Extended farther then the power of fate:</L>
+<L>Wishing that they, whom Honour thus combines,</L>
+<L><PB REF="6"/>May mutually partake in peace and warres:</L>
+<L>And as an ofspring from the glorious lines,</L>
+<L>Of royall Princes, Kinges, and Emperours,</L>
+<L>Still in one Center of Coniuction rest;</L>
+<L>That both their Glories so may long time stand,</L>
+<L>And with their seuerall farre spreading Crests,</L>
+<L>Make knowne their Fames to many a forraine Land.</L>
+</LG>
+<LG>
+<L>So shall the Princely heads of this faire frame,</L>
+<L>VVith peacefull Scepters both their Countries sway:</L>
+<L>So shall they keepe Religion, Rule, and Name,</L>
+<L>That they haue still mayntayned to this day:</L>
+<L>That God, that is the God of Vnion,</L>
+<L>First founder of all vndeuided thinges,</L>
+<L>May guide the state of this Coniunction,</L>
+<L>And make it happy in a line of Kinges,</L>
+<L>Which from their Princely stocke may grace both clim<GAP DESC="illegible" EXTENT="3 letters" DISP="•••"/>▪</L>
+<L>And euermore continue Soueraigntie,</L>
+<L>In all high Honour, till the end of times,</L>
+<L>And the beginning of eternitie.</L>
+</LG>
+<TRAILER><HI>Deo Trino, et vni Glori<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/></HI></TRAILER>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="7"/>
+<HEAD>Hymens Holiday, or the Mariage day of the two famous Princes, being S. Valentines day.</HEAD>
+<LG>
+<L><SEG REND="decorInit">D</SEG>Escend you sacred Daughters of King <HI>Ioue,</HI></L>
+<L><HI>Apollo's</HI> louely Darlings, leaue your Mount,</L>
+<L>And those delightsome sweet <HI>Castalian</HI> Springs,</L>
+<L>That warble with their siluer winding waues,</L>
+<L>Making soft Musicke in their gentle glide.</L>
+<L><HI>Clio,</HI> thou s<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>gest of the sisters Nine,</L>
+<L>Conduct thy lustie company to Court,</L>
+<L>Great <HI>Brittains</HI> Court, on earth an earthly Heauen:</L>
+<L>There take suruey of faire <HI>Elizabeth,</HI></L>
+<L>And in her prayse, tune your heroicke Songs:</L>
+<L>Write, write you Chronicles of Time and Fame,</L>
+<L>That kepee remembrance golden Register;</L>
+<L>And recommende to Times eternitie</L>
+<L>Her honours height, and wonders of her Age:</L>
+<L>Wonders of her, that reasons reach transcend,</L>
+<L>Such wonders as haue set the world at gaze:</L>
+<L><PB REF="7"/><HI>Elizabeth,</HI> whose worth, all English hearts</L>
+<L>Admire at home, and so doe forraigne parts.</L>
+<L><HI>Clio,</HI> proclaime with golden Trumpe, and Pen,</L>
+<L>This happy VVedding-day, this Nuptiall-<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ay,</L>
+<L>Ore <HI>Europs</HI> bounds take wing, and make thy flight</L>
+<L>Through <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>elting Ayre, from w<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>e<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>'s the rising Sunne</L>
+<L>Gallops the Zodiack, in his hery VVayne,</L>
+<L>Euen to the brinke where <HI>Thetis</HI> in her Bower,</L>
+<L>Receaues the weary Bridegroome of the Sea,</L>
+<L>Beyond Graund <HI>CAYRE</HI> by <HI>N<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>lus</HI> sly my bankes,</L>
+<L>Ouer the wilde and sandy <HI>Affricke</HI> Playnes,</L>
+<L>Along the frozen Shoare of <HI><GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>anais,</HI></L>
+<L>VVhose Icye crust <HI>Apollo</HI> can not thaw:</L>
+<L>Euen there, and round about this earthly Ball,</L>
+<L>Proclayme the daies of <HI>Brittains</HI> happynesse,</L>
+<L>The dayes of Peace and Victory proclaime,</L>
+<L>And let this gla<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>some Nuptiall day be first,</L>
+<L>This Wedding day (beginning of much blisse)</L>
+<L>Set downe this day in Characters of Gold,</L>
+<L>And marke it with a Stone as white as milke:</L>
+<L>This cheerefull Wedding day weare Eglantine,</L>
+<L>And wreaths of Roses redde and white put on</L>
+<L>In honour of this day, you louely <HI>Nymphes</HI>:</L>
+<L>And <HI>Paaus</HI> sing, your sweet melodious songs,</L>
+<L>Along the chaulky Clifts of <HI>Albion</HI>;</L>
+<L>Lead all <HI>Great Brittaynes</HI> Shepheards in a daunce,</L>
+<L>Ore Hill and Dale, and Downes, and Daisey plottes:</L>
+<L>And be this day <HI>Great Brittaynes</HI> Holy-day,</L>
+<L>That thus vnites the royall hearts and hands</L>
+<L>Of these two Princes, in Loues holy bandes;</L>
+<L>Bee multiplide the number of their yeeres,</L>
+<L>Their yeeres, that may prolong our golden daies,</L>
+<L><PB REF="8"/>Wherein we still in safetie may abide,</L>
+<L>And they may raigne and rule in Honours height:</L>
+<L>So may they long, and euer may they so,</L>
+<L>Vntoucht of traytrous hand, and tretcherous foe.</L>
+</LG>
+<LG>
+<L>This Nuptiall day being celebrated thus,</L>
+<L>Is to Great <HI>Brittaine, Hymens</HI> Holiday:</L>
+<L>The day of ioy, the day of iollitie,</L>
+<L>That young and old, and all doe celebrate:</L>
+<L>Muses and Graces, Gods and Goddesses,</L>
+<L>Adorne, adore, and celebrate this day:</L>
+<L>The meanest with the mightiest may in this,</L>
+<L>Expresse his loue, for loyaltie alike,</L>
+<L>Blazons affections force in Lord and Lowne,</L>
+<L>In honour of this VVedding day behold,</L>
+<L>How young and old, and high and low reioyce.</L>
+<L><HI>England</HI> hath put a face of gladnesse on;</L>
+<L>And Court and Countrie caroll both their prayse,</L>
+<L>And in their honour, tune a thousand Layes.</L>
+<L>Behold, in honour of this happy day,</L>
+<L>What Poems and triumphals <HI>London</HI> singes:</L>
+<L>What holy Hymnes and sacrifice of thankes,</L>
+<L><HI>Englands Metropolis</HI> as Incense s<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ndes;</L>
+<L>And in the sound of Cymbals, Trumps, and Shalmes,</L>
+<L>In honour of <HI>Eliza</HI> and great <HI>Fredericks</HI> name,</L>
+<L>(To whom his life he owes, and offers vp)</L>
+<L>VVith songes of ioy for this long lookt-for day;</L>
+<L>This Nuptiall day, wherein we all enioy</L>
+<L>Such perfect comfort throughout <HI>Brutes</HI> new <HI>Troy.</HI></L>
+</LG>
+<LG>
+<L><PB REF="8"/>VVith vs in simpathy of sweete accord,</L>
+<L>All English Subiectes ioyne, and hearts and hands,</L>
+<L>Of prayses and of hearty prayers send</L>
+<L>Thankes-giuing for the blessings and the grace,</L>
+<L>The gracious blessinges on this day powr'd downe▪</L>
+<L>This blessed day, wherein these blessed Princes,</L>
+<L>(The peoples peace, their Countries happy fate)</L>
+<L>Are both conioynd in Matrimoniall state.</L>
+</LG>
+<LG>
+<L>And in this generall plaudite and applause,</L>
+<L>And celebration of this ioyfull day,</L>
+<L>VVherein pale Enuie, iustly vanquished,</L>
+<L>Giues way vnto the vertues of these Princes,</L>
+<L>And wounded with remembrance of their names,</L>
+<L>Hath taken wing, and made amaine from hence,</L>
+<L>To murmure that he durst not here disgorge,</L>
+<L>And breath his discontentments ouer Sea,</L>
+<L>Among those gracelesse fugitiues, that thirst</L>
+<L>For nothing more, then dangerous change of times,</L>
+<L>And alteration of a setled State.</L>
+<L>That rabble of vnnaturall Englishmen,</L>
+<L>VVhose base reuolt (infamous through the world)</L>
+<L>Makes them foule Architectes of vilde practises</L>
+<L>That end in their dishonour and their death,</L>
+<L>Those bloody stratagems and trayterous traynes,</L>
+<L>That shall be cruelly layde vnto their liues,</L>
+<L>(Precious in sight of Heauen, and deare to vs)</L>
+<L>By these base Truth-falne run-awayes.</L>
+<L>VVee pray that <HI>Iacobs</HI> God may still preserue</L>
+<L>These Princes, euen twixt bridge and waters brinke,</L>
+<L>And saue their sacred persons in the fall,</L>
+<L><PB REF="9"/>From <HI>Pharaos</HI> Rod, and from the Sword of <HI>Saul:</HI></L>
+<L>For this great Triumph that true Subiectes make</L>
+<L>Is likt of all, but Enemies of the Truth,</L>
+<L>Enemies to them that serue the liuing Lord,</L>
+<L>And put in him their trust and confidence:</L>
+<L>And this they well haue showne in gorgeous Showes,</L>
+<L>And in all other fitt accuttrements,</L>
+<L>Prepar'd to doe their duty and deuoyre,</L>
+<L>VVherein they did so well demeane them selues:</L>
+<L>So well, so willingly to please these Princes,</L>
+<L>That (breathles) yet they would haue been content</L>
+<L>In this dayes honour, yeeres of dayes t'haue spent.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="9"/>
+<HEAD>❧ Prince <HI>Frederick</HI> created Knight of the Gater, and instald at Windsor the 7 day of February 1612.</HEAD>
+<LG>
+<L>ABout the time when vesper, in the west,</L>
+<L>Gan set the euening watch, and silent night</L>
+<L>Sent sleepe and slumber to possesse the world,</L>
+<L>Vnder the starry Canapy of Heauen,</L>
+<L>I laid me downe, laden with many cares,</L>
+<L>Fast by the streame where Tame and Isis meet,</L>
+<L>Euen at that time, all in a fragrant Meade:</L>
+<L>In sight of that faire Castle that or'elookes</L>
+<L>The forrest one way, and the fertill val,</L>
+<L>Watred with that renowned Riuer Thames</L>
+<L>Olde Windsor Castle did I take my rest.</L>
+<L>When Cynthia, companion of the night,</L>
+<L>Piercing mine eie-lids, as I lay along,</L>
+<L>Awakt me through: Therewith me thought I saw,</L>
+<L>A royall glimmering light, streaming aloft,</L>
+<L>A Titan mounted on the Lions backe,</L>
+<L>Had cloath'd himselfe in fiery pointed beames</L>
+<L>To chase the night and entertaine the Moone.</L>
+<L>Yet scarce had Phaebe gon hir iourney through,</L>
+<L>Sleeping, or waking, as alone I lay,</L>
+<L>Mine eies, and eares, and sences all were seru'd,</L>
+<L>With euery obiect perfect in his kinde,</L>
+<L>And lo, (a wonder to my sences all)</L>
+<L>I might discerne a troope of Horsemen ride,</L>
+<L>Arm'd <HI>Cape de Pe,</HI> with shield &amp; shiuering launce,</L>
+<L><PB REF="10"/>As in a plash, or calme transparent brooke,</L>
+<L>Wee see the glistering fishes skowre along,</L>
+<L>A number numberles, appointed well</L>
+<L>For tournament, as if the God of warre</L>
+<L>Had held a iusts in honor of his loue.</L>
+<L>Therewith I heard the clarions &amp; the shalmes,</L>
+<L>The Shakbuts, and a number instruments</L>
+<L>Of seuerall kindes: but lowdest of them all,</L>
+<L>A Trumpe more shrill, then Tritons is at sea,</L>
+<L>The same renowne, precurser of the traine,</L>
+<L>Did sound (for who ringes lowder thē renowne)</L>
+<L>He mounted was vppon a flying horse,</L>
+<L>And cloath'd in Phawcons feathers to the groūd</L>
+<L>By his Escutchion you might easly gesse,</L>
+<L>He was the Hearhauld of eternity.</L>
+</LG>
+<LG>
+<L>I lookt to see an end of that I saw,</L>
+<L>And still me thought the trayne did multiply,</L>
+<L>And yeilding cloudes gaue way &amp; men at armes</L>
+<L>Succeede as fast at one anothers heeles,</L>
+<L>As in the Vast Mediterranean sea,</L>
+<L>The rowling waues doe one beget another,</L>
+<L>Weary of looking vp, I laid me downe</L>
+<L>Willing to rest, as sleepy soules are wont,</L>
+<L>When of a sodaine such a noyse I heard</L>
+<L>Of shot of Ord'nance pealing in mine eares,</L>
+<L>As twenty thousand Tyre had plaid at sea:</L>
+<L>Or Aetna split, had belcht hir bowels forth,</L>
+<L>Or heauen &amp; earth thundering in armes amaine,</L>
+<L>Had bent their great Artillery for warre.</L>
+<L>And weary Atlas had let fall his loade,</L>
+<L>Enough to wake Endimion from his traunce.</L>
+<L><PB REF="10"/>Yet was the Welkin cleare, nor smoake, nor dust</L>
+<L>Annoyde mine eies, I gaz'd and as I lookt,</L>
+<L>Me thought this host of Aery armed men</L>
+<L>Girt Windsor Castle round: anon I saw</L>
+<L>Vnder a Canapy of Crimson bisse,</L>
+<L>Spangled with gold, and set with siluer bells,</L>
+<L>That sweetly chym'd and lul'd me halfe a sleepe,</L>
+<L>A goodly King in robes most richly dight,</L>
+<L>The vpper like a Romaine Palliament,</L>
+<L>In deede a Chapperon, for such it was:</L>
+<L>And looking neerer, loe, vppon his legge</L>
+<L>An auncient badge of honor I espide,</L>
+<L>A Garter brightly glistering in mine eie,</L>
+<L>A worthy ornament. Then I cal'd to minde</L>
+<L>What Princely Edward of that name the third,</L>
+<L>King Edward for his great atchiuement fam'd</L>
+<L>What he began: The order of Saint George,</L>
+<L>That at this day is honoured through the world</L>
+<L>The order of the Garter now t'is cal'd.</L>
+<L>Famous through all the world for honour and antiquity</L>
+<L>Grac'd by a King, and fauoured of his peeres,</L>
+<L>Fam'd by his followers worthy kings &amp; queenes</L>
+<L>That to his day are soueraignes of the same.</L>
+</LG>
+<LG>
+<L>Some say the manner how this grew at first,</L>
+<L>Was thus. The King disposed on a time</L>
+<L>To reuell after hee had shaken Fraunce,</L>
+<L>And deckt his Lyons with their flower de-luce,</L>
+<L>Dispos'd to reuell: some say otherwise</L>
+<L>Found on the ground by fortune as he went,</L>
+<L>A ladyes Garter: and the Queene I trow,</L>
+<L>Lost in a daunce and tooke it vp himselfe.</L>
+<L><PB REF="11"/>Which was, a silken ribban weau'd of blewe,</L>
+<L>His Lords and standers by, seeing the King</L>
+<L>Stoope for this Garter, smil'd: as who would say,</L>
+<L>Our office that had beene, or some what else.</L>
+<L>King <HI>Edward</HI> wistly looking on them all,</L>
+<L>With princely hands, hauing that Garter rais'd,</L>
+<L>From harmles heart where honour was engrau'd</L>
+<L>Bespake in Frence (he could the language well)</L>
+<L><HI>Honi soit qui mal</HI> Y <HI>pense)</HI> quoth hee)</L>
+<L>Wherewith vppon aduisement, though the cause</L>
+<L>Were small, his pleasure and his purpose was,</L>
+<L>T'aduance that Garter, and to institute</L>
+<L>A noble order sacred to Saint George,</L>
+<L>And Knights to make them, whō he would haue tearm'd,</L>
+<L>Knights of the Garter: this beginning had</L>
+<L>This honorable order of our time,</L>
+<L>But truer farre that from the holy land,</L>
+<L>This holy order cāe, whēas a garter high aduan'st</L>
+<L>&amp; seru'd for an ensign, &amp; was crown'd with victory</L>
+<L>Hereon I thought when I beheld the King,</L>
+<L>I was instructed in the circumstance,</L>
+<L>And found it was King <HI>Edward</HI> that did march</L>
+<L>In robes, like those he ware when with his Lords</L>
+<L>He held Saint <HI>Georges</HI> royall feast on earth,</L>
+<L>His eldest sonne surnamed the blacke Prince,</L>
+<L>Though blacke of hue, y<SUP>•</SUP> surname yet in Fraunce</L>
+<L>He wan: for terrour to the Frenchmens hearts,</L>
+<L>His countenaunce was, his sword an iron scourge,</L>
+<L>Hee on a cole-blacke Corser mounted was,</L>
+<L>And in his hand a battle-axe he held,</L>
+<L>His Beuer vp, his corslet was of steele,</L>
+<L>Varnisht as blacke as iet: his bases blacke,</L>
+<L><PB REF="11"/>And blacke frō head to foote, yea horse &amp; hoofe</L>
+<L>As blacke as night: but in a twincke me thought</L>
+<L>He chang'd at once his habit and his steede,</L>
+<L>And had a Garter as his father had,</L>
+<L>But rich and costly, with imbrodery</L>
+<L>Of Pearle, and Gould I could on it discerne.</L>
+<L>The Poesy whereof I spake of yore,</L>
+<L>And well I wot since this King <HI>Edward</HI> daies,</L>
+<L>Our Kinges &amp; Queenes about their roiall armes,</L>
+<L>Haue in a garter borne this Poesy,</L>
+<L>Still as I lay, I gaz'd, and gest at once,</L>
+<L>What was this traine, and whether it did bend.</L>
+</LG>
+<LG>
+<L>At last I found King <HI>Edward</HI> was the man,</L>
+<L>Accompanide with Kings &amp; Conquerours:</L>
+<L>That from the spatious Aery house of fame</L>
+<L>Set forward royall to sollemnize</L>
+<L>Th'installement of some new created Knights,</L>
+<L>For loe, I sawe in rich accuttrements,</L>
+<L>Like to King <HI>Edwards,</HI> and the prince of Wales,</L>
+<L>Full foure and twenty Knights, nor more nor les</L>
+<L>In roabes with pretiōus colours of S. George,</L>
+<L>And they had Garters all, buckled with gould.</L>
+<L>Me thought this semblance could not but import</L>
+<L>They Should be noble men of golden mindes,</L>
+<L>And great account, fauour'd of Prince and Peeres</L>
+<L>Whose names should in that register be writ,</L>
+<L>Consecrate to Saint Georges chosen Knights.</L>
+</LG>
+<LG>
+<L>Herewith the golden booke gan open faire,</L>
+<L>And eas'ly I might read their names that next</L>
+<L>Went to the King, of whome &amp; of whose worths</L>
+<L><PB REF="12"/>Needs not to make particular relation.</L>
+<L>This booke cōtaines their names &amp; seuerall coates,</L>
+<L>And keepes them written in his golden leaues,</L>
+<L>As they haue had installement and creation</L>
+<L>By gratious fauour, in each Kings succession,</L>
+<L>Within the Carracters of this same booke</L>
+<L>I saw a name reioyced me to see,</L>
+<L>Henry late prince of Wales, I read it plaine</L>
+<L>And glad I was that in that Register</L>
+<L>That name I found: for now (me thought) I said</L>
+<L>Heere vertue doth out liue th'arrest of death.</L>
+<L>For dead is Henry, vertuous and Renown'd</L>
+<L>For honor, courage and viuacity,</L>
+<L>And yet his names aliue in fame's recordes,</L>
+<L>That held this Garter deere, and ware it well.</L>
+</LG>
+<LG>
+<L>The traine of all thiese hardy Knights enstal'd</L>
+<L>Cast in a ring about olde Windsor Castle,</L>
+<L>Vnder the glorious spreading winges of fame,</L>
+<L>I saw Great Brittaines King, richly attyrde,</L>
+<L>Leading with him a sort of goodly Knights,</L>
+<L>With Garters and with collours of Saint George</L>
+<L><HI>Iacobus Rex</HI> on a compartiment</L>
+<L>Of Golde, in Bisse was writ and hung a skue</L>
+<L>Vppon his head, vnder an imperiall crowne:</L>
+<L>Hee was the Soueraigne of the Knights he led,</L>
+<L>His face me thought I knew: as if the same,</L>
+<L>The same great King, that wee doe here enioy,</L>
+<L>Had climb'd the clowdes, &amp; been in person there</L>
+<L>To whom the earth, the Sea, and Elements</L>
+<L>Auspicious are. A many that I knew,</L>
+<L>Knig<GAP DESC="illegible" EXTENT="3 letters" DISP="•••"/>d in my remembrance I beheld,</L>
+<L><PB REF="12"/>And all their names were in that booke inrol'd,</L>
+<L>And yet I might perceaue some so set downe</L>
+<L>That (howsoeuer it hapt I cannot tell)</L>
+<L>The carle obliuion, stolne from Laethes lake</L>
+<L>Or enuie stept from out the deepe Auerne;</L>
+<L>Had rac'd, or blemisht, or obscur'd at least:</L>
+<L>Yet all the Kings since that King Edwards daies,</L>
+<L>Were with their Knights &amp; cōpanies in y<SUP>t</SUP> traine.</L>
+</LG>
+<LG>
+<L>At last me thought, King Edward thus bespake,</L>
+<L>Hayle vvindsor, vvhere I somtime tooke delight,</L>
+<L>To havvke &amp; hunt, &amp; backe the provvdest horse</L>
+<L>And vvhere in Princely pleasure I repos'd,</L>
+<L>(After my vvarres) in my returne from Fraunce</L>
+<L>Yea tvventy times haile Windsor (q. the King)</L>
+<L>Where I haue stal'd so m<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ny hardy Knights,</L>
+<L>And Turnaments and royall Iusts perform'd,</L>
+<L>Behould in honor of mine auncient throne</L>
+<L>In honor of great Brittaine, and Saint George,</L>
+<L>To vvhom this order of the Garter first</L>
+<L>I sacred held: in honor of my Knights</L>
+<L>Before this day created, and instal'd,</L>
+<L>But specially in honor of this Knight,</L>
+<L>That at this day this honor hath receau'd</L>
+<L>Vnder King Iames, great Brittaines Soueraigne</L>
+<L>With princely traines, I from the house of fame</L>
+<L>Doe resalute thee heere, and gratulate</L>
+<L>To this nevv Knight, created by a King,</L>
+<L>Peereles for vvisdome and for maiesty,</L>
+<L>The honor of the Garter: long may hee</L>
+<L>Weare it as note of true Nobility,</L>
+<L>And vertues ornament, Young Frederick</L>
+<L><PB REF="13"/>Thou high &amp; mightie Prince, &amp; Prime Elector,</L>
+<L>Mounted on fortunes, wheele by vertues ayme,</L>
+<L>Become thy badge as it becometh thee,</L>
+<L>That Europ's eies thy worthynes may see,</L>
+<L>And what this day pure honor hath put on</L>
+<L>So full of princely hope, in honor weare,</L>
+<L>Answeare the worthiest of thine Auncestry,</L>
+<L>In deedes (to fame and vertue consecrate)</L>
+<L>Brought vp in liberall sciences and armes,</L>
+<L>Patron of Chiualry and of the Muses,</L>
+<L>Brandish thy sword in right, and spend thy daies</L>
+<L>In common wealth affaires, it shall become</L>
+<L>Thy forwardnes to follow vertues cause,</L>
+<L>And great designes of Princely consequence,</L>
+<L>Prince Palatine, Shape thou thy noble course,</L>
+<L>As vertue (loadstarre of renowne) directs.</L>
+<L>That as thy royall Auncestors haue donne,</L>
+<L>Thine earthly race in honor thou maist ronne,</L>
+<L>And as in leaues and characters of gould,</L>
+<L>Thy Princely name is writ in this Record,</L>
+<L>So liue (as with a many moe) thou maiest</L>
+<L>Suruiue and triumph in eternitie,</L>
+<L>Out of obliuious reach, or Enuies shot,</L>
+<L>And that thy name immortally may shine,</L>
+<L>In thiese Records, not earthly but Deuine.</L>
+<L>Then the shrill Trumpet of renowne did sound,</L>
+<L>And by and by the traine retir'd (as swift,</L>
+<L>As Starres doe vse to shoote) from whence they came</L>
+<L>The gawdy Morne awakt, and euery thing</L>
+<L>Arose from rest, &amp; little birdes gan sing,</L>
+<L>Where with I rowz'd and haue set downe my dreame</L>
+<L>The matter (for the time) being a fit theame.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="13"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

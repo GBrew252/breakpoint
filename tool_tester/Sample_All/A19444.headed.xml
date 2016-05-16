@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The anatomie of baseness. Or the foure quarters of a knaue flatterie, ingratitude, enuie, detraction.</TITLE><AUTHOR>Andrewes, John, fl. 1615.</AUTHOR></TITLESTMT><EXTENT>Approx. 44 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2008-09 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A19444</IDNO>
+
+
+<IDNO TYPE="stc">STC 587</IDNO>
+
+<IDNO TYPE="stc">ESTC S100156</IDNO>
+
+<IDNO TYPE="eebo citation">99836008</IDNO>
+
+<IDNO TYPE="proquest">99836008</IDNO>
+
+<IDNO TYPE="vid">247</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A19444)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 247)</NOTE><NOTE>Images scanned from microfilm: (Early English Books, 1475-1640 ; 819:03)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The anatomie of baseness. Or the foure quarters of a knaue flatterie, ingratitude, enuie, detraction.</TITLE><AUTHOR>Andrewes, John, fl. 1615.</AUTHOR></TITLESTMT><EXTENT>[36] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>Imprinted at London :</PUBPLACE>
+<PUBLISHER>For Richard Redmer, and are to be sold at the west dore of Paules at the signe of the Starre,</PUBLISHER>
+<DATE>1615.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Dedication signed: I.A., i.e. John Andrewes.</NOTE><NOTE>In verse.</NOTE><NOTE>The first leaf contains a large signature-mark A between two fragments of woodcuts.</NOTE><NOTE>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2006-02</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2006-05</DATE><RESPSTMT><RESP>SPi Global</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2007-05</DATE><RESPSTMT><RESP>Ali Jakobson</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2007-05</DATE><RESPSTMT><RESP>Ali Jakobson</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2008-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A19444">
+<STC T="S">587</STC>
+<BIBNO T="umi">99836008</BIBNO>
+<VID>247</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<PB REF="2"/>
+<PB REF="2"/>
+<P>THE ANATOMIE Of BASENESSE. Or The foure quarters of a Knaue;
+<LIST>
+<ITEM>Flatterie,</ITEM>
+<ITEM>Ingratitude,</ITEM>
+<ITEM>Enuie,</ITEM>
+<ITEM>Detraction.</ITEM>
+</LIST></P>
+<P>He that hath these foure parts, neede no more haue To be recorded for a complete <HI>Knaue.</HI></P>
+<P>Imprinted at <HI>London</HI> for <HI>Richard Redmer,</HI> and are to be sold at the West dare of <HI>Paules</HI> at the signe of the Starre. 1615.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="3"/>
+<PB REF="3"/>
+<HEAD>TO THE TRVELY enobled both by Vertue and birth, Sir <HI>ROBERT SYDNEY</HI> Knight of the BATH: I. A. <HI>wisheth the reward of his</HI> Vertue, honour in this world, Glorie in the next.</HEAD>
+<OPENER><SALUTE>Honourable Sir:</SALUTE></OPENER>
+<P><SEG REND="decorInit">T</SEG>O immitate the common methode of Epistolizers in this kinde, were ra∣ther to write of you, then to you, which course though I affect not, J cannot altogether neglect, though I shall thereby either wrong you, or my selfe; for in publishing (though sparing∣ly)
+<PB REF="4"/>
+my knowledge of your worth to the world, such, to whom you are vnknowne will so much iniure mee, as to taxe me with (what I condemne in others) flatterie; whereas some (to whom you are no stranger) will censure mee as much on the cōtrary to haue dealt with you rather, according to the pouertie of my abilitie, then to the fulnesse of your merite.</P>
+<P>Jt will peraduenture seeme strange vnto you (if this poore worke chance to come to your view) what assurance of your good acceptance begot such pre∣sumption in me as to dedicate the same vnto you. J must first answere, I haue not done it mercenarily; for then I would haue presented it to your hand: nor vaine-gloriously; for then I would either haue craued your allowance, or subscribed my name; but freely and ho∣nestly
+<PB REF="4"/>
+out of that respect which I owe to that innate Goodnesse which I know to be in you. Though I forbeare (out of some respects) to haue my name publi∣shed; yet I can acknowledge the Booke to be mine without blushing. If it bee (by anie) ill digested, the fault must be in the taker not in the Author: it was written with a right hand, and I wish it may not bee sinisterly intertained by any; but if som wil needs be so forward, the care is taken. In you I am made so confident by that (I might iustly vse Honourable, Noble, Worthy, or some such high Epithete: but I will rather say) Honest (a poore phrase will some thinke) and vertuous disposition which accompanies you, that I must account it may happinesse that I liue to knowe a second, whose brest Goodnesse makes her habitation; yet pardon mee if I
+<PB REF="5"/>
+say, I enioy not this happinesse without some touch of griefe; I shall not neede to implore your protection, though your pardon. I acknowledge I haue presu∣med, and know you can and will remit the errors of Affection in him that is,</P>
+<CLOSER><SIGNED><HI>The wisher of your Honour, and honourer of your VERTVES</HI> J. A.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="5"/>
+<HEAD>THE ANATOMY <HI>of Basenesse.</HI> OF THE FLATTERER.</HEAD>
+<LG>
+<L><SEG REND="decorInit">T</SEG>Hey that compare the fawning <HI>Parisite</HI></L>
+<L>vnto the Spaniel, do the curre much wrong;</L>
+<L>for he will often heare his masters tongue,</L>
+<L>When in the field he follows his delight:</L>
+</LG>
+<LG>
+<L>Yet neuer quest; but th'ecchoing <HI>Sicophant</HI></L>
+<L>at euery word, by his weake fauourer spoken,</L>
+<L>cries good, 'tis true, and this is held a token</L>
+<L>Of much respect and loue; though from the haunt</L>
+</LG>
+<LG>
+<L>Of worth and merit, his base nature range</L>
+<L>as farre as falshood, from the strong built nest</L>
+<L>of <HI>Truth</HI> and <HI>Goodnesse,</HI> which in euery brest</L>
+<L>Should like two twinnes be nourisht; but tis strange</L>
+</LG>
+<LG>
+<L>To see how this poore worthlesse humour liues,</L>
+<L>euen in those bosomes where good bloud and parts,</L>
+<L>haue their abiding, poisoning generous Arts</L>
+<L>With that, to which no language spoken giues</L>
+</LG>
+<LG>
+<PB REF="6"/>
+<L>An Epithete too bad: and to those men</L>
+<L>(if I may tearme them so) whose only words</L>
+<L>such sweetnesse to the flattered eare affoords,</L>
+<L>To yeeld a fitting title by my pen:</L>
+</LG>
+<LG>
+<L>I am as much vnable, as vnapt</L>
+<L>to imitate their basenesse; which indeede</L>
+<L>had I not chanc't t'haue heard, into my Creede</L>
+<L>Could nere haue come, but it hath often happt</L>
+</LG>
+<LG>
+<L>To sownde within the compasse of my hearing,</L>
+<L>whereby mine eares as to the pillory,</L>
+<L>seem'd to be nailde in such grosse flattery;</L>
+<L>Yet in their checkes no signe of shame appearing.</L>
+</LG>
+<LG>
+<L>It may seeme strange (yet I dare say't is true)</L>
+<L>that I haue blusht to see their impudence,</L>
+<L>while they (vn-man-like) seem'd to haue no sence</L>
+<L>Of their owne basenes: of this thriuing crue.</L>
+</LG>
+<LG>
+<L>I haue observ'd both Sexes to be free;</L>
+<L>too free in some respect, though in some kinde</L>
+<L>more bound then slaues, for our best part (the minde)</L>
+<L>Was chiefly giuen diuinest things to see:</L>
+</LG>
+<LG>
+<L>And not to be by ought that shares with vs,</L>
+<L>in the short course of our mortalitie</L>
+<L>so fetter'd, least vnhappily it be,</L>
+<L>Depriv'd of its best good in being thus.</L>
+</LG>
+<LG>
+<PB REF="6"/>
+<L>Haue I not heard one tell, the Crowe shee's white,</L>
+<L>and <HI>Midas</HI>-like preferre the pipe of <HI>Pan</HI></L>
+<L>before <HI>Appollo</HI>'s harpe? wherein this man</L>
+<L>(Who thus from Art and Nature teares their right).</L>
+</LG>
+<LG>
+<L>Thus from the <HI>Phrygian</HI> differs, <HI>Midas</HI> weares</L>
+<L>(as the reward and badge of ignorance)</L>
+<L>th'eares of an Asse; but 't is the others chance</L>
+<L>To thriue by clawing th'ignorant Asses eares.</L>
+</LG>
+<LG>
+<L>Haue I not heard some tell the prodigall,</L>
+<L>'t is for his honour to be bountifull:</L>
+<L>and with applause commend the humorous Gull</L>
+<L>In all his actions? I haue seene them fall</L>
+</LG>
+<LG>
+<L>And kisse the feete of a great golden calfe;</L>
+<L>whose very best of his admired worth</L>
+<L>was by a <HI>Taylor</HI> to the world brought forth,</L>
+<L>To whom his Honour ought his better halfe.</L>
+</LG>
+<LG>
+<L>Let a man chafe (though no iust cause there be)</L>
+<L>and then obsequious Apes will fret as fast,</L>
+<L>as had they seene a verier slaue t'haue past</L>
+<L>By, then themselues: or be your humour free</L>
+</LG>
+<LG>
+<L>And <HI>Iouially</HI> dispos'd, they'le <HI>Ianus</HI>-like</L>
+<L>straite shew a cleerer face, where you may see</L>
+<L>the true proportion of hypocrisie</L>
+<L>Drawne to the life; (which loues as others like)</L>
+</LG>
+<LG>
+<PB REF="7"/>
+<L>Many yeeres since the famous <HI>Chaucer</HI> writ,</L>
+<L>that, these same men which beare a double visage,</L>
+<L>are as meere monsters in good Natures linage;</L>
+<L>And for good mens societie vnfit.</L>
+</LG>
+<LG>
+<L>Like your <HI>Camelions</HI> these will change their hew</L>
+<L>as you your colour, be it good or ill,</L>
+<L>change nere so oft, yet you shall finde them still,</L>
+<L>(From what they were) transforme as fast as you.</L>
+</LG>
+<LG>
+<L>Seeme to be most vnlike your selfe, or speake</L>
+<L>what you least thinke they 'le be, and speake like you;</L>
+<L>tell them they 're <HI>Knaues</HI> theyle smile and say so too;</L>
+<L>Faine your selfe ill, they'le sweare they finde you weake.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="7"/>
+<HEAD>TO THE FLATTERED.</HEAD>
+<L><SEG REND="decorInit">F</SEG>Ond Man, that suck'st the pleasing poyson in</L>
+<L>(which from the <HI>Syrens</HI> vnsuspected tongue</L>
+<L>Is kindly offer'd to thine eare) wherein</L>
+<L>are all the drugges and dregges of vildnesse wrung:</L>
+<L>Assure thy selfe; if in thy bosome liue</L>
+<L>ought that deserues the name of worth, 't is knowne</L>
+<L>More then thy selfe, nor shalt thou neede to giue</L>
+<L><HI>Fame</HI> a reward to haue thy mercy blowne:</L>
+<L>For 't is her care, the more she findes thee slow,</L>
+<L>or carelesse, whether thy desert shall be</L>
+<L>Knowne vnto any, but thy selfe, or no;</L>
+<L>to sownd the louder: (so to honour thee)</L>
+<L>Thorough her golden Trumpet, (good mens throats:)</L>
+<L>Or if thine eare shall loue, and itch to heare</L>
+<L>Thine owne praise sung in smooth and pleasing notes,</L>
+<L>(which makes true worth vnlike it selfe appeare)</L>
+<L>She hath an other Trumpet blowne by those,</L>
+<L>whose mercenary tongues shall sownd thy praise;</L>
+<L>But with a breath which blasteth as it blowes,</L>
+<L>and ruines that which it pretends to raise.</L>
+<L>For do but note, you shall perceiue their plots,</L>
+<L>are (being once assur'd of you as friends)</L>
+<L>To thrust their blankes amongst your high priz'd lots,</L>
+<L>so by your losse to compasse their owne ends.</L>
+<L><PB REF="8"/>But selfe-conceipt so much corrupts your sence,</L>
+<L>that to your iudgement, onely that same man</L>
+<L>Seemes wise, and honest, and giues no offence</L>
+<L>that by this Art, can make a Goose a Swanne.</L>
+<L>If by the breath of these, you striue to raise</L>
+<L>your <HI>Reputation,</HI> your Ambition's weake;</L>
+<L>You must resolue of such to buy your praise,</L>
+<L>not for the <HI>Trueth,</HI> but for reward they speake.</L>
+<L>If on the former (who for <HI>Vertues</HI> sake</L>
+<L>honour that good is in you) you relie,</L>
+<L>Their approbation shall haue power to make</L>
+<L>your glorie liue to all Posteritie.</L>
+<L>Doe not you thinke that man deserues much blame</L>
+<L>who findes his owne infirmitie, yet feedes</L>
+<L>Daily on that which nourisheth the same,</L>
+<L>And dangerously the braines corruption breeds?</L>
+<L>Such is your case (weake men and women) for</L>
+<L>you like the meate because the sauce is sweete;</L>
+<L>What bitter is (though wholsome) you abhorre,</L>
+<L>disabling that which iudgement holdeth meete.</L>
+<L>But Iudgement, is no iudgement, if it seeme</L>
+<L>to contradict your humour; but the longer</L>
+<L>Y' are constant to this poorenesse, (which you deeme</L>
+<L>worth in your selues) your weaknes proues the strōger.</L>
+<L>Though to the palat pills distastfull be</L>
+<L>they to the health more beneficiall proue,</L>
+<L>Then things more pleasing to the sence; we see</L>
+<L>cutting doth oft in curing much behoue:</L>
+<L><PB REF="8"/>But you like <HI>Herod</HI> thinke, that he most loues you</L>
+<L>who cries, you speake more like a God then man,</L>
+<L>Beheading him that honestly reproues you,</L>
+<L>not caring though it be baptizing <HI>Iohn</HI>:</L>
+<L>Let a man seeme but cheerefully to sing</L>
+<L><HI>Placebo</HI> to your words and actions, then</L>
+<L>You quite forget, neere honie lies a sting;</L>
+<L>and that the diuell (clarke-like) sayth <HI>Amen</HI>:</L>
+<L>Where flatterers (his Chaplaines) reade the Masse</L>
+<L>whose superstition (making you their Saint)</L>
+<L>You doe allow as currantly to passe,</L>
+<L>for <HI>Truth,</HI> as Gospell (which no tongue can taint.)</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="9"/>
+<HEAD>TO THE FLATTERER.</HEAD>
+<L><SEG REND="decorInit">T</SEG>Hou that canst grieue because another smiles,</L>
+<L>and giue, to vndeseruing spirits, stiles</L>
+<L>Which thou dost filch from gen'rous noble minds;</L>
+<L>because thy poore obsequious humour findes</L>
+<L>Cold intertainment there, tell me; dost thinke</L>
+<L>that all are blinde that are content to winke?</L>
+<L>Or that thy shamelesse flattery beguiles</L>
+<L>euery man that at thy glozing smiles?</L>
+<L>Assure thy selfe thy thoughts deceiue thee much;</L>
+<L>for many smile to see thy basenesse such:</L>
+<L>And such as thou think'st blind more truly see</L>
+<L>thy heart, then they that hugge thy flatterie;</L>
+<L>And (scorning by thy pitch to be defil'd,</L>
+<L>or by thy sweet tun'd lullabies beguil'd)</L>
+<L>Doe loath to view thy vilde deformitie,</L>
+<L>which pleasing is to such as fauour thee.</L>
+<L>That euery man be master of his owne</L>
+<L>all men allow; but it is lately growne</L>
+<L>To such a custome, (first by thee brought in)</L>
+<L>among th' <HI>Ambitious</HI> of this age of sinne,</L>
+<L>That to a man (if I professe to loue him)</L>
+<L>I must giue titles some degrees aboue him:</L>
+<L>Or else be tax'd with enuie or neglect,</L>
+<L>though my soule knowes, I giue more true respect</L>
+<L><PB REF="9"/>Then you that id'ly light a torch at noone,</L>
+<L>and tell the Sun hee's brighter then the Moone;</L>
+<L>Which argues only that your humour is,</L>
+<L>still to be doing though you do amisse</L>
+<L>In guilding golde. This I obserued haue</L>
+<L>in some, whose age did homage to the graue,</L>
+<L>Whose words in prai'rs more fitly had been spent,</L>
+<L>and with deuotion on embassage sent</L>
+<L>To make their peace with heauen, then to obay</L>
+<L>that which would guide them by the <HI>broader way.</HI></L>
+<L>If it be hatefull euen in younger yeeres</L>
+<L>to temporize and gloze, sure it appeares</L>
+<L>Monstrous in age, whose part it rather is</L>
+<L>to grieue for what in youth it did amisse;</L>
+<L>Then in the last act of a life mis-led,</L>
+<L>To heape more blowes vpon a wounded head.</L>
+<L>Could I instruct, or might I but aduise;</L>
+<L>I'de teach, or wish you to become more wise:</L>
+<L>But 'twill be thought preposterous in youth</L>
+<L>to tutor Age, though by the <HI>Word of Truth</HI></L>
+<L>Such proofes as it doth bring approoued be:</L>
+<L>Therefore I leaue you to your humour free;</L>
+<L>Wherin (no doubt) you'le one day finde this true,</L>
+<L><HI>You make your fav'rers fooles, they knaues of you.</HI></L>
+<L>Too mild a stile, for that's a tearme for men;</L>
+<L>if so, too good for any flatterer then:</L>
+<L>What shall I call thee diuell, monster, beast?</L>
+<L>if not all these, thou 'rt one of them at least</L>
+<L><PB REF="10"/>Transform'd to th' shape of man; nor seemes it strange</L>
+<L>if thy grand Master (who himselfe can change</L>
+<L>Into an Angels likenesse) make thee seeme,</L>
+<L>a Saint-like man in many mens esteeme;</L>
+<L>Instructing thee vpon what vaine to worke,</L>
+<L>and where thou maiest the most securely lurke</L>
+<L>With best assurance, bids thee plie that minde</L>
+<L>where thou the weakest easinesse shalt finde:</L>
+<L>Such thou maiest puffe as Butchers do their meate,</L>
+<L>and with thy breath perswade them they're as great</L>
+<L>As thou dost make them; and aboue the rest,</L>
+<L>be sure (my child) thou suff'rest not a <HI>Iest,</HI></L>
+<L>Bee 't nere so poore to passe without a <HI>Good,</HI></L>
+<L>though by none else the same were vnderstood</L>
+<L>How to deserue applause; and then thou hear'st</L>
+<L>amongst that Sect (where gracious thou appear'st)</L>
+<L>A tedious talker, sencelesly discourse</L>
+<L>(till he dull others, and himselfe grow hoarse)</L>
+<L>Let thy attention (till his tongue ly'th still)</L>
+<L>stare in his face, then let him finde thy skill.</L>
+<L>These be the rules, and many worse then these</L>
+<L>thou must obserue, if thou desir'st to please;</L>
+<L>Thy Tutor sayth, whose helpe will nere deceiue thee,</L>
+<L>and to whose fauour wretched man I leaue thee.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="10"/>
+<HEAD>OF THE INGRATEFVL.</HEAD>
+<LG>
+<L><SEG REND="decorInit">S</SEG>Ome haue compar'd (and not improperly)</L>
+<L>him that is tainted with this worst of ills</L>
+<L>vnto the Swine, who (freely, daily) fills</L>
+<L>His hungrie mawe euen to sacietie</L>
+</LG>
+<LG>
+<L>Vpon such Maste as from the fruitfull tree</L>
+<L>falls to the ground; yet his deiected eye</L>
+<L>is fixed only where his food doth lie,</L>
+<L>And neuer rais'd the <HI>Giuers</HI> face to see.</L>
+</LG>
+<LG>
+<L>Guilty of this vnpardonable crime,</L>
+<L>where diuers kinds of these inhumane men,</L>
+<L>discoursed by th' industrious famous pen</L>
+<L>Or heathen <HI>Tully</HI> liuing in his time.</L>
+</LG>
+<LG>
+<L>The first Dissemblers were of fauours reap'd</L>
+<L>proportioning the same (being more or lesse)</L>
+<L>To the small measure of their thankfulnesse,</L>
+<L>Though a full hand on them the same had h<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ap'd</L>
+</LG>
+<LG>
+<L>The next acknowledg'd freely that occasion,</L>
+<L>off'ring it selfe (ioyn'd with abilitie)</L>
+<L>to make requitall (for each curtesie)</L>
+<L>Seem'd deafe to opportunities perswasion.</L>
+</LG>
+<LG>
+<PB REF="11"/>
+<L>An other sort there was, whose shamelesse crauing</L>
+<L>would not admit deniall, but being made</L>
+<L>master of their desires could soone perswade</L>
+<L>Their tongues (too basely) to <HI>denie the hauing.</HI></L>
+</LG>
+<LG>
+<L>The fourth and last (and <HI>worst</HI> my Author writes)</L>
+<L>were such as, what they had receiu'd, <HI>forgot.</HI></L>
+<L>Vnthankfull he then that remembers not;</L>
+<L>He that denies, dissembles, not requites.</L>
+</LG>
+<LG>
+<L>Let me adde one kinde more, which I conceiue</L>
+<L>worse then all these, who like the <HI>frozen snake,</HI></L>
+<L>stings that same bosome, whence it warmth did take;</L>
+<L>And would, what gaue it life, of life bereaue.</L>
+</LG>
+<LG>
+<L>Such there hath been my obseruation knowes,</L>
+<L>who (from a poore, deiected <HI>miser</HI> state)</L>
+<L>being rais'd (by <HI>Great ones)</HI> proued so ingrate,</L>
+<L>To bring their Raysers necke neere th'axes blowes.</L>
+</LG>
+<LG>
+<L>Should I demaund why such vnnumbred were</L>
+<L>among the former, some man might reply;</L>
+<L>(as vnto him who ask't the reason why,</L>
+<L>Among so many lawes, so strict, seuere,</L>
+</LG>
+<LG>
+<L>Made by the <HI>Romans,</HI> none was knowne to touch</L>
+<L>the childe, whose hand should guide the fatall knife;</L>
+<L>to cut his throat who gaue his being life):</L>
+<L>Because that <HI>Tully</HI> thought there liv'd none such.</L>
+</LG>
+<LG>
+<PB REF="11"/>
+<L>But since the time perfidious <HI>Iudas</HI> dyed</L>
+<L>(who at his end (I feare) bequeath'd his <HI>curse,</HI></L>
+<L>to some that do in these daies <HI>beare the purse</HI>)</L>
+<L>Such there haue been, such haue been <HI>Deifide.</HI></L>
+</LG>
+<LG>
+<L>If your prosperity strike sayle, be sure</L>
+<L>These Kites, which stoop to you while you can feede them,</L>
+<L>come to an others fist; and if you need them</L>
+<L>They soare aloofe, checke at your empty lure.</L>
+</LG>
+<LG>
+<L>Much like their Embleme which (for the full payles)</L>
+<L>followe the maide that beares them; if she fall</L>
+<L>and spill the meate, to that they run, and all</L>
+<L>Respect of her that vs'd to feede them, failes.</L>
+</LG>
+<LG>
+<L>Or <HI>Cuckoe-like,</HI> they to your Summers sunne</L>
+<L>sing merrily (though sucke your egges withall)</L>
+<L>but when they finde your Summer faile, and fall</L>
+<L>Draw neere, they're gone, and their harsh musicke done.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="12"/>
+<HEAD>TO THE BOVNTIFVLL.</HEAD>
+<L><SEG REND="decorInit">I</SEG>F on the waters you shall cast your bread</L>
+<L>it is not lost, but if your pearles you throw</L>
+<L>Vnto these swine, be sure the same they'l tread</L>
+<L>vnder their feete; good seed in good ground sowen,</L>
+<L><NOTE PLACE="marg">Beneficìa malè locata malefacta sunt.</NOTE>Fauours ill plac'd, are numbred with ill deeds;</L>
+<L>for if that hand which liberally bestowes,</L>
+<L>(Though it (in giuing) other mens exceedes)</L>
+<L>not the true vse of Bountie rightly knowes,</L>
+<L>Twere better be more sparing, for to giue</L>
+<L>is proper to all creatures in their kinde:</L>
+<L>The meanest thing which we can say doth liue,</L>
+<L>in some respect we beneficiall finde.</L>
+<L>But vnto man is only giuen the powre</L>
+<L>to limit Bounty, know when, how, on whom,</L>
+<L>Best to bestowe; not like a heedlesse showre</L>
+<L>to let faire flowers die in their mothers wombe</L>
+<L>For lacke of moisture, whil'st vpon vild weedes</L>
+<L>it (in aboundance) poures refreshing droppes;</L>
+<L>This kinde of giuing naturally proceedes</L>
+<L>from partiall hands, which in the course soone stoppes.</L>
+<L>Nor should your bountie (like the sunne) runne round</L>
+<L>and shine on all alike, though (like the beames)</L>
+<L>The same should seldome in the eclipse be found;</L>
+<L>the truest Bountie liues betweene extreames.</L>
+<L><NOTE N="*" PLACE="marg">Non ita clau∣denda est res fa∣miliaris, vt eam benignitas aperi∣re non possit, nec ita reseranda vt pateat omnibus.</NOTE>Your hand should neuer be so lockt from all,</L>
+<L>as to deserue a couetous report:</L>
+<L><PB REF="12"/>Nor still in action like your Prodigall,</L>
+<L>who makes expence his most delightfull sport:</L>
+<L>Long since were none then Good-men held more fit</L>
+<L>to taste your Bountie (then 'twas rightly vs'd);</L>
+<L>But in those daies, such men must naked sit:</L>
+<L>thus is true liberality abus'd.</L>
+<L>He that can now most temporize, best thriues,</L>
+<L>and great men, more then good men, Bounty taste;</L>
+<L>Honie is brought vnto the fullest hiues,</L>
+<L>small riuers giue vnto the sea (in waste.)</L>
+<L>Many (againe) like Husband-men doe lay</L>
+<L>their seede in th'bosome of the fattest ground;</L>
+<L>Whose richnesse will with much aduantage paie,</L>
+<L>where for each graine there shall an eare be found:</L>
+<L>And some of you, to gaine a knaues good word;</L>
+<L>orby a Iester to be highly prais'd</L>
+<L>Will giue with both handes, place them at your boord;</L>
+<L>when good-men are not ore your threshold rais'd.</L>
+<L>Bounties pure current in this muddie time,</L>
+<L>is by the fogges of Prodigalitie</L>
+<L>So steinch't, with stinking ayres, so 're-spread with slime,</L>
+<L>that (as it were not) no such thing we see.</L>
+<L>Wee finde the streame as contrary to runne,</L>
+<L>vnto that course which it should rightly hold:</L>
+<L>As is the West to th'rising of the sunne,</L>
+<L>or Southerne heate vnto the Northerne cold.</L>
+<L><HI>Nay more,</HI> this Vertue suffers so much wrong,</L>
+<L>as to be made a subiect nay a slaue;</L>
+<L><PB REF="13"/>Euen vnto such whose base malitious tongue</L>
+<L>the Giuers reputation dare depraue:</L>
+<L>Yet haue they still gift after gift receiu'd,</L>
+<L>euen to the full of their desires. <HI>Shall I</HI></L>
+<L><NOTE PLACE="marg">Taelis benignitas vanitati est con∣iunctior, quam liberalitati. <HI>Cic.</HI></NOTE>Say this was bounty? I might seeme bereav'd</L>
+<L>(in saying so) of sence and honesty.</L>
+<L>If a curst dogge (fed at your table) bites you,</L>
+<L>you'le kick him (if not hang him) at the least:</L>
+<L>And in a man (which doggedly requites you)</L>
+<L>reward you that, you punish in a Beast?</L>
+<L>I know not what to tearme this kinde of giuing:</L>
+<L>nor will I make my braine a minte for phrase;</L>
+<L>But wish that men (whil'st their faire fame is liuing,</L>
+<L>would manifest it comes of Vertues race:</L>
+<L>Whose true-borne children should relieue her friends;</L>
+<L>but Vertue starues, they so degenerate</L>
+<L><NOTE PLACE="marg">Virtus laudatur &amp; alget.</NOTE>In sucking base ones, for their priuate ends</L>
+<L>whil'st she and hers (though prais'd) are desolate.</L>
+<L>Alas poore Vertue, (onely poore to such,</L>
+<L>as do not know thy worth, who liue and die</L>
+<L>Without all sence of goodnes, or a touch,</L>
+<L>of ought but <HI>Beast-like sensualitie</HI>):</L>
+<L>Or rather let me pittie them then thee.</L>
+<L>for though the strange deformed Brats of vice</L>
+<L>Be richly clad now, thine in pouertie;</L>
+<L>they valued high, but thine at meanest price;</L>
+<L>The time may come, when Bountie shall appeare</L>
+<L>pure, like it selfe, and like faire Vertues friend.</L>
+<L><PB REF="13"/>When Ostentation shall not dare come neere,</L>
+<L>nor Prodigalitie perswade her spend,</L>
+<L>But vpon such as merite more then craue;</L>
+<L>then shall no bauling foole, no wit-bare Iester,</L>
+<L>No fawning base insinuating slaue</L>
+<L>presume, the place where Bountie liues to pester.</L>
+<L>And you that now it thus abuse, shall then</L>
+<L>curse your much-giuing, and mis-giuing hand.</L>
+<L>When you shall see the deeds of other men,</L>
+<L>grauen in brasse, yours written in the sand.</L>
+<L>Such mettle are mens hearts, the thankfull part</L>
+<L>cannot forget the good it doth receiue,</L>
+<L>But (as in brasse) record it in his heart,</L>
+<L>of which no time can ere the same bereaue.</L>
+<L>Th'ingratefull Nature (sand-like) doth retaine</L>
+<L>th'impression of your hand, and more perceiues</L>
+<L>An aptnesse in it selfe to take againe,</L>
+<L>then to make shew it any thing receiues.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="14"/>
+<HEAD>TO THE INGRATEFVLL.</HEAD>
+<L><SEG REND="decorInit">I</SEG>S 't long of thy short memorie, that thou</L>
+<L>yeeld'st not due thanks, where thou the same do'st owe?</L>
+<L>Alas, good man; why do'st thou not forget</L>
+<L>to begge as well? or dost thou thinke it fit</L>
+<L>For men to craue thy thankes; because to thee</L>
+<L>vnask't their fauours came not? can there be</L>
+<L>Excuse allow'd for such a fault? O no;</L>
+<L>But contrarie, no Tyrants lawe can show</L>
+<L>A torture too seuere for such an Ill:</L>
+<L>Looke how an ore-charg'd peece breaking doth kill</L>
+<L>The gazers on, and yet the Gunner stand</L>
+<L>not hurt at all, though from his fatall hand</L>
+<L>Death tooke his flight; so doth thy want of Art</L>
+<L>rightly to vse a friend, make many smart</L>
+<L>And suffer too vniustly: For, thy fault</L>
+<L>makes honest hearts (with no such basenesse fraught)</L>
+<L>Suspected; which approues the Prouerbe true</L>
+<L>men scalt with hot, cold water do eschewe.</L>
+<L>The guiltlesse seruants of that <NOTE N="*" PLACE="marg">Naball.</NOTE> <HI>Carmelite</HI></L>
+<L><HI>inur bane foole,</HI> who did with ill requite</L>
+<L>Fauours receiv'd) had been to death pursude</L>
+<L>(but for his wife) for his Ingratitude.</L>
+<L>Arr thou reliev'd in want, and canst forget</L>
+<L>(vnworthy wretch) what gracious hand did set</L>
+<L>Thy misry free? doost thinke ther's nothing more</L>
+<L>to be perform'd, when of thy leaprous sore</L>
+<L>Of <HI>Pouerty</HI> thou'rt cur'd; no thankes, no praise,</L>
+<L>rendred to him which chang'd thy painfull daies</L>
+<L><PB REF="14"/>To times of ease? more grieuous is thy sore</L>
+<L>(through thy neglect) by much then 't was before.</L>
+<L>Thine outward sence then only felt the smart;</L>
+<L>but now it sticks so close to thy false heart,</L>
+<L>(And vlc'ring ly'th in thy corrupted bloud)</L>
+<L>that not from thence proceedes a thought that's good.</L>
+<L>If by sinister meanes thou hast obtain'd</L>
+<L>what thou inioy'st, thou canst not say 'tis gain'd.</L>
+<L>By wealth that's purchast with the losse of Fame,</L>
+<L>men do growe rich in nothing else but shame:</L>
+<L>In whom, desert, no thankfulnesse doth moue,</L>
+<L>they doe no lesse then cheate men of their loue.</L>
+<L>Thou with a hollow heart, false, stopp'd within,</L>
+<L>on thy best friends wilt play, so thou mai'st win:</L>
+<L>Gaine sauours well to thy misiudging sence,<NOTE PLACE="marg">Dulcis odor lucri.</NOTE></L>
+<L>whose facultie can easily dispence</L>
+<L>With any Stocke, with any ground, or dung</L>
+<L>(bee't ne're so base, or vild for any tongue</L>
+<L>But thine to touch) from whence it doth proceede,</L>
+<L>though in thy bosome with the same doth breed</L>
+<L>Hatefull <HI>Ingratitude</HI>; whose brasen brow</L>
+<L>(bold Impe of Impudence) will not allow</L>
+<L>A blush to touch it. I confesse my fault</L>
+<L>from misconstruction came, in that I thought</L>
+<L>Thou had'st been man, aswell in deed, as Name,</L>
+<L>which title di'd to thee, when thou to shame.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="15"/>
+<HEAD>OF THE ENVIOVS.</HEAD>
+<LG>
+<L><SEG REND="decorInit">D</SEG>Oe we not hold him mad, that in his hand</L>
+<L>dare gripean Adder, though he crush it dead?</L>
+<L>or seemes it strange, if he by whom is fedde</L>
+<L>A Lyons whelpe, or hath of Beares command,</L>
+</LG>
+<LG>
+<L>Shall haue his bloud by them vntimely shed?</L>
+<L>What shall we thinke him then that entertaines</L>
+<L>a Viper next his heart, which from his vaines</L>
+<L>Sucks his best bloud, and leaueth in the stead</L>
+</LG>
+<LG>
+<L>A fretting poyson? whose effect is this,</L>
+<L>It makes him grieue and rage at others good,</L>
+<L>to stabbe himselfe to spill an others bloud,</L>
+<L>And thinke himselfe curs'd in an others blisse.</L>
+</LG>
+<LG>
+<L>Let him be gorg'd, euen to the very throate;</L>
+<L>yet will he vexe to heare an other call</L>
+<L>for a poore crust of bread; it frets his gall</L>
+<L>To see a sayle belongs not to his boate.</L>
+</LG>
+<LG>
+<L>If with the price of one of his owne eyes</L>
+<L>he can buy both an other mans, hee'l doo't:</L>
+<L>'Tis to be fear'd too, for a Soule to boote</L>
+<L>Hee'l giue his owne to hell a sacrifice.</L>
+</LG>
+<LG>
+<L>This is the man which from his mothers wombe</L>
+<L>hath been peruerse and froward, whose vild life</L>
+<L>is nourisht only by the breath of strife;</L>
+<L>Which birth and breathing cannot want a roome</L>
+</LG>
+<LG>
+<PB REF="15"/>
+<L>At last in hell; for he that trauells heere</L>
+<L>(this Monster-like) with mischiefe, cannot finde</L>
+<L>a place more suting to his diu'lish mind,</L>
+<L>Then where his friends and father may be neere,</L>
+</LG>
+<LG>
+<L>To be deliuer'd of his hell-bred seede:</L>
+<L>for there some damn'd infernall Hagge or other</L>
+<L>may be the Midwife, fit for such a mother</L>
+<L>From whom (at best) some Fury must proceede.<NOTE PLACE="marg">Vix sunt ho<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> hoc nomine <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> quam{que} lup<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> plus seritatis bent, perfud<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> maenus frate<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> sanguine fr<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/></NOTE></L>
+</LG>
+<LG>
+<L>This is the man who sits, and laughs to spie</L>
+<L>where men do (Wolfe-like) by the throate, each other</L>
+<L>teare: how th'inhumane brother kills the brother,</L>
+<L>And by the hand of children, Parents die.</L>
+</LG>
+<LG>
+<L>Where he perceiues an others downe-fall nigh,</L>
+<L>He thirsts to see their ruine, more then they</L>
+<L>whose high-flowne Falcons (watchfull for their prey)</L>
+<L>Threatning to bring Destruction from the skie,</L>
+</LG>
+<LG>
+<L>Long to behold the fearefull game strooke dead.</L>
+<L>'Tis <HI>Enuies</HI> life, soule, <HI>summum bonum,</HI> all</L>
+<L>which we tearm deere, to see an other fall,</L>
+<L>Though 't be the man that giues his hunger bread.</L>
+</LG>
+<LG>
+<L>To see his neighbour fast is his best foode,</L>
+<L>It makes him leane to see another fat;</L>
+<L>He pines to nought, when he finds nought whereat</L>
+<L>He may repine. To haue him vnderstood,</L>
+</LG>
+<LG>
+<L>And to the full describ'd; thus in a word,</L>
+<L>it grieues his staru'ling spirit more to see</L>
+<L>An others good, then his owne miserie;<NOTE PLACE="marg">Inuidus non <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> nu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> discruciat<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> aliena felicita quàm su<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> inf<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> tuni<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>.</NOTE></L>
+<L>Though it cut deeper then Afflictions sword.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="16"/>
+<HEAD>TO THE ENVIED.</HEAD>
+<L><SEG REND="decorInit">I</SEG>S it not strange, that such can liue, whose foode</L>
+<L>is dres'd by <HI>Enuie,</HI> and with poyson mixt,</L>
+<L>Whose heart's the kitchin, and whose canker'd bloud</L>
+<L>the meager <HI>Cooke</HI> carowseth; while betwixt,</L>
+<L>His master and the diuell are begotten</L>
+<L>prodigious Monsters, which appeare as barren</L>
+<L>Of honestie as Hell, their ioints as rotten</L>
+<L>through want of marrow, as a peece of carrion?</L>
+<L>By these th'art malic'd; but be not dismaide</L>
+<L>nor grieue thou at them, rather for them grieue</L>
+<L>If so thou canst thy <HI>Charitie</HI> perswade,</L>
+<L>(which as thou'rt flesh and bloud, I scarce belieue.)</L>
+<L>When a fierce Dogge comes running at thee, stay</L>
+<L>and thou shalt finde hee'l rather back retire,</L>
+<L>Then offer to assault thee: if away</L>
+<L>from him thou fly'st thou further'st his desire.</L>
+<L>So these (farre worse then dogges) will fiercely bite,</L>
+<L>when they perceiue their venome makes thee stirre:</L>
+<L>For nothing giues such fulnesse of delight</L>
+<L>to th'snarling spleene of a malitious Curre,</L>
+<L>As to behold the mischiefe that he doth.</L>
+<L>But where well-temper'd patience doth preserue</L>
+<L><NOTE PLACE="marg">Inuidia virtute parta, glo∣ria, non inuidia pu∣tanda est.</NOTE>(As a safe Antidote to th'rankling tooth</L>
+<L>of <HI>Enuies</HI> whelpes) they pine awaie, and starue.</L>
+<L>This to thy Fare-well; if thy Vertues make thee</L>
+<L>hatefull to th'bad, their enuie is thy glorie:</L>
+<L>If loue to vice make good mens loue forsake thee,</L>
+<L>resolue thy selfe they enuy not, they 're sorrie.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="16"/>
+<HEAD>To the Enuious.</HEAD>
+<L><SEG REND="decorInit">B</SEG>Vt that I know thy face, I must confesse</L>
+<L>I should haue trembled; for an Obiect lesse</L>
+<L>Fearefull, were able without Physicks Art</L>
+<L>To make a Costiue man play a loose part.</L>
+<L>I cannot thinke the worst of <HI>Pharaoes</HI> kine</L>
+<L>Look't halfe so bare, as this poore trunke of thine;</L>
+<L>Which like Sir <HI>Cranion,</HI> or a starv'ling Capon</L>
+<L>Staukes here and there, proportionably shapen</L>
+<L>To thy leane spirit, whose repining hate</L>
+<L>Hath brought thy Carcasse to this pining state.</L>
+<L>I see there are more waies to th'wood then one.</L>
+<L>Not age, or wedlocke, bring'th a man alone</L>
+<L>Vnto a Night-cap; for a wretched minde</L>
+<L>Gaue thine to thee; O had it been so kinde</L>
+<L>T'haue put a Nose-gaie too into thy hand;</L>
+<L>And in thy Ruffes roome plac'd a falling band,</L>
+<L>Many had look't t'haue seene thee turne, and Hope</L>
+<L>Would haue presum'd that next had come a Roape:</L>
+<L>Whereto thy hanging ominous lookes presage</L>
+<L>Thou must do homage; in th'meane time, ingage</L>
+<L>That little hope thy wretched soule enioyes</L>
+<L>Of Heauen, to him who thy best good destroyes,</L>
+<L>In feeding thy insatiable spleene;</L>
+<L>Which, (had not helpe from hell transported been)</L>
+<L>Could not haue been so diuelish as 't hath proov'd,</L>
+<L>But it in thee infernall powers haue mou'd:</L>
+<L><PB REF="17"/>Scarce Hell it selfe, could conster that for ill;</L>
+<L>VVhich (damned) thou (to satisfie thy will)</L>
+<L>Hast vrg'd (<HI>I know</HI>) as an extreame offence,</L>
+<L>Against vnguiltie, harmelesse <HI>Innocence.</HI></L>
+<L>VVhich hiath by some (too credulous weake men)</L>
+<L>(Out of their wisdomes) been found faulty; when</L>
+<L>Had they been masters but of so much sight,</L>
+<L>As to distinguish betweene day and night,</L>
+<L>They had beene lesse iniurious, or more iust;</L>
+<L>But to such Iudges must the guilty trust,</L>
+<L>VVhil'st <HI>Innocence</HI> must suffer; yet not so</L>
+<L>But it may liue to see their ouerthrow</L>
+<L>VVho moale-like heaue vnseene, till at the last</L>
+<L>Their working be discouer'd, and they cast</L>
+<L>Out of their hollow trenches, and withall</L>
+<L>Trod on by them, whom they desir'd might fall;</L>
+<L>Then shall your sable Cacodaemon be</L>
+<L>Hang'd with a twigge vpon some willow tree;</L>
+<L>To all which Enuious vndermining slaues,</L>
+<L>I wish no fairer Ends, no better graues.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="17"/>
+<HEAD>OF THE DETRACTER.</HEAD>
+<LG>
+<L><SEG REND="decorInit">T</SEG>His comes in last, because he comes behinde</L>
+<L>those whom he wrongs, though in his doing so</L>
+<L>the diuell cannot him in skill foregoe;</L>
+<L>Vnto the last but this, This last I finde</L>
+</LG>
+<LG>
+<L>To be as neere alli'd in Basenesse, as</L>
+<L>a brother can be to a brother twinne,</L>
+<L>in feature, though (as oft) Nature therein</L>
+<L>Proportion them so like, that each doth passe</L>
+</LG>
+<LG>
+<L>For other. Only this one difference I note</L>
+<L>this last, allow'th more freedome to his tongue</L>
+<L>then <HI>Enuie</HI> doth, and other men are stung</L>
+<L>By him more then himselfe; he makes his throate</L>
+</LG>
+<LG>
+<L>An open graue, <HI>where</HI> his contagious breath,</L>
+<L>labours to blast the spotlesse fame of such,</L>
+<L>whose <HI>Reputation</HI> it shall chance to touch.</L>
+<L>Nor can the hand of <HI>Reconciling Death</HI></L>
+</LG>
+<LG>
+<L>Free men from this iniurious Monsters sting,</L>
+<L>which through the bowels of the earth doth pierce,</L>
+<L>and in the quiet vault appeares more fierce</L>
+<L>Then Death (the graues sterne tyranizing King.)</L>
+</LG>
+<LG>
+<L>Were a man here as free from <HI>actuall ill,</HI></L>
+<L>as when he first mov'd in his mothers wombe;</L>
+<L>or as the man that calls the Heauen his home</L>
+<L>Guiltlesse of sinne; yet would this trie his skill.</L>
+</LG>
+<LG>
+<PB REF="18"/>
+<L>If in a bul-rush he can finde a knot;</L>
+<L>or from pure hony (which the harmlesse Bee</L>
+<L>suck'd from those flowers which like it selfe was free)</L>
+<L>Straine poison'd iuyce; where if he finde one iot</L>
+</LG>
+<LG>
+<L>Which he can iudge doth relish of a weede</L>
+<L>(from which the toylsome Bee cheerfully flies,</L>
+<L>home to the hiue with hony-laden thighs)</L>
+<L>He straite concludes no good can thence proceed.</L>
+</LG>
+<LG>
+<L>So strange is the distraction of this <HI>Tom</HI></L>
+<L>of <HI>Bedlam,</HI> that all places, times, and men</L>
+<L>without distinction seeme alike: for when</L>
+<L>The furious rayling fit comes on him, from</L>
+</LG>
+<LG>
+<L>His stinking stomacke, hee 'le belch forth such geere,</L>
+<L>such filth; and with such violence, as though</L>
+<L>he meant to cast his rotten garbage: so</L>
+<L>He ioyes to make his loathsomnesse appeare.</L>
+</LG>
+<LG>
+<L>This (what shall I terme him?) will deuoure your bread,</L>
+<L>call you his master, crouch with cap in hand,</L>
+<L>professe he falls, if you shall faile to stand;</L>
+<L>Yet curse you liuing, ioy when you are dead.</L>
+</LG>
+<LG>
+<L>He 'le be the Herald of your Infamy,</L>
+<L>and scandalize your worth, though you haue bred</L>
+<L>him to the shape of man euen from a shred.</L>
+<L><NOTE PLACE="marg">Hic niger est, &amp;c.</NOTE>This is a <HI>blacke-one,</HI> full of trechery.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="18"/>
+<HEAD>To the Detracted.</HEAD>
+<L><SEG REND="decorInit">T</SEG>Hough Wolues against the siluer Moon do bark,</L>
+<L>they blemish not her brightnes, nor the spight</L>
+<L>Of bauling Curres, (which she disdains to mark)</L>
+<L>can any whit eclipse her of her light.</L>
+<L>So mai'st thou slight the railing of ill tongues,</L>
+<L>if a cleere shining conscience be thy guard;</L>
+<L>Which to defend thee from the worst of wrongs,</L>
+<L>will, as a wall of brasse, be found as hard.</L>
+<L>Men are by Nature apt to blame, and hate</L>
+<L>such as distaste what they approue as good:</L>
+<L>If thou dislike to heare a Parrat prate,</L>
+<L>and tell a tedious tale of <HI>Robin-hood</HI>;</L>
+<L>He 'le shoot Detractions boult against thy braine,</L>
+<L>terming it shallow, barren, poore and dull;</L>
+<L>Because not vented by a windy vaine,</L>
+<L>empt'ing it selfe to make thy mouth shew full.</L>
+<L>But wiser men then he assures thee no;<NOTE PLACE="marg">Loquacit a<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> certissimū fatuitatis argumētum <HI>Eras.</HI></NOTE></L>
+<L>They are most fooles (say they) that vse most words:</L>
+<L>That silence argues folly, 't is not so;</L>
+<L>for vertues branches no such fruite affords.</L>
+<L>Admit a <HI>Turke</HI> should call thee <HI>Infidell</HI>;</L>
+<L>wouldst be offended? or imagine, that</L>
+<L>One dubbe thee knaue, in whose owne heart doth dwell</L>
+<L>basenesse enough, to make him wondred at</L>
+<L>By all that know him? shall the first perswade thee,</L>
+<L>that thy Religion knowes more Gods then one;</L>
+<L><PB REF="19"/>Or to denie the <HI>sacred power</HI> that made thee,</L>
+<L>or t'giue his honour to a carued stone?</L>
+<L>Or can the second force thee to confesse</L>
+<L>through his report, thou art as base as he?</L>
+<L>If none of these thou wilt, their power's the lesse,</L>
+<L>thy worth the more by their detracting thee.</L>
+<L>An honest fame (like spice) the more 'tis brus'd</L>
+<L>sauours the sweeter, which when we are dead</L>
+<L>Will be the sweetest seare-cloath can be vs'd</L>
+<L>to wrap vs in; it will out-last the lead</L>
+<L>Wherein that bodie lies, in which did liue</L>
+<L>a spotted conscience, a detracting spirit;</L>
+<L>Which to it selfe an earthly heauen did giue,</L>
+<L>and of Heauens ioyes it selfe did disinherite.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="19"/>
+<HEAD>TO THE DETRACTER.</HEAD>
+<L><SEG REND="decorInit">T</SEG>Hink'st thou it makes thy Reputation faire,</L>
+<L>if by thy muddy tongue thou canst impaire</L>
+<L>An other mans? looke how a murtherer can</L>
+<L>(whose fatall hand shall kill an other man)</L>
+<L>Adde to his owne by shortning others daies;</L>
+<L>so by detracting others growes by praise.</L>
+<L>Perchance thou feed'st thy selfe with a conceipt,</L>
+<L>that euery man that heares thee raile, doth straite</L>
+<L>Belieue that all thou sayst is true, for that</L>
+<L>they contradict thee not; Ile tell thee what,</L>
+<L>In my opinion thou shouldst rather feare,</L>
+<L>it makes them tremble and amaz'd to heare,</L>
+<L>How diu'lishly thou second'st what thou say'st</L>
+<L>with oaths, and curses; or admit thou mai'st</L>
+<L>Light vpon some who (knowing not thy vse)</L>
+<L>may be perswaded, that from some abuse</L>
+<L>Offer'd to thee, proceeds thy railing fit:</L>
+<L>Yet all the glory thou enioy'st by it</L>
+<L>Is, they'le note thee euerafter, for</L>
+<L>a creature which all good men should abhorre.</L>
+<L>Or say thou shalt some man, to some depraue</L>
+<L>who know him honest; think'st thou for a knaue</L>
+<L>They can do lesse then iudge thee? and beware</L>
+<L>thou rayl'st to no men that iuditious are:</L>
+<L>For they 'le soone finde that thou dishonest art,</L>
+<L>and therefore know thou tak'st no good mans part:</L>
+<L><PB REF="20"/>Whose prayse they iudge is equally the same,</L>
+<L>Where Iust men doe applaud, or thou defame.</L>
+<L>I might haue spar'd my breath in wishing thee</L>
+<L>to men of iudgement not to be too free;</L>
+<L>For thou art chiefly carefull in this point</L>
+<L>to plie his eare whose iudgement's out of ioynt:</L>
+<L>By whom as yet was neuer vnderstood</L>
+<L>how any cause could, but the first, be good;</L>
+<L>Whose ignorance (I thinke) might argue rather</L>
+<L>Th' Vicar of fooles will prooue their ghostly father.</L>
+<L>And as for thee, thou dost resolue I know</L>
+<L>thou must die mad, thy braine's distemperd so.</L>
+<L>Which will be for thy credit when thou 'rt dead:</L>
+<L>for some will lay the fault vpon thy head,</L>
+<L>And say thy braine inforc'd thy tongue to raue.</L>
+<L>Better be thought a mad-man then a knaue.</L>
+<TRAILER>FINIS.</TRAILER>
+<EPIGRAPH>
+<Q><L>Qui ducis vultus, &amp; non legis ista libenter,</L>
+<L>Omnibus iuuideas liuide, nemo tibi.</L> <BIBL><HI>Mart.</HI></BIBL></Q>
+</EPIGRAPH>
+<PB REF="20"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

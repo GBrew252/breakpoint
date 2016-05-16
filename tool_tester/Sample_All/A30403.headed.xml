@@ -1,0 +1,3291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">Two books of elegies in imitation of the first books of Ovid de Tristibus, with part of the third to which is added verses upon several occasions with some translations out of the Latin and Greek poets / by Thomas Ball.</TITLE><AUTHOR>Ball, Thomas.</AUTHOR></TITLESTMT><EXTENT>Approx. 162 KB of XML-encoded text transcribed from 85 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2007-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A30403</IDNO>
+
+
+<IDNO TYPE="stc">Wing B585</IDNO>
+
+<IDNO TYPE="stc">ESTC R28342</IDNO>
+
+<IDNO TYPE="eebo citation">10543378</IDNO>
+
+<IDNO TYPE="oclc">ocm 10543378</IDNO>
+
+<IDNO TYPE="vid">45220</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A30403)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 45220)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 1395:6)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">Two books of elegies in imitation of the first books of Ovid de Tristibus, with part of the third to which is added verses upon several occasions with some translations out of the Latin and Greek poets / by Thomas Ball.</TITLE><AUTHOR>Ball, Thomas.</AUTHOR></TITLESTMT><EXTENT>[10], 156 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for Richard Cumberland,</PUBLISHER>
+<DATE>1697.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Reproduction of original in the British Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Ovid, 43 B.C.-17 or 18 A.D.</TERM><TERM>Elegiac poetry.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2006-03</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2006-03</DATE><RESPSTMT><RESP>Apex CoVantage</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2006-06</DATE><RESPSTMT><RESP>Derek Lee</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2006-06</DATE><RESPSTMT><RESP>Derek Lee</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2006-09</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A30403">
+<STC T="W">B585</STC>
+<BIBNO T="oclc">10543378</BIBNO>
+<VID>45220</VID>
+</IDG>
+<GROUP>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<P>TWO BOOKS OF ELEGIES: In Imitation of The Two First Books of <HI>Ovid de Tristibus;</HI> with part of the Third.</P>
+<P>To which is added, VERSES upon several Occasions, with some Translations out of the <HI>Latin</HI> and <HI>Greek</HI> Poets.</P>
+<P>By <HI>THOMAS BALL,</HI> M. A. of St. <HI>John</HI>'s Colledge in <HI>Cambridge.</HI></P>
+<Q><L>Turba Poetarum Nasonem novit, &amp; audet</L>
+<L>Non fastiditis annumerare viris.</L>
+<BIBL>Ovid.</BIBL></Q>
+<P><HI>LONDON,</HI> Printed for Richard Cumberland, at the <HI>Angel</HI> in St. <HI>Paul</HI>'s <HI>Churth yard.</HI> 1697.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2" MS="y"/>
+<HEAD><PB REF="2"/>
+THE Epistle Dedicatory.</HEAD>
+<HEAD TYPE="sub">TO <HI>JOHN HARVEY,</HI> Of <HI>Thurly</HI> in <HI>Bedford-shire,</HI> Esq;</HEAD>
+<OPENER><SALUTE>SIR,</SALUTE></OPENER>
+<P>WEre Patrons bound to Defend Books they never saw, as Seconds are, to Fight Men they never heard of, I shou'd not have Presum'd to have made You a Dedication; for I am Oblig'd to tell the World of my Misfortune.
+<PB REF="3"/>
+You never saw one Line of these Elegies, and so are absolutely dis∣engag'd from all Inadvertencies, Faults, and Follys, of what Na∣ture soever. And tho' Men are generally as fond of the Issues of their Brain, as those of their Bo∣dy, and partially give it for them∣selves, without Fault; I am not so Conceited of mine, as to think I have writ without Mistakes, tho' there is none that I know of.</P>
+<P>You may remember, in <HI>July</HI> last, when I made you a Visit about <HI>Peterborough,</HI> I told you I had some Papers of this Nature in some Friends Hands in Town and wish'd I had had em then, to have taken your Thoughts: Not
+<PB REF="3"/>
+long after, I received them, and had no reason to alter my Design of Publishing 'em, at one time or another: Then I show'd them to some of my Acquaintance in the Countrey, and several Persons a∣greeing in the same Opinion, I took up this still desperate Resolu∣tion of Printing. It has been a Humour in all Ages, but I be∣lieve never so Ʋniversal as now, for Men to think it a Detra∣ction from their own Character, to give another Man his; and when <HI>Homer</HI> has been Burlesqu'd, <HI>Virgil</HI> Travestied, <HI>Waller</HI> Cri∣ticis'd on, and <HI>Cowley</HI> Condemn'd, no Body must take it ill. <HI>Cow∣ley▪</HI> was a Man of Admirable
+<PB REF="4"/>
+Wit, and his Writings will Chal∣lenge a Respect, 'till our Poets are inspir'd. <HI>Waller</HI> indeed writ with more Art, and was the first of our Countrey-men that Affected that agreeable Smoothness, which with his large Share of Wit, makes his Poems perpetually Entertain∣ing. But those that Rail for no other Design than to be thought Critiques, are fond of a Charact∣er they are not able to maintain: And tho' they are a great part of Mankind, they are of so different a Complexion from the better part of Mankind, that they have as little Respect as Modesty, and it's no Reflection to be out of their Favour.</P>
+<P><PB REF="4"/>
+When I first began these Ele∣gies, the only Motive to me was my Diversion, and to Persue the Design of Entertaining my self, I Choose this way of Imitation, which admits of more Liberty: And tho' the Alterations are not great, nor many, yet they are too many for a strict Translation. Besides this, I had another Reason, which Pre∣vail d with me, more than my Ease, and that was <HI>Ovid</HI> s ex∣tream Sense of his Misfortunes, in a hundred places of his Elegies: He is so Melted with his Sorrows, that his Complaints discover a Weakness, which is better hid. <HI>Ovid</HI>'s was indeed a very hard Case as could be, and it's no Won∣der
+<PB REF="5"/>
+if the Affection he had for his own Countrey, the passionate Ten∣derness for his Wife, and Family, together with the dreadful Appre∣hensions of the barbarous People he was going to, if all these shockt his Resolution, and made him write his Fears; and it is rather to be wish'd he had done it sel∣domer, than to be wonder'd he did it at all.</P>
+<P>The true Occasion of his Ba∣nishment, as far as I can learn, has been a lasting Secret, and men of his own time could but Guess; the most probable Con∣jecture to me, is, that he suffer'd not so much for his own Fault, as Caesar's, that he was Consci∣ous
+<PB REF="5"/>
+of something that made Cae∣sar uneasie; I don't think it was any Familiarity with <HI>Livia,</HI> or <HI>Julia,</HI> that gave him <HI>Augustus</HI>'s <HI>Displeasure,</HI> and those Verses,
+<Q><L>Cur aliquid vidi? cur noxia lumina feci,</L>
+<L>Cur imprudenti cognita culpa mihi est.</L></Q>
+signify no more, than that he was unfortunately Privy to some disho∣nourable Action of Caesar's, and he durst not trust him at home. Had his Crime been of so high a Nature, as to have wrong'd him in his Wife, or Daughter, Banish∣ment had not been Punishment enough: And had it been <HI>Livia,</HI> he durst not so much as have mention'd her; but we find him
+<PB REF="6"/>
+in the second Book of his Elegies, which he writes to <HI>Augustus,</HI> particularly commending his <HI>Livia.</HI></P>
+<LG>
+<L>Livia sic tecum sociales impleat annos,</L>
+<L>Quae nisi te, nullo conjuge digna fuit,</L>
+<L>Quae si non esset, caelebs te vita deceret,</L>
+<L>Nullaque, cui posses esse maritus, erat.</L>
+</LG>
+<P>But this is still Conjecture, and all the Proofs that can be Amass'd of either side, amount to no more; and therefore I shall leave the Reader to his Liberty, with∣out pretending to determine from any of 'em. But whatever was the Occasion of his Banishment, he was Treated with great Re∣spect by those of his own time, and his Writings have been
+<PB REF="6"/>
+judg'd very Fortunate, by those of several Ages since. The two <HI>Seneca's, Marcus</HI> and <HI>Lucius, Velleius Paterculus, Quintilli∣an, Cornelius Tacitus, Martial, Statius Pampinius, Angelus Po∣litianus, Erasmus, Julius Scali∣ger;</HI> these and a great many more have all interested themselves in the Commendations of <HI>Ovid,</HI> and are more than Common Autho∣ritys.</P>
+<P>And now <HI>SIR,</HI> if you can find any thing in the following sheets that may Divert you, when Tired with, or Indisposed for bet∣ter Studies, I shall have the greatest part of my Design, and
+<PB REF="7"/>
+only want your Pardon for this Freedom,</P>
+<CLOSER><SALUTE>SIR,</SALUTE> <SIGNED>Your most Obliged, and very humble Servant, T. Ball.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poems">
+<DIV2 TYPE="elegy">
+<PB N="1" REF="7"/>
+<HEAD>The First ELEGY OF Ovid de Tristibus.</HEAD>
+<HEAD TYPE="sub">He applies himself to his Book, that it shou'd go to <HI>Rome,</HI> and ad∣monishes what's to be done.</HEAD>
+<LG>
+<L>GO to fam'd <HI>Rome,</HI> my Book, thy Verses show,</L>
+<L>A Privilege thy Master had 'till now;</L>
+<L>Go but Undrest, Forlorn, Unhappy go.</L>
+<L>No Crown adorns a wretched Exile's Brow,</L>
+<L>No Garb's allow'd, but what his Sorrows show.</L>
+<L><PB N="2" REF="8"/>
+Vermillion, Purple, that are Fine and Gay,</L>
+<L>With these, while others Titles flourisht be,</L>
+<L>Your Page, my Book, must want the Liberty:</L>
+<L>These are the Ensigns only of the Great,</L>
+<L>You must reflect your Master, and his Fate,</L>
+<L>Nor be asham'd of Blots, for all that read</L>
+<L>Will know, my Flowing Tears the Blots have made.</L>
+<L>Go, in my Words, and Name, Salute the Town,</L>
+<L>The much lov'd Place, that I so long have known;</L>
+<L>If you shou'd meet a Man shou'd ask of me,</L>
+<L>Tell him I live not from Misfortunes free;</L>
+<L>If he asks more, be silent, let him read,</L>
+<L>Lest you should say what's better, much, unsaid▪</L>
+<L>The Reader may my Crimes perhaps repeat,</L>
+<L>And say 'tis just, he suffer'd as he ought;</L>
+<L>Be sure you don't defend, tho' you cou'd wound,</L>
+<L>A Cause that's ill, Protected, ill is found.</L>
+<L>If you shou'd find a Friend that shou'd Bemoan,</L>
+<L>And often weep his much lov'd <HI>Ovid</HI> gone,</L>
+<L>And softly whispering, to avoid a Crime,</L>
+<L>Wish that his <HI>Caesar</HI> wou'd forgive the sin;</L>
+<L><PB N="3" REF="8"/>
+Who e're he is, we wish him happy too,</L>
+<L>That seems to feel the ills the wretched know:</L>
+<L>To all he asks may Heav'n indulgent be,</L>
+<L>May <HI>Caesar</HI>'s Face again Look Liberty,</L>
+<L>And grant the Privilege at Home to dye.</L>
+<L>Whilst my Commands, my Book, thou dost relate,</L>
+<L>The World will damn thee 'cause unfortunate,</L>
+<L>Exiles are never Witty, Good, or Great.</L>
+<L>A Judge must weigh the Business, and the Time,</L>
+<L>What Vertue was, may be esteem'd a Crime,</L>
+<L>The Muse ne're smiles, but when the Poet does,</L>
+<L>And who can smile with Clouds upon his Brows?</L>
+<L>In blest Security, and Ease, I write,</L>
+<L>My Thoughts were free, my Verses smooth and sweet;</L>
+<L>But since Fates Storms have tost me to and fro,</L>
+<L>Nor at this Instant do they cease to blow,</L>
+<L>My Mind's as rough as troubled Waters flow.</L>
+<L>While I was safe, I eager▪ sought for Fame,</L>
+<L>To Wealth preferr'd the Purchase of a Name;</L>
+<L>But now, my Book, in silence softly go,</L>
+<L>Thy Master's Fame, is like his Fortunes, low.</L>
+<L><PB N="4" REF="9"/>
+If any one shou'd find it's mine, and say,</L>
+<L>This Book is to be Burnt, or Thrown away,</L>
+<L>The Title show, tell him I write no more</L>
+<L>Of Love, the Subject of my Books before;</L>
+<L>Tell him I 'ave dearly suffer'd for th' Offence,</L>
+<L>Lost my Estate, as well as Innocence;</L>
+<L>But thou, perhaps, wilt look for th' highest Place,</L>
+<L>Expect that <HI>Caesar</HI> shou'd Applaud thy Verse;</L>
+<L>That thou shou'dst have the Privilege o'th' Court,</L>
+<L>And be Caresst by all that there resort.</L>
+<L>O no! let but those Palaces forgive,</L>
+<L>Those Gods Propitious be, that in them live,</L>
+<L>No longer Thunder from the Sacred Roof,</L>
+<L>The Bolts I've felt are of their Power Proof;</L>
+<L>I've known 'em Gentle, and Forgiving too,</L>
+<L>Their Goodness like their Power, diffusive flow;</L>
+<L>But very lately 'tis they Punisht me,</L>
+<L>The sad remembrance often makes me sigh:</L>
+<L>The fearful Dove once struck, she always fears</L>
+<L>The stronger Hawk, when e're the Bird appears;</L>
+<L>The Lamb from the Devouring Wolf once free,</L>
+<L>For ever after Dreads to be his Prey.</L>
+<L><PB N="5" REF="9"/>
+Cou'd the lost <HI>Phaeton</HI> but live again,</L>
+<L>He willingly wou'd own his Pride a Sin;</L>
+<L>So having felt the Mighty's fiercest Flame,</L>
+<L>I own my Fault, and fear to sin again.</L>
+<L>The Pilots that the <HI>Grecian</HI> Navy bore,</L>
+<L>Will always dread the Danger o'th' <HI>Eubaean</HI> shoar;</L>
+<L>The Boat that <HI>Ovid</HI> and his Fortunes had,</L>
+<L>Their Navy like, o'th' fatal Place's afraid,</L>
+<L>Where angry storms a dreadful Shipwrack made.</L>
+<L>Beware, regard the Instances I've told,</L>
+<L>Rather be timerous, my Book, than bold;</L>
+<L>What if thy Verse before the People lies?</L>
+<L>The Mean may Pity, when the Great despise,</L>
+<L>While <HI>Icarus</HI> with Wings to fly, assay'd,</L>
+<L>He purchas'd this, his Folly nam'd the Flood.</L>
+<L>How to advise thee well is hard, but go,</L>
+<L>Time, Place and e'ry Circumstance must show,</L>
+<L>If a clear Stage thou seest, and all things shine,</L>
+<L>Like <HI>Caesar</HI>'s Face, before his <HI>Ovid</HI>'s Sin,</L>
+<L>Yet let your Air be grave, and grave your Mien:</L>
+<L>Or if a Favourite shou'd take you as you stand,</L>
+<L>And kindly give you to his <HI>Caesar</HI>'s hand,</L>
+<L><PB N="6" REF="10"/>
+He that first gave the wound, that caus'd the pain,</L>
+<L>May, like <HI>Achilles</HI> Spear, relieve the same,</L>
+<L>But while you'de help, be carefull lest you Kill,</L>
+<L>By daring Thunder, that's at present still,</L>
+<L>My Hope's but small, my Fears are greater far,</L>
+<L>Lest you Offend, and so Augment my Care.</L>
+<L>When to my Study thou shalt come, thou'lt see,</L>
+<L>Some Books, that had their Characters from me,</L>
+<L>With harmless Titles most, you'll find appear,</L>
+<L>Written before their Authour Guilty were,</L>
+<L>But in a Corner dark, and fit for them,</L>
+<L>Three Books will lurking, in a Hole be seen;</L>
+<L>Fly these as soon as e're their Form you view,</L>
+<L>Tell 'em, unhappy <HI>Oedipus</HI> his Father slew;</L>
+<L>And if thy <HI>Ovid</HI>'s words have power to move,</L>
+<L>Hate 'em be sure, tho' they pretend to Love:</L>
+<L>Next you'll behold upon a Shelf, my Book,</L>
+<L>Some kindred Leaves, that various Forms have took,</L>
+<L>With these I'de have you talk, and in your talk,</L>
+<L>Tell 'em how different from the Man I was, I walk,</L>
+<L><PB N="7" REF="10"/>
+When Fortune smil'd, and all my Thoughts were Gay,</L>
+<L>When she seem'd fond to heap her Goods on me;</L>
+<L>Tell 'em I'm Chang'd, and look like some of them,</L>
+<L>Am wrinkled, old, deform'd, and ugly seen:</L>
+<L>I have more Cautions, more I am afraid,</L>
+<L>These very dangerous times, my Book, you'll need,</L>
+<L>But shou'dst thou carry all that crouded ly,</L>
+<L>The Thousand Fears that trouble me,</L>
+<L>Thou'dst swell, the strongest cou'd not carry Thee.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="elegy">
+<PB N="8" REF="11"/>
+<HEAD>ELEGY II.</HEAD>
+<HEAD TYPE="sub"><HI>Ovid</HI> Prays the Gods wou'd deliver him from the Dangers of a Ship∣wrack, and in the Elegy describes the Tempest.</HEAD>
+<LG>
+<L>YE Gods, whose Power the roughest Tor∣rent finds,</L>
+<L>Conduct our Ship, half Ruin'd by the Winds,</L>
+<L>Why shou'd your Wrath, with <HI>Caesar</HI>'s, be en∣creas'd?</L>
+<L>One God has Frown'd, another has been pleas'd,</L>
+<L><HI>Mars</HI> hated <HI>Troy, Apollo</HI> kind was found,</L>
+<L><HI>Venus</HI> protected, <HI>Pallas</HI> wou'd have Drown'd;</L>
+<L><HI>Aencas</HI> strength in <HI>Juno</HI>'s rage had fail'd,</L>
+<L>Had not another Deity prevail'd;</L>
+<L><PB N="9" REF="11"/>
+<HI>Neptune</HI> persu'd <HI>Ʋlysses</HI> with his Hate,</L>
+<L>While good <HI>Minerva,</HI> snatch'd him from his Fate.</L>
+<L>And tho' we're less than these in Birth and Skill,</L>
+<L>Much less, why mayn't some God be tender still?</L>
+<L>And while one Frowns, another please to Smile,</L>
+<L>My words like Common Air, confusedly Fly,</L>
+<L>The Winds all hope of being heard deny,</L>
+<L>And Waves scarce grant the Privilege to sigh.</L>
+<L>In vain, I all my Pray'rs to Heav'n direct,</L>
+<L>The Gods can't hear, not hearing won't protect.</L>
+<L>Ah me! the swelling Seas their Surges throw,</L>
+<L>You'd think they'd reach the Stats, so high they go,</L>
+<L>And parting, a'most show the Shades below.</L>
+<L>All the vast space I see, is Air, and Floods,</L>
+<L>Tost by the Waves, and Threatn'd by the Clouds,</L>
+<L>While different Winds in Murmurs make their Way,</L>
+<L>The Sea is doubtful which he should Obey;</L>
+<L><HI>Eurus</HI> his Forces Marshals from the East,</L>
+<L>When <HI>Zephyrus</HI> soon Threatens from the West,</L>
+<L>Fierce <HI>Boreas</HI> from his Northern Quarter blows,</L>
+<L>While <HI>Notus</HI> Charges, Fighting as he goes.</L>
+<L><PB N="10" REF="12"/>
+Our Pilot in so dangerous a Case,</L>
+<L>So odd, so terrible a Storm as this,</L>
+<L>Is yet uncertain what to make, what fly,</L>
+<L>Such strange Variety of Dangers nigh;</L>
+<L>Now while I speak, a Proud, Insulting Wave,</L>
+<L>Shows me Death waiting for the Life I have.</L>
+<L>My Pious Wife, so long my Joy, and Care,</L>
+<L>Knows nothing of the Threatning Storms I fear;</L>
+<L>Believes my Banishment, the only Grief I know,</L>
+<L>Thoughtless at present what I undergo,</L>
+<L>Did she but see me Riding in the Deep,</L>
+<L>The Disproportion that the Surges keep,</L>
+<L>Her Care wou'd double every pointed Ill,</L>
+<L>And I, for her, two Deaths at least shou'd feel;</L>
+<L>This Flash wou'd be a Death, so long the Flame,</L>
+<L>I plainly saw the Place from when it came,</L>
+<L>The Treasury where God's their Lightning lay,</L>
+<L>To burn the World, when all shall disobey:</L>
+<L>Death I do'nt sear, let but the Tempest cease,</L>
+<L>Dismiss the Winds, and strike me where you please,</L>
+<L><PB N="11" REF="12"/>
+Happy to me, the Man that Sickness knows,</L>
+<L>Or falls by th' Sword, and sinks beneath his Foes,</L>
+<L>The Earth to such will kindly give a Grave,</L>
+<L>The Decent Rites of Burial they have;</L>
+<L>Their Friends expecting what they wou'd have done,</L>
+<L>Are nigh, and ready to perform the same,</L>
+<L>The Wat'ry People that inhabit Seas,</L>
+<L>Can claim no Priviledge, at all of these:</L>
+<L>Believe me Heav'n, worthy such a Fate,</L>
+<L>Besides 'tis I, that am unfortunate,</L>
+<L>Why shou'd these suffer that are hither sent,</L>
+<L>Not for their Crimes, they're innocent,</L>
+<L>'Tis I, not they, deserv'd the Banishment.</L>
+<L>Ye Gods, whose Voices calm, or swell the Flood,</L>
+<L>Too long an Instance of your Power you've show'd,</L>
+<L>Your Thunder stop, that I may safely tread</L>
+<L>The Distant Shoar, that <HI>Caesar</HI> has decreed,</L>
+<L>Shou'd you resolve to take away my Breath,</L>
+<L><HI>Caesar,</HI> he judg'd my Crime was less than Death;</L>
+<L><PB N="12" REF="13"/>
+He cou'd have kill'd, without your Leave, or Pow'r,</L>
+<L>When e're he speaks, the Criminal's no more;</L>
+<L>And tho' before his Throne I guilty stand,</L>
+<L>I never did, ye Gods, your Heav'n offend;</L>
+<L>Nay, shou'd you snatch me from the Waves I fear'</L>
+<L>My Ruin still, is much, ah! much too near,</L>
+<L>My Doom is Banishment to Lands unseen,</L>
+<L>Where I must live an Exile for my Sin;</L>
+<L>The Hopes of Wealth ne're tempted me to this,</L>
+<L>Those little Thoughts, I always cou'd despise,</L>
+<L>Nor yet a Rambling Humour, that once sway'd,</L>
+<L>And carry'd me to <HI>Athens,</HI> when unbread,</L>
+<L>No Curiosity to see the Towns,</L>
+<L>That <HI>Asia</HI> from the Neighb'ring Quarter Bounds,</L>
+<L>Nor does my Vanity to <HI>Aegypt</HI> lead,</L>
+<L>To see how <HI>Nilus</HI> seven Streams are sed;</L>
+<L>I rather wish the Winds wou'd guide the Ship,</L>
+<L>Conduct us safely thro' the troubl'd Deep,</L>
+<L>And tho' I see <HI>Augustus</HI> Face no more,</L>
+<L>Banisht the Court, Despis'd, Forlorn, and Poor,</L>
+<L><PB N="13" REF="13"/>
+I'm Shipwrackt yet, a second Punishment,</L>
+<L>Deny'd the very place of Banishment,</L>
+<L>Too great a Favour to be safely sent.</L>
+<L>If any part of <HI>Ovid,</HI> Gods, you love,</L>
+<L>My Pray'rs your Goodness, one wou'd think shou'd move,</L>
+<L>Your later Orders shou'd the storm appease,</L>
+<L>Confine the Winds, and plain the swelling Seas,</L>
+<L><HI>Caesar,</HI> tho' angry, he expected this.</L>
+<L>When to the <HI>Pontick</HI> Land he order'd me,</L>
+<L>He little thought I in a storm shou'd dye;</L>
+<L>The first severe; my Crime I don't defend,</L>
+<L>At most, I dare but lessen, what he has condem'd.</L>
+<L>The Gods they know, what Princes cannot plead,</L>
+<L>No wicked meaning in my Fault I had,</L>
+<L>Blind Error led me thro' untrodden Ways,</L>
+<L>And Folly lost me in the wondrous Maze,</L>
+<L>But if <HI>Augustus</HI> House I always lov'd,</L>
+<L>Next Heaven, <HI>Augustus</HI> Power approv'd,</L>
+<L>If I have offer'd in <HI>Augustus</HI> Name,</L>
+<L>If I have pray'd a Long, and Happy Reign,</L>
+<L><PB N="14" REF="14"/>
+Let my Obedience mitigate my Sin,</L>
+<L>The Seas grow calm, the Air serene:</L>
+<L>Or if I ask too much, and fondly pray,</L>
+<L>May I expect my Death without Delay.</L>
+<L>Enough: my Pray'rs already reach the Skies,</L>
+<L>And mount a Welcome, Happy Sacrifice,</L>
+<L>The Clouds are by the stronger Powers chas'd,</L>
+<L>The Winds allay'd, the Seas already pleas'd,</L>
+<L>The Gods I pray'd, by me were ne're deceiv'd,</L>
+<L>Or e're provok'd, but always were believ'd.</L>
+<L>And being unprovok'd, they've all reliev'd.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="elegy">
+<PB N="15" REF="14"/>
+<HEAD>ELEGY III.</HEAD>
+<HEAD TYPE="sub">How he went from <HI>Rome:</HI> The Con∣cern he left his Wife in, and how his Friends and Family lamented his Departure.</HEAD>
+<LG>
+<L>SAd was the Night, but blacker far my Fears,</L>
+<L>My Wife, my Children, Servants, all, in Tears,</L>
+<L>To think the Morrow's too too hasty Light,</L>
+<L>Must snatch a Husband, Father, Master, from their sight:</L>
+<L>My Eyes tho' I had wept so much before,</L>
+<L>Kept time with theirs, and greedily run o're;</L>
+<L>And yet no mind I had to think that I,</L>
+<L>Must leave not only them, but <HI>Italy;</HI></L>
+<L><PB N="16" REF="15"/>
+All Preparations for the way delay'd,</L>
+<L>As <HI>Caesar</HI> had forgiv'n, and I had staid,</L>
+<L>Servants, nor yet Companions did I choose,</L>
+<L>Nor Gold, nor Cloaths of necessary Use,</L>
+<L>Amaz'd! I stood like one by Thunder struck,</L>
+<L>That lives, but never can forget the stroke,</L>
+<L>When some faint Dawning of my Sense appear'd,</L>
+<L>My Griefs look'd less, tho' still they show'd I fear'd'</L>
+<L>I call'd my Friends the very few that staid,</L>
+<L>Sighing—at last, Farewell, my Friends, I said;</L>
+<L>Friends in misfortunes are so rarely known,</L>
+<L>I rather wonder'd of the many, I had one:</L>
+<L>My Wife she lockt me in a close Embrace,</L>
+<L>Fixt her swoln Eyes, and prest me to her Face,</L>
+<L>My Daughter that to <HI>Affrica</HI> I sent,</L>
+<L>Knew nothing of her Father's Banishment,</L>
+<L>Too many they, alas, at Home that staid,</L>
+<L>And wept as tho' some Funeral they had,</L>
+<L>If great Examples, humble Sorrows take,</L>
+<L>Such was the Groans, when ancient <HI>Troy</HI> was sack'd,</L>
+<L><PB N="17" REF="15"/>
+'Twas then, when Night her deepest mourning had,</L>
+<L>All things but us, so silent, they seem'd dead.</L>
+<L>I fixt my Eye upon the lofty Capitol,</L>
+<L>Joyn'd to my House, that's like that Building tall,</L>
+<L>Ye Gods that love this Fair frequented Place,</L>
+<L>And Temples where your Votary I was,</L>
+<L>I was, but never more must be, and yet,</L>
+<L>Hear me ye Gods, from Heav'n, your other Seat,</L>
+<L>Tho' I too late my wounded Body guard,</L>
+<L>Torn by the Sentence that I lately heard,</L>
+<L>Let Banishment if not attone, suffice,</L>
+<L>To reconcile me to the People's Voice;</L>
+<L>Tell <HI>Caesar</HI> tho' I sinn'd, 'twas Ignorance,</L>
+<L>Design ne're prompted to the great Offence.</L>
+<L>This you can witness, and can witness true,</L>
+<L>Tell <HI>Caesar</HI> this, he must believe from you.</L>
+<L>Thus I implor'd, while still my Wife she prays,</L>
+<L>With Tears repeated for the God's delays,</L>
+<L>Till Sobs cut off the Priviledge of Words,</L>
+<L>And Wild Disorders no Relief affords,</L>
+<L>Her Breath return'd, she panting lies along,</L>
+<L>Prays our Penates, as she'd often done,</L>
+<L><PB N="18" REF="16"/>
+But they, as deaf, as common Statues stood,</L>
+<L>Made by some Vulgar Artist, of the meanest Wood.</L>
+<L>While day advances with a hasty Pace,</L>
+<L>The last that I, in <HI>Italy</HI> must Pass,</L>
+<L>Uncertain what to do, so much I lov'd</L>
+<L>My Family, so much my Country mov'd:</L>
+<L>How often did I say to those that prest,</L>
+<L>That I wou'd use the little Time I'd left!</L>
+<L>Why do you urge me? whither shou'd I go?</L>
+<L>Where? do but tell me what you'd have me do.</L>
+<L>How often did I drive th' uneasy thoughts away!</L>
+<L>E'ne to the utmost minute of my stay;</L>
+<L>Thrice I the Threshold touch'd, and try'd to go,</L>
+<L>My mind unwilling, thrice my Foot withdrew;</L>
+<L>Often the kind, sad Word▪ <HI>Farewell,</HI> I'd give,</L>
+<L>And often gone, repeated Kisses leave,</L>
+<L>O how my Eyes were fastn'd on my Wife!</L>
+<L>My mind obedient, giving all my Life;</L>
+<L>How much we lov'd, while Dear Delights surprize!</L>
+<L>How we improv'd each Night with lasting Joys!</L>
+<L><PB N="19" REF="16"/>
+Why shou'd I go, I said, to <HI>Scythia?</HI></L>
+<L>Leave much lov'd <HI>Rome,</HI> and try the Faithless Sea.</L>
+<L>Ah cruel Sentence! that must absence give,</L>
+<L>For Love, a faint remembrance only leave,</L>
+<L>'Twas very hard, to snatch me from my better part,</L>
+<L>And wound my Wife, by breaking of my Heart.</L>
+<L>To banish me my Friends, that nearest stood,</L>
+<L>Like <HI>Theseus</HI> Valiant, and like <HI>Theseus</HI> Good:</L>
+<L>Thus while I talkt, the Fleeting Minutes past,</L>
+<L>Half Words imperfectly my Thoughts exprest,</L>
+<L>I Kist, and Sigh'd, and sadly lookt the Rest.</L>
+<L>When Day broke through the Windows of the East,</L>
+<L>Stars disappear'd, but <HI>Lucifer</HI> encreast,</L>
+<L>So strangely, so unmann'd, I lifeless stood,</L>
+<L>Nor thinking, speaking, looking as I shou'd,</L>
+<L>No more my Brains their ancient Uses know,</L>
+<L>Than Legs cut off, without the Body go.</L>
+<L>So <HI>Priam</HI> griev'd, when he too late beheld</L>
+<L>The <HI>Grecian</HI> Horse, with chosen Soldiers fill'd;</L>
+<L>Like <HI>Trojans</HI> then, tho' much in number less,</L>
+<L>My Family their Griefs in Cries express,</L>
+<L><PB N="20" REF="17"/>
+My Wife while standing, leaning on my Neck,</L>
+<L>Mixt with her Tears, her last dear Words she spoke,</L>
+<L>We must not part, I'll know thy latest Care,</L>
+<L>Shall <HI>Ovid</HI> suffer, and his Wife not share?</L>
+<L>A Passenger i'th' very Ship I'll go,</L>
+<L>The same far Land, shall both our Sorrows know,</L>
+<L>Love forces me, and <HI>Caesar</HI>'s Anger you.</L>
+<L>Thus did she talk, and sigh, despair and groan,</L>
+<L>Repeat again, what just before she'ad done,</L>
+<L>Till at the last, with Hair disorder'd all,</L>
+<L>Wild as my Griefs, my Face a Funeral,</L>
+<L>With much adoe, I spoke the last Farewell.</L>
+<L>They say, for now no more her Form I saw,</L>
+<L>Half dead she fell, when I resolv'd to go,</L>
+<L>With all the Instances of Horror seen,</L>
+<L>Dissolv'd in Tears, careless, deform'd, unclean,</L>
+<L>Her Limbs the Gods with such Exactness made,</L>
+<L>Like common Blood, upon the Ground were laid,</L>
+<L>Limbs, that the Gods had often stood to view,</L>
+<L>Form'd by their own, and as exactly true:</L>
+<L><PB N="21" REF="17"/>
+Thus tho' distracted, still she often pray'd,</L>
+<L>Again, she wou'd recall the Words she said,</L>
+<L>Weep her Penates, with her Husband fled,</L>
+<L>Then as she'd seen me, (Tears run down so fast)</L>
+<L>Spread on a Pile, and breathing out my last:</L>
+<L>One while her Death she fondly wou'd expect,</L>
+<L>Again she'd live, but only in respect,</L>
+<L>She'd live, to serve her <HI>Ovid</HI> in his Cares,</L>
+<L>And may she live, live long to ease my Fears.</L>
+<L>Now the <HI>Ionian</HI> Sea all rough we plough,</L>
+<L>Not as the Merchants, but as Strangers do,</L>
+<L>Men that are forc'd unwillingly to go,</L>
+<L>Bless me! what boyst'rous, strange, unheard of Winds,</L>
+<L>Blackens the Sea, and shakes the quicker Sands?</L>
+<L>A Daring Wave, that undistinguisht flys,</L>
+<L>Profane, assaults the very Deities,</L>
+<L>As tho' because, upon our Ship they're made,</L>
+<L>The Gods no other place had ever had,</L>
+<L>No, never thunder'd from their blest Abode.</L>
+<L>The Pilot's Horror in his face we view,</L>
+<L>No hopes of gaining any Port he knew:</L>
+<L><PB N="22" REF="18"/>
+As when a resty Horse, a weak man rides,</L>
+<L>With care a while, the Pamper'd Beast he guides,</L>
+<L>But when he can no more his mouth command,</L>
+<L>He throws the Rains, and rides him to a stand:</L>
+<L>Just so, our Pilot, did our Vessel guide,</L>
+<L>'Till all too little for the Waves, and Tide,</L>
+<L>Then like the Horseman, let's her drive apace,</L>
+<L>Without the Rains with which she guided was.</L>
+<L>And if the God that Thunders from his Den,</L>
+<L>Had not chain'd up an Awkward Wind again,</L>
+<L>Much worse we'ad far'd, for back we went,</L>
+<L>Half to the Place from whence <HI>Augustus</HI> sent,</L>
+<L>Which made me Pray, with earnest Accents too,</L>
+<L>The Gods wou'd hear me, that <HI>Augustus</HI> knew;</L>
+<L>Heare me I cry, for once forgive my Crime,</L>
+<L>One <HI>Jove</HI>'s enough to Thunder at a time,</L>
+<L>Snatch my Departing Life from Gaping Death,</L>
+<L>Give me the Priviledge a while to Breath,</L>
+<L>And if your Power can reverse my Doom,</L>
+<L>Let <HI>Caesar</HI> smile, and I again see <HI>Rome.</HI></L>
+</LG>
+</DIV2>
+<DIV2 TYPE="elegy">
+<PB N="23" REF="18"/>
+<HEAD>ELEGY IV.</HEAD>
+<HEAD TYPE="sub">To his Friend that had been serviceable to him in his Misfortunes: Towards the latter end of the Elegy he com∣pares his Sufferings with <HI>Ulysses</HI>'s, but makes 'em much greater.</HEAD>
+<LG>
+<L>MY better self! whose Friendships run so high,</L>
+<L>My very Life's a Debt, my Friend, to thee,</L>
+<L>Well I remember the sad time, when you,</L>
+<L>Officious in the Service you cou'd do,</L>
+<L>Advis'd me kindly, and would often Sigh,</L>
+<L>And argue still, when I resolv'd to dye:</L>
+<L>You know to whom I speak, I need not name,</L>
+<L>This Sign implies as much, as Letters can:</L>
+<L><PB N="24" REF="19"/>
+Here in the close Recesses of my Soul,</L>
+<L>I keep each Circumstance entirely whole,</L>
+<L>And when Pale Death shall summon me away,</L>
+<L>The latest Instance of the Time I stay,</L>
+<L>I'll breath your Praise, and his commands obey.</L>
+<L>For so much kindness, may the Gods bestow,</L>
+<L>More than you ask, all that the Happy'st know,</L>
+<L>My Fortune still be proud to serve you well,</L>
+<L>Dispence her best, nothing of what I feel:</L>
+<L>But had not Winds detain'd me on the Sea,</L>
+<L>Then I'ad known less, much less perhaps of thee:</L>
+<L>Fam'd <HI>Pirithous,</HI> ne'r knew his <HI>Theseus</HI> Faith,</L>
+<L>Till his last Act had hurry'd him to Death,</L>
+<L>When <HI>Theseus</HI> do's to deepest shades descend,</L>
+<L>And dares the Furies that detain his Friend:</L>
+<L>Nor had great <HI>Pylades</HI> his Friendships shown,</L>
+<L>Had his <HI>Orestes</HI> never Dangers known:</L>
+<L>Had not the <HI>Rutili Eury'lus</HI> slain,</L>
+<L>No Story of his <HI>Nisus</HI> wou'd remain:</L>
+<L>As Gold refin'd by Fire, is purer far,</L>
+<L>So Friends by being try'd more certain are,</L>
+<L><PB N="25" REF="19"/>
+While Fortune drops her use of Wings, and stays,</L>
+<L>Always appearing in an easie Dress,</L>
+<L>Airy, yet constant, when less free, still good,</L>
+<L>While thus, her Fav'rite's lifted by the Croud,</L>
+<L>Happy, he lives the general Applause,</L>
+<L>All is admired that he says, or does,</L>
+<L>Friends are so many, that he only fears,</L>
+<L>He shall be less his own, and too much theirs,</L>
+<L>When Fortune jealous of her Constancy,</L>
+<L>Assumes her Wings, and shows that she can fly,</L>
+<L>Vain were his Fears of all the flatt'ring Crew,</L>
+<L>Not one, my Friend, that stays or loves like you,</L>
+<L>Regardless, as a Man unknown, he goes,</L>
+<L>And he that cring'd but yesterday, scarce bows:</L>
+<L>This from th' Unfortunate, I early drew,</L>
+<L>But little thought, that I shou'd prove it true,</L>
+<L>Not four I'ad left, that wou'd my Dangers share,</L>
+<L>Th' other, not mine, they Fortune's were,</L>
+<L>Let this ye Pious few, Compassion move,</L>
+<L>Assist, nor be afraid my Friends, to love,</L>
+<L>No angry Being will believe you sin,</L>
+<L>Or from his Heav'n curse your good Design,</L>
+<L><PB N="26" REF="20"/>
+<HI>Caesar</HI> he lov'd, in Enemies, a Soul like this,</L>
+<L>Nor can it please him in his Subjects less,</L>
+<L>My Case is better too, no Plots I've laid,</L>
+<L>My Folly only, has my ease betray'd,</L>
+<L>Then Pray those Guardians that our Earth attend,</L>
+<L>They'd Punish less, when we their Pow'r offend.</L>
+<L>If any one wou'd know my present Grief,</L>
+<L>It's so Prodigious, it is past Belief,</L>
+<L>The Stars are, than my Wrongs in number less,</L>
+<L>Nor can the Attoms that i'th' Sun encrease,</L>
+<L>Distinctly, all the wond'rous Tale express.</L>
+<L>So strange, so terrible the thousands seem,</L>
+<L>They're more than e're the Melancholy Dream,</L>
+<L>Part, tho' uppermost, are yet supprest,</L>
+<L>And never must go farther than my Breast:</L>
+<L>Ye Poets, that <HI>Ʋlysses</HI> wrongs recite,</L>
+<L>Instead of his, your <HI>Ovid</HI>'s Suff'rings write:</L>
+<L>'Tis true, he spent a certain Term of Years,</L>
+<L>And wandring bent beneath some Cares,</L>
+<L>Between <HI>Dulichium,</HI> and <HI>Troy</HI> he steer'd,</L>
+<L>This was no Distance to be so much fear'd,</L>
+<L><PB N="27" REF="20"/>
+But we, in widest Seas so far from Home,</L>
+<L>Must fail, where Stars are seen before unknown:</L>
+<L>He always had a faithful, certain Band,</L>
+<L>A happy number at his sole Command,</L>
+<L>So much I differ from <HI>Ʋlysses</HI> here,</L>
+<L>That of the many, I han't one, so near:</L>
+<L>An Exile from a pleasant Country sent,</L>
+<L>Had it been <HI>Ithaca,</HI> I'd been content,</L>
+<L><HI>Dulichium</HI> had scarce been Punishment,</L>
+<L>But <HI>Rome!</HI> from <HI>Rome,</HI> is more than Banishment!</L>
+<L>From seven Hills she views remotest Lands,</L>
+<L>Awful, with so much Majesty the stands,</L>
+<L>That highest Gods have made her their Retreat,</L>
+<L>And <HI>Rome</HI> next Heaven, sure's the sweetest Seat.</L>
+<L><HI>Ʋlysses</HI> Body, long inur'd to war,</L>
+<L>Knew nothing of the Ills, the weaker fear,</L>
+<L>So different a Mould from his, is mine,</L>
+<L>I've often shrunk at what I've only seen,</L>
+<L>Instead of War, my Books, my Care have been.</L>
+<L>While <HI>Jove</HI> he breaks his Thunder on my Head,</L>
+<L>Had I more Friends, in vain wou'd be their Aid;</L>
+<L><PB N="28" REF="21"/>
+A Goddess Guarded him with nicest care,</L>
+<L>Snatch'd him from all the Dangers that were near.</L>
+<L>And since he's less, that Governs in the Seas,</L>
+<L>Than he that Governs in the highest Skie's,</L>
+<L>Much better was his Fate, my Friend, than mine,</L>
+<L><HI>Jove</HI> ruins me, while <HI>Neptune</HI> threatn'd him:</L>
+<L>But then, think how the greatest part is made,</L>
+<L>Only suppos'd, the half he never had,</L>
+<L>My Griefs are all too certain, much too plain,</L>
+<L>No Fable do's embellish ought that's mine.</L>
+<L>Besides: At last he reach'd his Houshold Gods,</L>
+<L>Pray'd his Penates in their old Abodes,</L>
+<L>But I can never hope <HI>Ʋlysses</HI> Place,</L>
+<L>Till <HI>Caesar</HI> smiles, and Heaven thunders less.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="elegy">
+<PB N="29" REF="21" MS="y"/>
+<HEAD>ELEGY V.</HEAD>
+<HEAD TYPE="sub">He writes to his Wife, and takes Oc∣casion to Commend the Constancy of her Affection, Compares her with the best of her Sex, but excuses his Inability in Writing, while he is still Wrack'd by his Misfortunes.</HEAD>
+<LG>
+<L><HI>APollo Lydia</HI> lov'd, but not as I,</L>
+<L>My Dearest Wife, have always, Child, lov'd thee,</L>
+<L><HI>Philetus</HI> tho' his Nymph, and Song, Divine,</L>
+<L>Lov'd not his <HI>Battis,</HI> with a Love like mine,</L>
+<L>You so entirely have each part of me,</L>
+<L>That my Affection a'most merits thee,</L>
+<L>But ah my Injuries! and yet I find,</L>
+<L>You smile, my Dear, tho' all the World's unkind,</L>
+<L><PB N="30" REF="22"/>
+Your Prudence guards me from severest Foes,</L>
+<L>That think, my Freedom e'nt enough to lose,</L>
+<L>Men that wou'd Rob me of my Life, Estate,</L>
+<L>And all the Goods I ever valu'd yet.</L>
+<L>As a Devouring Wolf, by Hunger Led,</L>
+<L>Ranges the Field, and eager thirsts for Blood,</L>
+<L>When he espies, Ungarded, from afar,</L>
+<L>Some Sheep, that have escap'd their Shepherd' care,</L>
+<L>He takes his Prey, nor will the weakest spare,</L>
+<L>Or as a Vulture Hovering to feize,</L>
+<L>Some wretched Carkass, that unbury'd lies,</L>
+<L>So did these strive, by Force to ruin me,</L>
+<L>While guarded still on e'ry side by Thee,</L>
+<L><HI>Hector</HI>'s <HI>Andromache,</HI> of Old so Fam'd,</L>
+<L>Must not be mention'd, Dear, when you are nam'd,</L>
+<L>She wept her <HI>Hector,</HI> whom <HI>Achilles</HI> slew,</L>
+<L>Paid the accustom'd Rites that Widdows do,</L>
+<L>But living, never cou'd oblige like You.</L>
+<L>Good <HI>Laodamia</HI> they so much Boast,</L>
+<L>Was never known till she her Husband lost.</L>
+<L><PB N="31" REF="22"/>
+Had you been <HI>Homer</HI>'s Wife, so good a Theme,</L>
+<L>Had made his Lines, tho' strong, more perfect seem,</L>
+<L><HI>Penelope</HI> her self much less had own'd,</L>
+<L>She at the most, had been but second found,</L>
+<L>Whether indulgent Nature gave you this,</L>
+<L>Fond to Compose fo great, exact a piece,</L>
+<L>Or if a less than Heaven we admit,</L>
+<L>Some Pious Matron made you so compleat,</L>
+<L>I cannot tell, so very great's your share,</L>
+<L>My wrongs are fewer, than your Virtues are,</L>
+<L>Alas, my Verse is all too weak, too small my Skill,</L>
+<L>To paint the thousand Graces I wou'd tell,</L>
+<L>Was but my Mind as undisturb'd, and free,</L>
+<L>Easie, my Dear, as you have known it be,</L>
+<L>Generous, I'd give you then the highest Place,</L>
+<L>Set you with Heroins of the nicest Race,</L>
+<L>And make the wondring World, at once confess,</L>
+<L>The greatest, and the best of them, much less,</L>
+<L>And tho' my Verse this lustre cannot give,</L>
+<L>Yet in my Numbers you shall Ages live.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="elegy">
+<PB N="32" REF="23"/>
+<HEAD>ELEGY VI.</HEAD>
+<HEAD TYPE="sub">To his Friends that us'd to wear his Picture, engraven upon Golden Plates.</HEAD>
+<LG>
+<L>YOu that my Picture fondly us'd to wear,</L>
+<L>That Instance of your Friendship you may spare,</L>
+<L>However, take the Ornaments away,</L>
+<L>The Ivy that I wore, is much too gay,</L>
+<L>Such a Poetick, Airy Garb as that,</L>
+<L>Becomes the Happy only, and the Great,</L>
+<L>Whose better Stars still guard 'em from ill Fate,</L>
+<L>Not such as I, that sink beneath the weight:</L>
+<L>Methinks I see some Friend, concern'dly stand,</L>
+<L>Viewing the Golden Image in his Hand,</L>
+<L><PB N="33" REF="23"/>
+And often crying as he walks along,</L>
+<L>Heavens! how far my Dear Companion's gone!</L>
+<L>'Tis kind, but such their <HI>Ovid</HI> better see,</L>
+<L>When they behold him in his Poetry,</L>
+<L>The lively'st Image that the Wretched know,</L>
+<L>This paints themselves, and their Misfortunes too,</L>
+<L>Read my chang'd shapes, tho' there is scarce a thought,</L>
+<L>Good as design'd, and finisht as it ought,</L>
+<L>No sooner was the fatal Sentence Read,</L>
+<L>But all my Art, was with my Freedom fled,</L>
+<L>Imperfect thus, what I'ad with pains begun,</L>
+<L>I burnt the scatter'd Papers that I'ad done,</L>
+<L>As <HI>Thestius,</HI> is said, to burn her Son.</L>
+<L>And yet methoughts 'twas very hard, that they,</L>
+<L>Shou'd feel the flames, that cou'd not disobey,</L>
+<L>But so it was, partly indeed, in spite,</L>
+<L>To the first Muse, that flatter'd me to write,</L>
+<L>Till by Degrees, the Tribe my Ruin prove,</L>
+<L>Falsly perswading me to write of Love,</L>
+<L>And partly, 'cause they rude, and naked lay,</L>
+<L>Artless, and nothing what they were to be,</L>
+<L><PB N="34" REF="24"/>
+But since they've stole the Press, may they succeed,</L>
+<L>Admonish, and Delight my Friends, that Read,</L>
+<L>Tho' Criticks, they may damn 'em by a Law,</L>
+<L>They shou'd be tender, that the Reason know,</L>
+<L>As when an Artist wants the last best Stroak,</L>
+<L>Tho' he with Pains may have abundance struck,</L>
+<L>His great Design, must yet unhappy look,</L>
+<L>Thus all my Lines, the latest Pencil want,</L>
+<L>Still to refine, before abroad they're sent,</L>
+<L>But place these Verses, with the Foremost Line,</L>
+<L>And these will show they're born a'fore their time▪</L>
+<L>Be kind and gentle, whosoe'r thou art,</L>
+<L>Don't you too nicely view an Orphan's Part,</L>
+<L>Snatch't from his Parent's Funeral in hast,</L>
+<L>Kickt into th' World unlick't, by much too Fast,</L>
+<L>What tho' we Judgment want, we've Innocence,</L>
+<L>And this in Infants is a good Defence,</L>
+<L>The Poet's Muse in better Times may smile,</L>
+<L>And he your Kindness own, and you his Skill.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="elegy">
+<PB N="35" REF="24"/>
+<HEAD>ELEGY VII.</HEAD>
+<HEAD TYPE="sub">He Complains of an Acquaintance, that after a long Familiarity, had given him some reason to suspect his Friendship.</HEAD>
+<LG>
+<L>BAck from the Seas shall Rolling Waters run,</L>
+<L>And visit Fountains where they first begun▪</L>
+<L>The Char'oteer shall drive an unknown way,</L>
+<L>Rise in the <HI>West,</HI> and change the present day:</L>
+<L>The Earth admit of Stars all spangl'd be,</L>
+<L>And Ploughs shall make deep Furrows in the Sky▪</L>
+<L>The Elements shall change their wonted state,</L>
+<L>Water shall burn, and Fire like Water, wet:</L>
+<L><PB N="36" REF="25"/>
+All this, tho' strange, I Prophesie, since you</L>
+<L>Prove false, I've known so long, and thought so true,</L>
+<L>Lord! That a Man cou'd so regardless stand!</L>
+<L>Foolishly Fearful, to assist his Friend,</L>
+<L>Nay, not so much as decently to sigh,</L>
+<L>Or show the common Signs of Sympathy,</L>
+<L>Was such a strange, unheard Stupidity!</L>
+<L>That you, the Sacred Name of Friend shou'd hate,</L>
+<L>And all the Offices of Kindness quit!</L>
+<L>What if you had a well-bred Visit paid?</L>
+<L>And lookt, and talkt, as other Courtiers did,</L>
+<L>Offer'd some Reasons to allay my Grief,</L>
+<L>This had seem'd kind, and that is some Relief,</L>
+<L>Tho' your sincerity cou'd give no Tears,</L>
+<L>You might have Flatter'd with affected Pray'rs,</L>
+<L>However, at the least, you might have say'd,</L>
+<L>Farewell, I'm sorry, as the People did,</L>
+<L>Some that were Strangers, and no ways alli'd,</L>
+<L>Did more than this, affectionately cry'd,</L>
+<L>Then, how much more, might I expect from you▪</L>
+<L>That call'd me Friend, and all my Secrets knew,</L>
+<L><PB N="37" REF="25"/>
+The Dear Companion of my tender Hours,</L>
+<L>My Goods, my self, my very Soul was yours,</L>
+<L>How blest I was, when <HI>Rome</HI> first showed me you,</L>
+<L>Brought us acquainted, made me think you true,</L>
+<L>Has your repeated Oaths no force to bind?</L>
+<L>All general, and common as the Wind,</L>
+<L>Sure <HI>Rome,</HI> the great good Place I leave,</L>
+<L>Cou'd ne'r nurse you, no Monsters she can have,</L>
+<L>Rather some Rock within the <HI>Scythian</HI> Sea,</L>
+<L>Damn'd for a thousand Murders e'ery day,</L>
+<L>Where Female Tygers Nurst you at their Breast,</L>
+<L>Found you a Man, but Chang'd you to a Beast.</L>
+<L>But still there's one way left, and only one,</L>
+<L>Freely to own the Injuri's you'ave done,</L>
+<L>By this, tho' late, you may oblige me so,</L>
+<L>I may commend you, as I blame you now.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="elegy">
+<PB N="38" REF="26"/>
+<HEAD>ELEGY VIII.</HEAD>
+<HEAD TYPE="sub">To his Friend.</HEAD>
+<HEAD TYPE="sub">He shows him the Levity of the Vul∣gar, how meanly they attend upon Fortune, and withdraw their Ser∣vices in Affliction: He takes Oc∣casion to Commend his Friend, for several Qualifications, and concludes the Elegy with an Instance of his Friendship.</HEAD>
+<LG>
+<L>MAy you live long, my Friend, and always well,</L>
+<L>Know nothing of the Ills the wretched Feel,</L>
+<L>And tho' my Pray'rs, for me, the Gods despise,</L>
+<L>The same, for you, may Mount a Sacrifice.</L>
+<L><PB N="39" REF="26"/>
+While Fortune's yours, a Croud will hov'ring be,</L>
+<L>Fondly Commending all they hear, and see;</L>
+<L>No sooner do's the Fickle Goddess Frown▪</L>
+<L>But all your Parasites, my Friend, are gone:</L>
+<L>As Doves for new built Houses do prepare,</L>
+<L>While Ruin'd Towers all neglected are,</L>
+<L>As gath'ring Ants to crouded Barns do come,</L>
+<L>So do's the Vulgar to the Richest Run:</L>
+<L>As in the Sun your Sha dow do's Attend,</L>
+<L>And Walks, and Turns, and Cringes as you Bend,</L>
+<L>But when a Cloud appears, the Part's no more,</L>
+<L>Tho' it seem'd more than half of you, before▪</L>
+<L>So vulgar Souls will Dance to Fortune's Light,</L>
+<L>A Cloud once spread, they Vanish out of sight.</L>
+<L>Heav'n knows my Soul! I very often sigh,</L>
+<L>And passionately Pray the Gods for Thee,</L>
+<L>That these may all, my Friend, seem false to you,</L>
+<L>Tho' I by sad Experience find 'em True:</L>
+<L>While I was Prosperous, as others great,</L>
+<L>What Crouds, for Favours, wou'd my House beset,</L>
+<L><PB N="40" REF="27"/>
+The Building struck, the Wary People Fly,</L>
+<L>By one consent, avoiding what was nigh,</L>
+<L>Nor do I Wonder, that they Thunder Fear,</L>
+<L>Whose fi'ry Bolts, the strongest eas'ly Tear:</L>
+<L>Yet <HI>Caesar,</HI> in adversity has said,</L>
+<L>That Man's the best that by his Friend has stay'd:</L>
+<L>When good <HI>Orestes</HI> Worth fierce <HI>Thoas</HI> knew,</L>
+<L>He Prais'd the Love in <HI>Pylades</HI> he saw:</L>
+<L><HI>Hector,</HI> he often <HI>Patroclus</HI> approv'd,</L>
+<L>Tho' he his Enemy <HI>Achilles</HI> lov'd:</L>
+<L>When <HI>Theseus</HI> waited on his Friend in Death,</L>
+<L><HI>Pluto</HI> cou'd scarce believe so great a Truth,</L>
+<L>Convinc'd, he Mourn'd, and pitty'd him that Fell,</L>
+<L>Crying himself, to see them love so well.</L>
+<L>Alas, how Few my just Complaints, do move!</L>
+<L>How few in <HI>Rome,</HI> like those of old, that Love!</L>
+<L>So vast my Grief, so very much my Fears!</L>
+<L>So Boundless are my ever falling Tears!</L>
+<L>That did not you the mighty Torrent stay,</L>
+<L>The Gath'ring Flood wou'd Threaten like a Sea,</L>
+<L><PB N="41" REF="27"/>
+You that have Courage to be Good, that Dare,</L>
+<L>In greatest Dangers, for your Friend appear,</L>
+<L>Not meanly mov'd, as sordid Spirits are.</L>
+<L>Nor is your Judgment than your Courage less,</L>
+<L>Your Eloquence as well as Virtues Please,</L>
+<L>When you Defend, the Nicest must Applaud,</L>
+<L>Your Cause, your Words, your Thoughts so very good,</L>
+<L>Eas'ly I can, your Growing Fortune Read,</L>
+<L>Some Greatness yet, as I have often sayd,</L>
+<L>No superstitious Omens tell me this,</L>
+<L>Tokens that fond, mistaken Zealots please,</L>
+<L>My Reason's all the Augury I know,</L>
+<L>By this, no other Prodigy, I go;</L>
+<L>By this instructed, Happiness I give,</L>
+<L>Joy of the Present, and the Future Goods you'll have,</L>
+<L>The small Pretence I early had to Wit,</L>
+<L>Ruin'd my Fortunes when I came to Write;</L>
+<L>Your better Arts, not like my Trifling Skill,</L>
+<L>Has rais'd your Honour, and must raise it still;</L>
+<L><PB N="42" REF="28"/>
+But yet you know, I ne'er was ill inclin'd,</L>
+<L>My Thoughts were Salli's of a youthful Mind;</L>
+<L>My Manners were not like my Verses, loose,</L>
+<L>And Love, I only for Diversion Choose,</L>
+<L>Then since you can excuse me, justly too,</L>
+<L>Defend me still, as I have heard you do.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="elegy">
+<HEAD>ELEGY IX.</HEAD>
+<HEAD TYPE="sub">In Praise of his Ship, with some short Account of his Voyage.</HEAD>
+<LG>
+<L>JUstly I Praise my Ship, so good, so fine,</L>
+<L>She bears <HI>Minerva</HI>'s Name, as well as mine,</L>
+<L>So apt to sail, she moves with any Wind,</L>
+<L>And hasty, leaves deserted Shores behind,</L>
+<L>Proudly she scorns, but just to overcome,</L>
+<L>But reaches those that long have been from Home,</L>
+<L><PB N="43" REF="28"/>
+Defy's the strongest Billows, when they Beat,</L>
+<L>And Foaming, all their wonted Force repeat:</L>
+<L>I Boarded her, when I to <HI>Corinth</HI> came,</L>
+<L>And long without a Change I kept the same;</L>
+<L>Thro' many Dangers I have safely steer'd,</L>
+<L>Always entreating <HI>Pallas,</HI> when I feard,</L>
+<L>And now I hope to Make the distant Land,</L>
+<L>The <HI>Getick</HI> Coast, <HI>Augustus</HI> do's command;</L>
+<L>She bore me once, through boyst'rous, troubled Seas,</L>
+<L>A long, and mighty dang'rous Way to Pass,</L>
+<L>When standing to the Left, (we shunn'd before)</L>
+<L>With much adoe we made the <HI>Imbrian</HI> shore,</L>
+<L>Then with a gentle Wind, and calmer Sea,</L>
+<L>She eas'ly Touch'd at <HI>Samos</HI> in her Way;</L>
+<L>O' th' other hand, there stands a lofty Wood,</L>
+<L>Fam'd for its Growth, and for it's neighb'ring Flood,</L>
+<L>Here I the wide <HI>Bistonian</HI> Fields survey,</L>
+<L>Walking a Foot, while she puts off to Sea,</L>
+<L>From <HI>Hellespont, Dardania</HI> she Gain'd,</L>
+<L>And <HI>Lampsacus,</HI> for her <HI>Priapus</HI> Fam'd,</L>
+<L><PB N="44" REF="29"/>
+Then to the Seas, the same <HI>Leander</HI> Crosst,</L>
+<L>When Beauteous <HI>Hero</HI> urg'd him to be Lost,</L>
+<L>From hence, she had Fair <HI>Cyzicon</HI> in view,</L>
+<L>So famous for the Arts her People knew;</L>
+<L>Thence to <HI>Byzantium</HI> she Bore away,</L>
+<L>Where we behold two Seas within one Bay,</L>
+<L>And now, <HI>Minerva,</HI> grant that she may Pass,</L>
+<L>Those Moving Isles that lye upon the Seas,</L>
+<L>Next let her reach the <HI>Thynnian</HI> Bay, and Fall,</L>
+<L>'Till she comes near <HI>Anchialus</HI> high Wall,</L>
+<L>Then she <HI>Mesembria,</HI> and <HI>Odesus</HI> must Make,</L>
+<L>And view some Towers for their <HI>Bacchus</HI> sake,</L>
+<L>And those <HI>Alcathous,</HI> when Wandring, Made,</L>
+<L>With all the Houshold Gods he had,</L>
+<L>So to <HI>Miletus,</HI> where's the Place I'm sent,</L>
+<L>To end a weary Life in Banishment,</L>
+<L>And if I safely tread th' expected shore,</L>
+<L>I'll Sacrifice a Lamb to <HI>Pallas</HI> Pow'r,</L>
+<L>Heav'n knows we cann't at this time Compass more.</L>
+<L>And you two Brothers, you this Island Prays,</L>
+<L>Conduct us in our double, diff'rent ways,</L>
+<L><PB N="45" REF="29"/>
+Let one the <HI>Euxine</HI> make with happy Gales,</L>
+<L>While the other to <HI>Bistonia</HI> sails,</L>
+<L>Let Winds Convey us to the Place we wou'd,</L>
+<L>Tho' diff'rent both, yet both have very good.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="elegy">
+<HEAD>ELEGY X.</HEAD>
+<HEAD TYPE="sub">This is an Apology for the fore-going Elegies, the whole Book being made during the Fatigue of his Travels, which he urges in Excuse.</HEAD>
+<LG>
+<L>THere's not a Letter, Reader, but I writ,</L>
+<L>Unhappily pursuing my ill Fate;</L>
+<L>I writ it most in cold <HI>December</HI>'s Frost,</L>
+<L>While the <HI>Adriatick</HI> with her Billows Tosst,</L>
+<L>The rest I Finish'd when the <HI>Isthmus</HI> passt,</L>
+<L>We all took Ship again, and sail'd in haste,</L>
+<L><PB N="46" REF="30"/>
+So odd a Thought, amaz'd the <HI>Cyclades,</HI></L>
+<L>To see a Poet writing on the Seas;</L>
+<L>I Wonder'd too, the Patience of my Muse,</L>
+<L>That in a Storm, she shou'd not then Refuse,</L>
+<L>The Waves, alas, had never been her use.</L>
+<L>The World may call it Madness, what they please,</L>
+<L>But this I know, my Verses gave me ease,</L>
+<L>Tho' Threatning Signs they dreadfully appear'd,</L>
+<L>And Waters in Disorder show'd they Fear'd,</L>
+<L>Sometimes the Ship seem'd Bury'd in the Sea,</L>
+<L>Still I writ on, the very Lines you see;</L>
+<L>When <HI>Boreas</HI> with all his Force prevails,</L>
+<L>Stretches our Cables, Ruffling all our Sails,</L>
+<L>While Waters, parting by the Storm's com∣mand,</L>
+<L>Roll into Hills, like highest Heaps of Sand,</L>
+<L>Or rather, Taller Mountains on the Land.</L>
+<L>The Pilot 'ffrighted, thoughtless of his Art,</L>
+<L>Begins to Pray, a very awkard Part;</L>
+<L>With much a doe, half words he stammering said,</L>
+<L>And Promis'd all the Gods he wou'd be good;</L>
+<L><PB N="47" REF="30"/>
+The Gods, regardless, wou'd not take his Word,</L>
+<L>Nor any Comfort for his Pray'rs afford:</L>
+<L>All things lookt Ghastly that I heard, and saw,</L>
+<L>While still Death's Image kept within my view,</L>
+<L>When various Thoughts were strugling in my Mind,</L>
+<L>I Pray'd, I Fear'd▪ my Fears, my Pray'rs inclin'd,</L>
+<L>One while I'd Pray to make the distant Land,</L>
+<L>Then I'de in haste recall that Pray'r again,</L>
+<L>Tho' Heaven knows, I fear'd the Winds and See,</L>
+<L>Yet still the Land, seem'd fiercer much than they,</L>
+<L>At Home, where Tempests only make a Noise,</L>
+<L>There, ah there! at <HI>Rome,</HI> I 'ad Enemies,</L>
+<L>What must I then in unknown Nations find,</L>
+<L>Monsters in Nature, rude, il-bred, unkind,</L>
+<L>These Terms too mild, and favourably run,</L>
+<L>For Creatures, only in their Likeness, Men,</L>
+<L>Whose chiefest Art's a barbarous Delight,</L>
+<L>Some knowledge in the Battels that they Fight:</L>
+<L>Besides, to these with Disrepute I go,</L>
+<L>Banish'd by <HI>Caesar,</HI> so at Home a Foe:</L>
+<L><PB N="48" REF="31"/>
+These Thoughts, a Storm within my Breast had made,</L>
+<L>The other might, this never cou'd be laid.</L>
+<L>Now Reader, if you're generous, and good,</L>
+<L>If you can Pardon, as a Reader shou'd,</L>
+<L>My Faults in this Disorder you will Pass,</L>
+<L>Think on the Time, each Circumstance of Place,</L>
+<L>Think too, that I have more Correctly Writ,</L>
+<L>When safe on Land, in Arbours I have sate,</L>
+<L>My Body ne'er was us'd to Frosts like these,</L>
+<L>Nor was I e'er in Winter on the Seas,</L>
+<L>And now I'm there by much to soon I find,</L>
+<L>But grant ye Gods, you Gods that once were Kind,</L>
+<L>The Winds, and Frost, may with my Verses end.</L>
+</LG>
+</DIV2>
+<TRAILER>The End of the First Book.</TRAILER>
+</DIV1>
+<DIV1 TYPE="poems">
+<PB N="49" REF="31"/>
+<HEAD>The Second BOOK OF Ovid de Tristibus IMITATED.</HEAD>
+<DIV2 TYPE="poem">
+<HEAD><HI>To</HI> Augustus Caesar.</HEAD>
+<LG>
+<L>URg'd by my Fate, I write, again I Try,</L>
+<L>As tho' the Muses had not Ruin'd me,</L>
+<L>'Twas they Perswaded, <HI>Caesar,</HI> what you Read,</L>
+<L>And thought my Life was like my Verses, lewd;</L>
+<L>Had I been Wise, I 'ad Hated 'em at first,</L>
+<L>The Learned Sisters, as the Poets boast,</L>
+<L>A Rhiming Crew, their smiles, like a Disease,</L>
+<L>Quickly Confound their very Votary's;</L>
+<L><PB N="50" REF="32"/>
+This I have often known, and yet possest,</L>
+<L>To these I fly, of these alone seek Rest:</L>
+<L>So beaten Fencers, Challenges repeat,</L>
+<L>And give their Mangl'd Bodies to be hit,</L>
+<L>So Shipwrack't Vessels, plough the swelling Main,</L>
+<L>And dare the very self-same Rocks again:</L>
+<L>Less may my Dangers be, rather like him,</L>
+<L>He that was heal'd and wounded with the same,</L>
+<L>My Muse that mov'd the great <HI>Augustus</HI> so,</L>
+<L>May she the same <HI>Augustus</HI> soften now,</L>
+<L>The Gods, they say, in numbers soonest hear,</L>
+<L>And always answer first a Poet's Pray'r,</L>
+<L>So, <HI>Caesar</HI> made the <HI>Italian</HI> Mat<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ons bow,</L>
+<L>In Numbers offer, what their <HI>Opis</HI> knew;</L>
+<L>So, <HI>Phoebus</HI> was address'd in aptest Plays,</L>
+<L>Nor did <HI>Apollo</HI> scorn the Poet's Bays,</L>
+<L>By these Examples, <HI>Caesar,</HI> may you go,</L>
+<L>If it's too much to pardon, milder grow,</L>
+<L>Should I deny your Justice, I shou'd sin,</L>
+<L>And impudently move your Wrath again,</L>
+<L>But had not I, offending, urg'd you so,</L>
+<L>You then had wanted to forgive me now,</L>
+<L><PB N="51" REF="32"/>
+Shou'd <HI>Jove</HI> as often thunder, as we sin,</L>
+<L>Unarm'd, the God, a thousand times had bin;</L>
+<L>No, when his Thunder's gone, the Noise no more,</L>
+<L>The Air is purer than it was before,</L>
+<L>By this, he's Father of the Gods and Men,</L>
+<L>By this, he lives a Long and Happy Reign,</L>
+<L><HI>Caesar,</HI> like him, is <HI>Pater Patriae,</HI></L>
+<L><HI>Caesar</HI> commands, and thunders too as he,</L>
+<L>Then like him too, be absolutely good,</L>
+<L>Pardon your <HI>Ovid,</HI> as the God he wou'd,</L>
+<L>Nor yet less good, than great, do's <HI>Caesar</HI> live,</L>
+<L>So many Instances of both we have.</L>
+<L>Often the <HI>Parthians</HI> have own'd you kind,</L>
+<L>So God-like is the Temper of your Mind,</L>
+<L>You Pardon'd, tho' again the People sinn'd,</L>
+<L>Riches, and Honours, I have known you give,</L>
+<L>To Enemies, that wou'd not have you live,</L>
+<L>You scorn the Methods Meaner Princes know,</L>
+<L>By better Arts you can Oblige us so,</L>
+<L>That all must Love, as well as Fear you too.</L>
+<L>That day that War has threatned all before,</L>
+<L>That very day, your Anger has been o're,</L>
+<L><PB N="52" REF="33"/>
+Both Sides to th' Temple have their Offerings brought,</L>
+<L>The Conquer'd pleas'd, so brave the Victor fought,</L>
+<L>And as your Souldier 's fond to overcome,</L>
+<L>Others by yours, are Proud to be out-done:</L>
+<L>My Case is better than a Foe's appears,</L>
+<L>I make no Plots, nor cause you open Wars,</L>
+<L>I Swear by Heav'n, and every Blest Abode,</L>
+<L>By <HI>Caesar</HI>'s dearest self, a Present God,</L>
+<L>My Soul do's such Obedience afford,</L>
+<L>Intirely yours, it knows no other Lord;</L>
+<L>I've wisht that you might late to Heaven Go,</L>
+<L>When Life, through Age, grew Troublesome below,</L>
+<L>When you were weary of an Empire here,</L>
+<L>The Gods for your Reception might Prepare,</L>
+<L>And Place <HI>Augustus</HI> in an Empire there:</L>
+<L>As often as my Gifts the Altars had,</L>
+<L>Witness, ye Gods! this was the Pray'r I made.</L>
+<L>My Books, tho' one of them became my Crime,</L>
+<L>They most, nay That, do's often <HI>Caesar</HI> Name;</L>
+<L>By this I my Obedience gave,</L>
+<L>Not that you, Lustre from my Lines cou'd have,</L>
+<L><PB N="53" REF="33"/>
+To such a Height no Poet e're cou'd Fly,</L>
+<L>Yet all that Write have liberty to try;</L>
+<L><HI>Jove</HI> can't be greater, nor his Acts more good,</L>
+<L>Yet Praise in Verse has often pleas'd the God,</L>
+<L>He lov'd the Song, and own'd the Story true,</L>
+<L>How Gyants <HI>Pelion</HI> on <HI>Ossa</HI> threw,</L>
+<L>Such Beauty in the Thought, so strong the Sense,</L>
+<L>Poets have had a Privilege e're since,</L>
+<L>The Gods a thousand Bullocks they have had,</L>
+<L>All bleeding fresh upon their Altars laid,</L>
+<L>And yet tho' us'd to Plenty, when a Lamb,</L>
+<L>A single Offering to their Temple came,</L>
+<L>The Gods wou'd smile, and take the Sacrifice,</L>
+<L>For this alone, they'd Bless their Votary's:</L>
+<L>Unlucky Chance! or rather damn'd Design,</L>
+<L>Who e're he was at first, was so unkind,</L>
+<L>To read my Verses to so chast an Ear,</L>
+<L>Good as the yet unthinking Virgins are,</L>
+<L>That don't so much as Tremble in a Dream,</L>
+<L>Or Grasp the Image of the Youth they've seen▪</L>
+<L>My looser Lines have such Impressions made,</L>
+<L>You think the Present, as the other, Bad;</L>
+<L><PB N="54" REF="34"/>
+Some jealous Favorite invented this,</L>
+<L>Thus to undoe me by an Artifice;</L>
+<L>Methinks I hear how spitefully he read,</L>
+<L>What envious Comments on my Words he made,</L>
+<L>How he wou'd blush, as Counterfeits they faint;</L>
+<L>Good Lord! a Man shou'd be so impudent!</L>
+<L>This is not strange, since e'ery one approves,</L>
+<L>The happy Man the great <HI>Augustus</HI> loves,</L>
+<L>But surely damns, unheard, a Person's Crime,</L>
+<L><HI>Augustus</HI> disapproving, thinks a Sin;</L>
+<L>Nay, I can hate my very self, and do,</L>
+<L>To think I shou'd deserve a Frown from you,</L>
+<L>To think I so much Goodness shou'd provoke,</L>
+<L>To please a Humour that my Fancy took:</L>
+<L>To see my old Acquaintance, how they run,</L>
+<L>As I'ad been mad, or some Infection known,</L>
+<L>As when a weakn'd House at last gives way,</L>
+<L>The Parts affected bear the most, they say,</L>
+<L>So Fortune fickle, when she changes shape,</L>
+<L>All things disorder'd, and unhappy look.</L>
+<L>It is not many Months ago, since you,</L>
+<L>My Life, and Manners, and my Bus'ness knew,</L>
+<L><PB N="55" REF="34"/>
+Often I've pleaded the Defendant's Part,</L>
+<L>Not without Reputation, and some Art,</L>
+<L>And tho' Superiour Judges have lookt on,</L>
+<L>They've all approv'd of what the Lawyer's done▪</L>
+<L>In private things I've wholly been in trust,</L>
+<L>When both sides pleas'd have own'd me very just▪</L>
+<L>Ah me! that I shou'd only now repeat,</L>
+<L><HI>Caesar</HI> was kind, and I was fortunate,</L>
+<L>Now the reverse of what I was, I sink</L>
+<L>Beneath a weight too terrible to think,</L>
+<L>The thousand Waves that other Vessels miss,</L>
+<L>By one consent, on mine, together press:</L>
+<L>Why did I see? why did these Eyes behold?</L>
+<L>Why was a Fault unhappily thus told?</L>
+<L><HI>Actaeon</HI> so, <HI>Diana</HI> had in view,</L>
+<L>And only seeing her he perish'd too;</L>
+<L>No vile Design the angry Nymph cou'd know,</L>
+<L><HI>Actaeon</HI>'s only Crime was, that he saw,</L>
+<L>For this he undistinguish'd falls a Prey,</L>
+<L>Torn by his Dogs, that always did obey:</L>
+<L>So when we Heav'n offend, tho' but by chance,</L>
+<L>The Gods sometimes won't pardon the Offence:</L>
+<L><PB N="56" REF="35"/>
+That Day, that Error led me from the Right,</L>
+<L>And Drew me to a VVay remote from it,</L>
+<L>That very day, my House but small, yet Good,</L>
+<L>Was lost, and ruin'd, tho' the Building stood,</L>
+<L>Yet not so small, but Honours she cou'd Boast,</L>
+<L>A long Descent from many Ages past.</L>
+<L>Not infamously low, nor yet so high,</L>
+<L>To crack of Riches with our Pedigree,</L>
+<L>A safer way 'twixt both, by much there was,</L>
+<L>Envy, nor Pity e'er tormenting us,</L>
+<L>But had our Ancient Lands been lower yet,</L>
+<L>I justly might expected to be'en great,</L>
+<L>My Self an Ample Fortune by my Wit.</L>
+<L>Tho' my late Lines are loose, and wanton Read,</L>
+<L>While Nature prompted, and my Passion sway'd,</L>
+<L>The Thoughts are manly, and the Verses good,</L>
+<L>Smooth are my Numbers, and my Sence entire,</L>
+<L>Melting the Words, and apt for soft Desire,</L>
+<L>That wondring Poets shall for Ages read,</L>
+<L>And praise their <HI>Ovid</HI> for the Lines he made:</L>
+<L><PB N="57" REF="35"/>
+Curse o' my Fate! one single Fault shou'd damn!</L>
+<L>Banish the Poet, and confound his Theme!</L>
+<L>From Love, from Stories of the Gods, and Men,</L>
+<L>Forc'd to attempt Excuses for my Crime,</L>
+<L>Lost in the Mass ill-shuffl'd Fates have Hurld,</L>
+<L>Wanting a Voice, like that that made the World,</L>
+<L>Shou'd <HI>Caesar</HI> call, my Wrongs wou'd all obey,</L>
+<L>And I for ever boast his Liberty,</L>
+<L>This wou'd compleat the Favours I enjoy.</L>
+<L>For more I fear'd, than in your Anger was,</L>
+<L>That you my Life, at least Estate wou'd seize.</L>
+<L>But far from this, at present I have all,</L>
+<L>All, that by any right, my own I call,</L>
+<L>Nor was my Fault, by Voice of Senate Damn'd,</L>
+<L>Or by a private way of Justice nam'd,</L>
+<L>'Twas <HI>Caesar</HI>'s Mouth pronounc'd my Banishment,</L>
+<L>But call'd it by a lesser Punishment,</L>
+<L>Only Confin'd me to a distant Clime,</L>
+<L>There to Reflect his Goodness, and my Sin;</L>
+<L>And generous Souls are mov'd by Clemency,</L>
+<L>More than by Wracks, and Gibbets that they see,</L>
+<L><PB N="58" REF="36"/>
+Such Instruments of Death, the vulgar sway,</L>
+<L>And make 'em honest, when they won't obey,</L>
+<L>The other plead the freedom of their Mind,</L>
+<L>To this or that, in spite of all inclin'd,</L>
+<L>But when they'r resolute, they shou'd be good,</L>
+<L>Tho' through Mistakes, the best are sometimes bad,</L>
+<L>And kind forgiving Princes ne'er upbraid,</L>
+<L>When they a happy Penitent have made:</L>
+<L>As tallest Elms, by Heav'ns thunder-struck,</L>
+<L>Ugly, despis'd, forlorn, and naked look,</L>
+<L>Yet when the hated Bolt has long been past,</L>
+<L>The Vines will meet, and twine, and kindly grasp,</L>
+<L>Hug the dear suff'ring Trees, and kindly grow,</L>
+<L>Tho' Gods themselves the Bolts in anger threw;</L>
+<L>Thus when like Heav'n, I know you to be kind,</L>
+<L>Your greatest Anger to be still confin'd,</L>
+<L>I often Hope, again, I soon Despair,</L>
+<L>To think tho' merciful, you're still severe;</L>
+<L>Severely good, as happy Princes reign,</L>
+<L>When I think thus, my Hopes are quasht again:</L>
+<L><PB N="59" REF="36"/>
+So Vessels riding on an angry Sea,</L>
+<L>Have different Degrees of Terror high;</L>
+<L>One while the Winds in gentle Murmurs blow,</L>
+<L>So very soft, you'd think no Rage they knew,</L>
+<L>When they but stop their Breath, to be more Fierce,</L>
+<L>And toss the Passengers, and Seamen worse;</L>
+<L>So, various are the Passions in my Breast,</L>
+<L>They give, again, they take away my Rest:</L>
+<L>By Heav'n, that loves <HI>Augustus,</HI> and his <HI>Rome,</HI></L>
+<L>By all the Gods, that to our Altars come,</L>
+<L>By my dear Country, safe, while you are so,</L>
+<L>By all your Houshold Gods, and Subjects too,</L>
+<L>May <HI>Rome</HI> for ever own her <HI>Caesar</HI>'s Laws,</L>
+<L>Fond of the Blessings, that his Reign bestows:</L>
+<L>Long may your <HI>Livia</HI> be your Care and Joy,</L>
+<L>Noble, and Great, and Good, as she is High;</L>
+<L>Long may she bless her Royal Husband's Bed,</L>
+<L>With all th' engaging softness of a Bride,</L>
+<L>When Nature form'd her for a Blessing here,</L>
+<L><HI>Casar</HI> was then th' Almighty's chiefest Care,</L>
+<L><PB N="60" REF="37"/>
+'Twas then, he show'd the Wonders he cou'd do,</L>
+<L>And show'd 'em all, in <HI>Livia,</HI> and you.</L>
+<L>Your Son, that Promises his Part so soon,</L>
+<L>May Heav'n preserve him for his Father's Throne!</L>
+<L>Long may you both, secure your Empire's Peace,</L>
+<L>Command, Instruct, and Govern at your Ease;</L>
+<L>Or if the Toils of Bus'ness irksom grow,</L>
+<L>May he do all the Wonders that you do!</L>
+<L>May Victory that long has known your Tent,</L>
+<L>Come to his Colours, and her self Present,</L>
+<L>Hovering, with Wings officious fly,</L>
+<L>And Crown him, with the Choicest Lawrels nigh,</L>
+<L>One Half still present, Governing at Home,</L>
+<L>Your other self Commanding, far from <HI>Rome!</HI></L>
+<L>Pardon me now, if private Suffrings seem</L>
+<L>To move the Poet, and Confine his Theme;</L>
+<L>Pardon your <HI>Ovid,</HI> and your Thunder Quit,</L>
+<L>Half dead, with Bolts that have already Hit.</L>
+<L>Father, that Word is an indulgent Name,</L>
+<L>And mighty too, since Gods are call'd the same,</L>
+<L>The Power much at one your Subjects know,</L>
+<L>As God's above, so <HI>Caesar</HI> Rules below;</L>
+<L><PB N="61" REF="37"/>
+Then spare, as Fathers of their Countrey do,</L>
+<L>And take the Honours that I own your Due;</L>
+<L>I dare not Pray you wou'd forgive my Sin,</L>
+<L>Tho' Gods, they say, as kind as this have bin,</L>
+<L>Only confine me to a nearer Shore,</L>
+<L>A gentler Banishment, I'le ask no more;</L>
+<L>This will Alleviate the Cares I know,</L>
+<L>Lessen the present Ills, that VVrack me now,</L>
+<L>In VVide, remotest Lands, to live alone,</L>
+<L>With such inhumane Creatures, far from Home!</L>
+<L>Others there are that have offended you,</L>
+<L>Their Crimes notorious as mine cou'd be,</L>
+<L>Yet these, were never sent, where I am come,</L>
+<L>Nor knew, the many Dangers, that I've done;</L>
+<L>Beyond me's all Inhospitable Ground,</L>
+<L>No Summer, but eternal Frosts are found,</L>
+<L>Part of the <HI>Euxine</HI> Sea, which <HI>Rome</HI> commands,</L>
+<L>Washes these Shoars, below, <HI>Sarmatia</HI> stands:</L>
+<L>Recall me hence, tho' you deny me Peace,</L>
+<L>'Tis Hell, to live in such a Place as this.</L>
+<L>Besides: We have an old <HI>Italian</HI> Law,</L>
+<L>Approv'd of long, and not disputed now,</L>
+<L><PB N="62" REF="38"/>
+That Free-born Subjects, of a <HI>Roman</HI> Race,</L>
+<L>By Birth have Title to a better place,</L>
+<L>Their Princes safe, they must not Captives be,</L>
+<L>This early show'd a Right to Liberty.</L>
+<L>I sha'n't here name the sad, unhappy Fault,</L>
+<L>That lost my Freedom, and Misfortunes brought,</L>
+<L>But those of which my Enemies accuse,</L>
+<L>I never thought, how loose so e're my Muse,</L>
+<L>With these they've often vext your Royal Breast,</L>
+<L>Provok'd your Anger, and destroy'd my Rest;</L>
+<L>And all they said, you thought severely true,</L>
+<L>Nor do I wonder you believ'd 'em so,</L>
+<L>Since Gods have been deceiv'd as well as you.</L>
+<L>When <HI>Jove</HI> looks down, to see the World below,</L>
+<L>Condemn, approve, and know the things we do,</L>
+<L>His leisure won't admit the nicest View:</L>
+<L>So you, like him, tho' looking round about,</L>
+<L>Some things a single look can ne'er find out:</L>
+<L>Who can imagine States neglected lye?</L>
+<L>The thoughts of Empire left, for Poetry:</L>
+<L>Easy the Weight, must on your Shoulders sit,</L>
+<L>Had you your self consider'd what I Writ.</L>
+<L><PB N="63" REF="38"/>
+The bold <HI>Panonia,</HI> your strength defy's,</L>
+<L>Nor is <HI>Illyrium</HI> in perfect Peace;</L>
+<L>They on the <HI>Rhine,</HI> their utmost Force prepare,</L>
+<L>And <HI>Thracia</HI> still employs you in a War;</L>
+<L><HI>Armenia</HI> parleys, when the <HI>Parthians</HI> show</L>
+<L>Their Spreading Colours, as a Warlike Foe;</L>
+<L><HI>Germania</HI> flys before your Bolder Son,</L>
+<L>Early made Brave, by Victories you won;</L>
+<L>No Head but yours, cou'd so much Bus'ness do,</L>
+<L>With so much Ease, such mighty Order too:</L>
+<L>Your thoughts to travel all your Empire o're,</L>
+<L>And you, Unruffl'd, manage such a Pow'r,</L>
+<L>No Part but Govern'd by your proper Care,</L>
+<L>Yet none to Want what's necessary there,</L>
+<L>Shows that your Soul had a peculiar Mould,</L>
+<L>Form'd by some Gods, and made to rule the World:</L>
+<L>Your Laws all Wise, and so severely Good,</L>
+<L>Your Life, still stricter, than the Laws you made,</L>
+<L>Thus in a long Fatigue of Bus'ness seen,</L>
+<L>That you shou'd think of any thing of mine!</L>
+<L><PB N="64" REF="39"/>
+I own my Verses loose, unworthy far,</L>
+<L>To reach the pious, nice <HI>Augustus</HI> Ear,</L>
+<L>Besides, these Lines the whole Design declare.</L>
+</LG>
+<LG>
+<L>You that with Fillets bind your Hair, be gone,</L>
+<L>Nor let the Matron with my Book be seen,</L>
+<L>I only sing of youthful, stolen Joys,</L>
+<L>And such Gay Thoughts, their Formal Wills dis∣please.</L>
+</LG>
+<LG>
+<L>Yet nothing Guards a Mind that will be Bad,</L>
+<L>Precisest Matrons, when they please, are Lewd,</L>
+<L>And tho' they never heard, or saw my Book,</L>
+<L>Some will be Whores, and sin in e'ery Look;</L>
+<L>One she reads Annals, there perhaps she'll find,</L>
+<L>How <HI>Ilia,</HI> a Vestal was enclin'd,</L>
+<L>When dreaming, <HI>Mars</HI> comprest the lovely Maid,</L>
+<L>And Blest her with the Double Birth she had;</L>
+<L>Let her but look the well writ <HI>Aeneids</HI> o're,</L>
+<L>She wishes, sighs, and thinks on <HI>Venus</HI> Power,</L>
+<L>Pity's poor <HI>Dido,</HI> when <HI>Aeneas</HI> sails,</L>
+<L>And VVonders that the Queen no more Prevails;</L>
+<L><PB N="65" REF="39"/>
+There's nothing, tho' the purest of the Kind,</L>
+<L>That mayn't Corrupt a Heart, that's ill inclin'd,</L>
+<L>But this is not enough to Damn a Book,</L>
+<L>Because ill meaning has the Reader Took,</L>
+<L>Shall we prohibit Fire our common Use,</L>
+<L>Because Incendiari's Burn with this;</L>
+<L>The Traveller and Thief, VVear Swords alike,</L>
+<L>Because one Robs, shall t' other take a Stick?</L>
+<L>Or shall we pious, ancient Cloysters Curse,</L>
+<L>Because Maids talk of Sweet Hearts, or of worse?</L>
+<L>One in the very Temple, as she Prays to <HI>Jove,</HI></L>
+<L>Is thinking of the Stories of his Love,</L>
+<L>Thinking how many Mothers he might make,</L>
+<L>Wishing her self a Beauty for his sake▪</L>
+<L>Another, she at <HI>Juno</HI>'s Altar Prays,</L>
+<L>And thinks how Fair <HI>Europa</HI> Crost the Seas,</L>
+<L>Pity's poor <HI>Juno,</HI> by her <HI>Jove</HI> betray'd,</L>
+<L>The God so often Changing as he did,</L>
+<L>But VVishes still she'd bin the Charming Maid.</L>
+<L>Shou'd she <HI>Minerva</HI>'s awful Statue see,</L>
+<L>So Good, so Tall, so full of Majesty,</L>
+<L><PB N="66" REF="40"/>
+Some Story still her strong desire wou'd sind,</L>
+<L>How <HI>Erictihon</HI> was born a'fore his Time,</L>
+<L>Because the Goddess hid him, as they say,</L>
+<L>And sure if Goddesses such Pranks will play,</L>
+<L>Inferiour Nymphs their waiting Women may.</L>
+<L>All things, a Person eas'ly turns to ill,</L>
+<L>Whose chiefest Law's the Dictates of his Will;</L>
+<L>The gravest Matrons have beheld in paint,</L>
+<L>The lewdest Forms, the Artist cou'd invent;</L>
+<L>The Vestals have beheld th' Intreague of Stews,</L>
+<L>The various ways, those Proftitutes abuse,</L>
+<L>And yet the Painter if the Piece was good,</L>
+<L>Receiv'd the Praises that an Artist shou'd:</L>
+<L>But why? Oh why? did I unhappy write,</L>
+<L>Fond o' th' Fantastick Character, a Wit,</L>
+<L>My wanton Genius, hurrying me along,</L>
+<L>And never resting, 'till I was undone:</L>
+<L>Why did not I, like other Poets, move?</L>
+<L>Thunder out Battels, Wars, not whine out Love?</L>
+<L><HI>Troy</HI> had engag'd me in a Noble Strain,</L>
+<L>And inoffensive too, my Thoughts had bin,</L>
+<L><PB N="67" REF="40"/>
+Here I had told the <HI>Grecian</HI> Policy,</L>
+<L>And <HI>Troy</HI>'s unfo rtunate Security:</L>
+<L>Or had this bin an antiquated Theme,</L>
+<L>I might have sung as well of greater <HI>Rome,</HI></L>
+<L>This had been pious, and a Subject's part,</L>
+<L>Duty excus'd the Nicety of Art;</L>
+<L>Tho' <HI>Caesar</HI> had not been oblig'd by this,</L>
+<L>His Worth, so much exceeding all my Praise,</L>
+<L>He must have pardon'd an officious Muse.</L>
+<L>As <HI>Phoebus</HI> darting Rays affect our Eyes,</L>
+<L>So <HI>Caesar</HI>'s Glories in the View surprize,</L>
+<L>When with a Naked Eye we see each Light,</L>
+<L>'Tis troublesome, and takes away our sight,</L>
+<L>These were my thoughts, and this believe it true,</L>
+<L>Is all the Reason that I plead, or knew:</L>
+<L>As when a Man, within a little Boat,</L>
+<L>Safely, in shallow Rivers rows about,</L>
+<L>But shou'd he launch into the Swelling Main,</L>
+<L>His Boat wou'd be too small, his Art in vain;</L>
+<L>So tho' I've writ with Reputation too,</L>
+<L>Of trivial Subjects, Stories that I knew,</L>
+<L><PB N="68" REF="41"/>
+Shou'd I, for this, a greater Thought have had,</L>
+<L>Have writ <HI>Jove</HI>'s Thunder, and the Wars he made,</L>
+<L>Or <HI>Caesar</HI>'s Wars, but little less than those,</L>
+<L>Next <HI>Jove</HI>'s the Victory, as good the Cause,</L>
+<L>Awkward my weaker Numbers must have bin,</L>
+<L>And <HI>Jove,</HI> and <HI>Caesar,</HI> suffer'd in the Strain.</L>
+<L>Once I begun the mighty Task, and Try'd,</L>
+<L>I sung of Wars, as other Poets did,</L>
+<L>But still, my <HI>Hero</HI> so surpast the rest,</L>
+<L>I must have VVrit the worst, if not the best:</L>
+<L>Then I resolv'd to tell some amorous Tale,</L>
+<L>With melting Words oblige the Longing Girl,</L>
+<L>While frequent Blushes, with Repeated Sighs,</L>
+<L>Engaging Looks, the Language of the Eyes,</L>
+<L>Show how she loves, and loving how she Dyes.</L>
+<L>Curse o' this Thought! why did I learn to Read?</L>
+<L>Why did my Tutor teach me as he did?</L>
+<L>And yet I suffer thro' Mistake, as tho'</L>
+<L>Unlawful Ways of Love I did pursue;</L>
+<L>As tho' I'ad sought t' abuse the Nuptial Rites,</L>
+<L>And gratifie my self with vile Delights,</L>
+<L><PB N="69" REF="41"/>
+This I Profess, and Heaven knows it true,</L>
+<L>Lawful are all the ways of Love I know;</L>
+<L>No Man by me's a Doubtful Father made,</L>
+<L>I never wrong'd the meanest Person's Bed;</L>
+<L>My Life and Verse, have always differ'd far,</L>
+<L>Pleasant my Muse, my Manners more severe:</L>
+<L><HI>Accius</HI> was Fierce, <HI>Terence</HI> was soft, and smooth▪</L>
+<L>'Fore Tragedies, preferring Plays, less Rough.</L>
+<L>Nor yet am I the first, that writ another way,</L>
+<L><HI>Anacreon</HI>'s Applauded to this day,</L>
+<L>For writing of a harmless Love, like me.</L>
+<L><HI>Sappho</HI> had never reach'd an Excellence,</L>
+<L>Had not she writ of Love, without Offence:</L>
+<L>The good <HI>Menander,</HI> when he made his Plays,</L>
+<L><HI>Menander</HI> that diverts so many Ways,</L>
+<L>He never Writ, but Love was still his Theme,</L>
+<L>Bewitching Love, the tender Virgin's Dream;</L>
+<L>He taught 'em Laws, to manage all their Fire,</L>
+<L>And while they Burn'd themselves with strong Desire,</L>
+<L>Dissemble still, and make their Lovers dye,</L>
+<L>But Dye to Live, and Meet with greater Joy:</L>
+<L><PB N="70" REF="42"/>
+What are the <HI>Iliads,</HI> that the World approves,</L>
+<L>But Wars, occasion'd by Forbidden Loves?</L>
+<L>How <HI>Helen,</HI> melted by her <HI>Paris</HI> Voice,</L>
+<L>Yields to his Charms, and eagerly enjoys:</L>
+<L>Had not <HI>Ʋlysses</HI> Wife so many Won,</L>
+<L><HI>Homer,</HI> his <HI>Odysses</HI> had ne'er begun,</L>
+<L>Nor we have Read the Wanderer from Home▪</L>
+<L>In all the Various Passions <HI>Homer</HI> Paints,</L>
+<L>There's none more Taking, that he Represents,</L>
+<L>Then when he tells, how <HI>Mars</HI> with <HI>Venus</HI> lay,</L>
+<L>And makes each God a Witness of their Joy;</L>
+<L>How pleasantly her Husband is 'Reveng'd,</L>
+<L>To let 'em lye, till he prepares the Chains.</L>
+<L>Many the Instances I yet cou'd heap,</L>
+<L>Wou'd not the Reader, and my Muse both sleep.</L>
+<L><HI>Catullus</HI> always most Correctly Writ,</L>
+<L>His <HI>Lesbia</HI> the Subject of his Wit:</L>
+<L><HI>Hortensius,</HI> and <HI>Servus,</HI> lov'd like me,</L>
+<L>And who wou'd fear to Follow such as they?</L>
+<L><HI>Gallus,</HI> for <HI>Lycoris</HI> was never Blam'd,</L>
+<L>Talking too much, not Writing, <HI>Gallus</HI> Damn'd,</L>
+<L><PB N="71" REF="42"/>
+<HI>Tibullus</HI> writes, how freely Women swear,</L>
+<L>What strange deluding sort of things they are;</L>
+<L>They value strictest Oaths, no more than Wind,</L>
+<L>When e're they please to change a Fickle Mind,</L>
+<L>How Wittily they will a Keeper Balk,</L>
+<L>And when their Husband's jealous, how they talk;</L>
+<L>And he, <HI>Tibullus,</HI> best these Truths might know,</L>
+<L>At once the Cully, and the Poet too.</L>
+<L><HI>Propertius</HI> next, so great, and very good,</L>
+<L>How Men admir'd, and Women lov'd, he show'd,</L>
+<L><HI>Propertius</HI> yet Repeated Honours had;</L>
+<L><HI>Caesar</HI> his Friend, approving what he did.</L>
+<L>When these Succeeded all so well, I thought,</L>
+<L>I might pursue the Measures that they Taught,</L>
+<L>I fear'd not, where so many Ships had Past,</L>
+<L>Or thought my Bark wou'd Shipwrackt be at last:</L>
+<L>Had I but Play'd the Droll in Mimick Wit,</L>
+<L>Had then bin safe, and pleas'd a laughing Pit,</L>
+<L>All Ages, Sexes, Flock with hast to these,</L>
+<L>And love the Bawdy that they find in Plays;</L>
+<L>To hear a Toothless Strumpet split her Sides,</L>
+<L>Laugh 'till she pisses at the Words she Reads,</L>
+<L><PB N="72" REF="43"/>
+"Judge me! the Author's such a Witty Man,</L>
+<L>"He must do more than other People can:</L>
+<L>Thus I had made a Party to Retreat,</L>
+<L>Had I but thus Buffoon'd it when I writ,</L>
+<L>And all my Nonsence wou'd have bin Sheer Wit.</L>
+<L>Shall stammering Mimicks then Protected live?</L>
+<L>And others want the Favours that they have?</L>
+<L>Shall <HI>Ovid</HI> suffer, while he wou'd Delight?</L>
+<L>Others be safe, that do, what <HI>Ovid</HI> writ?</L>
+<L>My Lines by th' Mob, as theirs, huzza'd have bin'</L>
+<L>And mine, and theirs, <HI>Augustus,</HI> you have seen;</L>
+<L>But seen, as when we different Paintings view,</L>
+<L>Diverting for the Skill the Painter knew,</L>
+<L>And he a certain Due, Reward, receives,</L>
+<L>Tho' he a Monster, nay, the Devil gives:</L>
+<L>Within your Palace, various Pictures hang,</L>
+<L>The best Drawn Pieces, by the Nicest Hand,</L>
+<L>And yet more famous for their House than Paint▪</L>
+<L>Your Fathers, Uncles, by a long Descent;</L>
+<L>Not far from these, nay, in the nearest Room,</L>
+<L>Some Women hang, as Naked as they're Born.</L>
+<L><PB N="73" REF="43"/>
+Let greater Pens, for bloody Wars prepare,</L>
+<L>Inur'd to Dangers, as their Hero's are;</L>
+<L>Let these in strains, their <HI>Caesar</HI>'s Battels speak,</L>
+<L>And show in Arms, how like a God you look,</L>
+<L>While others, skill'd i'th▪ art of Heraldry,</L>
+<L>Tell all the Wonders of your Family,</L>
+<L>How for some Ages, Hero's have bin bred,</L>
+<L>And how <HI>Augustus</HI> do's the rest exceed:</L>
+<L>This I have often wisht, but wisht in vain,</L>
+<L>Nature designing me a weaker strain,</L>
+<L>Far from the best, yet not the worst, so mean.</L>
+<L><HI>Virgil,</HI> the Wonder of a Wonderous Age,</L>
+<L>Whose Art does still some mighty things Pre∣sage,</L>
+<L>Whose Writings give unto our Poets Laws,</L>
+<L>Whether a great or humble Theme they choose:</L>
+<L>If Warriours read, in him their Art they find,</L>
+<L>Honour, and Courage, in the <HI>Trojans</HI> joyn'd:</L>
+<L>If Lovers take his <HI>Aeneids</HI> down,</L>
+<L>They read, how <HI>Dido,</HI> and the Hero's found,</L>
+<L>How <HI>Jove,</HI> he Thunder'd in the World above,</L>
+<L>Kindly assisting their Design of Love;</L>
+<L><PB N="74" REF="44"/>
+Thus he in Notès, so artfully cou'd Play,</L>
+<L>The Fierce, and Gentle, all, in him agree,</L>
+<L>In him they Meet, a pleasant Harmony.</L>
+<L>Nor did he once, disdain the Herdsman's Song,</L>
+<L>But writ <HI>Bucolics,</HI> in his Mother Tongue;</L>
+<L>How <HI>Corydon</HI> for his <HI>Alexis</HI> Burn'd,</L>
+<L>How proud <HI>Alexis, Corydon</HI> he scorn'd:</L>
+<L>He show'd how <HI>Nysa, Mopsus</HI> lov'd,</L>
+<L>A Humour Women always mov'd;</L>
+<L>Tho' <HI>Mopsus</HI> Nature had design'd a Jest,</L>
+<L><HI>Mopsus</HI> was Rich, and <HI>Nysa</HI> lov'd him best.</L>
+<L>Thus when the <HI>Mantuan</HI> Poet led the way,</L>
+<L>I thought to follow such a Guide as he,</L>
+<L>To write like him, cou'd ne'er have ruin'd me:</L>
+<L>Nor yet, do I, more serious Subjects want,</L>
+<L>Some Books of Sacred Feasts, I have in Print:</L>
+<L>One while, my Muse, in Tragick Buskins Trod,</L>
+<L>All very solemn, grave, and some said good:</L>
+<L>Another Work, with Care and Pains I wrote,</L>
+<L>Tho' in my Sentence 'twas unfortunate;</L>
+<L>Wanting the Authors last performing Stroak,</L>
+<L>To give it Graces for the nicest Look,</L>
+<L><PB N="75" REF="44"/>
+In this, (my <HI>Metamorphosis)</HI> I show,</L>
+<L>The Face of things, from <HI>Nothing,</HI> down to you:</L>
+<L>Wou'd you, in this, but Read my Innocence,</L>
+<L>You'd find how much the Poet lov'd the Prince;</L>
+<L>You'd Read in e'ery Line my very Soul,</L>
+<L>Intirely yours, without Reserves at all:</L>
+<L>Nor was I ever Tempted when I writ,</L>
+<L>Inferiour Men, with disrepect to Treat,</L>
+<L>I always hated a Satyrick Wit,</L>
+<L>Ne'er Wounding any, but the Author, yet.</L>
+<L>This show'd the Temper of a Peaceful Mind,</L>
+<L>Form'd in my Infancy, by Age refin'd;</L>
+<L>For this, no well-bred <HI>Roman</HI> triumphs now,</L>
+<L>Pleas'd at the Punishment I undergo,</L>
+<L>But rather Mourns, the dismal story told,</L>
+<L>And often wishes that I were recall'd.</L>
+<L>May these, Great <HI>Caesar,</HI> move your Royal Breast,</L>
+<L>'Till you Remit my Sentence, part at least,</L>
+<L>If it's too much to Pardon, grant some Place</L>
+<L>Nearer my Native Country much than this.</L>
+</LG>
+</DIV2>
+<TRAILER>The End of the Second Book.</TRAILER>
+</DIV1>
+<DIV1 TYPE="poems">
+<PB N="76" REF="45"/>
+<HEAD>The Third BOOK OF OVID IMITATED.</HEAD>
+<HEAD TYPE="sub">The Book entreats the Reader to be Candid, and before he Condemns, to consider the Disadvantages it was writ with: He shows his coming to <HI>Rome,</HI> where he met with a Guide, that acquainted him with all the Curiosities of the Place.</HEAD>
+<DIV2 TYPE="elegy">
+<HEAD>ELEGY I.</HEAD>
+<LG>
+<L>BE gentle, Reader, whosoe'er thou art,</L>
+<L>Pitty a poor, unhappy Wanderer's Part,</L>
+<L><PB N="77" REF="45"/>
+The Wretched Off spring of a Wretched Man,</L>
+<L>Banish'd his Countrey to a Forreign Land,</L>
+<L>But be n't affraid, nor Blush at what he gives,</L>
+<L>No thoughts of Love are Read within these Leaves;</L>
+<L>The Author's not so sensless, to be merry now,</L>
+<L>To Write as happy Poets, when they Write, do;</L>
+<L>When Reason in her Infancy he knew,</L>
+<L>And thought his Wit the better of the two,</L>
+<L>'Twas then a lasting Train of Ills he laid,</L>
+<L>Pleas'd with the Fond Ideas that he had,</L>
+<L>He writ of Love, and Flatter'd e'ery Sense,</L>
+<L>Promis'd himself no Injuries from thence:</L>
+<L>Had he but thought, how Fond <HI>Pygmalion</HI> Woo'd,</L>
+<L>How proudly, when he lov'd, the Statue stood,</L>
+<L>No living Beauty he had ever Took,</L>
+<L>Or Dar'd the Lightning that those Angels Look;</L>
+<L>Or had but <HI>Caesar</HI> spoke such Writings Sin,</L>
+<L>He'ad sooner anger'd any God than him:</L>
+<L>But now his Subject's chang'd, ah! now too late,</L>
+<L>Now, when he feels unequal Fortune's Weight,</L>
+<L>Sad are his Notes, adapted to his Fate.</L>
+<L><PB N="78" REF="46"/>
+No Ornaments in Prudence he'd bestow;</L>
+<L>Had I'come out as gay, as others do,</L>
+<L>The World had thought him Proud, me Fool∣ish too.</L>
+<L>If he shou'd stammer at his Mother Tongue,</L>
+<L>Or write, as they that have been absent long,</L>
+<L>'Tis this damn'd Jargon, that the Countrey speaks,</L>
+<L>Confounds his Words, and such a difference makes:</L>
+<L>Now, Reader, if it is not troublesome,</L>
+<L>Direct me in this City where I'm come;</L>
+<L>And may the Gods for such a Kindness give,</L>
+<L>A mighty Portion of the Goods they have;</L>
+<L>May you ne'er Travel weary, as I've done,</L>
+<L>But live a prosperous, good old Age, at Home;</L>
+<L>I'll Follow wheresoe'er you please to go,</L>
+<L>Tho' I'm Faint, Hungry, very Dirty too.</L>
+<L>At this he walks, and with his Finger shows,</L>
+<L>This is the Court, says he, of <HI>Caesar</HI>'s House,</L>
+<L>This is the <HI>Via Sacra</HI> where you Pass,</L>
+<L>A Street the World in admiration has;</L>
+<L><PB N="79" REF="46"/>
+Here you may see, where <HI>Vesta</HI>'s Temple's set,</L>
+<L>That's <HI>Numa</HI>'s Pallace there, not far from it;</L>
+<L>This is the Place, where bold <HI>Evander</HI> dwelt,</L>
+<L>And here, they say, this Hill, <HI>Rome</HI> first was Built.</L>
+<L>Thus, while I wonder all the lovely sight,</L>
+<L>I see a House, the Posts in Armour set,</L>
+<L>Good, as some God had had it for his Seat:</L>
+<L>Nay, so surpriz'd, I innocently cry'd,</L>
+<L>Is n't this <HI>Jove</HI>'s House? it must be so, I said,</L>
+<L>For there, hard by, an Oaken Crown I see,</L>
+<L>Sacred to <HI>Jove,</HI> this makes my Augury.</L>
+<L>But still my Guide, he told me I was Wrong,</L>
+<L>'Twas <HI>Caesar</HI>'s Pallace, and he'ad known it long;</L>
+<L>I cou'd not for my Heart but yet conclude,</L>
+<L>So stately all, so happy the Abode,</L>
+<L><HI>Caesar</HI> must be at least a Second God.</L>
+<L>Why are these Gates, I said, with Laurels set?</L>
+<L>How come the Boughs thus artfully to meet?</L>
+<L>Is it because perpetual Triumph's here?</L>
+<L>And Laurels wanting for so many are?</L>
+<L>Or is it Holy-day? or this a Sign,</L>
+<L>How happy all the People are in him?</L>
+<L><PB N="80" REF="47"/>
+If so, to th' Number may he kindly add,</L>
+<L>One Citizen his Anger's wretched made:</L>
+<L>Ah me! so awful all the Place appears,</L>
+<L>My Heart misgives me, and admits of Fears,</L>
+<L>My Paper sinks, affected with the Thought,</L>
+<L>As wild Disorder a Presage had Taught:</L>
+<L>At this I Stop, and Kneeling down, I Pray,</L>
+<L>First to my self, at last, aloud I say:</L>
+<L>May <HI>Caesar,</HI> Sovereign of the World below,</L>
+<L>Great in his Empire, and his Wisdom too,</L>
+<L>Forgive my Father, and Revoke his Doom,</L>
+<L>And smile on me, tho' Born an Exile's Son.</L>
+<L>Next, by a Vast, but gradual Ascent,</L>
+<L>Where Great <HI>Apollo</HI>'s Temples were, we went,</L>
+<L>Where Books are seen, of various Subjects writ,</L>
+<L>Contain'd within a Place that joyns to it;</L>
+<L>And here I thought my Kindred Books to see,</L>
+<L>All but th' unfortunate, our Misery.</L>
+<L>But e're I lookt the several Classes o'er,</L>
+<L>The Keeper told me, there was none such there,</L>
+<L>And rudely bid me in a barbarous Tone,</L>
+<L>By fair means, or by foul, be quickly gone:</L>
+<L><PB N="81" REF="47"/>
+From thence to other Libraries I came,</L>
+<L>But still no less than there, Repuls'd with shame;</L>
+<L>At this a sad Reflection made me sigh,</L>
+<L>By Birth, that I shou'd so unhappy be,</L>
+<L>Lost by my Father's Crimes, as well as he.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="elegy">
+<HEAD>ELEGY II.</HEAD>
+<HEAD TYPE="sub">In this Elegy <HI>Ovid</HI> complains of his Banishment, and passionately desires to dye.</HEAD>
+<LG>
+<L>WHen the Gods Curse, in Sufferings like mine,</L>
+<L>Tho' great their Wrath, yet greater is the Sin;</L>
+<L>That I to <HI>Scythia</HI> shou'd Banisht be!</L>
+<L>Live in Disgrace, and dye with Infamy!</L>
+<L><PB N="82" REF="48"/>
+The Muses that I doted on, and Pray'd,</L>
+<L>So passionately courted, as I did;</L>
+<L>The Deities, I so entirely lov'd,</L>
+<L>That took my Offerings, and my Songs ap∣prov'd,</L>
+<L>These might, one wou'd have thought, the Gods have mov'd.</L>
+<L><HI>Apollo</HI> too, the Patron of our Right,</L>
+<L>Refus'd his Interest, and left me quite.</L>
+<L>Abandon'd, and undone, my Wrongs I tell,</L>
+<L>But none can know their Force but I, that feel;</L>
+<L>I, that my Life, till now, in Silence past,</L>
+<L>Avoiding noise, and bus'ness to the last;</L>
+<L>Tender, and Delicate, no Labours knew,</L>
+<L>Or Heats, and Colds, as Travellers do,</L>
+<L>That I, shou'd such an Alteration bear!</L>
+<L>The Icy Seas, and Frosts, so common here,</L>
+<L>Spent by Fatigues, that I shou'd think to write!</L>
+<L>That it shou'd please me too, is stranger yet!</L>
+<L>When all the wretched Tale I tell, is true,</L>
+<L>And what the Reader sees, I feel, and know:</L>
+<L><PB N="83" REF="48"/>
+When I had pass'd the Dangers of the Seas,</L>
+<L>And reach'd the Land, the sad appointed Place,</L>
+<L>I thought my Mind might with the Vessel rest,</L>
+<L>However, be more peaceable at least,</L>
+<L>But far from this, new Horrors they affright,</L>
+<L>The Towns, the Men, the Land, a wretched Sight!</L>
+<L>At this, my Eyes, obedient to my Mind,</L>
+<L>Gusht out with Tears, that long had bin confin'd,</L>
+<L>Such Floods I wept, as when great Waters flow,</L>
+<L>From tallest Mountains, coverd o're with Snow,</L>
+<L>Dissolv'd by Rains, that Threat'n all below.</L>
+<L>While <HI>Rome,</HI> the great, the good, the much lov'd Place,</L>
+<L>My House, my Wife, my Friends, my Fears en∣crease,</L>
+<L>Often I ask to Dye, but ask in vain,</L>
+<L>As Heav'n reserv'd me for a farther Pain;</L>
+<L>But that cann't be, so exquisite my Grief,</L>
+<L>The Torments that I know exceed Belief:</L>
+<L>Why has the Fatal Steel escap'd my Throat?</L>
+<L>Why has the Deep her Mouth unkindly shut?</L>
+<L><PB N="84" REF="49"/>
+The Gods, in Complaisance to <HI>Caesar</HI>'s Wrath,</L>
+<L>Resolve me wretched, and deny me Death.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="elegy">
+<HEAD>ELEGY III.</HEAD>
+<HEAD TYPE="sub">To his Wife.</HEAD>
+<HEAD TYPE="sub">With some Account of his Sickness.</HEAD>
+<LG>
+<L>TOo weak to write, a Stranger's hand I use,</L>
+<L>But be n't, my Dear, too much surpriz'd at this</L>
+<L>Take the true Reason, tho' I'm loth to tell,</L>
+<L>So much you love, so very much I feel:</L>
+<L>A sudden Illness seiz'd me with a mighty force,</L>
+<L>And tho' so bad at first, I still grew worse,</L>
+<L>VVhile shooting Pains distorted every joint,</L>
+<L>And frequent Sweats made all my Members faint;</L>
+<L><PB N="85" REF="49"/>
+My Fingers, they refus'd the VVork they knew,</L>
+<L>And disobey'd, tho' I design'd it you;</L>
+<L>No Means was left, but by another's hand,</L>
+<L>And this is that, my Dearest VVife, I send:</L>
+<L>The want of Health's no small, no trivial Ill,</L>
+<L>The Bravest pity, when the Pains they feel;</L>
+<L>When weary'd Nature, Stagger'd with the Weight,</L>
+<L>Disorder'd, sinks beneath approaching Fate;</L>
+<L>But mine's much worse than e'er the Wretchedst knew,</L>
+<L>The Place I live in, doubles every Woe,</L>
+<L>Here's no Physitian to Relieve the Sick,</L>
+<L>No healing Cordials to support the VVeak,</L>
+<L>No VVitty Friend is found within this Place,</L>
+<L>VVith pleasing Stories, to divert in such a Case,</L>
+<L>And make the sluggish Minutes mend their Pace:</L>
+<L>In various Postures on my Bed I lye,</L>
+<L>Restless in all, yet still the same I Try,</L>
+<L>VVhile crouding Thoughts are shuffling in my Mind,</L>
+<L>But you, as always, I the deepest find;</L>
+<L><PB N="86" REF="50"/>
+Fond of your Name, the wonted Sound I speak,</L>
+<L>Improperly, they say, and Nonsence make,</L>
+<L>So much I love, that shou'd my Faultring Tongue,</L>
+<L>Too Weak, refuse to speak as it has done;</L>
+<L>Shou'd you appear, the Strings wou'd artful Play,</L>
+<L>Tho' shrunk before, wou'd all Obedience be,</L>
+<L>A thousand little tender things I'de say,</L>
+<L>Talk like a Lover, on his Wedding-day,</L>
+<L>And more than talk, I'd love, my Dear, as he.</L>
+<L>Such joy, wou'd give new Measure to my Days,</L>
+<L>While I not only liv'd, but liv'd with Ease;</L>
+<L>But if the Thread of Life the Sisters spun,</L>
+<L>Was but design'd till now, and's a'most done,</L>
+<L>It had bin kind to let me stay'd at Home,</L>
+<L>And there, ye Gods, expected till it Run;</L>
+<L>Then I'ad a Grave within my Country had,</L>
+<L>And all my Friends, the decent Rites had paid,</L>
+<L>Secure I'ad slept, without Reflection layd;</L>
+<L>Now in a distant Land, remote from all,</L>
+<L>Living, and dying, I unpity'd Fall,</L>
+<L>No tender Friend to do the last kind Work,</L>
+<L>To Close my Eyes, for ever after Dark.</L>
+<L><PB N="87" REF="50"/>
+When you receive these Lines, my Dearest Wife▪</L>
+<L>Let not my cares, too much encrease your Grief;</L>
+<L>Inur'd to Sorrows, you know better things,</L>
+<L>You know, too much Concern, a Weakness bring;</L>
+<L>Long you have learnt the Melancholy Trade,</L>
+<L>Read all the Mystery's it ever had;</L>
+<L>Besides, Child, Death it self's no Punishment,</L>
+<L>You lost your Husband in his Banishment,</L>
+<L>The worst of Deaths the Gods con'd e'er invent,</L>
+<L>A Death with infamy, to th' Vilest sent;</L>
+<L>And now if Heav'n wou'd pardon what is past,</L>
+<L>This Pray'r I'de make, and breath it with my last▪</L>
+<L>May no Remains of me, but all entire,</L>
+<L>Stretcht on the Pile, in fiercest Flames expire;</L>
+<L>For shou'd what sond <HI>Pythagoras</HI> says, be true,</L>
+<L>That after Death, our Souls a Being know,</L>
+<L>More Wretched still, to dye in such a Place,</L>
+<L>Unknown the Way, I shou'd be Doom'd to this;</L>
+<L>Converse with Ghosts, that Devils liv'd,</L>
+<L>That never cou'd on Earth be once believ'd,</L>
+<L>This makes me Charge those Servants that I have,</L>
+<L>To see all Burnt, some Ashes only save,</L>
+<L><PB N="88" REF="51"/>
+And these enclos'd within a well made Urn,</L>
+<L>To <HI>Italy,</HI> with haste I wou'd have Born,</L>
+<L>And thus, tho' dead, my Dear, I shall return.</L>
+<L>And who can blame your pious care in this,</L>
+<L>'Tis all inhumane, if it shou'd displease,</L>
+<L>The <HI>Theban</HI> dead, his Corps were stole away,</L>
+<L>And bury'd too, in spite of a Decree:</L>
+<L>Let well-chose Sweets be scatter'd o're my Grave,</L>
+<L>And let my Marble this Inscription have;</L>
+</LG>
+<LG>
+<L>Here, in this Melancholly Vault below,</L>
+<L>Lyes injur'd <HI>Ovid,</HI> all that's <HI>Ovid</HI> now,</L>
+<L>Ʋndone, and ruin'd, while he he strove to move,</L>
+<L>By telling Stories of endearing Love:</L>
+<L>Now whosoe'er thou art, that passest by,</L>
+<L>Pray Heav'n that <HI>Ovid</HI> may securely lye,</L>
+<L>Since thou thy self hast lov'd as well as he.</L>
+</LG>
+<LG>
+<L>This is enough to signifie the Man,</L>
+<L>The rest my Books will do, they speak my Fame,</L>
+<L>Louder, and better, than Inscriptions can.</L>
+<L><PB N="89" REF="51"/>
+Much more I have to say, much more cou'd find,</L>
+<L>Cou'd I with strength deliver all my Mind:</L>
+<L>Take then unfinish'd, what your Husband gives,</L>
+<L>May you enjoy, and long, the World he leaves:</L>
+<L>May you of Blessings have so vast a store,</L>
+<L>'Till Heav'n can give, or you can ask no more.</L>
+<L>The last good thing your <HI>Ovid</HI> he presents,</L>
+<L>He gives you Health, the Blessing that he wants.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="elegy">
+<PB N="90" REF="52" MS="y"/>
+<HEAD>ELEGY IV.</HEAD>
+<HEAD TYPE="sub">To his Friend.</HEAD>
+<HEAD TYPE="sub">Advising him to shun the dangerous Conversation of the Great, recom∣mending a Private Life, with the Advantages of a Retirement.</HEAD>
+<LG>
+<L>TAke this, my Friend, in Dangers often known,</L>
+<L>That durst, in worst of Times, a Friend∣ship own:</L>
+<L>Live to self, always avoid a show,</L>
+<L>The Private, do, the truest Pleasures know,</L>
+<L>Value thy self on Nature's better Care,</L>
+<L>Prefer her Gifts, before his Lordship's Ear;</L>
+<L><PB N="91" REF="52"/>
+Despise the Gaudy Titles that he has,</L>
+<L>The Mouldy instances of former Praise;</L>
+<L>Believe me, for I know it very true,</L>
+<L>None live so happy, as the Private do;</L>
+<L>A small, convenient, little House, I'd choose,</L>
+<L>With some few Friends, try'd by the nicest Laws,</L>
+<L>This I'd Prefer, by much, before a Court,</L>
+<L>With all the Powder'd Fops that there Resort,</L>
+<L>Scarce in appearance Men, so Antick drest,</L>
+<L>Yet when they Talk, their Garb's by much the best;</L>
+<L>To live with such as these, is Hell to Wiser Men,</L>
+<L>That love their Ease, and Studys, more than Gain:</L>
+<L>When <HI>Jove</HI> in anger Throws his Thunder round,</L>
+<L>He levels taller Buildings with the Ground,</L>
+<L>While Humble Cottages untouch'd are found.</L>
+<L>The naked Sail-yard all Attempts defys,</L>
+<L>Fearless of all the force of Waves, and Skies,</L>
+<L>While swelling Sails are drove thro' dangerous ways,</L>
+<L>Russl'd by Winds, that trouble widest Seas;</L>
+<L>O, had I took, what here I now advise,</L>
+<L>You 'ad known me still at <HI>Rome,</HI> in perfect Peace!</L>
+<L><PB N="92" REF="53"/>
+He who by Chance comes down upon a Plain,</L>
+<L>Falls without danger, and may rise again:</L>
+<L>Why was Fam'd <HI>Daedalus</HI> found safe, when he,</L>
+<L>With Wings, as well as <HI>Icarus</HI> did Fly?</L>
+<L>This was the Difference, and only this,</L>
+<L>One kept the Ground, the other Made the Skys;</L>
+<L>When <HI>Daedalus</HI> fell, he rose again with ease,</L>
+<L>But t'other falling from a Praecipice,</L>
+<L>Dy'd i'th' Attempt, and dying Nam'd the Seas.</L>
+<L>Believe me, Friend, and take my very Soul,</L>
+<L>The Truths I tell, are good, and study'd all,</L>
+<L>Quit not Retirement, for Noise, and Show,</L>
+<L>Or Pompous Titles, as the Great Ones do.</L>
+<L>Happy the good, Unknown, who in a Middle State,</L>
+<L>Contented lives, more Vertuous than Great,</L>
+<L>He answers all the Ends the Gods enjoyn,</L>
+<L>No time, but's very well employ'd by him;</L>
+<L>What e'er he says, is all severely true,</L>
+<L>He do's not talk, as Parasites in Courts must do,</L>
+<L>He's always just to what he do's pretend,</L>
+<L>And is, where e'er he promises▪ a Friend:</L>
+<L><PB N="93" REF="53"/>
+Friendship admits of no dissembling Arts,</L>
+<L>But boasts of pure, entire, and perfect parts,</L>
+<L>Allows no more of nauseous Flattery,</L>
+<L>Than pious Laws approve of Treachery;</L>
+<L>But all her Rules, so well you understand,</L>
+<L>You can in loftyer Strains than I, commend;</L>
+<L>You praise it too, by practising the Good,</L>
+<L>And living Perfect, as the Better shou'd.</L>
+<L>Often I think, with what a kind sad look,</L>
+<L>When I left <HI>Rome,</HI> your last Farewell you took;</L>
+<L>With what affection you return'd my Kiss,</L>
+<L>How much concern you show'd in the Surprize,</L>
+<L>What Floods of Tears descended from your Eyes!</L>
+<L>This was Compassionate, and very Kind,</L>
+<L>But this is but a part of what's behind;</L>
+<L>When e'er the Rabble, fond of Misery,</L>
+<L>Breath'd out my Name, with Infamy,</L>
+<L>You, like a Guardian Angel, still stood firm,</L>
+<L>And for my Sake, oppos'd the loudest Storm;</L>
+<L>For this, the World shall pay eternal Praise,</L>
+<L>And read your Name in never dying Verse;</L>
+<L><PB N="94" REF="54"/>
+My Person's Banish'd, but my Name's still free,</L>
+<L>And boasts, a great, and glorious Liberty.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="elegy">
+<HEAD>ELEGY V.</HEAD>
+<HEAD TYPE="sub">To his Friend.</HEAD>
+<HEAD TYPE="sub">Whom he calls by a Feign'd Name, <HI>Charus.</HI></HEAD>
+<LG>
+<L>WHen the last Morn's unwelcome Light came on,</L>
+<L>When I must leave my Wife, my Friends, and <HI>Rome,</HI></L>
+<L>Well I remember then, how kindly you,</L>
+<L>Profess'd a Friendship ever since prov'd true;</L>
+<L>Nor had I long, my Friend, the Blessing known,</L>
+<L>Which made it dearer than it wou'd have bin,</L>
+<L><PB N="95" REF="54"/>
+That you, while I, undone, neglected stood,</L>
+<L>Shou'd then, an early Friendship too, make good,</L>
+<L>Was such a generous, and noble thought,</L>
+<L>It reach'd the highest Pitch that Friendship ought;</L>
+<L>Nor yet do's Absence alter your Design,</L>
+<L>But still, my <HI>Charus,</HI> you continue Mine;</L>
+<L>Often you dare to take a Sufferer's Part,</L>
+<L>And none, than <HI>Charus,</HI> boasts a nicer Art;</L>
+<L>Your Eloquence with so much force can move,</L>
+<L>Severest Judges a'most partial prove;</L>
+<L>What can you do then, when a sort of Right,</L>
+<L>Pleads for your Friend, and you, my Friend, Plead it?</L>
+<L>This is my Case, in this, use all your Skill,</L>
+<L><HI>Caesar</HI> is good, and will forgive an Ill,</L>
+<L>For mine's a Crime, because he thinks so still.</L>
+<L>The Great, and Valiant, is the Generous Foe,</L>
+<L>He scorns what little petty Conquerors do,</L>
+<L>His Honour prompts him by a better Law.</L>
+<L>The Fault once own'd, he soon Forgives the Crime,</L>
+<L>And ne'er upbraids, till he's provok'd again;</L>
+<L><PB N="96" REF="55"/>
+So fiercest Lions, tho' their Power great,</L>
+<L>Pardon the Weak, when Prostrate at their Feet,</L>
+<L>Such an Acknowledgment decides the Fray,</L>
+<L>And this is certainly the nobler way;</L>
+<L>But Wolves, and Bears, of an inferiour Race,</L>
+<L>Always the same, are fierce in every Place,</L>
+<L>They no Submission take, but seize their Prey,</L>
+<L>And rudely bear the trembling Beast away.</L>
+<L>Who was e'er Rougher than <HI>Achilles</HI> was?</L>
+<L>Yet <HI>Dardanus</HI> his Griefs took so much Place,</L>
+<L>His VVrongs was read in Fierce <HI>Achilles</HI> Face;</L>
+<L>Such thoughts as these, make me expect Relief,</L>
+<L>That Heav'n will one day mitigate my Grief:</L>
+<L>Had I bin conscious of some Mighty Fault,</L>
+<L>I durst not then, so much as this have Thought;</L>
+<L>Had I in VVine profan'd great <HI>Caesar</HI>'s Name,</L>
+<L>Manag'd reflectingly so good a Theme;</L>
+<L>Had I bin Treacherous, I shou'd desire to dye,</L>
+<L>Rather than live with so much infamy;</L>
+<L>But for beholding what I cou'd not shun,</L>
+<L>Banish'd, for what my Eyes have only done,</L>
+<L>Is hard, and yet for this I'm Banish'd <HI>Rome.</HI></L>
+<L><PB N="97" REF="55"/>
+Now, what I ask, is, you wou'd intercede,</L>
+<L>If Liberty is never to be had,</L>
+<L>Pray my Removal from this horrid Place,</L>
+<L>And I'le rest satissy'd, my Friend, with this.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="elegy">
+<HEAD>ELEGY VI.</HEAD>
+<HEAD TYPE="sub"><HI>To</HI> Perilla.</HEAD>
+<LG>
+<L>GO to <HI>Perhilla,</HI> Letter, hasty Go,</L>
+<L>Tell her of e'ery Circumstance you know;</L>
+<L>You'll find her Waiting by her Mother stand,</L>
+<L>List'ning, and Running, at the least Command▪</L>
+<L>What e'er she's doing of, tell her of me,</L>
+<L>She'll leave it all, and quickly follow thee;</L>
+<L>A thousand times she'll ask you how I do?</L>
+<L>Whether I'm melancholly still, or No?</L>
+<L><PB N="98" REF="56"/>
+Whether my Health e'ent injur'd by my Fate,</L>
+<L>And I grown old, and bend beneath the Weight?</L>
+<L>To all she says, make her this short Reply,</L>
+<L>I live, but live impatiently to Dye:</L>
+<L>Tell her, the Mases are my Care again,</L>
+<L>And all the Pleasure that I have's in them;</L>
+<L>And while you talk, ask her be sure, why she,</L>
+<L>Busy'd in other Studies, left her Poetry?</L>
+<L>She had a sort of Right, by Birth to plead,</L>
+<L>Her Father's Wit, has always bin allow'd;</L>
+<L>'Twas very hard, shou'd Children only live,</L>
+<L>Entitl'd to Diseases, that their Parents have;</L>
+<L>Sometimes a Fathers Wit's a happy Share,</L>
+<L>A Promising Portion, in the meanest Heir;</L>
+<L>When Nature in <HI>Perilla</HI> prov'd her Care,</L>
+<L>And Form'd her Perfect, as the Nicest are,</L>
+<L>When every Stroak Foretold a certain Reign,</L>
+<L>And Pregnant Wit, early deserv'd a Name,</L>
+<L>'Twas then, I brought her to the sacred Spring,</L>
+<L>And gave her to the Nine a grateful Offering,</L>
+<L>They soon inspir'd with Art and Thought,</L>
+<L>And all her Lines were Smooth, as she were Taught;</L>
+<L><PB N="99" REF="56" MS="y"/>
+None than <HI>Perilla</HI> more sublimely Flew,</L>
+<L>Yet never lost, her Rules severely True;</L>
+<L>If Charming <HI>Lesbia</HI> sung a nobler Song,</L>
+<L><HI>Lesbia</HI> with Pains had Read the Muses long,</L>
+<L><HI>Perilla</HI> in her Infant Age writ strong.</L>
+<L>Often with Pray'rs, I blest th' Auspicious Sign,</L>
+<L>Kist the young Girl, in all her Actions Mine,</L>
+<L>Often I wonder'd at the mighty Pow'r,</L>
+<L>A Tale I'ad heard, but never knew before;</L>
+<L>Thus was my thoughts Rais d to a vast Height,</L>
+<L>To see my Darling Care, <HI>Perhilla</HI> Great,</L>
+<L>When strait, some angry God his Thunder threw,</L>
+<L>And striking me, he struck <HI>Perilla</HI> too;</L>
+<L>No sooner was my Banishment Decreed,</L>
+<L>But my great hopes, were in a Moment dead,</L>
+<L><HI>Perilla,</HI> all her Books aside had laid.</L>
+<L>What tho' by Reading I'm unfortunate?</L>
+<L>You may expect, my Dear, a better Fate;</L>
+<L>Beauty, 'tis true, you have a wondrous Share,</L>
+<L>But Beauty, Child, tho' every Parent's care,</L>
+<L>Shines but a while, and then will Disappear;</L>
+<L><PB N="100" REF="57"/>
+But Ladies that have Wit and Beauty too,</L>
+<L>May boast more Slaves than Richest Tyrants do;</L>
+<L>Nay, when Time has Plough'd the lovely Face,</L>
+<L>And all <HI>Perilla</HI>'s thousand Charms, decrease,</L>
+<L>Her Eyes less sprightly, and her Lips less red,</L>
+<L>Ner Nose, her Cheeks, look nothing as they did;</L>
+<L>Her Wit shall still a mighty Empire know,</L>
+<L>And all Mankind shall to <HI>Perilla</HI> Bow:</L>
+<L>Let this, my Dear, make you assume your Pen,</L>
+<L>And read, with care, your Authors o'er again,</L>
+<L>And Bless the World with th' Issue of your Brain.</L>
+</LG>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="57"/>
+<P>VERSES UPON Several Occasions: WITH SOME Translations Out of the <HI>Latin</HI> and <HI>Greek</HI> Poets.</P>
+<P>By the same Author.</P>
+<P><HI>LONDON,</HI> Printed for <HI>Richard Cumberland,</HI> 1697.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poems">
+<PB REF="58"/>
+<HEAD><PB N="103" REF="58"/>
+VERSES UPON Several Occasions.</HEAD>
+<DIV2 TYPE="odes">
+<HEAD>ODE 3. <HI>Horace,</HI> Lib. 1.</HEAD>
+<DIV3 TYPE="ode">
+<HEAD><HI>To</HI> VIRGIL, Taking a Voyage to <HI>Athens.</HI></HEAD>
+<LG>
+<L>MAy <HI>Venus</HI> happily Conduct my Friend,</L>
+<L>And <HI>Helen</HI>'s Brothers, shining Stars, de∣fend▪</L>
+<L>May <HI>Aeolus,</HI> whose Voice the Winds obey,</L>
+<L>Make thee his Care, and still the Raging Sea,</L>
+<L>Chain in his Den each Wind, but what you want,</L>
+<L>And like a God Protect, and Storms prevent;</L>
+<L><PB N="104" REF="59"/>
+And you, Fond Ship, proud of your Burthen now,</L>
+<L>Sail with more care, than usually you do,</L>
+<L>Safely convey him, to the <HI>Attick</HI> Lands,</L>
+<L>The best of Poets, and the best of Friends,</L>
+<L>In this you will Preserve my better Half,</L>
+<L>My <HI>Virgil,</HI> Dearer to me than my self.</L>
+<L>His Heart was more than Brass, who first durst go,</L>
+<L>And visit distant Shoars, as we do now,</L>
+<L>Safe in a Ship, the Floting Monsters see,</L>
+<L>And be no more Concern'd i'th' Deep, than they,</L>
+<L>Caress the Watery People as they come,</L>
+<L>And smile, as tho' some Common thing he'ad done:</L>
+<L>In vain, the Prudent Deities divide,</L>
+<L>Confine Mankind by an impetuous Tide,</L>
+<L>While Impious Ships can Cross the Roughest Seas,</L>
+<L>In spite of all the Force of Waves and Skies.</L>
+<L>Nothing's so Mad, that foolish Man won't do,</L>
+<L>Courting Forbidden Ills, because they're so.</L>
+<L><HI>Prometheus</HI> long ago, begun the Way,</L>
+<L>Stealing <HI>Jove</HI>'s Fire to Animate his Clay,</L>
+<L><PB N="105" REF="59"/>
+But soon the God persu'd him with his Pow'r,</L>
+<L>Sent him Diseases, never known before:</L>
+<L>While Death mov'd slowly, in a lazy Pace,</L>
+<L>Ages Man liv'd, and good, and happy was,</L>
+<L>But now his Life's Contracted to a Span,</L>
+<L>Scarce sooner is he Born, than he is gone,</L>
+<L>His Sin, made jealous Heav'n snatch him hence,</L>
+<L>With hasty Death confound his Arrogance.</L>
+<L>Fond <HI>Daedalus,</HI> with Wings must needs go Try,</L>
+<L>To Cut the Air, and reach the Liquid Sky,</L>
+<L>A Pow'r, which Nature's wiser Laws deny.</L>
+<L>Thro' Hell below, the Fierce <HI>Alcides</HI> Ran,</L>
+<L>A Place, where none, one wou'd 'ave thought, wou'd gone.</L>
+<L>Grown Gyants in Impiety, we swell,</L>
+<L>And Brave the Gods, that wou'd at quiet dwell;</L>
+<L>Nay, <HI>Jove</HI> Assault in his Imperial Throne,</L>
+<L>Uneasy, if he lays his Thunder down.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="odes">
+<PB N="106" REF="60"/>
+<HEAD>ODE 5. lib. 1.</HEAD>
+<DIV3 TYPE="ode">
+<HEAD>To <HI>Pyrrha.</HI></HEAD>
+<LG>
+<L>WHat Youth, unskill'd in <HI>Pyrrha</HI>'s Wan∣ton Art,</L>
+<L>Offers his Love, and gives thee all his Heart?</L>
+<L>With Choice Perfumes, like a drest, amorous Beau,</L>
+<L>Courts Charming <HI>Pyrrha,</HI> as I us'd to do;</L>
+<L>Knocks at thy Door, and fears to be deny'd,</L>
+<L>Loving his <HI>Pyrrha</HI> more than all, beside;</L>
+<L>For whom do you those Flowing Locks prepare?</L>
+<L>Careless, yet finer, than the nicest are;</L>
+<L>When time shall show him what his <HI>Pyrrha</HI> is,</L>
+<L>How will he Curse his Fond mistaken Bliss!</L>
+<L>When he, ne'er us'd to swelling Seas before,</L>
+<L>Looks back, and sees the dear deserted Shoar,</L>
+<L><PB N="107" REF="60"/>
+How often will he Weep his Wretched Fate?</L>
+<L>And Curse his Stars, that so severely Hate;</L>
+<L>Tho' now he eager, Rifles all thy Charms,</L>
+<L>And thinks no Blessings like his <HI>Pyrrha</HI>'s Arms;</L>
+<L>Ne'er doubts at all, but you will always Prove,</L>
+<L>Constant like him, Engaging still in Love:</L>
+<L>Unhappy Men! to whom unknown you shine,</L>
+<L>Who fondly think you're Good, because you'r Fine,</L>
+<L>I felt the Storm my Self, and then I Vow'd,</L>
+<L>For ever after to Adore th' Assisting God,</L>
+<L>And here, this Table shows I dread the Flood.</L>
+</LG>
+</DIV3>
+<DIV3 TYPE="ode">
+<HEAD>To <HI>Clarinda.</HI></HEAD>
+<LG>
+<L>TO Pray's a Priviledge the Gods allow,</L>
+<L>They kindly give us leave to Love 'em too,</L>
+<L>And what the Gods Approve, I hope you do.</L>
+<L>Poets, like me, Complain, Admire, Adore,</L>
+<L>Love, Write, Dye, and Dying, own your Pow'r,</L>
+<L><PB N="108" REF="61"/>
+And tho' the Nymph's as Good, and Fair as you,</L>
+<L>Twas ne'er <HI>Clarinda</HI> thought a Crime to Bow.</L>
+<L>The Sun, his Beams does equally Display,</L>
+<L>And kindly gives the Good, and Bad, a Day,</L>
+<L>Your Charms, as powerful are, as great as his,</L>
+<L>More than his Heat, your Wit, and Beauty, please;</L>
+<L>But shou'd your Influence no farther go,</L>
+<L>Than those that live, and look, and talk like you,</L>
+<L>As just <HI>Astraea,</HI> from the World you'd Fly,</L>
+<L>And Heav'n Oblige with better Company.</L>
+</LG>
+<LG>
+<L>Gods! when we View the Beauties of your Mind,</L>
+<L>Unmixt with Pri de, Ambition, or Design,</L>
+<L>Nature had fondly giv'n so vast a store,</L>
+<L>Had not your Family bin Prodigies before;</L>
+<L>Wit unaffected, States, and Empires Rules,</L>
+<L>Endears the Good, exposes Fops and Fools.</L>
+<L>If Wit alone Commands, and makes a Slave,</L>
+<L>How many Thousands must <HI>Clarinda</HI> have?</L>
+<L>Whose Tongue, or Eyes, can either Kill or Save.</L>
+</LG>
+<LG>
+<PB N="109" REF="61"/>
+<L>When Beauty mov'd, and Love, and Wit, first Took,</L>
+<L>In soft, engaging Numbers, Lovers spoke,</L>
+<L>Easy you Reign'd, and willingly they Bore,</L>
+<L>The pleasing Bondage of so just a Pow'r;</L>
+<L>Like them of old, we Love, and like them too,</L>
+<L>Artless we Write, of any thing, but you.</L>
+</LG>
+<LG>
+<L>Heaven ne'er wants it's Thunder, yet the Air</L>
+<L>Is sometimes Calm, Serene, and very Clear,</L>
+<L>Shou'd Storms arise, and Winds for ever Blow,</L>
+<L>While Nature Triumph'd in so Wild a Show,</L>
+<L>No longer we shou'd Relish Life below.</L>
+<L>Like Heav'n, Madam, let your Goodness move,</L>
+<L>While we Return our Wonder, and our Love,</L>
+<L>And tho' you gently Reign, yet like the Skies,</L>
+<L>Command your Lightning, when we Dare De∣spise.</L>
+</LG>
+</DIV3>
+<DIV3 TYPE="poem">
+<PB N="110" REF="62"/>
+<HEAD>Upon <HI>Philis</HI> Frowning.</HEAD>
+<LG>
+<L><HI>PHilis,</HI> those Frowns will never Punish now,</L>
+<L>Had you but Frown'd some Twenty Years ago,</L>
+<L>Some injudicious Lover might have Whin'd,</L>
+<L>And sigh'd, because his <HI>Philis</HI> were unkind;</L>
+<L>Age now hath made your Forehead far from streight,</L>
+<L>By Planting Wrinkles, that the Young Men hate;</L>
+<L>Nor do the Elder love a Wither'd Face,</L>
+<L>By which they Read their own, as in a Glass,</L>
+<L>Deaths Heads, and Skeletons, Physitians keep,</L>
+<L>But never lay 'em by 'em when they sleep.</L>
+<L>Then Smile, my <HI>Philis,</HI> do, and Paint thy Skin,</L>
+<L>Defye the Girls, and try to be Fifteen.</L>
+</LG>
+</DIV3>
+<DIV3 TYPE="poem">
+<PB N="111" REF="62" MS="y"/>
+<HEAD><HI>To a</HI> young Lady of Sixteen, upon her Marrying a Man of Seventy Three.</HEAD>
+<LG>
+<L>IN vain, <HI>Clarana,</HI> Nature gave you Charms,</L>
+<L>To spend your Youth, in <HI>Nisus</HI> Frozen Arms;</L>
+<L>To hug a Poor, Insensible, Old Man;</L>
+<L>Whose Teeth, and Eyes, as well as Tast, is gone;</L>
+<L>Or shou'd he have a Tooth, (which few believe)</L>
+<L>'Tis Odds, but with a Kiss, the Tooth you have▪</L>
+<L>Had you bin ever Lewd, I shou'd have thought,</L>
+<L>Some Pious Fancy had the Pennance Taught;</L>
+<L>Yet this can never be, no Fear of Evil,</L>
+<L>Cou'd ever make <HI>Clarana</HI> love the Devil;</L>
+<L>No Popish Priest cou'd such damn'd Doctrine tell,</L>
+<L>To Merit Heaven, send a Soul to Hell;</L>
+<L>'Twas Gold that Reconcil'd the Difference,</L>
+<L>And made Sixteen with Seventy three dispence.</L>
+</LG>
+</DIV3>
+<DIV3 TYPE="poem">
+<PB N="112" REF="63"/>
+<HEAD>Ʋpon a Young Ladies Birth-Day. <HI>Aged 7.</HI></HEAD>
+<LG>
+<L>WHen Bolder Atheists Nature's power deny,</L>
+<L>She gives the Wandring World a Pro∣digy,</L>
+<L>Easily Confounds their deepest laid Design,</L>
+<L>Proving her Care, with something strangely Fine'</L>
+<L>Such was her Work, when this Day's Welcome Light,</L>
+<L>Made her, in you, Assert her utmost Right,</L>
+<L>When Heav'n return'd, for Pains your Mother knew,</L>
+<L>The most Engaging Blessing, Heav'n cou'd do,</L>
+<L>And Blest not only her, but All, in you.</L>
+<L>Long may you live, our Wonder, and our Care,</L>
+<L>Witty as Great, and Good, as you are Fair,</L>
+<L><PB N="113" REF="63"/>
+You need not <HI>Kneller</HI>'s Paint, nor <HI>Waller</HI>'s Pen,</L>
+<L>Nature, without their Art, design'd your Reign:</L>
+<L>When Age shall ripen all those Growing Charms,</L>
+<L>And e'ery Look with wonderous Force Alarms;</L>
+<L>When willingly a Thousand Lovers Dye,</L>
+<L>And tell their Heart, by speaking with their Eye,</L>
+<L>A mighty Empire, Madam, then you'll know,</L>
+<L>While none Contends for Empire, but for you.</L>
+</LG>
+</DIV3>
+<DIV3 TYPE="poem">
+<HEAD>To <HI>Philis.</HI></HEAD>
+<LG>
+<L>FOr God sake, <HI>Philis,</HI> be n't so Coy,</L>
+<L>I never lov'd you yet, not I:</L>
+<L>Had you Drest well, been Fair, and Clear,</L>
+<L>And Sweet, and Clean, as others are;</L>
+<L>Good natur'd, humble, Modest, Witty,</L>
+<L>Fine, Well-bred, and something Pretty,</L>
+<L>Amidst ten thousand Lovers then,</L>
+<L><HI>Philis,</HI> 'tis odds, but you'd had some;</L>
+<L><PB N="114" REF="64"/>
+Nay, I perhaps might then been Caught,</L>
+<L>However, Lov'd you in a Fit,</L>
+<L>When Drunk, or Mad, to <HI>Philis</HI> run,</L>
+<L>And Kist her Mouth, and Curst my own:</L>
+<L>Tho' this may lucky prove, 'tis true,</L>
+<L>To any one that Marrys you,</L>
+<L>Shou'd he be Ill, and want to Spew,</L>
+<L>'Tis only, <HI>Philis,</HI> viewing you;</L>
+<L>Or shou'd he be advis'd to Sh—te,</L>
+<L>The self-same Object do's the Feat;</L>
+<L>But shou'd my <HI>Philis</HI> e'er be Wed,</L>
+<L>What Monsters, <HI>Philis,</HI> must you Breed;</L>
+<L>With staring Eyes, and Asses Ears,</L>
+<L>With Monkeys Tales, and Skins like Bears;</L>
+<L>For fear of this live Virgin still,</L>
+<L>And venture leading Apes in Hell.</L>
+</LG>
+</DIV3>
+<DIV3 TYPE="song">
+<PB N="115" REF="64"/>
+<HEAD>A SONG.</HEAD>
+<LG>
+<L><HI>CLarinda</HI> still disputes my Love,</L>
+<L>Unkind denys my Flame,</L>
+<L>Tho' all my Looks my Passion prove,</L>
+<L>Yet still I Love in vain.</L>
+</LG>
+<LG>
+<L>When Gods above their Lightning Throw,</L>
+<L>The strongest feel their Pow'r,</L>
+<L>But this, <HI>Clarinda,</HI> they ne'er do,</L>
+<L>'Till we refuse t' Adore.</L>
+</LG>
+<LG>
+<L>But you as Good, was you as Kind,</L>
+<L>Can Unprovok'd Destroy,</L>
+<L>Careless behold the Swain you find,</L>
+<L>When he for you must Dye.</L>
+</LG>
+<LG>
+<L>And tho' none Boasts a better Right,</L>
+<L>Yet let me this Advise,</L>
+<L>Conceal those Beauty's that Invite,</L>
+<L>Or Pity him that Dyes.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="ode">
+<PB N="116" REF="65"/>
+<HEAD><HI>Hor.</HI> ODE 34. <HI>lib.</HI> 1.</HEAD>
+<HEAD TYPE="sub">He Resolves to be Religious.</HEAD>
+<LG>
+<L>I Who the Deitys so seldom Pray'd,</L>
+<L>But follow'd the Delights of Sense,</L>
+<L>That no Religion ever yet Obey'd,</L>
+<L>But <HI>Epicurus</HI> fond Pretence,</L>
+<L>My impious Error, have at last perceiv'd,</L>
+<L>At last grown Good, and Vertue's Rules believ'd.</L>
+</LG>
+<LG>
+<L>For very lately, <HI>Jove,</HI> I angry heard,</L>
+<L>His Rolling Thunder rent the Sky,</L>
+<L>The Wondering World, amaz'd, were all affraid,</L>
+<L>And Trembl'd at his Majesty,</L>
+<L>His Lightning Prov'd his awful Reign and Pow'r,</L>
+<L>And made me too, tho' very late, Adore,</L>
+</LG>
+<LG>
+<L>How did he shake Remotest Lands and Seas?</L>
+<L>The Noise, disturb'd the very Dead,</L>
+<L>The Ghosts in Wild Disorder all Arose,</L>
+<L>And <HI>Pluto,</HI> tho' a God, Obey'd,</L>
+<L><PB N="117" REF="65"/>
+The Lightning Pierc'd his Shady Walks, so Bright,</L>
+<L>His Weaker Flames were all Extinguisht quite.</L>
+</LG>
+<LG>
+<L>How does he sport with greatest Monarchs Pow'r?</L>
+<L>Snatch from their Heads the Glorious Crown,</L>
+<L>And make the Meanest, Royal Ensigns Wear,</L>
+<L>To Prove all Kingdoms are his Own;</L>
+<L>And under him, we see Blind Fortune Reigns,</L>
+<L>Never more pleas'd than in the greatest Change.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="ode">
+<HEAD>ODE 9. <HI>Hor.</HI> Lib. 3.</HEAD>
+<HEAD TYPE="sub">A Dialogue betwixt <HI>Hor.</HI> and <HI>Lydia.</HI></HEAD>
+<SP>
+<SPEAKER>Horace.</SPEAKER>
+<LG>
+<L>WHile I was welcome to my <HI>Lydia</HI>'s Arms,</L>
+<L>And no smooth Youth had any Part,</L>
+<L>How did I Prize my <HI>Lydia</HI>'s melting Charms?</L>
+<L>And eager, gave her all my Heart:</L>
+<L><PB N="118" REF="66"/>
+No joys like what her amorous looks cou'd Teach,</L>
+<L>Each happy Smile was worth a Crown,</L>
+<L>No <HI>Persian</HI> King was ever half so Rich,</L>
+<L>As I, while <HI>Lydia</HI> was my Own.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Lydia.</SPEAKER>
+<LG>
+<L>Whilst <HI>Horace</HI> Soul, my Beauty cou'd Inspire,</L>
+<L>And <HI>Chloe</HI>'s Charms, ne'er Warm'd his Breast,</L>
+<L>How did I meet him with a Glowing Fire!</L>
+<L>And never thought my self so Blest.</L>
+</LG>
+<LG>
+<L>His Seeming Passion gave Assurance too,</L>
+<L>While Woods resounded <HI>Lydia</HI>'s Name,</L>
+<L>Too Credulous <HI>Lydia</HI> thought him True,</L>
+<L>And often boasted of the same.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Horace.</SPEAKER>
+<LG>
+<L>Ah <HI>Lydia, Chloe</HI> now has all my Heart,</L>
+<L>For her I willingly wou'd dye,</L>
+<L><HI>Chloe,</HI> that Sings, and Plays, so fine a Part,</L>
+<L><HI>Chloe,</HI> her self, all Harmony.</L>
+</LG>
+</SP>
+<SP>
+<PB N="119" REF="66"/>
+<SPEAKER>Lydia.</SPEAKER>
+<LG>
+<L>Ah <HI>Horace, Calais</HI> succeeds you now,</L>
+<L>And Boasts a finer Mien, and Air,</L>
+<L>So much in Feats of Love out-does you too,</L>
+<L>I'de dye two Deaths to save my Dear.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Horace.</SPEAKER>
+<LG>
+<L>What if my former Love returns again?</L>
+<L>And I, for <HI>Lydia</HI> shou'd dye,</L>
+<L>Fondly admire each Smile, and Dread each Frown'</L>
+<L>And <HI>Chloe</HI>'s Charms again deny.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Lydia.</SPEAKER>
+<LG>
+<L>Tho' lovely <HI>Calais</HI> shines like any Star,</L>
+<L>Is Young, and Gay, and Constant too,</L>
+<L>Yet I must Own, I love my <HI>Horace</HI> more,</L>
+<L>And I had rather live with you.</L>
+</LG>
+</SP>
+</DIV2>
+<DIV2 TYPE="odes">
+<PB N="120" REF="67"/>
+<HEAD>ODE 19. <HI>Hor.</HI> Lib. 1.</HEAD>
+<DIV3 TYPE="poem">
+<HEAD>To <HI>Glycera.</HI></HEAD>
+<LG>
+<L><HI>VEnus</HI> engages with her Art,</L>
+<L>Officious <HI>Cupid</HI> Plays his Part;</L>
+<L>Besides, my Inclinations move,</L>
+<L>And Wanton, still are Pressing Love;</L>
+<L><HI>Glycera,</HI> more Bright than Marbles Shines,</L>
+<L><HI>Glycera,</HI> my very Soul inclines;</L>
+<L>Her Pretty Womanly Disdain,</L>
+<L>Doubles my Love, as well as Pain,</L>
+<L>Every well Appointed Frown,</L>
+<L>Makes me, <HI>Glycera,</HI> more your own:</L>
+<L>How have I view'd that lovely Face!</L>
+<L>How do I still with Wonder Gaze!</L>
+<L><HI>Venus</HI> left her <HI>Cyprian</HI> Grove,</L>
+<L>And came to teach me all her Love,</L>
+<L><PB N="121" REF="67"/>
+As soon as I the Goddess met,</L>
+<L>She told me, she wou'd have me Write,</L>
+<L>But Write no more, says she, of Wars,</L>
+<L>That fill your Head with idle Fears,</L>
+<L>How <HI>Parthians</HI> Fight, and Fighting Fly,</L>
+<L>What is such Stuff to you or I?</L>
+<L>Write me some Stories that may move,</L>
+<L>And Melt the Longing Girl with Love;</L>
+<L>While trembling Limbs, and sparkling Eyes,</L>
+<L>Disorder'd words, and short-breath'd Sighs,</L>
+<L>Show how she Loves, and Loving, Dyes.</L>
+<L>In this the Goddess I'll Obey,</L>
+<L>In this same Place an Altar lay,</L>
+<L>Here Offer at the Goddess Shrine,</L>
+<L>And Beg she wou'd, as now Incline,</L>
+<L>And make the Charming <HI>Glycera</HI> mine.</L>
+</LG>
+</DIV3>
+<DIV3 TYPE="poem">
+<PB N="122" REF="68"/>
+<HEAD>The Parting.</HEAD>
+<LG>
+<L><HI>CLarinda</HI>'s Eyes have prov'd Love's Empire True,</L>
+<L>Made me, tho' long a Rebel, Own it too;</L>
+<L>When I, Commanded, took my last Farewell,</L>
+<L>Gods! what strange Disorders did I feel!</L>
+<L>How my swol'n Eyes discharg'd ther mighty store!</L>
+<L>And Wept, as tho' they'ad never Wept before;</L>
+<L>As Snow around the Taller Mountains hangs,</L>
+<L>Which Rain dissolves, and to the Valleys brings,</L>
+<L>Whose Rapid Torrent threatens all the Way,</L>
+<L>Not stopt by Houses till it Reach the Sea:</L>
+<L>So was it, when my Eyes, brim-full, o'erflow'd,</L>
+<L>None saw the Stream, but fear'd the growing Flood;</L>
+<L>And had not I, thro' Weakness, Dy'd away,</L>
+<L>No doubt, but I my Self had made a Sea:</L>
+<L><PB N="123" REF="68"/>
+Often I'ad heard of <HI>Venus,</HI> and her Son,</L>
+<L>Often been told what Miracles they'ad done;</L>
+<L>How they cou'd make the Obstinatest sigh,</L>
+<L>Nay more, much more, admire, adore, and dye;</L>
+<L>But these were idle, senceless Tales to me,</L>
+<L>An Infidel in Love's Divinity:</L>
+<L><HI>Venus,</HI> I thought, might Charm some Amorous Youth,</L>
+<L>And <HI>Cupid</HI>'s Beauty might have bin a Truth,</L>
+<L>But to Believe his Arrows, Bow, and Darts,</L>
+<L>Were Form'd to Murder, or to Soften Hearts,</L>
+<L>Were Stuff, I thought, but find it very True,</L>
+<L>And willingly Retract my Error now.</L>
+<L>Some Months agon, as I <HI>Clarinda</HI> Gaz'd,</L>
+<L>My Heart unusual Pulses Beat, amaz'd,</L>
+<L>I unaccountably began to Sigh,</L>
+<L>But soon, disorder'd all, thought Death were nigh,</L>
+<L>Ne'er Dreamt of Love, i'th' least, not I;</L>
+<L>Till One, whom long Experience made Wise,</L>
+<L>Told me 'twas Love, the Symptoms had bin his:</L>
+<L><PB N="124" REF="69"/>
+No sooner had he told me what he knew,</L>
+<L>But strait an Arrow from Love's Quiver flew,</L>
+<L>And prov'd his Story litterally True.</L>
+<L>Forgive me, <HI>Cupid,</HI> tho' I late Adore,</L>
+<L>I Feel, as well as Dread the Conquerour,</L>
+<L>And if I e'er again Reflect on Thee,</L>
+<L>May I be Damn'd for my Apostacy.</L>
+</LG>
+<LG>
+<L>Forgive me, <HI>Venus,</HI> for I've injur'd you,</L>
+<L>Profane, ne'er Worshipt, as I Ought to do;</L>
+<L>Forgive me, lovely Maid, to you I Bow,</L>
+<L>Fore you have sinn'd, and humbly Own it too;</L>
+<L>To see <HI>Clarinda,</HI> and to Rail at Love,</L>
+<L>Deserv'd no less than Thunder from above:</L>
+<L>Tho' you 'ave no need of Forreign Aid, or Skill,</L>
+<L>Your Eyes with Lightning can as surely Kill,</L>
+<L>Sooner the Gyants might their Heaven Scale,</L>
+<L>Than I against <HI>Clarinda</HI>'s Force, Prevail;</L>
+<L>But Oh! when I a full Obedience show'd,</L>
+<L>And Own'd you Fair, and found you very Good,</L>
+<L>Not Proud, Reserv'd, nor yet more Free,</L>
+<L>Than Well-bred Ladies always ought to be,</L>
+<L><PB N="125" REF="69"/>
+How happy was I thought by all that knew!</L>
+<L>How smoothly did the pleasing Minutes Flow!</L>
+<L>Till that, (too too severe Decree) that Day,</L>
+<L>Curse on it's Light! that Hurry'd me away;</L>
+<L>Not Trembling Ghosts with more Abhorrence Go,</L>
+<L>Change their Abodes, for Gloomy Walks below,</L>
+<L>Than I, Confounded, from <HI>Clarinda</HI> Went,</L>
+<L>Plung'd in the Deepest Sea of Discontent.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="odes">
+<HEAD><HI>Horace,</HI> ODE 29. Lib. 1.</HEAD>
+<DIV3 TYPE="ode">
+<HEAD><HI>To</HI> Iccius.</HEAD>
+<HEAD TYPE="sub">Upon his Changing his Study of Philo∣sophy for that of War.</HEAD>
+<LG>
+<L>MUch did I wonder, <HI>Iccius,</HI> when I heard,</L>
+<L>That you, mov'd with th' <HI>Arabian</HI> Gold,</L>
+<L>Had Chang'd the Course that you so long had steer'd,</L>
+<L>And all your Ease, and Freedom sold.</L>
+</LG>
+<LG>
+<PB N="126" REF="70"/>
+<L>That you Philosophy shou'd leave for War!</L>
+<L>And growing Old, begin to Fight,</L>
+<L>Chains for <HI>Sabean</HI> Kings, and <HI>Medes</HI> prepare,</L>
+<L>A Work you never thought of yet.</L>
+</LG>
+<LG>
+<L>What lovely Virgin shall Entreat my Friend,</L>
+<L>Rob'd of the Charming Youth she lov'd?</L>
+<L>What Royal Boy your Hapiness attend,</L>
+<L>With joys that <HI>Iccius</HI> always Mov'd?</L>
+</LG>
+<LG>
+<L>Who now Affirms that Floods mayn't backwards Run?</L>
+<L>Nay <HI>Tyber</HI>'s self, forsake her Course,</L>
+<L>Like other Streams, see Springs where she begun,</L>
+<L>And 'ffright the Mountains with their Force.</L>
+</LG>
+<LG>
+<L>Since you, your well chose Books aside have laid,</L>
+<L>And all the Pleasure Learning brings,</L>
+<L>Begin to learn a bloody dangerous Trade,</L>
+<L>That always promis'd better Things.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="ode">
+<PB N="127" REF="70"/>
+<HEAD>ODE 31.</HEAD>
+<HEAD TYPE="sub">He asks a moderate Fortune, with much Health.</HEAD>
+<LG>
+<L>WHat will the Poet ask the Gods to day?</L>
+<L>For what, when he performs his Of∣ferings, Pray?</L>
+<L>Not for the Rich <HI>Sardinia</HI>'s Fruitful Ground,</L>
+<L>Nor Fatted Herds, in Dry <HI>Calabria</HI> found;</L>
+<L>Not Gold, nor Ivory, nor Richest Meads,</L>
+<L>Where Deep, but Pleasant <HI>Lyris</HI> silent Glides;</L>
+<L>Let them that have 'em, Prune their Tender Trees,</L>
+<L>Manage with Care, what ever Fortune gives;</L>
+<L>Let the Rich Merchant, safe Arriv'd at last,</L>
+<L>In Golden Goblets, drink a mighty Draught,</L>
+<L>Thank Heaven for his Deliverance from Harms,</L>
+<L>Out-sailing Pyrats, and out living Storms:</L>
+<L><PB N="128" REF="71"/>
+Olives, and Mallows, rather be my Food,</L>
+<L>Ease, my Delight, and Books, my Chiefest Good.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>The Golden Age.</HEAD>
+<LG>
+<L>SUch was the World, when no Contention Reign'd,</L>
+<L>When Heaven with Ease, and Plenty, blest Mankind,</L>
+<L>When Nature, in a Pure, but simple Dress,</L>
+<L>Taught Men the truest way to Happiness;</L>
+<L>E'er Artifice, Intrigue, Cunning, Design,</L>
+<L>Had yet employ'd the Busie States-Man's Mind;</L>
+<L>E'er Bolder Atheists durst Dispute the Earth,</L>
+<L>And make it take an Accidental Birth;</L>
+<L>Owe all its Order to a Lucky Chance,</L>
+<L>When Merry Attoms were dispos'd to Dance;</L>
+<L>Or make it an Eternal Being have,</L>
+<L>As God was always, and must always live:</L>
+<L>As Light by Emanation from the Sun,</L>
+<L>So Heaven, and Earth, and Seas, from God to come:</L>
+<L><PB N="129" REF="71"/>
+No, the later Traces of th' Almighty's Care,</L>
+<L>Taught 'em much juster Notions of his Pow'r,</L>
+<L>That he, in Time, Call'd from Eternal Night,</L>
+<L>A Glorious Day, with Chearful Beams of Light,</L>
+<L>And made a shapeless Lump, of Form admit,</L>
+<L>And Order shine thro' all the Parts of it;</L>
+<L>Long e'er Ambition yet the People knew,</L>
+<L>Or Interest, to make what's False, seem True,</L>
+<L>Princes (for e'ery Parent were as such)</L>
+<L>Ne'er thought of Fighting, but of Loving, much;</L>
+<L>No Swords, or Spears, were yet Contriv'd, or Made,</L>
+<L>No impious Ships, the Foaming Billows dar'd,</L>
+<L>But Men, and Boats, the swelling Surges Feard:</L>
+<L>The Aged Oak, ne'er sopt in Briny Seas,</L>
+<L>Securely kept the Wood, its Native Place,</L>
+<L>Tho' Marm'ring Winds the Younger Branches Bow'd,</L>
+<L>The Body stood, as mighty Mountains did,</L>
+<L>Ne'er Mov'd, but when the laboring Earth in Pain,</L>
+<L>Prest with some Pent-up Wind, began to Groan,</L>
+<L><PB N="130" REF="72"/>
+And in extremity, by Force o'erthrow,</L>
+<L>Vast Trees, strong Houses, Tallest Mountains too;</L>
+<L>The Ocean was, as Heaven at first Design'd,</L>
+<L>A certain Boundary to part Mankind;</L>
+<L>The Floating Monsters kept their Watery home,</L>
+<L>Not more avoiding Men, than they did Them;</L>
+<L>'Til Wanton Luxury began to please,</L>
+<L>And Taught the World t'invade their Propertys,</L>
+<L>Brave Death, for various sorts of Meat,</L>
+<L>To satisfie a Foolish Appetite,</L>
+<L>Or what's still worse, for Gold, they cou'd not Eat.</L>
+<L>Wou'd Heav'n I 'ad been at first th' Almighty's Care,</L>
+<L>And had an early Being any where,</L>
+<L>Or else had been reserv'd for later Days,</L>
+<L>When Men by long Experience grow Wise.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="131" REF="72"/>
+<HEAD>The Second <HI>Idyllium</HI> of <HI>Moschus.</HI></HEAD>
+<HEAD TYPE="sub">EUROPA.</HEAD>
+<LG>
+<L>WHen first <HI>Europa, Venus</HI> care appear'd,</L>
+<L>A sudden Dream, the Lovely Nymph prepar'd,</L>
+<L>'Twas then, when Night, her Darker Work had done,</L>
+<L>And Blushing Morn, her Chearful Dress put on,</L>
+<L><HI>Europa</HI> Dreamt, (and sure in Dreams there is</L>
+<L>More than we think, at least there was in this)</L>
+<L>She Dream't, two different Lands to her laid Claim,</L>
+<L>The One she knew, the Other not by Name,</L>
+<L>These like Two Matrons, both, their Right de∣clare,</L>
+<L>And each Asserted what she saw in Her:</L>
+<L>One said, and justly too, she Brought her Forth,</L>
+<L>The other, Pow'r pleaded, tho' not Birth,</L>
+<L><PB N="132" REF="73"/>
+For <HI>Jove</HI> himself, <HI>Europa</HI> is design'd,</L>
+<L>Too great a Blessing for a Humane Mind:</L>
+<L>This, tho' a Dream, the Tender Nymph had Movd,</L>
+<L>She Wisht, she Fear'd, and what she Fear'd, she Lov'd.</L>
+<L>Tell me, ye Gods, (she said) for you must know,</L>
+<L>Whose Eyes discover Fate in <HI>Embrio,</HI></L>
+<L>What makes the poor <HI>Europa</HI> Tremble so?</L>
+<L>The Stranger that I saw, so Charming was,</L>
+<L>Such Sweetness in her Words, her Looks, her Face,</L>
+<L>No harm, can sure, with so much Goodness Dwell,</L>
+<L>And yet, methinks, I strange Disorders feel,</L>
+<L>This Thought distracts, but why, I cannot tell:</L>
+<L>This said, her little Play-fellows she sought,</L>
+<L>Thinking, that they might some Relief have brought,</L>
+<L>But they, alas! of what she felt, Untaught;</L>
+<L>With these she often Past her Hours away,</L>
+<L>And was till now, as Undisturb'd as they,</L>
+<L>The Tender Nymphs lament her Growing Cares,</L>
+<L>And kindly <GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>sh that all her Fears were theirs;</L>
+<L><PB N="133" REF="73"/>
+One takes her by the Hand, and gently leads,</L>
+<L>The Maid still Trembling, to the Verdant Meads,</L>
+<L>Where various kinds of Plants their Care became,</L>
+<L>And Flowers, willing to be Cropt by them:</L>
+<L>A Golden Cup, the Fam'd <HI>Europa</HI> bore,</L>
+<L>Finer than <HI>Vulcan</HI> e'er had made before,</L>
+<L>A Gift, the God on <HI>Lybia</HI> bestow'd,</L>
+<L>When first she Blest th admiring <HI>Neptune</HI>'s Bed;</L>
+<L><HI>Lybia</HI> with this did <HI>Telephessa</HI> Try,</L>
+<L>For none so Worthy of the Gift as she,</L>
+<L>At last the Cap the Young <HI>Europa</HI> had,</L>
+<L>Fair <HI>Telephessa</HI>'s Daughter, yet a Maid.</L>
+<L>The Tender <HI>Io, Inachus</HI>'s Care,</L>
+<L>As first by <HI>Jove</HI> Transform'd, was Painted here▪</L>
+<L>The Story told, what Pains he took to Gain,</L>
+<L>At once his Love, and Cheat his jealous Queen▪</L>
+<L>Here <HI>Mercury,</HI> and <HI>Argus</HI> hundr'd Eyes,</L>
+<L>A live less strange, than when beheld on this▪</L>
+<L>Such was the Cup the young <HI>Europa</HI> bore,</L>
+<L>Worthy great <HI>Vulcan</HI>'s Art, and worthy her▪</L>
+<L><PB N="134" REF="74"/>
+The Nymphs no sooner in the Meadows were,</L>
+<L>Where Dasies, Violets, and Cowslips are,</L>
+<L>But all to Gather what they like, Prepare:</L>
+<L>But still <HI>Europa</HI> did the rest Surpass,</L>
+<L>As much in Air, in Mien, in Wit, and Face,</L>
+<L>As <HI>Venus</HI> do's before the Graces shine,</L>
+<L>When Art, and Beauty, speak her most Divine:</L>
+<L>While thus she shone, a Wondering God lookt down,</L>
+<L>And looking, quickly left his Starry Throne,</L>
+<L><HI>Europa</HI>'s Eyes, far brighter than the Light,</L>
+<L>That Gilds the Spangl'd Firmament by Night;</L>
+<L>But <HI>Juno,</HI> always jealous of her <HI>Jove,</HI></L>
+<L>For well she knew how <HI>Venus</HI> Arts cou'd move,</L>
+<L>To jilt the Queen, he Chang'd the God, and Fled,</L>
+<L>And as a Bull, within those Pastures Fed,</L>
+<L>Where Fair <HI>Europa,</HI> and the Virgins Play'd:</L>
+<L>A Bull, but still a Form Divine he bore,</L>
+<L>Finer by much than e'er they'ad seen before,</L>
+<L><HI>Europa</HI> went, (her little Friends stood by)</L>
+<L>To Touch the Charming Bull that Graz'd so nigh,</L>
+<L><PB N="135" REF="74"/>
+The Bull Came on, and like a Lover Bow'd,</L>
+<L>To steal a Kiss, and Wonder'd when she stood;</L>
+<L><HI>Europa</HI> Wip'd the Eager Foam away,</L>
+<L>And Kist his Lips, and Bid the Virgins stay,</L>
+<L>He Low'd, but with so soft, so smooth an Air,</L>
+<L>The Sound was Musick to the Nicest Ear,</L>
+<L>Then Bent his Knees, and Greedy View'd her Face,</L>
+<L>Proud to Lye down, and Tumble where she was.</L>
+<L><HI>Europa,</HI> Pleas'd to see a Sight so new,</L>
+<L>Call'd all the Nymphs, and scarce believ'd it True;</L>
+<L>Often, my Friends, We'ave in these Meadows Play'd,</L>
+<L>And yet, we never play'd till now, she said,</L>
+<L>Let's sit upon this Bull, his Back's so Broad,</L>
+<L>His strength's so great, he'll eas'ly bear the Load,</L>
+<L>His Look's so pleasing, and his Air's so Free,</L>
+<L>He differs from the rest, as much as we;</L>
+<L>A Soul he has, such as great Heroes know,</L>
+<L>Cou'd he but speak, like them, I'de love him too,</L>
+<L>With this she sate upon the Bull, and Rode,</L>
+<L>The other Virgins came to Mount the God,</L>
+<L><PB N="136" REF="75"/>
+But <HI>Jove,</HI> secure of what he lov'd so Dear,</L>
+<L>With hasty Flight, he made the distant Shore,</L>
+<L>And Leapt the Deep, tho' he <HI>Europa</HI> Bore:</L>
+<L>She call'd her Play-fellows, but all in vain,</L>
+<L>He lest his Heaven above, for her, not them;</L>
+<L>The Sea once Gain'd, the Foaming Waves he Treads,</L>
+<L>When all the Watery People move their Heads;</L>
+<L>The Sea-Nymphs pay their Homage to the Pair,</L>
+<L>But Worship <HI>Jove</HI> himself, no more than her;</L>
+<L>Prodigious Whales their mighty Bodies Move,</L>
+<L>For <HI>Neptune</HI> Taught the Honours due to <HI>Jove,</HI></L>
+<L>And he himself appear'd amidst the Throng,</L>
+<L>While <HI>Tritons</HI> sweetly sung the Marri'ge Song.</L>
+<L>Thus was <HI>Europa</HI> in the Deep Carest,</L>
+<L>A Debt but just, to her that <HI>Jove</HI> had Blest;</L>
+<L>But still, her Country left, Companions too,</L>
+<L>And yet no Shore she saw, no Mountain knew,</L>
+<L>'Twas Heaven all above, 'twas Sea below:</L>
+<L>A sight so sad, Oblig'd the Nymph to say,</L>
+<L>Whoe'er thou art, that thus canst make thy Way,</L>
+<L>Where wou'dst thou have the Poor <HI>Europa</HI> stray?</L>
+<L><PB N="137" REF="75"/>
+Ships big as Mountains, thro' the Seas have steer'd,</L>
+<L>But Balls I thought, the Waves had always fear'd;</L>
+<L>What Drink can I in Briny Waters find?</L>
+<L>What Meat? if th'art a God, like Heav'n be Kind,</L>
+<L>Conduct me Back, and leave me there behind:</L>
+<L>Dolphins avoid the Land, and Bulls the Sea,</L>
+<L>But Land, or Water, all's the same to thee;</L>
+<L>Next thou'lt with Wings, like Birds, perhaps pre∣pare,</L>
+<L>To Mount the Skies, and Cut the Yielding Air▪</L>
+<L>Unhappy Maid! so late my Mother's Care,</L>
+<L>With whom I Wander now, unknown, or where,</L>
+<L>Kind <HI>Neptune</HI> hear thy Suppliant's Pray'r,</L>
+<L>Grant me Relief, and Ease my Wonderous Fear,</L>
+<L>Allay'd alone by this, in hopes that you,</L>
+<L>May prove the God, that Bears <HI>Europa</HI> now.</L>
+<L>At this the Bull, in happy'st Accents spoke,</L>
+<L>And <HI>Jove</HI> discover'd, in each Word, and Look,</L>
+<L>Fear not <HI>Europa,</HI> Heavens peculiar Care,</L>
+<L>'Tis he Conducts you, that design'd you Fair,</L>
+<L><PB N="138" REF="76"/>
+Your Guide with Thunder shakes the Sky,</L>
+<L>When Earth or Heav'n disputes his Majesty,</L>
+<L>And shall he fear the Surges of the Sea?</L>
+<L><HI>Crete</HI> shall Receive my Charge, and own you Queen,</L>
+<L>No Rusfling Cares shall ever Interveen,</L>
+<L>Betwixt this Day, and Ages yet unseen:</L>
+<L>Lockt in your Arms, in Balmy Joyes I'll lye,</L>
+<L>And then, my Dear, I'll prove Divinity,</L>
+<L>A Race of Heroes shall <HI>Europa</HI> Grace,</L>
+<L>Their Father's Courage, with their Mother's Face,</L>
+<L>These prove their Force, and make the Trem∣bling Earth,</L>
+<L>Admire their Power, and freely own their Birth.</L>
+<L>Thus while he spoke, her Ghastly Thoughts all Fled,</L>
+<L>And willingly <HI>Europa</HI> lost her Maiden-Head.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="139" REF="76"/>
+<HEAD><HI>Idyll.</HI> 3.</HEAD>
+<HEAD TYPE="sub"><HI>Bion</HI>'s EPITAPH.</HEAD>
+<LG>
+<L>WEep all ye Woods, in mournful Whis∣pers Breath,</L>
+<L>And tell the Neighb'ring Groves of <HI>Bion</HI>'s Death;</L>
+<L>Ye Murm'ring Brooks, the Fatal News declare,</L>
+<L>'Till distant Seas the dismal Tidings hear;</L>
+<L>Ye tender Plants Lament, your Loss Bemoan,</L>
+<L>No more your juices boast, your Virtues own,</L>
+<L>'Tis just you perish, when your <HI>Bion</HI>'s gone:</L>
+<L>Ye springing Flowers, with-hold your Fragrant Smell,</L>
+<L>Ye Roses, Violets, and Cowslips tell,</L>
+<L>How good he liv'd, how much lamented sell.</L>
+<L>Sing ye <HI>Sicilian</HI> Muses <HI>Bion</HI>'s Fate,</L>
+<L>For only you can sound a Grief so great.</L>
+<L><PB N="140" REF="77"/>
+Let tuneful <HI>Philomel,</HI> from thickest Boughs,</L>
+<L>In dying Notes, the Herdsman's Death disclose,</L>
+<L>'Till <HI>Arethusa</HI>'s streams receive the News;</L>
+<L>The <HI>Doric</HI> Muse no longer loves the Plains,</L>
+<L>But hates the Herdsmen, and their Skill disdains,</L>
+<L>When <HI>Bion</HI> sung, so good his Song, his Theme,</L>
+<L>She proudly boasted, what she heard from him.</L>
+<L>Ye Swans, that sporting on the Waters Play,</L>
+<L>Droop all your Wings, and Weep the Fatal Day,</L>
+<L>In Notes, such as were his, your Tuneful Voices Try,</L>
+<L>No Common Breath shou'd sound his Elegy;</L>
+<L>Acquaint the Distant Virgins with your Song,</L>
+<L>That often heard the Musick of his Tongue,</L>
+<L>And Sigh'd, as Mov'd by that, his Wonderous Skill,</L>
+<L>But Panting Breasts, and Wishing Eyes reveal,</L>
+<L>What they, unhappy Nymphs, wou'd fain con∣ceal.</L>
+<L>Sing ye <HI>Sicilian</HI> Muses, <HI>Bion</HI>'s Fate,</L>
+<L>For only you can sound a Grief so great.</L>
+<L>The Cows, so late, th' Indulgent Herdsman's care,</L>
+<L>Refuse their Food, and Wander any where,</L>
+<L><PB N="141" REF="77"/>
+No more, an Aged Oak shall boast he sate,</L>
+<L>And kindly made her swelling Root his Seat;</L>
+<L>No more, her List'ning Boughs shall hear him Play,</L>
+<L>And Curse the Wind, that bore the Sound away.</L>
+<L>Sing ye <HI>Sicilian</HI> Muses, <HI>Bion</HI>'s Fate,</L>
+<L>For only you can sound a Grief so great.</L>
+</LG>
+<LG>
+<L>When first his Death the great <HI>Apollo</HI> knew,</L>
+<L>He Mourn'd, they <HI>Satyrs</HI> Wept, <HI>Priapus</HI> too,</L>
+<L><HI>Pan</HI> mist his Notes, and sighing, sadly said,</L>
+<L>Lament ye Nymphs, the Artful <HI>Bion</HI>'s dead;</L>
+<L>The listning Eccho, in her Cavern ly's,</L>
+<L>As <HI>Bi n</HI> dumb, and scorns the Vulgar Noise,</L>
+<L>The Trees refuse their Fruit, their Leaves all Cast,</L>
+<L>And Withering Flowers fondly Breath their last,</L>
+<L>The Dolphin Weeps, and Wanders o'er the Shore,</L>
+<L>The Nightingale, in Notes unknown before,</L>
+<L>By Grief instructed, sings the Word, <HI>No more.</HI></L>
+<L>The thousand Birds beside, so late his Care,</L>
+<L>Affrighted, tell their Parents what they hear,</L>
+<L>And gratefully to sing his Death prepare.</L>
+<L><PB N="142" REF="78"/>
+But who shall e'er Attempt his Oaten Pipe,</L>
+<L>So lately sounded by so Sweet a Lip;</L>
+<L>The Eccho keeps the happy Songs he made,</L>
+<L><HI>Pan</HI> has his Pipe, but <HI>Pan</HI> to Play's affraid.</L>
+<L>Sing ye <HI>Sicilian</HI> Muses, <HI>Bion</HI>'s Fate,</L>
+<L>For only you can speak a Grief so great.</L>
+<L>Poor <HI>Galatea</HI> Weeps, she who so late,</L>
+<L>Admir'd his Strains, and list'ning fate</L>
+<L>And often Wish'd, she cou'd his Songs repeat.</L>
+<L>Had <HI>Cyclop</HI> Play'd like him, his Tunes so good,</L>
+<L>The Nymph had follow'd, never Fled the God,</L>
+<L>For <HI>Bion</HI>'s sake, she Treads the lonesom Shore,</L>
+<L>And Feeds the Herds, with him she Fed before;</L>
+<L>No more endearing Songs, the Muses Boast,</L>
+<L>With him their Songs are gone, their Numbers lost,</L>
+<L>No more the Tender Virgins Kisses Move,</L>
+<L>No more they hear the Stories of his Love:</L>
+<L>Attend ye Loves, and speak your <HI>Venus</HI> Loss,</L>
+<L>More than <HI>Adonis</HI> she her <HI>Bion</HI>'s was.</L>
+<L><PB N="143" REF="78"/>
+When <HI>Homer</HI> Dy'd, <HI>Caliope</HI> she Sung,</L>
+<L>And told the Wonders of her <HI>Homer</HI>'s Tongue,</L>
+<L>How he cou'd Move, for Thunder in his Song:</L>
+<L><HI>Bion</HI> a Bard, as great as he, 's no more,</L>
+<L>His Thoughts as good, his Verse, his Skill, his Pow'r</L>
+<L>One drunk the Stream from <HI>Pegasus</HI> that flow'd▪</L>
+<L>The other <HI>Arethusa</HI>'s, full as good;</L>
+<L>One told of Wars, what Wonders some had done,</L>
+<L>As <HI>Menelaus,</HI> and great <HI>Thetis</HI> Son:</L>
+<L>The other sung his <HI>Pan,</HI> his <HI>Pan</HI> his Care,</L>
+<L>His <HI>Pan,</HI> the Virgins, and his Herds, his Fear;</L>
+<L>He taught the Youth t' attempt the lovely Prise,</L>
+<L>And tell his Heart, by speaking with his Eyes;</L>
+<L>He taught the Nymph, to Move the Roughest Swain,</L>
+<L>And make him sigh, admire, and dye in vain,</L>
+<L>And own a Conquest, when she pleas'd to Reign.</L>
+<L>Sing ye <HI>Sicilian</HI> Muses, <HI>Bion</HI>'s Fate,</L>
+<L>For only you can sound a Grief so great.</L>
+<L>Vast Cities Mourn'd, that once admir'd his Song,</L>
+<L>Not <HI>Asera,</HI> for her <HI>Hesiod,</HI> wept so long:</L>
+<L><PB N="144" REF="79"/>
+<HI>Boetian</HI> Woods their lofty <HI>Pindar</HI> spar'd,</L>
+<L>With less Reluctance, than his Death they heard;</L>
+<L>The strong Wall'd <HI>Lesbus,</HI> lov'd <HI>Alcaeus</HI> less,</L>
+<L>And <HI>Ceius</HI> City will the same Confess;</L>
+<L><HI>Parus Archilochus</HI> lov'd less by far,</L>
+<L>And <HI>Mitylena Sappho,</HI> tho' her Care;</L>
+<L><HI>Ausonian</HI> Strains, my Numbers Move,</L>
+<L>Such as the Muses, and their <HI>Bion,</HI> love,</L>
+<L>Whose Pipe, rather than all his Herds, I'de have.</L>
+<L>The Plants, the Product of a Fruitful Earth,</L>
+<L>They dye like us, but know a second Birth;</L>
+<L>But Man, tho' great, tho' good, tho' strong, tho' Wise,</L>
+<L>Can dye but once, and never more must rise:</L>
+<L>Cou'd any thing Exempt, our <HI>Bion</HI>'s Skill</L>
+<L>Had sav'd the Bard, and all had known him still;</L>
+<L>'Twas Poyson kill'd him, but 'twas very strange,</L>
+<L>His sweeter Breath the Poyson did not Change,</L>
+<L>O that I, as <HI>Orpheus</HI> once, cou'd Tread,</L>
+<L>Or, as <HI>Alcides,</HI> or <HI>Ʋlysses</HI> did,</L>
+<L>I'de quickly pay a Visit to his shade.</L>
+<L><PB N="145" REF="79"/>
+And if he Plays below, I'de hear, and see,</L>
+<L>What Modes, what Strains, will please the Deity,</L>
+<L>In vain <HI>Eurydice</HI> had <HI>Orpheus</HI> Mourn'd,</L>
+<L>Without his Musick she had ne'er return'd,</L>
+<L>As <HI>Orpheus</HI> her, may I, my Friend receive,</L>
+<L>I'll Pipe to Try, and Dye, to make him live.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="ode">
+<HEAD><HI>Anacreon,</HI> ODE 3.</HEAD>
+<LG>
+<L>WHen silent Night, the Wand'ring Signs employ'd,</L>
+<L>And Weary Mortals welcome Sleep enjoy'd,</L>
+<L>Young <HI>Cupid</HI> came, and made a Woeful Noise,</L>
+<L>Knocking, and calling, with a loud, shrill Voice,</L>
+<L>Open your Doors, my Friend, no harm I'll do,</L>
+<L>I'm but a Boy, a very young one too,</L>
+<L>All Wet, I'ave Wander'd in a Rainy Night,</L>
+<L>The Moon, or Stars, scarce giving any Light:</L>
+<L>Mov'd by so sad a Tale, I hasty ran,</L>
+<L><PB N="146" REF="80"/>
+And struck a Light, and let the Traveller in,</L>
+<L>Amaz'd! I saw a Youth all Arm'd appear,</L>
+<L>A Quiver, Bow, and Pointed Arrows Bear,</L>
+<L>He hasted to the Fire, his Form scarce seen,</L>
+<L>'Till I drew near, and Warm'd his Hands with mine,</L>
+<L>The Cold by th' Heatexpell'd, he Pertly spoke,</L>
+<L>Let us go take my Bow, my Friend, and look,</L>
+<L>If all is Right, for if it's spoyl'd I'm Broke.</L>
+<L>He drew his Bow, and by a Wonderous Slight,</L>
+<L>Through all my Flesh, my very Heart he Hit,</L>
+<L>A Frenzy siez'd me, and I Feel it yet.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="ode">
+<HEAD>ODE 12. <HI>Anac.</HI></HEAD>
+<HEAD TYPE="sub">The Swallow.</HEAD>
+<LG>
+<L>SAy, thou damn'd Disturber of my Rest,</L>
+<L>Thou Pratling Swallow, worst of all thy Nest,</L>
+<L>How shall I Punish thee? for I'll no more</L>
+<L>Endure thy Early Noise, as heretofore;</L>
+<L><PB N="147" REF="80"/>
+What if I Clipt thy Wings? or Cut thy Tongue?</L>
+<L>As <HI>Tereus, Philomela</HI> serv'd when Young?</L>
+<L>For when <HI>Bathillus</HI> Moves with softest Charms,</L>
+<L>And I all Melting Lye within his Arms,</L>
+<L>The Boy I loose, by your Confounded Note,</L>
+<L>So often Eccho'd through your Squeaking Throat.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="ode">
+<HEAD>ODE 15. <HI>Anac.</HI></HEAD>
+<LG>
+<L>I Value not great <HI>Gyges</HI> Wealth, not I,</L>
+<L>Nor all the Gold the Richest Kings enjoy,</L>
+<L>Give me Refreshing Oyntments, that are Fine,</L>
+<L>And Oyl, to make my Beard and Temples shine;</L>
+<L>Let sweetest Roses Grace each Curling Hair,</L>
+<L>And thus Adorn'd, than they, I'm greater far▪</L>
+<L>To Day I'll live, and make it all my Own,</L>
+<L>For who can tell the Curse to Morrow may bring on?</L>
+<L>Then take great <HI>Bacchus,</HI> all my Sacrifice,</L>
+<L>Let some invidious, Damn'd Disease,</L>
+<L>Shou'd think I 'ad Drunk enough, and bid me Cease.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="ode">
+<PB N="148" REF="81"/>
+<HEAD>ODE 26.</HEAD>
+<LG>
+<L>AS <HI>Bacchus</HI> with his Fiery Face is seen,</L>
+<L>So I, when Drunk, a Hero, look like him</L>
+<L>Richer than <HI>Craesus</HI> too, I seem to be,</L>
+<L>And thinking so, at least am full as Rich as he;</L>
+<L>I Laugh, and Sing, as happy Mortals do,</L>
+<L>And when the Ivy Chaplets Deck my Brow,</L>
+<L>I scorn whatever else is found Below.</L>
+<L>A Noise of War makes some in Haste get up,</L>
+<L>When they take their Arms, I take my Cup,</L>
+<L>For I have often in my Drinking said,</L>
+<L>I 'ad rather far be very Drunk, than Dead,</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="ode">
+<HEAD>ODE 40.</HEAD>
+<LG>
+<L>WHile <HI>Cupid</HI> snatcht some Roses from a Tree,</L>
+<L>Thoughtless of Harm, an envious, spiteful Bee,</L>
+<L><PB N="149" REF="81"/>
+Fixes her Sting, and Draws his Tender Blood;</L>
+<L>The Boy Affrighted, Shrieks, and Crys aloud,</L>
+<L>And Runs, and Flys, to tell his Wretched Fate,</L>
+<L>More sad by much, than ever happen'd yet;</L>
+<L><HI>Venus</HI> receives him with a Parent's Care,</L>
+<L>But still his Wound Torments him with new Fear,</L>
+<L>I Dye, I Dye, I Dye, I'm Kill'd, he sayd,</L>
+<L>This Moment, Mother, you will see me Dead,</L>
+<L>A little Prickly Serpent, such as Fly,</L>
+<L>I think the People say it is a Bee,</L>
+<L>Assaulted me, and stung me as you see.</L>
+<L><HI>Venus</HI> smil'd, and Kist her Son, and said,</L>
+<L>The Danger's not so great as you're affraid;</L>
+<L>If little Bees can sting with so much Force,</L>
+<L>Your Pointed Darts, my Dear, must needs be Worse.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="ode">
+<HEAD>ODE 52.</HEAD>
+<HEAD TYPE="sub">The Rose.</HEAD>
+<LG>
+<L>I Sing the Happy Product of the Spring,</L>
+<L>The Rose, the Sweetest, Dearest Offering;</L>
+<L><PB N="150" REF="82"/>
+It's Fragant Smell, like that of Heav'n above,</L>
+<L>Commands at once, our Wonder, and our Love;</L>
+<L>The Graces choose it in their Amorous Play,</L>
+<L>When finest Drest, with this alone they're Gay;</L>
+<L>The Prickly Arms that Nature has bestow'd,</L>
+<L>Proves thee much more her Care, and not less Good,</L>
+<L>For if with these the Gatherer you hurt,</L>
+<L>A full Amends your Odors make him sor't;</L>
+<L>When Prest, the softest Bosom may Admit,</L>
+<L>And tho' 'twas Fine before, 'tis still more Sweet;</L>
+<L><HI>Bacchus</HI> invites thee, as a Welcome Guest,</L>
+<L>When e'er the Deity prepares a Feast.</L>
+<L><HI>Aurora,</HI> when she Rises, views thy Form,</L>
+<L>And Grants thy Beauties Finer than her own;</L>
+<L>The Nymphs, with Roses, all Adorn their Bed,</L>
+<L>And <HI>Cyprian Venus,</HI> by the Poets too is said,</L>
+<L>To Blush with such, or scarce so good a Red:</L>
+<L>Thou art a Med'cine to the Fainting Sick,</L>
+<L>When Nature sinks, thou Fetchest back the Weak,</L>
+<L>Or if they Dye, thou keep'st their Bodies sweet,</L>
+<L>In spite of Time, and all the Injuries of it:</L>
+<L><PB N="151" REF="82"/>
+When Poets prove thy first, and mighty Birth,</L>
+<L>They bring thy Origin from Heav'n, not Earth,</L>
+<L>To spring with <HI>Venus,</HI> when the Foaming Sea,</L>
+<L>Gave <HI>Venus</HI> Birth, her Sweets they say, gave Thee▪</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="ode">
+<HEAD>ODE 28.</HEAD>
+<HEAD TYPE="sub">To a Painter.</HEAD>
+<LG>
+<L>PAint me, Great Artist, my <HI>Clarinda</HI>'s Face,</L>
+<L>Her Shape, and all the Beauty's that she has;</L>
+<L>And if your Colours will admit a Gum,</L>
+<L>Draw her with all the Odors that Perfume,</L>
+<L>Or give her Breath, and there's no need of them.</L>
+<L>Paint her with Eyes, that wou'd a Hermit Move,</L>
+<L>And make him leave his Cell, and Own his Love;</L>
+<L><HI>Minerva</HI>'s never Darted such a Flame,</L>
+<L>Nor was Great <HI>Venus,</HI> greater Power, like them:</L>
+<L>Make her Endearing Cheeks with lovely Red,</L>
+<L>Like Virgin Blushes in the Marri'ge Bed;</L>
+<L>Her Pleasing Lips, with Extasie of Bliss,</L>
+<L>A Prince wou'd give a Kingdom for a Kiss.</L>
+<L><PB N="152" REF="83"/>
+Paint her, when strongest Passions Heave her Breast,</L>
+<L>And leave a Deep Impression to be Ghest;</L>
+<L>Cou'd Pulses in your Colours Dance like Hers,</L>
+<L>The World wou'd quickly Turn Idolaters,</L>
+<L>The Painter's Skill exceed the Poet's Thought,</L>
+<L>And all Mankind would Wonder at your Art;</L>
+<L>But Draw her Good, as all her Actions are,</L>
+<L>In such a Garb as Vestal Virgins Wear,</L>
+<L>Yet if you can, let some small part be seen,</L>
+<L>To tell the many Thousand Charms within.</L>
+<L>Enough: Her Form is fixt within my Eye,</L>
+<L>I'll Draw her thus, and all the World shall see,</L>
+<L>The nicest Piece that e'er a Painter Drew,</L>
+<L><HI>Clarinda,</HI> Looking, Thinking, Speaking too.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>The Second <HI>Idyll.</HI> of <HI>Bion.</HI></HEAD>
+<LG>
+<L>A Youth a shooting in a Wood,</L>
+<L>With eager Hast his Game pursu'd,</L>
+<L>VVhere sporting <HI>Cupid</HI> soon appear'd,</L>
+<L>The Boy of <HI>Cupid</HI> ne'er had heard;</L>
+<L><PB N="153" REF="83"/>
+But pleas'd, to see a Bird, tho' high,</L>
+<L>So Tame, as if it cou'd not Fly,</L>
+<L>His Arrows Fixt, his Bow he Drew,</L>
+<L>But all his Arrows awkward Flew,</L>
+<L>VVhile <HI>Cupid</HI> leap'd from Bough to Bough;</L>
+<L>His Arrows spent, away he ran,</L>
+<L>VVhere soon he met an Older Man,</L>
+<L>And told him all, and <HI>Cupid</HI> show'd,</L>
+<L>The God still Perching in the VVood:</L>
+<L>The Old Man smil'd, and told the Boy,</L>
+<L>No Arrows cou'd that Game destroy:</L>
+<L>Be gone, he said, your Sport give o'er,</L>
+<L>To Kill that Bird's in no Man's Pow'r,</L>
+<L>When Prompting Nature speaks you Fit,</L>
+<L>The Bird that now will not be Hit,</L>
+<L>Will then upon your Shoulders fit.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>The Third <HI>Idyll.</HI> of <HI>Bion.</HI></HEAD>
+<LG>
+<L>WHen happy Dreams, which make the Wretched Blest,</L>
+<L>Had Banish'd Cares, and Charm'd my Soul to Rest,</L>
+<L><PB N="154" REF="84"/>
+Amaz'd, methoughts I saw a Goddess stand,</L>
+<L>Holding a little Wanton by the Hand;</L>
+<L>My Head I Mov'd, my Weary Body Bow'd,</L>
+<L>Thinking the Airy Phantom wou'd have Fled:</L>
+<L>When <HI>Venus</HI> told me, she had <HI>Cupid</HI> brought,</L>
+<L>To learn to Sing, (an Art I some times Taught)</L>
+<L>This said, The Goddess smil'd, and left her Son,</L>
+<L>Fond of my Charge, I Pastorals begun;</L>
+<L>I show'd how <HI>Pan,</HI> with happy Strains was Mov'd,</L>
+<L>What Sounds <HI>Apollo,</HI> and <HI>Minerva,</HI> lov'd;</L>
+<L>But sporting <HI>Cupid,</HI> still Untaught, Remain'd,</L>
+<L>Laugh'd at my Method, and my Skill disdain'd,</L>
+<L>A thousand little Wanton Songs begun,</L>
+<L>And told me Stories, what the Gods had done,</L>
+<L>Who lov'd his Mother, who her Favour Won.</L>
+<L>While I, pleas'd with th' endearing Thought,</L>
+<L>Knew what he said, but what I did, Forgot.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="ode">
+<HEAD><HI>Anacreon,</HI> ODE 50.</HEAD>
+<LG>
+<L><HI>BAcchus</HI> Descends, and leavs his Heaven above,</L>
+<L>To Teach us how to drink, and how to love,</L>
+<L><PB N="155" REF="84"/>
+He makes us in our Cups, all Great, and Wise,</L>
+<L>And scorn the Threatning Dangers that Arise;</L>
+<L>The strongest Wine, the soonest do's inspire,</L>
+<L>And gives a double Portion of Love's Fire;</L>
+<L>Ensur'd by Wine, no Tedious Disease</L>
+<L>Disturbs our Mirth, or Dares our Body sieze;</L>
+<L>Our Spirits are Sublime, Refin'd, and Free,</L>
+<L>And like our Notions, Airy, Brisk, and Gay;</L>
+<L>Our Pleasing Joys are Constant too, and long,</L>
+<L>For when the Vintage, and the Season's done,</L>
+<L>A kind succeeding Vintage still comes on.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="ode">
+<HEAD>ODE 56.</HEAD>
+<LG>
+<L>MY Hoary Temples speak me very Old,</L>
+<L>And all my Crown once Cover'd, now all Bald,</L>
+<L>Youth hath withdrawn her Image from my Face,</L>
+<L>And made my Mouth, the Force of Time Confess;</L>
+<L>The small Remains of Life are a▪most spent,</L>
+<L>And VVeakn'd Nature staggers, and I Faint,</L>
+<L>To think the lonesom, Melancholy Road,</L>
+<L>The Journey to the Shades, the Dead all Tread,</L>
+<L><PB N="156" REF="85"/>
+The <HI>Stygean</HI> God's Infernal Seat's so Deep,</L>
+<L>So Pitchy Dark, as well as Wonderous Steep!</L>
+<L>Secure he keeps the Passengers Below,</L>
+<L>And none Return, to tell us what they do.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>A DREAM.</HEAD>
+<LG>
+<L>I Dreamt, and in my Dream, methoughts I saw,</L>
+<L>The Good <HI>Anacreon,</HI> he call'd me too;</L>
+<L>I Ran with hast, and soon Embrac'd the Bard,</L>
+<L>Wonder'd to see <HI>Anacreon,</HI> but not Scar'd;</L>
+<L>His Visage spoke him Old, but Fair, and Clear,</L>
+<L>Comely, and Merry, as he always Were,</L>
+<L>His Lips were Colour'd, and his Breath as Fine,</L>
+<L>As when alive, Perfum'd with Richest Wine;</L>
+<L>Young <HI>Cupid</HI> Waited on him, as a Friend,</L>
+<L>And when he Reel'd, he held him by the Hand;</L>
+<L>The Poet Kindly gave me, as I Stood,</L>
+<L>A well Chose Garland, Rich, and very Good,</L>
+<L>I Fondly Fixt the Present to my Head,</L>
+<L>Proud of a Gift the Great <HI>Anacreon</HI> made,</L>
+<L>And ever since the Fatal Time I knew,</L>
+<L>I Thirst like him, and Burn as Lovers do.</L>
+</LG>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="85"/>
+</DIV1>
+</BODY>
+</TEXT>
+</GROUP>
+</EEBO>
+</ETS>
+

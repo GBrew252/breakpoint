@@ -1,0 +1,1905 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">Regale lectum miseriæ, or, A kingly bed of misery in which is contained a dreame with an elegie upon the martyrdome of Charls, late King of England, of blessed memory, and another upon the right Honorable the Lord Capel : with A curse against the enemies of peace, and The authors farewell to England / by John Quarles.</TITLE><AUTHOR>Quarles, John, 1624-1665.</AUTHOR></TITLESTMT><EXTENT>Approx. 115 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2007-10 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A56858</IDNO>
+
+
+<IDNO TYPE="stc">Wing Q135</IDNO>
+
+<IDNO TYPE="stc">ESTC R5228</IDNO>
+
+<IDNO TYPE="eebo citation">13203210</IDNO>
+
+<IDNO TYPE="oclc">ocm 13203210</IDNO>
+
+<IDNO TYPE="vid">98476</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A56858)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 98476)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 435:8)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">Regale lectum miseriæ, or, A kingly bed of misery in which is contained a dreame with an elegie upon the martyrdome of Charls, late King of England, of blessed memory, and another upon the right Honorable the Lord Capel : with A curse against the enemies of peace, and The authors farewell to England / by John Quarles.</TITLE><AUTHOR>Quarles, John, 1624-1665.</AUTHOR></TITLESTMT><EXTENT>[4], 66 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>[London :</PUBPLACE>
+<PUBLISHER>s.n.],</PUBLISHER>
+<DATE>1649.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>In verse.</NOTE><NOTE>Place of publication from Wing.</NOTE><NOTE>Reproduction of original in Bodleian Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Charles --  I, --  King of England, 1600-1649 --  Poetry.</TERM><TERM>Capel of Hadham, Arthur Capel, --  Baron, 1610?-1649 --  Poetry.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2005-06</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2005-12</DATE><RESPSTMT><RESP>SPi Global</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2006-11</DATE><RESPSTMT><RESP>Taryn Hakala</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2006-11</DATE><RESPSTMT><RESP>Taryn Hakala</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2007-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A56858">
+<STC T="W">Q135</STC>
+<BIBNO T="oclc">13203210</BIBNO>
+<VID>98476</VID>
+</IDG>
+<TEXT>
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<P>Regale Lectum Miseriae: OR, A KINGLY BED OF MISERY: In which is contained A <HI>DREAME</HI>: WITH An <HI>Elegie</HI> upon the Martyr∣dome of CHARLS, late King of <HI>ENGLAND,</HI> of blessed Memory.</P>
+<P>AND Another upon the Right Honora∣ble the Lord <HI>Capel.</HI> With a Curse against the Enemies of Peace, and the Authors Farewell to England.</P>
+<P><HI>By</HI> JOHN QUARLES.</P>
+<P>Printed in the Yeere, 1649.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>To that Patronesse of Vertue, and most illustrious Princesse, ELIZABETH, The sorrowfull Daughter to our late Martyr'd Soveraign, CHARLS, King of <HI>England,</HI> &amp;c.</HEAD>
+<OPENER><SALUTE>Most vertuous Princesse:</SALUTE></OPENER>
+<P><SEG REND="decorInit">A</SEG>S this subject, which my zealous presumption presents to your serious view, is a compound of joy and grief; so I hope it will furnish your Royall breast, as well with the raptures of joy, as the principles of sorrow. Madam, I am confident that I may, without adulation say, that your Royall Fathers death, gave a life to Vertue. And as we have a sufficient cause to deplore the absence of his Person, so we have an undeniable reason to rejoyce for the presence of his perfections, which will build everlasting Pyramids in the hearts of those, which were his loyall Subjects. Ma∣dam, although Heaven hath been pleased to diminish your joyes in this miserable Kingdome, yet no question but he will hereafter multiply your pleasures in his own. In the mean time, may the Glories of heaven, and the Meditati∣ons of your incomparable Fathers vertues, keep a constant correspondency with your Royall heart, as it is the unfain∣ed prayers of him, who dedicates himself to your High∣nesses perfections, and is</P>
+<CLOSER><SIGNED><HI>MADAM, A sworn Servant to your Vertues,</HI> JO. QUARLES.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="3"/>
+<HEAD>To the Reader.</HEAD>
+<OPENER><SALUTE>Courteous Reader,</SALUTE></OPENER>
+<P>I Have not much to say in my own defence for the weak performance of this work, which I confesse was hammer'd out of a disturbed mind; therefore if there be any thing in it contrary to thy disposition, I shall desire thee to moderate thy passion, and par∣don my imbecility; for it is generally known that errours in grief, are incident to all: as for the errours of the Presse, I suppose them pardonable, in respect that it hath received many interruptions, and hast, joyn'd with feare, are conductours to mistakes: Now Reader, my occasions beyond Sea advise me to bid thee adieu; the worst that I can expect to suffer a∣broad, is but the extremities of Warre; and the best that I can expect at home, is but the worst of mise∣ries: if therefore there be a necessity of suffering, I conceive it to be the best of sufferings to suffer with the best of sufferers, whose faithfull Subject I am, and thy Servant, Reader, (if thou art Loyall)</P>
+<CLOSER><SIGNED>JOHN QUARLES</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<GROUP>
+<TEXT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="1" REF="3"/>
+<HEAD>A Dreame.</HEAD>
+<LG>
+<L><HI>MOrpheus</HI> (thou Turn-key to all humane sense)</L>
+<L>Unlock my brain, that I may flie from hence,</L>
+<L>Out of this Cage of sleep, let me not lie</L>
+<L>And drown my senses in stupidity.</L>
+<L>My thoughts surprise my thoughts, I cannot rest,</L>
+<L>I have a <HI>Civill Warre</HI> within my brest;</L>
+<L>I'me full of thoughts: what uncontroled streams</L>
+<L>Flow from the fancies Ocean? Oh! what dreams</L>
+<L>Have sail'd into my stormy mind? And bring</L>
+<L>No other burthen with them but a <HI>King,</HI></L>
+<L>A <HI>King!</HI> could I but kisse that word, and not be thought</L>
+<L>An <HI>Idolizer</HI>; 'tis too great a fault</L>
+<L>To kisse his <HI>hand.</HI> Nor can I think it strange.</L>
+<L>For <HI>times, &amp; maners</HI> needs must have their change.</L>
+<L>'Tis true, I dream'd methoughts my watchful eys</L>
+<L>Observ'd a <HI>King,</HI> and then a <HI>sacrifice;</HI></L>
+<L>And ravish'd with that <HI>majesty</HI> and <HI>grace</HI></L>
+<L>I saw united in his modest <HI>face,</HI></L>
+<L>I ran to kisse his <HI>hand,</HI> but with a fall</L>
+<L>I wak'd, and lost both <HI>King,</HI> and <HI>kisse,</HI> and <HI>all.</HI></L>
+<L>And thus restored to my former sense,</L>
+<L>I thus proceeded in my thoughts; from whence</L>
+<L><PB N="2" REF="4"/>Arise these fancies, what? did <HI>fancie</HI> meane</L>
+<L>To cause a sudden fall to intervene</L>
+<L>Between a kisse and me? 'twas an abuse,</L>
+<L>That runs beyond the limits of excuse.</L>
+<L>I was enrag'd to think that I should misse</L>
+<L>(Being so near his hand) so sweet a kisse.</L>
+<L>I check'd my <HI>fancy</HI>; which was too precise</L>
+<L>To make me run so fast, yet lose the prize.</L>
+<L>Thoughts, follow thoughts, and when the first is spent</L>
+<L>A second rises, which does oft prevent</L>
+<L>An inconvenient action, many time</L>
+<L>A second thought gains <HI>virtue</HI> by a <HI>crim:</HI></L>
+<L>The first being banish'd, <HI>reason</HI> thought it good</L>
+<L>To place a second, where the first thought stood,</L>
+<L>And then I found my active <HI>fancy</HI> play▪d</L>
+<L>The <HI>Politician,</HI> and that thought allay'd</L>
+<L>The former flames of passion in my brest.</L>
+<L>Then was I pleas'd with what my thought ex∣prest</L>
+<L>Which was to this effect—</L>
+</LG>
+<LG>
+<L>Me thoughts I saw</L>
+<L>A grieved <HI>King,</HI> whose very looks were <HI>Law.</HI></L>
+<L>He sigh'd as if his tender heart had taken</L>
+<L>A farewell of his body, and forsaken</L>
+<L>This lower world, his star-like eyes were fixt</L>
+<L>Upon the face of <HI>Heav'n,</HI> his hands commixt.</L>
+<L>His <HI>tongue</HI> was parsimonious, yet my ear</L>
+<L>That was attentive) could not prevail to hear</L>
+<L>This whis'pring eccho: Oh be pleas'd t' incline</L>
+<L>Thy sacred eares; <HI>was ever grief life mine?</HI></L>
+<L><PB N="3" REF="4"/>Was ever heart so sad? was ever any</L>
+<L>So destitute of <HI>joy,</HI> that had so many</L>
+<L>As I have had? though all be snatch'd from me,</L>
+<L>Yet let me have an intetest in thee.</L>
+<L>Oh Heaven! and there he stop'd, as if his breath</L>
+<L>Had stept aside to entertain a death.</L>
+<L>My soul was ravish'd, and the private dart</L>
+<L>Of new-bred love, struck pity in my heart.</L>
+<L>I could not hold, but silently bequeath</L>
+<L>Some drops unto the ground, my soul did cleave</L>
+<L>Unto his lips, for every word he spoke</L>
+<L>Was ponderous, and would have easily broke</L>
+<L>Th' obdurest heart; I turn'd away my eye,</L>
+<L>And suddenly methoughts I did espie</L>
+<L>A <HI>sacrifice</HI>; which when I did behold,</L>
+<L>My bloud recoiled, and my heart grew cold:</L>
+<L>I was transported, and methoughts the place</L>
+<L>Whereon I stood, seem'd bloudy for a space:</L>
+<L>I trembling, cast my wearied eyes about,</L>
+<L>Thinking to find my former object out,</L>
+<L>But he was gone; and in his room was plac'd</L>
+<L>A many-headed <HI>monster,</HI> that disgrac'd</L>
+<L>The very place, they vanish'd, then appear'd</L>
+<L><HI>A large pretending rout,</HI> as well be-ear'd</L>
+<L>As <HI>Balam's Asse,</HI> methoughts they did excell</L>
+<L>The <HI>Asse</HI> in <HI>eares,</HI> but could not speak so well.</L>
+<L>Methoughts they call'd <HI>a Counsell</HI> to contrive</L>
+<L>Their high designs, and zealously dissive</L>
+<L>Some great <HI>Offenders</HI> that they thought too wise</L>
+<L>To live amongst such <HI>eares,</HI> such cast-up <HI>eyes.</HI></L>
+<L><PB N="4" REF="5"/><HI>One</HI> I observ'd amongst the studious <HI>race</HI></L>
+<L>"That had (methoughts) a <HI>bone-fire</HI> in his face:</L>
+<L>"Another I descry'd amongst the <HI>pack</HI></L>
+<L>"That seem'd to bear a <HI>Kingdome</HI> on his <HI>back</HI>:</L>
+<L>"Another I beheld which pleas'd me best,</L>
+<L>"That could not rule <HI>himself,</HI> yet rul'd the <HI>rest</HI>:</L>
+<L>"Another I espy'd which seem'd to look</L>
+<L>"And read, but at the wrong end of his <HI>book</HI>:</L>
+<L>"Another I observ'd, which seem'd to weep,</L>
+<L>"And in conclusion, pray'd himselfe <HI>asleep</HI>:</L>
+<L>"Another I descry'd, among these <HI>Brothers,</HI></L>
+<L>"That vow'd 'twas right, because he'd please the <HI>others</HI>:</L>
+<L>"Another he stood up, and wisely broke</L>
+<L>"His long-kept silent lips, and thus he spoke.</L>
+<L>Come! let's no longer now be kept in aw,</L>
+<L>I'me sure our welfare is the <HI>Supreme Law,</HI></L>
+<L>A <HI>King,</HI> that's nothing but a power that is</L>
+<L>Subordinate; the Lawes are <HI>ours,</HI> not <HI>His</HI>;</L>
+<L>Is't not the <HI>People</HI> makes a <HI>King</HI>? well, then</L>
+<L>If we let him be <HI>King,</HI> we're <HI>fools,</HI> not <HI>Men</HI>:</L>
+<L>For now we have him in his own made <HI>snare,</HI></L>
+<L>We'l keep him fast, oh that we had his <HI>Heire</HI>!</L>
+<L>Come, let's proceed, and if our plots hit right</L>
+<L>You shall be <HI>Lords</HI> at least, and I, <HI>a Knight.</HI></L>
+<L>And let <HI>Malignants</HI> prate, their Purses shall</L>
+<L>Pay tribute for their <HI>tongues</HI> at <HI>Gold-smiths-hall</HI>:</L>
+<L>And if <HI>they</HI> grumble at what <HI>we</HI> shall do,</L>
+<L>We'l make them pay their <HI>lives</HI> and <HI>money</HI> too;</L>
+<L>The day is ours, let's not abuse that powre</L>
+<L>Which <HI>Heav'n</HI> hath lent us; for sweet things prove sowre</L>
+<L><PB N="5" REF="5"/>If not made use of, have we not been poore</L>
+<L>And others, rich? Come let's increase our store:</L>
+<L><HI>Had we but our deserts,</HI> might we not crave</L>
+<L>The priviledge of all that <HI>others</HI> have?</L>
+<L>All's ours, and yet our miseries are such</L>
+<L>That we are rich in <HI>little,</HI> poor in <HI>much</HI>;</L>
+<L>Alas! our tender hearts are fill'd with pity</L>
+<L>To see so many blind in one poor <HI>City</HI>;</L>
+<L>If they would please in a true zealous fashion</L>
+<L>To moderate their long-continued <HI>passion,</HI></L>
+<L>'Twould much rejoice the <HI>Saints,</HI> &amp; we will pray</L>
+<L>That they may live untill a wiser day;</L>
+<L>The' are very <HI>pious People,</HI> and we could</L>
+<L>Both live, and die together, if they would</L>
+<L>But furnish our desires with every thing</L>
+<L>We want, and dote not too much on <HI>a King</HI>;</L>
+<L><HI>He's</HI> but a <HI>man</HI> at most, and yet <HI>they</HI> must</L>
+<L>Adore his <HI>Person,</HI> though he be <HI>unjust.</HI></L>
+<L>I could not chuse but laugh the other day,</L>
+<L>I 'spy'd a <HI>Cavalier</HI> that closely lay</L>
+<L>Perdue to kisse his <HI>hand,</HI> and by and by</L>
+<L>He starts away, and when he was as nigh</L>
+<L>(That which they call a <HI>King</HI>) as his own length</L>
+<L>His <HI>legs</HI> (not having that sufficient strength</L>
+<L>His <HI>hast</HI> requir'd) receiv'd a sudden fall</L>
+<L>And overturn'd <HI>himselfe,</HI> his <HI>King,</HI> and <HI>all:</HI></L>
+<L>The sight much pleas'd me, being very near,</L>
+<L>I never help'd the <HI>King,</HI> nor <HI>Cavalier</HI>:</L>
+<L>I soon retreated from that happy place,</L>
+<L>And left them both in a distracted case;</L>
+<L><PB N="6" REF="6"/>But as I went, I was so blest to meet</L>
+<L>An upright <HI>Sister,</HI> whose dividing <HI>feet</HI></L>
+<L>Srept with such innocency, that my heart</L>
+<L>Did almost leap upon <HI>her</HI> to impart</L>
+<L>My new-bred joy; her very looks betray'd</L>
+<L>Her heart, indeed she was a lovely Maid;</L>
+<L>I bow'd my self, and zealously imbrac'd</L>
+<L>The small circumf'rence of her bending wast,</L>
+<L><HI>I kiss'd her mouth,</HI> and having done that duty,</L>
+<L>My lips divided, and I prais'd her beauty;</L>
+<L>Extremes of joy did almost make me faint:</L>
+<L>I thought, oh! <HI>here's a Sister for a Saint</HI>;</L>
+<L>I was amaz'd, my very soul did move</L>
+<L>Between the great extremes of <HI>fear,</HI> and <HI>love</HI>;</L>
+<L>She smil'd upon me, and that very smile</L>
+<L>Prov'd a <HI>Restorative,</HI> and for a while</L>
+<L>I mus'd; at last my lips began to break</L>
+<L>As that smile had licenced them to speak;</L>
+<L>Oh! then my <HI>mouth</HI> being ram'd with <HI>words,</HI> let flie</L>
+<L>Both <HI>wit,</HI> and <HI>language,</HI> and did soar as nigh</L>
+<L>As our <HI>Remonstrance,</HI> oh! how I did heat</L>
+<L>Her ears with my discourse, it was so neat</L>
+<L>As if my ready <HI>mouth</HI> had been the <HI>Schoole</HI></L>
+<L>Of <HI>language,</HI> yet she pleas'd to call <HI>me Foole</HI>;</L>
+<L>But 'twas in jest I'm sure, or were it not</L>
+<L>'Tis nothing, since my good hath forgot</L>
+<L>My <HI>Sisters</HI> weaknesse, and indeed we <HI>men</HI></L>
+<L>Must bear with <HI>Sisters</HI> failings, <HI>now,</HI> and <HI>then</HI>;</L>
+<L>They often trip in <HI>zeal,</HI> and sometimes take</L>
+<L>A fall, and love it for the <HI>Givers</HI> sake:</L>
+<L><PB N="7" REF="6"/>Our greatest faults they'l pardon for a buss,</L>
+<L>Come, we must bear with <HI>them,</HI> they bear with <HI>us</HI>:</L>
+<L>But after she had call'd me <HI>fool,</HI> she checkt</L>
+<L>Her self; I wisely own'd it with neglect,</L>
+<L>I spread my <HI>cloak</HI> upon the ground, and there</L>
+<L>We cool'd our <HI>passions</HI> in the open aire:</L>
+<L>Sister, said I, you have been pleas'd to spend</L>
+<L>The name of <HI>Fool</HI> upon your faithfull <HI>friend,</HI></L>
+<L>It was my <HI>worth</HI> you rashly did eclips,</L>
+<L>And I'le have satisfaction from those <HI>lips</HI></L>
+<L>That gave th' affront, let me no longer stay,</L>
+<L>My fury will admit of no delay.</L>
+<L>Deare <HI>Brother,</HI> she reply'd, if it be so</L>
+<L>You must have satisfaction, <HI>tak't below</HI>;</L>
+<L>You soare too high at first, I must detest</L>
+<L>Your lofty <HI>play,</HI> the middle <HI>way</HI> is best;</L>
+<L>But if you are resolv'd, you shall not say</L>
+<L>I'm obstinate; for if you <HI>will,</HI> you <HI>may</HI>:</L>
+<L>I soon return'd her thanks, and with my hand</L>
+<L>I pull'd her close, and made her understand</L>
+<L>What I had seen: but oh how she was pleas'd!</L>
+<L>Ah verily (said she) the news has eas'd</L>
+<L>My longing <HI>heart.</HI> But when the <HI>King</HI> fell down</L>
+<L>Thou wert unwise thou hadst not snatch'd His <HI>Crown.</HI></L>
+<L>'Tis rarely spoken <HI>Sister,</HI> had I had</L>
+<L>The <HI>Crown,</HI> I should have made a gallant <HI>Lad</HI>;</L>
+<L>Should I but sway the Scepter of this Land,</L>
+<L>I'd make my <HI>Subjects</HI> die at my command;</L>
+<L>I'd lop the <HI>great ones</HI> off, and make the <HI>low</HI></L>
+<L>Subordinate to <HI>me,</HI> I'd make them know</L>
+<L><PB N="8" REF="7"/>The <HI>reines</HI> were mine; but at the first I'de steal</L>
+<L>Into their hearts, and fool them with my <HI>zeal.</HI></L>
+<L>I would declare unto the world, and take</L>
+<L>An Oath, I acted for <HI>Religions</HI> sake:</L>
+<L>I'd fill them full of <HI>novelties,</HI> and then</L>
+<L>Sister thou knowest the common sort of <HI>men</HI></L>
+<L>(Like flies) will buz about my new-made light;</L>
+<L>I'd call them <HI>Babes of grace,</HI> and make them fight</L>
+<L>With <HI>Cerberus</HI> himself in my defence,</L>
+<L>My <HI>Soule</HI> now tells me, 'tis a rare <HI>pretence:</HI></L>
+<L>I'd hire some babbling <HI>Preachers</HI> to infuse</L>
+<L><HI>Division</HI>; and to flatter them with <HI>newes.</HI></L>
+<L>I'd plump their <HI>soules</HI> with <HI>promises,</HI> that they,</L>
+<L>Should never faile to <HI>swear</HI>; what should I <HI>say</HI>;</L>
+<L>I'd make my <HI>Preachers</HI> urge them all to joyne</L>
+<L>And fight for God; then wil their▪ <HI>Plate</HI> be mine:</L>
+<L>This is an <HI>art</HI> that lies above the reach</L>
+<L>Of every <HI>braine</HI>: I'd suffer all to <HI>preach</HI></L>
+<L>And sow <HI>sedition,</HI> every one should be</L>
+<L>At least a <HI>Saint,</HI> and preach upon a Tree:</L>
+<L>And if my great occasions should require</L>
+<L>Large sums of <HI>money,</HI> then would I inspire</L>
+<L>A <HI>Publike Faith</HI>; and if it would not rise</L>
+<L>That way, I'd make the bellowes of <HI>Excize</HI></L>
+<L>To puffe it up; this is a cleanly way</L>
+<L>To sweep up money, <HI>Souldiers must have pay.</HI></L>
+<L><HI>Sister,</HI> thou know'st▪ 'tis no <HI>disgracing stealth</HI></L>
+<L>To make <HI>Religion</HI> rob the <HI>Common-wealth</HI>:</L>
+<L>What though <HI>Malignants</HI> raile at our designs,</L>
+<L>We can extract our <HI>livings</HI> from their <HI>fines</HI>:</L>
+<L><PB N="9" REF="7"/>I've spoke enough, now <HI>Sister,</HI> I'le divorce</L>
+<L>My nimble tongue from this <HI>profound discourse:</HI></L>
+<L>Now give me leave to dedicate my heart</L>
+<L>To thee (my Patronesse) before I part.</L>
+<L>Brother, alas! I am a harmlesse maid,</L>
+<L>And we you know, are easily betrai'd</L>
+<L>By mens delusion: if your love be true,</L>
+<L>The zeal of my affections light on you;</L>
+<L>You know we ought to love, and none can be</L>
+<L>More honest in their harmlesse loves then we,</L>
+<L>For we may love each other in the spirit,</L>
+<L>And pray, and preach together, and inherit</L>
+<L>Our owne desires, whilst others send their cries</L>
+<L>To their beloveds, and yet lose the prize.</L>
+<L><HI>Sister,</HI> thou hast exactly satisfi'd</L>
+<L>My large desires: my happinesse bety'd</L>
+<L>The thriving <HI>Spirit,</HI> truly, 'tis a paine</L>
+<L>To part, but that I hope to meet againe:</L>
+<L><HI>London,</HI> (that nest of worth) that <HI>yeelding place,</HI></L>
+<L>I am resolv'd to view, within the space</L>
+<L>Of forty houres, where I intend to spare</L>
+<L>Some time, and see some <HI>Brethren</HI> I have there.</L>
+<L>It is a goodly place, as <HI>fame</HI> relates,</L>
+<L>For there the <HI>Sisters</HI> live, and all the <HI>States</HI>;</L>
+<L>Truly, th' are very godly, and pretend</L>
+<L>Just like <HI>our selves,</HI> to be a faithfull friend</L>
+<L>To <HI>King,</HI> and <HI>Monarchy,</HI> when as Alas—</L>
+<L>And then I wak'd, and let the other passe</L>
+<L>Unutter'd, but indeed I do confesse</L>
+<L>I wish that I had heard a geat deal lesse,</L>
+<L><PB N="10" REF="8"/>And yet (to speake the truth) I was perplext</L>
+<L>Because I could not hear what follow'd next.</L>
+<L>This was a midnights dream, I was in pain</L>
+<L>Till night had lull'd me in her armes again,</L>
+<L>And for the space of half a tedious houre</L>
+<L>I was disturb'd, till sleep had gain'd some power</L>
+<L>Over my slumb'ring senses, but at last</L>
+<L>Call'd to the bar of sleep, I there was cast:</L>
+<L>I had not long in peacefull pleasure slumber'd,</L>
+<L>Before an interposing Dream incumber'd</L>
+<L>My quiet fancy, suddenly my eare</L>
+<L>Was fill'd with such a noise, as none could heare</L>
+<L>Without much fear, as if th' incurved back</L>
+<L>Of burth'ned <HI>Atlas</HI> had begun to crack.</L>
+<L>Me thoughts I saw the <HI>Heav'ns</HI> how they begun</L>
+<L>(As if th'ad scorn'd the glory of the Sun)</L>
+<L>To frown upon the earth, which seem'd to flame</L>
+<L>Like sulpherous <HI>Etna,</HI> from whose bowells came</L>
+<L>Whole Regiments of <HI>Spirits</HI> which disturb'd</L>
+<L>The aire, whose fury hated to be curb'd;</L>
+<L>Me thoughts they were ambitious to expell</L>
+<L>Some <HI>Potentate,</HI> and make his seat, their Hell:</L>
+<L>Me thoughts at last (I slumb'ring) seem'd to hear</L>
+<L>A single voice that whisper'd in my ear,</L>
+<L>Yet thund'red in my heart, which made me grone</L>
+<L>At every word; exprest in such a tone</L>
+<L>Which would with great facility have turn'd</L>
+<L>A Tyrants heart, or else consum'd and burn'd</L>
+<L>His breast to ashes, and if language could</L>
+<L>Move pity in a flinty-soule, this would.</L>
+<L><PB N="11" REF="8"/>He bolted forth his griefs, like claps of thunder,</L>
+<L>As if each word should cleave a heart in sunder;</L>
+<L>His voice being guarded with a pleasing force,</L>
+<L>I sacrific'd my ears to his discourse;</L>
+<L>Me thoughts my soul, my very ears were blest</L>
+<L>In giving audience, <HI>whilest he thus exprest.</HI></L>
+<L>Oh Heaven! oh Earth! how can they chuse but frown</L>
+<L>To see them make a <HI>foot-ball</HI> of a <HI>Crown?</HI></L>
+<L>How long shall I be made an aim'd at mark</L>
+<L>Of pointed <HI>envy?</HI> shall <HI>they</HI> make <HI>me</HI> dark</L>
+<L>That I made light? and shall that <HI>light</HI> devoure</L>
+<L>The former principle? Unhappy houre</L>
+<L>When my abused willingnesse was made</L>
+<L>A Stalk-horse unto those, who have betray'd</L>
+<L>An Island unto tyranny; whose <HI>Lawes</HI></L>
+<L>Oppresse true <HI>Subjects,</HI> and make me the <HI>Cause</HI>:</L>
+<L>Malicious <HI>age,</HI> and will their fury have</L>
+<L>No end, untill it send <HI>me</HI> to my grve?</L>
+<L>A grave most peacefull <HI>place,</HI> for I'm sure</L>
+<L>There's no <HI>Rebellion</HI>; there I'le rest secure</L>
+<L>Where neither grief, nor care, shall dare torment</L>
+<L>My sublime soule, there, there lies true content.</L>
+<L>There there's the death of sorrow, and the life</L>
+<L>Of peace, and there a period to all strife.</L>
+<L>There's none can mock my woes, there none can trie</L>
+<L>A King, nor make a Garrison, but I,</L>
+<L>And what I spake, my soul protests is true,</L>
+<L>I am no slave to death, but unto you</L>
+<L>My soul's my Gods, and Tyrants do your worst,</L>
+<L><HI>Jobs soule was free, when's body was accurst.</HI></L>
+<L><PB N="12" REF="9"/>But you <HI>blood-thirsty Zelots,</HI> learne to know</L>
+<L>You never can rise <HI>high,</HI> if I fall <HI>low.</HI></L>
+<L>I feare no <HI>threats,</HI> let torments all conjoine</L>
+<L>Themselves, at last ye'l find them <HI>yours,</HI> not <HI>mine.</HI></L>
+<L>What though I suffer here, my <HI>sufferings</HI> shall</L>
+<L>Advance my <HI>soul; May they not make you fall?</HI></L>
+<L>Let out my <HI>life,</HI> go make a streaming <HI>floud</HI></L>
+<L>And bath your selves in my diffused blood.</L>
+<L>Let loose your <HI>Furies,</HI> give your <HI>passions</HI> breath,</L>
+<L>And let them bait my <HI>body</HI> unto <HI>death.</HI></L>
+<L>I am resolv'd, my heart shall flie above</L>
+<L>The reach of fear, and view the God of love;</L>
+<L>Consider well, what glory can accrew</L>
+<L>From my destruction, to such soules as you;</L>
+<L>Be not too rash, but know a <HI>cause</HI> that's dy'd</L>
+<L>In guiltlesse <HI>blood</HI> cannot be justifi'd,</L>
+<L>A prosperous <HI>vice</HI> shall never claim a right</L>
+<L>To perpetuity, 'twill but in-right</L>
+<L>A totall <HI>ruin,</HI> 'tis a greater <HI>Fame</HI></L>
+<L>To die with <HI>virtue,</HI> then to live with <HI>shame.</HI></L>
+<L>Yee seek for truth, and yet you go the way</L>
+<L>To make the field of <HI>truth</HI> a <HI>Golgatha</HI>;</L>
+<L>There is a great <HI>antipathy</HI> between</L>
+<L><HI>Faction</HI> and <HI>Peace,</HI> and yet my eyes have seen</L>
+<L>How you (whose restlesse spirits still increase</L>
+<L>With <HI>Faction</HI>) seem to study for a <HI>Peace</HI>;</L>
+<L>Do not mistake, for they that will compose</L>
+<L>A difference, must never do't by blowes.</L>
+<L>The want of apprehensions may discrie</L>
+<L>You nourish <HI>Spiders,</HI> and destroy the <HI>Flie.</HI></L>
+<L><PB N="13" REF="9"/>Who glorious in a <HI>crime,</HI> will in conclusion</L>
+<L>Receive a <HI>curse,</HI> and with that curse <HI>confusion</HI>:</L>
+<L>I long to be resolv'd, pray tell me why</L>
+<L>Ye think ye cannot <HI>live,</HI> except I die?</L>
+<L>Your thoughts are vaine, 'twill be a <HI>tainted breath</HI></L>
+<L>That had it's derivation from my <HI>death.</HI></L>
+<L>Am I <HI>Basiliske?</HI> and can my eyes</L>
+<L>Devoure you? for you know my body lies</L>
+<L>Subject to be destroy'd, not to destroy</L>
+<L>(By taking up of Armes) your <HI>Kingly joy</HI>:</L>
+<L>But you suppose, if I should long survive,</L>
+<L>I would become laborious, and contrive</L>
+<L>Some new designes, &amp; with my numerous <HI>forces</HI></L>
+<L>Divert the streame of your <HI>unlawfull courses</HI>;</L>
+<L>Make <HI>reason</HI> your Companions, walke a while,</L>
+<L>Consult together, stride not o're the <HI>stile</HI></L>
+<L>When as the <HI>gap</HI> lies open, they're unwise</L>
+<L>That will (when they foresee a harme) despise</L>
+<L>Preventing meanes; for if you take this <HI>life</HI></L>
+<L>From my enjoyment, ye'le beget a <HI>strife</HI></L>
+<L>That will not end, and when that <HI>strife</HI> is bred,</L>
+<L>Then will my <HI>wrongs</HI> survive, though I am <HI>dead,</HI></L>
+<L>And you that caus'd my <HI>guiltlesse heart</HI> to bleed</L>
+<L>Will find <HI>another</HI> to revenge the deed;</L>
+<L>Aske Heaven's forgivenesse, for ye cannot crave</L>
+<L>Leave to abscond your <HI>crimes,</HI> within my Grave:</L>
+<L>Be well assur'd, that ev'ry drop which parts</L>
+<L>Out of my <HI>veins,</HI> shall cleave unto your hearts</L>
+<L>Like tangling <HI>bird-lime</HI> which will hold you fast,</L>
+<L>And <HI>vengeance</HI> too, shall find you out at last,</L>
+<L><PB N="14" REF="10"/>Heav'ns all-surveying <HI>eye</HI> must needs observe</L>
+<L>Your late unpolish'd actions, which deserve</L>
+<L>As many torments as th' inraged hand</L>
+<L>Of <HI>veng'ance</HI> can impose, or <HI>Heav'n</HI> command:</L>
+<L>Did I not labour with a serious brest</L>
+<L>During the <HI>Treaty,</HI> to restore some rest</L>
+<L>To this distemper'd <HI>Kingdome</HI>; but the gales</L>
+<L>Of <HI>Malice,</HI> were oppugnant to my sailes;</L>
+<L>My heart was loaded with the large encrease</L>
+<L>Of hopeful thoughts, my soul was fill'd with <HI>peace</HI></L>
+<L>But at the last my hopes prov'd uselesse drosse,</L>
+<L>And then I lost a <HI>Crown,</HI> and found a <HI>Crosse</HI>;</L>
+<L>Heav'n hear my wish, oh grant I may commence</L>
+<L>A <HI>Doctor,</HI> in the art of <HI>Patience!</HI></L>
+<L>It matters not how poor my Person be,</L>
+<L>If at the last I may be crown'd with thee.</L>
+<L>Thou knowst the secret corners of my heart</L>
+<L>Which is at they disposing, for thou art</L>
+<L><HI>The King of Kings,</HI> and unto thee i'le pay</L>
+<L>The tribute of my <HI>soul,</HI> both night, and day.</L>
+<L>I am thy <HI>Subject,</HI> give me grace to stand</L>
+<L>Firmly obedient to thy just <HI>command.</HI></L>
+<L>When for my <HI>sins</HI> I shall receive thy <HI>blowes,</HI></L>
+<L>Oh give me power to <HI>suffer,</HI> not <HI>oppose!</HI></L>
+<L>Pardon my <HI>Enemies</HI> which have been strong,</L>
+<L>And alwayes studious how to doe me wrong:</L>
+<L>And though they 'ave vented that which is un∣true,</L>
+<L><HI>Father forgive, they know not what they do.</HI></L>
+<L>They hate their <HI>King,</HI> &amp; are not pleas'd with any,</L>
+<L>O grant, good God, they may not find too <HI>many.</HI></L>
+<L><PB N="15" REF="10"/>The chiefest of their <HI>worke,</HI> is to devoure;</L>
+<L>(<HI>Stones</HI> have usurpt their <HI>hearts,</HI> as they my <HI>power</HI>)</L>
+<L>Against the sound of <HI>Peace,</HI> their <HI>eares</HI> are bar'd</L>
+<L>Oh never sure, was <HI>Pharaohs</HI> heart so hard.</L>
+<L>They dis-respect their <HI>King</HI>; it was not so</L>
+<L>With <HI>Shadrach, Meshach,</HI> and <HI>Abeduego</HI>;</L>
+<L><HI>Their tongues</HI> have vilifi'd me oftentimes,</L>
+<L><HI>These three</HI> were never guilty of such Crimes;</L>
+<L><HI>Their hearts</HI> had vow'd obedience to their <HI>King,</HI></L>
+<L>And never try'd by force of Armes to bring</L>
+<L><HI>Their</HI> own Designes to passe; but their submission</L>
+<L>Sent comfort to their souls, and much contrition</L>
+<L><HI>To him,</HI> whose more then seven times heated <HI>brest</HI></L>
+<L>Did soon regreet what his hot rage exprest.</L>
+<L>But well, since thus it is, I'le strive to sway</L>
+<L><HI>The Scepter</HI> of my <HI>miseries,</HI> and lay</L>
+<L>A good foundation, that my <HI>Foes</HI> may build</L>
+<L><HI>Their torments</HI> on my <HI>breast,</HI> which shall be fill'd</L>
+<L>With true content, I'le labour to support,</L>
+<L>(But yet must yeeld, when <HI>death</HI> shal storm <HI>the fort</HI>)</L>
+<L>I cannot start at <HI>death,</HI> I know it brings</L>
+<L>A <HI>finis</HI> to my ancient <HI>griefs,</HI> and sings</L>
+<L><HI>Anthems</HI> of <HI>Peace:</HI> how happy's he that can</L>
+<L>Flie to his <HI>God</HI> and scorne the rage of <HI>Man:</HI></L>
+<L><HI>Thunder</HI> ye <HI>Sons</HI> of <HI>Tyranny,</HI> let rage</L>
+<L>Flash from your sulph'rous <HI>souls,</HI> strive to ingage</L>
+<L><HI>The flames</HI> of <HI>Etna</HI> too, and let them dash</L>
+<L>Against my <HI>breast</HI>; I'le own them as a flash;</L>
+<L>Flatter your souls, prepare your <HI>hands</HI> to do</L>
+<L>A <HI>deed,</HI> that Heav'n will not advise you to.</L>
+<L><PB N="16" REF="11"/>I pitty you, my heart cannot forbeare </L>
+<L>To sigh; and <HI>Nature too,</HI> commands a teare;</L>
+<L>Oh that my <HI>head</HI> (like to a Fountaine) could</L>
+<L>Furnish my <HI>eyes</HI> with teares, oh then I would</L>
+<L>Begin the <HI>morning,</HI> and conclude the <HI>day</HI></L>
+<L>Whith <HI>Drops,</HI> and wash the black-brow'd <HI>night</HI> a∣way;</L>
+<L>Oh let my language whet your dul belief,</L>
+<L>'Twas you that fill'd my flowing heart with grief,</L>
+<L>And now my Torments more and more excel,</L>
+<L>Heav'n grant me <HI>breath</HI> enough to bid Farewel,</L>
+<L>Farewel; sad word, that like a bolt of thunder</L>
+<L>Hath more then cleft my reaving heart in sunder.</L>
+<L>Death's nothing like the <HI>sorrow</HI> which I finde</L>
+<L>Raising a towre of <HI>woe</HI> within my minde.</L>
+<L>Thou <HI>partner</HI> of my <HI>soul,</HI> how can I die</L>
+<L>And leave thee here to weep a Lullaby</L>
+<L>To my indulgent <HI>babes,</HI> how can it be</L>
+<L>That I must leave so dear a <HI>spouse</HI> as thee?</L>
+<L>Poor <HI>hearts,</HI> If I must goe and leave you all</L>
+<L>Confus'd together in the common <HI>hall</HI></L>
+<L>Of this inraged <HI>world,</HI> what wil ye doe</L>
+<L>But mourne for <HI>me,</HI> as I have mourn'd for you?</L>
+<L>Oh where wil you retire your selves, and spend</L>
+<L>Your groaning <HI>houres,</HI> oh what regarding <HI>friend</HI></L>
+<L>Wil give a minuits <HI>audience,</HI> or relieve</L>
+<L>Your pining <HI>wants,</HI> or <HI>mean</HI> to hear you <HI>grieve?</HI></L>
+<L>What Nation wil regard, or entertaine</L>
+<L>(A royal) though a miserable traine?</L>
+<L>This is a sorrow that divides my brest;</L>
+<L>This is a <HI>grief</HI> that cannot be exprest</L>
+<L><PB N="17" REF="11"/>Without a fractur'd <HI>heart,</HI> this is a wound</L>
+<L>That makes <HI>confusion</HI> active to <HI>confound.</HI></L>
+<L>Were it a possibility to have</L>
+<L>Ten thousand <HI>Lyons</HI> lodg'd within this <HI>Cave,</HI></L>
+<L>(This trunke of mine) they could not more tor∣ment</L>
+<L>My heart, then this unbounded <HI>discontent</HI>;</L>
+<L>Should all the <HI>Tyrants</HI> in the world contrive</L>
+<L>A way to make a dying <HI>soul</HI> survive</L>
+<L>With living <HI>paine,</HI> they never could exceed</L>
+<L>The <HI>Tyrants</HI> of these <HI>Times</HI> in such a deed;</L>
+<L>I have been long imprison'd; and at last</L>
+<L>Call'd to the <HI>bar</HI>; how soon I may be cast</L>
+<L><HI>Heav'n</HI> knows, not I, for <HI>they</HI> that were so <HI>bold</HI></L>
+<L>To bring me thither, will, if not controul'd,</L>
+<L>Force me to <HI>death,</HI> their very <HI>looks</HI> declare</L>
+<L>Their <HI>resolutions,</HI> whilst their hearts prepare</L>
+<L>To suck my <HI>veins</HI>; Ah thus they have betray'd me,</L>
+<L>And smile to see how <HI>glorious</HI> they have made me</L>
+<L>They swell'd like <HI>mountains,</HI> and at last brought forth</L>
+<L>The <HI>Mouse</HI> of <HI>Reformation,</HI> whose worth</L>
+<L>Is seated in all lofty <HI>braines,</HI> and hurl'd</L>
+<L>Through every <HI>corner</HI> of th' inquiring <HI>World.</HI></L>
+<L>But why should I insist upon your <HI>Crimes?</HI></L>
+<L>May <HI>heav'n</HI> forgive you, and send better <HI>times:</HI></L>
+<L>I know my <HI>dayes</HI> are short, 'tis therefore meet</L>
+<L>To leave this <HI>Crown,</HI> and buy a winding- <HI>sheet.</HI></L>
+<L>Be gone terrestriall <HI>pleasures,</HI> for ye are</L>
+<L>But <HI>Goalers</HI> to your <HI>Keepers,</HI> and insnare</L>
+<L>Your fond <HI>beleevers,</HI> goe, my <HI>heart</HI>'s no <HI>tombe</HI></L>
+<L>To give you <HI>buriall,</HI> seek some other <HI>roome</HI>;</L>
+<L><PB N="18" REF="12"/>Flie then my <HI>soul</HI>; but stay, what <HI>hand</HI> is this</L>
+<L>That seems to hold me from my long'd-for <HI>blisse?</HI></L>
+<L>More sorrows yet; will not th' <HI>Almighty</HI> please</L>
+<L>'T afford my <HI>soul</HI> on earth a minutes ease?</L>
+<L>Oh thou that mak'st my <HI>harvest</HI> ful of paines,</L>
+<L>Grant that my working <HI>soul</HI> may reap the <HI>gains</HI>;</L>
+<L>Grief's grown a <HI>Polititian,</HI> and it keeps</L>
+<L>A strong reserve; what eye is this that weeps</L>
+<L>These briny teares into my fluent <HI>heart,</HI></L>
+<L>As if those <HI>flouds</HI> should drownd me e're I part?</L>
+<L>What <HI>voice</HI> is this I seem to hear? what tones</L>
+<L>Are these that lavish out themselves in <HI>groanes?</HI></L>
+<L>What ayles my <HI>thoughts?</HI> what neer related breath</L>
+<L>Is this that seems to breath a sudden <HI>death</HI></L>
+<L>Into my panting <HI>breast?</HI> methinks I heare</L>
+<L>A <HI>female voice,</HI> cry, must I languish here?</L>
+<L>Hard-hearted <HI>death,</HI> why art thou thus unkinde</L>
+<L>To take him hence, and leave me here behinde</L>
+<L>To weep his <HI>obsequies,</HI> draw up thy <HI>boe,</HI></L>
+<L>And send me whither I desire to goe.</L>
+<L>Shoot, shoot, oh <HI>Death,</HI> thou shalt not be with∣stood,</L>
+<L>Come, dip thy <HI>arrowes</HI> in my crimson <HI>bloud,</HI></L>
+<L>Fear not, let flie, and let thy rovers hide</L>
+<L>Their twi-fork'd <HI>heads</HI> within my wounded <HI>side:</HI></L>
+<L>Oh Heav'n, since thou wert pleas'd to joyn our <HI>hands</HI></L>
+<L>And <HI>hearts</HI> together, let thy strict <HI>cōmands</HI></L>
+<L>Urge <HI>death</HI> to strike us <HI>both,</HI> that we may fly,</L>
+<L>And dedicate our <HI>souls</HI> t' eternity;</L>
+<L>Alas, what <HI>joy,</HI> what <HI>comfort</HI> can accrew</L>
+<L>To me, when <HI>he</HI> shall bid this world adue.</L>
+<L><PB N="19" REF="12"/>I liv'd within his <HI>heart,</HI> but ah, if he</L>
+<L>Shall quit this <HI>earth,</HI> what <HI>life</HI> remaines in me.</L>
+<L>Alas sad <HI>heart,</HI> what canst thou doe but pine?</L>
+<L>Never could <HI>grief</HI> be parallel'd with mine;</L>
+<L>I am the Sea of <HI>grief,</HI> all streams doe tend</L>
+<L>Towards me, for ah my <HI>sorrowes</HI> know no end:</L>
+<L>The sturdy winds of <HI>care,</HI> and <HI>trouble</HI> blowes</L>
+<L>Into my <HI>soul,</HI> my <HI>Ocean</HI> alwayes flowes</L>
+<L>And never <HI>ebbes</HI>; oh miserable <HI>age</HI>;</L>
+<L>How am I made a <HI>subject</HI> to their rage</L>
+<L>Whose pare-boyl'd <HI>souls</HI> observes no other dyet</L>
+<L>But <HI>bloud</HI>; and seeme to rest in our disquiet;</L>
+<L>You all-exceeding <HI>Tyrants,</HI> if ye thirst</L>
+<L>For royall <HI>blood,</HI> be pleas'd to take mine first,</L>
+<L>Mines but a <HI>draught,</HI> yee'le quickly swil it up,</L>
+<L>Alas, it wil not yeeld each <HI>soul</HI> a sup;</L>
+<L>You are the <HI>fountains</HI> from whose brests do spring</L>
+<L>The streames of <HI>murder,</HI> and your <HI>souls</HI> can sing</L>
+<L>Nothing but bloody <HI>notes</HI>; you can contract</L>
+<L>The body of all <HI>mischief,</HI> and enact</L>
+<L>What pleases <HI>you</HI>; But will you subjugate</L>
+<L>Your legall <HI>King,</HI> whose <HI>patience</HI> is your <HI>hate</HI>;</L>
+<L>But if you seek his fatall overthrow,</L>
+<L>Ye'le <HI>murder</HI> more then <HI>thousands</HI> at <HI>one</HI> blow;</L>
+<L>But why doe I thus languish breath in vaine,</L>
+<L>On those whose <HI>fury</HI> have no ears? refraine</L>
+<L>My trembling <HI>tongue; Tyrants</HI>; Ile leave you here,</L>
+<L>And turn my thoughts to <HI>Charls,</HI> whose lif's as dear</L>
+<L>To me, as <HI>death</HI> is cheap to you; Alas,</L>
+<L>My <HI>heart</HI> is full, I cannot let thee passe</L>
+<L><PB N="20" REF="13"/>Without a <HI>sigh,</HI> nor can my eyes forbeare</L>
+<L>To wash thy <HI>sad remembrance</HI> with a <HI>teare.</HI></L>
+<L>Has <HI>Heav'n</HI> decreed it? must we be devided</L>
+<L>Dear <HI>King</HI>; and must our sorrowes be derided?</L>
+<L>Thou great <HI>Recorder</HI> of my thoughts, to thee</L>
+<L>I will resigne; command, and I will be</L>
+<L>A subject to thy wil; Oh let me have</L>
+<L>Thy gracious <HI>pardon,</HI> then a speedy <HI>grave,</HI></L>
+<L>For ah, what comfort can my wasting breast</L>
+<L>Hope to receive, when I am dispossest</L>
+<L>Of such a <HI>Joy?</HI> alas where shall I seate</L>
+<L>My <HI>heart; tears</HI> are my <HI>drink,</HI> and <HI>sighes</HI> my <HI>meate,</HI></L>
+<L>These pallid <HI>lippes</HI> of mine shall never dare</L>
+<L>To own a <HI>smile</HI>; I'le live with <HI>grief</HI> and <HI>care,</HI></L>
+<L>Except my <HI>God</HI> will please to take me hence,</L>
+<L>And make his glorious <HI>Kingdome</HI> my defence;</L>
+<L>Was it not <HI>grief</HI> enough to be absented</L>
+<L>Five <HI>yeers</HI> from him, whose <HI>absence</HI> was lamented</L>
+<L>With reall <HI>drops,</HI> yet then I could obtaine</L>
+<L>Some hopes to see him in his throne againe.</L>
+<L>But hark! methinks my Fancy seems to heare</L>
+<L>An aire of <HI>comfort</HI> breathing in my <HI>eare,</HI></L>
+<L>It is the voice of <HI>Charls,</HI> whose pleasing breath</L>
+<L>Seemes to advance me from the shades of <HI>death,</HI></L>
+<L>Methinks I hear his language, which distils</L>
+<L>Out from the <HI>Limbick</HI> of his <HI>soul,</HI> and fils</L>
+<L>My pining <HI>heart</HI> with a triumphing joy</L>
+<L>His voice revives me, but his <HI>words</HI> destroy.</L>
+<L>He thus proceeds;—Oh thou that are the <HI>vine</HI></L>
+<L>Which twists about this twining <HI>heart</HI> of mine,</L>
+<L><PB N="21" REF="13"/>Approach my <HI>presence</HI>▪ and I will declare</L>
+<L>How great my <HI>sufferings,</HI> and my <HI>comforts</HI> are:</L>
+<L>First I was tost, and banded to and fro</L>
+<L>From place to place, permitted not to goe</L>
+<L>Without a guard, a guard that did pretend</L>
+<L>Rather to act a <HI>murder,</HI> then defend:</L>
+<L>Then was I hurry'd to that fatall <HI>place</HI></L>
+<L>Of <HI>London,</HI> where I know I must uncase</L>
+<L>My willing <HI>soul,</HI> which shall rejoyce, when they</L>
+<L>That are my <HI>Judges</HI> shall presume to lay</L>
+<L>Their accusations on me, and dcclare</L>
+<L>My new-coyn'd <HI>faults,</HI> with their pretended <HI>care.</HI></L>
+<L>And to advance their <HI>plots,</HI> they first infer</L>
+<L>I am a <HI>Tyrant,</HI> and a <HI>Murderer,</HI></L>
+<L>Nay, and a <HI>Traytor</HI> too; if so it be</L>
+<L>That I'm a <HI>Tyrant,</HI> where's my <HI>Tyranny?</HI></L>
+<L>Or if a <HI>Murderer</HI>; I here require</L>
+<L>To know whose bloud it was that quench'd my fire.</L>
+<L>Suppose (but Heav'n forbid) it should be true,</L>
+<L>It was against my <HI>God</HI> I sinn'd, not you.</L>
+<L>Oh what an <HI>Age</HI> is this, where seeming <HI>Reason</HI></L>
+<L>Pretends to make me <HI>Traytor,</HI> without <HI>Treason</HI>!</L>
+<L><HI>Death</HI>; come, and welcome, to my <HI>heart,</HI> I know</L>
+<L>That my <HI>Redeemer</HI> lives, and that I owe</L>
+<L>A debt to <HI>Nature,</HI> which cannot be pay'd</L>
+<L>Till these condemned <HI>corps</HI> of mine are lay'd;</L>
+<L>Now <HI>grief</HI> be gon, and let my <HI>comforts</HI> take</L>
+<L>Possession of my <HI>soul,</HI> awake, awake</L>
+<L>My slumbring <HI>senses,</HI> I'le triumph and sing,</L>
+<L>For I have <HI>found,</HI> that Death hath <HI>lost</HI> her sting;</L>
+<L><PB N="22" REF="14"/>My <HI>soul</HI> informes me, that I must lad downe</L>
+<L>This <HI>Mortall</HI> for a true <HI>immortall</HI> Crowne.</L>
+<L>I'm ravish'd with <HI>delight,</HI> me thinks I have</L>
+<L>A <HI>Heav'n</HI> within my bosome, to inslave</L>
+<L>The <HI>Hell</HI> of torments; grief must stand aloof,</L>
+<L>Not daring to approach within my roof;</L>
+<L>The pleasures of this <HI>world</HI> doe seem to run,</L>
+<L>And fly (like mists) before the morning <HI>Sun,</HI></L>
+<L>They're all but transetory; and can lay</L>
+<L>No claime to perpetuity, to day</L>
+<L>They seem like <HI>messengers</HI> of Joy; to morrow</L>
+<L>They prove sad <HI>Heraulds,</HI> &amp; proclaime a sorrow.</L>
+<L>As for the Joves of <HI>heav'n,</HI> they farre sermount</L>
+<L>My souls <HI>arithmetick,</HI> I cannot count</L>
+<L>Those numerous, <HI>delights,</HI> which alwayes be</L>
+<L>Attendants to the <HI>souls</HI> eternity:</L>
+<L>Thou great <HI>Redeemer,</HI> to whose sacred power</L>
+<L>I now addresse my selfe, my long'd for <HI>houre</HI></L>
+<L>Is almost come, there's but a little blase</L>
+<L>Remaines behind, and yet methinks my dayes</L>
+<L>Seem tedious to my <HI>soule</HI>; I long to throw</L>
+<L>This <HI>burden</HI> downe, that presses me below.</L>
+<L>But since thy pleasure must be done, not mine,</L>
+<L>Call when thou pleasest; for my <HI>soul</HI> is thine;</L>
+<L>I'le not resist thy <HI>hand,</HI> but kisse thy <HI>rod,</HI></L>
+<L>I am thy <HI>Creature,</HI> thou my gracious <HI>God:</HI></L>
+<L>Come my indulgent <HI>Ioyes,</HI> and let my breath</L>
+<L>Inhabbit in your <HI>eares</HI> before my death.</L>
+<L>Thou <HI>Consort</HI> of my heart, why dost thou wast</L>
+<L>Those pearly <HI>dropps,</HI> why do they make such hast</L>
+<L><PB N="23" REF="14"/>To leave the sweet possessions of thy <HI>eyes?</HI></L>
+<L>What? wilt thou make a watry <HI>Sacrifice?</HI></L>
+<L>Oh do not weep, <HI>Heav'n</HI> is not pleas'd to see</L>
+<L>Those gliding streames, which trickle down for me;</L>
+<L>My tender <HI>Babes,</HI> oh why do you stand by</L>
+<L>And imitate your <HI>Mothers</HI> stormy eye,</L>
+<L>Restraine those tears; for every drop you shed</L>
+<L>Falls on my moyst'ned <HI>heart,</HI> and there hath bred</L>
+<L>A brim-fill'd <HI>fountaine,</HI> which at last will dround</L>
+<L>My <HI>heart,</HI> and give your <HI>selves</HI> the greatest wound.</L>
+<L>Let not, oh let not, your sad <HI>eyes</HI> expresse</L>
+<L>So great a <HI>sorrow,</HI> for my happinesse;</L>
+<L>Cheer up; cheer up deare <HI>souls,</HI> &amp; learne to keep</L>
+<L>Those tears, or weep, to see your <HI>Mother</HI> weep.</L>
+<L>Weep not for me, I'm going to receive</L>
+<L>A lasting <HI>Crowne,</HI> oh leave (for heav'ns sake) leave</L>
+<L>Those heart-infringing <HI>groans,</HI> why doe ye vex</L>
+<L>My <HI>Heav'n</HI>-desiring <HI>soul,</HI> and thus perplex</L>
+<L>Your pensive <HI>hearts,</HI> forbeare, and be appeasd,</L>
+<L>Be not <HI>displeased,</HI> with what Heav'n is <HI>pleas'd</HI>;</L>
+<L>Oh how can ye expect that hee'l fulfill</L>
+<L>Your large <HI>desires,</HI> if thus you thwart his will?</L>
+<L>Come smile upon me, and that smile will give</L>
+<L>My <HI>heart</HI> a great incouragement to live,</L>
+<L>Death's but a speedy passage from this <HI>life,</HI></L>
+<L>Unto a better, and concludes all strife</L>
+<L>Between this World and us, whilst here we draw</L>
+<L>Corrupted <HI>aire</HI> we're subject to the <HI>law</HI></L>
+<L>Of <HI>grief</HI> and <HI>care,</HI> which daily circumvents</L>
+<L>Discordious <HI>hearts</HI> with griping discontents.</L>
+<L><PB N="24" REF="15"/>Be not dejected at my <HI>death,</HI> but rather</L>
+<L>Rejoyce, to think that <HI>heav'n</HI> will be your <HI>father,</HI></L>
+<L>Comfort your woefull <HI>mother,</HI> that hath been</L>
+<L>A carefull <HI>Parent,</HI> and my loyall <HI>Queen</HI>;</L>
+<L>Give her that full <HI>Obedience</HI> which is due,</L>
+<L>And <HI>Heav'n</HI> will be affectionate to <HI>you.</HI></L>
+<L>Oh let the feare of <HI>God</HI> be alwaies plac'd</L>
+<L>Before your eyes; Let <HI>virtus</HI> be imbrac'd;</L>
+<L>What ere ye doe, be carefull to reserve</L>
+<L>A spotlesse <HI>minde,</HI> which will at last preserve</L>
+<L>Your heav'n bred <HI>souls,</HI> let not your <HI>furies</HI> rage</L>
+<L>Into <HI>revenge,</HI> but labour to asswage</L>
+<L>The flames of <HI>anger,</HI> let them not aspire</L>
+<L>Beyond your reach; <HI>Passion's the worst of fire:</HI></L>
+<L>Be not too much addicted to the hate</L>
+<L>Of <HI>any,</HI> but be wisely <HI>moderate,</HI></L>
+<L>And when your <HI>hands</HI> begin to undertake</L>
+<L>A consequentiall <HI>worke</HI> be sure t' awake</L>
+<L>Your slumb'ring <HI>reasons,</HI> labour to advise</L>
+<L>With <HI>heav'n</HI> and he will crowne your <HI>enterprise</HI></L>
+<L>With full successe; and if your <HI>foes</HI> should chance</L>
+<L>To gaine the day, permit your thoughts to glance</L>
+<L>Upon your private <HI>Crimes,</HI> and learne to know</L>
+<L>Th' effect can never absolutely show</L>
+<L>The justnesse of a <HI>cause,</HI> for oftentimes</L>
+<L>Just Heav'n is pleas'd to pardon private <HI>Crimes</HI></L>
+<L>With publique <HI>means</HI>; God knows my <HI>cause</HI> was just</L>
+<L>And yet he lay'd my <HI>Armies</HI> in the dust:</L>
+<L>Shall I repine because I dayly see</L>
+<L>My <HI>foes</HI> prevaile, and triumph ouer me?</L>
+<L><PB N="25" REF="15"/>No, no I will not, they shall <HI>live</HI> to <HI>dye,</HI></L>
+<L>When I shall <HI>dye,</HI> to <HI>live</HI> and glorifie</L>
+<L>The <HI>Generall</HI> of Heav'n, within whose <HI>Tent</HI></L>
+<L>I hope to rest, where <HI>Time</HI> will ne're be spent.</L>
+<L>But now, ah now, these <HI>lipps</HI> must bid <HI>farewell,</HI></L>
+<L>Methinks I heare (Deaths Orator) the <HI>Bell,</HI></L>
+<L>Plead for an <HI>issue,</HI> and I must not stay,</L>
+<L><HI>Death</HI> comes in haste, and I must post away:</L>
+<L>Come then my tender <HI>Babes,</HI> &amp; dearest <HI>Spouse</HI></L>
+<L>(Thou that wert alwayes constant to thy <HI>vows</HI>)</L>
+<L>And let those short-liv'd <HI>armes</HI> of mine inclose</L>
+<L>You all together, e're I doe repose</L>
+<L>My earth-defatigated <HI>limbs:</HI> forbeare</L>
+<L>To drench my <HI>farewell</HI> in so large a <HI>teare</HI>;</L>
+<L>My deare <HI>Relations,</HI> if my wasting <HI>glasse</HI></L>
+<L>Afford no <HI>sand,</HI> I must be gone; Alas</L>
+<L>Teares cannot hold my <HI>soul</HI>; and woe may have</L>
+<L>More priviledge to <HI>take,</HI> then he that <HI>gave</HI>;</L>
+<L>My <HI>Iourney's</HI> almost ended, and I must</L>
+<L>Take up an <HI>Inn,</HI> and lodge my self in <HI>dust,</HI></L>
+<L>Then shine upon me with the beams of <HI>mirth,</HI></L>
+<L>That I may say, I saw a <HI>heav'n</HI> on <HI>earth,</HI></L>
+<L>A pleasing <HI>smile,</HI> or <HI>two,</HI> will make me know</L>
+<L>No paine in <HI>death,</HI> but if in <HI>teares</HI> you flow,</L>
+<L>Oh then—</L>
+</LG>
+<LG>
+<L>—But know, my <HI>dearest,</HI> Heav'n wil be</L>
+<L>A fitter <HI>husband</HI> for thee far than <HI>me.</HI></L>
+<L>Thou need'st not feare thy <HI>foes</HI> contriving <HI>harmes</HI></L>
+<L>They cannot keep thee from his folding <HI>armes,</HI></L>
+<L><PB N="26" REF="16"/>As they have done from <HI>mine</HI>; oh may wee meet,</L>
+<L>I dare not say, within a <HI>winding-sheet</HI>;</L>
+<L>For I am sure those weeping <HI>Babes</HI> will misse</L>
+<L>Th' unwelcome <HI>absence</HI> of so great a <HI>blisse,</HI></L>
+<L>But when thy <HI>husband,</HI> heav'n shall please to bring</L>
+<L>Thy <HI>soul</HI> into his <HI>Quire,</HI> oh then wee'l sing</L>
+<L>Prolonged <HI>Anthems,</HI> where we shall combine</L>
+<L>Our <HI>souls</HI> together, in a place <HI>divine</HI>;</L>
+<L>Till then—oh why, why does thy trembling <HI>hand</HI></L>
+<L>Freeze within <HI>mine</HI>? Ah me, why dost thou stand</L>
+<L>And gaze upon me? are thy <HI>veins</HI> afray'd</L>
+<L>To entertaine thy <HI>blood</HI>? has <HI>grief</HI> betray'd</L>
+<L>Thy fainting heart to <HI>death</HI>? wilt thou precede</L>
+<L>My resolutions, give me leave to lead</L>
+<L>The way to <HI>heav'n</HI>; Alas, and wilt thou die</L>
+<L>Because I cannot <HI>live?</HI> cast back thine <HI>eye</HI></L>
+<L>Upon thy Royall <HI>Issue,</HI> doe but see</L>
+<L>How fast their <HI>sighes</HI> doe faile in <HI>tears</HI> to thee,</L>
+<L>Oh let the sight of them revive thy <HI>heart,</HI></L>
+<L>Cheer up, and give me courage to depart;</L>
+<L>For they that dye because another dyes,</L>
+<L>Usurpe a Death, and make themselves a prize;</L>
+<L>Doe not, oh doe not, thus torment thy <HI>soul</HI></L>
+<L>For my <HI>departure,</HI> if you must condole,</L>
+<L>Condole my <HI>stay,</HI> my <HI>soule</HI> desires to be</L>
+<L>Disolv'd (Indulgent God) and rest with thee;</L>
+<L>A bed of <HI>Roses;</HI> that's a fading <HI>sweet,</HI></L>
+<L>Oh there's no comfort to a winding <HI>sheet,</HI></L>
+<L>A <HI>Grave's</HI> the best of <HI>Pallaces</HI>; for there</L>
+<L>Is neither whining <HI>grief</HI> nor pining <HI>care</HI>:</L>
+<L><PB N="27" REF="16"/>Why should we scorne this <HI>earth</HI> that entertains</L>
+<L>Our wearied <HI>bones,</HI> and hides us from our <HI>paines?</HI></L>
+<L><HI>Earth</HI> is a place of <HI>worth,</HI> yet would I have</L>
+<L>Not any dote upon't but for a <HI>grave</HI>:</L>
+<L>Now <HI>death</HI>; march bravely on, and let thy <HI>dart</HI></L>
+<L>Sing as it flies unto my obvious <HI>heart,</HI></L>
+<L>What? art thou daunted? dost thou feare to kill</L>
+<L>Because I am a <HI>King</HI>; what? daunted still?</L>
+<L>Why dost thou look so <HI>pale?</HI> what, art thou charm'd</L>
+<L>By <HI>Majesty</HI>? or has thy <HI>self</HI> disarm'd</L>
+<L>Thy <HI>self,</HI> or else art thou asham'd to doe</L>
+<L>So foul a <HI>deed,</HI> or wil't thou not imbrew</L>
+<L>Thy <HI>shaft</HI> in Royall <HI>blood?</HI> Come, lay aside</L>
+<L>Thy <HI>feare,</HI> and <HI>shoot,</HI> or else my <HI>foes</HI> will <HI>chide</HI>:</L>
+<L>But hold a while (nor doe I bid thee stay,</L>
+<L>Because my <HI>soul's</HI> desirous of delay)</L>
+<L>Once more thou sole <HI>Commandresse</HI> of my <HI>brest,</HI></L>
+<L>Draw nere, before I fall into my <HI>rest,</HI></L>
+<L>Approach unto me, let these <HI>lipps</HI> of mine</L>
+<L>Intaile a <HI>farewell</HI> on those <HI>cheeks</HI> of thine,</L>
+<L>Weep not, but let thy tender <HI>knees</HI> salute</L>
+<L>The <HI>ground</HI> with <HI>mine</HI> let's labour to confute</L>
+<L>Our <HI>sorrows</HI> with our <HI>prayers,</HI> and recommend</L>
+<L>Our <HI>souls</HI> to <HI>heav'n,</HI> whose <HI>glory</HI> knows no <HI>end</HI>;</L>
+<L>Thou <HI>great,</HI> thou <HI>glorious,</HI> thou all-ruling <HI>King,</HI></L>
+<L>Thou <HI>Rocke,</HI> thou <HI>fountaine,</HI> thou eternall <HI>spring</HI></L>
+<L>Of <HI>Grace</HI>; we that are cloathed with the <HI>night</HI></L>
+<L>Of <HI>sin,</HI> present our <HI>selves</HI> into thy <HI>sight,</HI></L>
+<L>And with unfained <HI>hearts</HI> devoutly pray</L>
+<L>That thou wouldst send thy <HI>Son</HI> to chase away</L>
+<L><PB N="28" REF="17"/>Our soul-absconding <HI>clouds,</HI> that thou mayst take</L>
+<L>A pleasure to behold us, for his sake</L>
+<L>We beg this needfull grace, in whom we know</L>
+<L>Thou art well pleased, and to whom we owe</L>
+<L>A debt unpayable, oh therefore let</L>
+<L>Thy satisfying <HI>mercy</HI> pay our <HI>debt</HI>;</L>
+<L>Oh hear our <HI>prayers,</HI> which strongly doe impor∣tune</L>
+<L>Thy gracious <HI>pardon,</HI> though it was our fortune</L>
+<L>To be unfortunate, yet let us be</L>
+<L>Indulgent <HI>Father,</HI> fortunate with <HI>thee,</HI></L>
+<L>Forgive our youthfull <HI>sins,</HI> and speak some <HI>peace</HI></L>
+<L>Unto our <HI>souls,</HI> and as our <HI>sins</HI> encrease,</L>
+<L>So let thy <HI>mercy,</HI> more, and more abound,</L>
+<L>That having <HI>lost</HI> our sins, thou may'st be found;</L>
+<L>Heal our <HI>back-slidings,</HI> guide us in thy way,</L>
+<L>That so our feet may never goe astray;</L>
+<L>Oh <HI>blesse</HI> these <HI>blessings,</HI> which thy blessed <HI>hand</HI></L>
+<L>Bestow'd upon me, let them fil the Land</L>
+<L>With good <HI>examples,</HI> guard them from their <HI>foes</HI></L>
+<L>And send them <HI>patience,</HI> when thou send'st them <HI>woes.</HI></L>
+<L>Hear <HI>me</HI> for <HI>them,</HI> oh God, &amp; <HI>them</HI> for <HI>me</HI></L>
+<L>And hear our <HI>Saviour</HI> for us <HI>all,</HI> and be</L>
+<L>A <HI>Father,</HI> and a <HI>Husband</HI> to them all,</L>
+<L>And let me <HI>rise</HI> in <HI>mercy</HI> when <HI>I fall:</HI></L>
+<L>Strengthen their <HI>soules,</HI> and teach them to renew</L>
+<L>Their <HI>patience,</HI> when my <HI>soul</HI> shall bid adue</L>
+<L>To this infatuated <HI>world,</HI> oh let</L>
+<L>Their <HI>hearts</HI> seclude all <HI>grief,</HI> for 'tis a debt</L>
+<L>That must be <HI>pay'd,</HI> let thy <HI>exchequer</HI> take</L>
+<L>Such ill-coyn'd <HI>treasure,</HI> as my <HI>soul</HI> can make,</L>
+<L><PB N="29" REF="17"/>Oh grant (dear Father) this my great <HI>request,</HI></L>
+<L>Then take me when thou pleasest to thy <HI>rest.</HI></L>
+<L>So, now my <HI>joyes,</HI> be chearfull, let's create</L>
+<L>A heav'nly <HI>mirth,</HI> and let our <HI>sorrows</HI> wait</L>
+<L>Upon our <HI>pleasures</HI>; let our watchfull <HI>eies</HI></L>
+<L>Observe our <HI>Makers</HI> great <HI>Immunities.</HI></L>
+<L>Let's first observe how his free <HI>hand</HI> provided</L>
+<L>For us, before we were, how he divided</L>
+<L>The <HI>water</HI> from the <HI>land,</HI> and made it drie</L>
+<L>To entertain our <HI>feet,</HI> and made the <HI>skie</HI></L>
+<L>To give us <HI>light,</HI> and afterwards he made</L>
+<L>Poor helpless <HI>Man,</HI> that suddenly betray'd</L>
+<L>Himself to <HI>ruine,</HI> and by deviation,</L>
+<L>Abus'd the <HI>glory</HI> of his free <HI>Creation.</HI></L>
+<L>But see the bounty of our <HI>God</HI> above,</L>
+<L>Who quickly turn'd his <HI>fury</HI> into <HI>love,</HI></L>
+<L>And sent a speedy <HI>balsom</HI> to make sound</L>
+<L>The deadly <HI>anguish</HI> of so deep a <HI>wound</HI>:</L>
+<L>And shall we be ungratefull? shall we not</L>
+<L>Remember him, that never yet forgot</L>
+<L>To pity <HI>us</HI>? and shall we waste our <HI>dayes</HI></L>
+<L>In vain <HI>contentions,</HI> and not give him <HI>praise</HI></L>
+<L>That gave us his own <HI>Son</HI>? whose willing <HI>breath</HI></L>
+<L>Redeem'd our <HI>souls</HI> from everlasting <HI>death.</HI></L>
+<L>Alass, how miserable had we been,</L>
+<L>Had his spontanious <HI>death</HI> not stept between</L>
+<L><HI>Veng'ance</HI> and <HI>us,</HI> and shall we then deny</L>
+<L>What he <HI>requires,</HI> if he command that <HI>I</HI></L>
+<L>Retire unto <HI>him,</HI> shall my soul refuse</L>
+<L>To run unto him, and embrace the <HI>newes,</HI></L>
+<L><PB N="30" REF="18"/>Oh no, it must not, hee's accurst that shall</L>
+<L>Desire to <HI>stay,</HI> if <HI>Heaven</HI> be pleas'd to call.</L>
+<L><HI>Death</HI> hath no <HI>ears</HI> to hear <HI>complaints,</HI> 'tis vain</L>
+<L>To weep for <HI>that</HI> which <HI>tears</HI> cannot regain.</L>
+<L>You my sad <HI>standers</HI> by, when <HI>death</HI> shall send</L>
+<L>A <HI>Message</HI> to my <HI>heart,</HI> forbear to spend</L>
+<L>Offensive <HI>tears,</HI> but rather <HI>joy,</HI> that I</L>
+<L>Am gone before <HI>you</HI> to <HI>Eternitie</HI>;</L>
+<L>Where now me thinks, I see you <HI>all,</HI> and hear</L>
+<L>The lofty <HI>Seraphims</HI> salute my ear</L>
+<L>With heav'n-bred <HI>raptures,</HI> which does even woo</L>
+<L>My <HI>soul</HI> out of my <HI>ears,</HI> I long to go</L>
+<L>And fill my self with <HI>melody,</HI> and sing</L>
+<L>Perpetuall <HI>Halelujahs</HI> to my <HI>King:</HI></L>
+<L>So, now my wasting <HI>lamp</HI> begins to blaze,</L>
+<L>Come <HI>Death,</HI> and put a period to my <HI>dayes,</HI></L>
+<L>Let out my <HI>life,</HI> that I may flie unto</L>
+<L>My <HI>God,</HI> and bid this loathed <HI>world</HI> adieu:</L>
+<L>Adieu vain <HI>pleasures</HI> of unconstant <HI>earth,</HI></L>
+<L>Adieu false <HI>joys,</HI> and world-derived <HI>mirth</HI>:</L>
+<L>My dear <HI>Relations,</HI> I must now expresse</L>
+<L>A farewell to you <HI>all,</HI> and then addresse</L>
+<L>My <HI>self</HI> to <HI>Heaven,</HI> within whose <HI>Court</HI> I shall</L>
+<L>(My soul now tels me) shortly meet you <HI>all.</HI></L>
+<L>Till then enjoy what <HI>heav'n</HI> shall please to give,</L>
+<L>And rather study how to <HI>die</HI> then <HI>live.</HI></L>
+<L>Make use of <HI>time,</HI> and languish not in vain</L>
+<L>Those <HI>hours</HI> which cannot be recall'd again,</L>
+<L>Comfort each other, and if <HI>fortune</HI> frown,</L>
+<L>Smile ye at <HI>fortune,</HI> lay your <HI>sorrows</HI> down</L>
+<L><PB N="31" REF="18"/>Before the face of <HI>Heav'n</HI> and he'l relieve</L>
+<L>Your pining <HI>wants:</HI> oh let your hearts not grieve</L>
+<L>For <HI>food</HI> and <HI>raiment</HI>; labour to be true,</L>
+<L>And he that <HI>feeds</HI> the <HI>Ravens</HI> will feed <HI>you.</HI></L>
+<L>Oh let your morning <HI>thoughts</HI> be sure to mount</L>
+<L>To <HI>Heav'ns</HI> high <HI>Altar,</HI> give him an account</L>
+<L>Of all your <HI>actions</HI>; they which every day</L>
+<L>Make their accounts to <HI>God,</HI> prepare a way</L>
+<L>To go to <HI>heav'n.</HI> But <HI>time</HI> will give me leave</L>
+<L>T' expresse no more; my <HI>soul</HI> begins to cleave</L>
+<L>Unto a blest <HI>Eternitie,</HI> my <HI>heart</HI></L>
+<L>Declares unto <HI>me,</HI> that I must depart;</L>
+<L><HI>Time</HI> whets his sithe: Oh do not ring my <HI>knell,</HI></L>
+<L><HI>With sighs and sobs, farewel, my Joys, farewell.</HI></L>
+<L>So, now the <HI>Load-stone</HI> of this <HI>world</HI> shall have</L>
+<L>No art t' attract my <HI>soul,</HI> I'll not enslave</L>
+<L>My self to <HI>earth:</HI> shall transitory <HI>toyes</HI></L>
+<L>Surrept my <HI>soul</HI> from heavens eternall <HI>Joys?</HI></L>
+<L>Oh no, they shall not. Now I'll dedicate</L>
+<L>My <HI>self</HI> to thee (my God) who didst create</L>
+<L>Both <HI>soul</HI> and <HI>body</HI>; thou that knowst the <HI>thoughts</HI></L>
+<L>And <HI>hearts</HI> of <HI>Kings,</HI> and numerates their <HI>faults,</HI></L>
+<L>Pardon what I have done amiss to <HI>thee,</HI></L>
+<L>Forgive my <HI>enemies.</HI> Thou knowst I'm free</L>
+<L>From what I <HI>suffer</HI> for; thou knowst my <HI>hands</HI></L>
+<L>Are <HI>cleer</HI> from <HI>blood,</HI> thou knowst that my <HI>Com∣mands</HI></L>
+<L>Were not tyranical, thou knowst my brest</L>
+<L>Was never stain'd with Treason; My request</L>
+<L>O God is this, that thou wouldst make them know</L>
+<L>(And timely feel) what a most wilfull blow</L>
+<L><PB N="32" REF="19"/>Th'ave given to their Consciences; oh turn</L>
+<L>Their flaming hearts to thee, which daily burn</L>
+<L>Against thy servants, cause them to relent;</L>
+<L>And let their griefs induce them to repent.</L>
+<L>Be mercifull to them, as they were cruel</L>
+<L>To me, and mine, oh quench the blazing fuel</L>
+<L>Of their desires, gives them not their deserts,</L>
+<L>But wash my blood from their unfountain'd hearts;</L>
+<L>And as for me, presented to thy eyes</L>
+<L>Suppos'd (as an attoning Sacrifice)</L>
+<L>By them whose seven-years malice have contriv'd</L>
+<L>My downfall; when my body is disliv'd.</L>
+<L>Receive my soul into thy glorious Tent,</L>
+<L>And mak't a member of thy Parliament;</L>
+<L>Now farewel world, and dirt-composed Crowns,</L>
+<L>Farewel earths smiles, and fortunes surly frowns.</L>
+<L><HI>Farewel to you that thus my life expell,</HI></L>
+<L><HI>Oh may my farewell, make you all farewell.</HI></L>
+</LG>
+<LG>
+<L><HI>Reader</HI>; the sound of <HI>death</HI> hath made me start</L>
+<L>Out of my <HI>slumbers,</HI> and my wak'ned <HI>heart</HI></L>
+<L>Trembles within me; Oh what shall we doe?</L>
+<L>Oh may I never <HI>dream,</HI> to <HI>dream</HI> thus true:</L>
+<L>But since 'tis so, (kind Reader) let thy <HI>eie</HI></L>
+<L>Survay the paths of his sad <HI>Elegie</HI>:</L>
+<L>Lavish not out your <HI>tears</HI> too fast, but keep</L>
+<L>A strong <HI>reserve,</HI> your <HI>eyes</HI> must <HI>bleed,</HI> or <HI>weep.</HI></L>
+<L><HI>Till then adue; and when I meet thee there,</HI></L>
+<L><HI>Reader, assure thy self, I'le spend a teare.</HI></L>
+</LG>
+</DIV1>
+</BODY>
+</TEXT>
+<TEXT>
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="19"/>
+<P>AN ELEGY UPON That never to be forgotten CHARLS THE FIRST; <HI>Late</HI> (but too soon Martyr'd) KING <HI>of</HI> England, Scotland, France <HI>and</HI> Ireland.</P>
+<Q><L>Who with unmoved Constancy, laid down</L>
+<L>His Life, t' exchange it for a heav'nly Crown.</L></Q>
+<P><HI>January</HI> 30. 1648.</P>
+<P>—In adibus Regum Mors venit—</P>
+<P>Printed in the Year, 1649.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="elegy">
+<PB N="34" REF="20"/>
+<HEAD>AN ELEGIE UPON That never to be forgotten CHARLES THE FIRST.</HEAD>
+<LG>
+<L>WHat? do I dream? or does my <HI>fancy</HI> scatter</L>
+<L>Into my various <HI>mind</HI> a reall matter?</L>
+<L>What ails my <HI>thoughts?</HI> what uncorrected <HI>passion</HI></L>
+<L>Is this, that puts my <HI>Senses</HI> out of fashion?</L>
+<L>Where am I hurri'd? what sanguinious <HI>place</HI></L>
+<L>Is this I breathe in, garnish'd with <HI>disgrace?</HI></L>
+<L>Why? what's the reason that my <HI>eys</HI> behold</L>
+<L>These waves of <HI>blood?</HI> Does the <HI>Red sea</HI> infold</L>
+<L>My shivering <HI>body?</HI> Oh what stormy weather</L>
+<L>Was that which violently tost me hither?</L>
+<L>Where am I now? what rubicundious <HI>light</HI></L>
+<L>Is this, that bloudies my amazed sight?</L>
+<L>What <HI>Reformation</HI>'s this that's newly bred,</L>
+<L>And turns my <HI>white</HI> into so deep a <HI>red?</HI></L>
+<L><PB N="35" REF="20"/>Awake my <HI>fancy,</HI> come delude no more,</L>
+<L>Say; are my <HI>feet</HI> upon the <HI>English shore?</HI></L>
+<L>Sure not; these are usurping thoughts that raine</L>
+<L>Within the Kingdom of a troubl'd braine:</L>
+<L>If this be <HI>England,</HI> oh what alteration</L>
+<L>Is lately bred within so blest a <HI>Nation</HI>;</L>
+<L>My soul is now assured; for I see</L>
+<L>Those lofty Structures where mild Majesty</L>
+<L>Did once recide; abounding with a <HI>flood</HI></L>
+<L>That swells (and almost moates them round) with <HI>blood,</HI></L>
+<L><HI>England,</HI> sad object, that wer'<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> lately crown'd</L>
+<L>With a most glorious <HI>prince</HI>; how art 'thou drownd</L>
+<L>In Royall <HI>bloud?</HI> was not thy <HI>master-veine</HI></L>
+<L>Open'd of late; ah, who can stop't againe?</L>
+<L>Look round about thee, and thou shalt descry</L>
+<L>How every <HI>face</HI> imports an <HI>Elegy.</HI></L>
+<L>Review thy self, see how thou art ingrain'd</L>
+<L>With guiltlesse <HI>blood?</HI> was ever <HI>Land</HI> so stain'd?</L>
+<L>Needs must your hearts expect a cloudy <HI>night</HI></L>
+<L>Now <HI>Sol</HI> is set, and <HI>Cynthia</HI> wants her light:</L>
+<L>And dost thou think, O <HI>England</HI> to immure</L>
+<L>Thy self in <HI>bloud,</HI> and alwayes rest secure?</L>
+<L>Oh no, assure thy self there is a hand</L>
+<L>That rules <HI>above,</HI> which will correct thy <HI>land:</HI></L>
+<L>Be well advis'd, oh Nation; learn to know</L>
+<L>That language cannot ebb, when bloud shal flow</L>
+<L>All <HI>hearts</HI> all <HI>eyes,</HI> all <HI>hands,</HI> all <HI>tongues,</HI> all <HI>Quillt</HI></L>
+<L>Will <HI>think,</HI> wil <HI>weep,</HI> wil <HI>write,</HI> &amp; <HI>speak</HI> their <HI>wills</HI></L>
+<L>I'le not invoke; this Subject will invite</L>
+<L>Th' obdurest hearts, and teach that pen to write</L>
+<L><PB N="36" REF="21"/>Which never fram'd a Letter, and infuse</L>
+<L>The seed of Life, into a barren <HI>Muse▪</HI></L>
+<L>Thou gre<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/> <HI>Instructer,</HI> teach me to distil</L>
+<L>An <HI>Eagles</HI> Uertues, with an <HI>Eagles</HI> quil:</L>
+<L>Rais'd by a <HI>f<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ll,</HI> my <HI>Muse</HI> begins to sing</L>
+<L>The melancholy farewels of a KING.</L>
+<L>And is he gone I did not the dolefull <HI>Bells</HI></L>
+<L>Dissolve, when as they t<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ld his sad <HI>Farewills.</HI></L>
+<L>If he be gone? what language can there be</L>
+<L>Remaining in this <HI>Land,</HI> except, <HI>Ah me.</HI></L>
+<L>Ah me, Ah lass, how is this <HI>Realm</HI> unblest</L>
+<L>In such a loss?—I cannot speak the rest:</L>
+<L>My Heart is full of <HI>Arrows</HI> shot of late</L>
+<L>From the stiff <HI>Bow</HI> of a commanding STATE,</L>
+<L>Each wound is <HI>mortall</HI> yet in spight of pain</L>
+<L>Ile pluck them out, and shoot them back again;</L>
+<L>And when my <HI>tongue</HI> shall empty out my heart,</L>
+<L>Let Death surprize me with a single <HI>Dart▪</HI></L>
+<L>Ile strive t' outface <HI>Rebellion,</HI> and my eyes</L>
+<L>Shall s<GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/>n all new invented Tyrannies;</L>
+<L><HI>Sorrow</HI> will not be tongue ty'd, <HI>tides</HI> must run</L>
+<L>Their usuall <HI>courses,</HI> till their strength is don ▪</L>
+<L>I have a stream of <HI>grief</HI> within my brest,</L>
+<L>That tumbles up and down, and cannot rest:</L>
+<L>I am resolv'd let death distwade) to speak</L>
+<L>What Reason dictate▪ or my heart must break▪</L>
+<L>I'le mount the <HI>Stage</HI> let standers by behold</L>
+<L>My <HI>Actions,</HI> for my sorrows must be bold;</L>
+<L>I fear not <HI>those,</HI> whose <HI>powers</HI> may controll</L>
+<L>The language of my <HI>tongue,</HI> but not my <HI>soul.</HI></L>
+<L><PB N="37" REF="21"/>Advance dejected <HI>souls,</HI> hear <HI>reason</HI> call,</L>
+<L>Let not the <HI>truth</HI> be passive, though we fall.</L>
+<L>Blush not to own those <HI>tears,</HI> which you have spent</L>
+<L>In <HI>private,</HI> for a <HI>Publick</HI> discontent;</L>
+<L>Let not your <HI>tongues</HI> be (Pris'ners to your <HI>lips</HI></L>
+<L>When <HI>Justice</HI> cals, oh let not <HI>fear</HI> ecclipse</L>
+<L>The light of <HI>truth,</HI> rouse up your selves draw neer</L>
+<L><HI>When Justice finds a Tongue finde you an eare.</HI></L>
+<L>The <HI>day's</HI> expir'd, bright <HI>Sal</HI> hath drawn his head</L>
+<L>Within the curtaines of his <HI>Tethean</HI> bed,</L>
+<L>Where shall we hide our slumbring <HI>souls,</HI> and lay</L>
+<L>Our wearied <HI>limbes,</HI> till he renews the day?</L>
+<L>A day! Alasse, have not our wretched eyes</L>
+<L>Seen a great <HI>fall?</HI> can we expect a <HI>Rise?</HI></L>
+<L>Should <HI>Heav'n</HI> (who justly may) command his powres</L>
+<L>T' expel this <HI>light,</HI> as we have lately <HI>ones,</HI></L>
+<L>What should we do? where should we finde a <HI>sun,</HI></L>
+<L>That have by too much doing quite undone</L>
+<L>Our wilfull <HI>selves?</HI> by snuffing out that <HI>light</HI></L>
+<L>Which he inspir'd, to guard us from the <HI>night</HI></L>
+<L>Of sad <HI>confusion,</HI> ah, how could we spoile</L>
+<L>So pure a <HI>lampe,</HI> and so usurpe that <HI>oyle</HI></L>
+<L>Which was ordain'd to nourish us? We run</L>
+<L>To light a <HI>Candle,</HI> and put out the <HI>Sun</HI>;</L>
+<L>In vain we waste our times, and range about</L>
+<L>To look for new lights, now the old Light's out,</L>
+<L>We seek; and we may finde; but <HI>heav'n</HI> knowes when</L>
+<L><HI>Old lights</HI> were made by <HI>God,</HI> &amp; <HI>new by men.</HI></L>
+<L>Shake <HI>England</HI> for thy <HI>Grand Ʋpholders</HI> down,</L>
+<L>Thy <HI>feet</HI> have lately spurn'd against thy <HI>Crown,</HI></L>
+<L><PB N="38" REF="22"/>Thy <HI>hands</HI> are daub'd with <HI>bloud,</HI> one <HI>ruine</HI> calls</L>
+<L>An <HI>other,</HI> to the others <HI>funeralls</HI>;</L>
+<L><HI>Destruction</HI> thunders, and the <HI>earth</HI> is fill'd</L>
+<L>With doleful <HI>ecchoes</HI>; bloud that hath been spill'd</L>
+<L>By unjust <HI>hands</HI> (like seas) begin to roare,</L>
+<L>As if 'twould take revenge upon the <HI>shore</HI>:</L>
+<L>The whistling <HI>woods</HI> and their subjected <HI>springs</HI></L>
+<L>Sends forth Elegious <HI>blasts,</HI> each corner rings</L>
+<L>With unaccustom'd <HI>sounds</HI>; All things expresse</L>
+<L>(By thir prognosticating looks) unhappinesse;</L>
+<L>Deploring <HI>Philomel</HI> does now repeare</L>
+<L>Contristed <HI>notes,</HI> upon her <HI>Thorny seat</HI>;</L>
+<L>She has forgot those sweet no turnall <HI>notes.</HI></L>
+<L>Which lately charm'd all <HI>sorrow,</HI> now she dotes</L>
+<L>Upon her woefull, he prolixed <HI>tones,</HI></L>
+<L>And findes no <HI>sweetnesse</HI> in her <HI>bitter</HI> groanes:</L>
+<L>The <HI>Commons</HI> of the <HI>aire</HI> conspire to throw</L>
+<L>Their <HI>Soveraign</HI> down, and will not fly so low</L>
+<L>As formerly; but are resolv'd to be</L>
+<L>Oppugnant to the <HI>Eagles Majesty.</HI></L>
+<L><HI>How pregnant is Rebellion every where,</HI></L>
+<L><HI>Not onely here on earth, but in the aire?</HI></L>
+<L>Can <HI>thunder</HI> roare, and not the lofty sound</L>
+<L>Be heard? can <HI>Cedar.</HI> fall unto the ground,</L>
+<L>And not be seen? can <HI>Mountaines</HI> shrinke away</L>
+<L>And not observ'd? nor can there be a <HI>day</HI></L>
+<L>Without a <HI>Sun?</HI> nor can there be a <HI>night</HI></L>
+<L>Without some <HI>darknesie?</HI> can there be a <HI>light</HI></L>
+<L>Put our unwanted? or can <HI>murther</HI> be</L>
+<L>Committed upon sacred <HI>Majestie,</HI></L>
+<L><PB N="39" REF="22"/>And not lamented? sure no humane <HI>heart</HI></L>
+<L>Can be so <HI>brazen,</HI> as not to impart</L>
+<L>Some <HI>sorrow</HI> to the <HI>world,</HI> for such a losse,</L>
+<L><HI>When gold is gone, how uselesse is the drosse</HI>:</L>
+<L>Now mournfull <HI>Muses,</HI> light your <HI>Torches</HI> all,</L>
+<L>T' attend your <HI>glory</HI> to his Funerall;</L>
+<L>Shal, our <HI>Mecaenas</HI> dye, and you stand still,</L>
+<L>And not appeare upon <HI>Parnassus bill</HI>?</L>
+<L>Away, away, invoke <HI>Apolloes</HI> aide,</L>
+<L>Tell him that your <HI>Mecaenas</HI> was betray'd</L>
+<L>To an unlawfull <HI>death,</HI> and you desire</L>
+<L>To sacrifice a <HI>verse</HI>; and then retire:</L>
+<L>Could I translate my <HI>heart</HI> into a <HI>verse,</HI></L>
+<L>I'de pinne it with my <HI>soul</HI> upon his <HI>herse.</HI></L>
+<L>Could I command the <HI>world,</HI> I'de make it burne</L>
+<L>Like a pure <HI>lampe</HI> upon his sacred <HI>Ʋrne</HI>:</L>
+<L>Could I command all <HI>eyes,</HI> I'de have them make</L>
+<L>(As a memoriall for great <HI>Charles</HI> his sake)</L>
+<L>A <HI>sea of teares,</HI> that after <HI>ages,</HI> may</L>
+<L>Lament to see, but not lament to say</L>
+<L>He dy'd without a <HI>teare</HI>; and it should be</L>
+<L>Call'd the salt <HI>sea</HI> of flowing <HI>Loyaltie</HI>:</L>
+<L>Could I command all <HI>hearts,</HI> I'de make them spend</L>
+<L>Some drops of <HI>bloud</HI> upon his <HI>tombe,</HI> and send</L>
+<L>Millions of <HI>sighes</HI> to Heav'n, that may expresse</L>
+<L>His death was <HI>Englands</HI> great unhappinesse;</L>
+<L>Could I command all <HI>tongues,</HI> I'de make them run</L>
+<L>Divisions on his <HI>praise,</HI> till <HI>time</HI> were done;</L>
+<L>Could I command all <HI>hands,</HI> I'de strike them dead</L>
+<L>Because they should not rise against their <HI>head.</HI></L>
+<L>Could I command all <HI>feet,</HI> I'de make them goe</L>
+<L><PB N="40" REF="23"/>And give the <HI>Son</HI> that duty which they owe</L>
+<L>To his deserts—.</L>
+</LG>
+<LG>
+<L>I'm in a <HI>desert,</HI> and I know not where</L>
+<L>To guide my steps, that path which seemes most faire,</L>
+<L>Broves most pernicious to me, and will lend</L>
+<L>My feet a good <HI>beginning,</HI> but no <HI>end.</HI></L>
+<L>Great <HI>Charl's,</HI> oh happy word, but what's the next</L>
+<L>(Bad's th' application of so good a <HI>Text</HI>)</L>
+<L>Is dead; most killing word; what is he dead?</L>
+<L>Nay more (if more may be) hee's murthered:</L>
+<L>Ah then my thoughts are murther'd; my sad eyes</L>
+<L>Shall never cease to weep his Obsequies:</L>
+<L>I'le turn this <HI>place</HI> into a bubling <HI>spring</HI></L>
+<L>Of briny <HI>teares</HI>; and then I'le freely bring</L>
+<L>A Sacrifice to <HI>sorrow,</HI> which shall be</L>
+<L>A flaming <HI>heart</HI> that's crown'd with <HI>Loyaltie</HI>:</L>
+<L>Now could I spend an age in thoughts, and tyre</L>
+<L>The night with <HI>sighes,</HI> methinks I could inspire</L>
+<L><HI>Sorrow</HI> it self, and teach it to proclaime</L>
+<L>What ruine waites upon our new-bred <HI>flame</HI>:</L>
+<L>But 'tis in vaine, perswasions have no powre</L>
+<L>On them, whose <HI>resolutions</HI> can devoure</L>
+<L>Both <HI>Law</HI> and <HI>Reason,</HI> two most horrid <HI>crimes</HI></L>
+<L>In these pernicious, these contentious <HI>times</HI>:</L>
+<L>Come then my thoughts, and let us ruminate</L>
+<L>Upon our <HI>sorrows</HI>; oh unhappy <HI>Fate,</HI></L>
+<L>Why didst thou snuffle out <HI>Charles</HI> his royal <HI>blaze</HI></L>
+<L>In the <HI>Aurora</HI> of his well-spent days?</L>
+<L><PB N="41" REF="23"/>But 'tis in vaine to blame thee, for thy hand</L>
+<L>Cannot refraine to strike, if <HI>God</HI> command;</L>
+<L><HI>Heav'n</HI> saw he was too <HI>good</HI> to be enjoy'd</L>
+<L>By us; but not too <HI>good</HI> to be destroy'd</L>
+<L>For his owne <HI>glory</HI>; let's rejoyce, we had</L>
+<L>So good a <HI>King</HI>; but grieve to think how bad</L>
+<L>We us'd his <HI>goodness</HI>; we may justly say,</L>
+<L>He gave in <HI>mercy,</HI> what he took away</L>
+<L>In <HI>Iudgment,</HI> for his own commands appointed</L>
+<L>We should not <HI>touch,</HI> (much more slay) his <HI>anoin∣ted</HI></L>
+<L>And yet we have, (as if our hearts had sworn</L>
+<L>To contradict his will) abus'd and torn</L>
+<L>His own <HI>Vicegerent,</HI> to whose thriving <HI>hand</HI></L>
+<L>He gave the <HI>Scepter</HI> of a glorious <HI>Land</HI>:</L>
+<L>But now (unhappy land) thy glories fled,</L>
+<L>Thy <HI>Crown</HI> is fallen, and thy <HI>Charles</HI> is dead;</L>
+<L>Goe then, deplore thy self, whilst others sing</L>
+<L>The living <HI>vertues</HI> of thy martyr'd <HI>King</HI>;</L>
+<L>His glory shall survive with <HI>Fame,</HI> when they</L>
+<L>Shall lye forgotten in a heape of <HI>Clay</HI></L>
+<L>That were the <HI>Authors</HI> of his death, their bones</L>
+<L>Shall turne to <HI>ashes,</HI> as their hearts are <HI>stones</HI>:</L>
+<L>But did my <HI>tongue</HI> expresse that they should be</L>
+<L>Forgot; oh no, their long-liv'd <HI>Tyranny</HI></L>
+<L>Shall be <HI>perpetuall</HI>; harke, misfortune sings</L>
+<L><HI>The worst of Tyrants, kill'd the best of Kings</HI></L>
+<L>He was the best; what impious <HI>tongue</HI> shall dare</L>
+<L>To contradict my language, or impare</L>
+<L>His living <HI>worth,</HI> and they that goe about</L>
+<L>To blast his <HI>Fame,</HI> oh may their <HI>tongues</HI> drop out.</L>
+<L><PB N="42" REF="24"/>Pardon oh <HI>Heav'ns,</HI> if passion make me breake</L>
+<L>Into extremes, who can forbeare to speake</L>
+<L>In such a lawfull <HI>cause?</HI> may we not claime</L>
+<L>A Priviledge to speak in <HI>Charles</HI> his name.</L>
+<L>Is any timerous? then let them keep</L>
+<L>Their language, and reserve themselves to weep;</L>
+<L>Is any Joyful? let them keep their mirth</L>
+<L>To please the <HI>Tyrants</HI> of this groaning <HI>earth.</HI></L>
+<L>Is any <HI>sorry?</HI> let them keep their <HI>grief</HI></L>
+<L>Til <HI>Heav'n</HI> shall please to send their souls <HI>reliefe</HI>;</L>
+<L>Did ever <HI>Iland</HI> find so great a <HI>losse</HI>?</L>
+<L>Was ever <HI>Nation</HI> crownd with such a <HI>crosse</HI>?</L>
+<L>Could ever <HI>Kingdom</HI> boast they had a <HI>Prince</HI></L>
+<L>That could be more <HI>laborious</HI> to convince</L>
+<L>The <HI>errours</HI> of his <HI>times,</HI> or contradict</L>
+<L>The dictates of his <HI>rage,</HI> or be more strict</L>
+<L>In his <HI>Devotions</HI>; ne're did Prince inherit</L>
+<L>So rich a <HI>Crowne,</HI> with so inrich'd <HI>a Spirit.</HI></L>
+<L>He was the best of <HI>Conquerors</HI>; he made</L>
+<L>Conquests of <HI>hearts,</HI> although he was betray'd</L>
+<L>By some inferiour <HI>spirits,</HI> which he found</L>
+<L>Had lately started from the lowely <HI>ground,</HI></L>
+<L>And were not worth a <HI>Conquest</HI>; yet he gave</L>
+<L>Them more <HI>respect</HI> then their <HI>deserts</HI> could crave.</L>
+<L>None could <HI>observe</HI> during the time he stood</L>
+<L>Before his <HI>Pilates:</HI> that his royal <HI>blood</HI></L>
+<L>Mov'd into <HI>fury,</HI> but his <HI>heart</HI> was prone</L>
+<L>To hear their <HI>speeches,</HI> and retort his <HI>own</HI>;</L>
+<L>But when they found his <HI>language</HI> did increase</L>
+<L>With <HI>sense,</HI> he was desir'd to hold his <HI>peace,</HI></L>
+<L><PB N="43" REF="24"/>And some related that their <HI>furies</HI> bred,</L>
+<L>Because his at inclos'd his royal <HI>head.</HI></L>
+<L><HI>Good God, what times are these, when subjects dare</HI></L>
+<L><HI>Presume to make their Soveraign stand bare</HI>;</L>
+<L>And when they sent him from their new made <HI>place</HI></L>
+<L>Of <HI>Justice,</HI> basely spit upon his <HI>face,</HI></L>
+<L>But he whose <HI>patience</HI> could admit no date,</L>
+<L>Conquer'd their <HI>envies</HI> and subdu'd their <HI>hate</HI></L>
+<L>Ah who could blame our <HI>Soveraign</HI> to decline</L>
+<L>Their <HI>ways,</HI> and say, <HI>were ever grief like mine</HI>?</L>
+<L>First when his feet approach'd into the <HI>Hall,</HI></L>
+<L>The ill-tun'd <HI>tongues</HI> of <HI>sycophants</HI> would call</L>
+<L>Aloud for <HI>Justice,</HI> though they never knew</L>
+<L>What <HI>Justice</HI> was, yet still they would renew</L>
+<L>Their most <HI>confounding,</HI> and <HI>discordious</HI> noates,</L>
+<L>And baul for <HI>Justice</HI> with their sluce-like <HI>throats</HI>;</L>
+<L>But he, that <HI>Lambe</HI> of Patience, never vented</L>
+<L>A word of <HI>anger,</HI> but with speed prevented</L>
+<L>Their louder <HI>cryes,</HI> and with a pleasing <HI>breath</HI></L>
+<L>Reply'd; If <HI>Justice</HI> can be gain'd by <HI>death,</HI></L>
+<L>Yea shall not want it, only be content,</L>
+<L>Yea may as soon endeavour to <HI>repent,</HI></L>
+<L>As now ye doe to spil my <HI>blood</HI>; advise,</L>
+<L>Your <HI>souls</HI> will suffer for your forward <HI>cryes</HI>;</L>
+<L>Having thus spoke, immediately he stept</L>
+<L>Unto the <HI>barre,</HI> where for a time he kept</L>
+<L>Himself in <HI>silence</HI>; like a <HI>sun</HI> he shin'd</L>
+<L>Amongst those gloomy <HI>clowds</HI> which had com∣bin'd</L>
+<L>Themselves together, plotting to disgrace</L>
+<L>His orient <HI>luster,</HI> and impul'd his <HI>face</HI>:</L>
+<L><PB N="44" REF="25"/>And with a thundring <HI>voice,</HI> they first salute</L>
+<L>His <HI>ears</HI> with <HI>Tyrant, Traytor,</HI> and impute</L>
+<L><HI>Murder</HI> unto him: With a pleasing smile</L>
+<L>He look'd upon <HI>them,</HI> and a little while</L>
+<L>He made a <HI>pause</HI>; but by and by, he broke</L>
+<L>His silent lips, and moderatly spoke</L>
+<L>To this <HI>effect</HI>: May I desire to know</L>
+<L>From whence this great <HI>Authority</HI> doth flow</L>
+<L>That you pretend to act by? If it bee</L>
+<L>Derivative; I shall desire to see,</L>
+<L>And know from <HI>whom</HI>; till then I shall deny</L>
+<L>To give my <HI>tongue</HI> a <HI>licence</HI> to reply.</L>
+<L>You are our <HI>Pris'ner</HI> Sir, you ought not to</L>
+<L>Demand what your appointed <HI>Judges</HI> do,</L>
+<L>For our <HI>Authority</HI> 'tis known at large</L>
+<L>Unto our <HI>selves;</HI> pray answer to your <HI>Charge,</HI></L>
+<L>Or els we shall proceed. I thought t' have seen</L>
+<L>My <HI>Lords</HI> and <HI>Peers</HI> together, that had been</L>
+<L>A means to make my fading <HI>hopes</HI> renew,</L>
+<L>For most of <HI>them</HI> I know, but none of <HI>you.</HI></L>
+<L>As for my <HI>Charge,</HI> I own i<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> as a thing</L>
+<L>Of small concernment, as I am a King</L>
+<L>You cannot try me: what your new made <HI>laws</HI></L>
+<L>May do, I know not, have a care and pause</L>
+<L>Before you act in <HI>Blood,</HI> strive to convince</L>
+<L>Your stubborn <HI>hearts,</HI> &amp; know, I am your <HI>Prince</HI>;</L>
+<L>Y' are but abortive <HI>Judges,</HI> have a care,</L>
+<L>Ye may be tangled in your own made <HI>snare;</HI></L>
+<L>Proceed: ye can but throw me to the <HI>earth,</HI></L>
+<L>They which <HI>p<GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/>,</HI> needs must own the <HI>birth</HI>;</L>
+<L><PB N="45" REF="25"/>God knows my <HI>heart</HI>; 'tis not my <HI>life</HI> that I</L>
+<L>Account of, but my Subjects <HI>Liberty,</HI></L>
+<L>That's all that I desire. —Sir, now we must</L>
+<L>A little interrupt <HI>You:</HI> 'Tis unjust</L>
+<L>A <HI>Prisoner</HI> (as you are) should be allow'd</L>
+<L>So great a <HI>Priviledge:</HI> Y'ave disavow'd</L>
+<L>Our known <HI>Authoritie,</HI> and make a sport</L>
+<L>Of reall <HI>Justice,</HI> and affront the Court;</L>
+<L>Feed not your guilty heart with such delay.</L>
+<L>Waste no more time, for <HI>Justice</HI> will not stay.</L>
+<L>Pray give me leave to speak, great <HI>Charls</HI> reply'd.</L>
+<L>You ought not, <HI>Sir,</HI> to speak: w' are satisfi'd</L>
+<L>Already of your <HI>guilt,</HI> you must prepare</L>
+<L>To hear your <HI>Sentence,</HI> and you must forbear</L>
+<L>Your <HI>vain</HI> and weak <HI>discourses.</HI> Is it so,</L>
+<L>He then reply'd, that I am forc'd to go</L>
+<L>Away unheard (Alas, 'tis not the voice</L>
+<L>Of <HI>Death</HI> can daunt my <HI>brest,</HI> ye may rejoyce</L>
+<L>At my <HI>destruction,</HI> though <HI>you</HI> have no <HI>ear</HI></L>
+<L>To entertain my <HI>language,</HI> Heaven will hear.</L>
+<L>Take notice <HI>People,</HI> that you <HI>King's</HI> deny'd</L>
+<L>To speak: <HI>Was ever Justice rul'd by pride?</HI></L>
+<L>Thus having laid the <HI>burthen</HI> of their <HI>spight</HI></L>
+<L>Upon his <HI>head,</HI> they sent him from their <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ight.</L>
+<L>But <HI>he</HI> (that was inspir'd by <HI>Heaven</HI>) did show</L>
+<L>A <HI>countenance</HI> that did import their <HI>woe,</HI></L>
+<L>More then a <HI>sorrow</HI> for his <HI>death,</HI> his face</L>
+<L>Was dy'd with <HI>honour,</HI> theirs with foul <HI>disgrace</HI>;</L>
+<L>His <HI>patience</HI> was their <HI>passions,</HI> and they found</L>
+<L>His <HI>mind a kingdom,</HI> where his <HI>heart</HI> was crown'd</L>
+<L><PB N="46" REF="26"/>With constant <HI>love</HI>: Oh that I could rehearse</L>
+<L>His living <HI>Vertues</HI> with a living <HI>Verse!</HI></L>
+<L>But now my <HI>Pen</HI> must leave <HI>Him</HI> for a time,</L>
+<L>And dwell upon the <HI>mountains</HI> of that <HI>crime</HI></L>
+<L>Which they committed: Put a King to death!</L>
+<L>Oh horrid <HI>action</HI>! what venomous <HI>breath</HI></L>
+<L>Pronounc'd that fatall <HI>Sentence?</HI> May it live</L>
+<L>To poyson <HI>Scorpions,</HI> and not dare to give</L>
+<L>The least of sounds to any humane <HI>ear.</HI></L>
+<L>Sure he was <HI>deaf</HI> himself, and could not hear</L>
+<L>The cadence of his <HI>language:</HI> for the sound</L>
+<L>Had been sufficient to inflict a <HI>wound</HI></L>
+<L>Within his marble <HI>heart</HI>: Oh such a deed</L>
+<L>Stabs Kingdoms to the <HI>hearts,</HI> and makes them <HI>bleed</HI></L>
+<L>Themselves to <HI>death</HI>; to lose so good a <HI>King,</HI></L>
+<L>By such base means, will prove a viperous <HI>sting</HI></L>
+<L>To this detested Land.—</L>
+</LG>
+<LG>
+<L>—If <HI>Kings</HI> transgresse,</L>
+<L>And prove <HI>Tyrannicall,</HI> we must addresse</L>
+<L>Our selves to <HI>Heaven,</HI> and by our <HI>Prayers</HI> desire</L>
+<L>Th' assistance of his <HI>mercy</HI> to inspire</L>
+<L><HI>Our souls</HI> with true <HI>obedience,</HI> that we may</L>
+<L>Strengthen our <HI>selves,</HI> and <HI>passively</HI> obey</L>
+<L>What <HI>actively</HI> we cannot; for <HI>Kings</HI> reign</L>
+<L>By <HI>God,</HI> we therefore ought not to maintain</L>
+<L>Our <HI>rage</HI> against <HI>them:</HI> He that shall controul</L>
+<L>The <HI>actions</HI> of a King, burthens his Soul</L>
+<L>With a most ponderous <HI>crime:</HI> If to suppose</L>
+<L>But <HI>ill</HI> of <HI>Kings</HI> be sin; oh how have those</L>
+<L><PB N="47" REF="26"/>Transgress'd that have destroyd their <HI>King,</HI> and made</L>
+<L>Him <HI>subject</HI> to bad <HI>Subjects,</HI> that betraid</L>
+<L>Their <HI>souls</HI> to <HI>Tyranny</HI>! Oh Heaven forgive</L>
+<L>What they have done, and let their <HI>sorrows</HI> live</L>
+<L>Within their <HI>Souls</HI>; Oh make them to behold</L>
+<L>Their <HI>errours</HI>; Let not <HI>Conquest</HI> make them bold.</L>
+<L>Here stop my <HI>Muse,</HI> lets labour to accost</L>
+<L>Our former Glory, <HI>Charles,</HI> though we have lost</L>
+<L>His sacred <HI>Person,</HI> yet we must not lose</L>
+<L>His happy <HI>memory:</HI> Ah, who can chuse</L>
+<L>But <HI>sigh,</HI> when as they seat his glorious <HI>name</HI></L>
+<L>Within their <HI>serious thoughts!</HI> If ever <HI>Fame</HI></L>
+<L>Receiv'd a <HI>Crown,</HI> it was from <HI>Him,</HI> whose <HI>worth</HI></L>
+<L>My wearied Quil's too weak to blazon forth:</L>
+<L>And when the best of my <HI>endeavour's</HI> done</L>
+<L>I shall but light a <HI>Candle</HI> to the <HI>Sun.</HI></L>
+<L>Yet will I spend my <HI>strength</HI>; a feeble <HI>light</HI></L>
+<L>Plac'd by a greater, makes it shine more <HI>bright.</HI></L>
+<L>He was ('tis not unknown to all the <HI>earth</HI>)</L>
+<L>A <HI>Prince</HI> by <HI>vertue,</HI> and a <HI>Prince</HI> by <HI>birth.</HI></L>
+<L>In the <HI>exordium</HI> of his <HI>Reign</HI> he swaid</L>
+<L>The <HI>Scepter</HI> of this <HI>Land</HI> (till time betraid</L>
+<L><HI>Cupid</HI> and <HI>Mars</HI>) with a Majestick <HI>brow,</HI></L>
+<L>And made his chearfull <HI>subjects</HI> hearts to bo<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/></L>
+<L>In <HI>honor,</HI> and it could not be exprest</L>
+<L>Whether he rul'd <HI>himself</HI> or <HI>Subjects</HI> best.</L>
+<L>He was a <HI>Prince,</HI> whose <HI>life</HI> and <HI>conversation</HI></L>
+<L>Impoverish'd <HI>vices,</HI> and enrich'd his <HI>Nation</HI></L>
+<L>With good <HI>examples</HI>; Honor never found</L>
+<L>So sweet an <HI>harbour,</HI> Vertue never crown'd</L>
+<L><PB N="48" REF="27"/>So rare a <HI>heart; Love</HI> reign'd within his <HI>eye,</HI></L>
+<L>And there was clothed with <HI>Divinitie:</HI></L>
+<L><HI>Vertue</HI> and <HI>Majestie</HI> did seem to strive</L>
+<L>Within his Royall <HI>brest,</HI> which should survive</L>
+<L>In greatest <HI>Glory:</HI> but 'twas soon decided,</L>
+<L><HI>Martha</HI> and <HI>Mary</HI> would not be divided:</L>
+<L>No more would they, there was a <HI>sympathie</HI></L>
+<L>Between them both; for if the <HI>one</HI> should die,</L>
+<L>The other could not <HI>live,</HI> they were combin'd</L>
+<L>Within his <HI>brest,</HI> and could not be <HI>disjoynd.</HI></L>
+<L><HI>O happy is that Land, where</HI> Vertue <HI>shall</HI></L>
+<L><HI>Meet</HI> Majestie <HI>within a</HI> Princes <HI>Hall.</HI></L>
+<L>He was a <HI>King</HI> not onely over <HI>Land,</HI></L>
+<L>But over <HI>Passion,</HI> for he could command</L>
+<L>His Royall <HI>Self,</HI> and when approaching <HI>trouble</HI></L>
+<L>Assaild his <HI>mind,</HI> his <HI>wisdome</HI> would redouble</L>
+<L>His present <HI>patience,</HI> and he would allow</L>
+<L>The worst of <HI>sorrows,</HI> a contented <HI>brow</HI>;</L>
+<L>His undivided <HI>soul</HI> was alwaies free</L>
+<L>To propagate the <HI>works</HI> of <HI>Pietie</HI></L>
+<L>His heart was still attracted to good <HI>motions,</HI></L>
+<L>By the true <HI>Loadstone</HI> of his firm <HI>devotions.</HI></L>
+<L>He alwaies studied how to recompence</L>
+<L>Good <HI>deeds</HI> with full <HI>rewards:</HI> as for <HI>offence,</HI></L>
+<L>He sooner would <HI>forgive</HI> it, then impose</L>
+<L>A <HI>punishment</HI>; his <HI>meekness</HI> made his <HI>foes</HI></L>
+<L>Grow <HI>supercilious,</HI> and at last they made</L>
+<L>A private <HI>snare,</HI> and <HI>zealously</HI> betraid</L>
+<L>The <HI>Lord</HI> of Englands <HI>life,</HI> whose free consent</L>
+<L>Granted them a <HI>Triennial Parliament</HI></L>
+<L><PB N="49" REF="27"/>To salve the <HI>Kingdoms</HI> grievances: but <HI>they</HI></L>
+<L>Took not the <HI>grievances,</HI> but <HI>Him</HI> away.</L>
+<L>It could not be distinguish'd which did reign</L>
+<L><HI>Mars</HI> or <HI>Apollo</HI> most, within his <HI>brain</HI>:</L>
+<L>He was a <HI>Cesar,</HI> and the equall <HI>fame</HI></L>
+<L>Of <HI>War</HI> and <HI>Wisdom</HI> dwelt upon his <HI>Name:</HI></L>
+<L>As for his <HI>Martiall</HI> parts, <HI>Edge-hill</HI> will bear</L>
+<L>An everlasting <HI>record,</HI> how his <HI>care</HI></L>
+<L>And <HI>resolution</HI> did maintain that <HI>Fight,</HI></L>
+<L>Till <HI>day</HI> submitted to th' incroaching <HI>night.</HI></L>
+<L>Although Heavens <HI>General</HI> was pleas'd to bring</L>
+<L>Such small <HI>conditions</HI> to so great a <HI>King,</HI></L>
+<L>We must not judge, that 'tis <HI>success</HI> that can</L>
+<L>Procure the <HI>title</HI> of a valiant <HI>man</HI>;</L>
+<L>For that will but instruct <HI>him</HI> how to fly</L>
+<L>Upon the wings of <HI>popularity.</HI></L>
+<L>As for his <HI>Theologick</HI> parts, I may</L>
+<L>Without <HI>presumption</HI> absolute say,</L>
+<L>He was a second <HI>David,</HI> and could raise</L>
+<L>A lofty <HI>strain,</HI> to sing his <HI>Makers</HI> praise:</L>
+<L>Read but his <HI>Meditations,</HI> and you'l finde</L>
+<L>His <HI>brest</HI> attain'd an heav'n-enameld <HI>minde.</HI></L>
+<L>Now <HI>Reader,</HI> close thine <HI>eys,</HI> and do not read</L>
+<L>My following <HI>lines,</HI> except thy <HI>heart</HI> can bleed,</L>
+<L>And thou not die. Ah, here's a mournfull <HI>text,</HI></L>
+<L>Imports a <HI>death:</HI> Suppose what follows next,</L>
+<L>And 'tis enough. Oh that I could <HI>ingrosse</HI></L>
+<L>The <HI>Language</HI> of the <HI>world,</HI> t' expresse this <HI>losse!</HI></L>
+<L>Break <HI>hearts,</HI> weep <HI>eys,</HI> lament your <HI>Soveraign</HI>'s</L>
+<L>And let <HI>Him</HI> swim unto his <HI>Funerall</HI></L>
+<L><PB N="50" REF="28"/>In Subjects <HI>teares</HI>; oh had you seen his <HI>feet</HI></L>
+<L>Mounted the <HI>stage of blood,</HI> and run to meet</L>
+<L>The <HI>fury</HI> of his <HI>foes,</HI> and how his <HI>breath</HI></L>
+<L>Proclaim'd a <HI>correspondency</HI> with <HI>death</HI>;</L>
+<L>Oh then thy diving <HI>heart</HI> must needs have found</L>
+<L>The depth of <HI>sorrow,</HI> and receiv'd a wound</L>
+<L>That <HI>Time</HI> could not recure, oh such a sight</L>
+<L>Had been sufficient to have made a <HI>night</HI></L>
+<L>Within this little <HI>world,</HI> hadst thou but seen</L>
+<L>What soule-defending <HI>patience</HI> stood between</L>
+<L><HI>Passion</HI> and <HI>him</HI>: with what a pleasing <HI>grace,</HI></L>
+<L>(<HI>As if that death had blush'd within his face</HI>)</L>
+<L>He look'd upon his <HI>people,</HI> which surrounded</L>
+<L><HI>His</HI> mourning <HI>Scaffold,</HI> whilst his <HI>thoughts</HI> aboun∣ded</L>
+<L>With heav'nly <HI>ruptures</HI>; his <HI>Angellike</HI> voice</L>
+<L>Taught <HI>Ioy</HI> to weep and <HI>sorrow</HI> to rejoyce;</L>
+<L><HI>Teares</HI> blinded many, that they could not see</L>
+<L>So <HI>bloody,</HI> so abhorr'd a <HI>Tragedy,</HI></L>
+<L>He look'd as if he rather came to view</L>
+<L>His <HI>Subjects,</HI> then to bid them all adue;</L>
+<L><HI>Feare</HI> had no <HI>habitation</HI> in his <HI>breast,</HI></L>
+<L>And what he <HI>spoke,</HI> was <HI>readily</HI> exprest:</L>
+<L>Heav'ns sacred <HI>Orator</HI> divinely typp'd</L>
+<L>His tongue with golden <HI>languages,</HI> and dipp'd</L>
+<L>His <HI>soul</HI> in <HI>Loves</HI> sweet <HI>fountaine,</HI> so that <HI>all</HI></L>
+<L>That <HI>lov'd, admir'd</HI> and <HI>griev'd</HI> to see him <HI>fall.</HI></L>
+<L>Whil or he (submitting <HI>Prince</HI>) devoutly pray'd</L>
+<L>That <HI>Heav'n</HI> would pardon <HI>those</HI> that had betraid</L>
+<L>His <HI>body</HI> to the <HI>grave</HI>; as from his soul</L>
+<L>He had <HI>forgave</HI> them all, and did condole</L>
+<L><PB N="51" REF="28"/>Their sad <HI>conditions</HI>; having spent his <HI>breath,</HI></L>
+<L>He yeelded (like a Lamb) unto his <HI>death.</HI></L>
+<L>Much more he utterd; but my burthen'd <HI>Quill</HI></L>
+<L>Recoils, and will not prosecute my <HI>will:</HI></L>
+<L>My <HI>Pen</HI> and <HI>I</HI> must now abrubtly part,</L>
+<L>Pardon (<HI>oh Reader</HI>) for <HI>love</HI> bindes my <HI>heart</HI></L>
+<L>With chains of <HI>sorrow:</HI> let me <HI>crave,</HI> what I</L>
+<L>Shall want in <HI>Language,</HI> that thou wilt <HI>supply</HI></L>
+<L>In <HI>Meditation</HI>; But before I let</L>
+<L>My <HI>Quill</HI> desert my <HI>hand,</HI> I'le make it <HI>set</HI></L>
+<L><HI>This Tragi▪ comick period to my story,</HI></L>
+<L>Charles <HI>liv'd in trouble, and he dy'd in glory.</HI></L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="poem">
+<EPIGRAPH>
+<BIBL>Habakkuk <HI>chap.</HI>1.<HI>ver.</HI>13.</BIBL>
+<Q>Thou art of purer eys (O God) then to behold <HI>evil,</HI> and canst not look on <HI>iniquity:</HI> Where∣fore lookest thou upon them that deal <HI>trea∣cherously,</HI> and holdest thy tongue when the <HI>wicked</HI> devoureth the <HI>man</HI> that is more <HI>righteous</HI> then <HI>they</HI>?</Q>
+</EPIGRAPH>
+<HEAD>AN EPITAPH.</HEAD>
+<PB N="52" REF="29"/>
+<L>Ʋpon</L>
+<LG>
+<L><HI>Caines,</HI> having kill'd their <HI>Abel,</HI> lay'd</L>
+<L>Him underneath, whom they betray'd</L>
+<L>And forc'd to <HI>death</HI> (Kind Reader) know</L>
+<L><HI>Religion</HI> was his <HI>overthrow.</HI></L>
+<L>Lament, lament, this <HI>fatall</HI> losse,</L>
+<L><HI>England</HI> never had a <HI>Crosse</HI></L>
+<L><HI>So Great as This</HI>; Let every <HI>Eye</HI></L>
+</LG>
+<LG>
+<L>Keep <HI>teares</HI> to weep his <HI>Elegie.</HI></L>
+<L><HI>I</HI> may presume to say, a <HI>Tombe</HI></L>
+<L>Never had a richer <HI>wombe.</HI></L>
+<L>Goe not till your <HI>sorrowes</HI> have</L>
+</LG>
+<LG>
+<L>Offered <HI>teares</HI> unto his <HI>grave</HI>;</L>
+<L>Faile not to spend some reall <HI>groanes,</HI></L>
+</LG>
+<LG>
+<L>Except your <HI>hearts</HI> are turn'd to <HI>stones</HI></L>
+<L>Now methinkes his <HI>ashes</HI> cryes</L>
+<L><HI>Guiltlesse</HI> blood's a <HI>Sacrifice,</HI></L>
+<L><HI>London</HI> lately lost her <HI>heart,</HI></L>
+<L>And is <HI>sicke</HI> in every <HI>part,</HI></L>
+<L>Nothing could appease but <HI>bloud,</HI></L>
+<L><HI>Death</HI> took her <HI>King,</HI> and left a <HI>flood.</HI></L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BACK>
+</TEXT>
+<TEXT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="53" REF="29"/>
+<HEAD>AN ELEGY UPON The Right Honorable, the LORD <HI>CAPELL,</HI> Baron of <HI>Had∣ham</HI>; Who was beheaded at <HI>Westminster,</HI> for maintaining the ancient and fundamen∣tall Lawes of the Kingdome of ENGLAND.</HEAD>
+<P><HI>March</HI> the 9. 1648.</P>
+<Q>Heu<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>jrc<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>t, aut fuctis vivat ubique suis.</Q>
+<L>DIsturbe me not, my <HI>thoughts</HI> are mounting high</L>
+<L>To build a <HI>Nest</HI> for <HI>Capells</HI> memory.</L>
+<L>Fool that I am, I doe not meane, a <HI>Nest,</HI></L>
+<L>No, nor a <HI>Kingdome</HI> neither that's the least</L>
+<L><PB N="54" REF="30"/>Of all my thoughts, It is a <HI>world,</HI> that shall</L>
+<L>Be rul'd by <HI>Capells eccho</HI>; hollow all</L>
+<L>Ye sacred <HI>Muses,</HI> and conspire to bring</L>
+<L>Matterialls to this <HI>worke,</HI> and learne to sing;</L>
+<L>For should ye weep, your <HI>eyes</HI> might undertake</L>
+<L>To drown that <HI>world,</HI> which <HI>I</HI> intend to make.</L>
+<L>Forbeare; your <HI>teares</HI> are uselesse, you must now</L>
+<L>Gaze upon <HI>death</HI> with an undaunted <HI>brow,</HI></L>
+<L><HI>Capell</HI> has taught us how to entertaine</L>
+<L>The palled looks of <HI>Mars,</HI> by him we gaine</L>
+<L>The <HI>art</HI> of dying, and from him we have</L>
+<L>The <HI>diffinition</HI> of a Noble <HI>Grave</HI>;</L>
+<L>Rare <HI>soul, I</HI> say, thy ever active <HI>Fame</HI></L>
+<L>Shall build a <HI>world</HI> upon thy pregnant <HI>name,</HI></L>
+<L>And every Letter of thy <HI>Name</HI> shall raise</L>
+<L>A spacious <HI>kingdom,</HI> where thy ample <HI>praise</HI></L>
+<L>Shall be recorded, every hearkning <HI>eare</HI></L>
+<L>Shall prove Ambitious, and admire to heare:</L>
+<L>'Twill be a <HI>glory,</HI> when the world shall say</L>
+<L>'Twas bravely done, his <HI>Soveraigne</HI> lead the way,</L>
+<L>And he (as valiant Souldiers ought to doe)</L>
+<L>March'd boldly after, and was alwayes true</L>
+<L>To sacred <HI>Majesty</HI>; his Noble <HI>breath</HI></L>
+<L>Disdain'd the fear of a <HI>Tyrannick</HI> death;</L>
+<L><HI>Death</HI> added <HI>life</HI> unto his <HI>thoughts,</HI> for he</L>
+<L>Contemn'd a <HI>life,</HI> if bought with <HI>infamy.</HI></L>
+<L>The very <HI>birds</HI> shall learne to prate, and sing,</L>
+<L>How <HI>Capell</HI> suffered for his Royall <HI>King.</HI></L>
+<L>Rouze then ye stupid <HI>sons</HI> of <HI>Morpheus</HI>; Let</L>
+<L>This shining <HI>Sun</HI> of <HI>English</HI> valour set</L>
+<L><PB N="55" REF="30"/>And rise within your <HI>horizons,</HI> your <HI>hearts</HI></L>
+<L>I mean, and teach you how to sing in parts</L>
+<L>The <HI>Anthems</HI> of his <HI>worth</HI>; Oh understand</L>
+<L>That this was he, whose <HI>death</HI> hath fill'd the <HI>land</HI></L>
+<L>With living <HI>sorrow</HI>; this was he, whose <HI>glory</HI></L>
+<L>Shall lend the <HI>world</HI> an everlasting <HI>story.</HI></L>
+<L>You lust-obeying <HI>Tarquins,</HI> that permit</L>
+<L>And tolerate your <HI>pleasures,</HI> to commit</L>
+<L>Adulterated <HI>actions,</HI> and command</L>
+<L><HI>England,</HI> our poor <HI>Lucretia,</HI> to stand</L>
+<L>Subject to our libidinous <HI>desires,</HI></L>
+<L>And cannot help her self, heav'n grant your fires</L>
+<L>May soone expire, that at the last we may</L>
+<L>(Like <HI>Tarquins</HI>) see you banish'd quite away,</L>
+<L>Say, will your hung'ry <HI>appetites</HI> receive</L>
+<L>No satisfaction? have you vow'd to leave</L>
+<L>No Noble <HI>blood</HI>? Alasse how can your meek</L>
+<L>And tender <HI>consciences</HI>; thus <HI>roar.</HI> and <HI>seek</HI></L>
+<L>Like greedy <HI>Lyons,</HI> senting up and downe</L>
+<L>To find your <HI>prey</HI> in every Royall <HI>Towne.</HI></L>
+<L>Where is that <HI>zeale</HI> which was in former <HI>times</HI></L>
+<L>A golden <HI>pretext,</HI> to your drossy <HI>crimes</HI>?</L>
+<L>Doe you not thinke of <HI>heav'n?</HI> have ye forgot▪</L>
+<L>There is a <HI>God</HI>? or will ye own him not;</L>
+<L>Where is <HI>Religion</HI> (your upholder) fled?</L>
+<L>What? is that <HI>murther'd</HI> too; or have ye spread</L>
+<L>A vaile upon <HI>her,</HI> that she may not be</L>
+<L>Observ'd, or own'd, but in <HI>necessitie,</HI></L>
+<L>Has not <HI>Religion</HI> all this while maintain'd</L>
+<L>Your unjust <HI>cause</HI>? what mony's ye have gain'd</L>
+<L><PB N="41" REF="31"/>Was for <HI>Religions</HI> sake, which still supplyd</L>
+<L>Your <HI>wants,</HI> but now ye're <HI>full,</HI> that's lay'd.</L>
+<L><HI>Ʋnhappy is that land, whose people braggs,</HI></L>
+<L><HI>That they have put Religion up in baggs.</HI></L>
+<L><HI>Money</HI> precedes <HI>Religion</HI> now; but stay</L>
+<L>Precipitating <HI>quil,</HI> I've lost my <HI>way,</HI></L>
+<L>Nay, and my <HI>subject</HI> too, how came my <HI>minde</HI></L>
+<L>Thus much to deviate; oh where shall I finde</L>
+<L>My former <HI>subject?</HI> shall my <HI>thoughts</HI> object</L>
+<L>His <HI>memory,</HI> and own him with Neglect:</L>
+<L>No, no, they shall not come my <HI>Muse,</HI> repose</L>
+<L>Let's think upon your <HI>Friend</HI> and let our <HI>foes</HI></L>
+<L>Remember us, <HI>Capell,</HI> thy <HI>worth</HI> shall fill</L>
+<L>The black mouth'd <HI>concave</HI> of my mourning <HI>quil.</HI></L>
+<L>He was a <HI>Pompie,</HI> but receiv'd his harme</L>
+<L>From <HI>Tyrants,</HI> not from <HI>Caesars</HI> noble arme.</L>
+<L>He had an <HI>Army</HI> in his minde, could call</L>
+<L><HI>Vertue</HI> to be their bold fac'd <HI>General</HI>;</L>
+<L>He had no <HI>Pride,</HI> no <HI>Faction</HI> to create</L>
+<L>Or nurse <HI>division</HI> in his peacefull <HI>State</HI>;</L>
+<L>He had a <HI>Court</HI> of <HI>Justice</HI> in his <HI>breast,</HI></L>
+<L>But not to <HI>tyrannize</HI> to make inquest</L>
+<L>After the <HI>sons</HI> of <HI>Loyalty,</HI> or bring</L>
+<L>Illegall <HI>Judgements</HI>: to their legal <HI>King</HI>;</L>
+<L>He had a <HI>heart</HI> that never us'd to hide</L>
+<L>The heate of <HI>envie,</HI> or the flames of <HI>Pride,</HI></L>
+<L>He had a <HI>Conscience</HI> never us'd t' exact</L>
+<L>Upon a <HI>widdowed</HI> Kingdome, or extract</L>
+<L>The <HI>treasures</HI> of a <HI>Nation,</HI> to defray</L>
+<L>His own <HI>desires,</HI> he never us'd to play</L>
+<L><PB N="55" REF="31"/>The <HI>Devil</HI> in the <HI>habit</HI> of a <HI>Saint,</HI></L>
+<L>Or teach his <HI>Agitators</HI> how to paint</L>
+<L>A <HI>vice</HI> with pleasing <HI>colours,</HI> or prepare</L>
+<L>His ready <HI>eyes</HI> to shed a <HI>zealous</HI> teare</L>
+<L>With a false <HI>heart,</HI> he never striv'd to please,</L>
+<L>And turn the <HI>Peoples</HI> hearts with <HI>Peters-Keyes</HI>;</L>
+<L>And to conclude, he never would desire</L>
+<L>Other mens <HI>fuels</HI> to maintain his <HI>fire</HI>;</L>
+<L>Now <HI>Reader,</HI> thou hast heard he had a <HI>minde</HI></L>
+<L>Not <HI>morgag'd</HI> unto <HI>basenesse,</HI> but inclin'd</L>
+<L>To honorable <HI>actions</HI>; It was he</L>
+<L>That was the <HI>Embleme</HI> of true <HI>Charitie,</HI></L>
+<L>Yet some unworthy <HI>Spirit</HI> have exprest</L>
+<L>He was a <HI>son</HI> of <HI>Rome,</HI> because his breast</L>
+<L>Was fill'd with <HI>pitty,</HI> and would still relieve</L>
+<L>The <HI>Poor,</HI> whose wants, instructed him to <HI>grieve.</HI></L>
+<L>False are those base <HI>reports,</HI> he was a man</L>
+<L>Always reputed a great <HI>Puritan,</HI></L>
+<L>And not a <HI>Papist,</HI> and he had a care</L>
+<L>To have that <HI>hated</HI> Book of <HI>Common prayer</HI></L>
+<L>Read to his <HI>Family,</HI> himself would joyn</L>
+<L>His aid to any thing that was <HI>Divine</HI>;</L>
+<L>The <HI>Church</HI> did seldom fail to entertain</L>
+<L>His Hoble <HI>self,</HI> and his domestique <HI>traine,</HI></L>
+<L>Until this blessed <HI>Reformation</HI> spread</L>
+<L>It self abroad and struck <HI>Religion</HI> dead;</L>
+<L>And then indeed his <HI>Conscience</HI> would refuse</L>
+<L>To let him hear some <HI>Rabshekah</HI> abuse</L>
+<L>His Gods <HI>Anointed,</HI> and his reall <HI>heart</HI></L>
+<L>Could not endure to hear <HI>time-servers</HI> dart</L>
+<L><PB N="58" REF="32"/>Arrows of <HI>envie</HI> at his <HI>King,</HI> and raile</L>
+<L>Aginst his <HI>Consort,</HI> lab'ring to intaile</L>
+<L>Disgrace upon their <HI>names,</HI> and fill the earth</L>
+<L>With heapes of <HI>errours,</HI> and rebellious <HI>mirth</HI>;</L>
+<L>These things▪ his <HI>heart</HI> abhorr'd, he could not hear</L>
+<L>His <HI>King</HI> abused with a patient <HI>ear:</HI></L>
+<L>He was the <HI>soul</HI> of <HI>Loyalty,</HI> his minde</L>
+<L>Was alwayes <HI>active</HI>: for he still inclin'd</L>
+<L>His <HI>thoughts</HI> to <HI>goodnesse,</HI> striving how to bring</L>
+<L><HI>Peace</HI> to his <HI>Country,</HI> honour to his <HI>King</HI>?</L>
+<L>He was a <HI>man</HI> that always us'd to fly</L>
+<L>Upon the wings of true <HI>sollidity</HI>;</L>
+<L>He was compleat, and <HI>rich</HI> in every part,</L>
+<L>His <HI>tongue</HI> was never <HI>traytor</HI> to his <HI>heart</HI>;</L>
+<L>But now, ah now (I shall make death too proud</L>
+<L>To speak it he hath lately left this cloud,</L>
+<L>This <HI>world</HI> of <HI>envy,</HI> and is gon t' inherit</L>
+<L>Those <HI>joyes</HI> which wait upon a noble <HI>Spirit</HI>:</L>
+<L>Now, now hee's gon to <HI>heav'ns</HI> sublimer <HI>court,</HI></L>
+<L>Where <HI>Justice</HI> lives, a place were false <HI>report,</HI></L>
+<L>Shall find no <HI>eare</HI>; a place where none shall <HI>dye</HI></L>
+<L>For being <HI>rich,</HI> or <HI>wise</HI>; their <HI>Loyalty</HI></L>
+<L>Shall be respected; there, the weeping <HI>eyes.</HI></L>
+<L>Of <HI>Orphans</HI> shall be pitied; there, the <HI>cries</HI></L>
+<L>Of <HI>Ladies</HI> pleading for their <HI>Lords,</HI> shall finde</L>
+<L>A full respect; where <HI>Vertue</HI> is refinde,</L>
+<L>There must be <HI>happinesse,</HI> oh think but where</L>
+<L>It is, (kinde Reader) and brave <HI>Capels</HI> there:</L>
+<L>There, there, he <HI>rests</HI> who stoutly trode the <HI>stage</HI></L>
+<L>Of <HI>blood,</HI> whose <HI>life,</HI> whose <HI>death</HI> no <HI>age</HI></L>
+<L><PB N="59" REF="32"/>Will ever <HI>paralel</HI> his <HI>courage</HI> gave</L>
+<L>A <HI>life</HI> to <HI>death,</HI> and <HI>pleasure</HI> to a <HI>grave</HI>;</L>
+<L>He had a pleasing <HI>countenance,</HI> his <HI>face</HI></L>
+<L>Did seem to <HI>blush,</HI> but 'twas for their <HI>disgrace,</HI></L>
+<L>And not his <HI>guilt,</HI> he hever seem'd t' expresse</L>
+<L>The least of <HI>fear,</HI> but hasted to addresse</L>
+<L>Himself to <HI>heav'n,</HI> and like a <HI>Stagge,</HI> he bay'd</L>
+<L>At his unsatisfied <HI>hounds</HI> and lay'd</L>
+<L>His <HI>use</HI> before them, and contemn'd their <HI>power</HI></L>
+<L>Because he knew they only could devour</L>
+<L>His little <HI>world</HI>; but for his <HI>soul,</HI> that went</L>
+<L>Before a more consciencious <HI>Paliament,</HI></L>
+<L>Where now he <HI>rests</HI> in peacefulness, and doubles</L>
+<L>His <HI>pleasures,</HI> whilest his <HI>foes</HI> survive in <HI>troubles,</HI></L>
+<L>There rest heroick <HI>Capell,</HI> and enjoy</L>
+<L>Those rich <HI>delights</HI> which time cannot destroy;</L>
+<L>Rest <HI>thou,</HI> whilst those are <HI>restlesse</HI> which deny'd</L>
+<L>To let thee rest on <HI>earth,</HI> whose hearts are ty'd</L>
+<L>In bloody <HI>fetters,</HI> which conglutinates</L>
+<L>Their <HI>souls,</HI> and leads them to the worst of Fates.</L>
+<L>But now my Quil grows weak, I must forsake</L>
+<L>These sable <HI>pathes,</HI> I dare not undertake</L>
+<L>So great a <HI>journey,</HI> for my feeble Pen</L>
+<L>Begins to stagger, <HI>grief</HI> can teach me when</L>
+<L>I shall begin, but will not prove my <HI>friend,</HI></L>
+<L>And lead my <HI>sorrows</HI> to a peacefull <HI>end</HI>:</L>
+<L>My <HI>thoughts</HI> increase, this <HI>subject</HI> would infuse</L>
+<L>A youthfull <HI>life,</HI> into an ancient <HI>Muse.</HI></L>
+<L>My heart's compos'd of <HI>raptures,</HI> and my <HI>hand</HI></L>
+<L>Receivs new <HI>strength</HI>; methinks I could command</L>
+<L><PB N="60" REF="33"/>The spacious <HI>world,</HI> and teach it to expresse</L>
+<L>His praise on <HI>earth,</HI> though not his happinesse</L>
+<L>In <HI>Heav'n,</HI> where now I'le leave him, and retire;</L>
+<L>I'le cease to <HI>write,</HI> and practise to <HI>admire.</HI></L>
+<EPIGRAPH>
+<Q>Ye have killed, and condemned the Just, and he doth not resist you.
+<BIBL><HI>Jam. 5.6.</HI></BIBL></Q>
+</EPIGRAPH>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB N="61" REF="33"/>
+<HEAD>AN EPITAPH.</HEAD>
+<P>UPON</P>
+<L><HI>The Right Honorable.</HI></L>
+<LG>
+<L><HI>A towre</HI> is fallen, and it lyes</L>
+<L>Represented to thy <HI>eyes</HI>:</L>
+<L>Therefore, <HI>Reader,</HI> if thy <HI>breath</HI></L>
+<L>Had an <HI>interest</HI> in his <HI>death,</HI></L>
+<L>Ʋnfix thy <HI>thoughts,</HI> and post away,</L>
+<L><HI>Reason</HI> forbids a <HI>Tyrants</HI> stay:</L>
+</LG>
+<LG>
+<L>Lavish out your hearty <HI>cryes,</HI></L>
+<L>Open wide your flowing <HI>eyes,</HI></L>
+<L>Record his <HI>worth,</HI> and let all <HI>hearts</HI></L>
+<L>Doate upon his living <HI>parts</HI>:</L>
+</LG>
+<LG>
+<L>Can any thinke upon his <HI>Name,</HI></L>
+<L>And not labour to proclaime</L>
+<L>Perpetuall <HI>praises</HI> to his <HI>worth,</HI></L>
+<L>Engaging <HI>hearts</HI> to set him forth:</L>
+<L>Let all <HI>men</HI> say, and not <HI>repent,</HI></L>
+<L><HI>Loe</HI> here lyes <HI>Murthers complement</HI></L>
+</LG>
+<Q>Dignum laude virum musa vetat mori.—</Q>
+</DIV1>
+</BODY>
+</TEXT>
+<TEXT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="62" REF="34"/>
+<HEAD>A CURSE AGAINST The Enemies of <HI>PEACE.</HI></HEAD>
+<L>PEace, peace, Rebellious <HI>Vipers</HI>; you that cry▪</L>
+<L>Advance <HI>Mechanicks,</HI> downe with <HI>Majesty,</HI></L>
+<L>Cease your vain <HI>wishes,</HI> may ye never rest,</L>
+<L>That love no <HI>Peace</HI>; nay, may ye ne're be blest</L>
+<L>That envy <HI>Sion</HI>; ah I shall <HI>Sions</HI> glory</L>
+<L>Be thus abstracted, and thus made a <HI>story</HI></L>
+<L>To after-ages; hath your hungry <HI>zeal</HI></L>
+<L>Devoured all your <HI>senses</HI> at one <HI>meal</HI>?</L>
+<L><PB N="63" REF="34"/>What do ye mean? do ye intend to try</L>
+<L>A <HI>Reformation</HI> with <HI>Phlebotomy</HI>?</L>
+<L>Or has your hell-bred <HI>thoughts</HI> found out a way</L>
+<L>To turn a <HI>Canaan,</HI> to a <HI>Golgotha?</HI></L>
+<L>Hath the Tartarian <HI>Counsellor</HI> invented</L>
+<L>Such thriving <HI>plots</HI> that cannot be prevented.</L>
+<L>Leave off base acts Mechanicks, and begin</L>
+<L>To deal <HI>uprightly,</HI> and <HI>reform</HI> within:</L>
+<L>Bury your aged <HI>crimes,</HI> and then go call</L>
+<L>Your stragling <HI>senses</HI> to the funerall.</L>
+<L>Thus I advise you, if this will not do,</L>
+<L>Assure your <HI>selves</HI> Ile learn to curse you too.</L>
+<L>May <HI>heav'n</HI> whose frowning <HI>countenance</HI> doth show</L>
+<L>An <HI>angry</HI> resolution, overthrow</L>
+<L>You, and your <HI>prick-ear'd Progeny,</HI> and make</L>
+<L>Your <HI>children suffer</HI> for their <HI>parents</HI> sake;</L>
+<L>May ye all <HI>beg,</HI> and wander <HI>up</HI> and <HI>down</HI></L>
+<L>Like <HI>vagabonds,</HI> be lash'd from <HI>Town</HI> to <HI>Town</HI>;</L>
+<L>And may the <HI>Loadstones</HI> of your <HI>crimes</HI> attract</L>
+<L>Ten thousand <HI>plagues,</HI> and may those <HI>plagues</HI> exact</L>
+<L>Upon your lavish <HI>souls,</HI> let impious <HI>Fate</HI></L>
+<L>Blush, if she chance to make you <HI>fortunate.</HI></L>
+<L>May <HI>torments</HI> pursue <HI>torments,</HI> and still grow.</L>
+<L>Till <HI>Rithmatick</HI> be non-plust, and o'rethrow</L>
+<L>Your treason-loaded hearts: And if this <HI>Curse</HI></L>
+<L>Will not succeed, may't yeeld unto a <HI>worse</HI></L>
+<L>For you, that this declining <HI>age</HI> may see</L>
+<L>The <HI>just rewards</HI> of your <HI>impietie.</HI></L>
+<L>Let <HI>basenesse</HI> be entayl'd unto your <HI>names,</HI></L>
+<L>Too strong for all <HI>recovery</HI>; Let <HI>shames</HI></L>
+<L><PB N="64" REF="35"/>And lasting <HI>infamies</HI> remain</L>
+<L>In deeper <HI>Characters</HI> then that of <HI>Cain.</HI></L>
+<L>May your souls burn, till <HI>heav'n</HI> shall think it good</L>
+<L>To quench them in your <HI>generations</HI> blood,</L>
+<L>That all the world may hear you <HI>hisse,</HI> and <HI>cry</HI></L>
+<L><HI>Who lov'd no Peace, in Peace shall never dye.</HI></L>
+</DIV1>
+</BODY>
+</TEXT>
+<TEXT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="65" REF="35"/>
+<HEAD>THE AUTHORS FAREWELL TO ENGLAND.</HEAD>
+<L><HI>ENgland,</HI> farewell; th' affections that I bear</L>
+<L>To thee, I cannot name without a <HI>teare</HI>;</L>
+<L>I must be gon' my troubled <HI>Conscience</HI> loathes</L>
+<L>To staine it's <HI>welfare</HI> with thy new-made <HI>oathes,</HI></L>
+<L><HI>Heav'n</HI> knowes my <HI>heart,</HI> I truly hate <HI>disorders,</HI></L>
+<L>And pity them that live within thy <HI>borders.</HI></L>
+<L>As for my self, <HI>I</HI> cannot stoope so low,</L>
+<L>To be subordinate to <HI>them I</HI> know</L>
+<L><PB N="66" REF="36"/>Are but <HI>inferiors,</HI> though they have of late</L>
+<L>Converted <HI>Monarch<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/></HI> into a <HI>State</HI>;</L>
+<L>Though <HI>heav'n</HI> conce<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ls his <HI>anger</HI> for a time,</L>
+<L>Giving them leave to doate upon a <HI>crime</HI>;</L>
+<L>A <HI>day</HI> will come to plague their <HI>souls,</HI> and then</L>
+<L>They'le prove but <HI>devills</HI> in the shapes of <HI>men.</HI></L>
+<L>And so farewell, poor <HI>England,</HI> quite <HI>farewell</HI></L>
+<L><HI>Where</HI> Furies <HI>reign, there needs must be a hell.</HI></L>
+<Q><L>Anglia, jam quantum, quantum mutata vetustas,</L>
+<L>Nunt caput as sceleris, qui caput orbis erat.</L></Q>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="36"/>
+</DIV1>
+</BODY>
+</TEXT>
+</GROUP>
+</TEXT>
+</EEBO>
+</ETS>
+

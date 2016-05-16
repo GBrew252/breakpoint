@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The love of truth and peace a sermon preached before the Honourable House of Commons, assembled in Parliament, Novemb. 29, 1640 / by Iohn Gauden ...</TITLE><AUTHOR>Gauden, John, 1605-1662.</AUTHOR></TITLESTMT><EXTENT>Approx. 84 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2007-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A42489</IDNO>
+
+
+<IDNO TYPE="stc">Wing G363</IDNO>
+
+<IDNO TYPE="stc">ESTC R492</IDNO>
+
+<IDNO TYPE="eebo citation">13065040</IDNO>
+
+<IDNO TYPE="oclc">ocm 13065040</IDNO>
+
+<IDNO TYPE="vid">97043</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A42489)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 97043)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 739:19)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The love of truth and peace a sermon preached before the Honourable House of Commons, assembled in Parliament, Novemb. 29, 1640 / by Iohn Gauden ...</TITLE><AUTHOR>Gauden, John, 1605-1662.</AUTHOR></TITLESTMT><EXTENT>[6], 46 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed by G.M. for Andrew Crooke ...,</PUBLISHER>
+<DATE>1641.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Bible. --  O.T. --  Zechariah VIII, 19 --  Sermons.</TERM><TERM>Truth --  Sermons.</TERM><TERM>Peace --  Sermons.</TERM><TERM>Sermons, English --  17th century.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2005-10</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2005-10</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2006-06</DATE><RESPSTMT><RESP>Taryn Hakala</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2006-06</DATE><RESPSTMT><RESP>Taryn Hakala</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2006-09</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A42489">
+<STC T="W">G363</STC>
+<BIBNO T="oclc">13065040</BIBNO>
+<VID>97043</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>THE
+LOVE OF TRVTH
+AND PEACE.</P>
+<P>A
+SERMON
+PREACHED
+BEFORE THE HO∣NOVRABLE
+HOVSE
+OF <HI>COMMONS</HI>
+Assembled in PARLIAMENT.</P>
+<P>Novemb. 29. 1640.</P>
+<P>By IOHN GAUDEN, <HI>Bachelor in Divinity. Published by order of that House.</HI></P>
+<P><HI>LONDON</HI>
+Printed by <HI>G. M.</HI> for <HI>Andrew Crooke</HI> in <HI>Pauls</HI> Church∣yard
+at the <HI>Greene Dragon.</HI> 1641.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>TO
+THE HONORABLE
+HOUSE
+OF
+COMMONS,
+Assembled in PARLIAMENT.</HEAD>
+<P><HI><SEG REND="decorInit">S</SEG>Vch is the powerfull, and universall</HI>
+influence, <HI>which the great and
+noble</HI> Constellation <HI>of your House
+bath, under</HI> God <HI>and the</HI> King,
+<HI>over all that are members of this</HI>
+State, <HI>that none with modesty may deny your</HI>
+desires, <HI>or with safety (at least of their discre∣tion)
+<PB REF="3"/>
+disobey your</HI> Commands; <HI>So irresi∣stible
+a force must the intimation of that</HI> Will
+<HI>carry, which proceeds from somany</HI> wise <HI>and
+excellent</HI> judgements <HI>united together. This
+may sufficiently</HI> justifie my obedience, <HI>in pre∣senting
+this Sermon to your, and the publique
+view: which not any</HI> self-forwardnesse, or
+over-valuing <HI>hath obtruded. It was enough,
+in the Authors opinion (if not too much) that so</HI>
+sudden and abortive conceptions <HI>had once
+adventured the</HI> Hearing <HI>of so Learned, Pious,
+and Judicious an Assembly. Where obtaining
+(through Gods blessing) some approbation, (by
+doing some good, I hope) they were further, by the</HI>
+vote <HI>of your</HI> Honorable House, <HI>required to
+be Printed: Which they now are; and with all</HI>
+Humilitie <HI>presented to your Acceptance. That
+at once I may, both cast in a</HI> mite <HI>to</HI> Gods
+glory <HI>in the</HI> publique good (<HI>which should be
+the end of all our actions) and also testifie a
+minde vehemently</HI> sensible <HI>of, and</HI> thankfull
+<HI>for those free and Noble expressions of favour
+generally from the</HI> whole House, <HI>and parti∣cularly
+<PB REF="3"/>
+from some</HI> members <HI>of it, my</HI> speciall
+friends, <HI>conferred upon me. What good others
+may now get from these notions, I know not: I
+pray, and hope, they may not be wholly uselesse
+to candid, pious, and unprejudiced mindes, since
+your censure hath allowed them as fit and neces∣sary
+for our times.</HI></P>
+<P><HI>This I am sure,</HI> your wisedome <HI>and</HI> pietie
+<HI>are (above all others) by the</HI> publication <HI>of
+this Sermon, more straightly</HI> obliged in con∣science,
+<HI>to justifie before God and man, your
+desires and opinion of it, by your</HI> proceedings
+<HI>answerable to the subject and intent of it; which
+is</HI> the love of Truth and Peace. <HI>The splendor
+of so many cleer mindes, concentred in</HI> Truth,
+<HI>cannot but kindle to a</HI> publique love <HI>of it. And
+from the sacred light, and heate of so many wise
+and warm hearts, the life sweetnesse and a∣bundance
+of our</HI> Peace <HI>cannot but grow and
+flourish.</HI></P>
+<P><HI>That this may be the</HI> happy successe, <HI>where∣with
+<PB REF="4"/>
+with God will be pleased to crown your</HI> pub∣lique
+endevours; <HI>as also these, which from my
+private Pen are now adopted unto your so</HI> great
+<HI>and</HI> Honorable protection, <HI>is the earnest
+prayer of</HI></P>
+<CLOSER><SIGNED>Your most
+humble
+Servant,
+GAUDEN.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB REF="4"/>
+<HEAD>THE LOVE
+OF
+TRUTH
+AND
+PEACE.</HEAD>
+<EPIGRAPH>
+<BIBL>ZACH. 8.19.</BIBL>
+<Q>Thus saith the Lord, The fast of the tenth moneth, shall
+be to the house of Iudah, joy and gladnesse, and cheere∣full
+feasts; therefore love the Truth and Peace.</Q>
+</EPIGRAPH>
+<P><SEG REND="decorInit">T</SEG>Hough the weight of this Service
+and Imployment be so great, that
+it might well have required abler
+shoulders to bear it, and longer time
+to prepare for it, and not to
+have put <HI>Sauls</HI> Armour on <HI>Davids</HI> backe:
+Yet that I may not be wanting, to Gods
+<PB N="2" REF="5"/>
+glory, my own conscience, or your desires and
+expectation; I have adventured to appear this
+day, in this place, before this Honorable, Grave,
+and Judicious assembly. Nothing did more
+encourage me, against the greatnesse of the Work,
+the shortnesse of the Time, and the insufficiency
+of my own Abilities, than the auspicious fitnesse
+and readinesse of this Text, so every way sutable,
+as I conceive; 1. To the Auditors. 2. To the
+Times. 3. To the present Occasion.</P>
+<P>1. To the Auditors; who are, or should be all
+<HI>Filii veritatis &amp; alumni pacis:</HI> Lovers of <HI>Truth,</HI>
+and <HI>Peace:</HI> professors of <HI>Truth,</HI> and protectors of
+<HI>Peace:</HI> being called together by his sacred Maje∣sty,
+and Deputed by the Countrey, to be Counsel∣lors,
+and Vindicators of <HI>Truth</HI> and <HI>Peace.</HI></P>
+<P>2. To the Genius of our Times▪ nothing is
+more needfull to be preached than the love of
+<HI>Truth</HI> and <HI>Peace.</HI> The Winters distemper of our
+age is such, that the <HI>Love</HI> of many (if not most)
+is grown cold to both: <HI>Truth</HI> much obscured, de∣praved,
+blemished, prejudiced, undermined, dis∣countenanced,
+suppressed: <HI>Peace</HI> very crazy and
+shaken: rumors of wars, preparations for wars,
+study of sides &amp; parts, great division of thoughts,
+pertinacy in opinions, breeding disaffections; and
+disaffections flaming to open contention and ho∣stility;
+so far, as from the strife of pens and
+tongues, writing, and disputing, we are come to
+the terror of war, to swords and arms; That if
+the great God, who is the Father of Truth and
+<PB N="3" REF="5"/>
+<HI>Peace</HI> (who refraines the spirits of men that de∣light
+in warre) had not been gracious unto us, and
+inclined the heart of our King to Counsells of
+Peace, you had not this day been Auditors, nor I
+a Speaker of this Theam, but all of us miserable
+actors, or spectators of the contrary, the suppres∣sion
+of <HI>Truth,</HI> and utter subversion of our <HI>Peace.</HI></P>
+<P>3. The Text suits to the present occasion of
+the Sacrament: Your late fasting is this day hap∣pily
+turned to a cheerfull feast: your Water
+changed to Wine; the best viands, the best wine;
+the soules provision for eternity, the body and
+bloud of Christ. A soules feast, a feast of exceed∣ing
+joy, of eternall gladnesse. A feast of love;
+Gods love to us; Christs love for us; our love to
+them, and to each other.</P>
+<P>A Feast of <HI>Truth;</HI> the sealing and confirmation
+of the highest, most necessary and comfortable
+truth, which received by faith, is able to save our
+soules. And a feast of <HI>Peace</HI> too; the most glori∣ous
+peace between God and our soules, between
+Christ and his Church; between one another.</P>
+<P>So that nothing can come more seasonably af∣ter
+your Fast, and with this Feast of spirituall joy,
+the holy Sacrament, then this divine exhortation,
+most worthy of God to teach, and of us to learn,
+as men, and as Christians: both which names im∣port
+a speciall relation we have, above all crea∣tures
+under heaven, to Truth and Peace, as we are <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, rationall and sociall creatures;
+as <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, regenerate and sanctified by the
+<PB N="4" REF="6"/>
+Spirit, which raiseth our souls to the enjoyment
+of the highest Truth and Peace, which is in God,
+and from God, bringing the soul to God, and
+uniting it ever with him.</P>
+<P>The three words in the Text (whereon I pur∣pose
+to insist) are a sacred Trinity. Three preci∣ous
+Jewels; Truth, Peace, and Love; all eminent
+in God, and from him: objects, and affections of
+the highest capacity, use, and excellencie to our
+souls; <HI>Truth,</HI> as the light of the Sunne; <HI>Peace</HI> as
+the heat, which enlivens, fosters, quickens, makes
+fruitfull all. <HI>Love</HI> makes us enjoy them both.
+<HI>Truth</HI> and <HI>Peace</HI> are, <HI>Bona publica &amp; universalia. Truth</HI>
+for the soule, <HI>Peace</HI> for the body and state; every
+one hath a share and interest in them, Prince,
+Peeres, and People.</P>
+<P>Of these I intend to speak, not as a Statist or
+Politician (to which I pretend not) but as a Di∣vine,
+a Messenger from the God of Truth and
+Peace; seeking to kindle and inflame your hearts
+to such a love of them, as may be most happy to
+your own souls, and most beneficiall to our
+Church and State: in the good of both which,
+you are all highly concerned: and in nothing can
+you promote the prosperity of either or both of
+them, more, then in your <HI>Love</HI> and advancement
+of <HI>Truth</HI> and <HI>Peace.</HI></P>
+<P>May God the Fountain of Truth, Christ the
+Saviour of Love, the holy Ghost the Spirit of
+Peace, assist me in speaking, you in hearing, all in
+doing so, as we may shew a pure impartiall, and
+<PB N="5" REF="6"/>
+unpassionate love of Truth and Peace.</P>
+<P>In the words consider three things: First, the
+inference, <HI>Therefore:</HI> Secondly, the objects pro∣pounded,
+<HI>Truth,</HI> and <HI>Peace.</HI> Thirdly, the dutie re∣quired:
+<HI>Love.</HI></P>
+<P>Every word hath a weight, beauty and benefit
+in it; so that they well merit and require your at∣tention.</P>
+<P>First, the inference, <HI>Therefore:</HI> The greater
+mercies God shewes to us, the stricter obligations
+to love and obedience he hath upon us. When
+our fasting and mourning are happily turned to
+cheerfull feasts, our feares and jealousies cleered
+up to joy and gladnesse, to hopes of better estate
+and times, what doth God require of us, but this?
+<HI>Therefore to love the Truth and Peace.</HI></P>
+<P>When Gods infinite mercy and patience to
+us hath beyond expectation, as well as desert,
+brought back our Church and State, from the
+brink and precipice of warre, ruine, and confu∣sion,
+which threatned our <HI>Peace.</HI> From the
+spreading, and prevailings of errours, heresies,
+schismes, and superstition, which strive to oppress
+or eclipse our Church and <HI>Truth:</HI> That there is a
+breathing space, a lengthning of our tranquillity,
+put into our hands, What doth God require of us
+by way of gratitude to him, of loyalty to our So∣veraign,
+of fidelitie to our Countrey, then to
+<HI>Love</HI> the <HI>Truth</HI> and <HI>Peace;</HI> which are so happily
+still continued to us; and by an active, serious,
+and industrious love to study the setling and re∣covery
+<PB N="6" REF="7"/>
+of them both.</P>
+<P>Secondly, the Objects propounded: here we
+will consider.</P>
+<P>First, <HI>What Truth is.</HI></P>
+<P>Secondly, <HI>What Peace.</HI></P>
+<P>Thirdly, The union of them: <HI>Truth and Peace.</HI></P>
+<P>Fourthly, The <HI>lovelinesse in them: which best ap∣pears
+in the benefit by them, so as to merit our affection.</HI></P>
+<DIV2 N="1" TYPE="section">
+<HEAD>1. Of Truth.</HEAD>
+<P>That question of <HI>Pilate</HI> to Christ, will here be
+made: What is <HI>Truth?</HI> I answer. It is a con∣formity,
+agreeablenesse, or answerablenesse of
+our mindes or things to their Ideas, patternes,
+rules or measures; As that Copy is true, which
+agrees with the Originall; That weight or mea∣sure
+true, which fits the Standard, That impres∣sion
+true in waxe or paper, which exactly fits the
+types and engravings, That notion or perception
+true in the minde or sense, which agrees with the
+nature of the thing or object, whereto they are
+applyed.</P>
+<P><HI>Truth</HI> is the increated light of the intellectaull
+world, shining from God to Angels and Men.</P>
+<P>The first <HI>Idea,</HI> rule, measure or Standard of
+Truth, is God: his Will, which I call <HI>Veritas
+Dei.</HI> Whereby he is, what he is, essentially, sim∣ply,
+immutably: by which he wils all things to
+be, what indeed they are, and knowes them to be,
+such as they are most certainly. This Sunne of
+Truth is in God: never clouded, spotted, or
+<PB N="7" REF="7"/>
+eclipsed; never setting or changing. Eternall
+light, day, noone, a constant serenity.</P>
+<P>From this is the eradiation of <HI>Truth;</HI> or shi∣ning
+forth of the Divine will by his Works and
+Word. Which we call <HI>Veritas Rei:</HI> and this is
+first <HI>Entitatis,</HI> whereby things are such as God
+would have them to be, and so are true and good.</P>
+<P>Secondly, <HI>Veritas mentis;</HI> whereby things are
+known or believed by us to be such, as indeed
+they are, either made or revealed by God to us:
+this is the <HI>truth</HI> of science or faith;</P>
+<P>Thirdly, Hence flows <HI>Veritas sermonis,</HI> of
+<HI>dicti;</HI> when our words and orall expressions are
+conformable to our knowledge, and belief or
+things speaking the truth. <HI>Ephes.</HI> 4. 15.</P>
+<P>Fourthly, <HI>Veritas facti &amp; Vitae;</HI> whereby our
+actions are conformable to what we say, and
+seem to know, judge, or believe of things, which
+is the doing of the Truth. 1. <HI>Ioh.</HI> 1. 6. The <HI>Idea</HI>
+or pattern of our actions are our words; of our
+words, our minds and conceptions; of our minds
+things themselves; of all things the Divine will,
+most wise, powerfull, and immutably good.
+All Truth as being, is originally from God, as a
+Sea and Sun derived, and must by a right beam
+and clear stream be reduced to him again: and
+so it is; when we do as we speak: when we
+speak as we think, know or believe; when we
+know or believe, as things are either made, or re∣vealed
+by God: Then doth the ray or veyn of
+<HI>truth</HI> flow aright from God to us, and reflect back
+<PB N="8" REF="8"/>
+again from us to him: When in any of these we
+fail: there comes in hypocrisie and simulation in
+our actions; lying in our words; error, falsity and
+unbelief in our mindes, when our actions contra∣dict
+our words, our words our mindes, our mindes
+the nature and <HI>truth</HI> of things, made, or revealed
+by God: whose will in his works and word, is
+(as I said) the rule of <HI>Truth.</HI></P>
+<P>There are divers manifestations of <HI>truth;</HI> though
+it be but one, yet as light shining through divers
+pores; or one Fountain derived in severall Con∣duits,
+for the benefit of rationall creatures.</P>
+<P>First, There is <HI>Truth,</HI> naturall or physicall in
+the Works of God, which by sense and discourse,
+by art and science we learn.</P>
+<P>Secondly, There is <HI>Truth</HI> morall, politicall,
+or civil; which is in the enacting, interpreting, and
+executing of Laws according to the rules of
+Justice.</P>
+<P>Thirdly, there is a truth Theologicall, super∣naturall
+or religious; which chiefly concerns
+our Souls, and is immediately taught from
+God.</P>
+<P>The first is in the Works of God and Nature.</P>
+<P>The second in the laws and edicts of men a∣greeable
+to principles of reason.</P>
+<P>The third is in the sacred Scriptures, the only
+foundation and rule of faith and religion.</P>
+<P>The first concerns us as creatures severally.</P>
+<P>The second as sociable creatures joyntly in a
+state or Common-wealth.</P>
+<P><PB N="9" REF="8"/>
+The third as <HI>Christians,</HI> in a Church and neerer
+call or relation to God.</P>
+<P>The first requires our love to it, as we love <HI>our
+selves</HI> in a naturall way: the second, as wee love
+<HI>our Countrey,</HI> relations and liberties: the third as
+we love <HI>our soules.</HI></P>
+<P>By the first, the health and welfare of our <HI>bodies,</HI>
+and pleasure of our senses, fancies, and minds, are
+maintained, while we know and enjoy the true ver∣tues,
+power, and use of creatures; able to apply fit
+meanes to our ends.</P>
+<P>By the second, the health of the state, or <HI>body
+politick</HI> is preserved; while <HI>Lawes,</HI> which are the
+<HI>nerves and ligaments</HI> of civil societies, are groun∣ded
+upon innate, infallible and eternall principles
+of <HI>equity, reason, and justice,</HI> to which all men agree;
+and being so constituted, are truly interpreted and
+executed; not wrested, depraved, obscured, or
+violently broken: this is <HI>veritas justitiae &amp; decisionis:
+the truth in judicature,</HI> Zach. 8. 16. <HI>Execute the
+judgement of Truth and Peace in your gates.</HI></P>
+<P>By the third, <HI>our soules health and happinesse</HI>
+are maintained; while we see, know, beleeve, and
+rest upon those excellent and <HI>saving truths,</HI> which
+God hath in his word revealed to us, in the plaine∣nesse
+and simplicity of the sense, not denying or
+doubting any thing, but humbly and willingly
+embracing every <HI>truth</HI> revealed, as it agrees to the
+generall <HI>rule</HI> and <HI>Analogy of Faith,</HI> contained in
+the <HI>holy Scriptures,</HI> this is <HI>Veritas fidei &amp; reli∣gionis.</HI></P>
+<P><PB N="10" REF="9"/>
+The first <HI>truth</HI> wee gaine by <HI>senses</HI> and <HI>dis∣course.</HI>
+The second by common <HI>notions,</HI> or in∣bred
+<HI>principles of reason.</HI> The third by <HI>divine reve∣lation;</HI>
+depending upon the veracitie, infa<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>libility
+and authority of God.</P>
+<P>No truth is to be neglected, because it is a
+<HI>beame or lineament of God;</HI> but those are most
+to bee loved and esteemed, which discover God
+most cleerly to us; bring us nearest, and make us
+likest to him! This, as the most excellent and
+usefull <HI>truth,</HI> I chiefly here understand; which
+exceeds all others, as much as the soule doth the
+body; or eternity a moment. And in this, mens
+hearts are most prone to be negligent, and coldly
+affected.</P>
+</DIV2>
+<DIV2 N="2" TYPE="section">
+<HEAD>2. Peace.</HEAD>
+<P><HI>Peace</HI> in any kinde, and under any notion is
+<HI>sweet</HI> and <HI>lovely.</HI> <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>
+<HI>Naz.</HI> We can better tell what it is by the fruition,
+than description of it: what <HI>health</HI> is to the body,
+and <HI>calmnesse</HI> to the sea, and <HI>serenity</HI> to the day,
+such is <HI>peace:</HI> which ariseth from the fit, orderly,
+and proportionable disposing of things. It is a
+kinde of sweet, divine, and heavenly <HI>concent, har∣mony</HI>
+or <HI>beauty</HI> of things, subordinate one to ano∣ther.</P>
+<P>Such it is: <HI>first, peace in nature,</HI> and the grea∣ter
+World, from the wise and apt <HI>combination</HI> of
+creatures; by symbolicall qualities so contem∣pered,
+that all agree to make up one intire body,
+the World.</P>
+<P><PB N="11" REF="9"/>
+2. In the <HI>lesser worlds</HI> of mixt bodies, <HI>Peace</HI>
+is that <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> or <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> due <HI>temper</HI> and <HI>moderation</HI> of humours and parts, which keep their true place
+and proportion; <HI>Quá quodlibet corpus non minus
+appetit unitatem suam quam entitatem.</HI></P>
+<P>3. In the <HI>rationall World; Peace is that compo∣sednesse,</HI>
+and tranquillity of the soule, whereby
+all the inferiour faculties, and the populacy of
+affections or passions are regular, and subject to
+the rule, and soveraignty of <HI>reason.</HI></P>
+<P>4. In the spirituall world, the regenerate soule;
+<HI>Peace</HI> is the humble and willing <HI>subjection,</HI> and
+sutablenesse of the conscience in all things to the
+Will and Spirit of God.</P>
+<P>5. In the <HI>Politicall</HI> or <HI>civill world,</HI> the State,
+or Church; <HI>Peace</HI> is the <HI>setling</HI> and due orde∣ring
+of things by just <HI>Lawes</HI> of government; and
+by true grounds or rules of Piety and Religion;
+whereto all submit. It consists, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>,
+in the right <HI>skill</HI> of governing; and
+<HI>will</HI> to be governed. When all agree in one thing,
+all think, speak, and do by the same thing, all con∣spire
+in one maine end, the <HI>glory of God,</HI> and the
+<HI>publick good,</HI> which is the supreame Law: when
+all are setled on one <HI>ground,</HI> move by one <HI>rule,</HI> and
+tend to one <HI>end. Truth, Order,</HI> and <HI>Iustice,</HI> are
+the only foundation and pillars of <HI>Peace,</HI> in both
+Church, and Common-wealth.</P>
+<P>2. The second consideration is <HI>the union of the
+two, Truth</HI> and <HI>Peace;</HI> In <HI>God</HI> they are united: and so
+in every <HI>good soule,</HI> &amp; well ordered <HI>Church</HI> or <HI>State,</HI>
+<PB N="12" REF="10"/>
+they may, and doe best agree together: no <HI>firme,</HI>
+or durable <HI>peace,</HI> which is not fastned and cemen∣ted
+with <HI>truth:</HI> so false and pernicious a <HI>princi∣ple</HI>
+is that of some; that the lesse men know of
+<HI>truth,</HI> the more easily they will bee kept in <HI>Peace;</HI>
+that the way to subdue men to an <HI>asinine pati∣ence,</HI>
+is to cast them into an <HI>asinine ignorance.</HI>
+Whereas on the contrary, no men or minds are
+more obedientially disposed to an <HI>heroick pati∣ence,</HI>
+as to the burthens, pressures, and exactions
+upon their states and liberties, &amp;c. than they,
+who are best informed, how little all these world∣ly
+things are to be valued, having hopes of farre
+better. And no men are more stubbornely contu∣macious,
+refractory and prone to flame, to <HI>rebelli∣on</HI>
+and <HI>munity,</HI> than they, who know, and expect
+no better, or higher good than those of sense and
+present life, who think you robbe them of their
+heaven, God, and all happinesse, if you injure them
+in their <HI>estates, honours,</HI> or <HI>liberties.</HI></P>
+<P>Those <HI>subjects</HI> are most shie, and prone to
+start from obedience, and fall from <HI>peace,</HI> who
+live by <HI>Moone-light</HI> of humane reason, and senses
+onely, which amazeth their minds with the <HI>sha∣dowes
+of good</HI> in riches, pleasures, honours, and
+liberties temporall, and walke not by the <HI>Sunne∣shine</HI>
+of <HI>divine truth,</HI> which discovers the onely
+necessary, excellent, and satisfactory objects, wor∣thy
+of the soules love and acceptance; for <HI>no∣thing
+is truly lovely, which is not spirituall and eter∣nall.</HI></P>
+<P><PB N="13" REF="10"/>
+No such <HI>bonds of peace and unity,</HI> then, as the
+<HI>spirit</HI> of <HI>truth,</HI> which ties the conscience to obe∣dience
+and patience; <HI>The wisdome from above is
+first pure, then peaceable,</HI> James 3. 17.</P>
+<P>So that they best may march together; but first
+<HI>truth,</HI> then <HI>peace. Truth</HI> must have the prece∣dence:
+rather <HI>truth,</HI> than <HI>peace. Truth</HI> wee owe to
+God, and our soules immediately; <HI>peace</HI> onely to
+our bodies and states, &amp;c. If one must be despen∣sed
+withall, it is <HI>peace,</HI> not <HI>truth:</HI> better <HI>truth</HI>
+without publique <HI>peace,</HI> than <HI>peace</HI> without sa∣ving
+<HI>truth. Truth</HI> alone will bring us peace, the
+best peace, Christs peace, which the world can nei∣ther
+give nor take away. <HI>Pax est omni bello tristior,
+quae veritatis &amp; justitiae ruinâ constat.</HI> That <HI>peace</HI> is
+farre to deare, which costs us the losse of <HI>truth,</HI> I
+meane <HI>great, saving, necessary,</HI> and <HI>fundamentall</HI>
+truth.</P>
+<P>2 Where these <HI>truths</HI> are asserted, study to adde
+<HI>peace</HI> to them; that <HI>truth</HI> may root, spread, fa∣sten,
+and fructifie the more. Nor is the publique
+<HI>peace</HI> to bee violated for every <HI>truth,</HI> such as nei∣ther
+tends to <HI>faith,</HI><NOTE PLACE="marg">Acontius. straing. Sat.</NOTE> nor much to <HI>good manners.
+Dissidiis magnis, &amp; controversis non sunt redimendae
+minores istae veritates.</HI></P>
+<P>Wee must not by contention of tongues, or
+pens, or hands, so farre vindicate <HI>truths of lesser
+size,</HI> and consequence, as to break the <HI>peace</HI> of
+our affections, words and conversations.</P>
+<P>Let <HI>truth</HI> and <HI>peace</HI> then goe together, in our
+<HI>loves</HI> and <HI>lives. Truth</HI> as the root, <HI>peace</HI> as the
+fruit: <HI>Truth</HI> as the light, <HI>Peace</HI> as heat: <HI>truth</HI>
+<PB N="14" REF="11"/>
+as the foundation, <HI>peace</HI> as the structure.</P>
+<P>And certainely in the <HI>Church,</HI> those <HI>tenets</HI> and
+propositions are likeliest to be true, which tend to
+the <HI>peace</HI> of the <HI>Church,</HI><NOTE PLACE="marg"><GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ing. 3. 25.</NOTE> as it was the <HI>true</HI> mo∣ther,
+which pleaded against the dividing of the
+child. And that <HI>peace</HI> in the <HI>civill state</HI> is like∣liest
+to be lasting and sound, which is built on the
+<HI>Truth</HI> of <HI>Reason</HI> and <HI>Religion</HI> both, and not upon
+the fancies, opinions, dictates, traditions, exam∣ples,
+and tyranny of custome and men.</P>
+<P>Neither <HI>peace</HI> of <HI>Church</HI> nor <HI>State</HI> is to be pur∣chased
+with the sale of <HI>Truth,</HI> saving and necessary:
+nor yet are all <HI>truths</HI> to be prosecuted with such
+<HI>vehemencie,</HI> heate, and contention, as to make
+<HI>Shipwrack</HI> of eithers <HI>peace.</HI> The <HI>windowes</HI> and
+<HI>lights</HI> of <HI>truth</HI> must not bee so enlarged as to wea∣ken
+the firmenesse, solidity, and entirenesse of the
+building: Nor may the <HI>Walls</HI> be so thick, close
+and compacted, as to exclude or obscure the
+light: which the Turks doe, who so farre <HI>secure</HI>
+their peace, as they forbid the <HI>searching</HI> of Truth:
+neither <HI>darknesse</HI> may make the house of God
+uselesse; nor <HI>breaches,</HI> under pretence of letting
+in more light, may bee made so wide, as to render
+the edifice unsafe and tottering.</P>
+<P>As <HI>divine Truth</HI> of <HI>Religion,</HI> so <HI>civill truth</HI> of
+Judicature and Peace must kisse each other. Here
+the <HI>veracity</HI> and conscience of <HI>Iudges,</HI> and Magi∣strates
+is chiefely required; that they bee <HI>Men of
+truth, Exod.</HI> 18. 21. For, <HI>false, corrupt,</HI> and <HI>un∣just
+Iudges,</HI> like <HI>Comets,</HI> portend warres and com∣motions
+<PB N="15" REF="11"/>
+in a state; scattering so malignant an in∣fluence
+into mens minds, that every one had ra∣ther
+adventure the injuries of <HI>warre</HI> than suffer the
+injustice of <HI>peace.</HI></P>
+<P>4 The <HI>Lovelinesse of them,</HI> which will best ap∣peare
+by the <HI>benefits</HI> from them, why <HI>truth</HI> and
+<HI>peace</HI> are to be <HI>loved.</HI></P>
+<P>1 <HI>Civill</HI> or <HI>Politicall truth</HI> is the <HI>mind</HI> of the <HI>Law,</HI>
+the rule of <HI>Iustice,</HI> the right measuring and distribu∣tion
+of things to every one, according as <HI>equity</HI> and
+<HI>reason</HI> require.</P>
+<P>By this <HI>truth</HI> the propriety and enjoyment of
+what is our own are maintained; fraud, injuries,
+and violence, detected, punished, and restrained.
+Innocencie releeved, industry maintained and in∣couraged;
+due rewards to vertue and merit, as well
+as punishments to sinne and vice are dispensed: In
+a word, the <HI>safety</HI> of your persons, wives, children,
+houses, lands, goods, honours, liberties, lives, and
+all that is deare to you in this world, depends up∣on
+this <HI>truth</HI> in <HI>Iudicature,</HI> without which no <HI>So∣ciety</HI>
+of men can subsist, at least not flourish; but
+degenerate to a poore and slavish <HI>vassalage,</HI> and
+such a lazie despondency of minds, which sink
+them next degree to beasts; seeking no more but
+to live, having no thoughts or designes generous,
+noble, or extending beyond the present supply of
+back and belly.</P>
+<P>See then how much <HI>they</HI> deserve <HI>publique ha∣tred,</HI>
+who through feare or flattery, or base and si∣nister
+ends, falsifie the minde of the <HI>Law;</HI> at once
+<PB N="16" REF="12"/>
+<HI>cutting</HI> asunder that great <HI>Cable</HI> which holds the
+state from shipwrack: turning the <HI>sword of justice</HI>
+put into their unworthy hands, to cut the <HI>throat</HI>
+of <HI>lawes</HI> and <HI>liberties.</HI></P>
+<P>2 The <HI>lovelinesse and benefit of Divine truth</HI>
+revealed, whereon our Faith, our Religion, our
+Soules, our Church depends, is so great that no
+time or words serve to let it forth.</P>
+<P>By this light of <HI>sacred truth, we know our selves</HI>
+in our worst, lost, sinfull, and damnable estate,
+wherein else as heathen or beasts we should stupid∣ly
+and miserably die and perish. By this we <HI>know
+God</HI> in his infinite mercies through <HI>Christ, which
+is life eternall,</HI> Ioh. 17.3. By this we discover his
+<HI>grace</HI> and <HI>love</HI> to us: for our free <HI>justification</HI> by
+the righteousnesse of Christ, and sanctificati∣on
+by his Spirit.</P>
+<P>By this <HI>truth</HI> the <HI>burthens</HI> of our sinnes, our
+feares, our miseries, the horrour of death, hell, and
+eternity, are disarmed and releeved: by this bles∣sed
+<HI>light</HI> of <HI>truth,</HI> wee have many sweet and pre∣cious
+<HI>promises</HI> to support us in all states, and all
+tryals and temptions. But this as <HI>Moses</HI> from
+Mount <HI>Nebo,</HI> we discover the pleasant and happy
+<HI>prospect</HI> of heaven and eternity: the joyes, peace,
+pleasure, happinesse, and security of that after-state
+wee expect in the other world: we see a full,
+though future, <HI>victory</HI> over sinne, fatan, flesh,
+world, men, death, hell, and all; a full <HI>tryumph</HI>
+and <HI>crowning</HI> of the soule and body in <HI>eternall
+glory.</HI> You may see then how little experience or
+<PB N="17" REF="12"/>
+knowledge they have of this <HI>truth,</HI> and the com∣forts
+by it, who are weary of it, enemies, or indif∣ferent
+to it: <HI>Better not have the truth, than having it
+to want the love of it.</HI></P>
+<P>3 The <HI>amiablenesse of peace,</HI> publick and Na∣tionall
+in Church or State; it is like the <HI>smiling
+of a beautifull face,</HI> when <HI>peace</HI> flourisheth with
+<HI>truth:</HI> O how <HI>lovely</HI> is it, at once to serve God
+with purity and safety; with sincerity and secu∣rity;
+to enjoy the blessings of Gods right and left
+hand together!</P>
+<P><HI>To eat every man with joy and cheerfulness of heart
+the fruit of his owne vine and plantings▪</HI><NOTE PLACE="marg">Mich. 4. 4.</NOTE> to reape the
+harvest hee hath sowed: to dwell in the house hee
+hath builded: to enjoy the wife he hath espoused,
+and the children he hath begotten.</P>
+<P>Your owne long and happy <HI>experience</HI> may
+best teach you, what is the beauty and sweetnesse
+of the breasts of <HI>peace:</HI> whence <HI>plenty</HI> flowes;
+<HI>Learning,</HI> Arts, industry, trading, thrive and prosper;
+your private and in them the publike strength,
+honour, and treasure increaseth.</P>
+<P>God grant you be not taught to <HI>prize</HI> and be
+thankfull for it, by the want of it your selves: look
+over Sea on the sad and black Characters, which
+<HI>fire, famine,</HI> and <HI>sword,</HI> have wrot, nay ingraven,
+and ploughed upon the faces of men, women, and
+children; on their houses, fields, vineyards, Ci∣ties,
+Churches, &amp;c. and you may with weeping
+and amazed eyes reade this lesson; <HI>O the sweet
+and lovely blessings of Truth and Peace! O the
+<PB N="18" REF="13"/>
+horrid, hideous deformity of errours and warres!</HI></P>
+<Q><L>—En quo discordia gentes</L>
+<L>Perduxit miseras.</L></Q>
+<P>3 Wee come now to the <HI>third generall head:</HI>
+having seene what <HI>truth</HI> and <HI>peace</HI> are; how well
+they <HI>agree,</HI> how much <HI>they merit our love;</HI> now
+we goe on to the <HI>last part,</HI> which is <HI>our duty. There∣fore
+love them.</HI> Here wee will inquire two <HI>parti∣culars.</HI>
+1. <HI>What need</HI> there is that men should
+bee thus exhorted to <HI>love</HI> these, which have so
+attractive a lovelinesse in them. 2. <HI>Wherein</HI>
+most effectually wee must expresse our <HI>love</HI> to
+them.</P>
+<P>I Although nothing more deserve <HI>our love:</HI>
+yet such is the ignorance, dulnesse, or depravednesse
+of mens mindes, affections, and manners, that
+few there are, which truely <HI>love</HI> them. First, some
+<HI>love neither Truth nor Peace;</HI> of which temper
+the <HI>Iesuitick spirit</HI> seemes to be, which <HI>deceives</HI>
+the Nations with the <HI>Cup of errour,</HI> and <HI>scatters
+coales of fire</HI> and dissention among men. Secondly,
+some <HI>love truth, but not peace:</HI> zealously affected
+to <HI>truth,</HI> but for want of sound and steddy know∣ledge,
+or meeke and humble hearts, they are full
+of violence and bitternesse; so prone to strife and
+contention, that from words and disputes they
+easily kindle to blowes: <HI>Some, when you speak to
+them of peace, prepare for war, Quia multis utile bellum;</HI>
+their best fishing being in troubled waters. Third∣ly,
+some <HI>love peace</HI> but <HI>not truth;</HI> as <HI>Ishachar,</HI> slug∣gishly
+<HI>couching between the burthens of Superstition
+<PB N="19" REF="13"/>
+and Oppression,</HI> rather than trouble their <HI>Peace,</HI> in a
+land of <HI>plenty.</HI> Out of a lazie, grosse, and sensuall
+humour, so addicted to the <HI>enjoyments of peace,</HI> that
+they care not what <HI>encroachments</HI> are made on
+<HI>Truth.</HI> Fourthly, many <HI>seeme to love them,</HI> but not
+<HI>simply, per se</HI> and <HI>propter se;</HI> but corruptly and parti∣ally,
+for by-ends and advantages to bee had by
+them, of profit, preferment, applause, and the
+like; as <HI>Demas</HI> did 2 <HI>Tim.</HI> 4. 10. <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.
+It is <HI>neither truth nor peace</HI> so
+much they love (though they stickle for both)
+but their <HI>bellies,</HI> pleasures, plenty, and selves, which
+they enjoy under the <HI>wings of truth and peace.</HI></P>
+<P>5. Many <HI>love what they think truth</HI> (and happi∣ly
+is so) yet not because it is so, but because they
+think so; extreamely <HI>biased</HI> with selfe love and
+pride; that they pertinaciously retaine, what ever
+opinion they have once undertaken, though they
+cannot maintaine it; only on this ground, <HI>Ne
+videantur errâsse;</HI> so hardly drawne by overcom∣ming
+themselves to <HI>triumph</HI> over their <HI>errours. Ita
+perit judicium, ubi res transit in affectum, &amp; nostram
+qualemcunque praevalere volumus sententiam, quia no∣stra
+est:</HI> so much doe our affections blinde, bri<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>,
+corrupt, and warpe our <HI>judgements.</HI></P>
+<P>6. Many say they love truth; but not <HI>univer∣sally;</HI>
+not such truthes as crosse their credits, opini∣ons,
+ends, pleasures, sinnes and lusts; <HI>Nolunt id ve∣rum
+videri, quod affectibus suis adversatur. He loves
+not any Truth, that loves not all;</HI> as he likes not the
+light or Sun, who is offended with any beame of
+it.</P>
+<P><PB N="20" REF="14"/>
+7. <HI>Veritas animae sponsa; Truth is a pure Virgin,</HI>
+which every soule should wooe and seeke to <HI>wed</HI>
+to it selfe; Many <HI>pretend to love it,</HI> but not <HI>casto &amp;
+honesto amore sed meretricio &amp; prudendo. Lascivientia
+ingenia,</HI> such as fondly and <HI>wantonly</HI> out of a vanity
+and curiosity only <HI>court</HI> that <HI>Truth,</HI> which they
+see is countenanced and shined upon by publick
+favour and authority; ready enough to discounte∣nance
+and forsake it, if the streame of things
+should change: <HI>Venales animae,</HI> vile and mercena∣ry
+soules, that <HI>buy and sell the truth, prostituting</HI> it,
+<HI>not</HI> intirely loving and <HI>wedding</HI> themselves to it.</P>
+<P>8. Some to <HI>purchase their peace,</HI> are ready to sell
+the Truth, by flattering, complying and mancipa∣ting
+their judgements to other mens opinions and
+errours, either discovered, which is very wicked, or
+unsearched, which is very weak, <HI>Degenerate mindes</HI>
+which so easily <HI>enslave</HI> that <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, the noblest
+and soveraigne faculty of the soule, which is the
+<HI>understanding,</HI> to other mens errours never so great,
+if their power be so too.</P>
+<P>9. <HI>Veritas animae pabulum,</HI> there is as great an
+aptitude and proportion betweene the <HI>minde</HI> of
+man, and <HI>truth,</HI> as is betweene the <HI>eye</HI> and the <HI>object,
+meat</HI> and the <HI>stomack:</HI> now we know, it must be
+a pure and unblemished <HI>eye,</HI> that sees with certain∣ty
+and constancie; a cleare, sound, and undiseased
+<HI>stomack,</HI> that desires, likes, and digests wholesome
+meats. Such must that minde bee which loves.
+<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.<NOTE PLACE="marg">1 Tim. 4 3.</NOTE> <HI>Wholesome Truths, sound Do∣ctrines.</HI></P>
+<P><PB N="21" REF="14"/>
+1. Many are so <HI>vitiated</HI> and distempered by sin,
+the World, their Lusts and Vanities, that they
+wholely refuse to take downe any <HI>truth;</HI> what the
+eare may receive sometime, their heart <HI>casts</HI> up a∣gaine
+profanely and reproachfully, by their words
+and actions. <HI>Ita veritas odium &amp; nauseam parit.</HI>
+The speediest way to <HI>lose</HI> the <HI>love</HI> of many is, free∣ly
+to tell them that <HI>truth,</HI> which might doe them
+most good,<NOTE PLACE="marg">1 Kings 22.</NOTE> for it seemes to them as <HI>Michaiahs</HI>
+words to <HI>Ahab, odious</HI> and offensive, although it
+gave him warning of his danger, and shewed him
+the only way for his safety.</P>
+<P>2. Many like choyse and <HI>wanton stomacks,</HI> re∣ceive
+and digest indeed, some <HI>truths</HI> in their minds
+and memories; but it is <HI>morbum alere non hominem;</HI>
+only thereby the better to nourish and strengthen
+their erroneous <HI>humours</HI> and <HI>conceits;</HI> and what ever
+<HI>truth</HI> they meet with, is presently <HI>swallowed without
+chewing</HI> by some <HI>monster of opinion,</HI> which they
+maintaine. For <HI>errour</HI> is so <HI>feeble</HI> and unbottomed,
+that it must have some buttresses and seeming <HI>ba∣sis</HI>
+of <HI>truth</HI> to support it. By this meanes <HI>detayning
+the truth of God in unrighteousnesse, Rom.</HI> 1. 18.</P>
+<P>3. Many are of so <HI>hot,</HI> unquiet and <HI>cholerick sto∣macks,</HI>
+that they love not <HI>truth sweetned with peace;</HI>
+not calme and sober truths. Afraid to be thought
+<HI>coldly,</HI> if <HI>peaceably</HI> religious, even in matters of lesser
+moment. Interpreting that <HI>zeale,</HI> which is but na∣turall
+<HI>passion</HI> and <HI>choler,</HI> an humane feaverish and
+praedatorious, not that holy, gentle, and propiti∣ous
+<HI>heate of love,</HI> which only well <HI>digesteth</HI> sacred
+<HI>truths.</HI></P>
+<P><PB N="22" REF="15"/>
+So that most men we see had neede to be called
+upon to <HI>love truth and peace.</HI> In some, <HI>hopes</HI> of pre∣ferment
+will doe much to pervert, leaven, and sup∣presse
+<HI>truth,</HI> warping which way the Sunne of fa∣vour
+shines warmest. In others, <HI>despaire</HI> of prefer∣ment,
+and <HI>popular</HI> inclinations may doe as much
+to disturbe <HI>peace,</HI> and <HI>established truth:</HI> Every way
+<HI>Pronus lapsus, major sit cautela. Few are</HI> true, sincere,
+and hearty <HI>lovers</HI> of them; by the <HI>Antiperistasis</HI> of
+others coldnesse, let the heat of your <HI>love</HI> grow
+more intensive.</P>
+<P>2 Which is the last particular: <HI>The way most effe∣ctually
+to expresse the love we owe to truth and peace:</HI>
+first to <HI>truth,</HI> then to <HI>peace,</HI> to <HI>both</HI> if possible. <HI>Amor
+est pondus animae: Love</HI> is the <HI>weight</HI> and motor of
+the soule, the <HI>Spring</HI> that sets all the wheeles on
+worke. It is a vehement, active, industrious, un∣wearied,
+invincible affection; if rightly placed on
+worthy objects, it workes wonders. <HI>Amor non po∣test
+abscondi,</HI> the fire <HI>of love</HI> is impatient to be hid or
+smothered: <HI>Nescit nimium,</HI> never thinks it hath
+done enough: <HI>Est extaticus, nec sinit amantem esse
+sui juris:</HI> it hath a kinde of <HI>rapture</HI> and extatick
+power, which <HI>transports</HI> the minde beyond it selfe,
+and <HI>dispossesseth</HI> it of it selfe, to bestow it selfe on
+that it loves. <HI>Delicata res est amor;</HI> It is a <HI>tender</HI> af∣fection,
+impatient of any injury or dishonour cast
+on what we love. <HI>Et sibi lex est severissima: Love</HI>
+needs no <HI>motive</HI> but it selfe to carry it to the ex∣tremity
+of its power.</P>
+<P>If our <HI>love</HI> then to <HI>truth</HI> be reall, it will shew it
+selfe.</P>
+<P><PB N="23" REF="15"/>
+1 In the serious and earnest <HI>searching</HI> for, <HI>find∣ing
+out,</HI> and <HI>discovering</HI> of <HI>truth:</HI> for, <HI>Veritas in
+profundo: Truth is not obvious in the surface of things,
+but hath a depth,</HI> being sunk and retired from us,
+as now we are. There is a great deale of <HI>false and
+loose earth, rubbish of Opinions,</HI> probabilities, and
+falsities to be cast away, before wee come to the
+cleare <HI>streame</HI> of <HI>truth,</HI> which by secret <HI>derivations</HI>
+flowes from the eternall <HI>Fountaine, God.</HI> There are
+not only grosser <HI>clouds of errours</HI> and falsities, which
+darken <HI>truth;</HI> but <HI>parelii</HI> too, <HI>verisimilia, seeming
+sunnes of truth,</HI> which are but apparences and pro∣babilities,
+of no long continuance. He then that
+will <HI>seeke and finde</HI> certaine, and saving <HI>truth,</HI> must
+apply himselfe to <HI>God,</HI> his <HI>Word,</HI> and <HI>Spirit,</HI> not
+take it upon <HI>trust</HI> and <HI>credit</HI> of humane <HI>fancie,</HI> or
+<HI>reason: Multi taedio investigandae veritatis ad proxi∣mos
+divertunt errores:</HI> Many out of an easinesse,
+lazinesse, or presumption, take up <HI>truths</HI> from cu∣stome,
+education, prepossessed conceits, shew of
+Antiquity, excellency of mens parts, &amp;c. prone to
+count that <HI>truth,</HI> which themselves or others have
+a long time beleeved to be such. <HI>Sed oculos à rebus
+omnibus abducas, quae Deus non sunt si veritatem quae∣ras,</HI>
+Esay 8. 20. <HI>To the Law and to the Testimony,</HI>
+Joh. 5.29. <HI>Search the Scriptures;</HI> from these <HI>wells</HI>
+must we draw the <HI>waters of life,</HI> purifying, refresh∣ing,
+and saving <HI>truths;</HI> <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.
+The <HI>Veyn</HI> and <HI>Mine of truth,</HI> hath many
+windings, and intricate turnings, requiring a saga∣cious
+and industrious minde to follow it.</P>
+<P><PB N="24" REF="16"/>
+2 Shew your <HI>love to truth,</HI> by <HI>propagating,</HI> and
+<HI>imparting</HI> it to others, when your selves have dis∣covered
+it. <HI>Veritas nihil erubescit, praeterquam ab∣scondi;</HI><NOTE PLACE="marg">T<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>rtul.</NOTE>
+<HI>Truth is onely ashamed to bee hidden;</HI> as the
+Sunne to be clouded, or eclipsed. <HI>Truth,</HI> as light,
+<HI>wasts</HI> not by communicating it selfe to others.
+<HI>Quò communius bonum eò divinitus.</HI> Shew your <HI>love</HI>
+to it and to men, by <HI>teaching</HI> it to others, but in a
+<HI>calme</HI> and unpassionate way; <HI>truth is best seene in
+cleare and untroubled waters,</HI> <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Ephes.</HI>
+4. 15. <HI>Speaking the truth in love.</HI> Pittying not tri∣umphing
+in others ignorance, or reproaching their
+errors and weaknesse of judgement. Farther, shew
+your <HI>love,</HI> by using all meanes to <HI>plant</HI> and <HI>nourish
+truth,</HI> by setting up the lights of good and paine∣full
+Preachers, in the dark, and obscure corners of
+our Land, where, God knowes, many poore <HI>soules
+perish for want of knowledge</HI> (such I meane) as <HI>can
+and will rightly divide the Word of truth, 1 Tim. 2. 15.</HI>
+There is <HI>no engine</HI> you can invent so effectuall, to
+batter down and demollish the adverse party, or
+to <HI>secure</HI> the prosperitie of our Church and State.
+But this will hardly be done, without encouraging
+men to the study and preaching of <HI>truth</HI> in the way
+of necessary, competent, and liberall maintenance;
+for it is most certaine, as Bishop <HI>lewell</HI> sometime
+told <HI>Queen Elizabeth,</HI> in a Sermon, <HI>Tenuitatem be∣neficiorum
+necessario sequitur ignorantia sacerdotum.</HI>
+Never flatter your selves, that the <HI>Lampes of the
+Temple</HI> will burne at all, or but very dimly, and
+poorely, if you supply them not with <HI>Oyle</HI> suffici∣ent
+<PB N="25" REF="16"/>
+to enliven themselves and enlighten others.</P>
+<P>3. Shew your <HI>love of truth,</HI> by a zealous, active,
+and constant <HI>maintaining</HI> of it: <HI>Zeale,</HI> is <HI>flamma a∣moris:
+Love raised to a flame:</HI> by all justifiable wayes
+asserting the honour of it, and the professors of it,
+against the profanenesse, idlenesse, envy, calumnies,
+and oppositions of the enemies thereof, either A∣theists,
+sensuall, ignorant, or superstitious, 2 <HI>Cor.</HI>
+13. 8. <HI>We can doe nothing against the truth, but for the
+truth,</HI> doe all you lawfully may: by severe, and
+wholesome <HI>Edicts, fencing in, and fortifying truth</HI>
+against the Seminary incursions of those, that
+seeke to encroach upon its ancient bounds: also
+against the bold, and impudent Preaching, Prin∣ting,
+and Disputing for the contrary errors, which
+have beene long agoe exploded and confuted;
+which by misused power, or tacit connivence,
+seeke to creepe in, and undermine our <HI>truth. Leakes
+may sinke us, as well as rockes split us.</HI> Jude 3. <HI>Con∣tend
+then earnestly for the truth;</HI> but with the <HI>power of
+Gods,</HI> not mans arme of flesh; with a <HI>contention of
+love, not of force;</HI> such as may not destroy men, but
+their errors, which otherwise will destroy them.
+<HI>Truth</HI> is so sufficiently <HI>armed</HI> with its owne <HI>power,</HI>
+that it needes not the assistance of the <HI>Sword</HI> or
+<HI>Canon,</HI> which reach not the minds of men; nor can
+divide them from their errors, nor batter downe
+the <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, strong holds of prepossessed false
+opinions; That <HI>excellency if power which is in the
+Word of God</HI> and his <HI>Spirit,</HI> is onely able to subdue
+the understanding? Yet must not the <HI>Magistrate▪</HI>
+<PB N="26" REF="17"/>
+so farre be wanting to Gods glory, and the Chur∣ches
+good, as to faile to <HI>defend truth</HI> against those
+that by cunning or force seeke to subvert it, setting
+up the just <HI>t<GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/>or of</HI> those <HI>Lawes,</HI> which may chase
+away those <HI>Owles, and Bats, and ferall Birds,</HI> that
+<HI>love</HI> darkenesse, and portend a night, where ever
+they appeare; <HI>that cannot endure the light, because
+their workes are evill,</HI> as well as their doctrines
+false.</P>
+<P>4. Shew your <HI>love to the Truth,</HI> as by <HI>doing for it</HI>
+all you can; so by <HI>obeying the truth from the heart,</HI>
+1 Pet. 1. 22. by <HI>living conformably to it:</HI> that there
+be no <HI>solaecisme</HI> in your lives, that the <HI>truth</HI> of your
+doctrine be not <HI>confuted,</HI> by the corruptnesse of
+your manners: not onely <HI>seeking</HI> the truth, and
+<HI>speaking</HI> the truth, and <HI>defending</HI> the truth; but far∣ther,
+<HI>doing the Truth, 1 John. 1. 6.</HI> which is the
+strongest vindication of its honour, and your be∣leefe
+of it. There is a <HI>labour</HI> of <HI>love, which loves its
+labour;</HI> ready <HI>to deny our selves,</HI> in any thing neere
+or deare to us, <HI>rather than deny</HI> any saving <HI>truth:</HI>
+chearefully <HI>suffering for it,</HI> rather than it should
+<HI>suffer;</HI> a good minde, that <HI>loves the truth,</HI> suffers
+more in <HI>truthes</HI> suppression, than its owne; yea, by
+<HI>dying for it,</HI> if need be; and God choose us out for
+his champions to <HI>crowne and improve the necessity of
+death,</HI> with <HI>the glory of martyrdome,</HI> which is the
+highest <HI>witnessing of our love to God and his Truth.
+Difficulties</HI> rather <HI>wh<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/></HI> and twist to a firmer <HI>resolu∣tion,</HI>
+than any way bl<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>t or discourage a well pla∣ced
+affection. The Heathen man set such a <HI>price
+<PB N="27" REF="17"/>
+on truth,</HI> that he thought it worth our life;
+<Q><L>—Vitamque impendere vero,</L>
+<L>Nec propter vitam vivendi perdere causam.</L></Q>
+It is a <HI>blind</HI> &amp; preposterous <HI>love,</HI> that loves life bet∣ter
+then that, for which onely life is worth the ha∣ving;
+better we <HI>dye,</HI> than <HI>truth decay,</HI> which as a Phoe
+nix is wont to renew its life out of martyrs ashes.</P>
+<P>5, Lastly, what we come short in doing or suf∣fering
+for the <HI>love of truth,</HI> at least, seeke to <HI>supply</HI> by
+our frequent and fervent <HI>prayers</HI> to God, that hee
+would so make the way, and carry on his <HI>truth</HI>
+that it may <HI>prevalile</HI> upon the hearts of men <HI>to a
+love of it.</HI></P>
+<P>But in this variety of Opinions, and Distra∣ction
+of sides, <HI>every one challenging truth</HI> to be on
+their party, How shall we know, <HI>what is that Truth,</HI>
+which we ought to <HI>love</HI> and adhere unto?</P>
+<P>I Answer, the <HI>Truth</HI> of God, like the light of the
+Sunne, is best knowne and distinguished from all
+other, by the beauty and excellency of its <HI>effects,</HI>
+of life, heate, and fertillity; that is infallibly the
+<HI>saving and necessary truth of God,</HI> most deserving our
+love and study, which hath, and alwayes had the
+greatest and best <HI>influence</HI> on mens hearts and lives:
+that is, <HI>Gods truth</HI> which makes men more <HI>godly,</HI>
+more holy, pure, just, good, humble, peaceable,
+charitable, selfe-denying, and consciencious in all
+their wayes: What brings us nearest, and makes
+us <HI>likest to God,</HI> which conformes us most to that
+highest and divinest patterne of <HI>Christs minde</HI> and
+conversation.</P>
+<P><PB N="28" REF="18"/>
+It hath beene alwayes the <HI>Seale of honour</HI> set upon
+Christian Religion: and that <HI>truth,</HI> whereon it is
+founded, that it <HI>most magnifies God and goodnesse.</HI>
+Those truths which have the greatest operation
+on mens mindes, consciences, and lives, so as to a∣mend
+them, are set beyond all question and
+disputes: These let us chiefely study, love, and
+live by.</P>
+<P>2. If our <HI>love</HI> be thus rightly set to <HI>Gods truth,</HI>
+he will take care to <HI>settle our peace:</HI> to which we
+<HI>owe a love too,</HI> and must shew it in the second place.
+First, by <HI>praying heartily and constantly for it, Psal.
+122. 6.</HI> Every one should thinke himselfe called
+upon in those words. <HI>O pray for the peace of Ierusa∣lem.
+Prayer engages God on our side,</HI> and calls in
+an omnipotent arme to settle, strengthen, and se∣cure
+our <HI>peace.</HI> Secondly, by <HI>assisting really,</HI> to the
+support and maintaining of it, against the pertur∣bers
+of it. 1. By seasonable <HI>counsells,</HI> and faithfull
+advise grounded on <HI>Truth and Iustice.</HI> 2. By <HI>ar∣ming
+counsells with power</HI> and Subsidyes of purses
+and persons; to suppresse all unjust and rebellious
+practises, which seeke to violate our <HI>peace. Peace
+is not safe, except there be power for warre;</HI> which is
+<HI>the guard of peace;</HI> as <HI>power</HI> without counsell is bru∣tish,
+and selfe confounding; so <HI>counsell</HI> without
+power is feeble, and subject to be despised. 3. By
+<HI>living orderly</HI> in a way of meekenesse, humility,
+and subjection in the feare of God, and obedience
+to the wholesome Lawes established; which is
+that we are taught by the truth of God, <HI>Rom. 13. <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>.
+<PB N="29" REF="18"/>
+Let every soule be subject, &amp;c.</HI> This I am sure will
+bring a man peace at the last. If not externall, yet
+internall, which will be eternall. 4. By <HI>searching
+out,</HI> and exemplary <HI>punishing</HI> those that are the
+<HI>perturbers of</HI> our <HI>peace; justly troubling</HI> those <HI>that
+have troubled Israel,</HI> as <HI>Ioshua</HI> to <HI>Achan. Psal. 34. 14,
+Thus seeke peace and pursue it;</HI> by pursuing those that
+would rob us of it. And certainely you will finde,
+<HI>none are</HI> more enemies to, and perturbers of our
+<HI>peace,</HI> then those that are the perverters and oppo∣sers
+of our <HI>Truth:</HI> either in judicature, or Religion,
+for these scatter and blow the <HI>coales</HI> of <HI>discontent</HI> in
+every corner, that the whose house must needes be
+set on fire, if they be not timely quenched.</P>
+<P>And now give me leave by way of <HI>Conclusion,</HI> a
+little to apply to you and my selfe, the weight and
+force of this Text.</P>
+</DIV2>
+<DIV2 TYPE="conclusion">
+<HEAD>Therefore love the Truth and Peace.</HEAD>
+<P>Had we in this Church and State (Right Ho∣nourable,
+and the rest) beene so happy in the <HI>love
+of truth and peace,</HI> as we have beene in the long glo∣rious
+injoying, and the miraculous preservation of
+them among us, certainely, neither <HI>truth</HI> had this
+day beene so clouded and perplexed, nor our <HI>peace</HI>
+so broken and distracted.</P>
+<P>The <HI>God of truth and peace</HI> declares his displea∣sure,
+and high indignation against us, for the neg∣ligence,
+coldnesse, and ingratitude of many; for
+the profanenesse, Atheisme, and malice of some:
+for the superstition, formality, and backe-sliding
+of others. How many are there, that deny, or de∣spise,
+<PB N="30" REF="19"/>
+spise, or suppresse, or oppose, or contemne, scorne,
+and deride, and corrupt and belye the <HI>Truth?</HI> That
+the Prophets complaint may come neare our
+times, <HI>Esay 59. 15. Truth faileth, and he that depar∣teth
+from iniquiry maketh himselfe a prey:</HI>
+<Q><L>Nos patim<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>r longae pacis mala saevior armis,</L>
+<L>Luxuria incumbit—</L></Q>
+<HI>Long peace,</HI> like faire weather, hath raised up the
+vapours of sinnes to cloud our Sunne, and trouble
+our Heaven withall; which almost of us, from
+highest to the lowest are not guilty of one or more
+of those forenamed degrees of <HI>neglect against truth:</HI>
+which shewes, wee have either no love at all, or a
+small love, a tepid, and <HI>Laodicean love,</HI> a shame∣faced,
+which is a shamefull <HI>love,</HI> or a false and base
+<HI>love</HI> of truth, not for it selfe, but for our selves: as
+our <HI>Diana;</HI> the mystery, by which our gaine or
+greatnesse are sustained. If wee have not <HI>loved truth
+in peace,</HI> were it not just with God to make us
+<HI>want truth in warre?</HI> And <HI>because men received not
+the love of the truth, he should give them over to strong
+delusions, to beleeve a lye, 2 Thes.</HI> 2. 10.</P>
+<P>Certainely God will severely exact of this
+Church and Nation, of Prince and People, of
+Preachers and Hearers, an account for our long en∣joyed
+and undervalued <HI>truth and peace.</HI> Have wee
+so long beene a <HI>Vine</HI> planted, and watered, and
+fenced, both to necessitie, and omament, by an ex∣cessive
+indulgence of God, and doe wee <HI>bring forth
+soure grapes;</HI> that neither <HI>please God, nor profit men?</HI>
+May we not justly feare (what wee have deserved)
+<PB N="31" REF="19"/>
+to be laid wast and desolute, to be made a <HI>hissing
+and astonishment to all Nations▪,</HI> that God should
+remove, or extinguish the glorious Lampe of the
+Gospell, in whose <HI>light</HI> we have <HI>not rejoyced,</HI> because
+we have not <HI>loved</HI> it?</P>
+<P><HI>Love is an affection of union</HI> and fruition. Doe we
+<HI>love the truth</HI> if we are <HI>weary</HI> of it, tediously and pee∣vishly
+affected to it, willing to leave it, and with∣draw
+from it? The <HI>loathing</HI> and nauseating of this
+<HI>Heavenly Manna,</HI> as if we have had so much, that
+it is necessary to recover and quicken mens appe∣tites
+to it, by a more scanty allowance of it, is
+<HI>this to love the truth?</HI> The <HI>tampering</HI> and essayes of
+someto clip, or wash, or new coyne, or allay, and
+abase, with some <HI>Romish mixture,</HI> the gold and pu∣ritie
+of our Doctrine; <HI>is this to loue the truth?</HI> That
+pure and refined <HI>Truth,</HI> which hath passed the
+fiery triall, hath beene baptized in the blood of
+many Martyrs, sowne in a field, made fruitfull with
+their ashes; who <HI>loved not their lives</HI> so much as the
+Truth. To set up <HI>lying vanities,</HI> Pictures, and
+Images, and to cry downe Praying and Preaching,
+whereby those toyles may be usefull and necessary
+to the ignorant (because untaught) people, <HI>Is this to
+love the truth?</HI> To suffer <HI>Idolatry,</HI> or superstitious
+formalities in serving God to get ground upon
+our Opinions and practises. Is <HI>this to love the truth?
+Quae quo nudior, eô venustior;</HI> which <HI>the lesse it hath of
+painting,</HI> the <HI>more it hath of true lovelinesse and native
+beauty.</HI> Are not the lengthen and increase of Ce∣remonious
+<HI>shadowes,</HI> a presage and signe of the
+<PB N="30" REF="20"/>
+shortning of our <HI>Day</HI> and setting of our <HI>Sunne,</HI> or
+diminishing of our <HI>Light.</HI></P>
+<P>To <HI>quarrell</HI> at those <HI>Truths,</HI> which have bin long
+ago determined by the Scripture, in the publique
+confession of our Church, and in the Writings,
+or Preachings of our gravest &amp; learnedst Divines,
+Prelates, and others; as in the points of <HI>Iustification</HI>
+by faith alone; of <HI>Trasubstantiation,</HI> of auricular
+<HI>Confession;</HI> of <HI>prayer for the dead;</HI> of <HI>worshipping be∣fore
+Images;</HI> of fiduciary <HI>assurance,</HI> and the like;
+which some doting and superstitious <HI>Spirits,</HI> dare
+to question, and <HI>retractate; Is this to love the truth?</HI>
+What hath been done by Preaching and Printing,
+by <HI>correcting,</HI> or rather <HI>corrupting</HI> of Bookes
+(where the <HI>correctors</HI> themselves deserve to <HI>be cor∣rected</HI>)
+your piety and wisedome may best finde
+out. Nay, such hath beene the shamelesse impu∣dence
+and effrontery of some ridiculous heads,
+that plaine and honest mindes shall be scorned, de∣rided,
+and in judgling fashion, cheated out of
+<HI>truth,</HI> and the <HI>power of Religion</HI> (which is a holy
+life) if you doe not harden your faces, and con∣firme
+your resolutions against, <HI>supercilious vani∣ty</HI>
+of such men: Whether they have any intent to
+<HI>reedifie Babels ruines</HI> or no, I cannot tell (some
+vehemently suspect it) sure I am, there is
+such a <HI>confussion</HI> and <HI>noveltie</HI> of Language
+affectated by some men of <HI>Altars, Sacrifice,
+Priests, Corporiety</HI> of <HI>presence, pennance; auricular
+Confession. Absolute,</HI> that is, <HI>blinde obedi∣ence;</HI>
+the <HI>holy</HI> of <HI>holys;</HI> and <HI>Adoration,</HI> which
+<PB N="33" REF="20"/>
+must bee salved from a <HI>flat Idolatry,</HI> or at best an
+empty <HI>formality</HI> by some distinction or notion that
+must be ready at hand; that most people know not
+what they meane, what they would have, or what
+they intend to call for next.</P>
+<P>Not that I am ignorant how farre <HI>pious antiquity</HI>
+did use these and such like words <HI>innocently,</HI> with∣out
+ill mind or meaning, and without offence to
+the Church, as then times were: yet let mee tell
+you: 1. Such <HI>swerving</HI> from the <HI>forme of sound
+words</HI> used in the Primitive and purest times, occa∣sioned
+and strengthened after errours. 2. They were
+not then <HI>ingaged</HI> to mainetaine Truth against such
+erroneous and pernicious Doctrines as we now are
+of the <HI>reformed Church:</HI> which Doctrines are now
+eagerly maintained by a proud <HI>faction,</HI> who seeke
+to abuse antiquity, and patronize their owne er∣rours,
+by using those names and words to other
+intents, and things, than ever was dreamed of by
+the Ancient Church. 3. By such <HI>dangerous symbo∣lizing</HI>
+with them in words, and some outward for∣malities,
+we doe but <HI>prepare</HI> our mindes, and swee∣ten
+them with lesse distaste to relish their Do∣ctrines
+and Tenets; and as it were in a civill way
+wee complement our selves out of our Truth; gi∣ving
+the adversaries strong hopes and presumpti∣ons,
+as they have discovered, that wee are inclining
+towards them: To bee <HI>ashamed</HI> of frequent, serious
+and conscientious <HI>preaching,</HI> which was the worke
+of <HI>Christ</HI> and the <HI>holy Apostles;</HI> the honour and
+chiefe imployment of the <HI>Primitive and best</HI> Bi∣shops
+<PB N="34" REF="21"/>
+and Ministers, in all ages, as that deservedly
+famous Bishop <HI>Iewell</HI> in his Apologie prooves
+out of the Fathers sufficiently against the Popes,
+and other idle bellyes; which count preaching as
+a work below their greatnesse, as indeede it is a∣bove
+their goodnesse. Is <HI>this to love the truth?</HI> To
+<HI>preach</HI> ridiculous, impertinent, flattering or cor∣rupt
+matter, which is the <HI>shame</HI> of the <HI>Pulpit</HI> and
+<HI>foolishnesse of preaching,</HI> in good earnest; so as to
+bring an infinite <HI>contempt, odium</HI> and <HI>envie</HI> upon
+the Sacred function of the <HI>Ministry,</HI> that men <HI>ab∣horre</HI>
+the Services of God, and daily <HI>separate</HI> by
+swarmes from our Church; are these the <HI>fruites of
+our love of the Truth?—Pudet haec opprobria nobis,</HI> &amp;c.
+Sure there is <HI>something extreamely amisse</HI> and dis∣pleasing
+to God as well as men, either in our Do∣ctrine,
+or manners, or hearts, or all. Else whence
+should that burthen of <HI>dishonour,</HI> those loades of
+reproaches be cast upon the <HI>Clergy,</HI> which makes
+them drive so heavily: and this even among Chri∣stians,
+and reformed Churches; whereas naturally
+all men, though otherwise barbarous, and insolent,
+yet are prone to pay a speciall reverence and dou∣ble
+honour to their holy men, such as are in a
+more immediate neerenesse and relation to their
+<HI>deitie</HI> or <HI>gods:</HI> Now <HI>truth</HI> carries a <HI>Divine Majesty</HI>
+and lustre with it, casting a glory on every <HI>Moses</HI>
+or <HI>Man</HI> of God, who converseth with it. The
+more <HI>truth</HI> there is in any religion, the more love
+and honour will arise from the professours to the
+Preachers of it; if they seriously <HI>affect</HI> the one,
+<PB N="35" REF="21"/>
+they cannot scornefully <HI>neglect</HI> the other. God
+himselfe hath long agoe taught all men, especially
+<HI>Church-men</HI> in <HI>Elyes</HI> heavy doome, this lesson as
+an <HI>infallible maxime</HI> in point of True honour, 1 <HI>Sam.</HI>
+2. 30. <HI>Those that honour me I will honour, and those
+that despise me shall be lightly regarded.</HI> Saint <HI>Paul</HI>
+gives a charge to <HI>Timothy, 1 Tim.</HI> 4. 12. and to <HI>Titus,
+Tit.</HI> 2. 15. both Bishops, <HI>Let no man despise thee,</HI> &amp;c.
+One would think the Apostle should rather have
+charged the <HI>Ephesians</HI> and <HI>Cretians</HI> not to despise
+them; but the Apostle shewes the true way for Mi∣nisters,
+to be Masters of mens <HI>love</HI> and <HI>affections,</HI> is
+to be a holy <HI>rule</HI> and <HI>example</HI> to mens life and acti∣ons.
+To <HI>Timothy, But be thou an example in word in
+conversation, in love, in spirit, in faith and in pure∣nesse,</HI>
+1 <HI>Tim</HI> 4. 12. To <HI>Titus, Shewing thy selfe a
+patterne, Tit.</HI> 2. 7.</P>
+<P>Certainely had Divines both great and small,
+beene more busied in preaching and practising
+those great weighty and necessary <HI>Truths,</HI> that are
+<HI>able to save their owne and others soules,</HI> they would
+not have had such leisure, to have beene so inven∣tive
+and operative in poore beggerly toyes and
+<HI>trifles,</HI> which neither bring honour nor profit to
+God, themselves or others. <HI>Nothing</HI> (I say) <HI>nothing,</HI>
+will <HI>restore</HI> the Church and <HI>Church-men</HI> to their
+Pristine honour, love and authority in mens hearts
+and minds, but a <HI>serious setting</HI> of themselves to
+the study, preaching and practising of <HI>Truth</HI> and
+<HI>Peace in a holy life.</HI> These, these were the Arts, these
+the <HI>Policies,</HI> these the pious fraudes, and <HI>stratagems</HI>
+<PB N="36" REF="22"/>
+by which anciently they won peoples hearts to
+love God, his truth and of themselves the witnesse
+of it. To such a <HI>height</HI> of honour and <HI>extasie</HI> of
+love, that they received them as <HI>Angels of God,
+Embassadors from Heaven;</HI> counting them deare as
+their right eyes. <HI>Humility,</HI> Piety and industry, layd
+the <HI>foundation</HI> of all those magnificent structures,
+dignities, titles, places, revenues, priviledges wher∣with
+Church-men were anciently indowed: what
+hath or is likely to wast and demolish them is
+easie to conjecture. <HI>Iisdem artibus retinenda qui∣bus
+olim parabantur.</HI></P>
+<P>O consider then (I beseech you) how precious
+a <HI>jewell,</HI> how sweete and necessary a blessing we are
+like to loose by our want of love to it. <HI>Solem e mun∣do
+tollunt;</HI> what the <HI>Sun</HI> is to the world, that is
+Gods <HI>Truth</HI> to our soule, the light, life, joy, day
+and soule of our soules. As the darkenesse, barren∣nesse,
+coldnesse and deformity of the earth would
+be, if the Sunne were alwayes absent from it, or
+clouded to it, such will the state of our poore
+soules and our Church be, if the healing <HI>wings of
+the Sun of righteousnesse, Truth,</HI><NOTE PLACE="marg">Mal. 4.</NOTE> be quite removed; or
+onely a <HI>winters Truth,</HI> clouded, deaded and obscu∣red
+by many superstitious Doctrines and pra∣ctifes.
+If (I say) such a truth content us; where
+will be the chearefull light of the promises, which
+now wee enjoy? where that onely <HI>rock of the
+soules</HI> comfort, which no temptation can shake
+or undermine, the free <HI>Iustification</HI> of our soules by
+<HI>faith</HI> in the merits of Christ onely? where the
+<PB N="37" REF="22"/>
+sound and well grounded peace of our conscien∣ces?
+where the <HI>warmth</HI> of our zeale, love and
+affections to God, from the fiduciary apprehen∣sions
+of his <HI>love</HI> to our soules? where will be the
+ravishing <HI>joy,</HI> hopes and expectation of a bet∣ter
+life? where the <HI>zealous care</HI> of leading here a
+holy life? will not all these faile us, if <HI>truth</HI> doth?
+and is not <HI>truth</HI> like to faile if our <HI>love</HI> doth?
+Are not all those flowers and beauties of our soules
+and Church <HI>heliotropia,</HI> such as have their life
+and motion from the sunne? following and de∣pending
+upon that <HI>glorious truth;</HI> which so much
+offends weaker eyes, is so little seene or desired by
+blinde, darkned and sensuall minds? If this goe,
+<HI>Ickabob;</HI><NOTE PLACE="marg">1 Sam. 4. 21.</NOTE> <HI>The glory is departed from our land.</HI> Our
+<HI>Goshen</HI> will soone turne to an <HI>Egypt:</HI> Our <HI>fruitfull
+field</HI> and <HI>Garden of God,</HI> where so many famous
+Preachers, and zealous professours of Christianity
+have flourished, will be changed to a <HI>barren how∣ling,
+and desolate wildernesse.</HI></P>
+<P>If the <HI>love</HI> of our selves moove us not; nor <HI>the
+love of truth and Peace,</HI> which have happily dwelt
+together a long time with us, yet let us not bee so
+barbarously cruell to <HI>posterity,</HI> as to put out their
+<HI>soules eyes</HI> before they can <HI>see,</HI> and deprive them of
+the <HI>light</HI> of the <HI>Gospell,</HI> before they enjoy the <HI>light
+of the Sunne.</HI> What can you transmit to posterity
+more desireable than <HI>Truth and Peace? Paix &amp;
+peu. Peace and a little,</HI> but <HI>Truth and lesse,</HI> will doe
+very well, and make you and them live and dye
+happily: what will your honours, lands, offices,
+<PB N="38" REF="23"/>
+estates, houses, names doe them good, if they be
+<HI>betrayed</HI> to ignorance, superstition and slavery of
+conscience, which are in the <HI>bottome</HI> and <HI>dregs</HI> of
+errour and confusion.</P>
+<P>O then let the first care bee to <HI>cleare,</HI> and <HI>settle
+Truth among us;</HI> and then <HI>Peace;</HI> sweete and most
+desireable <HI>Peace,</HI> which we have had to the <HI>envie,</HI>
+wonder and astonishment of all our Neighbours,
+enemies and friends. Alas! have we so <HI>long drunk
+of Peace,</HI> as to become <HI>intoxicate</HI> with so sweete
+wine, and now do we fall to <HI>quarrell</HI> with tongues,
+pens and swords!</P>
+<P>That <HI>we</HI> in this <HI>Iland</HI> are <HI>divided</HI> from all Na∣tions
+is our safety under God, and by the provi∣dence
+of our gracious Soveraigne: but to be <HI>divi∣ded
+among our selves</HI> will be <HI>infallibly our ruine. Si
+collidimur, frangimur:</HI> as <HI>two strong armes</HI> united to
+one body and under <HI>one head</HI> fighting against each
+other; That censure of a great <HI>Captaine</HI> and <HI>States∣man</HI>
+is remarkeable which hee gives of our State.
+<HI>That it is a great and strong body which will never dye,</HI><NOTE PLACE="marg">D. de <HI>Rohan.</HI> Interest des estates. Angle terre est un∣grand animal, qui ne mourira ja mais si lue se tue luymesme.</NOTE>
+<HI>unlesse it kill it selfe.</HI></P>
+<P><HI>Civili in bello trist is victoria, Civill warres</HI> can nei∣ther
+merit nor expect <HI>Laurells,</HI> triumphs nor tro∣phees:
+the memory and monuments of them are
+best, when buried in oblivion; <HI>victory it selfe is sad,</HI>
+and ashamed of it selfe; <HI>weeping,</HI> dejected and blu∣shing
+with its owne blood unnaturally and barba∣rously
+spilt; as having fought not so much against
+enemies as <HI>humanity;</HI> not so much conquering o∣thers,
+as wasting and destroying it selfe.
+<Q><PB N="39" REF="23"/>
+<L>—Pax una triumphis</L>
+<L>Innumeris potior.—</L></Q>
+One faire and spotlesse <HI>Lilly of peace</HI> is a greater or∣nament
+to a Princes Diadem, than to have it be∣set
+round with many red <HI>Roses of bloody triumphs;</HI>
+especially in civill, which are the most sanguinary
+wars. O then let us not so easily <HI>abandon</HI> so great, so
+precious, so hardly recoverable a blessing, if once
+it be lost. The Orator said well: <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.
+Any rash hand or
+furious head may inflict a <HI>wound,</HI> or <HI>kindle a fire,</HI>
+but it's God alone, who can <HI>heale up the breaches,</HI> or
+extinquish the flames of a state or Church. The
+<HI>miserable spectacles</HI> of other countries and Chur∣ches,
+do they not, as <HI>foyles,</HI> sufficiently set forth
+the beauty and lovelinesse of this <HI>Iewell of Peace?</HI>
+O then let us all take up thoughts, words, counsels,
+resolutions, prayers for <HI>Peace:</HI> away with all <HI>bitter∣nesse,
+strife, malice, jealousies,</HI> and all those <HI>divelish
+maximes</HI> of severing the <HI>Interests</HI> of the Prince and
+the people as inconsistent; whereas rightly consi∣dered
+they are, as the head with the body; united,
+both are safe and firme; severed, both inevitably
+ruine. <HI>Divide &amp; regnare desine: Devide</HI> them and
+you <HI>destroy</HI> them. <HI>Love and union are the mutuall
+safety of Prince and people.</HI></P>
+<P><HI>Counsells of Truth and Peace,</HI> like light and fruitfull
+showers, descend from above from Heaven, from
+God: but <HI>falsity</HI> and <HI>dissension,</HI> like tempestuous
+vapours and fiery exhalations, come from the
+earth, from the divellish hearts, designes and pra∣ctises
+of men.</P>
+<P><PB N="40" REF="24"/>
+O consider then (as I know you doe) how <HI>large
+afield,</HI> how ample a province the mercy of God,
+the favour of our King, the love of your Country
+hath put into your hand, where to shew your <HI>love</HI>
+of God, his <HI>truth,</HI> worship and religion; your <HI>loyal∣ty</HI>
+to your King, his Throne, dignity and succes∣sion;
+your <HI>fidelity</HI> and zeale to your Country, its
+peace, liberty and prosperity. How great a <HI>disser∣vice</HI>
+you must do them all (besides your selves in
+particular) if you faile or slaken by any meanes in
+your <HI>love to these</HI> two, <HI>Truth</HI> and <HI>Peace.</HI></P>
+<P>Imagine with your selves you heare daily,
+your <HI>Noble and famous progenitors</HI> (who <HI>being
+dead yet speake,</HI> by those blessings of <HI>Truth</HI> and
+<HI>Peace,</HI> which by their studies, prayers and endea∣vours
+they have bequeathed to you) <HI>Imagine</HI>
+(I say) these calling earnestly upon you all, <HI>O love
+the Truth and Peace. Shame</HI> not our names, and your
+selves by being wretchedly negligent of what
+we esteemed the most <HI>precious Iewels,</HI> the honour
+and happinesse of our times: which were dearer
+to us than our lives: which we purchased for you
+with our blood, with infinite expenses, hazards
+and sufferings.</P>
+<P><HI>Thinke</HI> you here the <HI>joynt prayers</HI> and importu∣nities
+of all estates in the Kingdome, the <HI>Nobles,</HI>
+the <HI>Gentry,</HI> the <HI>Commons;</HI> your parents, wives, chil∣dren,
+friends, alliances, neighbours, all with <HI>one
+voice</HI> calling to <HI>you, Pacem te possimus omnes. O love
+the truth and Peace,</HI> and by your love preserve them
+for us. <HI>Betray</HI> not us and your selves, to the dark∣nesse
+<PB N="41" REF="24"/>
+of errours, to the miseries of warre. Be you
+as <HI>sunnes and shields</HI> to us, and the commonwealth:
+Your populous <HI>Cities and Townes,</HI> your stately
+houses, your fruitefull fields, your pleasant gar∣dens,
+your costly cloathes, your plentifull tables,
+your ancient <HI>liberties</HI> and Noble immunities,
+wherewith <HI>above all subjects in the world</HI> you are in∣vested
+and honour'd, all joyne in this voyce, <HI>O love
+the truth and peace:</HI> which affords you all these
+sweet enjoyments and Noble ornaments of life.
+All complaints, all grievances, all petitions may
+be resolved into this lesson, <HI>Love the truth and peace,</HI>
+in so doing you shall <HI>remedy, releeve and satisfie</HI>
+all.</P>
+<P>O have a care then, that <HI>truth</HI> as the <HI>pillar of
+fire</HI> may goe before us to enlighten and direct
+our way to the <HI>heavenly Canaan;</HI> and <HI>Peace</HI> as the
+<HI>pillar of the cloud</HI> may over-shadow, and refresh
+us in our travailes; through the tedious <HI>wildernesse</HI>
+of this life.</P>
+<P>The way to <HI>peace</HI> is by the <HI>paths of truth, Never
+hope to recover and settle your former peace, unlesse you
+returne to your first love of the truth.</HI></P>
+<P><HI>Truth</HI> is but one, as the <HI>Center,</HI> and drawes all
+mindes to an <HI>unity,</HI> which tend to it. <HI>Errours</HI> and
+falsities are <HI>various</HI> and full of crossings enterfi∣rings,
+and contentions both with <HI>truth</HI> and <HI>them∣selves:</HI>
+as severall <HI>Cards in a Map,</HI> whose lines
+drawne out infinitely crosse, cut, and thwart each
+other.</P>
+<P>Here give me leave by way of short digression,
+<PB N="42" REF="25"/>
+in so great and publique an Assembly, to recom∣mend
+to your favour, the noble endeavours of two
+<HI>great</HI> and <HI>publique Spirits,</HI> who have laboured much
+for <HI>Truth and Peace,</HI> I meane, <HI>Commenius,</HI> and
+<HI>Duraeus:</HI> both famous for their learning, piety
+and integrity, and not unknowne, I am sure by the
+fame of their Works, to many of this Honourable,
+learned and pious Assembly.</P>
+<P>The one hath laid a faire designe and founda∣tion
+for the raising up a <HI>Structure of Truth,</HI><NOTE PLACE="marg">Dur<GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/>s.</NOTE> Humane
+and Divine, of excellent use to all man-kinde, for
+the easinesse and exquisitenesse of attaining the
+true knowledge of things.</P>
+<P>The other hath long studied,<NOTE PLACE="marg">Cousmenius.</NOTE> and with great
+paines, endeavoured and well advanced the <HI>peace</HI>
+and unity of the <HI>reformed Churches</HI> (a blessing that
+cannot be purchased at too dearea a rate) whereun∣to
+hee hath the suffrages and assistance of many
+learned Divines, and some of our owne, especially
+the <HI>reverend Bishop of Salisbury,</HI> as you may see in
+his letters to him, and his late tractate, <HI>De pace
+Ecclesiastica,</HI> &amp;c.</P>
+<P>But alas, both these <HI>noble plants</HI> (to the infinite
+shame and reproach of the present age, to the losse
+and detriment of the future) a<GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/> like to <HI>wither</HI> to a
+barrennesse for want of publique incouragement
+and aid to goe on in so noble, great and usefull un∣dertakings;
+I leave it to your <HI>Wisedomes,</HI> at your
+leysure to consider, whether it were not worthy
+the name and honour of this State and Church, to
+invite these men to you, to see and weigh their no∣ble
+<PB N="43" REF="25"/>
+and excellent designes; to give them all pub∣like
+ayde and incouragement to goe on and per∣fect
+so happy Workes, which tend so much to the
+advancing of <HI>Truth,</HI>
+and <HI>Peace.</HI><NOTE N="*" PLACE="marg">Whereunto if it shall please God to encline any of your thoughts for the effectuall promoting of so commenda∣ble purpos<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>s, notwithstanding the distances whereat they now are, the one being in <HI><GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>∣land,</HI> the other in <HI>De<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>marke,</HI> yet there is a faire, easie, and safe way of addresses to them both, opened by the industry and fidel<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ty of M<SUP>r</SUP>. <HI>Hartli<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>e,</HI> whose house is in Dukes place in <HI>London,</HI> a Gentleman who hath beene a constant furthe∣rer, and great coadjutor wit<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> them both, in their Work s: who hath correspondence with them; whose learning, pi<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>y and unwearied industry to∣wards the publike good, are so well knowne to the learned world, and many of your selves as well as to me, that he needs not the farther testimony of my Pen.</NOTE></P>
+<P>But to return to your particular and neerer <HI>concernements;</HI> If <HI>you love your selves,</HI> your relations, wives, chil∣dren, houses, lands, li∣berti<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>s, lives and ho∣nours; if you <HI>love</HI> your King, your Country, your Church, your cō∣sciences, your soules, your Saviour, your God; <HI>Love the truth and Peace;</HI> but <HI>heartily, sin∣cerely, couragiously, con∣stantly.</HI> Let your <HI>faith</HI> in the <HI>truth,</HI> worke and shew it selfe by an active <HI>love of the truth.</HI> Shall the Adversaries of our <HI>Truth</HI> and <HI>Peace,</HI> be so bold, vigilant and <HI>de∣sperately active,</HI> for the bringing in of their shad∣dowes, lyes, paintings and adulteries of Truth and Religion; and shall we be cold, remisse and timerous? Shall they as <HI>Assasinates,</HI> be prodigall of their owne and our bloods, and shall we be spa∣ring of our words, estates or persons? <HI>Hoc agite.</HI>
+<PB N="44" REF="26"/>
+Doe then <HI>Gods</HI> businesse, and the <HI>Kings,</HI> and the <HI>Countries,</HI> and in them all your owne. Doe them worthy of <HI>your selves,</HI> worthy of the honour of this <HI>Church and State,</HI> worthy the memory and re∣nowne of your <HI>Ancestors,</HI> worthy the expectation of the <HI>world,</HI> both at home and abroad; the eyes of all <HI>Christendome</HI> being upon you especially the <HI>Re∣formed Churches,</HI> whose hopes and prayers meete in
+you. Doe them worthy the Majesty and favour of our <HI>gracious King;</HI> worthy of the <HI>truth,</HI> worthy of the glory of our <HI>God,</HI> and great <HI>Redeemer:</HI> At once shew yourselves good <HI>Subjects,</HI> good <HI>Patriots,</HI> good <HI>Counsellors,</HI> good <HI>Men,</HI> good <HI>Christians.</HI></P>
+<P>You have long enjoyed <HI>Truth and Peace, therfore love them;</HI> No Nation under Heaven, hath more cause, and will be lesse excusable, <HI>therefore love them;</HI> none hath had a clearer light of <HI>Truth,</HI> and a greater length of <HI>Peace, therefore love them;</HI> you and yours have long thrived by them, <HI>therefore love them:</HI> you have <HI>Fasted</HI> and <HI>Prayed</HI> for the preserva∣tion of them, <HI>therefore love them:</HI> you are this day
+solemnely to renew your <HI>Covenant</HI> with God in the holy Sacrament, the <HI>Seale of Gods love</HI> to you, and yours to him, <HI>therefore love the truth and peace,</HI> for they are Gods. And upon the <HI>heate</HI> and <HI>sacred flames,</HI> which by this dayes duties possesse your affections, take up (I beseech you) serious <HI>resolu∣tions,</HI> and make tacit <HI>vowes</HI> in your selves to God, that you will <HI>love the truth and peace,</HI> and by all
+<HI>lawfull wayes</HI> (for other they neitherneed, nor will allow) seeke to advance them.</P>
+<P><PB N="45" REF="26"/>
+None are fit and <HI>prepared to receive,</HI> but such as have hearts <HI>filled</HI> with this <HI>love;</HI> none will have the comfort of <HI>worthy receiving,</HI> but such as daily in∣crease, and <HI>persevere in this love.</HI></P>
+<P>For Conclusion, I will use the <HI>last and weigh∣tiest argument in the world,</HI> which raised the victo∣rious soule of that great Apostle Saint <HI>Paul,</HI> to such an invincible <HI>patience</HI> and unwearied <HI>Active∣nesse</HI> for Gods glory and the Churches good, 2 <HI>Cor.</HI> <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>. 14. <HI>O let the love of Christ constraine you;</HI> that free, preventive, transcendent <HI>love;</HI> that humbled, sorrowing, sweating, bleeding, cry∣ing, crucified dying <HI>love,</HI> which this day is pre∣sented to you, who <HI>loved</HI> our soules more than
+his owne <HI>life: Greater love can no man expresse,</HI> greater <HI>motive</HI> to love can no man desire.</P>
+<P><HI>Quid amplius pro se facere aut pati potuit, quam pro te &amp; fecit &amp; passus est Christus?</HI> What could Christ have done, or suffered more, if hee had beene to <HI>redeeme himselfe,</HI> then hee hath both done and suffered to <HI>ransome</HI> thee and me. Con∣tent
+to make himselfe the object of his Fathers <HI>wrath</HI> (whom he infinitely loved) that he might
+<HI>procure our peace.</HI></P>
+<P>O what shall wee render to him againe for this <HI>excessive love;</HI> but an unfained <HI>love</HI> of him and his Church, his Truth and Glory, an undaunted zeale for his Honour and Worship, for the purity and peace of his Church?<NOTE PLACE="marg">Zach. 8. 16.</NOTE> <HI>These are the things you shall doe, speake yee every man the truth to his neighbour.
+Execute the judgement of Truth &amp; Peace in your gates.</HI>
+<PB N="46" REF="27"/>
+That so it may be fulfilled on you, and us all which the Prophet prayes, <HI>Esay. 26. 2. The gates of mercy and peace here, of glory and happinesse hereafter may be opened, so that the righteous nation which keepeth the truth may enter therein.</HI></P>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="27"/>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

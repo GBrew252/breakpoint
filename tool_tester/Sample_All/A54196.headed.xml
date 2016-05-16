@@ -1,0 +1,3728 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">Primitive Christianity revived in the faith and practice of the people called Quakers written, in testimony to the present dispensation of God, through them, to the world, that prejudices may be removed, the simple informed, the well-enclined encouraged, and the truth and its innocent Friends, rightly represented / by William Penn.</TITLE><AUTHOR>Penn, William, 1644-1718.</AUTHOR></TITLESTMT><EXTENT>Approx. 147 KB of XML-encoded text transcribed from 73 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2006-02 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A54196</IDNO>
+
+
+<IDNO TYPE="stc">Wing P1342</IDNO>
+
+<IDNO TYPE="stc">ESTC R15209</IDNO>
+
+<IDNO TYPE="eebo citation">12005968</IDNO>
+
+<IDNO TYPE="oclc">ocm 12005968</IDNO>
+
+<IDNO TYPE="vid">52318</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A54196)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 52318)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 574:10)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">Primitive Christianity revived in the faith and practice of the people called Quakers written, in testimony to the present dispensation of God, through them, to the world, that prejudices may be removed, the simple informed, the well-enclined encouraged, and the truth and its innocent Friends, rightly represented / by William Penn.</TITLE><AUTHOR>Penn, William, 1644-1718.</AUTHOR></TITLESTMT><EXTENT>[14], 122, [8] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed and sold by T. Sowle ...,</PUBLISHER>
+<DATE>1696.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>First edition.</NOTE><NOTE>Marginal notes.</NOTE><NOTE>Reproduction of original in Union Theological Seminary Library, New York.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Society of Friends --  Doctrines.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2005-07</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2005-08</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2005-10</DATE><RESPSTMT><RESP>Ali Jakobson</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2005-10</DATE><RESPSTMT><RESP>Ali Jakobson</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2006-01</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A54196">
+<STC T="W">P1342</STC>
+<BIBNO T="oclc">12005968</BIBNO>
+<VID>52318</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<P><HI>Primitive Christianity</HI>
+REVIVED
+IN THE
+<HI>Faith and Practice</HI>
+Of the PEOPLE called
+QUAKERS.
+Written, in <HI>Testimony</HI> to the present
+Dispensation of God, <HI>through Them,</HI>
+to the World: That Prejudices may
+be removed, the Simple informed,
+the Well-enclined Encouraged, and
+the <HI>Truth</HI> and its Innocent <HI>Friends
+Rightly</HI> Represented.</P>
+<P><HI>By</HI> William Penn.</P>
+<Q>This People have I formed for my self: They
+shall shew forth my Praise, <BIBL>Isa. 43. 21.</BIBL></Q>
+<P>LONDON,
+Printed and Sold by <HI>T. Sowle,</HI> near the
+<HI>Meeting-house</HI> in <HI>White-Hart-Court</HI> in
+<HI>Gracious-Street,</HI> and at the <HI>Bible</HI> in <HI>Lea∣den-Hall-Street</HI>
+near the <HI>Market,</HI> 1696.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2" MS="y"/>
+<PB REF="2" MS="y"/>
+<HEAD>THE
+EPISTLE
+TO THE
+READER.</HEAD>
+<OPENER><SALUTE>Reader,</SALUTE></OPENER>
+<P>BY this short Ens<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>ing
+Treatise, <GAP DESC="illegible" RESP="tech" EXTENT="1 span" DISP="〈…〉"/>
+perceive the Subject, of it,
+<HI>viz. The Light of Christ
+in Man, as the Manifesta∣tion
+of Gods Love, for
+Mans Happiness.</HI> Now,
+for as much as this is the
+<PB REF="3"/>
+<HI>Peculiar</HI> Testimony and
+<HI>Characteristick</HI> of the Peo∣ple
+called <HI>Quakers;</HI> their
+great <HI>Fundamental</HI> in Re∣ligion:
+That by which they
+have been distinguished
+from other Professors of
+Christianity, in their Time,
+and to which they refer all
+People about Faith, <HI>Wor∣ship,</HI>
+and <HI>Practice,</HI> both
+in their Ministry and Wri∣tings:
+That as the Fingers
+shute out of the Hand, and
+the Branches from the Bo∣dy
+of the Tree, so, true Re∣ligion,
+<PB REF="3"/>
+in all the Parts and
+Articles of it, Springs
+from this Divine Princi∣ple
+in Man: And because
+the Prejudices of some are
+very great against this Peo∣ple
+and their Way; and that
+others, who Love their Se∣riousness
+and commend their
+good Life, are yet, through
+Mistakes, or want of Inqui∣ry,
+under <HI>Jealousie</HI> of their
+Vnsoundness in some Points
+of Faith; and that there
+are not a few in all Perswa∣sions
+which desire earnestly
+<PB REF="4"/>
+to know and enjoy God in
+that sensible Manner this
+People speak of, and who
+seem to long after a State of
+Holiness and Acceptance
+with God; but are under
+Doubts and Dispondings of
+attaining it, from the want
+they find in themselves of in∣ward
+Power to enable them,
+and are unacquainted with
+this Efficacious <HI>Agent,</HI>
+which God hath given and
+appointed for their Supply▪</P>
+<P>For these Reasons and
+Motives know, <HI>Reader,</HI> I
+<PB REF="4"/>
+<HI>and so often trod upon and
+treated as the Off-scour∣ing
+of the Earth, are the
+People of God, and Chil∣dren
+of the most High.</HI>
+Bear with me <HI>Reader,</HI> I
+know what I say, and am
+not high minded but <HI>fear.</HI>
+For I write with <HI>Humi∣lity</HI>
+towards God, though
+with <HI>Confidence</HI> towards
+thee. Not that thou shouldst
+believe upon my Authority
+nothing less, for that's not
+Act upon Knowledge but
+<HI>Trust:</HI> But that thou
+<PB REF="5"/>
+shouldst try and prove what I
+write: For that is all I
+ask, as well as all I need,
+for thy Conviction and my
+own Justification: The
+whole, indeed, being but a
+spiritual Experiment upon
+the Soul, and therefore seeks
+for no implicite Credit, be∣cause
+it is Self-evident to
+them that will uprightly try
+it.</P>
+<P>And when thou, <HI>Rea∣der,</HI>
+shalt come to be ac∣quainted
+with this <HI>Princi∣ple,</HI>
+and the plain and hap∣py
+<PB REF="5"/>
+Teachings of it, thou
+wilt, with us, admire thou
+shouldst live so long a <HI>Stran∣ger</HI>
+to that which was so
+<HI>near</HI> thee, and as much won∣der
+that other Folks should
+be so blind as not to see it,
+as formerly thou thoughtest
+us singular for obeying it.
+The Day, I believe, is at
+hand, that will declare this
+with an uncontroulable Au∣thority,
+because it will be
+with an unquestionable E∣vidence.</P>
+<P>I have done, <HI>Reader,</HI>
+<PB REF="6"/>
+with this Preface, when <HI>I</HI>
+have told thee. <HI>First,</HI> That
+<HI>I</HI> have stated the <HI>Principle,</HI>
+and opened, as God has en∣abled
+me, the <HI>Nature</HI> and
+<HI>Virtue</HI> of it in <HI>Religion:</HI>
+Wherein the <HI>common Do∣ctrines</HI>
+and <HI>Articles</HI> of the
+Christian Religion, are deli∣vered
+and improved; and in
+which, <HI>I</HI> have endeavoured
+to express my self in <HI>Plain</HI>
+and <HI>Proper</HI> Terms, and not
+in <HI>Figurative, Allegorical,</HI>
+or <HI>Doubtful</HI> Phrases; that
+so <HI>I</HI> may leave <HI>no room</HI> for
+<PB REF="6"/>
+an Equivocal or Double
+Sence; but that the <HI>Truth</HI>
+of the Subject <HI>I</HI> treat upon,
+may appear <HI>Easily</HI> and <HI>Evi∣dently</HI>
+to every common
+Vnderstanding. Next, I
+have confirmed what I have
+writ, by Scripture, Reason
+and the Effects of it, upon
+so great a People; whose
+uniform, concurrence in the
+Experience and Practice
+thereof, through all Times
+and Sufferings, since a Peo∣ple,
+challenge the Notice
+and Regard of every serious
+<PB REF="7"/>
+<HI>Reader.</HI> Thirdly, <HI>I</HI> have
+written <HI>briefly,</HI> that so it
+might be every ones Mony
+and Reading: And, much
+in a little is best, when
+we see daily that the <HI>Richer</HI>
+People grow, the <HI>less</HI> Mo∣ny
+or Time they have for
+God, and Religion: And
+perhaps, those that would not
+buy a large Book, may find
+in their Hearts to give a∣way
+some of these, for their
+Neighbours Good, being
+little and Cheap. Be seri∣ous,
+Reader, be Impartial
+<PB REF="7"/>
+and then be as <HI>Inquisitive</HI>
+as thou canst; and that
+for thine own Soul, as
+well as the Credit of this
+most <HI>misunderstood</HI> and <HI>a∣bused</HI>
+People: And the
+God and Father of <HI>Lights</HI>
+and <HI>Spirits,</HI> so bless thine,
+in the Perusal of this
+short <HI>Treatise,</HI> that thou
+mayst receive real Benefit
+by it, to his Glory and
+thine own Comfort: Which
+is the Desire and End of
+him that wrote it; who is,
+<PB REF="8"/>
+in the Bonds of Chri∣stian
+Charity, very much
+and very ardently</P>
+<CLOSER><SIGNED>Thy Real Friend.
+William Penn.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 N="1" TYPE="chapter">
+<PB N="1" REF="8"/>
+<HEAD>CHAP. I.</HEAD>
+<HEAD TYPE="sub">Sect. 1. Their Fundamen∣tal
+Principle. Sect. 2.
+The Nature of it. Sect.
+3. Called by several
+Names. Sect. 4. They
+refer all to this, as to
+Faith, and Practice,
+Ministry and Worship.</HEAD>
+<DIV2 N="1" TYPE="section">
+<P><HI>§. 1. THat which the Peo∣ple
+called</HI> Quakers
+<HI>lay down, as a main</HI>
+Fundamental <HI>in Re∣ligion
+is this,</HI> That God, through
+Christ, hath placed a Principle in every
+<PB N="2" REF="9"/>
+Man, to inform him of his Duty and
+to enable him to do it; and that those
+that live up to this Principle, are the
+People of God, and those that live in
+Disobedience to it, are not God's Peo∣ple,
+what ever Name they may bear, or
+Profession they may make <HI>of Religion.
+This is their</HI> Ancient, First <HI>and</HI> Stand∣ing
+<HI>Testimony: With this they be∣gan,
+and this they bore, and do bare
+to the World.</HI></P>
+</DIV2>
+<DIV2 N="2" TYPE="section">
+<P>§. 2. By this <HI>Principle</HI> they un∣derstand
+something that is <HI>Divine,</HI>
+and though in Man, <HI>yet not of Man,</HI>
+but of God; that came from him,
+and leads to him all those that will be
+lead by it.</P>
+</DIV2>
+<DIV2 N="3" TYPE="section">
+<P>§. 3. There are divers ways of
+speaking, they have been led to
+use, by which they declare and
+express what this <HI>Principle</HI> is,
+about which I think fit to Precau∣tion
+the Reader. <HI>viz.</HI> They call
+it <HI>the Light of Christ within Man,</HI>
+<PB N="3" REF="9"/>
+or <HI>Light within,</HI> which is their An∣cient
+and most General and Fami∣liar
+Phrase; also the
+<NOTE N="a" PLACE="marg">Joh. 1. 9.</NOTE> <HI>Manifestation</HI><NOTE N="b" PLACE="marg">Rom. 1. 19. Tit. 3. 4.</NOTE> <HI>or
+Appearance of Christ</HI><NOTE N="c" PLACE="marg">Act. 17. 28. 2 Pet. 4.</NOTE>
+<HI>the</HI><NOTE N="d" PLACE="marg">Rom. 8. 16. 1 John 5. 10, 12.</NOTE> <HI>Witness of God,
+the</HI><NOTE N="e" PLACE="marg">1 Pet. 1. 23. 1. Jo. 3. 9.</NOTE> <HI>Seed of God,
+the</HI><NOTE N="f" PLACE="marg">Mat. 13. 19, 23.</NOTE> <HI>Seed of the
+Kingdom,</HI><NOTE N="g" PLACE="marg">Prov. 1. 20, 21, 22, 23. Ch. 8. 1, 2, 3, 4.</NOTE> <HI>Wisdom,
+the</HI><NOTE N="h" PLACE="marg">Deut. 30. 12. Rom. 10. 6, 7, 8. Psal. 119. 10.</NOTE> <HI>Word in the
+Heart, the Grace</HI><NOTE N="i" PLACE="marg">Tit. 2. 11, 12.</NOTE>
+<HI>that appears to all men,
+the</HI><NOTE N="k" PLACE="marg">1 Cor. 1. 7.</NOTE> <HI>Spirit given to e∣very
+Man to profit with,
+the</HI><NOTE N="l" PLACE="marg">Psalm 51. 6. Isa. 26. 2. John 14. 6.</NOTE> <HI>Truth in the in∣ward
+Parts. The</HI><NOTE N="m" PLACE="marg">Mat. 13. 33.</NOTE> <HI>spi∣ritual
+Leaven that Leavens the whole
+Lump of Man:</HI> Which are many of
+them Figurative Expressions, but all
+of them such as the <HI>Holy Ghost</HI> hath
+used, and which will be used in this
+<HI>Treatise,</HI> as they are most frequently
+in the Writings and Ministry of this
+People. But that this <HI>Variety</HI> and
+Manner of Expression, may not oc∣casion
+any Misapprehension or Con∣fusion
+<PB N="4" REF="10"/>
+in the Understanding of the
+<HI>Reader,</HI> I would have him know,
+that they always mean by those
+Terms or Denominations, not an <HI>o∣ther,</HI>
+but the <HI>same Principle,</HI> before
+mentioned: Which, as I said, though
+it be in Man, is not of Man, but of
+God, and therefore <HI>Divine:</HI> And
+one in it self, though diversly ex∣pressed
+by the Holy Men, according
+to the various Manifestations and O∣perations
+thereof.</P>
+</DIV2>
+<DIV2 N="4" TYPE="section">
+<P>§. 4. It is to This Principle of <HI>Light,
+Life</HI> and <HI>Grace,</HI> that this People refer
+all: For they say it is the great <HI>A∣gent</HI>
+in Religion; <HI>That,</HI> without
+which, there is no <HI>Conviction,</HI> so no
+<HI>Conversion,</HI><NOTE PLACE="marg">John 3. 5.</NOTE> or <HI>Rege∣neration;</HI>
+and conse∣quently
+no entring into the King∣dom
+of God. That is to say, there
+can be no true <HI>sight</HI> of Sin, nor <HI>sor∣row</HI>
+for it, and therefore no forsaking
+or overcoming of it, or Remission
+or Justification from it. A necessa∣ry
+<PB N="5" REF="10"/>
+and powerful Principle indeed,
+when neither Sanctification, nor Ju∣stification
+can be had without it. In
+short, there is no becoming Virtu∣ous,
+Holy and Good without this
+Principle; no acceptance with God,
+nor Peace of Soul, but through it.
+But on the contrary, that the Rea∣son
+of so much <HI>Irreligion</HI> among
+Christians, so much <HI>Superstition,</HI> in∣stead
+of Devotion, and so much Pro∣fession
+without Injoyment, and so
+little <HI>Heart-Reformation,</HI> is because
+People, in Religion, <HI>Over-look</HI>
+this Principle, and leave it behind
+them.</P>
+<P>They will be Religious <HI>without</HI> it,
+and Christians without it; though
+this be the only means of making
+them so indeed: So natural it is to
+Man, in his degenerate Estate, to
+<HI>prefer</HI> Sacrifice before Obedience,
+and to make Prayers go for Pra∣ctice,
+and so flatter himself to Hope,
+by Ceremonial and Bodily Services,
+to excuse himself with God, from
+<PB N="6" REF="11"/>
+the stricter Discipline of this Princi∣ple
+in the Soul; which leads Man to
+take up the Cross, deny self, and do
+that which God requires of him:
+And that is every Mans true Religi∣on,
+and every such Man is truly Re∣ligious:
+That is, he is <HI>Holy, Humble,
+Patient, Meek, Merciful, Just, Kind</HI>
+and <HI>Charitable;</HI> which, they say, no
+Man can make himself; but that this
+Principle will make all them so, that
+will embrace the <HI>Convictions,</HI> and
+<HI>Teachings</HI> of it; being the <HI>Root</HI> of all
+true Religion in Man, and the <HI>Good-Seed,</HI>
+from whence all Good Fruits
+proceed. To summ up, what they
+say upon the Nature and Virtue of
+it, as Contents of that which fol∣lows,
+they declare that this Princi∣ple,
+is, First, <HI>Divine.</HI> Secondly, <HI>V∣niversal.</HI>
+Thirdly, <HI>Efficacious:</HI> In that
+it gives Man.</P>
+<P>First, The Knowledge of God and
+of himself, <HI>and therein a sight of his</HI>
+Duty, <HI>and</HI> Disobedience <HI>to it.</HI></P>
+<P>Secondly, It begets a true Sence and
+<PB N="7" REF="11"/>
+Sorrow for Sin, <HI>in those that seri∣ously
+regard the Convictions of it.</HI></P>
+<P>Thirdly, It enables them to forsake
+Sin and Sanctifies from <HI>it.</HI></P>
+<P>Fourthly, It applies Gods Mercies in
+Christ for the forgiveness of Sins that
+are past, unto Justification, upon such
+Sincere Repentance and Obedience.</P>
+<P><HI>Fifthly, It gives the Faithful Perse∣verance
+unto a Perfect Man, and the
+Assurance of Blessedness World with∣out
+End.</HI> To the Truth of all which,
+they call in a Threefold Evidence:
+<HI>First,</HI> The <HI>Scriptures,</HI> which give
+an ample Witness, especially those
+of the New and better Testament.
+<HI>Secondly,</HI> The <HI>Reasonableness</HI> of it
+in it self. And <HI>Lastly,</HI> A <HI>General
+Experience,</HI> in great Measure: But
+particularly <HI>their Own,</HI> made credi∣ble
+by the good Fruits they have
+brought forth, and the Answer God
+has given to their Ministry: Which,
+to impartial Observers, have com∣mended
+the Principle, and gives me
+Occasion to abstract their <HI>History,</HI>
+<PB N="8" REF="12"/>
+in divers Particulars, for a Conclu∣sion
+to this little <HI>Treatise.</HI></P>
+</DIV2>
+</DIV1>
+<DIV1 N="2" TYPE="chapter">
+<HEAD>CHAP. II.</HEAD>
+<HEAD TYPE="sub">Sect. 1. The Evidence of
+Scripture for that Prin∣ciple,
+John 1. 4, 9.
+Sect. 2. Its Divinity.
+Sect. 3. All things cre∣ated
+by it. Sect. 4.
+What it is to Man, as to
+Salvation.</HEAD>
+<DIV2 N="1" TYPE="section">
+<P>§. 1. I Shall begin with the Evi∣dence
+of the blessed Scrip∣tures
+of Truth for this <HI>Divine Prin∣ciple,</HI>
+and that under the Name of
+<PB N="9" REF="12"/>
+<HI>Light,</HI> the first and most common
+Word, used by them, to express
+and denominate this Principle by;
+as well as most apt and proper in
+this dark State of the World.</P>
+<P>John 1. 1. In the beginning was the
+Word, and the Word was with God,
+and the Word <HI>was God.</HI></P>
+<P>Ver. 3. All things were made <HI>by
+him;</HI></P>
+<P>Ver. 4. In him was Life, and <HI>that
+Life</HI> was the <HI>Light</HI> of Men.</P>
+<P>Ver. 9. <HI>That</HI> was the <HI>true Light,
+which Lighteth every</HI> Man that
+cometh into the World.</P>
+</DIV2>
+<DIV2 N="2" TYPE="section">
+<P>§. 2. I have begun with him,
+that begun his History with the be∣ginning
+of the Creation of God; the
+most beloved Disciple, and longest
+Liver of all the Apostles, and he,
+that for his excelling Knowledge and
+Wisdom in heavenly Things, is
+justly entituled, <HI>John the Divine.</HI>
+He tells us, first, what he was in
+<PB N="10" REF="13"/>
+the Beginning, <HI>viz.</HI> The <HI>Word.
+<HI>In the beginning was the Word.</HI></HI></P>
+<P>And though that shews what the
+<HI>Word</HI> must be, yet he adds and ex∣plains,
+that the <HI>Word was with God,
+and was God;</HI> lest any should doubt
+of the Divinity of the Word, or
+have lower Thoughts of him than he
+deserved. The <HI>Word,</HI> then, is <HI>Di∣vine;</HI>
+and an apt Term it is that the
+<HI>Evangelist</HI> stiles him by, since it is
+so great an Expression of the Wis∣dom
+and Power of God to Men.</P>
+</DIV2>
+<DIV2 N="3" TYPE="section">
+<P>§. 3. <HI>All things were made by him.</HI>
+If so, he wants no Power. And if
+we were made by him, we must be
+new made by him too, or we can
+never enjoy God. His Power shews
+his Dignity, and that nothing can be
+too hard for such a sufficiency as made
+all things, and without which no∣thing
+was made that was made. As
+Man's Maker must be his <HI>Husband,</HI>
+so his Creator must be his <HI>Redeem∣er</HI>
+also.</P>
+<PB N="11" REF="13"/>
+</DIV2>
+<DIV2 N="4" TYPE="section">
+<P>§. 4. <HI>In him was Life, and the Life
+was the Light of Men.</HI> This is <HI>ou<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+Point.</HI> The <HI>Evangelist</HI> first begins
+with the <HI>Nature</HI> and <HI>Being</HI> of the
+<HI>Word:</HI> From thence he descends to
+the <HI>Works</HI> of the <HI>Word:</HI> And lastly,
+then he tells us what the <HI>Word</HI> is
+with respect to <HI>Man,</HI> above the rest
+of the Creation, <HI>viz. The Word was
+Life, and the Life was the Light of
+Men.</HI> The Relation must be very
+near and intimate, when the very
+<HI>Life</HI> of the Word <HI>(that was with
+God, and was God)</HI> is the <HI>Light of
+Men:</HI> As if Man were next to the
+Word, and above all the rest of his
+Works; for it is not said so of any
+other Creature.</P>
+<P>Man cannot want <HI>Light</HI> then; no
+not a <HI>Divine Light:</HI> For if this be
+not <HI>Divine,</HI> that is the <HI>Life</HI> of the
+<HI>Divine</HI> Word, there can be no such
+thing at all as <HI>Divine</HI> or <HI>Supernatural</HI>
+Light and Life. And the Text does
+not only prove the <HI>Divinity</HI> of the
+Light, but the <HI>Vniversality</HI> of it al∣so,
+<PB N="12" REF="14"/>
+because the <HI>Man</HI> mentioned in
+it, is <HI>Mankind:</HI> Which is yet more
+distinctly express'd in the 9th <HI>verse,
+That was the True Light, which lighteth
+<HI>every</HI> Man that cometh into the
+World.</HI> Implying, that he that
+lighteth not Mankind is not that
+<HI>True Light;</HI> and therefore <HI>John</HI> was
+not that <HI>Light,</HI> but bore witness of
+him that was, who <HI>lighted every
+Man;</HI> to wit, the <HI>Word</HI> that took
+Flesh: So that both the <HI>Divine
+Nature,</HI> and <HI>Vniversality</HI> of the Light
+of Christ within, are confirmed to∣gether.</P>
+</DIV2>
+</DIV1>
+<DIV1 N="3" TYPE="chapter">
+<PB N="13" REF="14"/>
+<HEAD>CHAP. III.</HEAD>
+<HEAD TYPE="sub">Sect. 1. How this Scrip∣ture
+is wrested. Sect. 2.
+That 'tis a Natural Light.
+Sect. 3. That it Light∣eth
+not all. Sect. 4.
+That 'tis only the Do∣ctrine
+and Life of Christ
+when in Flesh all an∣swer'd,
+and its Divini∣ty
+and Universality pro∣ved.</HEAD>
+<DIV2 N="1" TYPE="section">
+<P>§. 1. BUt though there be no
+Passage or Proposition
+<PB N="14" REF="15"/>
+to be found in Holy Scripture, in
+which Mankind is more Interested,
+or that is more clearly laid down
+by the Holy Ghost, than this I have
+produced, yet hardly hath any place
+been more industriously wrested
+from its true and plain Sence: E∣specially
+since this People have laid
+any Stress upon it, in Defence of
+their Testimony of the <HI>Light with∣in.</HI>
+Some will have it to be but a
+<HI>Natural</HI> Light, or a <HI>Part of Man's
+Nature,</HI> though it be the <HI>very Life</HI>
+of the <HI>Word</HI> by which the World
+was made; and wrapt within those
+Verses which only concern his <HI>Eter∣nal
+Power and Godhead.</HI> But, because
+I would be understood, and treat of
+things with all plainness, I will o∣pen
+the Terms of the Objection as
+well as I can, and then give my An∣swer
+to it.</P>
+</DIV2>
+<DIV2 N="2" TYPE="section">
+<P>§. 2. If by <HI>Natural</HI> be meant a
+Created thing, as Man is, or any
+thing that is requisite to the Com∣position
+<PB N="15" REF="15"/>
+of Man, I deny it: The
+Text is expresly against it; and says,
+the Light with which Man is light∣ed,
+is the <HI>Life of the World, which
+was with God and was God.</HI> But if
+by Natural is only intended, that
+the Light comes along with us in∣to
+the World; or that we have it
+as sure as we are Born, or have Na∣ture;
+and is the <HI>Light</HI> of our Na∣ture,
+of our Minds, and Under∣standings,
+and is not the result of
+any Revelation from without, as by
+Angels or Men; then we mean and
+intend the <HI>same</HI> thing. For it is <HI>Na∣tural</HI>
+to Man to have a <HI>Supernatural</HI>
+Light, and for the <HI>Creature,</HI> to be
+lighted by an <HI>uncreated</HI> Light, as is
+the Life of the <HI>Creating Word.</HI> And
+did People but consider the Constitu∣tion
+of Man, it would conduce much
+to preserve or deliver them from any
+Dilemma upon this account. For
+Man can no more be a light to his
+Mind then he is to his Body: He
+has the Capacity of seeing Objects
+<PB N="16" REF="16"/>
+when he has the help of Light, but
+cannot be a Light to himself by
+which to See them. Wherefore as
+the <HI>Sun</HI> in the Firmament is the
+Light of the Body, and gives us dis∣cerning
+in our Temporal Affairs; so
+the <HI>Life</HI> of the <HI>Word</HI> is the glorious
+<HI>Light</HI> and <HI>Sun</HI> of the <HI>Soul:</HI> Our <HI>In∣tellectual
+Luminary,</HI> that informs our
+Mind and give us true Judgment and
+Distinction about those things that
+more immediately concern our Bet∣ter,
+Inward, and Eternal Man.</P>
+</DIV2>
+<DIV2 N="3" TYPE="section">
+<P>§. 3. But others will have this
+Text read thus, Not that the Word
+enlightens all Mankind, <HI>but that all
+who are Enlightned, are Enlightned by
+him,</HI> thereby not only narrowing
+and abusing the Text, but rendring
+God Partial, and so severe to his
+Creatures, as to leave the greatest
+part of the World in Darkness, with∣out
+the means or opportunity of
+Salvation; though we are assured
+from the Scripture, That <HI>all have
+<PB N="17" REF="16"/>
+Light</HI><NOTE N="a" PLACE="marg">Joh. 1. 4, 9.</NOTE>, <HI>that</HI><NOTE N="b" PLACE="marg">Ch: 8. 12.</NOTE> <HI>Christ is
+the Light of the World,
+and that</HI><NOTE N="c" PLACE="marg">Rom. 5. 6.</NOTE> <HI>he dyed for all;</HI>
+yea, <HI>the</HI><NOTE N="d" PLACE="marg">2 Cor. 5. 15.</NOTE> <HI>Vngodly, and
+that God desires not the</HI><NOTE N="e" PLACE="marg">1 Tim. 2. 4.</NOTE>
+<HI>Death of any, but rather that all should
+repent and come to the Knowledge of
+Truth and be saved;
+and</HI><NOTE N="f" PLACE="marg">Tit. 2. 11, 12.</NOTE> <HI>that the Grace of
+God has appeared to all
+Men,</HI> &amp;c.</P>
+</DIV2>
+<DIV2 N="4" TYPE="section">
+<P>§. 4. There is a Third Sort that
+will needs have it understood, not
+of any Illumination by a Divine
+Light or Spirit in Man, but by the
+<HI>Doctrine</HI> Christ Preached and the
+<HI>Life</HI> and <HI>Example</HI> he Lived, and led
+in the World; and which yet neither
+reach'd the thousandth Part of Man∣kind,
+nor can consist with what the
+Apostle <HI>John</HI> intends in the begin∣ning
+of his History, which wholly
+relates to what Christ was before he
+took Flesh, or at least, what he is
+to the Soul, by his <HI>immediate Inshi∣nings</HI>
+and <HI>Influences:</HI> 'Tis most true,
+<PB N="18" REF="17"/>
+Christ was, in a Sence, the <HI>Light of
+the World</HI> in that very Appearance,
+and shined forth by his <HI>heavenly Do∣ctrine,</HI>
+many admirable <HI>Miracles,</HI> and
+his <HI>Self-denying Life,</HI> and <HI>Death:</HI> But
+still that hinders not, but that he
+was and <HI>is That Spiritual Light,</HI> which
+shineth, more or less, in the Hearts,
+of the Sons and Daughters of Men.
+For as he was a <HI>Light</HI> in his Life
+and Conversation, he was only a
+Light in a more excellent Sence, then
+he spoke of to his Disciples, when
+he said, <HI>Ye are the Lights of the
+World.</HI> But Christ the Word en∣lightned
+them, and enlightens us,
+and enlightens all Men that come
+into the World; which he could
+not be said to do, if we only regard
+his Personal and Outward Appear∣ance:
+For in that Sence it is long,
+since he was that Light, but in
+this, he is continually so. In that
+respect he is <HI>Remote,</HI> but in this Sence
+he is <HI>Present</HI> and <HI>Immediate,</HI> else we
+should render the Text, <HI>That was
+<PB N="19" REF="17"/>
+the True Light which <HI>did</HI> lighten,</HI> instead
+of which <HI>Lighteth every Man that cometh
+into the World.</HI> And that the Evan∣gelist
+might be so understood as we
+speak, he refers to this as an Evi∣dence
+of <HI>His</HI> being the <HI>Messiah,</HI> and
+not <HI>John;</HI> for whom many People
+had much Reverence; for, <HI>verse</HI> 8.
+he saith of <HI>John, He was not That
+Light, but was sent to bear Witness of
+That Light:</HI> Now comes his Proof and
+our Testimony, <HI>That was the True
+Light, which lighteth Every Man that
+cometh into the World;</HI> which was
+not <HI>John,</HI> nor any else, but the
+<HI>Word that was with God, and was
+God.</HI> The Evangelist did not de∣scribe
+him by his Fasting Forty Days,
+Preaching so many Sermons, Work∣ing
+so many Miracles, and Living
+so Holy a Life; and, after all, so pati∣ently
+Suffering Death (which yet
+Christ did) thereby to prove him
+the Light of the World; but, says
+the Evangelist, <HI>That was the True
+Light, the Word in Flesh the Messi∣ah,</HI>
+<PB N="20" REF="18"/>
+and not <HI>John,</HI> or any else, <HI>which
+lighteth Every Man that cometh into
+the World.</HI> So that Christ is mani∣fested
+and distinguished by giving
+Light: And indeed so are all his Fol∣lowers
+from other People, by <HI>recei∣ving</HI>
+and <HI>obeying</HI> it. There are many
+other Scriptures, of both Testaments,
+that refer to the Light within; ei∣ther
+expresly, or implicitely; which,
+for Brevity's sake, I shall wave re∣citing,
+but the Reader will find
+some Directions in
+the Margent,<NOTE PLACE="marg">Job. 18. 5, 6. Ch. 21. 17. Ch. 25. 3. Ch. 38. 5. Psalm 18. 28. Psalm 27. 1. Psalm 34. 5. Psalm 36. 9. Psal. 118. 27. Psalm 119. 105. Prov. 13. 9. Ch. 20. 20, 27. Ch. 24. 20. and Isa. 2. 5. Ch. 8. 20. Ch. 42. 6. Ch. 49. 6. 1 Pet 2. 9. 1 John 2. 8.</NOTE> which
+will guide him to
+them.</P>
+</DIV2>
+</DIV1>
+<DIV1 N="4" TYPE="chapter">
+<PB N="21" REF="18"/>
+<HEAD>CHAP. IV.</HEAD>
+<HEAD TYPE="sub">Sect. 1. The Virtue of the
+Light within; It gives
+discerning. Sect. 2. It
+manifests God. Sect. 3.
+It give Life to the Soul.
+Sect. 4. It is the Apo∣stolical
+Message. Sect.
+5. Objection Answered
+about two Lights. Sect.
+6. About Natural and
+Spiritual Light: Not two
+Darknesses within, there∣fore
+not two Lights with∣in,
+Sect. 7. The Apo∣stle
+John answers the Ob∣jection
+fully: The Light
+the same, 1 John 2.
+8, 9.</HEAD>
+<PB N="22" REF="19"/>
+<DIV2 N="1" TYPE="section">
+<P>§. 1. THe Third thing, is the
+<HI>Virtue</HI> and <HI>Efficacy</HI> of this
+Light for the end for which God
+hath given it, <HI>viz. To lead and guide
+the Soul of Man to Blessedness.</HI> In or∣der
+to which, the first thing it does
+in and for Man, is to give him a True
+Sight or Discerning of himself: What
+he is, and what he does; that he
+may see and know his own Conditi∣on,
+and what Judgment to make of
+himself, with respect to Religion and
+a future Estate: Of which, let us
+hear what the <HI>Word</HI> himself saith,
+that cannot Err, as <HI>John</HI> relates it,
+<HI>Chap. 3. 20, 21. For every one that do∣eth
+Evil, hateth the Light, neither
+<PB N="23" REF="19"/>
+cometh to the Light, least his deeds
+should be Reproved. But he that doeth
+Truth cometh to the Light, that his
+deeds may be made Manifest, that they
+are wrought in God.</HI> A most preg∣nant
+Instance of the <HI>Virtue</HI> and <HI>Au∣thority</HI>
+of the Light. <HI>First,</HI> It is that
+which Men ought to <HI>examine</HI> them∣selves
+by. <HI>Secondly,</HI> It gives a <HI>true
+Discerning</HI> betwixt Good and Bad,
+<HI>what is of God, from what is not of
+God.</HI> And <HI>Lastly,</HI> It is a <HI>Judge,</HI> and
+condemneth or acquitteth, <HI>reproveth</HI>
+or <HI>comforteth</HI> the Soul of Man, as he
+rejects or obeys it. That must needs
+be <HI>Divine</HI> and <HI>Efficacious,</HI> which is
+able to discover to Man, what is of
+God, from what is not of God; and
+which gives him a <HI>Distinct</HI> Know∣ledge,
+in himself, of what is wrought
+in God, from what is not wrought in
+God. By which it appears, that this
+Place does not only regard the dis∣covery
+of Man and his Works; but,
+in some Measure, <HI>it manifesteth God,
+and his Works also,</HI> which is yet some∣thing
+<PB N="24" REF="20"/>
+higher; for as much as it gives
+the <HI>obedient</HI> Man a discovery of what
+is wrought or performed by <HI>God's
+Power, and after his Will,</HI> from what
+is the meer Workings of the Crea∣ture
+of himself. If it could not ma∣nifest
+God, it could not tell Man
+what was God's Mind, nor give him
+such a grounded Sense and Discern∣ing
+of the Rise, Nature, and Tenden∣cy
+of the Workings of his mind or
+Inward Man, as is both expressed and
+abundantly implied in this Passage of
+our Saviour. And if it reveals God,
+to be sure it manifests Christ, that
+flows and comes from God. Who
+then would oppose or slight this
+blessed Light?</P>
+</DIV2>
+<DIV2 N="2" TYPE="section">
+<P>§. 2. But that this <HI>Light</HI> doth
+<HI>manifest</HI> God, is yet Evident from
+<HI>Rom. 1. 19. Because that which may be
+known of (God) is manifest in Men,
+for God hath shewed it unto them.</HI> An
+<HI>universal</HI> Proposition; and we have
+the Apostles Word for it, who was
+<HI>One of a Thousand,</HI> and inspired <HI>on
+<PB N="25" REF="20"/>
+purpose</HI> to tell us the Truth: Let it
+then have its due weight with us.
+If that which may be known of God
+is manifest in Men, the People cal∣led
+<HI>Quakers</HI> cannot, certainly, be out
+of the Way in Preaching up the
+<HI>Light within,</HI> without which, no∣thing
+can be manifested to the mind
+of Man; as saith the same Apostle to
+the <HI>Ephesians,</HI> Eph. 5. 13. <HI>Whatsoe∣ver
+doth make manifest is Light.</HI> Well
+then may they call this Light with∣in
+a <HI>Manifestation</HI> or <HI>Appearance of
+God,</HI> that sheweth <HI>in</HI> and to Man <HI>all</HI>
+that may be known of God. A pas∣sage
+much like unto this, is that of the
+Prophet <HI>Micah,</HI> Chap. 6. 8. <HI>God hath
+shewed thee, O Man, what is good; and
+what doth the Lord require of thee, but
+to do justly, and to love Mercy, and to
+walk humbly with thy God?</HI> God hath
+<HI>shewed Thee, O Man!</HI> It is very Em∣phatical.
+But how hath He shewed
+him? Why by his <HI>Light in the Con∣science,</HI>
+which the <HI>wicked Rebel a∣gainst,</HI>
+Job 24. 13. <HI>Who,</HI> for that
+<PB N="26" REF="21"/>
+Cause, <HI>know not the ways, nor abide
+in the Paths thereof: For its way are
+ways of Pleasantness, and all its Paths
+are Peace,</HI> to them that obey it.</P>
+</DIV2>
+<DIV2 N="3" TYPE="section">
+<P>§. 3. But the <HI>Light</HI> giveth the
+<HI>Light of Life,</HI> which is <HI>Eternal Life</HI>
+to them that receive and obey it.
+Thus says the blessed
+Saviour of the World.<NOTE PLACE="marg">John 8. 12.</NOTE>
+<HI>I am the Light of the
+VVorld, he that follweth me shall not
+abide in Darkness, but shall have the
+Light of Life.</HI> Now he is the Light
+of the VVorld, because he lighteth
+every Man that cometh into the
+VVorld; and they that obey that
+Light obey him, and therefore have
+the Light of Life. That is, the <HI>Light</HI>
+becomes <HI>Eternal Life</HI> to the Soul:
+That as it is the <HI>Life</HI> of the <HI>VVord,</HI>
+which is the <HI>Light</HI> in Man, so it be∣comes
+the Life in Man through his
+Obedience to it, as his <HI>Heavenly
+Light.</HI></P>
+</DIV2>
+<DIV2 N="4" TYPE="section">
+<P>§. 4. Furthermore, this Light
+was the very Ground of the <HI>Aposto∣lical
+<PB N="27" REF="21"/>
+Message,</HI> as the Beloved Disciple
+assures us. <HI>This then
+is the Message,</HI><NOTE PLACE="marg">1 John 1. 5, 6, 7.</NOTE> <HI>which
+we have heard of him,
+and declare unto you, that God is Light,
+and in him is no Darkness at all: If we
+say we have Fellowship with him, and
+walk in Darkness, we Lye and do not
+the Truth: But if we walk in the Light,
+as he is in the Light, we have Fellowship
+one with another, and the Blood of Je∣sus
+Christ cleanseth us from all Sin.</HI>
+VVhich is so comprehensive of the
+Virtue and Excellency of the Light,
+in reference to Man, that there is
+little need that more should be said
+upon it; for as much as, <HI>First,</HI> It re∣veals
+God, and that God himself is
+Light. <HI>Secondly,</HI> It discovers Dark∣ness
+from Light, and that there is
+no fellowship between them. <HI>Third∣ly,</HI>
+That Man ought to walk in the
+Light. <HI>Fourthly,</HI> That it is the
+VVay to obtain forgiveness of Sin,
+and Sanctification from it. <HI>Fifthly,</HI>
+That it is the Means to have Peace
+<PB N="28" REF="22"/>
+and Fellowship with God and his
+People; his true Church, redeemed
+from the Pollutions of the VVorld.</P>
+</DIV2>
+<DIV2 N="5" TYPE="section">
+<P>§. 5. Some perhaps may Object,
+as indeed it hath been, more than
+once, objected upon us, <HI>That this is
+another Light, not that Light where∣with
+every Man is enlightned.</HI> But the
+same Apostle, in his Evangelical Hi∣story,
+tells us, that <HI>in the VVord was
+Life, and the <HI>Life</HI> was the Light of
+Men, and that that very Light,</HI> that
+was the <HI>Life</HI> of the VVord, was the
+<HI>True Light</HI> which lighteth <HI>every Man</HI>
+that cometh into the VVorld, <HI>John</HI>
+1. 4, 9. VVhere is there as plain a
+Text to be found against the suffici∣ency,
+as well as Universality of the
+Light within; or a plainer for any
+Article of Faith in the whole Book
+of God. Had the <HI>Beloved Disciple</HI> in∣tended
+<HI>Two</HI> Lights, in his Evangelical
+History, and his Epistles, to be sure
+he would have noted to us his Distin∣ction:
+But we read of none, and by
+the Properties ascribed in each Wri∣ting,
+<PB N="29" REF="22"/>
+we have <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>eason to conclude he
+meant the same.</P>
+</DIV2>
+<DIV2 N="6" TYPE="section">
+<P>§. 6. But if any shall yet Object,
+<HI>That this is to be understood of a Spiri∣tual
+Light, and that ours is but a Natu∣ral
+one.</HI> I shall desire them to do two
+things. <HI>1st</HI> To prove that a <HI>Natural</HI>
+Light, as they phrase it, doth ma∣nifest
+God, other then as I have be∣fore
+explained and allowed; Since
+whatever is part of Man, in his Con∣stitution,
+but especially in his Dege∣neracy
+from God, is so far from
+Yielding him the knowledge of God,
+that it cannot <HI>rightly</HI> Reprove or Dis∣cover
+that which offends him, with∣out
+the Light we speak of: And it
+is Granted, that what we call <HI>Divine,</HI>
+and some, Mistakenly, call <HI>Natural</HI>
+Light, can do both. <HI>2dly</HI> If this
+Light be <HI>Natural,</HI> Notwithstanding
+it doth manifest our Duty, and Re∣prove
+our Disobedience to God, they
+would do well to assign us some
+Certain <HI>Medium,</HI> or <HI>Way,</HI> whereby
+we may truly discern, and distinguish
+<PB N="30" REF="23"/>
+between the Manifestations and Re∣proofs
+of the <HI>Natural</HI> Light within,
+from those of the <HI>Divine</HI> Light with∣in,
+since they Allow the Manifesta∣tion
+of God, and Reproof of Evil,
+as well to the one, as to the other.
+Let them give us but one Scripture
+that distinguishes between a <HI>Natural</HI>
+and a <HI>Spiritual Light within.</HI> They
+may, with as much Reason, talk of
+a <HI>Natural and Spiritual Darkness with∣in.</HI>
+'Tis true, there is a natural
+proper darkness, to wit, the Night
+of the outward World; and there
+is a Spiritual darkness, <HI>viz.</HI> The
+<HI>clouded</HI> and <HI>benighted Vnderstandings</HI>
+of Men, through disobedience to the
+Light and Spirit of God: But let
+them Assign us a Third, if they can.
+People Use, indeed, to say, impro∣perly,
+of Blind men, they are <HI>dark,</HI>
+we may Call a <HI>Natural</HI> or <HI>Idiot</HI> so,
+if we will: But where is there ano∣ther
+darkness of the Understand∣ing,
+in the things of God? If they
+can, I say, find that, In and about
+<PB N="31" REF="23"/>
+the things of God, they do some∣thing.</P>
+<P>Christ distinguished not between
+Darkness and Darkness, or Light
+and Light, in any such sence; nor
+did any of his Disciples: Yet both
+have frequently spoken of Darkness
+and Light. VVhat difference, pray,
+doth the Scripture put between Spi∣ritual
+Darkness and Darkness, menti∣oned
+in these Places, <HI>Luke 1. 7, 9.
+Mat. 4. 16. John 1. 5. John 3. 19.
+John 8. 12, 31, 46. 1 Thess. 5. 4.
+1 John 1. 6. Acts. 26. 18. Rom. 13.
+12. 2 Cor. 6. 14, 22. Eph. 5. 8. Col.</HI>
+1. 13. Upon the strictest Compari∣son
+of them I find none. It is all one
+Spiritual Darkness. Neither is there
+so much as one Scripture that affords
+us a Distinction between <HI>Light with∣in,
+and Light within;</HI> or that there
+are really <HI>Two Lights</HI> from God, in
+Man, that regard Religion. Peruse
+<HI>Mat. 4. 16. Luke 2. 32. Chap. 15. 8.
+John 1. 4, 5, 7, 8, 9. Chap. 3. 19, 20,
+21. Chap. 8. 12. Acts 26. 18. Rom.
+<PB N="32" REF="24"/>
+13. 12. 2 Cor. 4. 6. Chap. 6. 14. Eph.
+5. 8, 13. Col. 1. 12. 1 Thess. 5. 5.
+1 Tim. 6. 16. 1 Pet. 2. 9. 1 John 1.
+5, 7. Chap. 2. 8. Rev. 21. 23, 24.
+Chap.</HI> 22. 5. And we believe the
+greatest Opposer, to our Assertion,
+will not be able to sever Light from
+Light, or find out <HI>two Lights within,</HI>
+in the Passages here mentioned, or any
+other, to direct Man in his Duty to
+God and his Neighbour: And if he
+cannot, pray let him forbear his
+<HI>mean Thoughts and VVords</HI> of the
+<HI>Light of Christ within Man,</HI> as Man's
+<HI>Guide</HI> in Duty to God and Man. For
+as he must yield to us, that the Light
+Manifesteth Evil, and Reproveth for
+it, so doth Christ himself teach us
+of the Light, <HI>John 3. 20. For every
+one that doth Evil hateth the Light,
+neither cometh unto the Light, lest his
+Deeds should be reproved.</HI> And the
+Apostle <HI>Paul</HI> plainly saith, <HI>Eph. 5.
+13. But all things that are reproved
+are made manifest by the Light;</HI> there∣fore
+there are not two distinct Lights
+<PB N="33" REF="24"/>
+within, but one and the same <HI>Ma∣nifesting,
+Reproving,</HI> and <HI>Teaching</HI>
+Light within. And this the Apostle
+<HI>John</HI> in his first Epistle makes plain,
+beyond all Exception, to all Consi∣derate
+People: <HI>First,</HI> In that he calls
+God, <HI>Light,</HI> Chap. 1. 5. <HI>Secondly,</HI>
+In that he puts no <HI>Medium,</HI> or <HI>Third</HI>
+thing between that <HI>Light,</HI> and <HI>Dark∣ness,</HI>
+Verse 6. <HI>If we say, we have Fel∣lowship
+with him, and walk in Dark∣ness,
+we Lye,</HI> &amp;c. Intimating, that
+Men must walk either in <HI>Light</HI> or
+<HI>Darkness,</HI> and not in a <HI>Third,</HI> or o∣ther
+State or Region. I am sure,
+that which manifests and reproves
+Darkness <HI>cannot be Darkness.</HI> This
+all Men must confess.</P>
+</DIV2>
+<DIV2 N="7" TYPE="section">
+<P>§. 7. And, as if the Apostle <HI>John</HI>
+would have anticipated their Obje∣ction,
+<HI>viz. 'Tis true, your Light with∣in
+reproves for Evil, but it is not there∣fore
+the Divine Light, which leads in∣to
+higher things, and which comes by
+the Gospel;</HI> he thus expresseth him∣self,
+1 <HI>John Ch. 2. 8, 9. The Darkness is
+<PB N="34" REF="25"/>
+and the true Light now shineth. He
+that saith he is in the Light, and hateth
+his Brother, is in Darkness even until
+now;</HI> which is not another Light then
+that mentioned before, <HI>Chap.</HI> 1. For
+as Light is put there, in Opposition to
+Darkness, so Light here, is put <HI>in
+Opposition</HI> to Darkness. And as the
+<HI>Darkness</HI> is the <HI>same,</HI> so must the
+<HI>Light</HI> be the <HI>same.</HI> Wherefore we
+may plainly see, that it is <HI>not another
+Light,</HI> then that which reproves a
+Man for <HI>hating his Brother,</HI> which
+brings a Man <HI>into Fellowship with God,
+and to the Blood of cleansing,</HI> as the
+next Verse speaks: Therefore that
+Light which reproveth a Man for ha∣ting
+his Brother, <HI>is of a Divine and
+Efficacious Nature.</HI> In short, That
+Light which is opposite to, and re∣proves
+Spiritual Darkness, in Man
+and Woman, is a <HI>Spiritual</HI> Light;
+but such a Light is that which we
+Confess, Testifie to, and Maintain:
+Therefore it is a <HI>Spiritual Light.</HI> It
+is also worth our Notice, that the A∣postle
+<PB N="35" REF="25"/>
+useth the same Manner of Ex∣pression
+here, <HI>Chap.</HI> 2. 8. The <HI>True
+Light</HI> shineth, that he doth in his E∣vangelical
+History, <HI>Chap.</HI> 1. 9. That
+was the <HI>True Light;</HI> intimating the
+<HI>same</HI> Divine Word, or <HI>True</HI> Light
+<HI>now</HI> shineth; and that it is the same
+<HI>True Light</HI> in his account, that <HI>repro∣veth</HI>
+such as <HI>hate their Brethren:</HI> Con∣sequently,
+that Light that so repro∣veth
+them, is the <HI>True</HI> Light. And
+strange it is, that Christ and his Dis∣ciples,
+but especially his beloved One,
+should so often make that very Light,
+which <HI>stoops</HI> to the <HI>lowest</HI> step of Im∣morality,
+and to the reproof of the
+<HI>grossest</HI> Evil, to be no other than the
+<HI>same</HI> Divine <HI>Light,</HI> in a <HI>farther</HI> degree
+of Manifestation, which brings such
+as follow it to the <HI>Light of Life,</HI> to
+the <HI>Blood of Cleansing,</HI> and to have
+<HI>fellowship with God and one with ano∣ther.</HI>
+Nay, not only so, but the A∣postle
+makes a Mans being a <HI>Child of
+God,</HI> to depend upon his <HI>Answering</HI>
+of this Light in a <HI>palpable</HI> and common
+<PB N="36" REF="26"/>
+Case, <HI>viz. not hating of his Brother:</HI>
+And that yet any should shut their
+Eyes so fast against beholding the
+Virtue of it, as to conclude it a <HI>Na∣tural
+and Insufficient Light,</HI> is both
+<HI>Vnscriptural</HI> and <HI>Vnreasonable.</HI> Shall
+we slight it because we come so ea∣sily
+by it, and it is so Familiar and
+Domestick to us? Or make its being
+so common an Argument to under∣value
+so Inestimable a Mercy? What
+is more common than <HI>Light</HI> and <HI>Air,</HI>
+and <HI>Water?</HI> And should we therefore
+contemn them, or prize them? <HI>Prize</HI>
+them certainly, as what we cannot
+live, nor live <HI>comfortably,</HI> without.
+The more general the Mercy is, the
+greater, and therefore the greater
+Obligation upon Man to live humbly
+and thankfully for it. And to those
+alone that do so, are its Divine Se∣crets
+revealed.</P>
+</DIV2>
+</DIV1>
+<DIV1 N="5" TYPE="chapter">
+<PB N="37" REF="26"/>
+<HEAD>CHAP. V.</HEAD>
+<HEAD TYPE="sub">Sect. 1. The Light, the
+same with the Spirit.
+It is of God; proved by
+its Properties. Sect. 2.
+The Properties of the
+Spirit compared with
+those of the Light. Sect.
+3. The Light and Grace
+flow from the same
+Principle, proved by
+their agreeing Proper∣ties.
+Sect. 4. An Ob∣jection
+Answer'd. Sect.
+<PB N="38" REF="27"/>
+5. Difference in Mani∣festation,
+or Operation,
+especially in Gospel-Times,
+but not in Prin∣ciple;
+Illustrated.</HEAD>
+<DIV2 N="1" TYPE="section">
+<P>Obj. <HI>BUt some may say,</HI> we could
+willingly allow to the Spirit
+and Grace of God, which seemed to be
+the peculiar Blessing of the New and Se∣cond
+Covenant, and the Fruit of the
+coming of Christ, all that which you a∣scribe
+to the <HI>Light within;</HI> but except
+it appeared to us that this <HI>Light</HI> were the
+same in Nature with the <HI>Spirit and
+Grace</HI> of God, we cannot easily bring
+our selves to believe what you say in fa∣vour
+of the Light within.</P>
+<P><HI>Answ.</HI> This <HI>Objection,</HI> at first look,
+seems to carry weight with it: But,
+upon a just and serious Review, it will
+appear to have more Words than
+Matter, Show than Substance: Yet
+<PB N="39" REF="27"/>
+because it gives occasion to solve scru∣ples,
+that may be flung in the way
+of the Simple, I shall attend it
+throughout. I say then, if it appear
+that the <HI>Property's</HI> ascribed to the
+<HI>Light within,</HI> are the same with those
+that are given to the Holy <HI>Spirit</HI> and
+<HI>Grace</HI> of God; and that those several
+Terms or Epithytes, are only to ex∣press
+the divers Manifestations or O∣perations
+of one and the <HI>same Princi∣ple,</HI>
+then it will not, it cannot be
+denied, but this Light within, is <HI>Di∣vine</HI>
+and <HI>Efficacious,</HI> as we have As∣serted
+it. Now that it is of the same
+Nature with the Spirit and Grace of
+God, and tends to the same End,
+which is to bring People to God; let
+the <HI>Properties</HI> of the <HI>Light</HI> be com∣par'd
+with those of the <HI>Spirit</HI> and
+<HI>Grace</HI> of God. I say, they are the
+same, in that, First, The Light pro∣ceeds
+from the <HI>one Word,</HI>
+and <HI>one Life</HI> of that <HI>one
+Word,</HI><NOTE PLACE="marg">John 1. 4.</NOTE> which was <HI>with</HI>
+God and was <HI>God.</HI><NOTE PLACE="marg">John 1. 9.</NOTE> Secondly, It is
+<PB N="40" REF="28"/>
+<HI>Vniversal,</HI> it lighteth <HI>every</HI> Man.
+Thirdly, <HI>It giveth the Knowledge of
+God and Fellowship with</HI> him, <HI>Rom. 1.
+19. John 3. 21. 1 John</HI> 1. 5, 6.
+Fourthly, It <HI>manifesteth and reproveth
+Evil,</HI> John 3. 20. <HI>Eph.</HI> 5. 13. Fifth∣ly,
+<HI>It is made the Rule and Guide of
+Christian Walking,</HI> Psalm 43. 3. <HI>John
+8. 12. Eph.</HI> 5. 13, 15. Sixthly, <HI>It is
+the Path</HI> for Gods People to go in,
+<HI>Psalm 119. 105. Prov. 4. 18. Isa. 2.
+5. 1 John 1. 7. Rev. 24. 23. and the
+Nations of them that are saved shall
+walk in the Light of the (Lamb.)</HI>
+Lastly, It is the <HI>Armour</HI> of the Chil∣dren
+of God against <HI>Satan,</HI> Psalm 27.
+1. <HI>The Lord is my Light, whom shall I
+fear,</HI> Rom. 13. 12. <HI>Let us put on the
+Armour of Light.</HI></P>
+</DIV2>
+<DIV2 N="2" TYPE="section">
+<P>§. 2. Now let all this be compar'd
+with the <HI>Properties</HI> of the <HI>Holy Spi∣rit,</HI>
+and their Agreement will be ve∣ry
+manifest. First, <HI>It proceedeth from
+God,</HI> because it is the Spirit of God,
+<HI>Rom.</HI> 6. 11. Secondly, It is <HI>Vniver∣sal.</HI>
+<PB N="41" REF="28"/>
+It <HI>strove</HI> with the Old World,
+<HI>Gen.</HI> 6. 3. Then to be sure with the
+new One: <HI>Every one hath a measure
+of it given to profit withal,</HI> 1 Cor. 12.
+7. Thirdly, <HI>It revealeth God,</HI> Job
+32. 8. 1 <HI>Cor.</HI> 2. 10, 11. Fourthly,
+<HI>It reproveth Sin,</HI> John 16. 8. Fifth∣ly,
+<HI>It is a Rule and Guide for the Chil∣dten
+of God to walk by,</HI> Rom. 8. 14.
+Sixthly, It is also the <HI>Path</HI> they are
+to walk in, <HI>Rom. 8. 1. Gal. 5. 15.
+Walk in the Spirit.</HI> Lastly, This is
+not all, it is likewise the <HI>Spiritual
+Weapon</HI> of a true Christian, <HI>Eph. 6.
+17. Take the Sword of the Spirit, which
+is the Word of God.</HI> After this, I
+hope none will deny that <HI>this</HI> Light
+<HI>and this</HI> Spirit must be of <HI>one and the
+same</HI> Nature, that work <HI>one and the
+same Effect,</HI> and tend evidently to
+<HI>one and the same Holy End.</HI></P>
+</DIV2>
+<DIV2 N="3" TYPE="section">
+<P>§. 3. And what is said of the <HI>Light</HI>
+and <HI>Spirit,</HI> may also, very well be
+said of the <HI>Light</HI> and <HI>Grace</HI> of God;
+<PB N="42" REF="29"/>
+in that, First, The <HI>Grace</HI> floweth
+from Christ the Word
+that took Flesh as well
+as the <HI>Light;</HI><NOTE PLACE="marg">John 1. 4, 9, 14, 16.</NOTE> for as in
+him was Life, and that Life the <HI>Light</HI>
+of Men, so he was <HI>full of Grace and
+Truth, and of his fulness have all we re∣ceived,
+and Grace for Grace.</HI> Second∣ly,
+It is <HI>Vniversal;</HI> both from this
+Text, and what the
+Apostle to <HI>Titus</HI> teach∣eth;<NOTE PLACE="marg">Tit. 2. 11, 12.</NOTE>
+<HI>For the Grace of
+God that bringeth Salvation, hath ap∣peared
+to all Men.</HI> Thirdly, It <HI>mani∣festeth
+Evil,</HI> for if it teaches to <HI>deny</HI>
+Ungodliness and worldly Lusts, it
+must needs detect them, and so says
+the Text. Fourthly, <HI>It revealeth
+Godliness, and consequently it must ma∣nifest
+God.</HI> Fifthly, <HI>It is an Instru∣ctor
+and Guide;</HI> for, says the <HI>Apostle,
+It teaches to deny Vngodliness and world∣ly
+Lusts, and to live Soberly, Righteous∣ly
+and Godly in this present World, and
+herein is a Rule of Life,</HI> Tit. 2. 11, 12.
+<PB N="43" REF="29"/>
+Sixthly, <HI>It is to all that receive it, all
+that they can need or desire,</HI> 2 Cor. 12.
+9. <HI>My Grace is sufficient for thee.</HI> An
+<HI>high Testimony,</HI> from <HI>Heaven,</HI> to the
+Power of this Teaching and Saving
+Grace, under the strongest Tempta∣tions.</P>
+</DIV2>
+<DIV2 N="4" TYPE="section">
+<P><HI>§. 4. Obj.</HI> But there is little men∣tion
+made of the Spirit, and none of
+the Grace, before Christs coming, and
+therefore the Spirit, as spoken of in the
+Writings of the New Testament, and
+especially the Grace, must be another,
+and a nobler thing than the Light with∣in.</P>
+<P><HI>Ans.</HI> By no means another Thing,
+but <HI>another</HI> Name, from <HI>another Ma∣nifestation</HI>
+or <HI>Operation,</HI> of the <HI>same</HI>
+Principle. It is called Light from
+the <HI>Distinction and Discerning</HI> it gives.
+<HI>Let there be Light, and there was Light,</HI>
+said God in the beginning of the Old
+World; so there is first Light in the
+<PB N="44" REF="30"/>
+beginning of the New Creation of
+God in Man. It is called <HI>Spirit,</HI> be∣cause
+it <HI>giveth Life, Sense, Motion,</HI>
+and <HI>Vigour:</HI> And it is as often menti∣oned
+in the Writings of the <HI>Old</HI> as
+<HI>New</HI> Testament; which every <HI>Rea∣der</HI>
+may see, if he will but please to
+look into his Scripture-<HI>Concordance.</HI>
+Thus <HI>Gods Spirit strove,</HI> with the
+<HI>Old World,</HI> Gen. 6. 3. and with <HI>Isra∣el,</HI>
+in the VVilderness, <HI>Neh.</HI> 9. 30.
+and <HI>David</HI> ask'd, in the Agony of his
+Soul, <HI>Whither shall I go from thy Spi∣rit?</HI>
+Psalm 139. 7. and the Prophets
+often felt it. It is stiled Grace, not
+from its being another Principle, but
+because it was a <HI>fuller Dispensation</HI> of
+the Virtue and Power of the Same
+Divine Principle: And that being
+purely God's Favour and Mercy, and
+not Mans Merit, is aptly and deser∣vedly
+called the <HI>Grace, Favour</HI> or
+<HI>Goodwill</HI> of God to undeserving Man.
+The <HI>Wind</HI> does not always blow <HI>fresh,</HI>
+nor <HI>Heaven</HI> send down its Rain <HI>free∣ly,</HI>
+<PB N="45" REF="30"/>
+nor the <HI>Sun</HI> shine forth <HI>clearly;</HI>
+shall we therefore say, it is not of the
+<HI>same kind</HI> of Wind, <HI>Rain</HI> or <HI>Light,</HI>
+when it Blows, Rains or Shines but
+a <HI>little,</HI> as when it Blows, Rains or
+Shines <HI>much?</HI> It is certainly the same
+in <HI>Nature</HI> and <HI>Kind;</HI> and so is this
+blessed <HI>Principle,</HI> under all its seve∣ral
+Dispensations, Manifestations
+and Operations, for the Benefit of
+Mans Soul, ever since th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> World
+began.</P>
+</DIV2>
+<DIV2 N="5" TYPE="section">
+<P>§. 5. But this is most <HI>freely, hum∣bly</HI>
+and <HI>thankfully</HI> acknowledged by
+us, that the <HI>Dispensation</HI> of the <HI>Go∣spel,</HI>
+was the <HI>clearest, fullest,</HI> and <HI>no∣blest</HI>
+of all other; <HI>both with regard</HI> to
+the coming of Christ in the <HI>Flesh,</HI> and
+being our one Holy Offering to God
+for Sin, through the Eternal Spirit;
+and the breaking forth of his Light,
+the Effusion of his Spirit, and Ap∣pearance
+of his Grace, in and to <HI>Man,</HI>
+in a <HI>more excellent manner,</HI> after his
+<PB N="46" REF="31"/>
+Ascention. For though it was not
+another Light, or Spirit, then that
+which he had given to Man in for∣mer
+Ages, yet it was another and
+<HI>greater Measure;</HI> and that is the Pri∣viledge
+of the Gospel above former
+Dispensations. What before shined
+but <HI>dimly,</HI> shines since with <HI>great
+Glory.</HI> Then it appear∣ed
+but <HI>darkly,</HI><NOTE PLACE="marg">2 Cor. 3. 18.</NOTE> now with
+<HI>open Face.</HI> Types, Fi∣gures
+and Shadows <HI>Vailed,</HI> and made
+its appearances look <HI>low</HI> and <HI>faint;</HI>
+but in the Gospel Time,
+the Vail is <HI>Rent,</HI><NOTE PLACE="marg">John 1. 5, 17.</NOTE> and
+the <HI>Hidden</HI> Glory <HI>mani∣fest.</HI>
+It was under the Law but as a
+Dew, or small Rain, but under the
+Gospel, it may be said to be poured
+out upon Men. According to that
+Gracious and Notable <HI>Promise</HI> of
+God, by the Prophet
+<HI>Joel,</HI><NOTE PLACE="marg">Joel 2. 28.</NOTE> <HI>In the latter Days,
+I will pour out of my Spi∣rit
+upon all Flesh.</HI> Thus we say, when
+<PB N="47" REF="31"/>
+it Rains plentifully, look how it
+pours. So God <HI>Augments</HI> his Light,
+Grace and Spirit to these latter Days.
+They shall not have it <HI>sparingly,</HI> and
+by small Drops, but <HI>fully and freely,</HI> and
+<HI>overflowingly</HI> too. And thus <HI>Peter,</HI>
+that deep and excellent Apostle, ap∣plies
+that Promise in <HI>Joel,</HI> on the Day
+of <HI>Pentecost,</HI> as the beginning of the
+accomplishment of it. This is Grace,
+and Favour, and Goodness <HI>indeed.</HI>
+And therefore well may this <HI>Brighter</HI>
+Illumination, and <HI>Greater</HI> Effusion of
+the Spirit, be called Grace; for as
+the coming of the Son excelled that
+of the Servant, so did the Manifesta∣tion
+of the Light and Spirit of God,
+since the coming of Christ, excell that
+of the foregoing Dispensations; yet
+ever sufficient to Salvation to all those
+that walked in it. This is our <HI>Sence</HI>
+of the <HI>Light, Spirit,</HI> and <HI>Grace</HI> of
+God: And by what is said, it is evi∣dent
+they are <HI>one</HI> and the <HI>same Princi∣ple,</HI>
+and that he that has <HI>Light,</HI> need
+<PB N="48" REF="32"/>
+not <HI>want</HI> the Spirit or Grace of God,
+if he will but receive it, in the Love
+of it: For the very Principle that is
+<HI>Light</HI> to show him, is also <HI>Spirit,</HI> to
+quicken him, and <HI>Grace,</HI> to Teach,
+Help, and Comfort him. It is <HI>suffici∣ent</HI>
+in all Circumstances of Life to
+them that diligently Mind and obey
+it.</P>
+</DIV2>
+</DIV1>
+<DIV1 N="6" TYPE="chapter">
+<PB N="49" REF="32"/>
+<HEAD>CHAP. VI.</HEAD>
+<HEAD TYPE="sub">Sect. 1. An Objection An∣swer'd.
+All are not good,
+though all are Lighted.
+Sect. 2. Another Ob∣jection
+Answer'd, that
+Gospel Truths were
+known before Christ's
+coming. Sect. 3. A∣nother.
+The Gentiles
+had the same Light, tho'
+not with those Advanta∣ges:
+<PB N="50" REF="33"/>
+Prov'd from Scrip∣ture.</HEAD>
+<DIV2 N="1" TYPE="section">
+<P>§. 1. Obj. BVt some may yet say,
+if it be as you declare,
+how comes it, that all who are enlight∣ned
+are not so good as they should be; or,
+as you say, this would make them?</P>
+<P><HI>Answ.</HI> Because People don't re∣ceive
+and obey it. All Men have
+<HI>Reason,</HI> but all Men are not <HI>Reasona∣ble.</HI>
+Is it the fault of the <HI>Grain,</HI> in
+the <HI>Garnary</HI> that it yields no increase,
+or of the <HI>Talent</HI> in the Napkin, that
+it is not improved? It is plain a <HI>Ta∣lent</HI>
+was given; and as plain that it
+was <HI>improveable;</HI> both because the <HI>like</HI>
+Talents were actually improved by
+others, and that the Just Judge ex∣pected
+his <HI>Talent</HI> with Advantage,
+which else, to be sure, he would ne∣ver
+have done. Now when our Ob∣jecters
+will tell us, whose fault it was
+the <HI>Talent</HI> was not improved, we
+shall be ready to tell them, why the
+<PB N="51" REF="33"/>
+unprofitable Servant was not so good,
+as he should have been. The Blind
+must not <HI>blame</HI> the Sun, nor Sinners
+tax the Grace of <HI>Insufficiency.</HI> 'Tis
+Sin that <HI>darkens</HI> the Eye, and <HI>hardens</HI>
+the Heart, and that <HI>hinders</HI> good
+things from the Sons of Men. <HI>If we
+do his Will, we shall know of his Divine
+Doctrine,</HI> so Christ tells us. Men, not
+living to what they know, cannot
+blame God, that they know no more.
+The unfruitfulness is in <HI>us,</HI> not in the
+<HI>Talent.</HI> 'Twere well indeed, that
+this were laid to Heart. But, alas!
+Men are too apt to follow their sensu∣al
+Appetites, rather then their reason∣able
+Mind, which renders them Bru∣tal
+instead of Rational. For the <HI>Rea∣sonable</HI>
+part of a Man, is his <HI>spiritual</HI>
+part, and that guided by the Divine
+<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, or <HI>Word,</HI> which <HI>Tertullian</HI> in∣terprets
+<HI>Reason</HI> in the most <HI>excellent</HI>
+Sence, makes Man <HI>truly Reasonable,</HI>
+and then it is that Man comes to offer
+up himself to God a reasonable Sacri∣fice.
+Then a <HI>Man indeed;</HI> a <HI>compleat
+<PB N="52" REF="34"/>
+Man:</HI> Such a Man as <HI>God made,</HI> when
+he made Man in his <HI>own Image,</HI> and
+gave him <HI>Paradice</HI> for his Habitati∣on.</P>
+</DIV2>
+<DIV2 N="2" TYPE="section">
+<P>§. 2. Obj. <HI>But some yet Object,</HI>
+If Mankind had always this Principle,
+how comes it that Gospel Truths were not
+so fully known before the coming of Christ
+to those that were obedient to it.</P>
+<P><HI>Answ.</HI> Because a <HI>Child</HI> is not a
+<HI>grown</HI> Man, nor the Beginning the
+<HI>End;</HI> and yet He that is the <HI>Begin∣ning,</HI>
+is also the <HI>End:</HI> The Principle
+is the <HI>same,</HI> though not the Manife∣station.
+As the VVorld has many
+Steps and Periods of Time towards
+its End, so hath <HI>Man</HI> to his Perfecti∣on.
+They that are faithful to what
+they know of the Dispensation of
+their own Day, shall hear the Hap∣py
+welcome of <HI>well done good and faith∣ful
+Servant.</HI> And yet many of God's
+People in those Days had a Prospect
+of the <HI>Glory</HI> of the <HI>latter</HI> Times, the
+<HI>Improvement</HI> of Religion, the <HI>Happi∣ness</HI>
+of the Church of God.</P>
+<P><PB N="53" REF="34"/>
+This we see in the
+<HI>Prophesie</HI> of <HI>Jacob</HI> and
+<HI>Moses,</HI><NOTE PLACE="marg">Gen. 49. 10.</NOTE> concerning the
+<HI>Restoration</HI> of <HI>Israel,</HI><NOTE PLACE="marg">Deut. 18. 15, 18.</NOTE> by <HI>Christ.</HI> So
+<HI>David</HI> in many of his excellent <HI>Psalms,</HI>
+expressing most sensible and extraor∣dinary
+Injoyments, as well as <HI>Pro∣phesies.</HI>
+Particularly his 2, 15, 18,
+22, 23, 25, 27, 32, 36, 37, 42, 43, 45,
+51, 84, <HI>&amp;c.</HI> The <HI>Prophets</HI> are full of
+it, and for that Reason have their
+Name; particularly <HI>Isaiah,</HI> Chap. 2.
+9, 11, 25, 28, 32, 35, 42, 49, 50, 51,
+52, 53, 54, 59, 60, 61, 63, 65, 66. <HI>Je∣remiah,</HI>
+also Chap. 23, 30, 31, 33.
+<HI>Ezekiel,</HI> Chap. 20, 34, 36, 37. <HI>Daniel</HI>
+Chap. 8, 9, 10, 11, 12. <HI>Hosea,</HI> Chap.
+1, 3. <HI>Joel,</HI> Chap. 2, 3. <HI>Amos,</HI> Chap.
+9. <HI>Micah,</HI> Chap. 4, 5. <HI>Zachariah,</HI> Chap.
+6, 8, 9, 11, 13, 14. <HI>Malachy,</HI> Chap.
+3, 4. This was not another Princi∣ple,
+though another Manifestation of
+the same Principle, nor what is com∣mon,
+but particular and extraordi∣nary
+in the Reason of it.</P>
+<P>It was the same Spirit that came
+<PB N="54" REF="35"/>
+upon <HI>Moses,</HI> which came upon <HI>John</HI>
+the <HI>Baptist,</HI> and it was also the same
+Spirit that came, upon <HI>Gideon,</HI> and
+<HI>Sampson,</HI> that fell upon <HI>Peter</HI> and <HI>Paul;</HI>
+but it was not the same Dispensation
+of that Spirit. It hath been the <HI>Way</HI>
+of God, to visit and appear to Men
+according to their States and Condi∣tions,
+and as they have been prepa∣red
+to receive him, be it more out∣wardly
+or inwardly, sensibly or spi∣ritually.
+There is no Capacity too
+low or too high for this Divine Prin∣ciple:
+For as it made and knows all,
+so it reaches to all People. It ex∣tends
+to the meanest, and the highest
+cannot subsist without it. Which
+made <HI>David</HI> break forth in his Ex∣postulations
+with God, <HI>Whither shall
+I go from thy Spirit, or whither shall I
+flee from thy Presence?</HI> Psalm 139. 7,
+8, 9, 10. Implying it was <HI>every where,</HI>
+though not every where, nor at eve∣ry
+time <HI>alike.</HI> If I go to <HI>Heaven,</HI>
+to <HI>Hell,</HI> or <HI>beyond the Seas, even there
+shall thy Hand lead me, and thy Right
+<PB N="55" REF="35"/>
+Hand shall hold me.</HI> That is, there
+will this Divine <HI>Word,</HI> this Light of
+Men, this <HI>Spirit</HI> of God, find me,
+lead me, help me and comfort me.
+For it is with me where ever I am,
+and where ever I go, in one respect
+or other; <HI>Prov. 6. 22. When thou
+goest, it shall lead thee; when thou sleep∣est,
+it shall keep thee; and when thou
+awakest, it shall talk with thee:</HI> And I
+can no more get rid of it, if I would
+then of my self or my own Nature;
+so present it is with me, and so close
+it sticks unto me. <HI>Isa. 43. 2. When
+thou passest through the Waters, I will
+be with thee; and through the Rivers,
+they shall not overflow thee; when thou
+walkest through the Fire, thou shalt not
+be burnt, neither shall the Flame kindle
+upon thee. David</HI> knew it, and
+therefore had a great value for it.
+<HI>In thy Light shall we see Light,</HI> or we
+shall be enlightned by thy Light.
+<HI>Thou wilt Light my Can∣dle,</HI><NOTE PLACE="marg">Psalm 34. 9.</NOTE>
+<HI>the Lord my God,</HI><NOTE PLACE="marg">Psalm 18. 28.</NOTE>
+<HI>will lighten my Darkness.</HI></P>
+<P><PB N="56" REF="36"/>
+Again, <HI>The Lord is my
+Light,</HI><NOTE PLACE="marg">Psalm 27. 1.</NOTE> <HI>whom shall I fear.</HI>
+It was his <HI>Armour</HI> against all Dan∣ger.
+It took Fear away from him,
+and he was <HI>undaunted,</HI> because he
+was safe in the way of it. Of the same
+blessed <HI>Word</HI> he says elsewhere, <HI>It is
+a Lamp unto my Feet, and a Lanthorn
+to my Paths.</HI> In short, a Light to
+him in his way to Blessedness.</P>
+</DIV2>
+<DIV2 N="3" TYPE="section">
+<P><HI>§. 3. Obj.</HI> But if the <HI>Jews</HI> had this
+Light it does not follow that the <HI>Gen∣tiles</HI>
+had it also; but by your Doctrine all
+have it.</P>
+<P><HI>Answ.</HI> Yes, and it is the Glory of
+this Doctrine which we profess, that
+Gods Love is therein held forth to
+<HI>All.</HI> And besides the Texts cited in
+general, and that are as Full and Po∣sitive
+as can be exprest, the Apostle
+is very Particular in the second Chap∣ter
+of his Epistle to the <HI>Romans,
+That the Gentiles ha∣ving
+not the Law did by
+Nature the things con∣tained
+in the Law,</HI><NOTE PLACE="marg">Rom. 2. 7. unto the 17.</NOTE> <HI>and were a Law un∣to
+<PB N="57" REF="36"/>
+themselves.</HI> That is, they had not
+an outward Law, <HI>circumstanced</HI> as
+the <HI>Jews</HI> had; but <HI>they had the Works
+of the Law written in their Hearts</HI>
+and therefore might well be a Law
+to themselves, that had the Law <HI>in
+themselves.</HI> And so had the <HI>Jews</HI>
+too, but then they had greater out∣ward
+helps to quicken their Obedi∣ence
+to it; such as God afforded not
+unto any other Nation: And there∣fore
+the Obedience of the <HI>Gentiles</HI> or
+<HI>Vncircumcision</HI> is said to be by <HI>Na∣ture,</HI>
+or <HI>Naturally,</HI> because it was
+without those <HI>Additional,</HI> External,
+and extraordinary Ministries and
+Helps which the <HI>Jews</HI> had to provoke
+them to their Duty. Which is so
+far from lessening the obedient <HI>Gen∣tiles,</HI>
+that it exalts them in the Apo∣stles
+Judgment; because though they
+had less Advantages then the <HI>Jews,</HI>
+yet the <HI>Work of the Law written in
+their Hearts</HI> was made so much the
+more evident by the good Life they
+lived in the World. He adds, <HI>their
+<PB N="58" REF="37"/>
+Consciences bearing Witness</HI> (or as it
+may be rendred, witnessing with
+them) <HI>and their Thoughts, mean while,
+accusing or else excusing one another, in
+the Day when God shall judge the secrets
+of all Hearts by Jesus Christ, according
+to my Gospel.</HI> Which presents us
+with four things to our Point, and
+worth our serious Reflection. <HI>First,</HI>
+That the <HI>Gentiles</HI> had the Law writ∣ten
+<HI>in</HI> their Hearts. <HI>Secondly,</HI> That
+their Conscience was an <HI>allowed</HI> Wit∣ness
+or Evidence about Duty. <HI>Third∣ly,</HI>
+That the Judgment made there∣by
+shall be <HI>confirmed</HI> by the Apostles
+Gospel at the great Day, and there∣fore
+Valid and Irreversible. <HI>Fourth∣ly,</HI>
+That this could not be, if the
+<HI>Light</HI> of this Conscience were not a
+<HI>Divine</HI> and <HI>Sufficient</HI> Light: For <HI>Con∣science,</HI>
+truly speaking, is no other
+then the <HI>Sence a Man hath, or Judge∣ment
+he maketh of his Duty to God, ac∣cording
+to the Vnderstanding God gives
+him of his Will.</HI> And that no ill,
+but a true and scriptural Use may be
+<PB N="59" REF="37"/>
+made of this Word <HI>Conscience,</HI> I li∣mit
+it to <HI>Duty,</HI> and that, to a Virtu∣ous
+and Holy Life as the Apostle evi∣dently
+doth, about which we cannot
+miss, or dispute, read <HI>verse</HI> 7, 8, and
+9. It was to that therefore the Apo∣stles
+of our Lord Jesus Christ desired
+to be made <HI>manifest,</HI> for they dared
+to stand the Judgment of <HI>Conscience</HI>
+in reference to the Doctrine they
+preach'd and prest upon Men. The
+Beloved Disciple also makes it a <HI>Judge</HI>
+of Man's present and future State, un∣der
+the Term <HI>Heart, For if our Heart
+condemn us, God is
+greater then our Heart,</HI><NOTE PLACE="marg">1 John 3.21, 22</NOTE>
+<HI>and knoweth all things. Beloved, if our
+Heart condemn us not, then have we
+Confidence towards God.</HI> Plain and
+strong Words: And what were they
+about, but whether we Love, God,
+in Deed and in Truth: And how must
+that appear? VVhy in <HI>keeping his
+Commandments,</HI> which is living up to
+what we know. And if any desire
+to satisfie themselves farther of the
+<PB N="60" REF="38"/>
+<HI>Divinity</HI> of the <HI>Gentiles,</HI> let them read
+<HI>Plato, Seneca, Plutarch, Epictetus,
+Marcus Aurelius Antoninus,</HI> and the
+like <HI>Gentile</HI> VVriters. They will al∣so
+find many of their sayings, colle∣cted
+in the first Part of a Book called
+the <HI>Christian Quaker,</HI> and compared
+with the Testimonies of Scripture,
+not for their Authority, but agreea∣bleness.
+In them they may discern
+many Excellent Truths, and taste
+great <HI>Love</HI> and <HI>Devotion</HI> to Virtue:
+A fruit that grows upon no Tree, but
+that of Life in no Age or Nation.
+Some of the most Eminent VVriters
+of the first Ages, such as <HI>Justin Mar∣tyr,
+Origen, Clemens Alexandrinus,</HI>
+&amp;c. bore them great Respect, and
+thought it no lessening to the Repu∣tation
+of Christianity, that it was
+defended in many <HI>Gentile</HI> Authors,
+as well as that they used and urged
+them, to engage their Followers to
+the Faith, as <HI>Paul</HI> did the <HI>Athenians</HI>
+with their <HI>own Poets.</HI></P>
+</DIV2>
+</DIV1>
+<DIV1 N="7" TYPE="chapter">
+<PB N="61" REF="38"/>
+<HEAD>CHAP. VII.</HEAD>
+<HEAD TYPE="sub">Sect. 1. An Objection An∣swer'd
+about the various
+Dispensations of God:
+The Principle the same.
+Sect. 2. God's Work of
+a Piece, and Truth the
+same under divers Shapes.
+Sect. 3. The Reason of
+the prevalency of Idola∣try.
+Sect. 4. The Qua∣kers
+Testimony the best
+Antidote against it, viz.
+walking by a Divine
+<PB N="62" REF="39"/>
+Principle in Man. Sect.
+5. It was God's End in
+all his Manifestations
+that Man might be God's
+Image and Delight.</HEAD>
+<DIV2 N="1" TYPE="section">
+<P><HI>§.</HI> 1. Obj. <HI>BUt it may be said,</HI>
+If it were one Princi∣ple,
+why so many Modes and Shapes of
+Religion, since the World began? For
+the <HI>Patriarchal, Mosaical and Chri∣stian,</HI>
+have their great differences; to
+say nothing of what has befallen the Chri∣stian,
+since the Publication of it to the
+World.</P>
+<P><HI>Answ.</HI> I know not properly
+they may be called divers Religions,
+that assert the true God for the <HI>Ob∣ject</HI>
+of Worship; the Lord <HI>Jesus
+Christ,</HI> for the <HI>only Saviour;</HI> and the
+Light, or Spirit of <HI>Christ,</HI> for the great
+<HI>Agent</HI> and <HI>Means</HI> of Man's Conversion
+and Eternal Felicity, any more than
+<PB N="63" REF="39"/>
+Infancy, Youth, and Manhood make
+<HI>three Men,</HI> instead of <HI>three growths</HI> or
+periods of Time, of one and the same
+Man. But passing that, the many
+Modes or Ways of Gods appearing
+to Men, arise, as hath been said,
+from the divers States of Men, in all
+which, it seems to have been his
+main design to prevent <HI>Idolatry</HI> and
+<HI>Vice,</HI> by directing their Minds to the
+<HI>true Object</HI> of Worship, and pressing
+<HI>Virtue</HI> and <HI>Holiness.</HI> So that though
+mediately he spoke to the <HI>Patriarchs,</HI>
+mostly by <HI>Angels</HI> in the fashion of
+Men, and by them to their Families,
+over and above the <HI>Illumination</HI> in
+themselves; so the <HI>Prophets,</HI> for the
+most Part, by the Revelation of the
+Holy Ghost <HI>in them,</HI> and <HI>by them</HI> to
+the <HI>Jews:</HI> And since the Gospel Dis∣pensation,
+by his Son, both Exter∣nally,
+<HI>by his coming in the Flesh,</HI> and
+Internally, by his <HI>spiritual Appearance
+in the Soul,</HI> as he is the <HI>great Light of
+the World:</HI> Yet all its flowings medi∣ately
+through others, has still been
+<PB N="64" REF="40"/>
+from the same Principle, co-opera∣ting
+with the Manifestation of it <HI>im∣mediately</HI>
+in Man's own Particular.</P>
+</DIV2>
+<DIV2 N="2" TYPE="section">
+<P>§. 2. This is of great weight, for
+our Information and Incouragement,
+that God's Work, in reference to
+Man, is <HI>all of a Piece,</HI> and, in it self,
+lies in a narrow Compass, and that
+his Eye has ever been upon the <HI>same
+thing</HI> in all his Dispensations, <HI>viz.</HI> to
+make <HI>Men truly Good,</HI> by planting his
+Holy Awe and Fear in their Hearts:
+Though he has condescended, for
+the hardness and darkness of Men's
+Hearts, to approach and spell out his
+Holy Mind to them, by low and car∣nal
+ways, as they may appear to our
+more Enlightned Understandings:
+Suffering <HI>Truth</HI> to put on <HI>divers</HI> sorts
+of <HI>Garments,</HI> the better to reach to
+the low State of Men, to engage them
+from false Gods and ill Lives; seeing
+them <HI>sunk</HI> so much below their <HI>nobler</HI>
+Part, and what he made them, that,
+like brute Beasts, they knew not their
+own Strength and Excellency.</P>
+</DIV2>
+<DIV2 N="3" TYPE="section">
+<PB N="65" REF="40"/>
+<P>§. 3. And if we do but well consi∣der
+the Reason of the
+Prevalency of <HI>Idolatry,</HI><NOTE PLACE="marg">Gen. 31. Ch. 35.</NOTE>
+upon the <HI>Earlier</HI> and
+<HI>Darker</HI> Times of the
+World,<NOTE PLACE="marg">Exod. 20.—</NOTE> of which the
+Scripture is very par∣ticular,<NOTE PLACE="marg">Levit. 21.—</NOTE>
+we shall find
+that it ariseth from this;<NOTE PLACE="marg">Deut. 29. Ch. 30. 31. 32. Chap.</NOTE> that it is
+more Sensual,<NOTE PLACE="marg">Josh. 22. 23, 24. Chap.</NOTE> and therefore calcula∣ted
+to please the <HI>Sences</HI> of Men; be∣ing
+more <HI>Outward</HI> or <HI>Visible,</HI> or more
+in their own Power to perform then
+one more <HI>spiritual</HI> in its Object. For
+as their <HI>gods</HI> were the Workman∣ship
+of <HI>Mens</HI> Hands, they could not
+prefer them, that being the Argu∣ment
+which did most of all gaul their
+Worshippers, and what of all things,
+for that reason, they were most wil∣ling
+to forget. But their Incidency
+to <HI>Idolatry,</HI> and the Advantages it
+had upon the true Religion with
+them, plainly came from this, that
+it was more outward and <HI>sensual:</HI>
+They could <HI>see</HI> the Object of their
+<PB N="66" REF="41"/>
+Devotion, and had it in their
+Power to Address it when they
+would. It was more <HI>fashionable</HI> too,
+as well as better accommodated to
+their <HI>Dark</HI> and too <HI>Brutal</HI> State. And
+therefore it was that God, by many
+Afflictions, and greater Deliveran∣ces,
+brought forth a People, to en∣dear
+himself to them, that they
+might remember the Hand that sa∣ved
+them, and Worship him, and
+him only; in order to root up <HI>Ido∣latry,</HI>
+and plant the <HI>Knowledge, and
+fear of him in their Minds,</HI> for an Ex∣ample
+to other Nations. VVhoever
+reads <HI>Deuteronomy,</HI> which is a <HI>sum∣mary</HI>
+of the other four Books of <HI>Mo∣ses,</HI>
+will find the frequent and earnest
+Care and concern of that good Man
+for <HI>Israel,</HI> about this very Point; and
+how often that People <HI>slipt</HI> and <HI>laps'd,</HI>
+notwithstanding God's Love, Care
+and Patience over them, into the <HI>Ido∣latrous</HI>
+Customs of the Nations about
+them. Divers other Scriptures in∣form
+us also, especially those of the
+<PB N="67" REF="41"/>
+Prophets, <HI>Isaiah</HI> 44. and 45. <HI>Psalms</HI>
+37. and 115. and <HI>Jer.</HI> 10. where
+the Holy Ghost Confutes and Re∣bukes
+the People, and mocks their
+<HI>Idols</HI> with a sort of Holy Disdain.</P>
+</DIV2>
+<DIV2 N="4" TYPE="section">
+<P>§. 4. Now that which is <HI>farthest</HI>
+from Idolatry, and the best <HI>Antidote</HI>
+against it, is the <HI>Principle</HI> we have
+laid down, and the more Peoples
+Minds are turned and brought to it,
+and that they resolve their Faith,
+VVorship and Obedience into the
+Holy Illuminations and Power of it,
+the <HI>nearer</HI> they grow to the end of
+their Creation, and consequently to
+their <HI>Creator.</HI> They are more spi∣ritually
+qualified, and become better
+fitted to VVorship God as he is:
+VVho, as we are told, by our Lord
+Jesus Christ, <HI>Is a Spirit and will be
+Worshipped in Spirit and in Truth, and
+that they are such sort of Worshippers
+which God seeketh to worship him, in
+this Gospel Day. The hour cometh,</HI>
+saith he, <HI>and now is.</HI> That is, some
+now do so, but more shall. A plain
+<PB N="68" REF="42"/>
+Assertion in present, and a <HI>Promise</HI>
+and <HI>Prophesie</HI> of the encrease of <HI>such</HI>
+VVorshippers in future. VVhich
+shows a Change intended from a Ce∣remonial
+VVorship, and State of the
+Church of God, to a <HI>Spiritual</HI> One.
+Thus the Text; <HI>But the time cometh,
+and now is, when the true Worshippers
+shall Worship the Father in the Spirit
+and in the Truth.</HI> VVhich is as much
+as to say, when the VVorship of God
+shall be <HI>more Inward</HI> than Outward,
+and so <HI>more suitable</HI> to the Nature of
+God, and the nobler Part of Man, his
+<HI>Inside,</HI> or his <HI>inward and better Man:</HI>
+For so those blessed VVords import,
+<HI>in Spirit and in Truth. In the Spirit,</HI>
+that is, <HI>through the Power</HI> of the Spi∣rit.
+<HI>In the Truth,</HI> that is, in <HI>Reali∣ties,</HI>
+not in Shadows, Ceremonies,
+or Formalities, but in Sincerity with
+and in Life, being divinely prepared
+and animated; which brings Man
+not only to offer up <HI>Right</HI> VVorship,
+but also into <HI>Intimate Communion and
+Fellowship with God, who is a Spirit.</HI></P>
+</DIV2>
+<DIV2 N="5" TYPE="section">
+<PB N="69" REF="42"/>
+<P>§. 5. And if it be duly weighed
+it will appear, that God, in all his
+Manifestations of himself, hath still
+come <HI>nearer</HI> and <HI>nearer</HI> to the <HI>Insides</HI>
+of Men, that he might reach to
+their Understandings, and open their
+Hearts, and give them a plainer and
+nearer Acquaintance with himself in
+Spirit: And <HI>then</HI> it is that Man must
+seek and find the Knowledge of God
+for his Eternal Happiness. Indeed,
+all things that are made show forth
+the Power and Wisdom of God, and
+his Goodness too to Mankind; and
+therefore many Men urge the <HI>Crea∣tion</HI>
+to silence <HI>Atheistical</HI> Objections:
+But though all those things show a
+God, yet Man does it, above all the
+Rest. He is the <HI>precious Stone</HI> of
+the <HI>Ring,</HI> and the most <HI>glorious Jew∣el</HI>
+of the <HI>Globe;</HI> to whose reasonable
+Use, Service, and Satisfaction, the
+whole seems to be made and dedi∣cated.
+<HI>But God's Delight</HI> (by whom
+Man was made, we are told by the
+Holy Ghost) <HI>is in the habitable Parts
+<PB N="70" REF="43"/>
+of the Earth, with the Sons of Men,</HI>
+Prov. 8. 31. And with those that
+are contrite in Spirit, <HI>Isa.</HI> 66. 1. And
+why is Man his Delight, but be∣cause
+Man only, of all his Works,
+was his Likeness. This is the <HI>inti∣mate
+Relation</HI> of Man to God: Some∣what
+<HI>nearer</HI> than ordinary; for of
+all other Beings Man <HI>only</HI> had the
+Honour of being his <HI>Image;</HI> and by
+his <HI>Resemblance</HI> to God, as I may
+say, came his <HI>Kindred</HI> with God and
+<HI>Knowledge</HI> of him. So that the near∣est
+and best way for Man to know
+God, and be acquainted with him,
+is to seek him in himself, in his
+<HI>Image;</HI> and as he finds that, he
+comes to find and know God. Now
+Man may be said to be God's I∣mage
+in a double Respect. <HI>First,</HI>
+As he is of an Immortal Nature;
+and next, as that Nature is <HI>Endued</HI>
+with those Excellencies in <HI>small,</HI> and
+proportionable to a Creatures Capa∣city,
+that are by Nature <HI>Infinitely</HI>
+and <HI>Incomparably</HI> in his Creator.
+<PB N="71" REF="43"/>
+For Instance, <HI>Wisdom, Justice, Mer∣cy,
+Holiness, Patience,</HI> and the like.
+As Man becomes Holy, Just, Mer∣ciful,
+Patient, <HI>&amp;c.</HI> By the <HI>Copy</HI> He
+will know the <HI>Original,</HI> and by the
+<HI>Workmanship</HI> in himself, he will be
+acquainted with the Holy <HI>Work∣man.</HI><NOTE PLACE="marg">Gal. 6. 15, 16.</NOTE>
+This <HI>Reader</HI> is
+the <HI>Regeneration</HI> and
+<HI>New Creature</HI> we press, <HI>and according
+to this Rule, we say, Men ought to
+be Religious, and Walk in this World.</HI>
+Man, as I said just now, is a Com∣position
+of both Worlds; his Body
+is of this, his Soul of the other
+World. The Body is as the Tem∣ple
+of the Soul, the Soul the <HI>Tem∣ple</HI>
+of the <HI>Word,</HI> and the Word,
+the <HI>Great Temple</HI> and <HI>Manifestation</HI> of
+God. By the <HI>Body</HI> the Soul looks into
+and beholds this World, and by the
+<HI>Word</HI> it beholds God the World
+that is without End. Much might
+be said of this Order of things,
+and their respective Excellencies,
+but I must be Brief.</P>
+</DIV2>
+</DIV1>
+<DIV1 N="8" TYPE="chapter">
+<PB N="72" REF="44"/>
+<HEAD>CHAP. VIII.</HEAD>
+<HEAD TYPE="sub">Sect. 1. Doctrine of Satis∣faction
+and Justification
+Owned and Worded ac∣cording
+to Scripture.
+Sect▪ 2. What Constru∣ctions
+we can't believe
+of them, and which is an
+abuse of them. Sect. 3.
+Christ Owned a Sacri∣fice
+and a Mediator. Sect.
+4. Justification Two∣fold,
+from the Guilt of
+<PB N="73" REF="44"/>
+Sin, and from the Power
+and Pollution of it. Sect.
+5. Exhortation to the
+Reader upon the whole.</HEAD>
+<P><HI>Obj.</HI> 1. THough there be many
+good things said, how
+Christ appears and works in a Soul, to
+Awaken, Convince and Convert it; yet
+you seem not particular enough about the
+Death and Sufferings of Christ: And it
+is generally Rumour'd and Charged upon
+you by your Adversaries, that you have
+little reverence to the Doctrine of Christ's
+Satisfaction to God for our Sins, and
+that you do not Believe, That the <HI>Active</HI>
+and <HI>Passive</HI> Obedience of Christ, when he
+was in the World, is the <HI>alone</HI> ground of
+a Sinners Justification before God.</P>
+<DIV2 N="1" TYPE="section">
+<P><HI>Answ.</HI> §. 1. The Doctrine of <HI>Sa∣tisfaction</HI>
+and <HI>Justification,</HI> truly under∣stood,
+are placed in so strict an Uni∣on,
+that the one is a necessary Con∣sequence
+<PB N="74" REF="45"/>
+of the other, and what we
+say of them, is what agrees with the
+suffrage of Scripture, and for the most
+part in the terms of it; always be∣lieving,
+that in Points where there
+arises any difficulty, be it from the
+Obscurity of Expression, Mis-transla∣tion,
+or the Dust raised by the Heats
+of <HI>Partial</HI> Writers, or <HI>Nice Criticks,</HI>
+it is ever best to keep close to the
+Text, and maintain Charity in the
+rest. I shall first speak <HI>Negatively,</HI>
+what we do not own, which perhaps
+hath given occasion to those who have
+been more Hasty than Wise, to judge
+us defective in our Belief of the Effi∣cacy
+of the Death and Sufferings of
+Christ to Justification: As,</P>
+</DIV2>
+<DIV2 N="2" TYPE="section">
+<P><HI>§. 2. First, We cannot Believe
+that Christ is the</HI> Cause, <HI>but the</HI> Ef∣fect
+<HI>of God's Love, according to the
+Testimony of the Beloved Disci∣ple</HI>
+John, <HI>Chap.</HI> 3. God hath so lo∣ved
+the World, that he hath given
+his only Begotten Son into the World,
+that whosoever believeth on him
+<PB N="75" REF="45"/>
+should not perish, but have Everlast∣ing
+Life.</P>
+<P>Secondly, We cannot say, God
+<HI>could not</HI> have taken another way to
+have saved Sinners, than by the Death
+and Sufferings of his Son, to satisfie
+his Justice, or that Christ's Death
+and Sufferings were a <HI>strict</HI> and <HI>rigid</HI>
+Satisfaction for that Eternal Death
+and Misery due to Man for Sin and
+Transgression: For such a Notion
+were to make God's Mercy little con∣cerned
+in Man's Salvation; and in∣deed
+we are at too great a distance
+from his Infinite Wisdom and Pow∣er,
+to judge of the <HI>Liberty</HI> or <HI>Necessity</HI>
+of his Actings.</P>
+<P>Thirdly, We cannot say Jesus
+Christ was the <HI>greatest Sinner</HI> in the
+World, (because he bore our Sins
+on his Cross, or because he was made
+Sin for us, who knew no Sin) an
+Expression of great <HI>levity</HI> and <HI>unsound∣ness,</HI>
+yet often said by great Preach∣ers
+and Professors of Religion.</P>
+<P><PB N="76" REF="46"/>
+Fourthly, We cannot Believe that
+Christ's Death and Sufferings <HI>so</HI> satis∣fies
+God, or justifies Men, as that
+they are thereby Accepted of God:
+They are indeed thereby put into a
+state capable of being accepted of God,
+and through the Obedience of Faith
+and Sanctification of the Spirit, are
+in a state of Acceptance: For we can
+never think a Man justified before
+God, while <HI>Self-condemned;</HI> or that
+any Man can be in Christ, who is
+not a <HI>New</HI> Creature, or that God
+looks upon Men <HI>otherwise</HI> than they
+are. We think it a state of <HI>Presump∣tion,</HI>
+and not of <HI>Salvation,</HI> to call <HI>Je∣sus,
+Lord!</HI> and not by the Work of
+the <HI>Holy Ghost. Master!</HI> And he
+not yet <HI>Master of our Affections: Savi∣our!</HI>
+And they not saved by him
+from their <HI>Sins: Redeemer!</HI> And yet
+they not redeemed by him from their
+<HI>Passion, Pride, Covetousness, Wanton∣ness,
+Vanity, Honours, vain Friend∣ships,</HI>
+and <HI>Glory</HI> of this World: Which
+were to deceive themselves; for God
+<PB N="77" REF="46"/>
+will not be mocked, such as Men
+sow, such they must reap. And
+though Christ did <HI>Die</HI> for us, yet we
+must, by the Assistance of his Grace,
+<HI>work out our Salvation with fear and
+trembling:</HI> As he Died for Sin, so we
+must Die <HI>to</HI> Sin, or we cannot be said
+to be saved by the Death and Suffer∣ings
+of Christ, or throughly justified
+and accepted with God. Thus far Ne∣gatively.
+Now, Possitively, what
+we own as to Justification.</P>
+</DIV2>
+<DIV2 N="3" TYPE="section">
+<P>§. 3. We do Believe, That Jesus
+Christ was our Holy <HI>Sacrifice,</HI> and
+<HI>Attonement,</HI> and <HI>Propitiation;</HI> that
+he bore our Iniquities, and that by
+his Stripes we were healed of the
+Wounds <HI>Adam</HI> gave us in his Fall;
+and that God is just in forgiving true
+Penitents upon the Credit of that
+Holy Offering, Christ made of him∣self
+to God for us; and that what he
+did and suffer'd, satisfied and pleased
+God, and was for the sake of fallen
+Man that had displeased God: And
+that through the Offering up of him∣self
+<PB N="78" REF="47"/>
+once for all, through the E∣ternal
+Spirit, he hath for Ever per∣fected
+those (in all times) that are
+sanctified, <HI>who walk not after the Flesh,
+but after the Spirit. Rom.</HI> 8. 1. Mark that.</P>
+</DIV2>
+<DIV2 N="4" TYPE="section">
+<P>§. 4. In short, <HI>Justification</HI> consists
+of two parts, or hath a twofold Con∣sideration,
+<HI>viz.</HI> Justification from
+the Guilt of Sin, and Justification
+from the Power and Pollution of Sin,
+and in this Sense Justification gives
+Man a full and clear Acceptance be∣fore
+God. For want of this latter
+part, it is that so many Souls Religi∣ously
+inclin'd, are often under Doubts,
+Scruples and Dependencies, notwith∣standing
+all that their Teachers tell
+them of the Extent and Efficacy of the
+first part of Justification. And it is
+too general an Unhappiness among
+the Professors of Christianity, that
+they are apt to cloak their own <HI>Active
+and Passive Disobedience</HI> with the <HI>Active
+and Passive Obedience of Christ.</HI> The
+first part of Justification we do reve∣rently
+and humbly acknowledge is
+<PB N="79" REF="47"/>
+only for the sake of the Death and
+Sufferings of Christ; nothing we can
+do, <HI>though by the Operation of the Holy
+Spirit,</HI> being able to cancel Old Debts,
+or wipe out Old Scores: It is the
+Power and Efficacy of that Propitia∣tory
+Offering, upon Faith and Repen∣tance,
+that justifies us from the Sins
+that are past; and it is the Power of
+Christ's Spirit in our Hearts that
+purifies and makes us acceptable be∣fore
+God. For till the Heart of Man
+is purged from Sin, God will never
+accept of it. He Reproves, Rebukes
+and Condemns those that entertain
+Sin there, and therefore such cannot
+be said to be in a <HI>Justified</HI> State; Con∣demnation
+and Justification being
+Contraries: So that they that hold
+themselves in a Justified State by the
+Active and Passive Obedience of
+Christ, while they are not Actively
+and Passively Obedient to the Spirit of
+Christ Jesus, are under a <HI>strong</HI> and
+<HI>dangerous Delusion;</HI> and for crying out
+against this Sin-pleasing Imagination,
+<PB N="80" REF="48"/>
+not to say <HI>Doctrine,</HI> we are Staged
+and Reproached as Deniers and De∣spisers
+of the Death and Sufferings of
+our Lord Jesus Christ. But be it
+known to such, they add to Christ's
+Sufferings, and Crucifie to themselves
+afresh the Son of God, and trample
+the Blood of the Covenant under their
+Feet, that walk unholily under a
+Profession of Justification; for God
+will not acquit the Guilty, nor justi∣fie
+the Disobedient and Unfaith∣ful.
+Such deceive themselves, and
+at the Great and Final Judgment their
+Sentence will not be, Come ye Bles∣sed,
+because it cannot be said to them,
+<HI>Well done Good and Faithful,</HI> for
+they cannot be so esteemed that live
+and die in a Reproveable and Con∣demnable
+State; but, Go ye Cur∣sed,
+<HI>&amp;c.</HI></P>
+</DIV2>
+<DIV2 N="5" TYPE="section">
+<P>§. 5. Wherefore, O my Reader!
+Rest not thy self wholly satisfied with
+what Christ has done for thee in his
+Blessed Person without Thee, but
+press to know his Power and King∣dom
+<PB N="81" REF="48"/>
+<HI>within thee,</HI> that the <HI>strong Man,</HI>
+that has too long kept thy House,
+may be <HI>bound,</HI> and his Goods <HI>spoiled;</HI>
+his Works <HI>destroyed,</HI> and Sin <HI>ended;</HI>
+according to the 1 <HI>John 3. 7. For which
+end,</HI> says that Beloved Disciple, <HI>Christ
+was manifested,</HI> that all things may
+become New; <HI>New Heavens, and
+New Earth, in which Righteousness
+dwells.</HI> Thus thou wilt come to glo∣rifie
+God in thy Body, and in thy
+Spirit, which are his; and live to
+him, and not to thy self. Thy
+Love, Joy, Worship, and Obedi∣ence;
+thy Life, Conversation, and
+Practice; thy Study, Meditation,
+and <HI>Devotion,</HI> will be <HI>Spiritual:</HI> For
+the Father and the Son will make
+their <HI>abode</HI> with thee, and Christ
+will <HI>manifest</HI> himself to thee; for
+the <HI>Secrets</HI> of the Lord are with them
+that <HI>fear</HI> him. And an holy <HI>Vnction</HI>
+or <HI>Anointing</HI> have all those, which
+leads them <HI>into all truth,</HI> and they need
+not the Teachings of Men: They
+are better Taught, being Instructed
+<PB N="82" REF="49"/>
+by the <HI>Divine Oracle;</HI> no bare <HI>Hear∣say,</HI>
+or <HI>Traditional</HI> Christians, but
+fresh and living Witnesses: Those
+that have seen with their <HI>own Eyes,</HI>
+and heard with their <HI>own Ears,</HI> and
+have handled with their <HI>own Hands,</HI>
+the Word of Life, in the divers Ope∣rations
+of it, to their Souls Salvation.
+In this they Meet, in this they
+Preach, and in this they Pray and
+Praise: Behold the New Covenant
+fulfilled, the Church and Worship of
+Christ, the Great <HI>Anointed</HI> of God,
+and the Great Anointing of God, in
+his Holy, High Priesthood and Of∣fices
+in his Church!</P>
+</DIV2>
+</DIV1>
+<DIV1 N="9" TYPE="chapter">
+<PB N="83" REF="49"/>
+<HEAD>CHAP. IX.</HEAD>
+<HEAD TYPE="sub">Sect. 1. A Confession to
+Christ and his Work,
+both in Doing and Suf∣fering.
+Sect. 2. That
+ought not to make void
+our Belief and Testimony
+of his Inward and Spiri∣tual
+Appearance in the
+Soul. Sect. 3. What our
+Testimony is in the latter
+respect: That 'tis im∣possible
+to be Saved by
+<PB N="84" REF="50"/>
+Christ Without us, while
+we reject his Work and
+Power Within us. Sect.
+4. The Dispensation of
+Grace, in its Nature and
+Extent. Sect. 5. A
+further Acknowledgment
+to the Death and Suffer∣ings
+of Christ. Sect. 6.
+The Conclusion, shewing
+our Adversaries Vn∣reasonableness.</HEAD>
+<DIV2 N="1" TYPE="section">
+<P>§. 1. AND lest any should say
+we are <HI>Equivocal</HI> in our
+Expressions, and <HI>Allegorize away</HI>
+Christ's Appearance in the Flesh;
+meaning only thereby, our own Flesh,
+and that as often as we mention him,
+<PB N="85" REF="50"/>
+we mean only a <HI>Mystery,</HI> or a <HI>Mystical
+Sense</HI> of him, be it as to his <HI>Coming,
+Birth, Miracles, Sufferings, Death,
+Resurrection, Ascention, Mediation</HI>
+and <HI>Judgment;</HI> I would yet add, to
+preserve the well-disposed from being
+stagger'd by such Suggestions, and
+to inform and reclaim such as are un∣der
+the Power and Prejudice of them,
+That, we do, we Bless God, Religi∣ously
+Believe and Confess, to the
+Glory of God the Father, and the
+Honour of his Dear and Beloved Son,
+that, <HI>Jesus Christ, took our Nature
+upon him, and was like unto us in all
+things, Sin excepted; That he was Born
+of the Virgin</HI> Mary, <HI>and Suffered under</HI>
+Pontius Pilate, <HI>the</HI> Roman <HI>Governour,
+Crucified, Dead, and Buried in the Se∣pulchre
+of</HI> Joseph <HI>of</HI> Arimathea; <HI>Rose
+again the Third Day, and Ascended into
+Heaven, and sits on the Right Hand of
+God, in the Power and Majesty of his
+Father, who will one Day Judge the
+World by him, even that Blessed Man,
+Christ Jesus, according to their Works.</HI></P>
+</DIV2>
+<DIV2 N="2" TYPE="section">
+<P><PB N="86" REF="51"/>
+§. 2. But because we so Believe,
+must we not Believe what Christ said,
+<HI>He that is with you shall be <HI>in</HI> you,</HI> John
+14. <HI>I <HI>in</HI> them, and they in me,</HI> &amp;c.
+Chap. 17. <HI>When it pleased God to re∣veal
+his Son <HI>in</HI> me,</HI> &amp;c. Gal. 1. <HI>The
+Mystery hid from Ages, is Christ <HI>in</HI> the</HI>
+Gentiles <HI>the hope of Glory,</HI> Col. 1. <HI>Vn∣less
+Christ be <HI>in</HI> you, ye are Reprobates?</HI>
+2 Cor. 13. Or must we be industri∣ously
+represented Deniers of Christ's
+Coming in the Flesh, and the Holy
+<HI>Ends</HI> of it, in all the Parts and
+Branches of his <HI>Doing</HI> and <HI>Suffering,</HI>
+because we Believe, and press the
+Necessity of Believing, Receiving and
+Obeying his <HI>Inward</HI> and <HI>Spiritual</HI> Ap∣pearance
+and Manifestation of him∣self,
+through his Light, Grace and
+Spirit in the Hears and Consciences
+of Men and Women, to Reprove,
+Convict, Convert and Change them?
+This we esteem hard and unrighteous
+Measure; nor would our warm and
+sharp Adversaries be so dealt with by
+others: But to do as they would be
+<PB N="87" REF="51"/>
+done to, is too often no part of their
+Practice, whatever it be of their Pro∣fession.</P>
+</DIV2>
+<DIV2 N="3" TYPE="section">
+<P>§. 3. Yet we are very ready to de∣clare
+to the whole World, that we
+cannot think Men and Women <HI>can be
+saved</HI> by their Belief of the one <HI>with∣out
+the Sense and Experience of the other;</HI>
+and that is what we oppose, and
+not his Blessed Manifestation in the
+Flesh. We say that he then overcame
+our Common Enemy, foil'd him in
+the open Field, and in our Nature, tri∣umphed
+over him that had overcome
+and triumphed over it in our Fore∣father
+<HI>Adam,</HI> and his Posterity; and
+that as truly as Christ overcame him
+in our Nature, in his own Person, so,
+<HI>by his Divine Grace</HI> being received and
+obeyed by us, he overcomes him in
+us: That is, he detects the Enemy by
+his <HI>Light</HI> in the Conscience, and <HI>ena∣bles</HI>
+the Creature to resist him, and all
+his Fiery Darts, and finally, so to
+Fight the Good Fight of Faith, as to
+<HI>overcome</HI> him, and lay hold on Eternal
+Life.</P>
+</DIV2>
+<DIV2 N="4" TYPE="section">
+<PB N="88" REF="52"/>
+<P>§. 4. And this is the Dispensation
+of <HI>Grace,</HI> which we declare, <HI>has ap∣peared
+to all,</HI> more or less, teaching
+those that will receive it, <HI>to deny un∣godliness
+and worldly lusts, and to live
+soberly, righteously, and godly in this
+present World; looking for</HI> (which
+none else can justly do) <HI>the blessed
+Hope, and glorious Appearing of the
+Great God, and our Saviour Jesus
+Christ,</HI> &amp;c. <HI>Tit.</HI> 2. 11, 12, 13. And
+as from the Teachings, and Experi∣ence,
+and Motion of this Grace, we
+minister to others, so the very drift of
+our Ministry is to turn Peoples Minds
+to this Grace in themselves, that they
+may all, up and be doing, <HI>even the
+good and acceptable Will of God, and
+work out their Salvation with fear and
+trembling, and make their High and
+Heavenly Calling and Election sure;</HI>
+which none else can do, whatever be
+their <HI>Profession, Church</HI> and <HI>Character:
+For such as Men sow they must reap;
+and his Servants we are whom we obey.
+Regeneration</HI> we must know, or we
+<PB N="89" REF="52"/>
+cannot be Children of God, and
+Heirs of Eternal Glory: And to be
+Born again, an <HI>other</HI> Spirit and Prin∣ciple
+must <HI>prevail, leaven, season,</HI> and
+<HI>govern</HI> us, then either the Spirit of
+the World, or our own depraved Spi∣rits;
+and this can be no other Spi∣rit
+than that which dwelt in Christ,
+for unless that dwell in us, we can be
+none of his, <HI>Rom.</HI> 8. 9. And this
+Spirit begins in <HI>Conviction,</HI> and ends
+in <HI>Conversion</HI> and <HI>Perseverance:</HI> And
+the one follows the other; Conver∣sion
+being the Consequence of <HI>Con∣victions
+obey'd,</HI> and Perseverance a na∣tural
+<HI>Fruit</HI> of Conversion, and being
+Born of God; for such Sin not, be∣cause
+the Seed of God abides in them,
+<HI>John</HI> 3. 7, 8. but through Faithful∣ness,
+continue to the end, and obtain
+the Promise, even Everlasting Life.</P>
+</DIV2>
+<DIV2 N="5" TYPE="section">
+<P>§. 5. But let my <HI>Reader</HI> take this
+along with him, that we do acknow∣ledge
+that Christ, through his Holy
+<HI>Doing</HI> and <HI>Suffering</HI> (for being a <HI>Son</HI>
+he learned <HI>Obedience)</HI> has obtained
+<PB N="90" REF="53"/>
+Mercy of God his Father for Man∣kind;
+and that his Obedience has an
+Influence to our Salvation, in all the
+Parts and Branches of it; since there∣by
+he became a Conqueror, and <HI>led
+Captivity Captive, and obtained Gifts
+for Men, with divers Great and Pre∣cious
+Promises, that thereby we might
+be partakers of the Divine Nature, ha∣ving</HI>
+(first) <HI>escaped the <HI>Corruption</HI>
+that is in the World, through Lust.</HI> I
+say we do Believe and Confess that
+the <HI>Active</HI> and <HI>Passive Obedience</HI> of
+Christ Jesus affects our Salvation
+throughout, as well from the Power
+and Pollution of Sin, as from the
+Guilt, He being a Conqueror as well
+as a Sacrifice, and both through Suf∣fering:
+Yet, they that reject his Di∣vine
+Gift, so obtained, and which
+he has given to them, by which to
+see their Sin, and the sinfulness of it,
+and to repent and turn away from it,
+and do so no more; and to wait upon
+God for daily strength to resist the
+Fiery Darts of the Enemy, and to be
+<PB N="91" REF="53"/>
+Comforted through the Obedience of
+Faith in and to this Divine Grace of
+the Son of God, such do not please
+God, believe truly in God; nor are
+they in a state of true Christianity
+and Salvation. <HI>Woman,</HI> said Christ,
+to the <HI>Samaritan,</HI> at the Well, <HI>hadst
+thou known the Gift of God, and who it
+is that speaketh to thee,</HI> &amp;c. People
+know not Christ, and God, whom
+to know is Life Eternal, <HI>John</HI> 17.
+because they are Ignorant of the Gift
+of God, <HI>viz.</HI> a measure of the Spirit
+of God that is given to every one to
+profit with, 1 <HI>Cor.</HI> 12. 7. which re∣veals
+Christ and God to the Soul.
+<HI>Flesh</HI> and <HI>Blood</HI> cannot do it, <HI>Oxford</HI>
+and <HI>Cambridge</HI> cannot do it, <HI>Tongues</HI>
+and <HI>Philosophy</HI> cannot do it; for they
+that <HI>by Wisdom</HI> knew not God, had
+these things for their <HI>Wisdom:</HI> They
+were strong, deep and accurate in
+them; but alas, they were clouded,
+puft up, and set farther off from the
+Inward and Saving Knowledge of
+God, because they sought for it in
+<PB N="92" REF="54"/>
+them, and thought to find God there.
+But the <HI>Key of David</HI> is an other thing,
+which shuts and no Man opens, and
+opens and no Man shuts; and this
+Key have all they that receive the
+<HI>Gift of God</HI> into their Hearts; and it
+opens to them, the Knowledge of
+God and themselves, and gives them
+a quite <HI>other Sight, Taste</HI> and <HI>Judg∣ment</HI>
+of things, than their <HI>Educational</HI>
+or <HI>Traditional</HI> Knowledge afforded
+them. This is the beginning of the
+<HI>New Creation</HI> of God, and thus it is
+we come to be New Creatures: And
+we are bold to declare there is no o∣ther
+way, besides this, by which Peo∣ple
+can come into Christ, or to be
+true Christians, or receive the Advan∣tage
+that comes by the Death and
+Sufferings of the Lord Jesus Christ.
+Wherefore we say, and upon good
+Authority, even that of our <HI>own Ex∣perience,</HI>
+as well as that of the Scrip∣tures
+of Truth, Christ will prove <HI>no
+Saving Sacrifice</HI> for them, that <HI>refuse</HI>
+him for their <HI>Example.</HI> They that
+<PB N="93" REF="54"/>
+<HI>reject</HI> the Gift, do <HI>deny</HI> the <HI>Giver,</HI> in∣stead
+of themselves <HI>daily,</HI> for the <HI>Gi∣vers</HI>
+sake. O that People were wise!
+that they would consider their latter
+End, and the things that make for
+the Peace thereof! Why should they
+<HI>perish</HI> in a vain hope of Life, <HI>while
+Death Reigns?</HI> Of living with God,
+who live not to him, nor walk with
+him? <HI>Awake,</HI> thou that sleepest in thy
+Sin, or at best, in thy Self-righteous∣ness;
+Awake, I say, and Christ shall
+give thee Life! For he is the <HI>Lord
+from Heaven, the quickening Spirit,</HI>
+that quickens us, by his Spirit, if we
+do not, <HI>resist</HI> it and <HI>quench</HI> it, by our
+Disobedience; but receive, love and
+obey it, in all the Holy Leadings and
+Teachings of it, <HI>Rom.</HI> 8. 14, 15. To
+which Holy Spirit I commend my
+<HI>Reader,</HI> that he may the better see
+where he is, and also come to the
+true Belief and Advantage of the <HI>Do∣ings</HI>
+and <HI>Sufferings</HI> of our Dear and
+Blessed Lord and Saviour Jesus
+Christ, who saves from the <HI>Power
+<PB N="94" REF="55"/>
+and Pollution,</HI> as well as Guilt of Sin,
+all those that <HI>hear his knocks, and open
+the Door of their Hearts</HI> to him, that
+he may come in and work a real and
+through Reformation in and for them:
+And so the <HI>Benefit, Virtue</HI> and <HI>Efficacy</HI>
+of his <HI>Doings</HI> and <HI>Sufferings</HI> without
+us, will come to be livingly applied
+and felt, and Fellowship with Christ
+in his Death and Sufferings known,
+according to the Doctrine of the Apo∣stle;
+which, those that live in that
+which made him suffer, know not,
+tho' they profess to be saved by his
+Death and Sufferings. Much more
+might be said as to this matter, but I
+must be brief.</P>
+</DIV2>
+<DIV2 N="6" TYPE="section">
+<P>§. 6. To conclude this Chapter,
+we wonder not that we should be
+mistaken, mis-construed and mis-re∣presented,
+in what we believe and do
+to Salvation, since our Betters have
+been so treated in the Primitive
+Times; nor indeed is it only about
+<HI>Doctrines</HI> of Religion, for our <HI>Pra∣ctice</HI>
+in <HI>Worship</HI> and <HI>Discipline</HI> have
+<PB N="95" REF="55"/>
+had the same Success: But this is
+what I earnestly desire, that however
+bold People are pleased to make with
+us, they would not <HI>deceive</HI> themselves
+in the great things of their own Sal∣vation:
+That while they would seem
+to own all to Christ, they are not
+found <HI>disowned</HI> of Christ in the last
+Day. Read the 7th of <HI>Matthew;</HI> it
+is he that hears Christ, the great
+Word of God, and does what he en∣joins,
+what he commands, and by his
+Blessed Example, recommends, that
+is a <HI>Wise Builder,</HI> that has founded
+his House well, and built with good
+Materials, and whose House will
+stand the last shake and Judgment.
+For which cause we are often plain,
+close and earnest with People, to
+consider, that Christ came not to
+save them in, but <HI>from their Sins;</HI> and
+that they that think to discharge and
+release themselves of his <HI>Yoke</HI> and
+<HI>Burden,</HI> his <HI>Cross</HI> and Example, and
+secure themselves, and Complement
+Christ with his having done all for
+<PB N="96" REF="56"/>
+them, while he has wrought <HI>little or
+nothing in them,</HI> nor they parted with
+any thing for the love of him, will
+finally awake in a dreadful surprize,
+at the sound of the last Trumpet, and
+at this sad and irrevokeable Sentence,
+<HI>Depart from me, ye Workers of Iniqui∣ty,
+I know you not:</HI> Which terrible
+End, may all timely avoid, by <HI>hear∣kening</HI>
+to Wisdom's Voice, and <HI>turn∣ing</HI>
+at her Reproof, that she may lead
+them in the Ways of Righteousness,
+and in the midst of the Paths of Judg∣ment,
+that their Souls may come to
+inherit <HI>Substance;</HI> even <HI>durable Riches
+and Righteousness</HI> in the Kingdom of
+the Father, World without end.</P>
+</DIV2>
+</DIV1>
+<DIV1 N="10" TYPE="chapter">
+<PB N="97" REF="56"/>
+<HEAD>CHAP. X.</HEAD>
+<HEAD TYPE="sub">Sect. 1. Of the true Wor∣ship
+of God in what it
+stands. Sect. 2. Of the
+true Ministry, that it is
+by Inspiration. Sect. 3.
+The Scripture plain in
+that Case. Sect. 4. Christ's
+Ministers, True Wit∣nesses,
+they speak what
+they know, not by Re∣port.
+Sect. 5. Christ's
+Ministers they affirm,
+<PB N="98" REF="57"/>
+Preach freely, 'tis one of
+their Marks.</HEAD>
+<DIV2 N="1" TYPE="section">
+<P>§. 1. AS the Lord wrought ef∣fectually,
+by his Divine
+Grace, in the Hearts of this People,
+so he thereby brought them to a <HI>Di∣vine
+Worship and Ministry;</HI> Christ's
+words they came to Experience, <HI>viz.
+That God was a Spirit, and that he
+would therefore be worshipped in the Spi∣rit,
+and in the Truth, and that such
+Worshippers the Father would seek to
+worship him.</HI> For, bowing to the
+Convictions of the Spirit in them∣selves,
+in their daily course of living,
+by which they were taught to es∣chew
+that which was made manifest
+to them to be evil, and to do that
+which was good, they, in their As∣sembling
+together, sate down, and
+waited for the Preparation of this
+Holy Spirit, both to let them see their
+States and Conditions before the Lord,
+and to worship him acceptably; and
+<PB N="99" REF="57"/>
+as they were sensible of Wants, or
+Shortness, or Infirmities, so in the
+secret of their own Hearts, Prayer
+would spring to God, through Jesus
+Christ, to help, assist and supply
+them: But they did not dare to <HI>wake
+their Beloved before his time; or ap∣proach
+the Throne of the King of Glory,
+till he held out his Scepter; or take
+thought what they should say,</HI> or after
+their own or other Mens studied
+<HI>Words and Forms,</HI> for this were to
+Offer <HI>strange Fire;</HI> to pray, but not
+by the Spirit; to ask, but not in the
+Name, that is, in the Power of our
+Lord Jesus Christ, who pray'd as well
+as that he spoke like one having Au∣thority,
+that is, <HI>Power,</HI> a Divine <HI>E∣nergy</HI>
+and <HI>Force</HI> to reach and pierce
+the Heavens, which he gives to all
+that obey his Light, Grace and Spirit,
+in their solemn Waitings upon him.
+So that 'tis this Peoples Principle,
+that <HI>Fire must come from Heaven;</HI>
+Life and Power from God to enable
+the Soul to pour out it self acceptably
+<PB N="100" REF="58"/>
+before him. And when a <HI>Coal from
+his holy Altar, touches our Lips,</HI> then
+can we Pray and Praise him as we
+ought to do. And as this is our Prin∣ciple,
+and that according to Scripture,
+so is it, Blessed be God, our Experi∣ence
+and Practice: And therefore it is
+we are separated from the Worships
+of Men, under their several Forms,
+because they do not found it in the
+Operation, Motion and Assistance of
+the Spirit of Christ, but the Appoint∣ment,
+Invention and Framing of
+Man, both as to Matter, Words and
+Time. We do not dissent in our own
+Wills, and we dare not comply a∣gainst
+His that has called us, and
+brought us to his own Spiritual Wor∣ship;
+in Obedience to whom we are
+what we are, in our Separation from
+the divers Ways of Worship in the
+World.</P>
+</DIV2>
+<DIV2 N="2" TYPE="section">
+<P>§. 2. And as our Worship stands
+in the Operation of the <HI>Spirit</HI> and
+<HI>Truth</HI> in our inward Parts, as before
+expressed, so does our <HI>Ministry.</HI> For
+<PB N="101" REF="58"/>
+as the Holy Testimonies of the Ser∣vants
+of God of Old, were from the
+Operation of his Blessed Spirit, so
+must those of his Servants be in every
+Age, and that which has not the Spi∣rit
+of Christ for its Spring and Source,
+is of Man, and not Christ. Christian
+Ministers are to minister <HI>what they re∣ceive:</HI>
+This is <HI>Scripture;</HI> now that
+which we receive, is not our own,
+less another Mans, but the <HI>Lord's:</HI>
+So that we are not only not to <HI>Steal</HI>
+from our Neighbours, but we are not
+to <HI>Study</HI> and speak our <HI>own words.</HI> If
+we are not to study what we are to
+say before Magistrates for our selves,
+less are we to study what we are to
+say <HI>for and from</HI> God to the People.
+We are to minister, <HI>as the Oracles of
+God;</HI> if so, then must we receive
+<HI>from Christ,</HI> God's Great Oracle, what
+we are to minister. And if we are
+to minister what we receive, then not
+what we Study, Collect, and beat
+out of our own Brains, for that is not
+the Mind of Christ, but our Imagi∣nations,
+<PB N="102" REF="59"/>
+and this will not Profit the
+People.</P>
+</DIV2>
+<DIV2 N="3" TYPE="section">
+<P>§. 3. This was recommended to
+the <HI>Corinthians</HI> by the Apostle <HI>Paul,
+1 Cor.</HI> 14. that they should speak <HI>as
+they were moved</HI> or <HI>as any thing was
+revealed to them, by the Spirit,</HI> for the
+Edification of the Church; for says
+he, <HI>Ye may all Prophecy;</HI> that is, ye
+may all Preach to Edification, <HI>as any
+thing is revealed to you,</HI> for the Good
+of others, <HI>and as the Spirit giveth Vt∣terance.</HI>
+And if the Spirit must give
+Christ's Ministers their Utterance,
+then those that are his, are careful not
+to utter any thing in his Name to the
+People, without his Spirit; and by
+good Consequence, they that go be∣fore
+the true Guide, and utter words
+without the Knowledge of the Mind
+of the Spirit, are none of Christ's Mi∣nisters:
+Such certainly run and God
+has not sent them, and they cannot
+Profit the People. And indeed, how
+should they, when it is impossible that
+meer Man, with all his Parts, Arts and
+<PB N="103" REF="59"/>
+Acquirements, <HI>can turn People from
+Darkness to Light, and from the Power
+of Satan to God,</HI> which is the very End
+and Work of the Gospel-Ministry.
+It must be Inspired Men, Men Gifted
+by God, taught and influenced by his
+Heavenly Spirit, that can be qualified
+for so great, so inward, and so Spiri∣tual
+a Work.</P>
+</DIV2>
+<DIV2 N="4" TYPE="section">
+<P>§. 4. <HI>Ministers</HI> of Christ are his
+<HI>Witnesses,</HI> and the Credit of a Wit∣ness
+is, that he has <HI>heard, seen</HI> or <HI>han∣dled:</HI>
+And thus the Beloved Disciple
+states the <HI>Truth</HI> and <HI>Authority</HI> of their
+<HI>Mission</HI> and <HI>Ministry; 1 John 1. 1, 3.
+That which we have heard, which we have
+seen with our Eyes, which we have looked
+upon and our hands have handled, that
+declare we unto you, that your Fellow∣ship
+may be with us, and truly our Fel∣lowship
+is with the Father, and with his
+Son Jesus Christ.</HI> I say, If Christ's
+Ministers are his <HI>Witnesses,</HI> they must
+know what they speak; that is, they
+must have experienced, and past
+through those <HI>States</HI> and <HI>Conditions,</HI>
+<PB N="104" REF="60"/>
+they Preach of, and practically know
+those Truths they declare of to the
+People, or they come not in by the
+Door, but over the Wall, and are
+<HI>Thieves</HI> and <HI>Robbers.</HI> He that has
+the Key of <HI>David</HI> comes in at the
+Door, Christ Jesus, and has his <HI>Ad∣mission</HI>
+and <HI>Approbation</HI> from him,
+<HI>anointed</HI> by him, the alone <HI>High Priest</HI>
+of the Gospel-Dispensation. He it is
+that breaths, and <HI>lays his hands</HI> upon
+his own Ministers, he anoints them,
+and recruits their Cruice, and renews
+their Horn with <HI>Oyl,</HI> that they may
+have it fresh and fresh, for every Oc∣casion
+and Service he calls them to,
+and engages them in.</P>
+</DIV2>
+<DIV2 N="5" TYPE="section">
+<P>§. 5. Nor is this all, <HI>but as they Re∣ceive
+freely, freely they Give:</HI> They do
+not Teach for <HI>Hire,</HI> Divine for <HI>Mony,</HI>
+nor Preach for <HI>Gifts</HI> or <HI>Rewards.</HI> It
+was Christ's Holy Command to his
+Ministers to give <HI>freely,</HI> and it is our
+Practice. And truly we cannot but
+admire that this should be made a
+Fault, and that Preaching for Hire
+<PB N="105" REF="60"/>
+should not be seen to be one; yea a
+<HI>Mark</HI> of False Prophets, when it has
+been so frequently and severely cried
+out upon, by the True Prophets of
+God in former times. I would not
+be Uncharitable, but the Guilty are
+desired to call to mind, who it was
+that offered Mony to be made a Mi∣nister,
+and what it was for; if not to
+get Mony and make a Trade or Live∣lihood
+by it; and what answer he
+met with from the Apostle <HI>Peter,
+Acts</HI> 8. 18, 19, 20. The Lord <HI>Touch</HI>
+the Hearts of those that are giving
+Mony to be made Ministers, in order
+to live by their Preaching, that they
+may see what ground it is they build
+upon, and repent, and turn to the
+Lord, that they may find Mercy, and
+become living Witnesses of his Power
+and Goodness in their own Souls; so
+may they be enabled to tell others
+<HI>What God has done for them,</HI> which is
+the <HI>Root</HI> and <HI>Ground</HI> of the true Mi∣nistry;
+and this Ministry it is that
+God does Bless. I could say much
+<PB N="106" REF="61"/>
+on this Subject, but let what has been
+said suffice at this time, only I can∣not
+but observe, that where any Re∣ligion
+has a strong Temptation of
+Gain to induce Men to be Ministers,
+there is great Danger of their run∣ning
+faster to that Calling, than be∣comes
+a true Gospel-Minister.</P>
+</DIV2>
+<DIV2 N="1" TYPE="section">
+<P><HI>§. 1. Object.</HI> But does not this sort
+of Ministry, and Worship, tend to make
+People careless, and Spiritual Pride in
+others, may it not give an occasion to
+great Mischief and Irreligion?</P>
+<P><HI>Answ.</HI> By no means; For when
+People are of <HI>Age,</HI> They, of right,
+expect their Inheritances; and the
+End of all Words is to bring Peo∣ple
+to the Great <HI>VVord,</HI> and then
+the Promise of God is Accomplished,
+<HI>They shall be all taught of
+me,</HI><NOTE PLACE="marg">Isa. 54. 13, 14.</NOTE> <HI>from the least to the
+greatest, and in Righteousness</HI> (pray
+mark that) <HI>they shall be Established,
+and great shall be their Peace.</HI> To
+this, of the Evangelical Prophet, the
+<PB N="107" REF="61"/>
+beloved Disciple agrees, and which
+is a full Answer to the Objection;
+<HI>These things have I written unto you,
+concerning them that Seduce
+you:</HI><NOTE PLACE="marg">1 John 2. 26, 27.</NOTE> <HI>But the <HI>Anointing,</HI>
+which ye have received of
+him, abideth <HI>in you,</HI> and ye <HI>need not</HI>
+that any Man teach you, but as the
+same Anointing teacheth you, of all
+things, and is Truth, and is no Lye:
+And even as it hath taught you, <HI>ye
+shall abide in him.</HI></HI> In which <HI>Three</HI>
+things are observable. <HI>1st,</HI> That he
+writ his Epistle upon an extraordina∣ry
+Occasion, <HI>viz.</HI> to prevent their
+<HI>Delusion. 2dly.</HI> That he asserts a
+nearer and superior Minister than
+himself, <HI>viz. The <HI>Anointing or
+Grace</HI></HI> they had received; and
+that not only in that particular
+Exigency, but in <HI>all Cases</HI> that
+might attend them. <HI>Thirdly,</HI> That
+if they did but take heed to the
+Teachings of it, they would have
+no need of Man's Directions, or fear
+of his Seducings. At least of <HI>no Mi∣nistry
+<PB N="108" REF="62"/>
+that comes not from the Power
+of the Anointing:</HI> Though I rather
+take the Apostle in the highest Sence
+of the Words, 2 <HI>Thess.</HI> 4. 9. Thus also
+the Apostle <HI>Paul</HI> to the <HI>Thessalonians.
+But as touching Brotherly Love, ye need
+not that I write unto you: For ye your
+selves are <HI>Taught of God</HI> to Love
+one another.</HI> But <HI>Helps</HI> are useful,
+and a great Blessing, if from God,
+such was <HI>John</HI> the <HI>Baptists;</HI> but re∣member
+he pointed all to Christ,
+<HI>John 1. 26. Lo the Lamb of God! I
+Baptize you with VVater, but he shall
+Baptize you with the Holy Ghost and
+with Fire,</HI> Mat. 3. 11. And so the
+true Ministry does. And while Peo∣ple
+are <HI>Sensual,</HI> and under such an
+<HI>Eclipse,</HI> by the Interposition of <HI>Sin</HI>
+and <HI>Satan,</HI> God is pleased to send
+forth his <HI>Inlightning</HI> Servants to awa∣ken
+and turn them <HI>from the Dark∣ness
+to the Light in themselves,</HI> that,
+through Obedience to it, they may
+come to be <HI>Children of the Light,</HI>
+John 12. 36, and have their fellow∣ship
+<PB N="109" REF="62"/>
+one with another in it, and an
+Inheritance, at last, with the Saints
+in Light for ever.</P>
+<P>And as it is the Way God has
+taken to Call and Gather People, so
+a <HI>Living</HI> and <HI>Holy Ministry</HI> is of great
+advantage, to <HI>VVatch over,</HI> and <HI>Build
+up</HI> the Young, and <HI>Comfort</HI> and <HI>Esta∣blish</HI>
+the feeble and simple Ones. But
+still I say, the <HI>more Inward,</HI> the <HI>less
+Outward:</HI> The more People come to
+be taught Immediately of God, by
+the Light of his Word and Spirit in
+their Hearts, the less need of out∣ward
+means, read <HI>Isa.</HI> 16. 19, 20.
+which is held by all to be a <HI>Gospel</HI>
+Promise, and the Sun and Moon
+there, as general understood to mean
+the external Means in the Church.
+Compare them with <HI>John 1. 13.
+Rom. 1. 19. 1 Cor. 2. 11, 15. 1 Thes.
+4. 9. 1 John 2. 20, 27. Rev.</HI> 21. 22,
+23, 24. All which points at what we
+assert of the sufficiency and glorious
+Priviledge of Inward and Spiritual
+Teachings. And most certainly, as
+<PB N="110" REF="63"/>
+Men <HI>Grow in Grace, and know the A∣nointing</HI>
+of the Word in themselves,
+the Dispensation will be less in
+Words (though in Words) and more
+in Life; and Preaching will, in great
+Measure, be turned into <HI>Praising,</HI> and
+the Worship of God, more into <HI>Walk∣ing
+with,</HI> than Talking of God: For
+that is <HI>VVorship indeed,</HI> that <HI>Bows</HI> to
+his Will at all Times, and in all Pla∣ces:
+The <HI>truest,</HI> the <HI>highest</HI> Worship
+Man is capable of in this World.
+And it is that Conformity that gives
+Communion, and there is no fellow∣ship
+with God, no Light of his Coun∣tenance
+to be enjoyed, no Peace and
+Assurance to be had, further than
+there is <HI>Obedience</HI> to his Will, and a
+<HI>Faithfulness</HI> to his Word, according
+to the Manifestation of the Light
+thereof in the Heart.</P>
+<P>I say, this is the <HI>truest</HI> and <HI>highest</HI>
+State of Worship; for <HI>Set Days and
+Places,</HI> with all the Solemnity of
+them, were most in Request <HI>in the</HI>
+weakest Dispensation. <HI>Altars, Ark,</HI>
+<PB N="111" REF="63"/>
+and <HI>Temples, Sabbaths</HI> and <HI>Festivals,</HI>
+&amp;c. are not to be found in the Wri∣tings
+of the New Testament. There,
+every Day's <HI>alike,</HI> and
+every Place is <HI>alike;</HI><NOTE PLACE="marg">Rom. 14. 5, 6, 7, 8, 17. 1 Cor. 8. 6. Col. 2. 16. 17. Phil. 1. 21. Gal. 2. 20.</NOTE> but
+if there were a Dedicati∣on,
+<HI>let it be to the Lord.</HI>
+Thus the Apostle, but
+he plainly shews a State beyond it,
+<HI>for to Live</HI> (with him) <HI>was Christ,
+and to Dye was Gain;</HI> for the Life he
+Lived, <HI>was by the Faith of the Son of
+God, and therefore it was not he that
+Lived, but <HI>Christ that Lived in
+him;</HI></HI> that is, that <HI>Ruled, Conducted,</HI>
+and <HI>bore Sway</HI> in him; which is the
+<HI>true Christian Life;</HI> the <HI>Supersensual
+Life;</HI> the <HI>Life of Conversion</HI> and <HI>Re∣generation;</HI>
+to which all the <HI>Dispen∣sations</HI>
+of God, and <HI>Ministry</HI> of his
+Servants have ever tended, as the <HI>Con∣summation</HI>
+of God's Work for Man's
+Happiness. Here every Man's a
+<HI>Temple,</HI> and every Family a <HI>Church,</HI>
+and every Place, is a <HI>Meeting-Place,</HI>
+and every Visit a <HI>Meeting.</HI> And yet
+<PB N="112" REF="64"/>
+a little while and it shall be so yet
+more and more; and a People the
+Lord is now Preparing to enter into
+this Sabbath or Degree of Rest.</P>
+<P>Not that we would be thought
+to <HI>undervalue Publick</HI> and Solemn
+Meetings: We have them all over
+the Nations where the Lord has cal∣led
+us. Yea, tho' but Two or Three
+of us be in a Corner of a County; we
+meet, as the Apostle Exhorted the
+Saints of his time, and Reproved such
+as Neglected to Assemble themselves.
+But yet shew we unto thee, O <HI>Rea∣der,</HI>
+a <HI>more excellent Way</HI> of Wor∣ship:
+For many may come to those
+Meetings, and go away <HI>Carnal, Dead,</HI>
+and <HI>Dry;</HI> but the Worshippers <HI>in
+Spirit</HI> and <HI>in Truth,</HI> whose <HI>Hearts</HI>
+Bow, whose <HI>Minds</HI> Adore the Eter∣nal
+God, <HI>that is a Spirit,</HI> in and by
+his Spirit, such as conform to his Will,
+and walk with him in a Spiritual Life,
+they are the <HI>True, Constant, Living,</HI>
+and <HI>Acceptable Worshippers;</HI> whether
+it be in Meetings or out of Meetings;
+<PB N="113" REF="64"/>
+And as with such, all outward Assem∣blies
+are greatly Comfortable, so al∣so
+do we meet for a <HI>Publick</HI> Testi∣mony
+of Religion and Worship, and
+for the <HI>Edification</HI> and <HI>Encouragement</HI>
+of those that are yet Young in the
+Truth, and to <HI>Call</HI> and <HI>Gather</HI> others
+to the knowledge of it, who are yet
+going astray; and Blessed be God,
+it is not in vain, since many are there∣by
+added to the Church, that we
+hope and believe shall be Saved.</P>
+</DIV2>
+</DIV1>
+<DIV1 N="11" TYPE="chapter">
+<PB N="114" REF="65"/>
+<HEAD>CHAP. XI.</HEAD>
+<HEAD TYPE="sub">Sect. 1. Against Tythes.
+Sect. 2. Against all
+Swearing. Sect. 3. A∣gainst
+War among Chri∣stians.
+Sect. 4. Against
+Salutation of the Times.
+Sect. 5. And for Plain∣ness
+of Speech. Sect. 6.
+Against mixt Marria∣ges.
+Sect. 7. And for plain∣ness
+in Apparel, &amp;c.
+no Sports and Pastimes
+<PB N="115" REF="65"/>
+after the manner of this
+World. Sect. 8. Of Ob∣serving
+Days. Sect. 9.
+Of Care of Poor, Peace
+and Conversation.</HEAD>
+<DIV2 N="1" TYPE="section">
+<P>§. 1. AND as God has been pleased
+to call us from an <HI>Human</HI>
+Ministry, so we cannot for Consci∣ence-sake
+<HI>Support</HI> and <HI>Maintain</HI> it, and
+upon that Score, and not out of <HI>Hu∣mour</HI>
+or <HI>Covetousness,</HI> we refuse to pay
+<HI>Tithes,</HI> or such-like pretended Dues,
+concerning which, many Books have
+been writ in our Defence: We can∣not
+Support what we cannot Ap∣prove,
+but have a Testimony against;
+for thereby we should be found <HI>In∣consistent</HI>
+with our selves.</P>
+</DIV2>
+<DIV2 N="2" TYPE="section">
+<P>§. 2. We dare not <HI>Swear,</HI> because
+Christ forbids it, <HI>Mat.</HI> 5. 34, 37. and
+<HI>James,</HI> his true follower. It is Need∣less
+as well as Evil, for the reason of
+<PB N="116" REF="66"/>
+Swearing, being <HI>Vntruth,</HI> that Men's
+<HI>Yea was not Yea,</HI> Swearing was used
+to awe Men to Truth Speaking, and
+to give others Satisfaction, that what
+was Sworn, was true. But the true
+Christians, <HI>Yea, being Yea,</HI> the end of
+an Oath is answered, and there∣fore
+the use of it is <HI>Needless, Super∣fluous,
+and cometh of</HI> Evil. The Apo∣stle
+<HI>James</HI> Taught the same Doctrine,
+and the Primitive Christians Practis∣ed
+it, as may be seen in the Book of
+<HI>Martyrs;</HI> as also the earliest and best
+of the Reformers.</P>
+</DIV2>
+<DIV2 N="3" TYPE="section">
+<P>§. 3. We also believe, that <HI>War
+ought to cease,</HI> among the followers of
+the <HI>Lamb</HI> Christ Jesus, who taught
+his Disciples to <HI>forgive and love their
+Enemies,</HI> and not to War against
+them, and kill them; and that there∣fore
+the Weapons of his true Follow∣ers
+are not <HI>Carnal</HI> but <HI>Spiritual;</HI> yet
+mighty, through God, to cut down
+<HI>Sin</HI> and <HI>Wickedness,</HI> and <HI>Dethrone</HI> him
+that is the Author thereof. And as
+this is the most Christian, so the most
+<PB N="117" REF="66"/>
+Rational Way; Love and Perswasion
+having more Force than Weapons of
+War. Nor would the worst of Men
+easily be brought to hurt those that
+they really think love them. 'Tis that
+Love and Patience must in the end
+have the Victory.</P>
+</DIV2>
+<DIV2 N="4" TYPE="section">
+<P>§. 4. We dare not give worldly
+Honour, or use the Frequent and
+<HI>Modish Salutations</HI> of the Times, see∣ing
+plainly, that <HI>Vanity, Pride</HI> and
+<HI>Ostentation</HI> belong to them. <HI>Christ</HI>
+also forbid them in his Day, and
+made the Love of them a Mark of
+Declension from the Simplicity of
+purer times; and his Disciples, and
+their Followers, were observed to
+have obeyed their Masters Precept.
+It is not to <HI>Distinguish</HI> our selves a
+Party, or out of <HI>Pride, Ill-breeding</HI> or
+<HI>Humour,</HI> but in Obedience to the
+Sight and Sence we have received
+from the Spirit of Christ, of the <HI>evil
+Rise</HI> and <HI>Tendency</HI> thereof.</P>
+</DIV2>
+<DIV2 N="5" TYPE="section">
+<P>§. 5. For the same Reason we
+have returned to the first <HI>Plainness</HI> of
+<PB N="118" REF="67"/>
+Speech, <HI>viz. Thou</HI> and <HI>Thee,</HI> to a
+single Person; which tho' Men give
+no other to God, they will hardly en∣dure
+it from us. It has been a great
+<HI>Test</HI> upon Pride, and shewn the <HI>Blind</HI>
+and <HI>weak Insides</HI> of many. This also
+is out of <HI>pure Conscience,</HI> whatever
+People may think or say of us for it.
+We may be Despised, and have been
+so often, yea, very evilly Entreated,
+but we are now better known, and
+People better Informed. In short, 'tis
+also both <HI>Scripture</HI> and <HI>Grammar,</HI> and
+we have Propriety of Speech for it,
+as well as Peace in it,</P>
+</DIV2>
+<DIV2 N="6" TYPE="section">
+<P>§. 6. We cannot allow of <HI>mix'd
+Marriages,</HI> that is, to joyn with such as
+are not of our Society; but Oppose
+and Disown them, if at any time
+any of our Profession so grosly err
+from the Rule of their Communion;
+yet Restore them upon sincere Re∣pentance,
+but not disjoyn them.
+The Book I writ of the Rise and Pro∣gress
+of the People called Quakers, is
+more full and express herein.</P>
+</DIV2>
+<DIV2 N="7" TYPE="section">
+<P><PB N="119" REF="67"/>
+§. 7. <HI>Plainness in Apparel and Fur∣niture,</HI>
+is another Testimony peculiar
+to us, in the degree we have bore it
+to the World: As also, <HI>few Words,</HI>
+and being <HI>at a Word.</HI> Likewise <HI>Tem∣perance</HI>
+in <HI>Food,</HI> and <HI>Abstinence</HI> from the
+<HI>Recreations</HI> and <HI>Pastimes</HI> of the World:
+All which we have been taught,
+by the Spirit of our Lord Jesus Christ,
+to be according to Godliness; and
+therefore we have long exhorted all
+that their <HI>Moderation may be known
+unto all Men, for that the Lord was at
+hand,</HI> to enter into Judgment with
+us for every Intemperance or Excess;
+and herein we hope we have been no
+ill Examples, or Scandal unto any
+that have a due Consideration of
+things.</P>
+</DIV2>
+<DIV2 N="8" TYPE="section">
+<P>§. 8. We cannot in Conscience to
+God, observe <HI>Holy days</HI> (so called) the
+Publick <HI>Fasts</HI> and <HI>Feasts,</HI> because of
+their <HI>Human</HI> Institution and Ordina∣tion,
+and that they have not a Divine
+<PB N="120" REF="68"/>
+Warrant, but are appointed in the
+Will of Man.</P>
+</DIV2>
+<DIV2 N="9" TYPE="section">
+<P>§. 9. Lastly, We have been lead,
+by this Good Spirit of our Lord <HI>Jesus
+Christ,</HI> of which I have treated in
+this Discourse, according to <HI>Pri∣mitive</HI>
+Practice, to have a <HI>due Care</HI>
+over one another, for the Preserva∣tion
+of the whole <HI>Society,</HI> in a Con∣versation
+<HI>suitable</HI> to their Holy Pro∣fession.</P>
+<P><HI>First,</HI> In respect to a <HI>strict</HI> Walk∣ing
+both towards those that are With∣out,
+and those that are Within; that
+their Conversation in the World, and
+Walking in and towards the Church,
+may be blameless. That as they
+may be <HI>Strict</HI> in the one, so they may
+be <HI>Faithful</HI> in the other.</P>
+<P><HI>Secondly,</HI> That Collections be made
+to supply the Wants of the <HI>Poor,</HI> and
+that care be taken of <HI>Widows</HI> and <HI>Or∣phans,</HI>
+and such as are helpless, as
+well in <HI>Council</HI> as about <HI>Subsistance.</HI></P>
+<P><PB N="121" REF="68"/>
+<HI>Thirdly,</HI> That all such as are in∣tended
+to Marry, if they have <HI>Pa∣rents,</HI>
+or are under the Direction of
+<HI>Guardians</HI> or <HI>Trustees,</HI> are obliged,
+<HI>First,</HI> to declare to them their Inten∣tion,
+and have their Consent <HI>before</HI>
+they propose it to one another, and
+the Meeting they relate to, who are
+<HI>also careful</HI> to examine their Clear∣ness,
+and being satisfied with it,
+They are by them allowed to Solem∣nize
+their Marriage in a Publick Se∣lect
+Meeting, for that Purpose Appoin∣ted,
+and not otherwise: Whereby all
+<HI>Clandestine</HI> and <HI>Indirect</HI> Marriages are
+prevented among us.</P>
+<P><HI>Fourthly,</HI> And to the end that this
+<HI>Good Order</HI> may be observed, for the
+Comfort and Edification of the whole
+<HI>Society,</HI> in the Ways of <HI>Truth</HI> and
+<HI>Soberness; Select</HI> Meetings, of <HI>Care</HI>
+and <HI>Business,</HI> are fix'd in all Parts,
+where we Inhabit, which are held
+<HI>Monthly,</HI> and which Resolve into
+<HI>Quarterly</HI> Meetings, and those into
+one <HI>Yearly</HI> Meeting, for our better
+<PB N="122" REF="69"/>
+Communication one with another, in
+those things that maintain <HI>Piety</HI> and
+<HI>Charity;</HI> that God, who by his Grace,
+has called us to be a People to his
+Praise, may have it from us, through
+his Beloved Son, and our Ever-blessed
+and Only Redeemer, Jesus Christ,
+for He is <HI>Worthy, Worthy,</HI> Now, and
+Ever; <HI>Amen.</HI></P>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="conclusion">
+<P>Thus, <HI>Reader,</HI> thou hast the <HI>Cha∣racter</HI>
+of the People called <HI>Quakers,</HI> in
+their <HI>Doctrine, Worship, Ministry,
+Practice</HI> and <HI>Discipline:</HI> Compare it
+with Scripture, and Primitive Exam∣ple,
+and we hope thou wilt find, that
+this short Discourse, hath, in good
+measure, Answered the Title of it,
+viz. <HI>Primitive Christianity Revi∣ved,
+in the Principles and Pra∣ctice
+of the People called</HI> Quakers.</P>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="publisher's advertisement">
+<PB REF="69"/>
+<HEAD>BOOKS Printed and Sold by T. Sowle, next to
+the Meeting-House in White-Hart-Court, in
+Gracious-Street. And at the Bible in Leaden-Hall-Street,
+near the Market, 1697.</HEAD>
+<P><HI>SAmuel Fisher</HI>'s Works, in <HI>Folio.</HI></P>
+<P>The Works of the Long, Mournful, and Sorrowful
+Distressed <HI>Isaac Penington</HI>'s, <HI>Folio.</HI></P>
+<P>William Bayly<HI>'s Works,</HI> Quarto.</P>
+<P>The Works of that Memorable aud Ancient Servant of
+Christ <HI>Stephen Crisp;</HI> containing also a Journal of his Life,
+giving an Account of his Convincement, Travels, Labours,
+and Sufferings in, and for the Truth. Price Bound 5 s.</P>
+<P>A Collection of the several Writings and Faithful Testi∣monies
+of that suffering Servant of God, and patient Fol∣lower
+of the Lamb, <HI>Humphry Smith.</HI> Price Bound 2 s. 6 d.</P>
+<P>A Collection of certain Epistles and Testimonies of Di∣vine
+Consolation, Experience, and Doctrine; Written by
+that Faithful, Patient and Long-suffering Servant of Christ,
+<HI>William Bennit.</HI> Price Bound 1 s. 8 d.</P>
+<P>The Memory of the Righteous Revived, being a brief
+Collection of the Books and Written Epistles of <HI>John Camm</HI>
+and <HI>John Audland:</HI> Together with several Testimonies re∣lating
+to those two Faithful Labourers. Price Bound 2 s.</P>
+<P>Truth Vindicated, by the Faithful Testimony and Wri∣tings
+of the Innocent Servant and Handmaid of the Lord,
+<HI>Elizabeth Bathurst,</HI> Deceased. Price Bound 1 s.</P>
+<P>Baptism and the Lord's Supper, Snbstantially Asserted;
+being an Apology in behalf of the People called <HI>Quakers,</HI> con∣cerning
+those Two Heads. By <HI>Robert Barclay.</HI> Price Bound
+1 s.</P>
+<P>A Catechism and Confessiion of Faith. By <HI>R. Barclay.</HI>
+Price Bound 9 d.</P>
+<P>No Cross, No Crown. A Discourse shewing the Na∣ture
+and Discipline of the Holy Cross of Christ. By <HI>W.
+Penn.</HI> In Two Parts. The Fifth Edition. Price 3 s.</P>
+<P>An Address to Protestants of all Perswasions; more espe∣cially
+the Magistracy and Clergy, for the Promotion of
+Virtue and Charity. In Two Parts. By <HI>W. Penn,</HI> a Pro∣testant.
+<PB REF="70"/>
+The Second Edition, Corrected and Enlarged.
+Price Bound 1 s. 6 d.</P>
+<P>An Account of <HI>W. Penn</HI>'s Travails in <HI>Holland</HI> and <HI>Ger∣many,</HI>
+for the Service of the Gospel of Christ; by way of
+Journal. Containing also divers Letters and Epistles writ
+to several Great and Eminent Persons whilst there. The
+Second Impression, Corrected by the Author's own Copy,
+with some Answers not before Printed. Price Bound 2 s.</P>
+<P>A Brief Account of the Rise and Progress of the People
+called <HI>Quakers,</HI> in which their Fundamental Principle, Do∣ctrines,
+Worship, Ministry and Discipline are plainly De∣clared,
+to prevent the Mistakes and Perversions that Ig∣norance
+and Prejudice may make to abuse the Credulous.
+With a Summary Relation of the former Dispensations of
+God in the World, by way of Introduction. By <HI>W. Penn.</HI>
+Price Bound 1 s.</P>
+<P>A Call to <HI>Christendom.</HI> By <HI>W. Penn.</HI> Price Stitch'd 3 d.
+Tender Counsel and Advice, <HI>&amp;c.</HI> By <HI>W. Penn.</HI> Price
+Stitch'd 3 d.</P>
+<P>The Harmony of Divine and Heavenly <HI>Doctrines,</HI> De∣monstrated
+in sundry Declarations on Variety of Subjects.
+Preached at the <HI>Quakers</HI> Meetings in <HI>London,</HI> by Mr. <HI>W.
+Penn,</HI> Mr. <HI>G. Whitehead,</HI> Mr. <HI>S. Waldenfield,</HI> Mr. <HI>B. Coole,</HI>
+Taken in Short-hand as it was delivered by them; aud now
+Faithfully Transcribed and Published for the Information
+of those who by reason of Ignorance may have received a
+Prejudice against them. By a Lover of that People. Price
+1 s. 6 d.</P>
+<P>Primitive Christianity Revived, in the Faith and Pra∣ctice
+of the People called <HI>Quakers.</HI> Written, in Testimo∣ny
+to the present Dispensation of God, through them to the
+World: That Prejudices may be Removed, the Simple In∣formed,
+the Well-enclined Encouraged, and the Truth and
+its Innocent Friends Rightly Represented. By <HI>W. Penn.</HI>
+Price 1 s.</P>
+<P><HI>Rabshakeh</HI> Rebuked, and his Railing Accusations Refu∣ted;
+containing, I. Some Reflections upon a late Sheet,
+Entituled, <HI>An Essay towards the allaying of</HI> George Fox <HI>his
+Spirit;</HI> by way of Introduction. II. A Reply to a later
+Book, Entituled, <HI>A Discovery of the Accursed Thing,</HI> &amp;c.
+<PB REF="70"/>
+<HI>Enlarged:</HI> both written by <HI>Thomas Crispe.</HI> III. A Display
+of some, amongst many, of his Self-contradictions and
+Tautologies; by way of Conclusion. By <HI>E. P.</HI> Price
+Stitch'd 6 d.</P>
+<P>A Diurnal Speculum; containing, I. A plain and easie
+Method to find out those things that are most useful to be
+known Yearly: And may serve as an Almanack for Thirty
+Years; and many other things suitable to the Matter, <HI>&amp;c.</HI>
+II. An Explanation of Weights, Money, and Measures,
+both Scriptural and Usual, with sundry Tables depending
+thereon, <HI>&amp;c.</HI> III. Some Remarks on <HI>England;</HI> or a Brief
+Account of every County, with the Names, and Days of
+the Markets, and the Chief Commodities therein, <HI>&amp;c.</HI>
+The whole consisting of Great Variety, explained by di∣vers
+Examples, the like in all particulars not extant; as by
+the Contents does more at large appear. Collected by <HI>J.
+B.</HI> Price Bound 1 s. 6 d.</P>
+<P>The Spirit of the Martyrs revived, in a brief Compendi∣ous
+Collection of the most Remarkable Passages and Living
+Testimonies of the True Church, Seed of God, and Faith∣ful
+Martyrs in all Ages. Price 2 s. 6 d.</P>
+<P>The Arraignment of Popery; being a Collection taken
+out of the Chronicles and other Books of the State of the
+Church in the Primitive Times. I. The State of the Pa∣pists;
+how long it was before the Universal POPE and
+MASS was set up; and the bringing in their Rudiments,
+Traditions, Beads, Images, Purgatories, Tythes and In∣quisitions.
+II. A Relation of the Cruelties they acted
+after the Pope got up, being worse than the <HI>Turk</HI> and
+<HI>Heathen: New Rome</HI> proving like <HI>Old.</HI> III. What the
+People of <HI>England</HI> Worshipped before they were Christi∣ans.
+IV. To which is added, the Blood of the Martyrs is
+the Seed of the Church. With several other things, very
+profitable for all that fear God to Read, Try and give
+Judgment by the Spirit of Truth, against the Worship of
+the Beast and Whore. Price 1 s. 6 d.</P>
+<P>Instructions for Right Spelling, and plain Directions for
+Reading and Writing True English. With several de∣lightful
+things, very Useful and Necessary, both for Young
+and Old to Read and Learn. Price 6 d.</P>
+<P><PB REF="71"/>
+A New Book for Children to Learn in. With many
+wholesome Meditations for them to consider. With Di∣rections
+for true Spelling. And the Ground of true Read∣ing
+and Writing of True English. Price 3 d.</P>
+<P>Miscellania: Or a Collection of Necessary, Useful, and
+Profitable Tracts on variety of Subjects, which, for their
+Excellency, and Benefit of Mankind, are compiled in one
+Volumn. By <HI>Thomas Tryon</HI> Phyfiologus. Price 1s.</P>
+<P>A Treatise of Charity; and as directed, Universal, un∣der
+the Law, and under the Gospel; (shewing the Nullity
+of all Religion without it) as also of Goodness, Providence,
+Riches, Poverty, Prosperity, and Adversity. And of Sa∣crificing
+and Feasting, their continuance under the Gospel.
+With a Paraphrase upon the Parable of <HI>Dives</HI> and <HI>Lazarus.</HI>
+Price Bound 1s.</P>
+<P>Antichrist Unvailed, by the Finger of God's Power;
+and his Visage Discovered by the Light of Christ Jesus, <HI>&amp;c.</HI>
+Written in the Love of God by a Prisoner (at <HI>Lancaster</HI>
+Castle) for the Testimony of Truth, and one of the Peo∣ple
+called (in Scorn) <HI>Quakers.</HI> Price Bound 2 s.</P>
+<P>An Account of the Life and Death of our Faithful Friend
+and Fellow-labourer in the Gospel, <HI>Thomas Markham;</HI> with
+several Testimonies concerning him, given forth by several
+Friends, whose Names are thereto Subscribed. Also a
+Testimony written by himself, for the Necessity of Wait∣ing
+on the Lord, and the Benefits thereof to Men: Where
+being Dead, he yet Speaketh. Price Stitch'd 4 d.</P>
+<P>Proposal for raising a Colledge of Industry of all useful
+Trades and Husbandry, with Profit for the Rich. A Plen∣tiful
+Living for the Poor, and a good Education for Youth.
+Which will be Advantage to the Government, by the In∣crease
+of the People, and their Riches. Price 4 d.</P>
+<P>An Epistle to Friends; shewing, the Great Difference
+between a Convinced Estate and a Converted Estate; and
+between the Profession of the Truth, and the Possession
+thereof; with the Comfort and Sweetness to the Soul it af∣fordeth.
+With a few Words of good Counsel and whole∣some
+Advice to both Parents and their Children. Price▪ 2 d.</P>
+<P>The Connterfeit Convert, a Scandal to Christianity, and
+his unjustly opposing Quakerism to Christianity justly re∣prehended.
+<PB REF="71"/>
+And the True Christ, and Scriptures confessed
+by the Quakers. In Opposition to Two Scandalous Books
+falsly stiled. I. <HI>Quakerism Withered, and Christianity Revi∣ving.</HI>
+II. <HI>Animadversions on</HI> G. Whitehead<HI>'s Book,</HI> Inno∣cency
+Triumphant. Price Stich'd 6 p.</P>
+<P>An Invitation, from the Spirit of Christ, to all that are
+a Thirst, to come and Drink of the Waters of Life freely,
+which proceed from the Fountain of Eternal Life: shewing
+how all may come, that are willing, to Drink thereof to
+their full Satisfaction; whereby they may attain unto per∣fect
+Health and Salvation of their Souls for ever in the Lord
+Jesus Christ. And also, shewing what it is that hindereth
+People from being truly a Thirst after the Waters of Life;
+and from coming to Drink thereof; with the destructive
+Quality of that which hindreth; and how it may be avoid∣ed.
+Concluded, with a Word to all Singers, upon a Religi∣ous
+or Spiritual Account. Written by one, who hath for
+a long time been deeply Distressed with Thirst after the
+Water of Life; but, through Mercy, hath Obtained Sa∣tisfaction
+thereby: Known by the Name of, <HI>Henry Mol∣lineux.</HI>
+Price Bound 1 s.</P>
+<P>The Spiritual Guide, which dis-intangles the Soul, and
+brings it by the inward Way, to the getting of perfect
+Contemplation, and the Rich Treasure of Internal Peace.
+Written by Dr. <HI>Michael de Molinos,</HI> Priest. Translated
+from the <HI>Italian</HI> Copy. Price Bound 9 d.</P>
+<P>An Essay towards the Present and Future Peace of <HI>Eu∣rope,</HI>
+by the Establishment of an <HI>European</HI> Dyet, Parlia∣ment,
+or Estates. Price Stich'd 2 d.</P>
+<P><HI>Spira Respirans;</HI> or the Way to the Kingdom of Heaven
+by the Gates of Hell; in an Extraordinary Example. By
+Person brought to the depths of Despair and Anguish, re∣covered
+by the mighty Grace and Power of God, and rais'<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+to the heights of Assurance and Joy. Wherein are som<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+uncommon Considerations concerning the manner of Salva∣tion
+and Damnation, Life and Death, Happiness an Miser<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+With some Fundamental Arguments for the Immortality
+the Soul. Price Stitch'd 6 d.</P>
+<P><PB REF="72"/>
+AN Epistle to Friends; briefly Commemorating the Gra∣cious
+Dealings of the Lord with them; and warning
+them to beware of that Spirit of Contention and Division
+which hath appeared of late in <HI>George Keith,</HI> and some
+few others that join with him, who have made a Breach
+and Separation from Friends in some Parts of <HI>America.</HI> By
+<HI>Thomas Ellwood.</HI> Price Stitch'd 6 d.</P>
+<P>The State of the Case, briefly but impartially given, be∣twixt
+the People called <HI>Quakers</HI> in <HI>Pennsylvania,</HI> &amp;c. in <HI>A∣merica,</HI>
+who remain in Unity; and <HI>George Keith,</HI> with
+some few Seduced by him into a Separation from them.
+As also a just Vindication of my Self from the Reproaches
+and Abuses of those Backsliders. By <HI>Samuel Jennings.</HI>
+Price Stitch'd 6 d.</P>
+<P>A Further Discovery of that Spirit of Contention and
+Division which hath of late appeared in <HI>George Keith,</HI> &amp;c.
+Being a Reply to two late Printed Pieces of his, the one
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ntituled, <HI>A Loving Epistle,</HI> &amp;c. The other, <HI>A Seasona∣<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>le.
+Information,</HI> &amp;c. Wherein his Cavils are answered,
+is Falshood is laid open, and the Guilt and Blame of the
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>each and Separation in <HI>America;</HI> and of the Reproach he
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ath brought upon Truth and Friends, by his late Printed
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ooke are fixed faster on him. Written by way of Epistle,
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> Recommended as a further Warning to all Friends.
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> <HI>Thomas Ellwood.</HI> Price Stitch'd 1 s.</P>
+<P>Truth Defended, and the Friends thereof Cleared, from
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> false Charges, soul Reproaches, and envious Cavils,
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> upon. It and Them, by <HI>George Keith</HI> (an Apostate
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> them) in two Books by him lately Published; the
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> being called, <HI>A True Copy of a Paper given into the Year-Meeting
+of the People called</HI> Quakers, <HI>&amp;c.</HI> The other, <HI>The
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>etended Yearly Meeting of the</HI> Quakers, <HI>their Nameless</HI>
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> <HI>of Excommunication,</HI> &amp;c. Both which Books are here∣<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>nswered, and his Malice, Injustice, and Folly, Exposed,
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> <HI>Thomas Ellwood.</HI> Price Stitch'd 1 s.</P>
+<P>An Apostate Exposed: Or, <HI>George Keith</HI> contradicting
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>self and his Brother <HI>Bradford;</HI> wherein their Testi∣<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>ny
+to the Christian Faith of the People called <HI>Quakers,</HI>
+<GAP DESC="illegible" RESP="tech" EXTENT="3 letters" DISP="•••"/>pposed to <HI>G. K</HI>'s late Pamphlet, Stiled, <HI>Gross, Error
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ypocrisie Detected.</HI> By <HI>John Penington,</HI> Price Stitch'd 3 d.</P>
+<P><PB REF="72"/>
+A Modest Account from <HI>Pennsylvania</HI> of the Principa<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+Differences in Point of Doctrine, between <HI>George Keith,</HI>
+and those of the People called <HI>Quakers,</HI> from whom he se∣parated;
+shewing his great Declension, and Inconsisten∣cy
+with himself therein, Recommended to the Serious
+Consideration of those who are turned aside, and joined
+in his Schism. Price Stitch'd 4 d.</P>
+<P>The People called <HI>Quakers</HI> cleared by <HI>George Keith,</HI> from
+the false Doctrines charged upon them by G. <HI>Keith;</HI> and
+his Self-Contradictions laid open in the ensuing Citations
+out of his Books. By <HI>John Penington.</HI> Price Stitch'd 4 d.</P>
+<P>More Work for <HI>George Keith:</HI> Being <HI>George Keith</HI>'s
+Vindication of the People called <HI>Quakers,</HI> as well in his
+Part of the Dispute held at <HI>Wheelers-Street,</HI> the Sixteenth
+Day of the Eighth Month, 1674. As in his Treatise against
+<HI>Thomas Hicks,</HI> and other <HI>Baptists,</HI> with the rest of their
+Confederate Brethren, at the <HI>Barbican</HI> Dispute, held at <HI>Lon∣don</HI>
+the twenty eighth of the Sixth Month, 1674. Price
+Stitch'd 4 d.</P>
+<P>The <HI>Quakers</HI> cleared from being Apostates: Or, the
+Hammerer Defeated, and proved an Impostor. Being an
+Answer to a Scurrilous Pamphlet, falsly Intituled, <HI>William
+Penn and the</HI> Quakers <HI>either Apostates or Impostors,</HI> subscri∣bed
+<HI>Trepidantium Malleus.</HI> With a Postscript, containing
+some Reflections on a Pamphlet, Intituled, <HI>The Spirit of</HI>
+Quakerism, <HI>and the Danger of their</HI> Divine Revelation <HI>laid
+open. By B. C.</HI> Price Stitch'd 6 d.</P>
+<P>An Answer to <HI>George, Keith</HI>'s Narrative of his Proceed∣ings
+at <HI>Turners-Hall,</HI> on the eleventh of the Month called
+<HI>June,</HI> 1696. Wherein his Charges against divers of the
+People called <HI>Quakers</HI> (both in that, and in another Book
+of his, called, <HI>Gross Error and Hypocrisie Detected)</HI> are
+fairly Considered, Examined, and Refuted. By <HI>Thomas
+Ellwood.</HI> Price 1 s. 6 d.</P>
+<P><HI>Keith</HI> against <HI>Keith:</HI> Or some more of <HI>George Keith's</HI>
+Contradictions and Absurdities, collected out of his own
+Books (not yet Retracted) upon a Review. Together
+with a Reply to <HI>George Keith</HI>'s Late Book, Entituled, <HI>The
+Antichrists and Sadduces detected among a sort of</HI> Quakers,
+<HI>&amp;c. By John Penington.</HI> Price Stitch'd 9 d.</P>
+<P><PB REF="73"/>
+Some Brief Observations upon <HI>George Keith</HI>'s Earnest
+Expostulation, contained in a Postscript to a late Book of
+his, Entituled, <HI>The Antichrists and Sadduces Detected,</HI> &amp;c.
+Offered to the Perusal of such as the said Expostulation
+was Recommended to. By <HI>E. P.</HI> Price Stitch'd 2 d.</P>
+<P>A Modest Detection of <HI>George Keith</HI>'s (miscalled) Just
+Vindication of his Earnest Expostulation: Published by him
+as a pretended Answer to a Late Book of Mine, Entituled,
+<HI>Some Brief Observations,</HI> &amp;c. By <HI>E. P.</HI> Price Stitch'd 4 d.</P>
+<P>A Few Queries relating to the Practice of Physick, with
+Remarks upon some of them. Modestly proposed to the
+serious Consideration of Mankind, in order to their Infor∣mation
+how their Lives and Healths, (which are so necessa∣ry,
+and therefore ought to be dear to them) may be
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>ter preserved. By <HI>H. Chamberlen,</HI> Physician in Or∣<GAP DESC="illegible" RESP="tech" EXTENT="3 letters" DISP="•••"/>ary
+to the Late King <HI>Charles</HI> the Second. Price
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>und 1 s.</P>
+<P>The Writing Scholar's Companion: Or, Infallible
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ules for Writing True English with Ease and Certainty:
+Drawn from the Grounds and Reasons of the English
+Tongue. Comprehending in a Full, Plain, and Exact
+Method, whatever is necessary to be observed in Writing
+True English. In Three Parts. Composed for the Benefit
+of all such as are Industriously Ambitious of so Commen∣dable
+an Ornament, as Writing true English is generally
+esteemed. Recommended especially to the Youth of both
+sexes, and to be Taught in Schools. Price Bound 1<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/></P>
+<P>The Good House-wife made a Doctor: Or, Health's
+choice and Sure Friend. Being a plain way of Nature's
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> prescribing, to prevent and Cure most Diseases in∣<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>ent
+to Men, Women, and Children, by Diet and Kitchin-Physick
+only. With some Remarks on the Practice of
+Physick and Chymistry. By <HI>Thomas Tryon,</HI> Student in
+Physick. The Second Edition. To which is added some
+Observations on the Tedious Methods of Unskilful <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>hi∣<GAP DESC="illegible" RESP="tech" EXTENT="3 letters" DISP="•••"/>gio<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>s;
+with Cheap and Easie Remedies. By the same
+Author. Price Bound 1 s. 6S.</P>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>
+

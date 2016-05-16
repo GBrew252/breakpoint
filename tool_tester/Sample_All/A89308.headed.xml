@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">Col: Morgan Governor of Glocester's letter to the Honoble William Lenthal Esq; Speaker to the Honorable House of Commons. Concerning the total routing and taking of Sir Jacob Ashley and his army upon the Wold, intended to joyn with His Majesties army at Oxford. Together with a list of the persons of quality, and officers in commission taken in that fight by the Parliaments forces. Ordered by the Commons assembled in Parliament, that this letter and list be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</TITLE><AUTHOR>Morgan, Thomas, Sir, d. 1679?</AUTHOR></TITLESTMT><EXTENT>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2008-09 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A89308</IDNO>
+
+
+<IDNO TYPE="stc">Wing M2747</IDNO>
+
+<IDNO TYPE="stc">Thomason E329_7</IDNO>
+
+<IDNO TYPE="stc">ESTC R200692</IDNO>
+
+<IDNO TYPE="eebo citation">99861369</IDNO>
+
+<IDNO TYPE="proquest">99861369</IDNO>
+
+<IDNO TYPE="vid">159612</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A89308)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 159612)</NOTE><NOTE>Images scanned from microfilm: (Thomason Tracts ; 54:E329[7])</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">Col: Morgan Governor of Glocester's letter to the Honoble William Lenthal Esq; Speaker to the Honorable House of Commons. Concerning the total routing and taking of Sir Jacob Ashley and his army upon the Wold, intended to joyn with His Majesties army at Oxford. Together with a list of the persons of quality, and officers in commission taken in that fight by the Parliaments forces. Ordered by the Commons assembled in Parliament, that this letter and list be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</TITLE><AUTHOR>Morgan, Thomas, Sir, d. 1679?</AUTHOR><AUTHOR>England and Wales. Parliament. House of Lords.</AUTHOR></TITLESTMT><EXTENT>8 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London: :</PUBPLACE>
+<PUBLISHER>Printed for Edw. Husband, printer to the Honorable House of Commons.,</PUBLISHER>
+<DATE>March 24. 1645. [i.e. 1646]</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Wing has publication year 1645[6]; Thomason catalogue lists under 1646.</NOTE><NOTE>Reproduction of the original in the British Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Stow-on-the-Wold (England) --  History --  Early works to 1800.</TERM><TERM>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2007-05</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2007-05</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2007-06</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2007-06</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2008-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A89308">
+<STC T="W">M2747</STC>
+<STC T="T">E329_7</STC>
+<BIBNO T="umi">99861369</BIBNO>
+<VID>159612</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y"/>
+<P>Col: <HI>Morgan</HI> Governor of <HI>Glocester</HI>'s
+LETTER
+TO
+The Hono<SUP>ble</SUP> <HI>William Lenthal</HI> <ABBR>Esq</ABBR>
+Speaker to the Honorable House of Commons.</P>
+<P>Concerning the total
+ROVTING
+AND
+Taking of Sir <HI>Jacob Ashley</HI> and his
+Army at <HI>Stowe</HI> upon the <HI>Wold,</HI>
+intended to joyn with His Ma∣jesties
+Army at <HI>Oxford.</HI></P>
+<P>Together with a LIST of the per∣sons
+of quality, and Officers in Commission
+taken in that fight by the Parliaments Forces.</P>
+<P><TEXT>
+<BODY>
+<DIV1 TYPE="license">
+<P>ORdered by the Commons assembled in Parliament, That
+this <HI>Letter</HI> and <HI>List</HI> be forthwith printed and published:</P>
+<CLOSER><SIGNED>H: Elsynge, Cler. Parl. D. Com.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT></P>
+<P>London: Printed for EDW. HUSBAND, Printer to the Honorable
+House of Commons. March 24. 1645.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="letter">
+<PB REF="2"/>
+<PB N="3" REF="2"/>
+<HEAD>TO
+The Honourable William Lenthal <ABBR>Esq</ABBR>
+Speaker of the Honourable House of Commons.</HEAD>
+<OPENER><SALUTE>Truly Honourable,</SALUTE></OPENER>
+<P><SEG REND="decorInit">H</SEG>Aving received a command from
+the honourable Committee of
+both Kingdomes to take charge
+of a Brigade of horse and foot,
+drawn out of the Garisons of <HI>Glo∣cester,
+Hereford</HI> &amp; <HI>Evesham,</HI> to prevent the Lord
+<HI>Ashleys</HI> conjunction with the Kings forces at
+<HI>Oxford;</HI> and to effect that designe I drew forth
+&amp; rendezvouzed seasonably betwixt Evesham
+and Warwick, notwithstanding the Lord <HI>Ash∣ley</HI>
+endeavoured by all wayes to get by me,
+which much foiled my Brigade to prevent in
+marching from place to place to secure the
+Fords upon the river <HI>Avon:</HI> yet after some
+<PB N="4" REF="3"/>
+considerations perceived that he was unwil∣ling
+to passe over so long as I lay near the ri∣ver,
+resolved upon Thursday last to draw off
+and to quarter at Cambdin, the most conve∣nient
+place wheresoever he made his passage,
+and that night had intelligence of his march
+from Droitwich near Worcester, towards
+Bitford, three miles from Evesham; whereof
+I presently advertised Colonel <HI>Walley</HI> and Co∣lonel
+<HI>Fleetwood,</HI> and sent post to Sir <HI>William
+Brereton,</HI> to desire the assistance of his Horse,
+which was accordingly granted. But upon
+Friday the Lord <HI>Ashley</HI> still continuing his
+march (and Sir <HI>William Breretons</HI> horse not
+come up) was forced to hold him in action for
+the space of four hours, skirmishing with him
+by parties, and keeping my Body drawn up
+in a most advantagious place for pursuit, in
+case he should passe by me (before Sir <HI>William
+Brereton</HI> came up) which about nine a clock
+that night he did: whereupon I resolved to
+pursue, thinking it more advantagious to fol∣low
+upon his rear, then at that time to draw
+out to meet him in the field; and in my pursuit
+Sir <HI>William Brereton</HI> came up with 800 horse,
+<PB N="5" REF="3"/>
+(of whom I desired to receive orders, but he
+referred the whole command of the field to
+me) then being equall in number to the Lord
+<HI>Ashleys</HI> forces consisting of 3000, I comman∣ded
+400 horse and 200 firelocks to charge
+home his Rear guard, to put him to a stand
+before he should passe through Stow upon the
+Wold (and as my intelligence informed me,
+the King was to have joyned with him with∣in
+seven miles of that place) where he made
+choice of his ground and had the wind with
+him: yet trusting in God I drew up and char∣ged
+him home (halfe an hour before day upon
+Saturday morning) put him to a totall rout,
+killed many Gentlemen and Officers of quali∣ty,
+took prisoners the Lord <HI>Ashley,</HI> and all his
+Foot officers, whose names are in the inclosed
+List, besides 1600 common Souldiers; where∣of
+many of them being wounded, I gave them
+liberty to go to their own homes, (taking the
+oath of the 5 of <HI>April)</HI> the rest are now sent
+to Glocester. I took also 2000 armes and all
+their ammunition. Sir <HI>William Brereton</HI> desi∣red
+that the Lord <HI>Ashley</HI> might be his prisoner,
+which I willingly condescended unto; not
+<PB N="6" REF="4"/>
+doubting but he will give a good account of
+him to the Parliament. This good successe,
+(the glory whereof I desire may be given unto
+God) will prevent the King from drawing an
+army into the field which he expected, and am
+now marched towards Worcester; where <HI>I</HI>
+shall observe such orders as shall come from
+the honourable house of Parliament, or the
+Committee of both Kingdomes; and in the
+mean time shall endeavour to make use of all
+opportunities to weaken the Enemy, and to
+advance the publick service. The honourable
+House was pleased to promise a summe of mo∣ney
+to this Brigade, which <HI>I</HI> hope you will
+be pleased to hasten down, that thereby Free
+Quarters may be prevented, and <HI>I</HI> enabled to
+prevent the disorders of the Souldiers in the
+countrey; which shall alwayes be the desire
+of him who will ever subscribe himself to be</P>
+<CLOSER><SALUTE>Sir,</SALUTE> <SIGNED> your Honors most
+faithfull and humble
+Servant THO. MORGAN.</SIGNED>
+<DATELINE><HI>Cambdin</HI> <DATE>the 22 of March
+1645 at 6 a clock at
+night.</DATE></DATELINE>
+<POSTSCRIPT>
+<P>There was no considerable Officers of ours slain but 2 Lievtenants,
+nor none wounded but Col. <HI>Rous,</HI> Governour of Evesham. <HI>T. M.</HI></P>
+</POSTSCRIPT></CLOSER>
+</DIV1>
+<DIV1 TYPE="list of prisoners">
+<PB N="7" REF="4"/>
+<HEAD>A Note of what Officers in Com∣mission
+are Prisoners.</HEAD>
+<LIST>
+<ITEM>THe Lord <HI>Ashley.</HI></ITEM>
+<ITEM>Colonel <HI>Corbet.</HI></ITEM>
+<ITEM><HI>Col:</HI> Gerard.</ITEM>
+<ITEM><HI>Col:</HI> Mauldsworth.</ITEM>
+<ITEM>Lieut. Col: <HI>Broughton.</HI></ITEM>
+<ITEM><HI>Major</HI> Billingsley.</ITEM>
+<ITEM><HI>Major</HI> Harnedge.</ITEM>
+<ITEM><HI>Major</HI> Sal<GAP DESC="illegible" REASON="over-inked" EXTENT="1 letter" DISP="•"/>onstone.</ITEM>
+<ITEM>Captain <HI>Ed. Gray.</HI></ITEM>
+<ITEM><HI>Capt.</HI> Tho: Gilbert.</ITEM>
+<ITEM><HI>Capt.</HI> Peacock.</ITEM>
+<ITEM><HI>Capt.</HI> Silvanus Hallsel.</ITEM>
+<ITEM><HI>Capt.</HI> Ardinge.</ITEM>
+<ITEM><HI>Capt.</HI> John Bonner.</ITEM>
+<ITEM><HI>Capt.</HI> Henry Bonner.</ITEM>
+<ITEM><HI>Capt.</HI> Joshua Smy.</ITEM>
+<ITEM><HI>Capt.</HI> Hutton.</ITEM>
+<ITEM><HI>Capt.</HI> Harinson.</ITEM>
+<ITEM><HI>Capt.</HI> Jewnger.</ITEM>
+<ITEM><HI>Capt.</HI> Harris.
+<LIST>
+<HEAD>Refor∣madoes</HEAD>
+<ITEM><HI>Capt.</HI> Ioh. Matthews</ITEM>
+<ITEM><HI>Capt.</HI> Devenport.</ITEM>
+<ITEM><HI>Capt.</HI> Geo: Wright.</ITEM>
+<ITEM>Capt. <HI>Pots.</HI></ITEM>
+<ITEM><HI>Capt.</HI> Smith.</ITEM>
+</LIST></ITEM>
+<ITEM>Lieutenant <HI>Hill.</HI></ITEM>
+<ITEM><HI>Lieut.</HI> Hopson.</ITEM>
+<ITEM><HI>Lieut.</HI> Edriswick.</ITEM>
+<ITEM><HI>Lieut.</HI> Warberton.</ITEM>
+<ITEM><HI>Lieut.</HI> George Fancot.</ITEM>
+<ITEM><HI>Lieut.</HI> Hobman.</ITEM>
+<ITEM><HI>Lieut.</HI> Benjamin Thornbury.</ITEM>
+<ITEM><HI>Lieut.</HI> Fletcher.</ITEM>
+<ITEM>Lieut. <HI>Kerk.</HI></ITEM>
+<ITEM>Lieut. <HI>Powle.</HI>
+<LIST>
+<HEAD>Refor∣madoes.</HEAD>
+<ITEM>Lieut. <HI>Smith.</HI></ITEM>
+<ITEM>Lieut. <HI>Hart.</HI></ITEM>
+<ITEM>Lieut. <HI>Kelly.</HI></ITEM>
+<ITEM><HI>Lieut.</HI> Vaughan.</ITEM>
+</LIST></ITEM>
+<ITEM>Capt. Lieut. <HI>Aston.</HI></ITEM>
+<ITEM><HI>Lieut.</HI> Ed. Barker.</ITEM>
+<ITEM><HI>Cornet</HI> Godfrey Preses.</ITEM>
+<ITEM>Cornet <HI>Brooks.</HI></ITEM>
+<ITEM><HI>Cornet</HI> Roberts.</ITEM>
+<ITEM>Cornet <HI>Russel.</HI></ITEM>
+<ITEM><HI>Corne<GAP DESC="illegible" REASON="over-inked" EXTENT="1 letter" DISP="•"/></HI> Francis Hesketh.</ITEM>
+<ITEM><HI>Ensign</HI> Blackburn.</ITEM>
+<ITEM>Ensign <HI>Horton.</HI></ITEM>
+<ITEM>Ensign <HI>Detheck.</HI></ITEM>
+<ITEM><PB N="8" REF="5"/>
+Ensign <HI>Ellis.</HI></ITEM>
+<ITEM>Ensign <HI>Farmor.</HI></ITEM>
+<ITEM>Ensign <HI>Ayres.</HI></ITEM>
+<ITEM>Ensign <HI>Cliever.</HI></ITEM>
+<ITEM>Ensign <HI>Hopson.</HI></ITEM>
+<ITEM><HI>Ensign</HI> Colebrook.</ITEM>
+<ITEM><HI>Ensign</HI> Broughton.</ITEM>
+<ITEM>Ensign <HI>Mason.</HI></ITEM>
+<ITEM>John de Ashfield <HI>Clerk.</HI></ITEM>
+<ITEM>Alexander Clogley, <HI>Chap∣lein
+to Sir</HI> William Vaug∣han.</ITEM>
+<ITEM><HI>Ed. Barker,</HI> Marshal Gene∣ral.</ITEM>
+<ITEM>Quartermaster <HI>Stone.</HI></ITEM>
+<ITEM>Quartermaster <HI>Wats,</HI> Re∣formado.</ITEM>
+<ITEM>Quartermaster <HI>Gardener,</HI></ITEM>
+<ITEM>Robert Weal <HI>Chyrurgion.</HI></ITEM>
+<ITEM>Richard Aston <HI>Gentleman,</HI></ITEM>
+<ITEM>Servant to the Lord
+<HI>Aston.</HI></ITEM>
+<ITEM><HI>Mr.</HI> William Gent.</ITEM>
+</LIST>
+<P>This is a true List of who is taken,
+besides the Names of some that are
+not yet brought in.</P>
+<CLOSER><SIGNED>T. M.</SIGNED></CLOSER>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

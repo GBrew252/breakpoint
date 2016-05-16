@@ -1,0 +1,2202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="3">An epitome of the history of faire Argenis and Polyarchus, extracted out of the Latin, and put in French, by that great and famous writer, M. N. Coeffeteau Bishop of Marseilles. And translated out of the French into English by a yong gentlevvoman. Dedicated to the Lady Anne Wentvvorth</TITLE><TITLE TYPE="alt" I2="0">Histoire de Poliarque et d'Argenis. English</TITLE><AUTHOR>Coeffeteau, Nicolas, 1574-1623.</AUTHOR></TITLESTMT><EXTENT>Approx. 94 KB of XML-encoded text transcribed from 44 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2005-12 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A03845</IDNO>
+
+
+<IDNO TYPE="stc">STC 1396</IDNO>
+
+<IDNO TYPE="stc">ESTC S104485</IDNO>
+
+<IDNO TYPE="eebo citation">99840223</IDNO>
+
+<IDNO TYPE="proquest">99840223</IDNO>
+
+<IDNO TYPE="vid">4699</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A03845)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 4699)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1475-1640 ; 823:12)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="3">An epitome of the history of faire Argenis and Polyarchus, extracted out of the Latin, and put in French, by that great and famous writer, M. N. Coeffeteau Bishop of Marseilles. And translated out of the French into English by a yong gentlevvoman. Dedicated to the Lady Anne Wentvvorth</TITLE><TITLE TYPE="alt" I2="0">Histoire de Poliarque et d'Argenis. English</TITLE><AUTHOR>Coeffeteau, Nicolas, 1574-1623.</AUTHOR><AUTHOR>Man, Judith.</AUTHOR><AUTHOR>Barclay, John, 1582-1621. Argenis.</AUTHOR></TITLESTMT><EXTENT>[16], 71, [1] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed by E. G[riffin] for Henry Seile at the Tygers head in Fleetstreet,</PUBLISHER>
+<DATE>1640.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>A prose summary of: Barclay, John.  Argenis.</NOTE><NOTE>Translation of: Coeffeteau, Nicolas.  Histoire de Poliarque et d'Argenis.</NOTE><NOTE>Translator's dedication signed: Iudith Man.</NOTE><NOTE>Printer's name from STC.</NOTE><NOTE>Running title reads: Faire Argenis.</NOTE><NOTE>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2005-03</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2005-03</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2005-04</DATE><RESPSTMT><RESP>Jonathan Blaney</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2005-04</DATE><RESPSTMT><RESP>Jonathan Blaney</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2005-10</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A03845">
+<STC T="S">1396</STC>
+<BIBNO T="umi">99840223</BIBNO>
+<VID>4699</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>AN
+EPITOME
+OF THE
+HISTORY
+OF FAIRE
+ARGENIS
+AND
+POLYARCHUS,
+Extracted out of the Latin, and put
+in French, by that Great and
+Famous Writer,
+M. N. COEFFETEAV
+<HI>Bishop of Marseilles.</HI></P>
+<P>And translated out of the French into
+English by a yong GENTLEVVOMAN.</P>
+<P><HI>DEDICATED</HI>
+To the Lady ANNE WENTVVORTH.</P>
+<P>LONDON,
+Printed by <HI>E. G.</HI> for <HI>Henry Seile</HI> at the Tygers
+head in Fleetstreet. 1640.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>TO THE
+MOST VERTVOVS
+MY MOST
+HONORED LADY,
+THE LADY
+ANNE WENTWORTH,
+Eldest Daughter
+To the Right Honorable
+the Earle of Strafford, Lord
+Lieutenant of Ireland.</HEAD>
+<OPENER><SALUTE>MADAM,</SALUTE></OPENER>
+<P><SEG REND="decorInit">I</SEG>T is not needfull, I
+should use many
+words, to let <HI>You</HI>
+know, that this Booke belongs
+<PB REF="3"/>
+to <HI>Your Ladiship,</HI> It suffi∣cing
+that <HI>You</HI> know, I am
+<HI>Yours,</HI> (since <HI>You</HI> gave me
+the liberty, to call my selfe so,
+when I had the Honour to bee
+admitted into the House of my
+<HI>Lord Your Father,</HI> where
+my Parents did introduce me,
+and where I have profited neere
+<HI>You</HI> and my <HI>Lady Ara∣bella
+Your Sister,</HI> as in a
+Schoole of Vertue) whence it
+followes, that Jonely give <HI>You</HI>
+that which is <HI>Yours,</HI> being
+found in me: and though it
+should be otherwise, I could not
+<PB REF="3"/>
+present it to any one, that deser∣ved
+it better then <HI>Your selfe.</HI></P>
+<P>The reading of this <HI>Epitome,</HI>
+MADAM, which I dedicate
+unto <HI>You,</HI> as being <HI>Yours,</HI>
+and which I put to light under
+<HI>Your</HI> protection, will represent
+<HI>ARGENIS</HI> unto <HI>You,</HI> as the
+Fairest, most Vertuous, and
+Constant <HI>Princesse</HI> of <HI>Her</HI>
+time. And I have thought, rea∣ding
+this <HI>History,</HI> that I have
+seene <HI>Your</HI> true portraiture in
+the person of this <HI>Faire La∣dy.</HI>
+For, making a Parallell of
+this <HI>Princesse</HI> with <HI>Your
+<PB REF="4"/>
+Honour</HI> I finde <HI>You</HI> very
+suteable; yea I can witnesse
+with truth, that <HI>You</HI> surpasse
+<HI>Her:</HI> since that besides the
+<HI>Beauty</HI> of the <HI>Body</HI> where∣with
+Nature hath endowed
+<HI>You; You</HI> are also inrich'd
+with that of the <HI>Soule</HI> beyond
+measure; and as touching <HI>Ver∣tue</HI>
+whereof <HI>You</HI> are a Pat∣terne,
+<HI>You</HI> excell <HI>Her,</HI> being
+<HI>Vertue</HI> it selfe. <HI>You</HI> have
+besides the knowledge of the
+<HI>True GOD,</HI> which is the
+Ground and Basis thereof, and
+whereof our <HI>ARGENIS</HI> was
+<PB REF="4"/>
+ignorant; and as for <HI>Con∣stancy,
+You</HI> have not (I dare
+say,) <HI>Your</HI> equall, seeing <HI>You</HI>
+are resolved, to be conformable
+unto the Will of <HI>GOD,</HI> and of
+my <HI>Lord Your Father.</HI> To
+which may bee added <HI>Your</HI>
+Birth (as well as unto our <HI>AR∣GENIS</HI>)
+which makes <HI>You</HI>
+truely worthy to beare the
+<HI>Pearled Crowne,</HI> where∣with
+my <HI>Lord Your Fa∣ther</HI>
+hath beene Honoured,
+without asking or intercession;
+but by the <HI>Kings</HI> onely Will,
+who gave it <HI>Him</HI> for <HI>His</HI> e∣minent
+<PB REF="5"/>
+Vertue and good Ser∣vices;
+being of the number of
+those of whom the French Pro∣verbe
+makes mention; saying,
+<HI>TEL DEMANDE ASSEZ, QUI BIEN
+SERT.</HI></P>
+<P>And to conclude <HI>MADAM,</HI>
+I say, that-even as it hath
+pleased <HI>GOD,</HI> to fill our <HI>AR∣GENIS</HI>
+with Joy and Content,
+giving <HI>Her, Her POLIAR∣CHUS,</HI>
+as the most Compleat
+<HI>Prince</HI> of the Earth, <HI>He</HI> may
+send <HI>You</HI> for <HI>Your,</HI> and
+<HI>Your most Honourable
+Parents</HI> Comfort, a <HI>Hus∣band</HI>
+<PB REF="5"/>
+worthy of <HI>You,</HI> And
+I am confident, <HI>Hee</HI> will bee
+farre Compleater then <HI>POLI∣ARCHUS.</HI>
+These are the
+Wishes</P>
+<CLOSER><SALUTE>MADAM,</SALUTE>
+<SIGNED>Of your most humble,
+most affectionate,
+most obedient, and
+most obliged servant,
+Judith Man.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="6"/>
+<PB REF="6"/>
+<HEAD>To the Courteous Reader.</HEAD>
+<P><SEG REND="decorInit">G</SEG>entle Reader, my hu∣mor
+inclining to Me∣lancholy,
+induces me
+sometimes, to seeke in
+my Closet for some diversion, in
+the reading of Bookes, suteable
+to a Gentlewoman of my quality,
+and of eighteene yeeres of age;
+That is it wherein I have most per∣ticularly
+applied my selfe this
+Christmas, and amongst the rest,
+in the reading of this Booke,
+which hath pleased me; not only
+for the subject whereof it treats,
+but also, comming from the
+hands of an Author, whose me∣mory
+<PB REF="7"/>
+I honor, though of a contra∣ry
+Beliefe to mine, because that
+being in France, in my Parents
+company, I have heard a great
+esteeme to be made of him, as of
+the most learned Prelate of his
+time. So as I might make my selfe,
+so much the more perfect, in the
+French tongue, I resolved to tran∣slate
+it, for my owne particular
+satisfaction, having no other de∣signe,
+then to warme my selfe
+therewith; as I have done with
+some others: But I could not
+make this Worke so secretly, but
+that those who watch over my
+actions, and endeavour my diver∣sion,
+had notice thereof, by whom
+I have beene in a manner forc'd
+(least <HI>I</HI> should trangresse against
+<PB REF="7"/>
+the Law of God)▪ to expose it to
+the publike view; And all the
+favour which <HI>I</HI> could obtaine,
+hath beene to suffer mee to make
+choice of a second ARGENIS,
+under whose Protection <HI>I</HI> sent it.
+And J intreat thee, <HI>Gentle Rea∣der,</HI>
+to oblige me so farre, as not
+to presume that J doe it, out of
+vanity; because it is not without
+example, and could produce thee
+many of my sexe, who have traced
+me the way, witnesse the translati∣on
+into French of Sir <HI>Philip
+Sidneys Arcadia,</HI> the <HI>New Amaran∣tha,</HI>
+and the <HI>Vrania,</HI> with many
+others; neither have I done it to
+be spoken of, knowing very well,
+that those of, my sexe, who are
+least spoken of, are the more to
+<PB REF="8"/>
+bee esteemed: But onely have I
+done it by meere obedience and
+duty, therefore I pray thee to ex∣cuse
+the faults, if there be any, and
+remember, that women (for the
+most part) are unacquainted with
+the studie of Sciences; and by
+that meanes, may sooner erre; Also,
+I esteeme that thou art Courteous
+enough, to use mee according to
+the courtesie and custome, due to
+the Ladies of this Countrie, where
+I was borne; And of whose Pri∣viledge
+I make use, giving ARGE∣NIS
+the precedency, rather then
+unto POLIARCHVS in the Fron∣tispice
+of this Booke; And in so
+doing, <HI>I</HI> shall not be a little obli∣ged
+to thee.</P>
+<CLOSER><SIGNED>J. M.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="stationer to the reader">
+<PB REF="8"/>
+<HEAD>The Stationer to
+the Reader.</HEAD>
+<P><HI><SEG REND="decorInit">G</SEG>Entlemen,</HI> I should not
+hold my selfe satisfied
+with my Impression, if I
+did not tell you, that I
+hold it for a favour, in the beginning
+of this yeare, to see my Shop adorned
+with this little <HI>Volume,</HI> which comes
+from the hands of one of the most Ver∣tuous,
+and Comeliest <HI>Gentlewomen</HI>
+of this Countrey, and which belies not
+her birth, which is truely Noble.
+And but that shee is full of respect
+and humility towards ARGENIS,
+<PB REF="9"/>
+and the FAIRE LADV, unto
+whom she hath Dedicated this Worke,
+they could make the most agreeable
+concordance, that could be seene; Also
+viewing them together (though with
+the eyes of the minde) I imagine I see
+the <HI>Graces,</HI> or those three <HI>Faire God∣desses,</HI>
+which puzzled so much, that
+<HI>Judge of Beauty.</HI> And therefore I
+desire You <HI>Gentlemen,</HI> to esteeme it,
+as this reputation merits, that you
+may not but applaud her, to the end that
+hereafter, she may make you partakers
+of her lucubrations; and in case you
+finde any faults, attribute them unto
+the Printer, for they are his, as pro∣ceeding
+from the Impression. God
+preserve you.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB N="1" REF="9"/>
+<HEAD>THE
+HISTORY
+OF FAIRE
+ARGENIS
+AND
+POLIARCHUS
+EPITOMIZ'D.</HEAD>
+<P><SEG REND="decorInit">F</SEG>ORTUNE proud and
+insolent, beyond all ima∣ginationd,
+emands a sump∣tuous
+Theater, to cause
+the might of <HI>Her Empire,</HI>
+to appeare. It is in the <HI>Court</HI> of Great
+<HI>Kings,</HI> where <HI>She</HI> elevates the Trophies
+of <HI>Her</HI> tyranny, &amp; where <HI>She</HI> brandishes
+<HI>Her</HI> vanity. It is there that <HI>She</HI> takes de∣light,
+to breake a <HI>Scepter</HI> a sunder, to o∣verthrow
+a <HI>Crowne,</HI> and to tread under
+<PB N="2" REF="10"/>
+foot, all this pride of the earth, to the
+end <HI>She</HI> might render <HI>Her</HI> victories, so
+much the more glorious by such magni∣ficent
+ruines, and <HI>Her</HI> Trophies the more
+illustrious, by such noble spoiles. But if
+amongst those Tragick accidents, <HI>She</HI>
+doth afford some cause of contentment,
+<HI>She</HI> doth temper it with so much bitter∣nesse,
+that ordinarily, there is more
+prickles then Roses found in <HI>Royalty.</HI>
+This <HI>History</HI> is a lively portraiture ther∣of,
+and causes us to see remarkable ex∣amples
+in it.</P>
+<P><HI>Meleander King of Sicily,</HI> possessing a
+rich State, and seeing himselfe adored
+by <HI>His</HI> subjects, who tasted with an ex∣traordinary
+delight, the mildnesse of
+<HI>His</HI> government, thought to be arrived
+at the height of <HI>His</HI> glory. And that <HI>He</HI>
+might say he was happy on all sides, <HI>He</HI>
+was <HI>Father</HI> of a <HI>Daughter</HI> so accom∣plished
+in all kinds of perfections, that
+those who saw <HI>Her,</HI> imagined that <HI>Hea∣ven</HI>
+had assembled all the treasures of
+beauty, and gathered all the riches of
+comlinesse, to forme this lofty <HI>Master∣peece</HI>
+<PB N="3" REF="10"/>
+of nature. <HI>He</HI> imagined that this
+yong <HI>Sunne,</HI> should be the ornament of
+his <HI>Crowne,</HI> the prop of his <HI>State,</HI> the de∣light
+of his <HI>Life,</HI> and the consolation of
+his <HI>Old age.</HI> But men are ignorant of their
+destinies, and know not what may be∣fall
+them. The event then, made <HI>Him</HI>
+know, that as the greatest lights are
+subject unto the greatest shadows, so the
+greatest prosperities are exposed un∣to
+the greatest accidents, therefore one
+must not so much trust unto the favours
+of <HI>Fortune,</HI> but that one must dread <HI>Her</HI>
+inconstancy.</P>
+<P><HI>Argenis</HI> then was the name of the
+<HI>Heire of Sicily,</HI> which ought to be as a
+living spring of all goodnesse to <HI>Her Fa∣ther</HI>
+and <HI>Her State,</HI> sees <HI>Her</HI> selfe to be
+the subject of a furious and bloody
+warre, raised by a <HI>Prince,</HI> one of <HI>Melean∣der's</HI>
+subjects, who having had the te∣merity,
+to aske <HI>Her</HI> in marriage, recei∣ved
+the refusall which his presumption
+merited. The image of this contempt,
+made such a furious impression upon
+this wilde and ambitious spirit, that to
+<PB N="4" REF="11"/>
+take revenge, hee resolved to put the
+<HI>Father</HI> out of the world, and to steale
+away the <HI>Daughter</HI> to crowne his parri∣cide.
+This execrable designe had come
+to passe, if the <HI>Divinity,</HI> which hath a
+speciall care of <HI>Crownes,</HI> and which loves
+<HI>Kings,</HI> had not miraculously put by, the
+misfortune whereof the <HI>Sicilian Scepter</HI>
+was threatned. All <HI>Europe,</HI> and <HI>Affrick</HI>
+also were filled with the rumor of <HI>Arge∣nis's</HI>
+beauty, which was placed amongst
+the wonders of the world and nature.
+A thousand yong couragious spirits,
+taken with <HI>Her</HI> love, had resolved to
+serve <HI>Her,</HI> and to imploy all their indu∣stry
+and valour, to insinuate themselves
+in <HI>Her</HI> favour. Amongst the rest <HI>Poliar∣chus
+Prince of France,</HI> and <HI>Heire</HI> of one of
+the fairest <HI>Crownes</HI> in the world, suffe∣ring
+<HI>Himselfe</HI> to bee transported with
+this passion, sought out for this glory
+with more successe then wisedome.
+(But ought one to looke for any in
+love?) Imagining in <HI>Himselfe</HI> that an
+extraordinary beauty merited no com∣mon
+pursuits; <HI>Hee</HI> left his <HI>Kingdome,</HI>
+<PB N="5" REF="11"/>
+and taking a <HI>Gentlewomans</HI> habit, crossed
+the sea, and went to <HI>Sicily,</HI> where <HI>He</HI> in∣formed
+<HI>Himselfe</HI> diligently of the place
+where the <HI>Princesse</HI> was, to whom <HI>He</HI>
+desired, with so much passion to offer
+<HI>His</HI> service. <HI>Meleander</HI> fearing least de∣spaire
+should cause <HI>Lycogenes</HI> to procure
+some shame unto <HI>Her,</HI> had placed <HI>Her</HI> in
+a strong Hold, where <HI>She</HI> passed the
+time with <HI>Her</HI> maids, being visited of
+none but <HI>Her Father,</HI> who sometime
+going from <HI>Syracuse</HI> (which was not
+farre from thence,) came to see <HI>Her,</HI> and
+stayed with <HI>Her</HI> to divert <HI>Himselfe</HI> in
+<HI>Her</HI> company. <HI>Poliarchus</HI> following <HI>His</HI>
+designe, goes that way, and spying the
+meanes, to enter in this agreeable soli∣tarinesse,
+takes <HI>His</HI> journey towards <HI>Sy∣racuse,</HI>
+where being arrived <HI>He</HI> finds
+by good fortune <HI>Solenissa Argenis'ses</HI>
+Governesse within the <HI>Temple of Iuno,</HI>
+where <HI>She</HI> was at <HI>Her</HI> devotions. He
+had learn'd in what ranke she was with
+the <HI>Princesse. He</HI> cals her aside, and ha∣ving
+cast <HI>Himselfe</HI> at her feet, beseeches
+her to take pitty on the most unfortu∣nate
+<PB N="6" REF="12"/>
+<HI>Lady</HI> which the Sunne shined on,
+on earth, and to give <HI>Her</HI> the meanes to
+tell <HI>Her</HI> some thing, which could not be
+knowne to any but she, unto whom <HI>She</HI>
+brought letters from a great <HI>Princesse.</HI>
+The <HI>Strangers</HI> comely behaviour, the
+novelty of <HI>Her</HI> habit, and <HI>Her</HI> language,
+which shewed <HI>She</HI> was not of the <HI>Court
+of Sicily,</HI> caused in <HI>Selenissa</HI> a desire to
+learne what <HI>She</HI> would say. Then going
+out of the throng, <HI>She</HI> leads <HI>Her,</HI> to her
+sisters house, and entred alone in a
+Closet fit to receive <HI>Her</HI> most secret
+thoughts. Then <HI>Poliarchus</HI> kissing the
+letters gives them unto <HI>Her,</HI> and at last
+leads so happily this enterprize, that <HI>He</HI>
+causes himselfe to be taken for a <HI>French
+Princesse,</HI> which the rage of <HI>Her Vncle</HI>
+had driven into <HI>Sicily</HI> to looke out for
+the refuge and surety, which <HI>She</HI> could
+not finde in <HI>Her Realme</HI> amongst <HI>Her</HI>
+friends. My name, said <HI>he,</HI> is <HI>Theocrine
+the Kings daughter, and Sister unto the
+Heire of the Crowne of France,</HI> whom this
+parricide (who hath procured all my
+mis-fortunes,) hath caused to be poiso∣ned
+<PB N="7" REF="12"/>
+that hee might usurpe his <HI>Diadem.</HI>
+That which made her to give more
+faith unto his words, was, that calling
+a Freed slave who gave <HI>Her</HI> a Cabinet,
+which <HI>She</HI> had committed to his charge,
+<HI>She</HI> drew forth the most exquisite rich∣es,
+and the fairest precious stones, that
+were ever seene in <HI>Europe;</HI> then with a
+magnificence which truely resembled
+a great <HI>Princesse,</HI> gave such a great num∣ber
+unto <HI>Selenissa,</HI> that at the instant
+(suffering her selfe to bee dazled with
+their sparkling and radiation) <HI>She</HI>
+bound her selfe with a strong tye of
+affection unto <HI>Poliarchus,</HI> which she took
+for <HI>Theocrine.</HI> Whereupon <HI>Theocrine</HI>
+conjured her to embrace <HI>Her</HI> affaires,
+and to procure that favour towards <HI>Ar∣genis,</HI>
+that <HI>She</HI> might receive <HI>Her</HI> into
+<HI>Her</HI> company, where <HI>She</HI> pretended not
+to hold the ranke of a <HI>Princesse,</HI> but
+would esteeme her selfe happy to hold
+the quality of a <HI>Waiting-woman.</HI></P>
+<P><HI>Selenissa</HI> being touch'd with <HI>Her</HI> com∣plaints,
+offers <HI>Her</HI> all manner of assi∣stance,
+neverthelesse, said she unto <HI>Her,</HI>
+<PB N="8" REF="13"/>
+to give you accesse in the <HI>Princesses</HI>
+house, is a thing which is not in my
+power, by reason of the strict defence,
+which the King hath made, not to suffer
+any strangers of either sexe to see <HI>Her.</HI>
+But <HI>Theocrine,</HI> who desired noting more,
+then to enjoy this glory, conjures her
+to breake this obstacle, and to mediate
+this favour towards the <HI>King,</HI> with
+whom <HI>She</HI> doubted not, but shee was
+powerfull, since <HI>He</HI> had committed to
+her trust that which <HI>He</HI> held most deare
+in the world, the <HI>Princesse his daughter.</HI>
+Being overcome by such charming in∣treaties,
+shee undertakes to enforme
+<HI>Meleander</HI> of this, whom <HI>She</HI> soone after
+caused to yeeld, telling <HI>Him</HI> al the good
+which shee could invent of this faire
+<HI>Stranger.</HI> At her returne, she declares
+unto <HI>Argenis,</HI> the occasion of her jour∣ney,
+&amp; makes <HI>Her</HI> so favorable a report
+of the beauty, comlinesse, and magnifi∣cence
+of <HI>Theocrine,</HI> that <HI>She</HI> offers not
+onely to receive <HI>Her</HI> as a great <HI>Princesse,</HI>
+but also to love <HI>Her</HI> as <HI>Her Sister.</HI> Being
+then inflamed, with a desire to see <HI>Her,
+<PB N="9" REF="13"/>
+She</HI> commands that without any further
+delay, <HI>She</HI> should be brought in, that
+<HI>She</HI> might see if <HI>Her</HI> presence would
+equall the glorious praises which were
+giuen <HI>Her. She</HI> is then where <HI>She</HI> desires.
+At this first enterview, <HI>She</HI> forgets no∣thing
+of <HI>Her</HI> good behaviour, allure∣ments,
+and attractive lookes, to charme
+the <HI>Princesses</HI> heart, who begins to bee
+but one <HI>Soule</HI> with <HI>Hers. She</HI> can so
+artificially accommodate <HI>Her</HI> humour
+unto that of <HI>Argenis,</HI> that in a short
+time <HI>She</HI> doth purchase a full power
+over <HI>Her</HI> mind, though not in the same
+quality which <HI>She</HI> wished. They then,
+passed away the time so sweetly toge¦ther,
+that they thought they were in
+Heavens glory. But <HI>Licogenes,</HI> unto whō
+the remembrance of the injury, which
+he thought to have received, gave him
+cruell torments, raised a tempest which
+troubled the calme of their de∣lights.
+For, having plotted with his
+friends, the meanes to revenge him∣selfe,
+the resolution of this infamous
+counsell was, that the <HI>Fort</HI> ought to be
+<PB N="10" REF="14"/>
+surprised, to make away the <HI>King,</HI> and
+take perforce from thence the <HI>Heire of
+the Kingdome,</HI> and so put himselfe in
+quiet possession of the <HI>Crowne;</HI> that, to
+differre any longer, it would be the way
+to ruinate their affaires, considering the
+accidents which might happen. There∣fore
+that hee should shew himselfe a
+man, and that hee should finde in them
+the succour and assistance, which hee
+could hope for, of those who had a
+whole interest in his trouble. There
+needed not, to make use of stronger
+reasons, to perswade a spirit already
+imbrued with this crime.</P>
+<P>It was long, since <HI>Licogenes</HI> saw with
+griefe the <HI>Scepter of Sicily</HI> in the hands
+of <HI>Meleander.</HI> But to bring this furious
+counsell to passe, hee thought it fit to
+corrupt certaine Souldiers, who should
+know the entrances of this Fortresse.
+He finds out one, who being conquered
+by his promises, offers to fulfill his de∣sire,
+so that hee procure him confede∣rates
+whose courages may bee like his,
+and declares unto him, that hee knew
+<PB N="11" REF="14"/>
+the meanes to enter, by the Sea side
+where there was no guard. <HI>Licogenes</HI>
+glad to have found such a fit instru∣ment
+for his perfidiousnesse, gives him
+consorts as desperate as he, and as re∣solute
+to commit a parricide. Upon a
+night then, that <HI>Meleander</HI> was arrived
+there, to disburden (according to <HI>His</HI>
+wonted use) some part of his sorrowes
+in <HI>His daughters</HI> bosome; these traitors
+knew how to follow their enterprise so
+well, that they entred into the <HI>Fort,</HI> and
+having separated themselves in two
+bands, went the one to the <HI>Kings</HI> lodg∣ings,
+and the other to the <HI>Princesses.
+Argenis</HI> thought on nothing else, but
+sweetly to passe away the time▪ amongst
+<HI>Her</HI> Ladies, and caused <HI>Selenissa</HI> and
+<HI>Theocrine</HI> (whose beds were in her
+chamber) to entertayne <HI>Her</HI> with a
+thousand pleasant discourses: <HI>Meleander</HI>
+whose age tooke away the sweetnesse
+of this entertainment, had retired him∣selfe
+to take rest. <HI>Argenis</HI> understan∣ding
+a noise, which <HI>She</HI> was not us'd to
+heare, holds up <HI>Her</HI> eyes, and seeing so
+<PB N="12" REF="15"/>
+many armed men to enter thronging in
+one after another, is frighted, and be∣gins
+to cry out with feare. <HI>Her</HI> other
+Ladies surprized with the like astonish∣ment,
+shew no more assurance, and
+for all their defence, have recourse to
+their teares. But the gentle <HI>Theocrine</HI>
+perceiving one, (who had advanced
+himselfe first) to lay hands on the <HI>Prin∣cesse,</HI>
+lets the reines loose to <HI>Her rage,</HI>
+and with an extraordinary courage,
+layes hold on that traytors sword,
+wreathes it from him, and presently
+employes it, against him from whom
+<HI>She</HI> had taken it, and layes him dead in
+the place. Then taking up his buckler,
+<HI>She</HI> runnes upon the rest of these rascals,
+whereof <HI>She</HI> cuts some part in pieces,
+and causes the rest to looke out for the
+doore. Another band of the conju∣rors,
+had rush'd in <HI>Meleander's</HI> chamber,
+whom having found asleepe in <HI>His</HI> bed,
+there needed no great strength to seaze
+on <HI>Him.</HI></P>
+<P><HI>Theocrine,</HI> who had none left to fight
+with, hearing the noise, which those
+<PB N="13" REF="15"/>
+wicked rogues made about the <HI>King,</HI>
+went that way, and entring in the cham∣ber,
+perceived a spectacle which would
+have drawne teares from a Tyger.
+Those infamous <HI>Hang-men</HI> had bound
+this great <HI>King</HI> with cords, and loaded
+<HI>Him</HI> with chaines, who amongst so
+much insolence and brutality, perceiv'd
+before <HI>His</HI> eyes nought else, but the
+images of despaire and horrour. The
+sorrow to see the <HI>Father</HI> of <HI>Her Argenis</HI>
+so unworthily abused, swells <HI>Her</HI> cou∣rage
+in such sort, that without any feare
+of danger where <HI>She</HI> was going to pre∣cipitate
+<HI>Her selfe, She</HI> enters upon these
+desperate fellowes, and having made a
+cruell slaughter, amongst them, addres∣ses
+<HI>Her selfe</HI> unto <HI>Meleander,</HI> and taking
+away the cords and chaines, said these
+few words unto <HI>Him.</HI> SIR, <HI>Those who
+have committed this outrage against you,
+have not kept the respect due unto</HI> Scepters,
+<HI>and your vertue. But the Gods have given
+me the grace to put you againe in case, to
+make an exemplary punishment, of the au∣thors
+of this barbarous attempt. Arme
+<PB N="14" REF="16"/>
+your selfe, I am going to take order about
+the rest of your affaires; for it is to
+be feared, least those who have had the au∣dacity,
+to plot so infamous a treason should
+make a last attempt, to asswage their rage,
+which will not be thus ended.</HI> At the in∣stant
+<HI>Theocrine</HI> gives a generall allarum,
+and gives notice to the Guard, of their
+fault, and of the danger wherein the
+<HI>King had lately beene.</HI> And as <HI>She</HI> saw
+<HI>Meleander's</HI> safety to be made sure, <HI>She</HI>
+came unto her <HI>Argenis,</HI> and kneeling on
+the ground, us'd this language. Faire
+Princesse, <HI>it is bootlesse now to dissemble,
+any longer; the miracles of your beauty, have
+given strength to my arme, to take revenge
+for the cruell injury, which hath beene done
+to the</HI> Sicilian Scepter. <HI>I am not a</HI> Lady,
+<HI>as hitherto you have believed. I also esteeme,
+that, what you have seene mee performe, hath
+already dis-abused you. At least, it is im∣possible,
+that henceforth,</HI> Meleander <HI>should
+take me to be, what hee thought I was. For
+feare then, least I should ruinate my designes,
+instead of advancing of them, I take my
+leave of you: But before I goe from the pre∣sence
+<PB N="15" REF="16"/>
+of your faire eyes, I most humbly desire
+you, by all the graces, whereof Heaven hath
+so richly endowed you, to pardon mee this
+offence, which is an effect of the power of
+Love, unto which the Gods themselves can∣not
+resist. You have prostrate at your feet,
+the</HI> Heire of the Crowne of France, <HI>who
+begs pardon of you. My name is</HI> Poliar∣chus,
+<HI>and not</HI> Theocrine. <HI>I have borrowed
+this, that I might enter where</HI> Poliarchus
+<HI>could not have had accesse: I part from you
+with the same sorrow, that I should part
+with my life: but I hope that by my services
+I shall open the way to more liberty. Pro∣nounce
+my sentence, and I will take it from
+you, even as the</HI> conquered, <HI>receives it from
+the</HI> Conquerour.</P>
+<P><HI>Argenis</HI> being, as it were, thunder∣struck,
+by the freedome of these words,
+finds <HI>Herselfe</HI> surprised, and at the same
+instant, hath an inward combat by two
+severall passions, of <HI>Love</HI> and <HI>Feare,</HI>
+which held <HI>Her</HI> soule in agitation, in
+such sort that being astonied at <HI>Theo∣crines</HI>
+language, <HI>She</HI> knowes not what
+answere to make <HI>Him. Feare,</HI> that this
+<PB N="16" REF="17"/>
+action should make a spot, in <HI>Her Glory,</HI>
+causes <HI>Her</HI> at first, to breath forth some
+sparkles of Choler. <HI>She</HI> complaines of
+this audacity, and shewes <HI>She</HI> doth not
+approve those fictions, whereby <HI>She</HI>
+might receive more blame, then the
+Author could expect contentment. Ne∣verthelesse,
+at last <HI>Love,</HI> that (so many
+present victories went fortifying) bani∣shes
+all those <HI>Feares,</HI> and causes <HI>Her</HI> to
+finde <HI>Theocrines</HI> excuses good, to whom
+at that time <HI>She</HI> doth in few words dis∣close
+<HI>Her</HI> thoughts, and testifies unto
+<HI>Him,</HI> that those proceedings are not dis∣pleasing
+to <HI>Her,</HI> but enjoynes <HI>Him</HI> to
+publish <HI>His</HI> sexe, and to make him∣selfe
+knowne, to be the valiant <HI>Poliar∣chus.</HI></P>
+<P>This generous <HI>Prince,</HI> who onely
+sought triumphs to insinuate <HI>Himselfe</HI>
+by <HI>His</HI> valour, into <HI>Argenis's</HI> favour, re∣assumes
+the name of <HI>Poliarchus,</HI> and at
+the same time, kissing <HI>His Mistresses</HI> faire
+hands, goes out of the <HI>Fortresse</HI> and
+steales away from <HI>Meleander,</HI> and <HI>His</HI>
+Guard, busied in the seeking out of the
+<PB N="17" REF="17"/>
+factious, whereof they made a horrible
+slaughter. In the meane time the <HI>King</HI> is
+troubled to finde out the Author of <HI>His</HI>
+liberty, and as <HI>His Daughter</HI> tels <HI>Him</HI>
+that <HI>He</HI> is obliged of <HI>His</HI> life, unto <HI>Theo∣crine,
+He</HI> desires to see <HI>Her,</HI> that <HI>He</HI>
+might give <HI>Her</HI> the praises, and recom∣pence
+due to so eminent, and prodigi∣ous
+a vertue. But being inform'd that
+<HI>She</HI> is vanish'd, as a lightning, and that
+<HI>She</HI> is not to bee found, <HI>He</HI> presently
+imagines, that doubtlesse, <HI>She</HI> was no
+mortall creature, but the <HI>Goddesse Pallas,</HI>
+who foreseeing his misfortune, had ta∣ken
+the forme of this Lady, to put by
+the ruines of <HI>Sicily,</HI> which was in <HI>Her</HI>
+keeping. Thereupon, even as supersti∣tion
+is fertile in new devotions, <HI>He</HI> re∣volves
+with himselfe, with what new
+tribute of piety, <HI>He</HI> may repay, this re∣markable
+good deed, which seemed to
+be beyond all manner of retribution:
+and wandring in <HI>His</HI> thoughts, <HI>He</HI> cau∣sed
+the <HI>Chiefest</HI> of <HI>His Counsell</HI> to be as∣sembled,
+unto whom speaking of this
+adventure, <HI>He</HI> testified to owe <HI>His</HI> life
+<PB N="18" REF="18"/>
+and safety, to a particular assistance of
+the <HI>Divinity,</HI> rather then to any mans
+succour, letting them know thereby,
+that <HI>He</HI> had a designe to erect new ho∣nours
+and worship, unto the <HI>Goddesse</HI>
+unto whom <HI>He</HI> imagined to be indeb∣ted,
+for <HI>His</HI> miraculous preservation.
+Such a Religious design having beene
+greatly applauded and approved by
+the common voices of all the <HI>Counsell;
+Meleander</HI> whose soule was already full
+of these religious thoughts, and who
+feared, that shewing <HI>Himselfe</HI> ungrate∣full
+towards the <HI>Gods, He</HI> should oblige
+them, to draw backe their blessings
+from <HI>His Crowne,</HI> was easily led away
+with this advice, and calling <HI>His Daugh∣ter,</HI>
+opens <HI>His</HI> deliberation unto <HI>Her,</HI>
+and perswades <HI>Her,</HI> so artificially, that
+<HI>She</HI> freely accepted, the quality of <HI>Mi∣nervas
+High Priest,</HI> in acknowledge∣ment
+of the favour which <HI>She</HI> had
+shewed, to <HI>Her Father</HI> and <HI>State.</HI> There
+<HI>She</HI> is then wholly tyed, to the <HI>Goddesses</HI>
+service, by vertue of <HI>Her</HI> new Office, now
+<HI>She</HI> thinks on nothing else then the or∣dering
+<PB N="19" REF="18"/>
+of the sacrifices, and ruling of the
+holy ceremonies.</P>
+<P>In the meane time <HI>Lycogenes,</HI> who
+knowes his crime to be unpardonable,
+assembles his friends, represents unto
+them, that their safety consists in ho∣ping
+none, and that they must come to
+an open force, since craft and artifici∣all
+cunning have not succeeded. And
+whereas the horror of this offence,
+should have caused the armes to have
+fallen from his hands, hee prepares to
+give battayle unto his <HI>King.</HI> His felony
+gives meanes unto the <HI>French Prince,</HI> to
+cause <HI>His</HI> great courage to appeare, as∣well
+under the name of <HI>Poliarchus,</HI> as it
+had done, under that of <HI>Theocrine. He</HI>
+had gone and presented <HI>Him elfe</HI> unto
+<HI>Meleander</HI> as being newly arrived in <HI>His
+Court,</HI> not making <HI>Himselfe</HI> knowne to
+be <HI>Him,</HI> who had newly saved <HI>His Life</HI>
+and <HI>State. He</HI> had beene received there
+as a stranger, and in few dayes, had left
+both to the <HI>King,</HI> and all the <HI>Court,</HI> a
+great opinion of <HI>His</HI> valour. During
+that time, <HI>He</HI> found the meanes often∣times,
+<PB N="20" REF="19"/>
+to see, <HI>His Argenis,</HI> amongst the
+sacrifices, which were rendred unto
+<HI>Minerva,</HI> for <HI>Theocrines</HI> victory. Neither
+<HI>His,</HI> nor <HI>Argenis's</HI> devotion, was not so
+much fixt, on the contemplation of the
+ceremonies nor on the admiration of
+all the pompe, as to enterchange amo∣rous
+lookes, wherein lay all their feli∣city.</P>
+<P>The envious army, which was alrea∣dy
+in the field, troubled all this solem∣nity,
+and oblig'd the <HI>King</HI> to take up
+Armes, to oppose the fury of the rebels.
+<HI>He</HI> had a singular confidence in <HI>Poliar∣chus
+His</HI> valour, which belyed not this
+hope, nor the good opinion which the
+world had conceived of the greatnesse
+of <HI>His</HI> courage. The two Armies being
+in sight, <HI>He</HI> began the fight, and as a
+mighty war-like thunder, unto which
+nothing can resist, did so much by the
+wonders of <HI>His</HI> sword, that <HI>Meleander</HI>
+won a glorious victory, and put the re∣bels
+out of hopes, to attempt any more,
+the hazzard of Combats. Dispaire made
+them seeke after peace; they have per∣mission,
+<PB N="21" REF="19"/>
+to send their <HI>Deputies</HI> in <HI>Court,</HI>
+to make the overture of some treaty.
+<HI>Poliarchus,</HI> who could not live in rest, at
+the first newes of this peace, which <HI>He</HI>
+did not approve, not believing, that
+the <HI>King</HI> ought to trust to <HI>Traytors;</HI> re∣solved
+to goe elsewhere, to finde out
+new occasions of <HI>Glory.</HI> Having then
+left the <HI>Court,</HI> and traversing a great
+forest, having no other thoughts then
+on <HI>His Argenis,</HI> which filled all <HI>His</HI> spi∣rits;
+<HI>Hee</HI> meets those whom <HI>Licogenes</HI>
+sent unto <HI>Meleander,</HI> rather ecquipped
+like <HI>Cavaleers,</HI> or to speake the truth
+like <HI>Robbers,</HI> then <HI>Ambassadours.</HI> They
+immediately knew <HI>Him</HI> for the Author
+of their misfortune, and enraged, with
+fury, resolve to revenge on <HI>Him</HI> the
+affront, which <HI>His</HI> valour caused them
+to receive. At the same time, they set
+on <HI>Him,</HI> and make it appeare, that they
+would bereave <HI>Him</HI> of <HI>His</HI> life. But <HI>He,</HI>
+who could feare nothing, not being
+astonied, at their threates, makes them
+feele the effects of <HI>His</HI> courage, over∣throwes
+two, dead upon the place,
+<PB N="22" REF="20"/>
+scatters the others, and puts them to
+flight. Those that could escape, goe and
+fill the <HI>Court</HI> with their complaints, and
+aggravate this outrage, done unto <HI>Am∣bassadors,</HI>
+whose persons are held for <HI>sa∣cred,</HI>
+yea amongst the <HI>Barbarous.</HI> They
+demand Justice which cannot be denied
+them, because the <HI>Court</HI> hath no know∣ledge
+of their crime, nor of the inno∣cence,
+of <HI>Him,</HI> whom they accused. It
+is true, that <HI>Meleander</HI> could not ima∣gine,
+that so notorious a villany, could
+have entred, in so noble a courage, and
+besides all that, that which came
+from <HI>Licogenes'es</HI> party was to bee
+suspected, also the Souldiers whol∣ly
+affected to <HI>Poliarchus,</HI> who in their
+sight, had done so many wonders
+in the <HI>Field,</HI> did openly jeere at this ac∣cusation,
+which, in what kind soever, it
+could be interpreted; could not, but
+turne, to the shame of those, who made
+it, since they accused, one man alone, to
+have beaten five, well armed, and in
+case to defend themselves. But, the
+conjurors faction, was so puissant, in
+<PB N="23" REF="20"/>
+<HI>Court;</HI> that, at last, it obtained that <HI>Poli∣archus,</HI>
+should be condemned, and to be
+destined, to serve for a sacrifice, unto
+the <HI>Kings</HI> enemyes fury, who in defen∣ding
+of <HI>Him,</HI> might have caused a sus∣pition,
+amongst those diffident spirits,
+that <HI>He</HI> had done nothing, but by <HI>His</HI>
+authority. Order is then given every
+where to take <HI>Him,</HI> and also, the Com∣mons
+are armed, to the end, that all
+meanes of escaping, might bee taken
+away.</P>
+<P>In the meane time, it hapned during
+the fight, that, <HI>Archombrotus Prince of
+Mauritania,</HI> who was also searching out
+adventures, under a disguised habit,
+was by chance, neere the place, where
+the combat was given. <HI>He</HI> was newly
+landed, (having beene beaten with sun∣dry
+tempests at sea) neere unto that
+great and thicke Forest, where <HI>He</HI> was
+gone, thinking to take some rest under
+the shade of some trees, being wearied
+of the sea. But the vertuons <HI>Timoclea,</HI>
+who had seen the furious outrage, done
+to the <HI>Prince of France,</HI> came unto <HI>Him</HI>
+<PB N="24" REF="21"/>
+weeping and waking <HI>Him,</HI> conjured
+<HI>Him,</HI> that if <HI>He</HI> would doe an action,
+worthy the generosity which appeared
+in <HI>His</HI> visage, that without any further
+delay, <HI>He</HI> should goe and succour the
+most valiant man in the world, that
+<HI>Robbers</HI> endeavoured to murther. Ope∣ning
+<HI>His</HI> eyes, <HI>He</HI> searches for <HI>His</HI> Ar∣mour
+confusedly, and preparing <HI>Him∣selfe,</HI>
+at all adventures, endeavours to
+put <HI>Himselfe</HI> in case to fight. <HI>Timoclea</HI>
+fearing, least the number, might op∣presse
+valour, urges <HI>Him</HI> to advance,
+and represents unto <HI>Him</HI> the necessity,
+and danger, wherein <HI>Poliarchus</HI> finds
+<HI>Himselfe. He</HI> who was enflamed with
+desire, to have <HI>His</HI> courage to appeare,
+in so faire an occasion, without further
+delay, spurres <HI>His</HI> Horse towards the
+place of the combat. But <HI>He</HI> sees, with
+some kind of sorrow, that <HI>He</HI> arrives too
+late, and that <HI>He,</HI> whom <HI>He</HI> is desirous
+to succour, hath needed no other assi∣stance,
+then that, of <HI>His</HI> sword. Ravish'd
+with this wonder, <HI>He</HI> doth accost <HI>Him,</HI>
+and having courteously saluted <HI>Him,</HI>
+<PB N="25" REF="21"/>
+informes <HI>Himselfe</HI> of the particulars of
+this encounter, offers to assist <HI>Him,</HI> in
+case there remaines any enemy, to fight
+with, and conjures <HI>Him,</HI> to honour <HI>Him</HI>
+so much, as to imploy <HI>Him</HI> in this quar∣rell.
+<HI>Poliarchus</HI> resting extreamely sa∣tisfied
+of the <HI>Prince of Mauritania's</HI> good
+behaviour, and courtesy, thanks <HI>Him</HI> for
+this freedome, and assures <HI>Him</HI> of the
+esteeme <HI>Hee</HI> makes of <HI>His</HI> courage, not
+refusing to make use of it, in case, <HI>His</HI>
+affaires oblige <HI>Him</HI> thereunto. But,
+<HI>Gentle Cavaleere,</HI> said <HI>He,</HI> I know neither
+those, who have so cowardly assaulted
+<HI>me,</HI> nor the reason of the furious hatred,
+which they beare me. <HI>Timoclea</HI> arriving
+thereupon with some of <HI>Poliarchus His</HI>
+servants, breakes off the two <HI>Princes</HI>
+discourse, and taking the word conjures
+them, to goe out of this Forest, and fol∣low
+her, to a house which shee hath,
+neere unto that place, where they might
+learne the true causes of this encoun∣ter.
+They went then altogether with
+<HI>Timoclea,</HI> where they are hardly arrived,
+when the Shepheards of the Country,
+<PB N="26" REF="22"/>
+come to give them notice, that all the
+champion, is full of kindled fires, every
+where, and that doubtlesse, there is
+some accident fallen out at <HI>Court;</HI> seeing
+that was never done, but upon great
+and important occasions. And that <HI>He</HI>
+might take no rest, news were brought,
+that <HI>Poliarchus</HI> was the subject of all
+this emotion, to which they adde that
+upon the <HI>Ambassadours</HI> complaint, <HI>He</HI>
+hath beene condemned in <HI>Court. Poli∣archus</HI>
+seeing that 'tis <HI>He,</HI> whom this
+tempest threatens, breathes forth all
+manner of outrages against <HI>Meleander,</HI>
+doth reproach <HI>His</HI> services, complaines
+of <HI>His</HI> ungratitude, accuses also the in∣nocent
+Starres, as if they were the cause
+of <HI>His</HI> mis-fortune. <HI>Timoclea</HI> fearing
+least <HI>He</HI> (unto whom all <HI>Sicily</HI> owed their
+safety) should fall in the hands of those
+<HI>Traitors,</HI> that they should advance <HI>His</HI>
+ruine, by their artificiall deceits opens
+<HI>Him</HI> the way, how to shade <HI>Himselfe,</HI>
+against this tempest, shewes <HI>Him</HI> at the
+going out of a closet, of <HI>Her</HI> house, a
+long Vault, which went under ground,
+<PB N="27" REF="22"/>
+whereof the avenewes, were knowne to
+few, and conjures <HI>Him</HI> to make use of
+this opportunity, not onely to steale
+away, from the eyes of those, who
+sought <HI>Him,</HI> but also to goe out of <HI>Sicily</HI>
+under the favour of a borrowed visage,
+wherewith she could so artificially dis∣guise
+<HI>Him,</HI> that <HI>His</HI> most intimate
+friends, would hardly take <HI>Him</HI> to bee
+<HI>Poliarchus.</HI> At last, <HI>He</HI> is overcome
+with her perswasions, makes use of the
+opportunity, which she presents unto
+<HI>Him,</HI> and though unwilling, confines
+<HI>Himselfe</HI> within this Vault, (untill he can
+give some order for <HI>His</HI> retreate) where
+<HI>Timoclea,</HI> and the <HI>Prince of Mauritania,</HI>
+would needs conduct <HI>Him,</HI> daring not
+to trust those of the houshold, whose
+faith they suspected; having left <HI>Him</HI> in
+this cave, and being come backe to the
+house, <HI>Timoclea</HI> began to entertaine her
+guesse, with the best and most civill dis∣courses
+which she could invent. In the
+meane time <HI>Timoclea</HI> and <HI>Archombrotus,</HI>
+thinking to assure <HI>Poliarchus His</HI> life, did
+almost ruinate <HI>His</HI> affaires. To take
+<PB N="28" REF="23"/>
+away all suspition, they bethought thē∣selves,
+to cause a rumor of <HI>His</HI> death, to
+be spread abroad, and that none might
+doubt of it, caused <HI>His</HI> servants to be
+seene, weeping the losse of their <HI>Ma∣ster,</HI>
+&amp; they also shewed sad testimonies
+of their sorrow. This rumor did fly as
+farre as <HI>Argenis's</HI> eares, who would not
+survive <HI>Him,</HI> having as <HI>She</HI> thought, lost
+<HI>Him,</HI> who made <HI>Her</HI> take all the delight
+<HI>She</HI> had in the world. <HI>Selenissa</HI> brake this
+designe, by her wisedome, shewing unto
+<HI>Her</HI> that <HI>She</HI> ought not so slightly to
+give faith to a rumor, who had no
+assured Authour. That asswaged some∣thing
+<HI>Her</HI> griefe, but did not altogether
+heale the sore. <HI>Her</HI> thoughts were then
+tossed, with irk some cares, which altred
+by little and little the beauty of <HI>Her</HI>
+face. Also <HI>Meleander</HI> being come to en∣tertaine
+<HI>Her,</HI> with <HI>His</HI> affaires, though
+<HI>She</HI> had resolved, to oppose <HI>Her</HI> con∣stancy,
+to <HI>Her</HI> mis-fortunes, and to sup∣presse
+<HI>Her</HI> sorrowes, for feare, that <HI>Her</HI>
+Love should be knowne, neverthelesse
+when <HI>He</HI> began the discourse, of <HI>Poliar∣chus
+<PB N="29" REF="23"/>
+His</HI> accident, and to tell <HI>Her</HI> how <HI>He</HI>
+had bin constrained, to abandon <HI>Him,</HI> to
+<HI>His</HI> enemies rage, <HI>She</HI> could be no lon∣ger
+mistris of <HI>Her</HI> senses, but fell downe
+in a trance, at the recitall of this adven∣ture.
+<HI>Selenissa</HI> smothered this accident,
+in the best wise she could, and assured
+the <HI>King,</HI> that <HI>She</HI> had had sundry such
+fits lately, but that she believed, there
+was nothing to be feared, and that they
+were but little faintings, caused with
+the displeasure, which <HI>She</HI> had suffered
+during <HI>Licogenes</HI> his warre; <HI>Her Father</HI>
+left <HI>Her,</HI> amongst <HI>Her</HI> Women, who,
+with the severall remedies they gave
+<HI>Her,</HI> made <HI>Her</HI> come to <HI>Her selfe</HI> againe.
+But <HI>She</HI> received a full cure, by the
+newes which were brought unto <HI>Her,</HI>
+few daies after of <HI>Her Poliarchus,</HI> by an
+intimate friend of <HI>His,</HI> named <HI>Arsidas.</HI>
+This trusty confident had learn'd by
+<HI>Gelanore,</HI> a domesticke servant unto <HI>Po∣liarchus,</HI>
+the truth of <HI>His</HI> History, there∣upon
+he came to finde <HI>Him</HI> out in <HI>Timo∣cleas</HI>
+house, where having had confe∣rence
+(of all <HI>His</HI> affaires) with <HI>Him, Po∣liarchus</HI>
+<PB N="30" REF="24"/>
+conjured him, to see <HI>His Faire
+Argenis,</HI> in <HI>His</HI> name, and to know of
+<HI>Her,</HI> as of <HI>His</HI> Oracle, what <HI>He</HI> should
+doe, in this extremity; <HI>He</HI> knew to what
+end the rumor of <HI>His</HI> death had beene
+spread; <HI>He</HI> had also had notice, with
+what violence the Commons (to shew
+themselves passionate for the <HI>Kings</HI> ser∣vice,)
+pursued <HI>Poliarchus,</HI> seeing, that
+being perswaded, <HI>He</HI> was in <HI>Timocleas</HI>
+house, had runne thither, and without
+any respect, had violently entred in 't,
+to take and make <HI>Him</HI> prisoner. In
+which, having had no successe, because
+<HI>Poliarchus</HI> was in a place of safety. They
+neverthelesse, discharged their choller,
+upon <HI>His Fellow the Prince of Mauritania,</HI>
+who was, at last, constrained, to suffer
+<HI>Himselfe</HI> to be led captive, unto <HI>Melean∣der,</HI>
+as if it had beene <HI>He</HI> whom they
+sought after. <HI>Arsidas</HI> then, who had
+seene all these violences, came to give
+<HI>Argenis</HI> notice of the state of <HI>Her Poliar∣chus
+His</HI> affaires. At these pleasing news
+<HI>She</HI> was as much troubled to keepe
+backe <HI>Her</HI> soule, and to hinder it, from
+<PB N="31" REF="24"/>
+leaving the body, as <HI>She</HI> had beene, in
+the excesse of <HI>Her</HI> griefe. But Joy setled
+<HI>Her</HI> minde againe; insomuch that the
+rayes of this <HI>Sunne</HI> of the <HI>Court,</HI> began
+to appeare againe. During which time,
+newes were brought unto <HI>Her,</HI> that <HI>Po∣liarchus</HI>
+was led as a prisoner unto the
+<HI>Court:</HI> But the intelligence, which <HI>She</HI>
+had received, by <HI>Arsidas</HI> of <HI>Archombrotus</HI>
+accident, hindred this ill rumor, from
+making an impression, upon <HI>Her</HI> spirit.
+So that this cloud was soone over. As
+the Commons, which had taken him,
+were arrived at <HI>Court,</HI> one of the <HI>Cap∣taines
+of the Guard,</HI> seeing so faire a pri∣soner,
+in the hands of rusticall men,
+ask'd of him who conducted <HI>Him,</HI>
+what that <HI>Cavalleere</HI> had done, whom
+they us'd so rigorously. This <HI>Head</HI> of
+the common people, having replyed,
+that it was <HI>Poliarchus,</HI> whom the <HI>King</HI>
+had commanded, should be taken, that
+<HI>He</HI> might be punish'd, according to ju∣stice;
+He began to smile, and said unto
+this people, that to speake the truth,
+they had shewed their fidelity, for the
+<PB N="32" REF="25"/>
+<HI>Kings</HI> service, but that they had not
+sped, in this occasion, seeing their priso∣ner,
+was not <HI>Poliarchus</HI> which was sought
+for. Neverthelesse, <HI>He</HI> was led before
+<HI>Meleander,</HI> who, after <HI>He</HI> had praised
+<HI>His</HI> subjects zeale, address'd <HI>Himselfe</HI>
+unto <HI>Arcombrotus,</HI> and made <HI>Him</HI> a
+thousand excuses, for this offence hap∣pened
+not by <HI>His</HI> command▪ but by the
+ignorance, of this people, who had mis∣taken
+themselves, in <HI>His</HI> person. The
+<HI>Prince of Mauritania,</HI> though full of rage,
+to see <HI>Himselfe</HI> so unworthily abused,
+neverthelesse dissembled <HI>His</HI> choler, &amp;
+making <HI>His</HI> complement, with a very
+comely behaviour, most humbly desired
+<HI>Him</HI> to believe, that in what manner
+soever, <HI>He</HI> could bee brought before
+<HI>Him, He</HI> held it alwaies for a singular
+glory, that <HI>He</HI> had the meanes, to offer
+<HI>Him His</HI> service. In fine, neverthelesse,
+shewing <HI>Himselfe</HI> more sensible of
+the injury done to <HI>His</HI> friend, then
+to <HI>Himselfe, He</HI> could not hinder <HI>Him∣selfe</HI>
+from representing his complaint,
+and said with a haughty courage unto
+<PB N="33" REF="25"/>
+<HI>Meleander. But, concerning</HI> Poliarchus
+His <HI>disgrace, which hath beene the subject
+of my mis-fortune;</HI> Your Majesty, <HI>will give
+me leave to tell</HI> Him, <HI>that if accusations
+make crimes, there will bee no innocence,
+assured in the world, since, that the most
+just, will by this meanes be exposed, unto
+the rage of slander, which is perpetually,
+about</HI> Princes <HI>eares, to surprise and give
+them all manner of ill impressions, against
+those which they would put out of favour.</HI>
+Your Majesty <HI>may be pleased to remember</HI>
+Licogenes <HI>his brazen face, and the inso∣lency,
+of all his confederates? Doe not</HI> You
+<HI>imagine also, that those who have made such
+an outrage, against the</HI> Crowne, <HI>will spare</HI>
+Your <HI>best Servants? Those who conspire
+against</HI> Kings, <HI>and that will have their</HI>
+Empires, <HI>to grow desolate, doe first endea∣vour,
+to corrupt and seduce those whom
+they know to bee most passionate for their
+service, and when they cannot doe it, make
+use of other crafts, to cause their</HI> Masters
+<HI>to suspect their fidelity, to the end that da∣ring
+not to trust them any more, they should
+remaine wholly <GAP DESC="illegible" RESP="oxf" EXTENT="3 letters" DISP="•••"/>sefull unto them, I have
+<PB N="34" REF="26"/>
+learn'd of a</HI> Lady <HI>of this</HI> Court (<HI>who by
+chance was in company with that</HI> Cavalleer,
+<HI>when I first saw</HI> Him,) <HI>the great assistance
+which</HI> He <HI>hath given</HI> You, <HI>in the Warre,
+that those seditions have most unhappily
+kindled in the middest of</HI> Your Kingdome,
+<HI>and the hurt which</HI> He <HI>hath done to</HI> Your
+<HI>enemies. The griefe which they have con∣ceived
+thereat hath caused them, to seeke
+out the meanes to make</HI> Him <HI>away, by open
+violence, that they might rob</HI> You <HI>of that
+powerfull prop, of</HI> Your State. <HI>But this
+designe having fayled, by the great valour
+that was in</HI> Him <HI>whom these cowards as∣saulted;
+They now have had recourse unto
+vayled artificiall deceits. And to circum∣vent</HI>
+Your <HI>goodnesse, doe father upon an
+innocent, the odiousnesse of an action, where
+there's no crime, but that which proceeds
+from their perfidiousnesse.</HI> Your Majesty
+<HI>who hath purchas'd so much glory, by the
+true execution of</HI> Justice, <HI>not onely amongst</HI>
+His <HI>subjects, but also amongst strangers,
+will reserve, if</HI> He <HI>pleases, an eare for</HI> Poli∣archus,
+<HI>to learne by</HI> His <HI>owne mouth, the
+particulars of this encounter, which trou∣bles
+<PB N="35" REF="26"/>
+all</HI> Your Court, <HI>and may be pleased to
+remember, that though</HI> He <HI>were guilty, it
+would alwaies bee a kinde of injustice, to
+condemne</HI> Him, <HI>and not heare</HI> His <HI>reasons.
+And if</HI> Your Majesty <HI>will grant, that I
+may finde out the truth of this businesse by
+those meanes, which are used amongst</HI> Ca∣valleers,
+<HI>I offer my selfe to enter in com∣bate
+against the authors of this slaunder. I
+am sure that having the</HI> Gods, (<HI>whom they
+have offended,) for their enemies, and that
+having a continuall remorse, in their consci∣ences,
+their armes will fall from their hands,
+and that their cowardise will bee a visible
+proofe, of the infamous treason, whereof they
+have beene the inventors.</HI> The <HI>King,</HI> who
+was a generous <HI>Prince,</HI> was not offen∣ded
+at <HI>Archombrotus His</HI> freedome, but
+by the mildnesse of <HI>His</HI> face and spee∣ches,
+testified altogether the beliefe <HI>He</HI>
+had of <HI>Poliarchus His</HI> innocence, and
+the esteeme <HI>He</HI> made of <HI>His</HI> friends
+great courage, who offered <HI>Himselfe</HI> so
+freely to fight, in the behalf of <HI>His</HI> cause.
+All the <HI>Court</HI> made acclamations of joy,
+at this lofty testimony, which the <HI>Prince
+<PB N="36" REF="27"/>
+of Mauritania</HI> rendred unto <HI>Poliarchus.
+Argenis</HI> who tooke the best part there∣in,
+thank'd him, with much curtesie, and
+by this civility, did put <HI>Herselfe</HI> in dan∣ger
+to spoile all, seeing that <HI>Archombro∣tus</HI>
+who had nothing of the <HI>Moore</HI> but
+the name, being kept backe, in <HI>Her Fa∣thers</HI>
+service, and having gotten the re∣putation
+of the most valiant <HI>Cavalleere</HI>
+in the world, after <HI>Poliarchus,</HI> was sur∣prised
+with vanity, which made <HI>Him</HI> so
+farre to forget, all <HI>His</HI> promises, that <HI>He</HI>
+became <HI>His</HI> friends Rivall, and endea∣voured
+to rob <HI>Him</HI> of the <HI>Princesse.</HI> In the
+meane time <HI>Argenis,</HI> sends a dispatch
+by <HI>Arsidas</HI> to <HI>Poliarchus,</HI> conjures <HI>Him</HI>
+by <HI>Her</HI> letters, to believe that all these
+crosses of fortune, were usefull onely, to
+encrease <HI>Her</HI> love, rather then to dimi∣nish
+it, that <HI>Argenis</HI> will never be to any,
+but to <HI>Poliarchus,</HI> that <HI>She</HI> passionatly
+desired <HI>She</HI> might assure <HI>Him</HI> thereof,
+with <HI>Her</HI> owne mouth but that <HI>She</HI>
+feares, least comming to <HI>Court He</HI>
+should be knowen; therefore let <HI>him</HI>
+take the surest party, and if <HI>He</HI> thinkes
+<PB N="37" REF="27"/>
+it fit, <HI>He</HI> should returne in <HI>His Kingdome:</HI>
+But that <HI>He</HI> should not forget, to cause
+<HI>His</HI> greatnesse to appeare, by bringing
+so faire an army, from <HI>His Countrey,</HI> that
+among'st the obstacles, which might
+oppose themselves to <HI>their</HI> designe, <HI>He</HI>
+should be able to free <HI>Her</HI> from those
+cares and troubles, which <HI>Their</HI> separa∣tion
+causes, that in the meane time, <HI>Shee</HI>
+will indeavor, to change <HI>Her Fathers</HI> an∣ger
+and bring <HI>Him</HI> againe, in <HI>His</HI> favour.
+Which <HI>She</HI> imagines will not be very
+difficult, considering the esteeme which
+<HI>He</HI> makes, of <HI>His</HI> vertue. <HI>Poliarchus</HI> ha∣ving
+read this letter, could not tell
+what to resolve. The imagination, of
+the perill and feare to be discovered,
+caus'd <HI>Him</HI> to apprehend the journey to
+<HI>Court,</HI> where he doubted not, but <HI>His</HI> e∣nemies,
+were watching to surprise <HI>Him.
+Arsidas</HI> and <HI>Timoclea</HI> fearing, least▪ <HI>He</HI>
+should miscarry, represented <HI>Him</HI> the
+danger, yet greater then it was. But the
+desire <HI>He</HI> had to see <HI>Argenis,</HI> made <HI>Him</HI>
+despise all the hazzards, which they re∣presented.
+<HI>He</HI> then calls aside, <HI>His</HI> deare
+<PB N="38" REF="28"/>
+friend, and declares unto <HI>Him,</HI> that <HI>He</HI>
+had rather expose <HI>Himselfe</HI> to <HI>His</HI> ene∣mies
+rage, then to goe out of <HI>Sicily,</HI> and
+not see the <HI>Princesse. Arsidas</HI> seeing the
+ardour of <HI>His</HI> passion, in lieu of oppo∣sing,
+fortifies it, by the assurance which
+he gives <HI>Him,</HI> to runne the same hazard.
+They take leave of <HI>Timoclea,</HI> unto whō
+<HI>Poliarchus</HI> protested, to be so much obli∣ged,
+that it is out of <HI>His</HI> power, to ac∣knowledge
+the innumerable courtesies,
+which she hath heap'd upon <HI>Him;</HI> con∣jures
+her to believe, that at least, she hath
+a <HI>Crowne</HI> and a <HI>King</HI> at her devotion;
+assures her, that <HI>Hee</HI> will returne into
+<HI>Sicily,</HI> so well accompanied, that the
+greatnesse of <HI>His</HI> birth, shall not bee
+doubted, and that then, <HI>He</HI> shall have
+some manner of meanes, to acknow∣ledge
+the good offices, which <HI>His</HI> trusty
+friends have done him; and then addes,
+that <HI>He</HI> is going to make use, of the per∣riwigge,
+and beard (whereof she had
+made <HI>Him</HI> a present) to disguise <HI>Him∣selfe.</HI>
+Thus with an extreame sorrow <HI>He</HI>
+takes <HI>His</HI> leave of this vertuous <HI>Lady,</HI>
+<PB N="39" REF="28"/>
+which did shed, an Ocean of teares at
+<HI>His</HI> departure <HI>He</HI> soone after arrived
+at <HI>Court,</HI> with <HI>Arsidas His</HI> Conduct,
+where immediately after, <HI>He</HI> gives no∣tice
+unto <HI>Argenis</HI> of <HI>His</HI> coming, the joy
+which <HI>She</HI> received thereat, cannot be
+exprest; but seeing <HI>Him,</HI> with a forme,
+so different, from that of <HI>Poliarchus, She</HI>
+did shed some teares, seeing in what
+danger, <HI>He</HI> did precipitate <HI>Himselfe</HI> for
+<HI>Her</HI> sake: on the other side, the content∣ment
+which <HI>She</HI> received, to see before
+<HI>Her</HI> eyes, that which <HI>She</HI> held most
+deare in the world, caused <HI>Her,</HI> pre∣sently
+to leave off <HI>Her</HI> teares. It was in
+the <HI>Temple,</HI> in the middest of the devoti∣ons
+and sacrifices, where they saw each
+other, but it was impossible to continue
+this practice, full of danger, any longer;
+<HI>Argenis</HI> sent <HI>Him</HI> word by <HI>Arsidas</HI> that
+<HI>Hee</HI> should with expedition saile into
+<HI>France,</HI> to raise there, with promptitude,
+an army able, not onely, to overcome
+the <HI>Kings</HI> enemies, but also all <HI>Sicily.
+Arsidas</HI> undertooke to fraight a ship, for
+that voyage, under colour that he had
+<PB N="40" REF="29"/>
+another to make in <HI>Italy.</HI> They im∣barque
+themselves, intending to hold
+their course towards <HI>France,</HI> but the fates
+disposed otherwise of it.</P>
+<P>In the meane time, the Warre is kind∣led
+afresh, and the <HI>Confederates,</HI> having
+reunited their forces, caused all the
+<HI>State,</HI> to rebell against the <HI>King,</HI> who
+had but foure <HI>Holds</HI> remayning, in one
+of which (being scituat in an Island) <HI>He</HI>
+retired <HI>Himselfe</HI> with <HI>Argenis,</HI> and the
+choyce of his trustiest Servants. In this
+distresse, Fortune brought forth new
+causes of trouble, unto <HI>Poliarchus</HI> and
+the <HI>Princesse.</HI> The yong <HI>King of Sardany
+and Corse,</HI> taken with <HI>Argenis's</HI> beauty,
+whereof the glory as well as the pi∣ctures
+had flowen, throughout all the
+Universe, makes a puissant Army, takes
+<HI>His</HI> course towards <HI>Sicily,</HI> and arrives
+with <HI>His</HI> Navy, neere unto the <HI>Towne</HI>
+where <HI>Meleander</HI> had retired <HI>Himselfe.</HI>
+The sight of so many Sayles, frights all
+the <HI>Kings</HI> party, as if they had beene
+new enemies, arrived to dissipate the
+relickes of <HI>His</HI> fortune. But the <HI>King
+<PB N="41" REF="29"/>
+of Sardany,</HI> sends to <HI>Meleander,</HI> gives <HI>Him</HI>
+assurance of <HI>His</HI> Army, and declares
+<HI>Him,</HI> that taking that interest which <HI>He</HI>
+ought, in the common case of <HI>Kings, He</HI>
+was come to assist <HI>Him,</HI> and to helpe
+<HI>Him</HI> to chastise <HI>His</HI> subjects rebellion.
+This new joy, causes <HI>Him</HI> to open <HI>His</HI>
+Gates, and the <HI>King Himselfe</HI> prepares to
+goe, and receive <HI>Him,</HI> in <HI>His</HI> owne ship∣ping.
+But being desirous to take away
+all suspition unto <HI>Meleander,</HI> and <HI>His;
+He</HI> commands <HI>His</HI> Navy to remaine in
+the roade, till they had newes of <HI>Him,</HI>
+and with a small traine, goes to meete
+with <HI>Meleander,</HI> who with a great free∣dome
+leapes into <HI>His</HI> Ship, to honour
+<HI>Him</HI> so much the more. After the com∣plements,
+the <HI>King of Sardany,</HI> to wit∣nesse,
+that <HI>He</HI> had no lesse confidence,
+then that of <HI>Sicily,</HI> goes in <HI>His</HI> Gally, and
+went in company together towards the
+Towne, where <HI>Meleander</HI> receives <HI>Him,</HI>
+with as much magnificence, as the state
+of <HI>His</HI> affaires would permit. Having
+courted a while, <HI>He</HI> hastens the warre,
+and being enflamed with the love of
+<PB N="42" REF="30"/>
+<HI>Argenis,</HI> whom <HI>He</HI> had found much fai∣rer,
+then <HI>Her</HI> picture, wishes for nought
+else, but Combats, desiring to make
+<HI>Himselfe</HI> remarkeable in them, to shew
+<HI>Himselfe</HI> worthy of the love of so faire a
+<HI>Princesse. Archombrotus</HI> is jealous of this
+new Rivall, doth protest in <HI>His</HI> heart,
+<HI>He</HI> will never yeeld <HI>Him</HI> this glory,
+which <HI>He</HI> could not suffer that it should
+be enjoyed by another, which was bet∣ter
+then <HI>He,</HI> who was <HI>Poliarchus.</HI> These
+yong <HI>Cavalleers,</HI> edg'd on by their passi∣ons,
+doe wonders against the enemies.
+But the <HI>Moore,</HI> was so happy, that having
+saved <HI>Meleanders</HI> life, <HI>He,</HI> with <HI>His</HI> owne
+hand, slew the chiefe of the factious;
+Neverthelesse, the forces which the
+<HI>King of Sardany</HI> had brought, which
+doubtlesse had opened the way unto
+the Victory, seemed exceeding conside∣rable
+unto the <HI>King and Court of Sicily.</HI>
+Being all returned in the place where
+<HI>Faire Argenis</HI> was, the onely subject of
+so many heroicall actions, jealousie in∣flames
+it selfe; the <HI>Moore,</HI> (though co∣vertly)
+imployes all his industry, to
+<PB N="43" REF="30"/>
+chase the <HI>Princesses</HI> favour, who hath
+<HI>His</HI> sollicitations in disdaine, and de∣tests
+in <HI>Her</HI> heart, so visible an infidelity,
+which tends onely, to make a shamefull
+wound in <HI>Her</HI> constancy. <HI>The King of
+Sardany</HI> asketh <HI>Her</HI> in marriage openly
+unto <HI>Her Father,</HI> who dares not refuse
+<HI>Her,</HI> after so powerfull a succour where∣with
+<HI>He</HI> hath newly oblig'd <HI>Him.</HI> Ne∣verthelesse
+knowing that <HI>His Daughter,</HI>
+had no inclination, for that <HI>Prince, He</HI>
+makes use of all manner of artificiall
+delayes, to feede <HI>Him</HI> with vaine hopes,
+without breaking with <HI>Him,</HI> fearing
+least being moved with <HI>His</HI> refusall, <HI>He</HI>
+should turne <HI>His</HI> armes against <HI>Sicily.</HI>
+But where art thou <HI>Poliarchus?</HI></P>
+<P>Some few months before, <HI>He</HI> had
+shipp'd himselfe in that Vessell, which,
+<HI>Arsidas</HI> had caused, to be prepar'd, to
+sayle towards the <HI>Gaules:</HI> but <HI>He</HI> was
+beaten, with such contrary winds, and
+<HI>His</HI> Ship was so much persecuted, with
+tempestuous stormes, that <HI>He</HI> was con∣strain'd,
+to abandon it, and put <HI>Himselfe,</HI>
+under the mercy of the waves in a little
+<PB N="44" REF="31"/>
+Cock-boat, which went and split it self,
+neere unto a rock, where, with much
+trouble <HI>He</HI> saved <HI>Himselfe,</HI> with <HI>His</HI>
+trusty <HI>Gelanore:</HI> But it was not the end
+of <HI>His</HI> adventures. Perceaving from the
+top of this clift, a Brigantine which say∣led
+upon the sea, <HI>He</HI> began to call out,
+and to conjure, those which were with∣in
+it, that they should take pitty at <HI>His</HI>
+misfortune: They were <HI>Pyrates,</HI> who
+had no feeling of humanity: Neverthe∣lesse
+imagining that those who call'd
+them, had saved some great riches,
+among'st the relickes of their Ship∣wrack,
+they came neere the Rock, and
+tooke them in their Brigantine. <HI>Poliar∣chus
+His</HI> port, and the sumptuous
+cloathes, wherewith <HI>He</HI> and <HI>Gelanore</HI>
+were clad, was like to be their vndo∣ing:
+The Captaine with his consorts,
+would have put them to the Chayne.
+<HI>Poliarchus,</HI> astonied at this barbarous∣nesse,
+retires a step backwards, and put∣ting
+<HI>His</HI> hand upon <HI>His</HI> sword, askes
+<HI>Him</HI> whence came this change, having
+newly saved <HI>His</HI> life? Desires him, not
+<PB N="45" REF="31"/>
+to blot so great an obligation, by so
+bloody an outrage. But <HI>He</HI> speakes to a
+barbarous man, to whom intreaties en∣venom
+and swell the courage. <HI>Poliarchus</HI>
+who would dispute <HI>His</HI> liberty, takes
+hold on a peece of an oare, whereof
+<HI>He</HI> makes use in lieu of a buckler, and
+drawing <HI>His</HI> sword, shewes that <HI>He</HI> is
+not a man, to suffer that affront; <HI>Gela∣nore</HI>
+seconds <HI>Him:</HI> They fight, but the
+match was so vnequall, that the <HI>Prince</HI>
+had infallibly bin lost, if some prisoners
+(unto whom <HI>He</HI> had the dexterity to
+cut their bonds wherewith they were
+tyed, arming themselves, with the Py∣rates
+owne armes, which they had
+slayne) had not succor'd them. At last
+this assistance made <HI>Him</HI> victorious, and
+master of the Brigantine, and fortune of
+those which were within it. <HI>He</HI> learn't
+by the Galli-slaves, and prisoners, that
+those Pyrates, had newly taken a great
+prey, in <HI>Mauritania,</HI> and that they had
+carried away, all the <HI>Queenes</HI> Treasure,
+who had an vncomfortable sorrow
+thereof. One of them, to whom <HI>Poliar∣chus</HI>
+<PB N="46" REF="32"/>
+had saved the life, told <HI>Him</HI> all the
+particulars thereof, and also shewed
+<HI>Him,</HI> the place where the Boxes were
+hidden. <HI>Poliarchus</HI> having caused them
+all to be opened; was astonied, at the
+sight of so much riches, together, and
+then thought it fit, that being so neere
+unto the <HI>Queenes</HI> Territories, <HI>He</HI> was, (in
+Honor) obliged, to seeke <HI>Her</HI> out, and
+to restore unto <HI>Her Her</HI> Treasure, to free
+<HI>Her</HI> from the affliction wherein this
+losse had plunged <HI>Her.</HI> But as they were
+throwing the dead over-boord, <HI>He</HI> per∣ceaved,
+that <HI>His</HI> folkes were searching
+one, upon the sands, of whom having
+pulled off one of his buskins; they
+found a packet of letters very carefully
+bound up upon his legge. Curiosity,
+made <HI>Him</HI> desire to see what it was; <HI>He</HI>
+perceaves presently, that the letters
+were directed unto <HI>Him,</HI> and having
+opened them, sees the name of <HI>Licoge∣nes,</HI>
+which was he who writ unto <HI>Him.</HI>
+The little love they bare one to another
+made <HI>Him</HI> admire this novelty: But ha∣ving
+read them exactly, <HI>He</HI> was strucke
+<PB N="47" REF="32"/>
+with an incomparable astonishment,
+greater then the first, wherein <HI>He</HI> had
+found <HI>Himselfe.</HI></P>
+<P><HI>Licogenes</HI> having had notice that <HI>Ar∣genis</HI>
+had made <HI>Poliarchus His</HI> peace
+with <HI>Meleander;</HI> and that <HI>Meleander,</HI> to
+assure <HI>Him</HI> of <HI>His</HI> good will, did not
+onely write unto <HI>Him,</HI> but also sent <HI>Him</HI>
+a rich Bracelet, in token of <HI>His</HI> affecti∣on;
+had found the meanes, to cause
+this present, to be poison'd, by the arti∣ficiall
+cunning of one of his confidents;
+and to cause the horror of his crime to
+fall on <HI>Meleander,</HI> had sent him who was
+found amongst the dead in this ship, to
+the end he might give notice unto <HI>Poli∣archus,</HI>
+of the treason, which was inten∣ded
+towards <HI>Him.</HI></P>
+<P><HI>Poliarchus</HI> having seene by <HI>Licogenes
+His</HI> letters, the advice which <HI>He</HI> gave
+<HI>Him,</HI> could never imagine that <HI>He</HI> had
+so much care of <HI>His</HI> life, nor that a great
+<HI>King</HI> would have procured <HI>Him</HI> such an
+infamous death. <HI>He</HI> puts off the deli∣beration
+of the businesse; till <HI>Hee</HI> was
+arrived in <HI>Mauritania,</HI> where at the in∣stant
+<PB N="48" REF="33"/>
+he caused the Brigantine to saile;
+<HI>He</HI> sent <HI>His Gelanore</HI> before, to advertise
+the Queene of <HI>His</HI> arrivall, and to as∣sure
+<HI>Her</HI> that <HI>He</HI> brought backe <HI>Her</HI>
+Treasure which <HI>He</HI> had taken from the
+hands of the Pyrates. These newes re∣joyc'd
+the <HI>Affricans,</HI> but the <HI>Queene</HI> could
+not imagine that <HI>Her</HI> Treasure was yet
+whole; and there was something in it,
+when it was taken, which troubled <HI>Her</HI>
+more then all the rest. <HI>She</HI> takes what
+was next to <HI>Her,</HI> and goes to the Sea∣shore,
+to welcome <HI>Poliarchus.</HI> At their
+meeting, <HI>He</HI> salutes <HI>Her,</HI> and declares
+unto <HI>Her</HI> that <HI>He</HI> believes that Heaven
+had conducted <HI>Him</HI> by this tempest
+about this coast, to quench <HI>Her</HI> teares,
+since <HI>He</HI> brought <HI>Her</HI> backe all <HI>Her</HI> ri∣ches,
+which <HI>She</HI> had so much deplor'd.
+The Queene impatient to know the
+truth, leaps aboard, where <HI>He</HI> followes
+and shewes <HI>Her</HI> immediately the Boxes,
+well lock'd up. <HI>She</HI> opens them, and
+found therein all what <HI>She</HI> sought for,
+and particularly the Cabinet, which
+serv'd afterwards to reconciliate <HI>Her
+<PB N="49" REF="33"/>
+Sonne</HI> with <HI>Poliarchus.</HI> Then <HI>She</HI> cryed
+out with great joy, and imbracing the
+<HI>Prince,</HI> called <HI>Him,</HI> the <HI>God Saviour of
+Mauritania,</HI> thence <HI>She</HI> led him to <HI>Her
+Palace,</HI> and forgot no kinde of magnifi∣cence
+and good entertainement, to te∣stifie
+how welcome <HI>He</HI> was. Amongst
+all this mirth and gladnesse <HI>Poliarchus
+His</HI> soule was all troubled with <HI>Licoge∣nes
+His</HI> letters, &amp; though <HI>He</HI> could not
+suspect <HI>Meleander</HI> of this perfidiousnesse,
+<HI>He</HI> was not fully satisfied of <HI>Him;</HI> To
+pull out all these thorns from <HI>His</HI> soule,
+<HI>He</HI> resolves to send <HI>Gelanore</HI> into <HI>Sicily,</HI>
+and to give him letters to <HI>His Argenis,</HI>
+but not unto <HI>Meleander,</HI> to whom <HI>He</HI> was
+contented to send <HI>Licogenes His</HI> letters,
+to the end <HI>Gelanore</HI> might judge by <HI>His</HI>
+countenance what <HI>He</HI> had in <HI>His</HI> soule,
+and if one might believe of <HI>Him</HI> so un∣worthy
+a wickednesse. It was in a good
+time that <HI>Gelanore</HI> arrived in <HI>Sicily,</HI> be∣cause
+<HI>Arsidas</HI> accompanied with <HI>Timo∣nides,</HI>
+which was he unto whom <HI>Mele∣ander</HI>
+had given the Bracelet to carry,
+was going to spread abroad the rumour
+<PB N="50" REF="34"/>
+of <HI>Poliarchus His</HI> death throughout
+all the <HI>Court.</HI> The <HI>Pilote</HI> of the ship in
+which <HI>He</HI> had made shipwracke, having
+by good fortune saved himselfe, had
+brought word unto <HI>Arsidas</HI> of the mis∣fortune
+which was happened unto <HI>Him,</HI>
+and had described unto him the man∣ner
+of <HI>His</HI> losse. <HI>Arsidas</HI> having at the
+same time met with <HI>Timonides,</HI> and
+learn'd of him the subject of his jour∣ney,
+had stayed it, and had made him
+partaker of these bad newes. They
+had then gone together very sad unto
+the <HI>Court,</HI> knowing not how to publish
+this accident, which was enough to
+cause <HI>Argenis's</HI> death with sorrow. The
+first whom they encountred at their
+landing was <HI>Gelanore</HI> which came from
+<HI>Affricke</HI> from the <HI>Prince of France:</HI> At
+the sight of him they thought they had
+beene in another world, because they
+had bin assured he had perish't with his
+<HI>Master:</HI> it was then as a sunne of good
+hope which began to shine upon them.
+But said they unto him; <HI>Gelanore,</HI> where
+is <HI>Poliarchus?</HI> the ill newes which wee
+<PB N="51" REF="34"/>
+have heard puts us in such trouble, that
+wee cannot beginne our complement,
+but with this question. <HI>Poliarchus</HI> is very
+well, replied <HI>Gelanore;</HI> I have left <HI>Him</HI>
+in <HI>Affrick,</HI> and am come to see the <HI>Prin∣cesse</HI>
+on <HI>His</HI> behalfe. You revive us, re∣plied
+the <HI>Princes</HI> two friends, without
+any further delay <HI>Argenis</HI> must have no∣tice
+of it, for feare least this ill rumor
+which wee have heard should have bin
+spread in the <HI>Court, Arsidas</HI> vndertakes
+this commission, and assoone receaves
+a command to fetch <HI>Gelanore.</HI> When he
+comes before the <HI>Princesse,</HI> he kisses the
+letters, and presents them unto <HI>Her</HI> to∣gether
+with his <HI>Masters</HI> commendations:
+<HI>She</HI> tooke a singular content at the read∣ing
+of the letters: But when <HI>She,</HI> had
+opened <HI>Licogenes His</HI> letter, <HI>She</HI> was
+seized with horror, and resolv'd that
+<HI>Her Father</HI> should see them, as also <HI>Gela∣nore</HI>
+had order to present them unto
+<HI>Him. Meleander</HI> having seene them con∣ceav'd
+an extraordinary spite, not only
+against <HI>Licogenes,</HI> but also against <HI>Poliar∣chus,</HI>
+that without writing, had sent unto
+<PB N="52" REF="35"/>
+<HI>Him,</HI> such infamous letters, of a traitor;
+and testified not unto <HI>Him</HI> the little
+faith which <HI>He</HI> gave to them. Insomuch
+that as <HI>Gelanore</HI> who had all the <HI>Prin∣cesses</HI>
+dispatches, went to take leave of
+<HI>Him,</HI> and ask't <HI>Him</HI> if he would not do
+the honor unto <HI>His Master</HI> to write to
+<HI>Him. Go your wayes,</HI> said he, <HI>and tell your
+Master, that I am a King, and not a Poiso∣ner:</HI>
+Neverthelesse that caused two of
+<HI>Licogenes's</HI> friends, who had lately bin
+arrested, to be tortur'd, as having plot∣ted
+something against the <HI>Kings</HI> honor,
+and against the quiet of <HI>His State, Gela∣nore</HI>
+went backe, towards <HI>Mauritania,</HI>
+where he found <HI>Poliarchus</HI> yet sicke of
+<HI>His</HI> fever. Having delivered <HI>Him</HI> the
+<HI>Princesses</HI> letters; he told <HI>Him</HI> all the
+particulars of the <HI>Court of Sicily,</HI> and a∣mongst
+other things, complained, of <HI>Ar∣chombrotus
+His</HI> great pride▪ who would
+not daigne to looke upon him, insinua∣ting
+thereby, openly enough, that he
+beleeved he aspir'd to marry the <HI>Prin∣cesse;</HI>
+there needed no more to put <HI>Poliar∣chus</HI>
+in the field. Then, notwithstanding
+<PB N="53" REF="35"/>
+<HI>Gelanore's</HI> remonstrances who charg'd
+<HI>Him</HI> on the behalfe of <HI>Argenis,</HI> to go in
+<HI>His Kingdome</HI> and bring succours, to put
+<HI>Sicily</HI> in liberty, <HI>He</HI> resolv'd to returne,
+disguis'd as before, in <HI>Meleanders Court;</HI>
+And to that end, seekes out the cure of
+<HI>His</HI> ague, in a strange remedy, having
+better succeeded therein, then the <HI>Phy∣sitians</HI>
+had judged; he went presently to
+take <HI>His</HI> leave of the <HI>Queene,</HI> who
+would by all meanes stay him: but <HI>He</HI>
+alleag'd <HI>Her</HI> so many reasons, that <HI>She</HI>
+was forc't to let <HI>Him</HI> go, for feare <HI>She</HI>
+should be a hindrance in the effecting of
+the great affaires which (as <HI>He</HI> said) <HI>He</HI>
+had in hand. <HI>She</HI> would have given <HI>Him</HI>
+magnificent presents, but <HI>He</HI> who
+would not take any thing, of all <HI>Her</HI>
+treasures, but one only ring, which per∣force
+<HI>She</HI> caused <HI>Him</HI> to accept, remai∣ned
+satisfied with the honor of <HI>Her</HI> fa∣vour,
+and having ship't <HI>Himselfe,</HI> hastned
+so much the Pilote and Mariners, that in
+a short time <HI>He</HI> arriv'd at the <HI>Court of Si∣cily.
+Gelanore</HI> had charge to advertise
+<HI>Arsidas,</HI> to the end he should beare the
+<PB N="54" REF="36"/>
+newes unto the <HI>Princesse;</HI> he did it with
+such dexterity, that there is <HI>Poliarchus</HI>
+amongst the <HI>King of Sardany's</HI> and <HI>Ar∣chombrotus
+His</HI> practises, neere unto <HI>His
+Argenis,</HI> under favour of <HI>His</HI> borrowed
+face. The joy which <HI>They</HI> received at
+the sight of each other, is beyond ex∣pression:
+The conclusion of <HI>Their</HI> en∣terview
+was, that at this present <HI>He</HI>
+should breake all obstacles, and should
+goe directly in <HI>His Kingdome,</HI> to leavie
+a puissant Army, that <HI>He</HI> might free <HI>Her</HI>
+out of the hands of so many Suters, who
+were so importunate unto <HI>Her. He</HI> then
+leaves <HI>Sicily,</HI> and happily arrives in <HI>His
+Realme, where He raises</HI> a Royall Army,
+which <HI>He</HI> presently ships, for the effe∣cting
+of this great voyage, and to shew
+unto the eyes of <HI>Sicily,</HI> as a sparkling of
+the glory of <HI>His</HI> birth. But it happened,
+that being at Sea, the Navy was bea∣ten
+with a furious storme, that inten∣ding
+to hold their course towards <HI>Si∣cily,
+He</HI> was cast upon the Coast of <HI>Mau∣ritania,</HI>
+where <HI>He</HI> found wherewith to
+cause <HI>His</HI> valour to appeare, and to give
+that successe to <HI>His</HI> affaires, which <HI>He</HI>
+<PB N="55" REF="36"/>
+did not imagine, should be there. Never∣thelesse
+<HI>His</HI> absence, a hundred times
+blam'd by <HI>Argenis,</HI> which could not tell
+what Starre to accuse, of this mis-for∣tune,
+was the cause that the <HI>Moore</HI> and
+<HI>the King of Sardany</HI> continued their pur∣suits;
+The <HI>Sardiot</HI> imagining <HI>He</HI> was
+abus'd, resolved to steale away <HI>Argenis,</HI>
+and to ship <HI>Her</HI> in <HI>His</HI> owne Navy, and
+so returne with so rich a Prey into <HI>His
+Kingdomes.</HI> The <HI>Moore,</HI> who had an
+eye on all sides, discovers this designe,
+advertises the <HI>King,</HI> and gives <HI>Him</HI> such
+true tokens thereof, that <HI>Meleander</HI> gives
+notice unto <HI>Radiroboranes</HI> that <HI>He</HI> igno∣red
+not <HI>His</HI> practices, which gave <HI>Him</HI>
+cause to breake wholly with <HI>Him.</HI> To
+be reveng'd on <HI>Meleander, He</HI> writ <HI>Him</HI>
+a letter, full of contempt and outrages
+against <HI>Argenis,</HI> whose Governesse <HI>He</HI>
+had suborned, which had discovered
+unto <HI>Him, Poliarchus His</HI> secrets and
+<HI>Their</HI> loves, <HI>Meleander</HI> afflicted beyond
+measure of this affront, is angry with
+<HI>Argenis,</HI> which justifies <HI>Her</HI> innocence, by
+she her selfe who had betrayed <HI>Her.</HI> This
+<PB N="56" REF="37"/>
+miserable wretch seeing her selfe dis∣covered
+did seeke (by the meanes of
+poison) the expiation of her crime, and
+procur'd her owne death, before the
+eyes of the <HI>Court. Meleander</HI> to shun a
+greater mis-fortune, and to fortifie
+<HI>Himselfe</HI> with friends, went to <HI>His Daugh∣ter,</HI>
+&amp; speakes to <HI>Her</HI> to marry the <HI>Prince
+of Mauritania,</HI> of whose merit and valour
+<HI>He</HI> spake advantagiously to enduce <HI>Her</HI>
+to consent. <HI>She</HI> demands some time to
+resolve <HI>Her selfe,</HI> and represents unto
+<HI>Him,</HI> that it would bee a shame for a
+<HI>Kings Daughter,</HI> to give <HI>Her</HI> faith so
+slightly unto a man who had not so
+much as demanded it, with the solem∣nities
+accustomed in like occurrences.
+<HI>Her Father</HI> grants <HI>Her</HI> two months time,
+and Fortune lengthned this terme:
+<HI>The King of Sardany</HI> full of rage and de∣spight,
+for so bloody an affront, puts
+under sayle, leaves <HI>Sicily,</HI> and having a
+favourable wind, within a short time,
+arrives in <HI>His Kingdome. His</HI> soule being
+wounded, causes <HI>Him</HI> to undertake re∣venge
+(of the injury which <HI>He</HI> had re∣ceived
+<PB N="57" REF="37"/>
+in the <HI>Court of Sicily</HI>) upon <HI>Mau∣ritania;
+He</HI> imagined that <HI>He</HI> could
+easily conquer that Great <HI>Kingdome,</HI>
+where there was but a <HI>Queene,</HI> which
+held the reines of the <HI>Empire;</HI> but the
+storme, which was like to cast away <HI>Po∣liarchus,</HI>
+saved the <HI>Moores</HI> and their
+<HI>Crowne.</HI> The tempest having cast <HI>Him</HI>
+upon that coast, <HI>He</HI> offers <HI>His</HI> Army,
+unto their <HI>Queene,</HI> who knew the obli∣gation
+which <HI>She</HI> had unto <HI>Him</HI> in the
+former voyage: <HI>She</HI> accepted those ad∣vantageous
+offers, and recommended
+unto <HI>Him,</HI> the safety of <HI>Her State.</HI> After
+many encounters, sometimes the victory
+was seene to leane on the <HI>Sardinians</HI>
+side, and sometimes on the <HI>Affricans,</HI>
+assisted with the <HI>Gaulois.</HI> At last they
+came to a set battell, which having been
+bloody amongst the souldiers, was no
+lesse cruell betwixt the <HI>Generals.</HI> These
+two generous <HI>Princes</HI> edg'd on, by a
+secret hatred which they bare one to
+another, sorted themselves during the
+horror of the fight, and filled with a
+furious animosity, caused their soul∣diers
+<PB N="58" REF="38"/>
+to retire, that they might end the
+Combat, and end their differences by
+the death of the one or the other; After
+a great conflict they were separated
+twice: But both aspiring to the victory,
+and being impatient at this succour, out
+of rage and despite threatned their
+souldiers to fall on them, if they had
+the audacity to hinder them any more.
+They beginne their conflict the third
+time, but they appeared so wearied and
+weakned by reason of the losse of their
+blood, that it was thought the Conque∣rour
+should have no great cause to glo∣rifie
+himselfe of his victory, at the end
+of the Combat. In the end neverthe∣lesse
+<HI>Poliarchus</HI> who had some advan∣tage
+upon the <HI>Sardiot,</HI> for the last blow,
+finding out a place through the defect
+of <HI>His</HI> Armour, thrusts <HI>His</HI> sword
+through <HI>His</HI> throat, and sacrifices <HI>Him</HI>
+to the <HI>Princesse of Sicily's</HI> wrath; <HI>Radiro∣branes</HI>
+whose soule was already upon <HI>His</HI>
+lips thrust <HI>Himselfe</HI> on <HI>Poliarchus,</HI> and
+fell downe upon <HI>Him:</HI> but being be∣reaved
+of life, <HI>Poliarchus</HI> disingag'd
+<PB N="59" REF="38"/>
+<HI>Himselfe</HI> by little and little, from under
+this body, and appeared victorious in
+the <HI>Head</HI> of <HI>His</HI> Troopes: The <HI>Moores</HI>
+know not what Trophies to erect, to
+the <HI>French Princes</HI> vertue; their <HI>Queene</HI>
+avouches, that <HI>Her Sonne</HI> and <HI>She</HI> owe
+unto <HI>His</HI> courage, all the remainder of
+the good fortune which they have in
+the world. Going to visit <HI>Him;</HI> when
+<HI>He</HI> was sicke, of the wounds which <HI>He</HI>
+had received in the Combat, after many
+praises said to the Conquerours glory,
+<HI>She</HI> speaks unto <HI>Him</HI> of the happy pur∣chase,
+which <HI>Her Sonne</HI> had made in
+<HI>Sicily,</HI> and in few words gives <HI>Him</HI> to
+understand that <HI>Meleander,</HI> holding
+<HI>Himselfe</HI> extreamely obliged unto <HI>His</HI>
+valour, had offered <HI>Him His Daughter</HI>
+in marriage. At this word all <HI>Poliar∣chus
+His</HI> wounds did bleed afresh, and
+seemes by the palenesse of <HI>His</HI> face, that
+<HI>His</HI> soule is going to abandon <HI>His</HI> body,
+as being weary to dwell in it: But this
+is not all, here's a mightier wave, which
+comes to encounter <HI>Him,</HI> to banish out
+all patience from <HI>His</HI> soule. The <HI>Queene</HI>
+<PB N="60" REF="39"/>
+had conjurd <HI>Her</HI> Sonne by <HI>Her</HI> letters,
+that <HI>He</HI> should make a journey into <HI>His
+Kingdome,</HI> before <HI>He</HI> married the <HI>Prin∣cesse
+of Sicily,</HI> and to induce <HI>Him</HI> to make
+this voyage, had represented unto <HI>Him</HI>
+the mis-fortunes whereof <HI>His State</HI> was
+threatned by the <HI>K. of Sardany's</HI> Army.
+There <HI>He</HI> is come, and led to <HI>Poliarchus
+His</HI> chamber, whō <HI>He</HI> had cruelly offen∣ded:
+<HI>Poliarchus</HI> feared not this encounter
+at all, because the <HI>Moore</HI> bore another
+name in <HI>Sicily,</HI> then in <HI>His Kingdome,</HI> but
+knowing <HI>His</HI> Rival, remēbers what the
+<HI>Queene</HI> had told <HI>Him,</HI> touching <HI>Her Sons</HI>
+marriage with <HI>Argenis.</HI> Griefe so over-mastered
+<HI>His</HI> senses, that at this sight, all
+full of rage, he turn'd <HI>His</HI> head on the
+other side, shews tokens of <HI>His</HI> spight,
+and receaves no better countenance of
+the <HI>Moore;</HI> who resolves to avenge <HI>Him∣selfe</HI>
+of the obstacle, which <HI>He</HI> gives to
+<HI>His</HI> Nuptials, imagining, that the delay,
+w<SUP>ch</SUP> <HI>Argenis</HI> had ask't, was for <HI>His</HI> sake:
+They come to words which testifie the
+great adversion which they have against
+each other. The <HI>Queene</HI> much astonied,
+<PB N="61" REF="39"/>
+brings forth <HI>Her Son</HI> out of the sick mans
+chamber, chides <HI>Him</HI> for <HI>His</HI> incivility,
+represents unto <HI>Him</HI> the obligation w<SUP>ch</SUP>
+<HI>He</HI> hath to the <HI>French Prince,</HI> and by way
+of reproach, gives <HI>Him</HI> to understand,
+that <HI>He</HI> shall be for ever blamed, to have
+so unworthily used an outlandish <HI>Prince,</HI>
+unto whō <HI>His Crown</HI> is so strictly oblig'd.
+In the meane time examining exactly
+the cause of so cruell a hatred, who had
+made <HI>Poliarchus,</HI> to resolve to take Sea,
+thus sicke and ill as <HI>He</HI> was, <HI>She</HI> finds
+out, that it was Iealousie, which they
+had each of the other concerning <HI>Arge∣nis,</HI>
+which had stirred up this storme:
+That comforts <HI>Her,</HI> beleeving <HI>She</HI> had
+found the meanes to agree them with∣out
+much trouble. <HI>She</HI> speakes to both
+the <HI>Princes;</HI> Imperiously, to <HI>Her Sonne;</HI>
+Courteously, unto that of <HI>France: She</HI>
+conjure <HI>Them,</HI> to referre the decision
+of their differences, unto <HI>Meleander: And
+I will cause,</HI> (said <HI>She</HI> unto <HI>Poliarchus)
+that you shall have the</HI> Faire Argenis, <HI>and
+that my</HI> Son <HI>shall not loose</HI> Her This pro∣mise,
+as an Oracle, with two faces, doth
+<PB N="62" REF="40"/>
+astonish the <HI>Princes,</HI> but the respect
+which they bare to the <HI>Queene,</HI> obliges
+them to beleeve <HI>Her,</HI> and to give a true
+Faith, unto <HI>Her</HI> words, and stay with
+patience, what the event will be, where∣of
+both the one and the other seemed
+to hope well. Thus, <HI>Poliarchus</HI> is conju∣red
+to remaine in the <HI>Court of Maurita∣nia</HI>
+to cause <HI>His</HI> wounds to be healed,
+and in the meane time the <HI>Moore</HI> lands
+<HI>His</HI> Navy in Sardany full of factions by
+the death of their <HI>King. He</HI> conquers it
+with little trouble; <HI>He</HI> comes backe
+Victorious to meet the <HI>Queene his Mo∣ther,</HI>
+which at <HI>Poliarchus His</HI> intreaty,
+dispatches them both with <HI>Her</HI> letters,
+to goe, and decide their difference,
+before <HI>Meleander</HI> unto whom they had
+referred it by <HI>Her</HI> Counsell. <HI>She</HI> gives
+a <HI>Cabinet,</HI> unto <HI>Her sonne,</HI> to carry unto
+<HI>Meleander;</HI> the pretious stones which
+were in it, were of an inestimable value,
+but that was not the secret. Having
+taken leave of the <HI>Queene,</HI> the two <HI>Ri∣vall
+Princes,</HI> hoise up saile, shewing no
+signe of anger, against each other: They
+<PB N="63" REF="40"/>
+arrived much about one time in <HI>Melean∣ders
+Court. Argenis</HI> hath notice that <HI>Po∣liarchus</HI>
+is so neere unto her: This joy
+had transported <HI>Her,</HI> if rage had not
+cross't it, when <HI>She</HI> heard, that <HI>He</HI> had
+made <HI>Her Father</HI> Umpire of <HI>Her</HI> mar∣riage.
+<HI>Is it then,</HI> said <HI>She, all the esteeme</HI> He
+<HI>makes of me, to put Himselfe thus in hazard,
+to lose Me? And if my</HI> Father <HI>who hath an
+inclination for the</HI> Moore, <HI>gives</HI> Me <HI>unto</HI>
+Him, <HI>doth he thinke, that I will ever con∣sent
+thereunto? Before that shall happen,
+steele, or poison shall put</HI> Me <HI>out of the world:
+I shall have more courage then</HI> He: <HI>my death
+shall blot out all the Trophies that this</HI>
+Moore <HI>goes fancying in his minde, and</HI>
+Poliarchus <HI>shall know that I can love, more
+constantly, and truly then</HI> He. <HI>At least if</HI> My
+<HI>sexe takes away the meanes, to dispute
+against</HI> Him, <HI>the glory of Armes, nothing
+shall hinder</HI> Me, <HI>to take from</HI> Him <HI>that of
+Constancy. This list is open to all the coura∣gious
+spirits, without distinction of sexe,
+and I shall not be the first Virgin, who hath
+surpassed men, in fidelity.</HI></P>
+<P>In the meane time the two <HI>Lovers</HI> are
+<PB N="64" REF="41"/>
+favourably receaved at <HI>Court,</HI> where
+<HI>Poliarchus</HI> began to reassume <HI>His</HI> luster,
+and as it were, to darken a little the
+<HI>Prince of Mauritanias</HI> glory, they go to
+salute the <HI>King,</HI> who at first sight, makes
+them the best welcome which they can
+desire. <HI>Poliarchus</HI> was the first which
+made <HI>His</HI> complement in few words.
+But the <HI>Moore</HI> having presented those
+letters with the <HI>Cabinet</HI> whereof <HI>His
+Mother</HI> had charged <HI>Him</HI> to give unto
+<HI>Meleander,</HI> saw <HI>Himselfe</HI> ingaged in a
+longer discourse.</P>
+<P>At the opening of the letters, the
+<HI>King</HI> changed colour, having read them
+very exactly, and with an extraordinary
+attention, <HI>He</HI> tooke a little Golden Key,
+which the <HI>Queene of Mauritania</HI> had in∣closed
+in them, and opened the <HI>Cabinet,</HI>
+where <HI>He</HI> found things, which did bal∣lance
+<HI>His</HI> Spirits in such sort, that
+among'st the tokens, which <HI>He</HI> gave of
+<HI>His</HI> contentment, the teares were seene
+to trickle downe <HI>His</HI> cheekes, in such
+abundance, that all the company was
+astonied thereat. At the instant forget∣ting
+<PB N="65" REF="41"/>
+<HI>Himselfe</HI> a little in point of ciuility,
+<HI>He</HI> left the <HI>Prince of France</HI> alone, and
+drew the <HI>Moore</HI> aside as to entertaine
+<HI>Him</HI> more privatly and with more
+liberty; this negligence was no∣thing
+to what followed: holding of
+<HI>Him</HI> aside, takes <HI>Him</HI> about the necke,
+imbraces and kisses <HI>Him,</HI> and gives <HI>Him,</HI>
+the most sensible testimonies which <HI>He</HI>
+could wish, of <HI>His</HI> affection. Not con∣tented
+with that, <HI>He</HI> sent in all hast for
+<HI>His Daughter,</HI> to whom as <HI>She</HI> arrived,
+<HI>He</HI> said softly, some few words accom∣panied
+with an action which seemed to
+be an image of joy, in <HI>His</HI> heart. The
+<HI>Princesse</HI> taking no heed to what was so
+neere unto <HI>Her,</HI> advances to salute the
+<HI>Moore</HI> with visible signes of Love, <HI>Poli∣archus</HI>
+remaines astonied at this spe∣ctacle,
+and knowes not how to behave
+<HI>Himselfe,</HI> but judging by the good enter∣tainment,
+which <HI>Argenis</HI> gave unto
+<HI>Archombrotus,</HI> that all his hopes were
+ruinated, and that <HI>His</HI> rivall was going
+to triumph, with <HI>His</HI> pursuits; yielded
+unto despaire, and in the bitternes of <HI>His</HI>
+<PB N="66" REF="42"/>
+thoughts, began to say within <HI>His</HI> soule;
+<HI>Is this then the fruit of so many paines
+which I have taken, and so many hazards
+which I have runn'd, to assure</HI> My selfe <HI>of
+the love, of this prodigious inconstancy,</HI> She
+<HI>to whom the most violent rigors of a</HI> Fa∣ther,
+<HI>with a thousand Martyrdomes ought
+not to have chang'd, nor altered, suffers</HI>
+Herselfe <HI>to be surpris'd by some flatteries,
+which this</HI> Old man <HI>rounds</HI> Her <HI>in the
+eare: What mountaines of gold? What per∣petuall
+springs of felicity, have beene pro∣missed</HI>
+Her, <HI>thus to change</HI> Her <HI>affection,
+and alter</HI> Her <HI>minde? unfortunate</HI> Queene
+of Mauritania, <HI>a scion of the old stock, what
+characters and inchantments host thou
+made, upon those letters, to print upon them,
+that force, and give them that power, to
+cause so monstruous a change, and to ruinate
+in so small a time, that which I had built
+with so long a patience? How am I punished
+of the folly which I have committed, trust∣ing
+in the words of a Woman and unto the
+promisses of a Damzell, whereof the cunning
+and lightnesse, (qualities unseparable to that
+sexe) ought to have made me to suspect
+<PB N="67" REF="42"/>
+them more then the Winds which have
+brought and driven me on this infamous
+Shore: But however, If</HI> Poliarchus <HI>hath
+beene deceaved,</HI> He <HI>can take such a cruel
+vengeance, that neither the Authors, nor
+confederates of this perfidiousnesse shall have
+no great cause to build triumphs, nor erect
+trophies to their vanity. This wretched</HI> Old
+man, <HI>who by the artificiall deceits whereof</HI>
+He <HI>is full, hath alwayes opposed my content∣ments,
+and these two insolent Lovers, who
+sport at the ship-wracke of my fortune, shall
+be the sacrifices of</HI> My <HI>fury: But it is not all,
+I will also dye, to the end my</HI> Ghost <HI>may
+pursue and persecute that ungratefull</HI> Arge∣nis,
+<HI>unto the Throne of the immortall</HI> Gods:
+<HI>Before whom I will reproach</HI> Her <HI>prodigious
+infidelity, that a thousand oathes taken in
+their name, ought to have stayed, if</HI> She <HI>had
+had the feeling and beliefe which</HI> She <HI>should
+have had of their power and justice;</HI> It is
+apparent, that it was <HI>Poliarchus His</HI> good
+<HI>Genius,</HI> or the <HI>Tutelary Angell of Sicily,</HI>
+which busied <HI>His</HI> Spirit, in these Tra∣gick
+thoughts, to stay <HI>His</HI> designe, and
+to divert <HI>Him</HI> during as much space as
+<PB N="68" REF="43"/>
+needed, to give <HI>Meleander</HI> and <HI>Argenis,</HI>
+time to remember themselves, and to
+come and make their excuses. As <HI>He</HI> was
+then, upon the point to goe and exe∣cute
+so furious a designe, and to put <HI>Me∣leander,
+Argenis,</HI> and <HI>His Rivall</HI> out of
+the world, and after this bloody execu∣tion,
+to run <HI>His</HI> sword through <HI>His</HI>
+body, and by that meanes to leave Tra∣gick
+tokens of <HI>His</HI> jealousie and despite:
+Those who seemed, to have too much
+neglected <HI>Him,</HI> came to themselves
+againe, and perceaving their fault, went
+towards <HI>Him</HI> to make their excuses,
+and discover the cause of this joy, which
+having ravish't them, out of themselves,
+had made them, to forget all civility:
+<HI>Poliarchus</HI> finds the charmes of <HI>His</HI> fury
+and frensie in their discourses and rea∣sons:
+The <HI>Moore</HI> is acknowledged to be
+<HI>Argenis's Brother;</HI> the <HI>Queene of Mauri∣tania,</HI>
+had discovered the History by
+<HI>Her</HI> letters, and had given such good
+tokens unto <HI>Meleander,</HI> that <HI>He</HI> could
+not doubt, but that <HI>He</HI> was <HI>His Sonne,</HI>
+and the true <HI>Heire</HI> of the two <HI>Crowns,</HI> in∣somuch
+<PB N="69" REF="43"/>
+that <HI>Archombrotus</HI> receiving the
+succession of <HI>His Estates,</HI> left freely the
+possession of the <HI>Princesse His sister,</HI> unto
+<HI>Poliarchus,</HI> who would not have chan∣ged
+it with a thousand <HI>Scepters.</HI></P>
+<P><HI>Meleander,</HI> seing that the most part of
+the assistants, vnderstood nothing in
+these wonders, and that every one de∣sired,
+a more particular enlightning,
+tooke the word, and making a short
+discourse of the voyage which <HI>He</HI> had
+made in <HI>Affricke</HI> during the heat of <HI>His</HI>
+youth, avowed that <HI>He</HI> had beene ena∣moured
+of a Beauty, whose favour
+having purchas't, <HI>He</HI> had at last mar∣ried
+<HI>Her</HI> secretly, and that <HI>His</HI> affaires,
+having called <HI>Him</HI> backe into <HI>Sicily,
+He</HI> had left <HI>Her</HI> with child, of a <HI>Sonne,</HI>
+which was <HI>Archombrotus,</HI> whom, since
+<HI>Hyanisbe,</HI> seeing <HI>Herselfe</HI> without chil∣dren,
+by the <HI>King Her husband,</HI> had sup∣posed;
+fayning to have beene brought
+a bed of <HI>Him,</HI> that <HI>She</HI> had beene in∣duc't
+thereunto, because <HI>Her</HI> Sister,
+(which was <HI>She,</HI> whom <HI>He</HI> had loved,)
+seing <HI>Herselfe</HI> ready to dye, in childe-bed,
+<PB N="70" REF="44"/>
+had discovered the Secret, unto
+<HI>Her.</HI> Therefore it was not to be doubted
+but that <HI>Archombrotus</HI> was <HI>Argenis's
+Brother,</HI> to whose marriage for that
+cause <HI>He</HI> could not aspire, but left the
+free possession of her, unto <HI>Poliarchus,</HI>
+an Incomparable <HI>Prince,</HI> and worthy
+the Alliance of the greatest <HI>Princesse</HI> of
+the earth; and accordingly, if ever
+<HI>Sicily</HI> had seene <HI>Her selfe</HI> at the height of
+good Fortune, it was now where the
+destinies had brought it unto, by un∣knowne
+meanes unto men, that there∣fore
+all the World should give signes
+of a publike gladnesse, and that every
+one should runne unto the <HI>Temples</HI> of
+their <HI>Gods,</HI> to give them a thousand
+thankes, for so many blessings show∣red
+downe upon <HI>His Crowne.</HI> At these
+words the people was seene transpor∣ted
+with a secret ravishment, by gi∣ving
+such testimonies of joy, amongst
+their Feasts, and Sacrifices: <HI>Meleander</HI>
+with <HI>Archombrotus</HI> consent, offers the
+<HI>Kingdome of Sardany,</HI> unto <HI>Poliarchus</HI> for
+<HI>Argenis's</HI> Marriage; <HI>Poliarchus</HI> being
+<PB N="71" REF="44"/>
+marvellous well contented, makes ou∣verture
+of an Alliance, for <HI>Archombro∣tus</HI>
+with a <HI>Sister</HI> of <HI>His, Daughter of
+France,</HI> which doth accept this glorious
+party with a thousand thankes, so that
+the two <HI>Crownes</HI> of <HI>France</HI> and <HI>Sicily</HI> re∣mained
+united with such strong Bonds,
+that it seemed, the destinies would
+make this Alliance, perpetuall.</P>
+<P>On the other side, <HI>Poliarchus</HI> sees
+<HI>Himselfe</HI> at the height of <HI>His</HI> desires, see∣ing
+that <HI>He</HI> was in possession of <HI>Her,</HI>
+whom <HI>He</HI> loved more dearely, then <HI>His</HI>
+owne life. Truely even as the rigours
+of a long Winter, causes the Spring to
+be found more pleasing, so all the cros∣ses
+which <HI>He</HI> had suffered in this pur∣suit,
+caused <HI>Him</HI> to finde the enjoying
+of it, so much the sweeter.</P>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

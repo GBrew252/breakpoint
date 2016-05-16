@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The georgicks of Hesiod, by George Chapman; translated elaborately out of the Greek: containing doctrine of husbandrie, moralitie, and pietie; with a perpetuall calendar of good and bad daies; not superstitious, but necessarie (as farre as naturall causes compell) for all men to obserue, and difference in following their affaires</TITLE><TITLE TYPE="alt" I2="0">Works and days. English</TITLE><AUTHOR>Hesiod.</AUTHOR></TITLESTMT><EXTENT>Approx. 123 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2003-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A03120</IDNO>
+
+
+<IDNO TYPE="stc">STC 13249</IDNO>
+
+<IDNO TYPE="stc">ESTC S104006</IDNO>
+
+<IDNO TYPE="eebo citation">99839747</IDNO>
+
+<IDNO TYPE="proquest">99839747</IDNO>
+
+<IDNO TYPE="vid">4195</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A03120)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 4195)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1475-1640 ; 962:02)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The georgicks of Hesiod, by George Chapman; translated elaborately out of the Greek: containing doctrine of husbandrie, moralitie, and pietie; with a perpetuall calendar of good and bad daies; not superstitious, but necessarie (as farre as naturall causes compell) for all men to obserue, and difference in following their affaires</TITLE><TITLE TYPE="alt" I2="0">Works and days. English</TITLE><AUTHOR>Hesiod.</AUTHOR><AUTHOR>Chapman, George, 1559?-1634.</AUTHOR></TITLESTMT><EXTENT>[8], 39, [1] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed by H[umphrey] L[ownes] for Miles Partrich, and are to be solde at his shop neare Saint Dunstans Church in Fleetstreet,</PUBLISHER>
+<DATE>1618.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>In verse.</NOTE><NOTE>A translation of: Works and days.</NOTE><NOTE>Printer's name from STC.</NOTE><NOTE>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2002-08</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2002-09</DATE><RESPSTMT><RESP>SPi Global</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2002-10</DATE><RESPSTMT><RESP>Emma (Leeson) Huber</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2002-10</DATE><RESPSTMT><RESP>Emma (Leeson) Huber</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2002-12</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A03120">
+<STC T="S">13249</STC>
+<BIBNO T="umi">99839747</BIBNO>
+<VID>4195</VID>
+</IDG>
+<TEXT>
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>THE GEORGICKS OF HESIOD, By GEORGE CHAPMAN; TRANSLATED ELABORATELY out of the Greek: Containing Doctrine of Husbandrie, Moralitie, and Pietie; with a perpetuall Calendar of Good and Bad Daies; Not superstitious, but necessarie (as farre as naturall Causes compell) for all Men to obserue, and difference in fol∣lowing their affaires.</P>
+<Q>Nec caret vmbra Deo.</Q>
+<P><HI>LONDON,</HI> Printed by <HI>H. L.</HI> for <HI>Miles Partrich,</HI> and are to be solde at his Shop neare Saint <HI>Dunstans</HI> Church in Fleetstreet. 1618.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>TO THE MOST NOBLE COMBINER OF LEARNING, AND HONOVR: S<SUP>r</SUP>. FRANCIS BACON, Knight; <HI>Lord High Chancelor of England, &amp;c.</HI></HEAD>
+<P><SEG REND="decorInit">A</SEG>Ntient wisedome, being so worthi∣ly eternis'd; by the now-renew'd Instance of it in your Lordship; And this ancient Authour, one of the most Authentique, for all wise∣dome, crown'd with <HI>Iustice</HI> and <HI>Pie∣tie:</HI> To what Sea owe these poore Streames their Tribute, but to your Lordships Ocean? The rather, since others of the like Antiquity, in my Trāslation of <HI>Homer,</HI> teach These their way, and adde comfort to their Courses; by ha∣uing receiued right cheerfull countenance and approbation from your Lordships most graue and honourd predecessor.</P>
+<P>All Iudgements of this Season (sauouring any thing the truth) preferring, to the wisedome of all other Nations, these most wise, learned, and circularly-spoken <HI>Grecians.</HI> Ac∣cording to that of the <HI>Poet</HI>:
+<Q><L>Graijs Ingenium; Graijs dedit ore rotund<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Musa loqui.</L></Q></P>
+<P><PB REF="3"/>And why may not this <HI>Romane Elogie</HI> of the <HI>Graians,</HI> ex∣tend in praisefull Intention (by waie of Prophetick <HI>Poesie</HI>) To <HI>Graies-Inne</HI> wits, and <HI>Orators</HI>? Or if the allusion (or pe∣tition of the Principle) begge with too broad a Licence in the Generall: yet serious Truth, for the Particular, may most worthily apply it to your Lo<SUP>p•</SUP>. truely-<HI>Greek</HI> Inspirati∣on, and absolutely <HI>Attick Elocution.</HI> Whose all-acknowledg'd facultie, hath banisht <HI>Flattery</HI> therein, euen from the <HI>Court</HI>; much more from my countrie, and more-then-vpland sim∣plicitie. Nor were those <HI>Greeks</HI> so circular in their elegant vt∣terance, but their inward Iudgements and learnings, were as round and solid. Their solidity prov'd in their eternity; and their eternity propagated, by <HI>Loue</HI> of all vertue, and integri∣tie: That <HI>Loue</HI> being the onely Parent, and argument, of all Truth, in any wisedome or learning; without which, all is sophisticate, and adulterate; howsoeuer painted &amp; splinted with Degrees and Languages. Your Lordships aduance∣ment of Learning, then, well showing your loue to it; and in it, being true, to all true Goodnes; your Learning streng∣thening that loue, must needs bee solide and eternall. This <NOTE N="*" PLACE="marg"><HI>Vir verè (seu clarè) sciens: aut illustris Iu∣dex, vel pro∣cul videns Arbiter; quia eos acu∣tos visu, seu gnaros esse oporteat r<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>i de qua agi∣tur.</HI></NOTE> <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> therefore, exprest in this Author, is vsed here, as if prophecied by him then, now to take life in your Lo<SUP>p</SUP>. whose life is chiefe soule, and essence, to all knowledge, and vertue: So few there are that liue now, combining <HI>Ho∣nour</HI> and <HI>Learning.</HI> This Time, resembling the terrible Time whereof this <HI>Poet</HI> prophecied; to which hee de∣sired he might not liue: since not a <HI>Grace</HI> would then smile, on any pious, or worthie; All <HI>Greatnesse,</HI> much more gra∣cing <HI>Impostors,</HI> then Men truely desertfull; The worse de∣prauing the better; and that so frontlesly, that <HI>Shame</HI> and <HI>Iu∣stice,</HI> should flie the earth for them. To shame w<SUP>ch</SUP> ignorant <HI>Barbarisme</HI> now emboldned; Let your Lordships learned hu∣manitie, proue nothing the lesse gracious to Vertue, for the cōmunity of <HI>Vices</HI> graces; but shine much the more cleere on
+<PB REF="3"/>
+her, for those clouds that eclipse her; no Lustre being so Sun like, as that which passeth aboue al clouds vnseen, ouer Fields, Turrets, &amp; Temples; and breaks out, in free beams, on some humblest Cotage. In whose like, <HI>Ioue</HI> him selfe hath been fea∣sted; And wherein your Lordship may finde more honour, than in the fretted Roofes of the Mighty. To which honor, oftentimes, nothing more conduceth, then Noble accep∣tance of most humble Presentments. On this Noblitie in your Lordshippe, my prostrate humility relying; I rest euer submitted in all simple and hearty vowes,</P>
+<CLOSER><SIGNED>Your Honours most truly, and freely deuoted, <HI>GEORGE CHAPMAN.</HI></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="preface">
+<PB REF="4"/>
+<HEAD>Of Hesiodus.</HEAD>
+<P><HI><SEG REND="decorInit">H</SEG>esiodus,</HI> surnam'd <HI>Ascraeus,</HI> was one, as of the most anti∣ent Greeke Poets; so one of the purest and pressest writers. He liu'd in the later time of <HI>Homer</HI>; &amp; was sur∣named <HI>Ascraeus</HI>; of <HI>Ascra,</HI> a Towne in <HI>Helicon</HI>; in which was built a tēple sacred to the <HI>Muses</HI>; whose Priest, <HI>Hesiodus</HI> was consecrate: whom <HI>Virg.</HI> among so many writers of <HI>Georgicks,</HI> only imitated; professing it in this;</P>
+<P><HI>Ascraeum{que} cano Romana per oppida carmen,</HI> <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>. Nor is there any doubt, (saith Mel:) <HI>quin idē Virg: initio Georgicorū, hanc inscriptionem expresserit hoc versu: Quid faciat laetas segetes; quo sidere terram &amp;c.</HI> His autoritie was such amongst the <HI>Antients</HI>; that his verses were commonly learned, as <HI>Axioms</HI> or <HI>Oracles</HI>; All tea∣ching good life, and humanitie: which though neuer so profita∣ble for mens now readings; yet had they rather (saith <HI>Isocrates</HI>) consume their times still in their owne follies, than bee any time conuersant in these precepts of wisedome; Of which (with <HI>Ho∣mer</HI>) he was first Father, whose Interpreters were al the succeeding <HI>Philosophers</HI>; Not <HI>Aristotle</HI> himselfe excepted: who before <HI>Thales, Solon, Pittacus, Socrates, Plato,</HI> &amp;c. writ of <HI>Life,</HI> of <HI>Manners,</HI> of <HI>God,</HI> of <HI>Nature,</HI> of the <HI>Starres,</HI> and generall state of the vniuerse. Not are his writings the lesse worthy; that <HI>Poesie</HI> informde them, but of so much the more <HI>Dignitie,</HI> and <HI>Eternitie</HI>: Not <HI>Thales,</HI> nor <HI>Anaxa∣goras,</HI> (as <HI>Aristotle</HI> ingenuously confesseth) hauing profited the world so much with all their writings; as <HI>Homers</HI> one <HI>Vlisses,</HI> or <HI>Nestor.</HI> And sooner shall all the <HI>Atomes</HI> of <HI>Epicurus</HI> sustaine diuisi∣on; the fire of <HI>Heraclitus</HI> be vtterly quencht; the water that <HI>Thales</HI> extolls so much, bee exhausted; the spirit of <HI>Anaxamines</HI> vanish; the discord of <HI>Empedocles</HI> be reconciled; &amp; all dissolu'd to nothing; before by their most celebrated faculties, they doe the world so∣much profit for all humane instruction, as this one Work of <HI>Hesi∣odus</HI>: Here beeing no dwelling on any one subiect; but of all hu∣mane affaires instructiuely concluded.</P>
+</DIV1>
+<DIV1 TYPE="encomium">
+<PB REF="4"/>
+<HEAD>To my worthy friend M<SUP>r</SUP>. <HI>George Chapman,</HI> and his translated Hesiod.</HEAD>
+<L><HI>CHapman;</HI> We finde by thy past-prized fraught,</L>
+<L>What wealth thou dost vpon this Land conferre;</L>
+<L>Th'olde Graecian Prophets hither that hast brought,</L>
+<L>Of their full words the true Interpreter:</L>
+<L>And by thy trauell, strongly hast exprest</L>
+<L>The large dimensions of the English tongue;</L>
+<L>Deliuering them so well, the first and best,</L>
+<L>That to the world in Numbers euer sung.</L>
+<L>Thou hast vnlock'd the treasury, wherein</L>
+<L>All Art; and knowledge haue so long been hidden:</L>
+<L>Which, till the gracefull Muses did begin</L>
+<L>Here to inhabite, was to vs forbidden.</L>
+<L>In blest <HI>Elizium,</HI> (in a place most fit)</L>
+<L>Vnder that tree due to the <HI>Delphian God,</HI></L>
+<L><HI>Musaeus,</HI> and that <HI>Iliad Singer</HI> sit,</L>
+<L>And neare to them that noble <HI>Hesiod,</HI></L>
+<L>Smoothing their rugged foreheads; and do smile,</L>
+<L>After so many hundred yeares to see</L>
+<L>Their Poems read in this farre westerne Ile,</L>
+<L>Translated from their ancient Greeke, by thee;</L>
+<L>Each his good <HI>Genius</HI> whispering in his eare,</L>
+<L>That with so lucky, and a<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>spicious fate</L>
+<L>Did still attend them, whilst they liuing were,</L>
+<L>And gaue their Verses such a lasting date.</L>
+<L>Where slightly passing by the <HI>Thespian</HI> spring,</L>
+<L>Many long after did but onely sup;</L>
+<L>Nature, then fruitfull, forth these men did bring,</L>
+<L>To fetch deepe Rowses from <HI>Ioues</HI> plentious cup.</L>
+<L>In thy free labours (friend) then rest content.</L>
+<L><PB REF="5"/>Feare not <HI>Detraction,</HI> neither fawne on <HI>Praise:</HI></L>
+<L>When <HI>idle Censure</HI> all her force hath spent,</L>
+<L><HI>Knowledge</HI> can crowne her self with her owne Baies.</L>
+<L>Their Lines, that haue so many liues outworne,</L>
+<L>Cleerely expounded, shall base Enuy scorne.</L>
+<CLOSER><SIGNED>Michael Drayton.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="encomium">
+<HEAD>To my worthy and honour'd Friend, M<SUP>r</SUP> <HI>George Chapman,</HI> on his Tran∣slation of <HI>Hesiods</HI> Works, &amp; Dayes.</HEAD>
+<LG>
+<L>WHose worke could this be▪ <HI>Chapman,</HI> to refine</L>
+<L>Olde <HI>Hesiods</HI> Ore, and giue it vs; but thine,</L>
+<L>Who hadst before wrought in rich <HI>Homers</HI> Mine?</L>
+</LG>
+<LG>
+<L>What treasure hast thou brought vs! and what store</L>
+<L>Still, still, dost thou arriue with, at our shore,</L>
+<L>To make thy honour, and our wealth the more!</L>
+</LG>
+<LG>
+<L>If all the vulgar Tongues, that speake this day,</L>
+<L>Were askt of thy Discoueries; They must say,</L>
+<L>To the Greeke coast thine onely knew the way.</L>
+</LG>
+<LG>
+<L>Such Passage hast thou found<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> such Returnes made,</L>
+<L>As, now of all men, it is call'd thy Trade:</L>
+<L>And who make thither else, rob, or inuade.</L>
+</LG>
+<CLOSER><SIGNED>Ben: Ionson.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 N="1" TYPE="book">
+<PB REF="5"/>
+<HEAD>THE GEORGICKS,<NOTE PLACE="marg"><HI>Annotations.</HI> To approue my difference from the vulgar and verball ex∣position; and other amplifi∣cations, fitt and necessarie for the true ren∣dring, and Il∣lustration of my Author; I am enforst to annexe some words of the Originall to my other An∣notations:</NOTE> OF HESIOD. By GEORGE CHAPMAN. The First Booke.</HEAD>
+<L><SEG REND="decorInit">M</SEG>Vses! That out of your Pierean state,</L>
+<L>All worth, in sacred Numbers celebrate;</L>
+<L>Vse <NOTE N="1" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>huc agite.</HI></NOTE> here your faculties so much renownd,</L>
+<L>To sing <NOTE N="2" PLACE="marg">Ioue.</NOTE> your sire; And him in <NOTE N="3" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Hy<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>nu decan. tanses.</HI></NOTE> hymns resoūd;</L>
+<L>By whom, All humanes, that to death are boūd,</L>
+<L>Are bound together: Both the Great in <NOTE N="4" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>de quo magna famae est</HI>;</NOTE> fame;</L>
+<L>And Men, whose Poore Fates fitt them, with no <NOTE N="5" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>non di<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>endus; incelebris.</HI></NOTE> Name;</L>
+<L><NOTE N="6" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>honoratus, No∣bilis.</HI></NOTE> Noble, and <NOTE N="7" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>; <HI>ignobilis; ad nullam <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>unctio∣nem seu digni∣tatem essum<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>tus.</HI></NOTE> Base; Great Ioues will, orders All;</L>
+<L>For He with ease extolls; with ease, lets fall;</L>
+<L>Easely diminisheth the most in grace,</L>
+<L>And lifts the most obscure to loftiest place:</L>
+<L>Easely sets <NOTE N="8" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>r<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ctus, e∣r<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ctu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>; non tor<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>u∣osus. Metaph</HI></NOTE> straight the quite <NOTE N="9" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>tortuosus; incuru<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>s.</HI></NOTE> shrunke vp together;</L>
+<L>And makes the mostelated <NOTE N="10" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>superbum, seu florentem facit vt defloresc<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>t.</HI></NOTE> Beautie, wither:</L>
+<L>And this is <HI>Ioue,</HI> that breakes his voice so hie,</L>
+<L>In horrid sounds; nd dwels aboue the skie:</L>
+<L>Heare then, O <HI>Ioue,</HI> that dost both see and heare;</L>
+<L>And, for thy Iustice sake, Be Orderer,</L>
+<L>To these iust <NOTE N="11" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Iudicia vel vera praecepta de moribus, seu pict<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>te.</HI></NOTE> Praecepts; that in <NOTE N="12" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>rati<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>inor.</HI></NOTE> Prophecy;</L>
+<L>I vse; to teach my Brother Pietie:</L>
+<L>Not one contention, on the Earth there Raignes,</L>
+<L>To raise Mens fortunes, and peculiar gaines;</L>
+<L><PB N="2" REF="6"/>But Two. The One; the knowing Man approues:</L>
+<L>The Other, <NOTE N="13" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>reprehensione, et derisione dignu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>,</HI></NOTE> Hate should force from humane loues;</L>
+<L>Since it derides our reasonable kinde;</L>
+<L>In two <NOTE N="14" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>. <HI>in duas partes.</HI></NOTE> parts, parting, Mans vnited Minde;</L>
+<L>And is so harmefull: for pernicious <HI>Warre,</HI></L>
+<L>It feedes; and bites, at euery Ciuile Iarre:</L>
+<L>Which no <NOTE N="15" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, He saies no man loues this war <HI>per se,</HI> but <HI>per accidens</HI>; because men cannot discerne <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>ō things truly worthy of their loues; Those that falsly pretēd worth, &amp; retain none, which he ascribes to som secret counsaile of loue; That for plague to their impieties strikes blinde their vnderstan∣dings.</NOTE> man loues; But strong Necessitie,</L>
+<L>Doth this Contention, as his plague implie,</L>
+<L>By Heauens hid Counsailes. Th'other strife, Black Night,</L>
+<L>Beg at before: which <HI>Ioue,</HI> that in the light</L>
+<L>Of all the starres dwels; And though Thron'd aloft;</L>
+<L>Of each Man, weighs yet, both the worke, and thought;</L>
+<L>Put in the Roots of Earth; from whose wombe, growe</L>
+<L>Mens needfull Meanes, to pay the debt they owe</L>
+<L>To <HI>Life,</HI> and <HI>liuing</HI>: And this strife is far,</L>
+<L>More fit for Men; And much the sprightlier:</L>
+<L>For He, in whose <NOTE N="16" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>cuius manibus nulla Ars, nulla sedulitas inest.</HI></NOTE> hands, liues no loue of Art,</L>
+<L>Nor vertuous Industry; yet plucks vp heart,</L>
+<L>And falls to worke for liuing. Any One,</L>
+<L>Neuer so stupid, and so base a <HI>Drone</HI>;</L>
+<L>Seeing a Rich Man haste, to sowe, and plant,</L>
+<L>And guide his House well; feeles, with shame, his want,</L>
+<L>And labours like him: And this strife is good.</L>
+<L>When strife for riches, warmes, and fires the bloud;</L>
+<L>The <NOTE N="17" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, He showes Ar∣tizans aemulati∣ons for <HI>riches,</HI> and approues that kinde of contention. Notwithstan∣ding <HI>Plato</HI> in <HI>Lysyas; Aristot.</HI> in the 5. of his Pol. &amp; 2. of his <HI>Rhetor.</HI> and <HI>Ga∣len</HI>; refer this strife to the first harmefull dis∣cord. yet Plu∣tarch takes our Authors part; and ascribes it to the vertuous Contention.</NOTE> Neighbour, doth the Neighbour, aemulate:</L>
+<L>The Potter, doth the Potters profit hate;</L>
+<L>The Smith, the Smith, with spleene <NOTE N="18" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>aestu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> ira, quam diu press<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> in pectore.</HI></NOTE> inueterate:</L>
+<L>Begger, maligns the Begger, for good done;</L>
+<L>And the Musition, the Musition.</L>
+<L>This strife, O <HI>Perses,</HI> see remembred still:</L>
+<L>But flie <HI>Contention,</HI> that insults on <NOTE N="19" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>alieni<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> insultans calamitatibus, Contentio.</HI> which hee calles their going to lawe.</NOTE> th'ill</L>
+<L>Of other Men; And from thy worke doth drawe,</L>
+<L>To be a well-seene Man, in works of Lawe.</L>
+<L>Nor to those <HI>Courts,</HI> afford affected eare:</L>
+<L>For he that hath not, for the entire yeare,</L>
+<L>Enough laid vp before hand; little need,</L>
+<L>Hath to take Care, those factious Courts to feed,</L>
+<L><PB N="3" REF="6"/>With what Earth beares; And <HI>Ceres</HI> doth bestowe;</L>
+<L>With which, when thou art satiate; Nor dost know,</L>
+<L>What to do with it: Then, to those wars go,</L>
+<L>For others Goods: But see no more spent so</L>
+<L>Of thine hereafter. Let our selues decide,</L>
+<L>With Doomes direct; All diff'rences implide,</L>
+<L>In our Affaires; And what is ratifide,</L>
+<L>By Ioues will, to be ours; Account our owne;</L>
+<L>For that thriues euer best. Our discord growne;</L>
+<L>For what did from our Fathers Bounty fall,</L>
+<L>We ended lately; And shar'd freely All.</L>
+<L>When Thou much more than thine hadst rauisht home;</L>
+<L>With which, <NOTE N="20" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>valde gloriosos reddens. <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>. Reges doniuoros.</HI></NOTE> thou mad'st proud▪ and didst ouercome</L>
+<L>With partiall affection to thy Cause;</L>
+<L>Those gift-deuouring kings, that sway our lawes.</L>
+<L>Who would haue still retaind vs in their powers;</L>
+<L>And giuen by their Doomes; what was freely ours.</L>
+<L>O Fooles, that all things into Iudgement call;</L>
+<L>Yet know not how much <NOTE N="21" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>dimidium plus Toto.</HI> He com∣mēds the <HI>Mean</HI> And reprooues those kings, or Iudges, That are too indul∣gent, to their couetous, and glorious appe∣tites; from the frugall, &amp; com∣petent life de∣clining; <HI>ad <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, i. ad plus haben∣di auiditatem inexhaustam▪</HI> Shewing how ignorant they are; that the virtue of Iustice and Medioc<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>i∣ty; is to be pre∣ferred, to in∣iustice, and in∣satiate Auarice. By <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, he vnderstands <HI>Medium inter Lucrū et Dānū</HI>; which Meane is more profi∣table, and No∣ble, than <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>i. Toto. quo et sua pars retinetur, et alterius ad se pertrahitur.</HI></NOTE> Halfe is more than All.</L>
+<L>Nor how the Meane life, is the firmest still.</L>
+<L>Nor of the <HI>Mallow,</HI> and the <HI>Daffodill,</HI></L>
+<L>How great a Good the little Meales containe.</L>
+<L>But <HI>God</HI> hath hid from Men the healthfull <HI>Meane</HI>;</L>
+<L>For otherwise, A Man might heap (and play)</L>
+<L>Enough to serue the whole yeare, in a Day;</L>
+<L>And strait, his Draught-Tree hang vp in the smoke,</L>
+<L>Nor more, his labouring Mules, nor Oxen yoke.</L>
+<L>But <HI>Ioue</HI>; Mans knowledge of his Best, bereau'd;</L>
+<L>Conceiuing Anger, since he was deceau'd,</L>
+<L>By that same <NOTE N="22" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, he calles Prome∣theus; <HI>i. qui obliqua agitat consilia</HI>; who wrests that wisdome which God hath giuen him to vse to his glorie; To his owne ends: which is cause to all the miseries Men suffer, and of all their im∣pious actions that deserue them. Ioues fire, signifies truth; which Prometheus stealing; figures learned Mens ouer-subtile abuse of diuine knowledge; wresting it in false expositions to their own obiects. Thereby to inspire, and puffe vp their owne prophane earth. Intending, their corpo∣reall Parts; And the Irreligious delights of them. But for the Muthologie of this; reade my Lord Chauncelours Booke <HI>de sapientia veterum Cap.</HI> 26. being infinitly better.</NOTE> <HI>wisdome-wresting, Iaphets sonne</HI>;</L>
+<L>For which, All ill All earth did ouer-run.</L>
+<L>For Ioue, close keeping in a hollow Cane,</L>
+<L>His holy fire: To serue the vse of Man,</L>
+<L><PB N="4" REF="7"/>Prometheus stole it, by his humane sleight</L>
+<L>From him that hath of all heauens wit, the height.</L>
+<L>For which, He angrie; Thus to him began</L>
+<L>The Cloud-Assembler: Thou most crafty Man,</L>
+<L>That ioy'st to steale my fire, deceiuing Me;</L>
+<L>Shalt feele that Ioy, the greater griefe to thee;</L>
+<L>And therein plague thy vniuersall Race:</L>
+<L>To whom, Ile giue a pleasing ill, in place</L>
+<L>Of that good fire: And all shall be so vaine,</L>
+<L>To place their pleasure in embracing paine.</L>
+<L>Thus spake, and laught, of Gods and Men the sire:</L>
+<L>And straight enioynd the famous God of Fire,</L>
+<L>To mingle instantly, with Water, Earth;</L>
+<L>The voyce, and vigor, of a <NOTE N="23" PLACE="marg">Ioues crea∣tion of a wo∣man.</NOTE> humane Birth,</L>
+<L>Imposing in it; And so faire a face,</L>
+<L>As matcht th'Immortall Goddesses, in grace.</L>
+<L>Her forme presenting a most louely Maid;</L>
+<L>Then on <HI>Minerua,</HI> his Command he laid,</L>
+<L>To make her worke, and wield the wittie loome:</L>
+<L>And (for her Beauty) such as might become</L>
+<L>The Golden <HI>Venus</HI>; He commanded Her,</L>
+<L>Vpon her Browes, and Countenance to conferre</L>
+<L>Her owne Bewitchings; stuffing all her Breast,</L>
+<L>With wilde <NOTE N="24" PLACE="marg"><P><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> An vnwearied, and wanton de∣sire to exceed others; or an in∣satiate longing to be lou'd of all.</P>
+<P><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>membra ad sati<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>tatem vsque depascens.</HI> <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> cares, or medi∣tations of vo∣luptuous satisfactions.</P></NOTE> Desires, incapable of Rest;</L>
+<L>And Cares, that feed to all satiety,</L>
+<L>All humane Lineaments. The Crafty spy,</L>
+<L>And Messenger of Godheads, <HI>Mercury,</HI></L>
+<L>He charg'd t' informe her, with a <NOTE N="25" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>an<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>nam ment<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>, vel impudentem. <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, furaces m<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>res.</HI></NOTE> dogged Minde,</L>
+<L>And theeuish Manners. All as he design'd,</L>
+<L>Was put in act. A Creature straight had frame,</L>
+<L>Like to a Virgine; Milde and full of shame;</L>
+<L>Which Ioues suggestion, made the both-foot lame,</L>
+<L>Forme so deceitfully; And all of Earth,</L>
+<L>To forge the liuing Matter of her Birth.</L>
+<L>Gray-eyd <HI>Minerua,</HI> Put her Girdle on;</L>
+<L>And show'd how loose parts, wel-composed, shone</L>
+<L>The deified Graces; And the <NOTE N="26" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> o<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> <HI>Sua∣da,</HI> Goddesse of perswasion, or eloquence.</NOTE> Dame that sets</L>
+<L>Sweet words, in chiefe forme; Golden Carquenets,</L>
+<L>Embrac't her Neck withall; The faire-haird Howers,</L>
+<L>Her gracious Temples crownd, with fresh-spring flowers;</L>
+<L><PB N="5" REF="7"/>But, of all these, imployd in seuerall place;</L>
+<L><HI>Pallas</HI> gaue <NOTE N="27" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>impetu inspira∣bat</HI>; gaue speciall force, to al her attractions, which he saies Pallas did. To, show that to all Beauty; wise∣dome, and discreet behaui∣our, giues the chief excite∣ment.</NOTE> Order, the impulsiue grace.</L>
+<L>Her bosome, <HI>Hermes,</HI> the great God of spies,</L>
+<L>Which subtle fashions fill'd, faire words and lies;</L>
+<L><HI>Ioue</HI> prompting still. But all the <NOTE N="28" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> Her voyce. The vocall, or high-spoken Herald of the Gods imposde; All faire wo∣men, affecting, to be fur∣thest heard, as well as most seen.</NOTE> voyce she vs'd,</L>
+<L>The vocall Herald of the Gods infus'd;</L>
+<L>And call'd her Name, <HI>Pandora</HI>; since on Her,</L>
+<L>The Gods did all their seuerall gifts confer:</L>
+<L>Who made her such, in euery moouing straine,</L>
+<L>To be the Bane of curious Minded Men.</L>
+<L>Her harmefull, and ineuitable Frame,</L>
+<L>At all parts perfect; Ioue dismist the Dame</L>
+<L>To <HI>Epimetheus,</HI> In his Heralds guide;</L>
+<L>With all the Gods plagues, in a Box, beside.</L>
+<L>Nor <HI>Epimetheus,</HI> kept one word in store</L>
+<L>Of what <HI>Prometheus,</HI> had aduis'd before;</L>
+<L>Which was; That <HI>Ioue</HI> should fasten on his hand,</L>
+<L>No gift at all; But he, his wile withstand,</L>
+<L>And back returne it; Lest with instant ill,</L>
+<L>To mortall Men; He all the world did fill.</L>
+<L>But he first tooke the gift; and after <NOTE N="29" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> when he had receiu'd &amp; tried the ills he knew twas ill, &amp; grieu'd: But then was so infected with affection to it, that He could not reforme, nor refine it. For Mans corporeall part; which i<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> figur'd in Epimetheus; signifying the inconside∣rate and headlong force of affection; not obeying his reasonable part, or soule; nor vsing foresight fit for the preuention of ills which is figur'd in Pro∣metheus; He is deceiued with a false shadow of pleasure; for the substan∣tiall, and true delight, he to be embrac't. Which found by Euent (the Schoolemaster of fooles.) He repents too late. And therefore, Horace true∣ly; <HI>nocet empta dolore voluptas.</HI></NOTE> grieu'd.</L>
+<L>For first, the Families of Mortals, liu'd</L>
+<L>Without, and free from Ill; Harsh Labour, then,</L>
+<L>Nor sicknesse, hasting timelesse Age on Men;</L>
+<L>Their hard, and wretched Tasks impos'd on them,</L>
+<L>For many yeares; But now, a violent stream,</L>
+<L>Of all Afflictions; In an instant came,</L>
+<L>And quencht Lifes light; that shin'd before in flame.</L>
+<L>For when the <NOTE N="30" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, of this came the prouerbe, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, The plague of women. And by the woman is vnderstood, Appetite, or effeminate affection; and custo∣marie, or fashionable Indulgence to the blood; not onely in womanish <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ffectations; but in the generall fashions of Mens Iudgements and action<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>; Both <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>id est, popularitor</HI>; or <HI>gratia &amp; authoritate, quo quisvalet apud populom.</HI> And <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>id est, viducendi &amp; floctendi animum.</HI> Intending illusiuely; by this same <HI>docta ignorantia</HI>; of which, many learned leaders of the Minde, are guilty: And <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> <HI>id est,</HI> The common source or sinke of the vulgar; preuailing past the Nobility, and pietie, of humanity and Religion. By which, All sincere disci∣pline, is dissolu'd, or corrupted; And so, that Discipline taken away (<HI>tanquam operculo Pandor<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></HI>) both the humane bodies, and Mindes dissolution; instantly, (as out of the Caue of A<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>olu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>) <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>et the windes or forces of corruption, violently breake: <HI>qua data porta, t<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>unt, &amp; terra<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> turbine po<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>∣stant.</HI> All which notwithstan∣ding; no course or custome is so desperate in infection; but some hope is left to scape their punish∣ment in euery Man; accor∣ding to Ouid; <HI>viuere spe vi∣di, qui moritu∣rus erat.</HI></NOTE> women; The vnwieldy lid,</L>
+<L>Had once discouerd: All the miseries hid,</L>
+<L><PB N="6" REF="8"/>In that curst Cabinet; disperst, and flew</L>
+<L>About the world; Ioyes pin'd; And Sorrowes grew.</L>
+<L><HI>Hope</HI> onely rested, in the Boxes Brim;</L>
+<L>And tooke not wing from thence: <HI>Ioue</HI> prompted him,</L>
+<L>That ow'd the Cabinet; to clap it close,</L>
+<L>Before she parted; But vnnumbred woes,</L>
+<L>Besides, encountred Men, in all their waies.</L>
+<L>Full were all shores of them; And full all seas.</L>
+<L><HI>Diseas<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>s</HI>; Day, and Night; with naturall wings,</L>
+<L>And silent Entries stole on men their stings;</L>
+<L>The great in counsailes, <HI>Ioue,</HI> Their voyces re<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>t;</L>
+<L>That not the truest, might auoide their Theft;</L>
+<L>Nor any scape the Ill, in any kinde,</L>
+<L>Resolu'd at first, in his almighty Minde.</L>
+<L>And, wert thou willing; I would adde to this,</L>
+<L>A second Cause of mens calamities:</L>
+<L>Sing all before; And since; Nor will be long,</L>
+<L>But short, and knowing; And t'obserue my song,</L>
+<L>By thy conceit, And Mind's retention strong.</L>
+<L>When first, Both Gods, and Men, had one Times Birth;</L>
+<L>The Gods, of diuerse languag'd Men, on Earth;</L>
+<L>A golden <NOTE N="31" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, Not onely this description of Ages (as the Critiques ob∣serue) is imita∣ted by all the Latine Poets, but all the rest of this Author; And chiefly by Virgil himselfe. His sentence &amp; inuention; made so com∣mon; that their Communitie will darken the raritie of them in their Origi∣nall. And this was called the golden Age; (according to Plato) for the vertuous excel∣lency, of Mens naturall dispo∣sitions, and manners.</NOTE> world produc't; That did sustaine,</L>
+<L>Old <HI>Saturnes</HI> Rule; when He in heauen did raigne;</L>
+<L>And then liu'd Men, like Gods, in pleasure here;</L>
+<L>Indu'd with Mindes secure; from Toyles, Griefs, cleer;</L>
+<L>Nor noysom Age, made any crooked, There.</L>
+<L>Their feet went euer naked as their hands;</L>
+<L>Their Cates were blessed, seruing their Commands,</L>
+<L>With ceaselesse Plenties; All Daies, sacred made</L>
+<L>To Feasts, that surfets neuer could inuade.</L>
+<L>Thus liu'd they long; and died, as seisd with sleep;</L>
+<L>All Good things seru'd them; Fruits did euer keep,</L>
+<L>Their free fields crownd; That all abundance bore;</L>
+<L>All which; All, equall, shar'd; And none wisht more.</L>
+<L>And when the Earth had hid them; Ioues will was,</L>
+<L>The Good should into heauenly Natures passe;</L>
+<L>Yet still held state, on Earth; And <NOTE N="32" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>sed vt dij vtue∣bant homines.</HI> The Poet (sales Melancthon) could not, but haue some light of our Parents liues in Paradise.</NOTE>
+<NOTE N="32" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>cusiodes hominum</HI>: from hence the opinion springeth, that euery man hath his good An∣gel; which sort of spirits (how∣euer discredited now to attend, &amp; direct men) Flutat<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> in his Commentaries <HI>de oraculorum defectu,</HI> de∣fends to retaine assured Being. In this sort: As if a Man should take a∣way the inter∣iected Aire; betwixt the Earth and the Moone: That Man must like∣wise dissolue, all the coherence and actuall vni∣tie of the vni∣uerse; leauing <HI>vacuum in Me∣dio</HI>; and ne∣cessary Bond of it all; so they that admit no <HI>Genij</HI>; leaue be∣twixt God, and Men, no reaso∣nable Meane for Commerce; The Interpretatiue, and Administring facultie; (as Plato cals it) betwixt them; vtterly destroying; And withdrawing consequently; All their reciprocall, and necessarie vses. As the witches of Thessalie; are said to pluck the Moone out of her Spheare. But these men be∣ing Good; turn'd onely Good <HI>Genij</HI>; The next Age (Men being bad) turn'd in their next Be∣ing; bad <HI>Genij.</HI> Of which, after was held; A mans good, and bad <HI>Genius.</HI></NOTE> Guardians were,</L>
+<L>Of all best Mortals, still suruiuing there;</L>
+<L><PB N="7" REF="8"/>Obseru'd works iust, and vniust; clad in Aire;</L>
+<L>And gliding vndiscouerd, euery where;</L>
+<L>Gaue Riches where they pleas'd; And so were reft,</L>
+<L>Nothing, of All the Royall Rule they left.</L>
+<L>The second Age; That next succeeded This;</L>
+<L>Was farre the worse; which <HI>Heauen-hous'd Deities,</HI></L>
+<L>Of <HI>Siluer,</HI> fashiond; Not like that of <HI>Gould,</HI></L>
+<L>In disposition; Nor so wisely Soul'd.</L>
+<L>For Children then liu'd, in their mothers Cares,</L>
+<L>(All that time growing still) A Hundred yeares:</L>
+<L>And were such great fooles, at that Age; That They,</L>
+<L>Could not, themselues, dispose a Family.</L>
+<L>And when they Youths grew; hauing reacht the Date,</L>
+<L>That rear'd their forces vp, to Mans estate;</L>
+<L>They liu'd small space; And spent it all in paine;</L>
+<L>Caus'd by their follies: Not of powre t'abstaine,</L>
+<L>From doing one another Iniurie.</L>
+<L>Nor would They worship any Deity;</L>
+<L>Nor on the holy <HI>Altars</HI> of the <HI>Blest,</HI></L>
+<L>Any appropriate sacrifice addrest,</L>
+<L>As fits the fashion of all humane Birth.</L>
+<L>For which, <HI>Ioue</HI> angry; hid them straight in <HI>Earth</HI>;</L>
+<L>Since to the blessed Deities of Heauen,</L>
+<L>They gaue not those Respects, They should haue giuen.</L>
+<L>But when the <HI>Earth</HI> had hid these, like the rest;</L>
+<L>They then were calld, the subterrestriall blest;</L>
+<L>And in Blisse second; hauing honours then;</L>
+<L>Fit, for th'Infernall spirits, of powrefull Men.</L>
+<NOTE N="33" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>. <HI>Subterranei beati, mortales vocantur.</HI> Out of their long liues and little knowledges; These Men are supposed by our Poet; to suruiue dull and earthly spirits; For their impieties, in neglect of Religion, subiect to painefull, and bitter Death; where the former good Men, sweetly slept him out. But for the the Powers of their bodies; being fashioned of the worlds yet fresh, and vigorous matter; Their spirits that informed their bodies; are supposed secondly powerfull. And that is intended; in their recourse to earthly men; such as themselues were; furthering their affecti∣ons and ambitions to ill; for which they had honour of those Men: And, of them, were ac∣counted blest; As the former Good <HI>Genij,</HI> wereso, indeed; for Exciting Men to goodnes.</NOTE>
+<L><PB N="8" REF="9"/>Then formd, our Father Ioue, a third Descent;</L>
+<L>Whose Age was brazen; clearely different</L>
+<L>From that of Siluer. All the Mortalls there,</L>
+<L>Of wilde Ashe fashiond; stubborne and austere;</L>
+<L>Whose Mindes, the harmefull facts of <HI>Mars</HI> affected;</L>
+<L>And Petulant <HI>Iniurie.</HI> All Meates reiected,</L>
+<L>Of Naturall fruits, and Hearbs. And these were They,</L>
+<L>That first began, that Table Cruelty,</L>
+<L>Of slaughtering Beasts; And therefore grew they fierce;</L>
+<L>And not to be indur'd, in their Commerce.</L>
+<L>Their ruthlesse Mindes, in Adamant were cut;</L>
+<L>Their strengths were dismall; And their shoulders put,</L>
+<L>In accessible hands out; ouer all</L>
+<L>Their brawny limbs, armd with a brazen wall.</L>
+<L>Their Houses all were brazen; All of Brasse,</L>
+<L>Their working Instruments; for blacke Iron was</L>
+<L>As yet vnknowne: And, these (their owne liues ending;</L>
+<L>The vast, and cold-sad house of hell-descending)</L>
+<L>No <NOTE N="34" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, These he <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>o∣tendes were such rude, and powrefull men, as not onely re∣fused, (like the second sort) to do honour to the Deities; But directly re∣beld against them: And af∣fected here in Earth, celestiall Emperit. For which the Ce∣lestials let them see, that they needed none but them selues to take downe their affectati∣ons; And for their so huge conceipt of themselues▪ had neuer any least honor of others, which many great men of this I∣ron Age, need not be ignorant therefore; is the euent of such great ones. And how∣soeuer they laugh in their sleeues, at any other Being than this; they may take notice by their wisers: That e∣uen according to reason, both, there are other Beings; And differences of those Beings; Both in honours, and Miseries.</NOTE> grace had in their ends: But though they were</L>
+<L>Neuer so powrefull; and enforcing feare;</L>
+<L>Blacke Death, reduc't their Greatnes in their spight,</L>
+<L>T'a <NOTE N="35" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>in arctumcogo: s<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>u in a<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>gustum redig<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>.</HI></NOTE> little Roome; And stopt their chearefull light.</L>
+<L>When these left life; A fourth kinde, <HI>Ioue</HI> gaue birth;</L>
+<L>Vpon the many-a-creature, nourishing Earth;</L>
+<L>More iust, and better than this Race before;</L>
+<L>Diuine Her<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>es; That the surnames bore,</L>
+<L>Of <NOTE N="36" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>▪ <HI>semidei,</HI> In∣tending Hercules, lason and others of the Argonants; whose ship was <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>naula omnibus cura</HI>▪ because it held the care of all men, in those that were in her. Intending of all the ver∣tuous Men, that were then of Name, who were called semigods, for their god-like vertues▪</NOTE> Semigods; yet These; Impetuous Fight,</L>
+<L>And bloody War, bereft of life, and light.</L>
+<L>Some, in Cadmaean Earth; contentious;</L>
+<L>To prise the infinite wealth of <HI>Oedipus</HI>;</L>
+<L>Before <NOTE N="37" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> He cals this seauen-ported Thebes; to distinguish it from that of Aegypt, that had a 100 Ports; besides that Hyppoplace in Cilicia.</NOTE> seauen-ported Theb's; some shipt vpon,</L>
+<L>The ruthles waues; and led to Ilion,</L>
+<L><PB N="9" REF="9"/>For faire-hair'd Hellens loue; where, likewise They;</L>
+<L>In bounds of Death; confind the beames of Daie.</L>
+<L>To these yet; loue gaue second life, and seat,</L>
+<L>At ends, of all the Earth; In a Retreate,</L>
+<L>From humane feete; where soules secure they beare</L>
+<L><NOTE N="38" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>. <HI>In beatrum Insulis.</HI> Of which fortu∣nate Ilands, <HI>Vide Hom: Odys</HI>: 8.</NOTE> Amids the blessed Ilands; situate nere,</L>
+<L>The gulfie-whirle-pit-eating Ocean floud.</L>
+<L>Happy Her<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>es liuing; For whose food,</L>
+<L>The plentie-bearing <HI>Tellus</HI>; thrice a yeare,</L>
+<L>Delicious fruits, and fragrant Hearbes doth beare.</L>
+<L>O that, I might not liue now; To partake,</L>
+<L>The Age, that must, the fift succession make;</L>
+<L>But either Dy before; Or else were borne,</L>
+<L>When all that Age, is into ashes worne.</L>
+<L>For, that which next springs, in supply of this,</L>
+<L><NOTE N="39" PLACE="marg"><P><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.</P>
+<P><HI>Cuius Genus est ferraum.</HI> This fift Age he onely pro∣phecied of: almost three thousand years since; which falling out in this age especial∣ly true, showes how diuine a Truth inspired him: And whe∣ther it be lawful or not, with Plato and all the formerly learned; to giue these worthiest Poets the com∣mendation of diuine.</P></NOTE> Will all of Iron, produce his families;</L>
+<L>Whose bloods, shall be so banefully Corrupt,</L>
+<L>They shall not let them sleepe; But interrupt,</L>
+<L>With Toiles, and Miseries, All their Rests, And fares.</L>
+<L>The Gods, such graue, and soule-dissecting cares,</L>
+<L>Shall steepe their Bosomes in; And yet, some Good,</L>
+<L>Will God mixe with their bad; for when the blood,</L>
+<L>Faints in their nourishment; And leaues their haire,</L>
+<L>A little gray; Ioues hand, will stop the Aire,</L>
+<L>Twixt them, and life; And take them straight away.</L>
+<L>Twixt Men, and women, shall be such foule play,</L>
+<L>In their begetting pleasures; And their Race,</L>
+<L>Spring from such false seed; That the sonnes stolne face;</L>
+<L>Shall nought be like the sires; The sire, no more,</L>
+<L>Seene in his Issue. No friend as before</L>
+<L>Shall like his friend be: Nor no Brother, rest</L>
+<L>Kinde, like his Brother: No Guest, like a Guest</L>
+<L>Of former times; No Childe, vse like a Childe,</L>
+<L>His aged Parents; But with manners wilde,</L>
+<L>Reuile, and shame them; Their Impietie,</L>
+<L>Shall neuer feare, that <HI>Gods all-seeing eye,</HI></L>
+<L>Is fixt vpon them; But shall quite despise,</L>
+<L>Repaiment of their educations prise;</L>
+<L><NOTE N="40" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>quibus ius est in manibus.</HI> All this Ouid translates; <HI>Nec hospes <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>b hospite tutus, Non socer à genero; fratrū quoque gratia <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ara est.</HI></NOTE> Beare their law, in their hands; And when they get,</L>
+<L>Their fathers free-giuen goods; Account them debt.</L>
+<L><PB N="10" REF="10"/><HI>Citie</HI> shall <HI>Citie</HI> ransack; Not a Grace,</L>
+<L>To any pious Man shall shew her face;</L>
+<L>Nor to a iust, or good Man. All, much more,</L>
+<L>Shall grace a Beastly, and iniurious <HI>Bore</HI>;</L>
+<L>No Right shall seise on any hand of theirs;</L>
+<L>Nor any shame make blush, their black affaires;</L>
+<L>The worse shall worse the better, with bad words;</L>
+<L>And sweare him out, of all his Right affords.</L>
+<L><HI>Ill-lung'd</HI>; <NOTE N="41" PLACE="marg"><P><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>malè seu graui∣ter so<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ans; <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, Ma<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> gaudens; vel quo mali gaudent, &amp; de∣lectantur. Vel alienis in∣sultans calami∣tatibus.</HI></P>
+<P><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>inuiso aspectu; &amp; t<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ruis oculis cernens</HI>: All Epithets of <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.</P></NOTE> <HI>Ill-liuerd, Ill-complexion'd</HI> Spight,</L>
+<L>Shall consort all the Miserable plight,</L>
+<L>Of Men then liuing. Iustice then, and Shame,</L>
+<L>Clad in pure white (as if they neuer came,</L>
+<L>In touch of those societies) shall flie,</L>
+<L>Vp to the <HI>Gods Immortall familie,</HI></L>
+<L>From <HI>broad-way'd Earth</HI>: And leave graue griefs to Men;</L>
+<L>That (desp'rate of Amends) must beare all Then.</L>
+<L>But now to <HI>Kings,</HI> A Fable Ile obtrude,</L>
+<L>Though cleere, they sauor all it can include.</L>
+<L>The <NOTE N="42" PLACE="marg"><P><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Accipiter,</HI> The manners of the Mighty towards the Meane, are fi∣gured in this fiction.</P>
+<P>By the Nigh∣tingale; vnder∣standing, lear∣ned, and vertu∣ous Men.</P>
+<P>The following verse; <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>imprudens &amp;c.</HI> followes the most sacred let∣ter, <HI>no<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>esse re∣luctandum po∣tentioribus.</HI></P></NOTE> <HI>Hauke</HI> once, hauing trust vp in his Seres,</L>
+<L>The sweet-tun'd <HI>Nightingale</HI>; and to the Spheres,</L>
+<L>His prey transferring: with his Tallons, she</L>
+<L>Pincht too extreamely; and incessantly,</L>
+<L>Crying, for Anguish; This imperious speech,</L>
+<L>He gaue the poore Bird; Why complainst thou wretch?</L>
+<L>One holdes thee now, that is thy Mightier far;</L>
+<L>Goe, as he guides; Though ne're so singular</L>
+<L>Thou art a Singer; It lies now in me,</L>
+<L>To make thee sup me; Or to set thee free.</L>
+<L>Foole that thou art; who euer will contend,</L>
+<L>With one, whose faculties, his owne transcend;</L>
+<L>Both failes of Conquest; And is likewise sure,</L>
+<L>Besides his wrong, He shall bad words endure.</L>
+<L>Thus spake the swift, and <HI>broad-wing'd</HI> Bird of Prey;</L>
+<L>But heare <NOTE N="43" PLACE="marg">O <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, He speakes to his brother, and returnes to his first Proposition; of the fit contention, to which hee perswaded him before. And though shame and iustice are fled in others; yet he wisheth him to loue and embrace them. The elegant description immediately before; being truely Philosophicall, and is handled at large, by <HI>Plato,</HI> in <HI>Protagoras.</HI></NOTE> thou Iustice; And hate Iniury.</L>
+<L>Wrong touches neer a miserable Man;</L>
+<L>For (though most patient) yet he hardly can</L>
+<L><PB N="11" REF="10"/>Forbeare iust words; and feele iniurious deeds;</L>
+<L>Vniust loads, vex; He hardly beares that bleeds.</L>
+<L>And yet hath <HI>Wrong,</HI> to <HI>Right</HI>; a better way:</L>
+<L>For, in the end, will Iustice winne the <HI>Day.</HI></L>
+<L>Till which, who beares, sees then, Amends arise:</L>
+<L>The <NOTE N="44" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>. <HI>Passus vero stultus sapit,</HI> which was since vsurpt prouerbially: signifying that wisdome to be follie, that we learne but of our owne first suffered afflicti∣ons: which yet, I think farre exceeds any wisdom that was neuer taught, nor con∣firmed by first feeling infor∣tunes, and calamities.</NOTE> foole first suffers, and is after wise.</L>
+<L>But <NOTE N="45" PLACE="marg"><P><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, properly signifies <HI>Curuis, v<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>l tortuosis indicijs</HI>; which (he saies) rauish together with them, <HI>Preiurie</HI>;</P>
+<P>Alluding to croo∣ked things; or things wrapt together like bram∣bles; that catch and keep with them whatsoeuer touches them. Our pro∣uerbe; to ouertake with a crooked Measure; not ridiculously applied to this graue <HI>Metaphor</HI>; <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, not signifying, in this place, what our <HI>Criticks</HI> teach; <HI>vid. lites iniquas</HI>; but <HI>Iudicia iniqua seutortuosa.</HI></P></NOTE> crooked Iustice; ioyntly hookes with it,</L>
+<L>Iniurious <HI>Periury</HI>; And that vnfit</L>
+<L>Outrage, brib'd Iudges vse; that makes them drawe,</L>
+<L>The way their gifts goe; euer cuts out <HI>Lawe,</HI></L>
+<L>By crooked Measures. Equall iustice then,</L>
+<L>All clad in Aire; th'ill Mindes of bribed Men,</L>
+<L>Comes after mourning: Mourns the Cities ill;</L>
+<L>Which where she is expell'd, shee brings in still.</L>
+<L>But those that with impartiall <HI>Doomes</HI> extend,</L>
+<L>As well to strangers, as their houshould friend</L>
+<L>The Law's pure <HI>Truth</HI>; And will in no point stray,</L>
+<L>From forth the straight Tract, of the equall way:</L>
+<L>With such, the Citie; all things Noble nourish:</L>
+<L>With such, the People, in their Profits flourish.</L>
+<L>Sweet <HI>Peace,</HI> along the Land goes; Nor to them</L>
+<L><HI>All seeing Ioue,</HI> will destinate th'extreame</L>
+<L>Of banefull <HI>Warre.</HI> No Hunger euer comes;</L>
+<L>No ill, where Iudges vse impartiall <HI>Doomes.</HI></L>
+<L>But Goods well got maintaine still neighbour feasts;</L>
+<L>The Fields flowe there, with lawfull Interests.</L>
+<L>On Hils, the high Oke, Acorns beares; In Dales,</L>
+<L>Th'industrious Bee her Hony sweet exhales:</L>
+<L>And ful-feld Sheep, are shorne with Festiuales;</L>
+<L>There, women bring forth children like their Sire;</L>
+<L>And all, in all kindes, finde their owne entire.</L>
+<L>Nor euer plow they vp the barren Seas,</L>
+<L>Their owne fat Fields yeeld store enough to please.</L>
+<L>But whom rude <HI>Iniurie</HI> delights, and Acts</L>
+<L>That <HI>Misery,</HI> and <HI>Tyranny</HI> contracts;</L>
+<L><HI>Sharp-sighted Ioue,</HI> for such predestines paine;</L>
+<L>And <NOTE N="46" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, oftentimes, for one ill Man a whole Citie suffers; which sentence, in neare the same words, is vsed in <HI>Ecclesiastes. Saepe vni∣uersa Ciuitas, mali viri pae∣nam luit.</HI> And as before he recounts the blessings that accompany good Kings or Iudges; <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>o here he remembers the plagues, that pursue the bad; enforcing in both (as I may say) the ebbing, or flowing of euery Common-wealth by them. For Law being soule to euery such politicke Bodie; And Iudges; as if Essence to that soule, in giuing it forme and Beeing, according to their sentences &amp; expositions of it; The bodie politick, of force must fare well or ill, as it is gouerned, well or ill. No otherwise then, as the body of <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> Man, suffers good or ill; by his soules good or bad information, and discipline. These threats vsed here (saith <HI>Melancthon</HI>) as in diuerse other places of this diuine <HI>Poet</HI>; He questionless gathered out of the doctrine of <HI>Moses</HI> and the <HI>Prophets,</HI> with whom the like comminations are euery where frequent.</NOTE> oftentimes; The whole Land doth sustain</L>
+<L><PB N="12" REF="11"/>For one Mans wickednes; that thriuing in</L>
+<L>Inequall <HI>Doomes</HI>; still makes his sentence him.</L>
+<L>For where such Men beare priuileg'd office still;</L>
+<L>There <HI>Ioue</HI> poures downe whole deluges of ill.</L>
+<L><HI>Famine</HI> and <HI>Pestilence</HI> together goe;</L>
+<L>The people perish; women baraine growe;</L>
+<L>Whole Houses vanish there, sometimes in peace;</L>
+<L>And sometimes Armies rais'd to shield th'increase,</L>
+<L>The <HI>Gods</HI> late gaue them: euen those <HI>Gods</HI> destroy</L>
+<L>Their Rampires ruine; and let <HI>Rapine</HI> ioy</L>
+<L>The Goods <HI>Iniustice</HI> gatherd: Or, elsewhere</L>
+<L><HI>Ioue</HI> sinks their ships, and leaues their ventures there.</L>
+<L><NOTE N="47" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, He would haue Iudges enter into considera∣tion thēselues, of the dangers in iniustice; which presently after, he redu∣ces into three arguments. The first, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>sibi ipsi,</HI> which sentence, to admiration agrees to that of the Script. <HI>Incidit in fo<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>ā quante fecit.</HI> The second for feire of further pu∣nishment from God. The third, he makes out of the naturall indignity, and absurdity of the thing.</NOTE> Weigh then your selues, this Iustice Oye Kings;</L>
+<L>For howsoeuer oft, vnequall things</L>
+<L>Obtatine their passe; they passe not so the eyes,</L>
+<L>Of all the <HI>all-discerning Deities</HI>;</L>
+<L>For close and conuersant their virtues be</L>
+<L>With Men; and how they grate each other, see,</L>
+<L>With wrested <HI>Iudgements</HI>; yeelding no cares due,</L>
+<L>To those sure wreakes, with which the <HI>Gods</HI> pursue</L>
+<L>Vnequall Iudges; Though on Earth there are,</L>
+<L>Innumerable <HI>Gods</HI> that minister,</L>
+<L>Beneath great <HI>Ioue</HI>; That keep Men clad in Aire;</L>
+<L>Corrupt Doomes noting, and each false affaire;</L>
+<L>And gliding through the Earth, are euery where;</L>
+<L>Iustice is seed to <HI>Ioue</HI>; in all fame deare,</L>
+<L>And reuerend to the <HI>Gods,</HI> inhabiting Heauen;</L>
+<L>And still a Virgin; whom when Men ill giuen,</L>
+<L>Hurt, and abhorring from the right, shall wrong;</L>
+<L>She for redresse; to <HI>Ioue</HI> her sire complaines,</L>
+<L>Of the vniust minde, euery man sustaines;</L>
+<L>And prayes the people may repay the paines</L>
+<L>Their Kings haue forfaited, in their offences;</L>
+<L>Deprauing Iustice, and the genuine senses,</L>
+<L>Of lawes corrupted, in their sentences.</L>
+<L>Obseruing this, ye Gift-deuouring Kings;</L>
+<L>Correct your sentences; and to their springs,</L>
+<L>Remember euer to reduce those streames,</L>
+<L>Whose crooked courses euery Man condemnes.</L>
+<L><PB N="13" REF="11"/>Whoeuer forgeth, for another, ill;</L>
+<L>With it, himselfe is ouertaken still;</L>
+<L>In ill, Men runne on that they most abhor;</L>
+<L>Ill counsell, worst is to the Councelor.</L>
+<L>For <HI>Ioues</HI> eye, all things seeing, and knowing all;</L>
+<L>Euen these things, if he will; of force must fall</L>
+<L>Within his sight, and knowledge; Nor to him:</L>
+<L>Can these brib'd <HI>Domes,</HI> in Cities shine so dim,</L>
+<L>But he discernes them; and will pay them paine:</L>
+<L>Else would not I liue iustly amongst Men;</L>
+<L>Nor to my Iustice frame my children;</L>
+<L>If to be iust, is euer to be ill;</L>
+<L>And that the vniust findes most iustice still;</L>
+<L>And <HI>Ioue</HI> gaue each Man in the end his will.</L>
+<L>But he that loues the lightning (I conceiue)</L>
+<L>To these things thus, will no conclusion giue.</L>
+<L><NOTE N="48" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, He perswades his brother to the loue of Iustice, by ar∣gument taken from the true nature of Man. That by vertue of his diuine soule, naturally loues it. Be∣cause God in∣fused into that diuine Beam of his, being im∣mortall; a loue to that, that preseru'd im∣mortalities; without that immortall de∣struction af∣fected in ini<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>∣stice. Fishes, Beasts, and Foules, indued naturally with no such loue to Iustice; but allowed by God, to doe like themselues and deuo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>re one ano∣ther, which that men should doe, as well as they; is most inhumane, and full of confusion; as well in their deformed mixture, as in the Ruine that inseparably followes it. But his confidence here, that whosoeuer will doe Iustice freely, and without respect of riches; God will enrich him; And that the worse enclined, will feele it in the Hell of his conscience; The others <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>eed prospe∣ring beyond himselfe; Is truly, religious and right Christian,</NOTE> Howeuer <HI>Perses,</HI> put these in thy heart;</L>
+<L>And to the equity of things conuert</L>
+<L>Thy Mindes whole forces; all thought striking dead;</L>
+<L>To that foule <HI>Rapine,</HI> that hath now such heade.</L>
+<L>For in our Manhoods, <HI>Ioue</HI> hath Iustice clos'd;</L>
+<L>And as a law, vpon our soules impos'd:</L>
+<L>Fish, Foule, and sauage Beasts; whose (Law is power)</L>
+<L><HI>Ioue</HI> lets each other mutually deuoure;</L>
+<L>Because they lack the equity he giues</L>
+<L>To gouerne Men; as, farre best for their liues;</L>
+<L>And therefore Men should follow it with striues.</L>
+<L>For he that knowes the iustice of a Cause;</L>
+<L>And will in publike Ministrie of Lawes,</L>
+<L>Giue sentence to his knowledge; Be he sure,</L>
+<L>God will enrich him. But who dares abiure</L>
+<L>His conscious knowledge; and belie the lawe;</L>
+<L>Past cure, will that wound in his Conscience drawe.</L>
+<L>And for his radiance now, his Race shall be</L>
+<L>The deeper plung'd in all obscurity.</L>
+<L><PB N="14" REF="12"/>The iust mans state, shall in his seed exceed;</L>
+<L>And, after him, breed honours as they breed.</L>
+<L>But, why mens ills preuaile so much with them;</L>
+<L>I, that the Good know, will vnclowd the Beame,</L>
+<L>In whose light lies the reason; with much ease,</L>
+<L>To vice, and her loue, Men may make accesse;</L>
+<L>Such crewes in Rout, Herd to her, and her Court</L>
+<L>So passing neare lies; Their way sweet and short;</L>
+<L><NOTE N="49" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Ante virtutem.</HI> His argument to perswade to vertue, here is taken both from her owne naturall Fate; and the diuine disposition of God. For as she hath a body (being sup∣posed the ver∣tue of Man) and through the worthily exercised and instructed or∣ganes of that bodie; Her soule receiues her excitation to all her ex∣pressible know∣ledge; (for <HI>dati sunt sensus, ad excitandum intellectum</HI>) so to the loue and habite of knowledge, and vertue, there is first necessarily required, a laborious and painefull conflict; fought through the know∣ledge, and ha<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e of the miseries and beastlinesse of vice. And this paineful passage to Vertue <HI>Vir∣gil</HI> imitated in his translation of the Pythagorean letter, Y. <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, or <HI>sud<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>r,</HI> is to be vnderstood of sweat, <HI>ex labore &amp; fatigatione <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>rt<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>.</HI></NOTE> But before Vertue, doe the <HI>Gods</HI> raine sweat,</L>
+<L>Through which, with Toile, and <HI>halfe-dissolued feet,</HI></L>
+<L>You must wade to her; her path long and steep;</L>
+<L>And at your entry, tis so sharp and deep.</L>
+<L>But scaling once her height, the ioy is more,</L>
+<L>Than all the paine she put you to before.</L>
+<L>The paine at first then, both to loue and knowe</L>
+<L><HI>Iustice</HI> and <HI>Vertue</HI>; and those few that goe</L>
+<L>Their rugged way; is cause tis followed lest.</L>
+<L><NOTE N="50" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>. Hee tels he<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e. who is at all parts the best and happiest Man; which <HI>Virgil.</HI> euen to a word almost recites; and therefore more than imitates, in this; <HI>Felix qui potuit verum cognoscere cansas &amp;c.</HI> wherein our diuine and all-teaching <HI>Poet,</HI> since, describes three sorts of Men; One that loues vertue out of knowledge acquired and elaborate; which the <HI>Philosopher</HI> calls <HI>scientiam acquisitam</HI>; The second, th<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> loues her out of ad∣monition; which he calls <HI>infu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>am scientiam</HI>; The third, is hee, that hath neither of those two knowledges; no<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> is capable of either; hauing both these ignorances in him; <HI>viz. Ignorantiam pranae disposition<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>,</HI> and <HI>purae negationis. Li<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ie,</HI> as well as <HI>Virgil,</HI> recites this place almost <HI>ad verbum, in Fabio &amp; Minuti<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></HI>; In these words, <HI>Saepe ego audini, milites, eum primum ess<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> virum, qui ipse consulat, quid in remsit: secundum eum, qui bene mone<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>i obediat: Qui nec ipse consolere, nec alt ri¦parere scit, eum extromi ingenij esse.</HI></NOTE> Of all Men therefore, he is alwaies best,</L>
+<L>That not depending on the mightiest,</L>
+<L>Nor on the most; hath of him selfe descried,</L>
+<L>All things becomming; and goes fortified,</L>
+<L>In his owne knowledge, so farre, as t' intend</L>
+<L>What now is best; and will be best at th'end.</L>
+<L>Yet hee is good too, and enough doth know,</L>
+<L>That onely followes, being admonisht how:</L>
+<L>But hee that neither of himselfe can tell,</L>
+<L>What fits a man; nor being admonisht well,</L>
+<L>Will giue his minde to learne; but flat refuse;</L>
+<L>That man, cast out from euery humane vse.</L>
+<L><PB N="15" REF="12"/>Doe thou then, euer in thy Memory place</L>
+<L>My precepts <HI>Perses,</HI> sprung of sacred Race;</L>
+<L>And worke out what thou knowst not: that with hate</L>
+<L><HI>Famine</HI> may prosecute thy full estate;</L>
+<L>And <HI>rich-wreath'd Ceres</HI> (reuerenc't of all,)</L>
+<L>Loue thee as much; and make her festiuall,</L>
+<L>Amids thy Granaries: Famine euermore</L>
+<L>Is naturall consort of the idle Boore.</L>
+<L>Whoeuer idly liues, both <HI>Gods,</HI> and Men</L>
+<L>Pursue with hatefull and still-punishing spleene.</L>
+<L>The slothfull man is like the sting-lesse <HI>Drone,</HI></L>
+<L>That all his powre, and disposition,</L>
+<L>Emploies to rob the labours of the <HI>Bee</HI>;</L>
+<L>And with his sloth, deuoure her Industrie.</L>
+<L>Doe thou repose thy speciall pleasure then,</L>
+<L>In still being conuersant, with temperate paine;</L>
+<L>That to thee still, the Seasons may send home</L>
+<L>Their vtmost store. With Labour Men become</L>
+<L>Herd-full, and rich; with labour thou shalt proue</L>
+<L>Great, both in humane, and the Deities loue.</L>
+<L>One, with another, all combin'd in one,</L>
+<L>Hate with infernall horror, th'idle Drone.</L>
+<L>Labour▪ and thriue; and th' idle 'twill inflame.</L>
+<L>No shame to labor; sloth is yok't with shame.</L>
+<L><HI>Glorie</HI> and <HI>vertue</HI> into consort fall</L>
+<L>With <HI>wealth; wealth</HI> God-like winnes the grace of all.</L>
+<L>Since which, yet, springs out of the root of paine;</L>
+<L><NOTE N="50" PLACE="marg"><P><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>laborare aut<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>m melius.</HI></P>
+<P>Notwithstan∣ding he hath no other way to perswade his vnwise brother to follow his busines, and leaue his strife in law for other Mens goods▪ but to propose wealth, and ho∣nour for the fruits of it: yet he prefers labor alone, ioind with loue of vertue and Iu∣stice, and the good expence of a mans time; before wealth, and honour with <HI>Couetous∣nes</HI> and <HI>Conten∣tion.</HI></P></NOTE> Paine hath praecedence; so thou dost maintaine</L>
+<L>The temper fitting; and that foolish vaine</L>
+<L>Of striuing for the wealth of other Men,</L>
+<L>Thou giu'st no vent; but on thine owne affaires</L>
+<L>Conuert'st thy Minde; and thereon laiest thy cares.</L>
+<L>And then put on, with all the spirit, you can.</L>
+<L>Shame is not good in any needy Man.</L>
+<L>Shame much obscures, and makes as much to fame.</L>
+<L><HI>Wealth</HI> loues <HI>Audacity; Want</HI> fauours <HI>Shame.</HI></L>
+<L>Riches, not rauisht, but diuinely sent</L>
+<L>For virtuous labour, are most permanent.</L>
+<L>If any stand on force, and get wealth so;</L>
+<L>Or with the tongue, spoile, as a number doe;</L>
+<L><PB N="16" REF="13"/>When <HI>Gaine,</HI> or <HI>Craft</HI> doth ouergoe the soule;</L>
+<L>And Impudence doth honest shame contoule;</L>
+<L><HI>God</HI> easely can the so-made-great disgrace;</L>
+<L>And his House, raisd so, can as easely race.</L>
+<L>Riches beare Date, but of a little space.</L>
+<L><NOTE N="52" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Par est delictū.</HI> He ia<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> it is as great a sinne; to wrong a poor suppliant, as to wrong a man: best friend or Guest. Which was then held one of the greatest impieties. And to deceiue an Orphane of his dead parents gift, he affirmes to be nothing lesse an offence than to ascend to the bed of his brother. Not that hee makes all sins alike; but shews how horrible those sins are, with which wee are most fami∣liar.</NOTE> Who wrongs an humble suppliant, doth offend▪</L>
+<L>As much as he, that wrongs a Guest, or friend.</L>
+<L>Who, for his brothers wifes loue, doth ascend</L>
+<L>His brothers bed; and hath his vicious end;</L>
+<L>Offends no more than he, that doth deceiue</L>
+<L>An Orphane, of the goods his Parents leaue;</L>
+<L>Or he that in the wretched bounds of Age,</L>
+<L>Reuiles his Father. All these <HI>Ioue</HI> enrage;</L>
+<L>And shall receiue of Him reuenge at last,</L>
+<L>Inflicting all paines, that till then they past.</L>
+<L>From all these therefore, turne thy striuing Minde,</L>
+<L>And to thy vtmost, see the <HI>Gods</HI> assign'd</L>
+<L>Chastly, and purely; all their holy dues.</L>
+<L>Burne fattest thighes to them; and sometimes vse</L>
+<L>Off'rings of wine. Sometimes, serue their delights,</L>
+<L>With burning incense: both, when bed-time cites;</L>
+<L>And when from bed, the sacred Morning cals.</L>
+<L>That thou maist render the Celestialls,</L>
+<L>All waies propitious: And so, none else gather,</L>
+<L>Thy fortunes strow'd; but thou reape others rather.</L>
+<L>Suffer thy foe thy table; call thy friend.</L>
+<L>In chiefe, one neere; for if Occasion send</L>
+<L>Thy householde vse of Neighbours; they vndrest</L>
+<L>Will hast to thee; where thy Allies will rest,</L>
+<L>Till they be ready. An ill Neighbour is</L>
+<L>A curse: a good one is as great a blisse.</L>
+<L>He hath a treasure, by his fortune sign'd;</L>
+<L>That hath a Neighbour of an honest minde.</L>
+<L>No losse of Oxe, or Horse, a Man shall beare;</L>
+<L>Vnlesse a wicked Neighbour dwell too neare.</L>
+<L>Iust Measure take of Neighbours, iust repay;</L>
+<L>The same receiu'd and more; If more thou may.</L>
+<L>That after, needing; thou maiest after, finde</L>
+<L>Thy wants supplier, of as free a minde.</L>
+<L><NOTE N="52" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>mala lucra ae∣qualiai<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> damnis.</HI> According to this of the Scripture; <HI>Male portum male disperit; Et, de male que∣sitis non gaudit tertius haeres.</HI></NOTE> Take no ill gaine, ill gaine brings losse as ill.</L>
+<L><PB N="17" REF="13"/>Aid quit with aid: goodwill pay with goodwill;</L>
+<L>Giue him that hath giuen; him that hath not, giue not▪</L>
+<L>Giuers, Men giue; Gifts to no giuers thriue not.</L>
+<L>Giuing is good: Rapine is deadly ill.</L>
+<L>Who freely giues, though much, reioyceth still;</L>
+<L>Who rauines, is so wretched, that though small</L>
+<L>His forst gift be; he grieues, as if twere all.</L>
+<L>Little to little added, it oft done,</L>
+<L>In small time makes a great possession.</L>
+<L>Who addes to what is got; needs neuer feare,</L>
+<L><NOTE N="53" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>tram famem.</HI> Black or swar<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>h he cals Famine, or Hung<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>r; <HI>ab effectu, quod nigrum, aut lu∣cidum colorem inducat.</HI></NOTE> That swarth-che<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>k't <HI>Hunger</HI> will deuoure his cheare.</L>
+<L>Nor will it hurt a Man; though something more,</L>
+<L><NOTE N="54" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> Hee la<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>s it will not hurt a man, to haue a little more than needs meerely, laid vp at home; A<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> we say; it will eat a man no mea<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>. And prefers keeping a mans store at home; to put∣ting it forth; for it may go lesse so, as often it doth.</NOTE> Than serues meere need; he laies at home in store.</L>
+<L>And, best at home: it may go lesse abroad.</L>
+<L>If cause call forth; at home prouide thy Rode,</L>
+<L>Enough for all needs, for free spirits dy,</L>
+<L>To want, being absent from their owne supplie.</L>
+<L><NOTE N="55" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>incipiente dolio.</HI> At the beginning, or height of a mans store, hee aduiseth liberality; And at the bottome. In the midst frugality. Admonishing therein not to be prodigall nor sordid; or wretched: But as at the top of the Cask, wi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e is the weakest, and thinnest; because it is most neer the aire; and therefore may there be best spent; at the bottome full of lees; and so may there be best spared; In the midst nearest and briskest, and should bee then most made of, or busb<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>nded; so in the midst of a Mans purse, he aduiseth parsimo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>y.</NOTE> Which note, I charge thee. At thy purses height,</L>
+<L>And when it fights lowe; giue thy vse his freight;</L>
+<L>When in the midst thou art, then checke the blood;</L>
+<L><HI>Frugalitie</HI> at bottome is not good.</L>
+<L><NOTE N="56" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>testem adhil<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>to.</HI> The Criticks expound it; as if a man talking priuatly and liberally with his brother, should confesse so securely; that he must euer bring a witnesse with him, of what words past him, and the Criticks intend it personally; where the word <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> signifies heere onely, <HI>sup<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>uta, cogita,</HI> hypothetically, or by way of supposition; <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> comming of <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, i <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, et <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>faci<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>, esto vt ita sit,</HI> suppose there were a witnesse by; and be as circumspect in speeches with your brother, euen in your most priuate and free discourse, as if you supposed a third Man heard you. The other exposition is to be exploded.</NOTE> Euen with thy brother, thinke a witnesse by;</L>
+<L>When thou wouldst laugh, or conuerse liberally;</L>
+<L>Despaire hurts none, beyond <HI>Credulitie.</HI></L>
+<L><NOTE N="57" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>qui vel quae <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> ex<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>rnat.</HI></NOTE> Let neuer neate-girt Dame, that all her wealth</L>
+<L>Laies on her waste; make profit of her stealth,</L>
+<L>On thy true iudgement; nor be heard to faine</L>
+<L>With her forkt tongue; so far forth as to gaine</L>
+<L><PB N="18" REF="14"/>Thy candle rent (she calls it). He that giues</L>
+<L>A woman trust, doth trust a Den of theeues.</L>
+<L>One onely son preserues a familie;</L>
+<L>As feeding it with onely fit supplie.</L>
+<L>And that house to all height his riches reares,</L>
+<L>Whose sire dies ould, and leaues a son of yeares.</L>
+<L>To many children too, <HI>God</HI> easely spares</L>
+<L>Wealth store; but still, more children the more cares.</L>
+<L>And to the house, the more accesse is made.</L>
+<L>If then, the hearty loue of wealth inuade</L>
+<L><NOTE N="58" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>vnigenitus.</HI> He saies one onely Son, pre∣serues his Fa∣thers house; &amp; addes most in∣geniously, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>i. pascendo, se<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> nutriendo.</HI> Intending, that he addes onely necessarie vitall fewell (as 'twere) to his fathers decaying fire. Where many sons oftentimes, rather famish, or extinguish a familie, than nourish, or fewell it. And yet hee addes most grauely and pi∣ously, that God can easiely giue store of Goods, fit for the greatest store of children; but yet, the more children the more care; and speaking to the happiest state of a familie; he prefers one sup∣plier to many. <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>sic facito.</HI> A generall Conclusion, and Transition to his doctrine of the next booke.</NOTE> Thy thrifty Minde; performe what followes here;</L>
+<L>And, one worke done; with others serue the yeare.</L>
+<TRAILER>The end of the First Booke.</TRAILER>
+</DIV1>
+<DIV1 N="2" TYPE="book">
+<PB N="19" REF="14"/>
+<HEAD>THE SECOND BOOKE OF GEORGICKS.</HEAD>
+<L><SEG REND="decorInit">W</SEG>Hen <HI>Atlas</HI> Birth,<NOTE N="1" PLACE="marg">He begins his workes, to which, imme∣diately before, he prepares his Brother. This whole Booke, contai∣ning Precepts of Husbandry; both for field &amp; familie. By the Ascent and Set of the <HI>Pleiades</HI>; is showne the Haruest, and seed season; as well for ground neare the Seas, as the farre di∣stant. The <HI>Pleiades</HI> (cald the Daughters of <HI>A<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>las</HI>) are the seuen Stars, in the back of the <HI>Bull,</HI> which the Latines call'd <HI>Vergilias</HI>; when which are seene, neare the Sunne <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ising; which is in June; Hee appoints entrie on Haruest affaires; when, in the Morning they leaue this Hemispheere (which is in Nouember) he designes seed Tyme.</NOTE> the <HI>Pleiades,</HI> arise;</L>
+<L>Haruest begin; Plow when they leaue the Skies.</L>
+<L>Twice twēty <HI>daies,</HI> &amp; <HI>nights,</HI> these hide their heads;</L>
+<L>The yeare then turning, leaue againe their Beds;</L>
+<L>And show when first to whet the Haruest steele.</L>
+<L>This likewise is the Law, the fields must feele;</L>
+<L>Both with <HI>Sea-dwellers</HI>; neare, and high, and those,</L>
+<L><NOTE N="2" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>P<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>lustrem Terram significat.</HI></NOTE> Whose winding Vallies, <HI>Neptune</HI> ouerflowes:</L>
+<L>That Fenny grounds, and Marshes dwell vpon,</L>
+<L>Along the fat, and fruitfull Region.</L>
+<L>But wheresouer thou inhabit'st; ply</L>
+<L>The Fields, before fierce winters cruelty</L>
+<L>Oppresse thy paines; when thou maiest naked Plow;</L>
+<L>Naked cast in thy seed, and naked Mow;</L>
+<L>If timely thou wilt beare into thy Barne,</L>
+<L>The works of <HI>Ceres</HI>; and to that end learne,</L>
+<L>As timely to prepare thy whole encrease;</L>
+<L>Lest, in the meane time, thy Necessities</L>
+<L>Importune thee at others Doores to stand,</L>
+<L>And begge supplies to thy vnthriftle hand:</L>
+<L>As now thou com'st to me, But I, no more</L>
+<L>Will giue, or lend thee, what thou maiest restore,</L>
+<L><PB N="20" REF="15"/>By equall measure; Nor will trust thee so;</L>
+<L>Labour (vaine <HI>Perses</HI>) and those labours do,</L>
+<L><NOTE N="3" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>. <HI>per signum de∣monstr<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>, ita vt coniectare sit facile.</HI></NOTE> That by the certaine signe of Beggerie,</L>
+<L>Demonstrated in Idle Drones, thine eye</L>
+<L>May learne the work, that equall Deitie,</L>
+<L>Imposeth, of Necessitie, on Men:</L>
+<L>Lest, with thy wife, and wanting childeren;</L>
+<L>(Thy Minde much grieu'd) Thou seek'st of Neighbours food;</L>
+<L>Thine owne meanes failing. Men grow cold in Good.</L>
+<L>Some twice, or thrice perhaps, thy Neighbour will</L>
+<L>Supply thy wants; whom if thou troubl'st still;</L>
+<L>Thou com'st off empty; and to aire dost straine</L>
+<L>A world of words; words store, make wanting Men.</L>
+<L>I charge thee therefore, see thy thoughts imploid</L>
+<L>To pay thy Debts; and how thou maist auoid,</L>
+<L>Deserued Famine. To which end, first see,</L>
+<L>Thy Wife well orderd; and thy Familie▪</L>
+<L><NOTE N="4" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>famulā conside∣rat<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> acq<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>isitam.</HI> He would haue her likewise vn∣maried▪ <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>on nuptam,</HI> his reason he showes after.</NOTE> Thy Plough-drawne Oxe; thy Maid, without her spouse,</L>
+<L>And wisely hir'd; that businesse in thy house,</L>
+<L>May first worke off; and then to Tillage come:</L>
+<L>To both which Offices; make fit at Home,</L>
+<L>Euery thing needfull; lest abroad thou send</L>
+<L>To aske another, and he will not lend;</L>
+<L>Meane time thou want'st them; Time flies fast away,</L>
+<L>Thy work vndone; which not from Day to Day,</L>
+<L>Thou shouldst deferre; the worke Deferrer, neuer</L>
+<L><NOTE N="5" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>non assidum in opere.</HI></NOTE> Sees full his Barne; nor he that leaues worke euer,</L>
+<L><NOTE N="6" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>cura cum indu∣stria, &amp; exerci∣tatione.</HI></NOTE> And still is gadding out. Care flying Ease,</L>
+<L>Giues Labour euer, competent encrease.</L>
+<L><NOTE N="7" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Iui opus de die in diem dubi∣tat, &amp; pro∣crastina<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>.</HI></NOTE> He that with doubt, his needfull businesse crosses,</L>
+<L>Is euer wrastling, with his certaine Losses.</L>
+<L><NOTE N="8" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Metaphori<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>è ac∣cipitur, pro <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>cu∣mine, &amp; visus selevitate.</HI></NOTE> When therefore of the swift-sharp-sighted Sunne,</L>
+<L><NOTE N="9" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>I<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> dorificus: humidus calor,</HI> does not expres<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e the word; being so turned in the verball translation.</NOTE> The chiefe force faints; and sweating heat is done;</L>
+<L><NOTE N="10" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>qui extremi &amp; senescentis A<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>tumniest.</HI></NOTE> <HI>Autumne</HI> growne olde; and opening his last veine;</L>
+<L>And great <HI>Ioue</HI> steeping all things in his Raine;</L>
+<L>Mans body chang'd, and made more lightsome farre;</L>
+<L>For then, but small time shines the Syrian star,</L>
+<L><PB N="21" REF="15"/><NOTE N="11" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>qui <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> cum L<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>thifero fato a<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>itur, vel qui educatar inte<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> multas dur<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> fortis iriseri<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>,</HI> The most fit Epithe<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e of Man.</NOTE> Aboue the heads of hard fate forsterd Man;</L>
+<L>Rising neare Day; and his beames <HI>Austrian,</HI></L>
+<L>Enioy'd in Night most: when (I say) all this</L>
+<L><NOTE N="12" PLACE="marg"><HI>Prosylna.</HI></NOTE> Followes the Season; and the Forrest is</L>
+<L>Sound, being feld; his leaues vpon the ground</L>
+<L>Before, let fall; and leauing what they crown'd:</L>
+<L>Then constantly take time to fell thy wood;</L>
+<L>Of Husbandrie, the time kept, is the blood.</L>
+<L><NOTE N="13" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, A kinde of Mortar to bray corne in, which the Ancient vsed for a little Mill, or Que<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>n.</NOTE> Cut then your three-foot Querne; whose Pestle, cut</L>
+<L>Three Cubits long; your Axeltree seuen foot.</L>
+<L>If it be eight foot, cut your Mallet thence:</L>
+<L>The Felfs, that make your Carts circumference,</L>
+<L>Cut three spans long. Many crookt peeces more,</L>
+<L>Ten Palmes in length; fell for your Wagons store.</L>
+<L>All which poore Rules, a rich conuenience yeeld.</L>
+<L>If thou shalt finde a Culter in the Field,</L>
+<L>Or on the Mountaine: either Elme, or Oke;</L>
+<L>Conuay it home; since for thy Beasts of yoke,</L>
+<L>To plow withall, twill most his strength maintaine;</L>
+<L><NOTE N="14" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Attic<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> Cerecis ser<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/>s</HI> A Peri∣phrasis of a Plow-man, she being call'd <HI>Attick Ceres; quod ipsa Athe∣nienses, adeoque omnes homines de frugibus d<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>cuerit.</HI></NOTE> And chiefly, If Athenian <HI>Ceres</HI> swaine,</L>
+<L>It fixing to the Draught-tree (lest it failes)</L>
+<L>Shall fit it, to the handles s<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>aie with Nailes.</L>
+<L>Two Ploughs compose, to finde thee worke at home;</L>
+<L>One with a Shar; that of it selfe doth come</L>
+<L>From forth the Ploughs whole Peece; and one set on:</L>
+<L>Since so tis better much; for, either gon;</L>
+<L>With th' other, thou maist instantly impose</L>
+<L>Worke on thy Oxen. On the Lawrell growes,</L>
+<L>And on the Elme. your best Plow-handles euer.</L>
+<L>Of Oke, your Draught-tree: From the Maple, neuer</L>
+<L>Goe for your Culter: For your Oxen chuse</L>
+<L>Two males, of nine yeares olde; for then, their vse</L>
+<L>Is most auailable; since their strengths are then,</L>
+<L>Not of the weakest; and the youthfull Meane,</L>
+<L>Stickes in their Neru's still: Nor will these contend</L>
+<L>With skittish tricks, when they their stitch should end,</L>
+<L>To breake their plough, and leaue their worke vndon;</L>
+<L>These, let a youth of forty waite vpon;</L>
+<L><PB N="22" REF="16"/><NOTE N="15" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>▪ <HI>Quadrisidum octo morsu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>m,</HI> He commends a Man of forty for a most fit seruant. And therefore pre∣sc<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>be<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> allow∣ance of bread to his meales, something ex∣traordinarie: saying, hee would haue allowed foure shiues of bread at a meale to his meat; euery shiue contai∣ning eight bits or morsels; Not that the whole foure shiues should containe but eight morsels, as the <HI>Criti<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ks</HI> expound it. For how absurd is it to imagine, a shiue of bread but two bits? And how pin∣ching a diet it were for an able Plow-man?</NOTE> Whose bread at Meales, in foure good shiuers cut;</L>
+<L>Eight bits in euery shiue; for that Man, put</L>
+<L>To his fit taske; will see it done past talke,</L>
+<L>With any fellowe; Nor will euer Balke</L>
+<L>In any stitch he makes; but giue his Minde,</L>
+<L>Whith care t' his labour. And this Man, no Hinde,</L>
+<L>(Though much his younger) shall his better be,</L>
+<L>At sowing Seed; and shunning skilfullie,</L>
+<L><NOTE N="16" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Qui quidem opus curans, &amp;c▪ aetatis quam in serus requirit</HI> (saies <HI>Melan∣cthon</HI>) <HI>rationes addit adm<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>dum graues, sentitque mu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>tum situm esse, in maturitate <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>tatis.</HI> Forty yeares then, being but a youths a<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e</NOTE> Need to go ouer his whole worke againe.</L>
+<L>Your younger Man, feeds still a flying vaine,</L>
+<L>From his set taske; to holde his equalls chat;</L>
+<L>And trifles workes, he should be serious at.</L>
+<L>Take notice then, when thou the Crane shalt heare</L>
+<L>Aloft, out of the Clowds her changes reare;</L>
+<L>That then he giues thee signall when to sowe,</L>
+<L>And winters wrathfull Season doth foreshowe.</L>
+<L>And then the Man, that can no Oxen get;</L>
+<L>Or wants the Seasons worke; his heart doth eat.</L>
+<L>Then feed thy Oxen, in the house with Hay;</L>
+<L>Which he that wants; with ease enough will say,</L>
+<L>Let me, alike, thy Waine and Oxen vse▪</L>
+<L>Which tis as easie for thee to refuse;</L>
+<L>And say, thy Oxeworke then importunes much.</L>
+<L>He that is rich in Braine, will answer such;</L>
+<L>Worke vp thy selfe, a Waggon of thine owne;</L>
+<L>For to the foolish borrower, is not knowne,</L>
+<L>That each Waine askes a hundred ioynts of wood;</L>
+<L>These things aske forecast; and thou shouldest make good</L>
+<L>At home, before thy need so instant stood.</L>
+<L>When therefore, first, fit plow time doth disclose;</L>
+<L>Put on with spirit; All, as one, dispose</L>
+<L>Thy seruants, and thy selfe: plow wet and drie;</L>
+<L>And when <HI>Aurora</HI> first affords her eye,</L>
+<L>In Spring-time turne the earth vp; which see done,</L>
+<L>Againe, past all faile, by the Summers Sunne.</L>
+<L>Hasten thy labours, that thy crowned fields,</L>
+<L>May load themselues to thee; and rack their yeelds.</L>
+<L><PB N="23" REF="16"/><NOTE N="17" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>No<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>alu impr<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>∣cationum expul∣trix.</HI> The Tilth-field, hee c<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>l<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>es banisher of execrations, and pleaser of sons &amp; daugh∣ters; first, be∣cause rude <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>us∣bandmen vse to curse, when their crops an∣swere not their expectations; and next, it pleases sonnes and daughters, since it helps adde to their portions.</NOTE> The Tilth-field sowe, on Earths most light foundations;</L>
+<L>The Tilth-field, banisher of execrations;</L>
+<L>Pleaser of Sonnes, and Daughters: which t'improue,</L>
+<L>With all wisht profits; pray to earthly <HI>Ioue,</HI></L>
+<L>And vertuous <HI>Ceres</HI>; that on all such suits,</L>
+<L>Her sacred gift bestowes, in blessing fruits.</L>
+<L>When first thou enterst foot to plow thy land,</L>
+<L>And on thy plow-staffes top hast laid thy hand;</L>
+<L>Thy Oxens backs, that next thee, by a Chaine</L>
+<L>Thy Oken-draught Tree drawe; put to the paine</L>
+<L>Thy Goad imposes. And thy Boy behinde,</L>
+<L>That with his Iron Rake thou hast design'd,</L>
+<L>To hide thy seed; Let from his labour driue,</L>
+<L>The Birds, that offer on thy sweat to liue.</L>
+<L>The best thing, that in humane Needs doth fall,</L>
+<L>Is <HI>Industry</HI>; and <HI>Sloath</HI> the worst of all.</L>
+<L>With one, thy Corne eares, shall with fruit abound;</L>
+<L>And bow their thankfull forheads to the ground;</L>
+<L>With th' other; scarce thy seed againe redound.</L>
+<L>When <HI>Ioue</HI> then giues this good end to thy paine;</L>
+<L>Amids the Vessels that preserue thy Graine,</L>
+<L>No Spiders then, shall need t'vsurp their roome,</L>
+<L>But thou (I thinke) reioyce, and rest at Home;</L>
+<L>Prouision Inn'd enough of euery thing,</L>
+<L>To giue thee glad heart, till the neighbour Spring;</L>
+<L>Not goe to others to supply thy store,</L>
+<L>But others, need to come to thee for more.</L>
+<L>If at the sunnes conuersion thou shalt sowe,</L>
+<L><NOTE N="18" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Sedens.</HI> He dis∣prooues sow∣ing at the win∣ter Solstice; and saies, he that doth sow then, may sit &amp; reap, for any labour his crop will require; a Reap, they call as much, as at once the Rea∣per grasps in his hand.</NOTE> The sacred Earth; Thou then, maist sit and mowe,</L>
+<L>Or reape in Haruest; such a little paine</L>
+<L>Will serue thy vse, to sell thy thin-growne Graine;</L>
+<L>And Reaps so scanty, will take vp thy hand;</L>
+<L>Thou hid in dust; Not comforted a sand,</L>
+<L>But gather gainst the graine. Thou shouldst be then,</L>
+<L>Coop't in a Basket vp; for worldly Men,</L>
+<L>Admire no vnthrifts: Honour goes by gaine.</L>
+<L>As times still change, so changeth <HI>Ioue</HI> his Minde,</L>
+<L>Whose Seasons, mortall Men can hardly finde.</L>
+<L>But if thou shouldst sowe late, this well may be,</L>
+<L>In all thy slacknesse, an excuse for thee.</L>
+<L><PB N="24" REF="17"/>When, in the Oakes greene armes the Cuckoe sings,</L>
+<L>And first delights Men in the louely springs;</L>
+<L>If much raine fall, 'tis fit then to defer</L>
+<L>Thy sowing worke. But how much raine to beare,</L>
+<L>And let no labour to that Much, giue eare,</L>
+<L>Past intermission, let <HI>Ioue</HI> steepe the grasse</L>
+<L>Three daies to gether, so he do not passe</L>
+<L>An Oxes hoofe in depth; and neuer stay,</L>
+<L>To strowe thy seed in: but if deeper way</L>
+<L><HI>Ioue,</HI> with his raine makes; then forbeare the field:</L>
+<L>For late sowne then, will past the formost yield.</L>
+<L>Minde well all this, nor let it fly thy powrs,</L>
+<L>To knowe what fits, the white springs earely flowrs;</L>
+<L>Nor when raines timely fall; Nor when sharp colde</L>
+<L>In winters wrath, doth men from worke withholde</L>
+<L><NOTE N="19" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> By which he vn∣derstands smiths forge<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>; where the poo∣rer sor<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> of Greece vsed to sit, as they do still in the win∣ter amongst vs, and a<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> amongst the Romanes <HI>in tensiriuis,</HI> or barbars shops.</NOTE> Sit by smiths forges, nor warme <NOTE N="20" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>calidam taber<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ā</HI> These <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> were of olde said to bolde the meetings of Philosophers. And after, be∣cause amongst them mixt idle talkers ouer cups; they were called <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>nugae, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, loq <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>acitas,</HI> or <HI>garrulitas</HI>▪ <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Ma<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ileu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>a vers crassum pedem manu pre<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>as</HI> Aristo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>le in his problems, as out of this place, <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ffirmes that da<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ly and continuall hun∣ger makes mens feet, and ankles swell. And by the same reason, <HI>superiores partes exte<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>u<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>ur et ma∣crescunt,</HI> for which He<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> vses this ingenious a<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>usion to his <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>rother; aduising him to take heed <HI>ne pedem tumefactum tenni mau<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> demulcere oporteat,</HI> <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, signifying here <HI>demul<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>eo,</HI> not <HI>stringend<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> cr<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>∣cio, <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>t premo,</HI> as it is vsually rendered. But (for the paine) stroke o<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ouch it softly; for some ease to it: though it doth little good to it, but onely makes good the prouerbe. <HI>Vbidolor ibi digitus.</HI></NOTE> tauernes hant;</L>
+<L>Nor let the bitterest of the season dant</L>
+<L>Thy thrift-arm'd paines, like idle <HI>Pouertie</HI>;</L>
+<L>For then the time is when th'industrious Thie</L>
+<L>Vpholdes, with all increase, his Familie.</L>
+<L>With whose rich hardnes spirited, do thou,</L>
+<L>Poore Delicacie flie; lest frost and snowe,</L>
+<L>Fled for her loue; <HI>Hunger</HI> sit both them out,</L>
+<L>And make thee, with the beggers lazie gout,</L>
+<L>Sit stooping to the paine, still pointing too't,</L>
+<L><NOTE N="21" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>Mala intra animum v<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>rsat.</HI> A<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>d therefore saies Melancthon out of Columel: <HI>homines <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>∣hil agendo male agere dis<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>u<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>t.</HI> But <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, signifies not onely <HI>versat,</HI> but <HI>iustar v<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>darum f<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>u<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>i<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> v<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>raginis versat.</HI></NOTE> And with a leane hand, stroke a foggie foot.</L>
+<L>The slothfull man, expecting many things,</L>
+<L>With his vaine hope, that cannot stretch her wings</L>
+<L>Past need of necessaries for his kinde,</L>
+<L>Turnes like a whirle-pit ouer, in his minde</L>
+<L>All meanes that <HI>Rapine</HI> prompts to th'idle Hinde;</L>
+<L>Sits in the tauerne; and findes meanes to spend</L>
+<L>Ill got; and euer, doth to worse contend.</L>
+<L><PB N="25" REF="17"/>When Summer therefore in her Tropicke sits;</L>
+<L>Make thou thy seruants weare their winter wits,</L>
+<L>And tell them this, ere that warme season wast,</L>
+<L>Make nests; for Summer will not euer last.</L>
+<L><NOTE N="22" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>. <HI>Mensis in quo sestam in hono∣rem Le<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ei cele∣bratur.</HI> Bacchus being called <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>q<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>oniam torcu∣laeribus et vini expressione prae∣est.</HI> And because his feast vsed to be solemnised in Ianuarie; <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> is called <HI>Ianu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>∣rium.</HI></NOTE> The month of <HI>Ianuaries</HI> all-ill daies,</L>
+<L>For Oxens good; shun now by <HI>Iulies</HI> raies.</L>
+<L><NOTE N="23" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>flante borea. <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>y<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>mis tempus, et mensem Bore∣ali frigore gra∣uissimum copios<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> et eleganter de∣scripsit.</HI> saies Melancthon.</NOTE> When aires chill North his noisome frosts shall blowe</L>
+<L>All ouer earth, and all the wide sea throwe</L>
+<L>At Heauen in hills; from colde horse-breeding <HI>Thrace</HI>;</L>
+<L>The beaten earth, and all her Syluane race</L>
+<L>Roring and bellowing with his bitter strokes;</L>
+<L>Plumps of thick firre-trees, and high-crested Okes;</L>
+<L>Torne vp in vallies, all <HI>Aires</HI> floud let flie</L>
+<L>In him, at Earth; sad nurse of all that die▪</L>
+<L>Wilde beasts abhor him; and run clapping close</L>
+<L>Their stern's betwixt their thighes; and euen all those,</L>
+<L>Whose hides, their fleeces line, with highest proofe;</L>
+<L>Euen Oxe-hides also want expulsiue stuffe;</L>
+<L>And bristled goates, against his bitter gale:</L>
+<L>He blowes so colde, he beates quite through them all.</L>
+<L>Onely with silly sheepe it fares not so;</L>
+<L>For they, each Summer fleec't, their fells so growe,</L>
+<L>They shield all winter, crusht into his winde.</L>
+<L>He makes the olde Man trudge for life, to finde</L>
+<L>Shelter against him, but he cannot blast</L>
+<L>The tender, and the delicately-grac't</L>
+<L>Flesh of the virgin; she is kept within,</L>
+<L>Close by her mother, carefull of her skin;</L>
+<L>Since yet she neuer knew, how to enfolde</L>
+<L>The force of <HI>Venus</HI> swimming all in golde.</L>
+<L>Whose snowie bosome choicely washt and balm'd,</L>
+<L>With wealthy oiles; she keepes the house becalm'd,</L>
+<L>All winters spight; when in his fire-lesse shed,</L>
+<L>And miserable roofe still hiding head;</L>
+<L><NOTE N="24" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>. <HI>exof<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/>,</HI> he in∣tends the Poly∣pus; that hath no bones, but a gristle for his back-bone.</NOTE> The bonelesse fish doth eat his feet for colde.</L>
+<L>To whom the sunne doth neuer food vnfolde;</L>
+<L>But turnes aboue the blacke Mens populous towrs,</L>
+<L>On whom he more bestowes his radiant howres,</L>
+<L><NOTE N="25" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Hellen</HI> was son to <HI>Deucalion</HI>; of whom as being author of that Nation, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>icitur Graecus vt testatur Pli∣nis, Lib.</HI> 4. <HI>cap.</HI> 7. The sun being in Sagittar<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>iu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> is longer with the Aethiops, which are Me∣ridionall: <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> with the Grae∣cians.</NOTE> Then on th'<HI>Hellenians</HI>; then all Beasts of horne;</L>
+<L>And smooth brow'd, that in beds of wood are borne,</L>
+<L><PB N="26" REF="18"/>About the Oken dales; that North-winde flie,</L>
+<L>Gnashing their teeth, with restlesse miserie;</L>
+<L>And euery where, that Care solicits all,</L>
+<L>That (out of shelter) to their Couerts fall,</L>
+<L>And Cauerns eaten into Rocks; and then,</L>
+<L><NOTE N="26" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Trip<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>di homini similes.</HI> He cals olde Men helpt with slaues in their gate; three-footed.</NOTE> Those wilde Beasts shrink, like tame three footed Men,</L>
+<L>Whose backs, are broke with Age, and forheads driuen</L>
+<L>To stoope to Earth; though borne to looke on Heauen.</L>
+<L>Euen like to these; Those tough-bred rude ones, goe,</L>
+<L>Flying the white drifts of the Northerne Snowe.</L>
+<L>Then put thy Bodies best munition on;</L>
+<L>Soft wastecotes, vveeds that th'Ankles traile vpon;</L>
+<L>And, with a little linnen, vveaue much wull,</L>
+<L>In fore-wouen webs; and make thy Garments full:</L>
+<L>And these put on thee; lest thy harsh-growne haire</L>
+<L>Tremble vpon thee, and into the Aire</L>
+<L>Start, as affrighted; all that brest of thine,</L>
+<L><NOTE N="27" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>p<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>n <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>arum in me∣re in altum erigere.</HI></NOTE> Pointed with Bristles like a <HI>Porcupine.</HI></L>
+<L>About thy feet, see fitted Shooes be tied,</L>
+<L>Made of a strongly-dying Oxes Hide;</L>
+<L><NOTE N="28" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, not <HI>Pil<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>,</HI> as it is vsually tran∣slated, but <HI>socu¦lis la<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>eis.</HI></NOTE> Lin'd with wool socks: Besides, when those winds blow,</L>
+<L>Thy first fallen Kid-skinnes; sure together sowe,</L>
+<L>With Oxes sinewes, and about thee throwe,</L>
+<L>To be thy refuge, gainst the soking Raine.</L>
+<L>Vpon thy head, a quilted Hat sustaine,</L>
+<L><NOTE N="29" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>aer igniser,</HI> o<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> <HI>frugifer,</HI> though fruits are the chiefe effects of it; but Aire that brings a comfortable fire with it; and he saies, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>à coelo stoilifero.</HI></NOTE> That from thy eares, may all Aires spight expell.</L>
+<L>When North-windes blowe, the Aire is sharp and fell;</L>
+<L>30. But Morning Aire, that brings a warmth withall,</L>
+<L>Downe from the Stars, and on the earth doth fall;</L>
+<L>Expires a breath, that (all things chearing then)</L>
+<L>Is fit to crowne the works of blessed Men.</L>
+<L>Which drawing out of floods, that euer flow;</L>
+<L>Winde-stormes are rais'd on Earth, that roughly blow;</L>
+<L>And then, sometimes, a shower falls toward Euen;</L>
+<L>And sometime Aire, in empty blasts is driuen.</L>
+<L>Which, from the North-winde rising out of <HI>Thrace,</HI></L>
+<L>And gloomy clowds rais'd; haste thee home apace;</L>
+<L>Thy worke for that day done; th'euent foreseen,</L>
+<L>Lest, out of Heauen, a darke clowd hide thee cleane,</L>
+<L><PB N="27" REF="18"/>Thy weeds wet through, and steep thee to the skin;</L>
+<L>But shun it; for vvhen this colde Moneth comes-in;</L>
+<L>Extreame it is for sheep, extreame for men;</L>
+<L>Take from thy Oxen halfe their Commons then,</L>
+<L><NOTE N="31" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Tum &amp;c</HI> Then sharpen thy Oxens sto∣macks, with taking away halfe their al∣lowance; but giue more to thy seruants; his reason is▪ be¦cause the Daies being shorter by halfe, then; then in Sūmer; and so take a∣way halfe the worke of the Oxe; therefore halfe their fo∣ther should be in equall husbandry aba∣ted. But since seruants must worke in Night as well, and that the Nights are much longer; he would haue their commons encreast; Allowing euen those bodily laborers, in a kinde of proportion, the same that is fit for Mentall painetakers▪ Stu∣den<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>s &amp;c. for the word <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, taken here for Nights; is vsurpt for the eff<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>cts of Night. <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> signifying <HI>prudentia va'eus,</HI> and <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> is called Night; <HI>quod putaretur multum conferre, ad inuentionem eorum quae quaruntur,</HI> intending in studies and labours of the soule, especially the E∣pithete, <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/>, signifying <HI>auxilium, seu inspirationem serentes; magna cum alacritate &amp; contenti∣on<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>.</HI> All that since therefore, the words containing, a man may obserue, how verball E<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>p<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>si<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ors <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>ubber vp these diuine expressions; with their contractions, and going the next way.</NOTE> But mend thy seruants; for ingenious Night,</L>
+<L>Then, great in length, affects the Appetite,</L>
+<L>With all contention, and alacritie,</L>
+<L>To all Inuention, and the scrutinie</L>
+<L>Of all our obiects; and must therefore feast,</L>
+<L>To make the spirits runne high in their Inquest.</L>
+<L>These well obseruing, all the yeares Remaine,</L>
+<L>The Daies and Nights grow equall; till, againe,</L>
+<L>Earth, that of all things is the Mother Queen;</L>
+<L>All fruits, promiscuously, brings forth for Men.</L>
+<L>When, after sixtie turnings of the Sun,</L>
+<L>By <HI>Ioues</HI> Decrees; all vvinters houres are run;</L>
+<L><NOTE N="32" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Arcturus</HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> is a Starre <HI>sub Zona <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>oota; oritur vespere, initio veris</HI></NOTE> Then does the Euening-starre, <HI>Arcturus,</HI> rise,</L>
+<L>And leaue th'vnmeasur'd Ocean; all Mens eyes,</L>
+<L>Frst, noting then his Beames; and, after him,</L>
+<L>Before the cleere Morns light, hath chast the Dim;</L>
+<L><NOTE N="33" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>ante-lucano tempore quiritam.</HI> The construction should be; not <HI>Prorumpit, ad lucem</HI>; but <HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ugens ad lucem</HI>; since it came not soone enough to preuent the Nights Tyranny in <HI>Tereus.</HI> The fiction of which is too common to be repeated.</NOTE> <HI>Pandions</HI> Swallow, breakes out with her Mone;</L>
+<L>Made to the Light; the Spring but new put on.</L>
+<L>Preuenting vvhich; cut Vines, for then tis best.</L>
+<L>But vvhen the horn'd house-bearer leaues his rest,</L>
+<L>And climes the Plants; the seuen Starres then in flight;</L>
+<L>No where digge Vines; but Sithes vvhet, and excite</L>
+<L>Seruants to vvorke: flie shadie Tauerne boures;</L>
+<L>And Beds, as soone as light salutes the floures.</L>
+<L><PB N="28" REF="19"/>In Haruest, when the Sunne the bodie dries;</L>
+<L>Then haste, and fetch the Fields home; earely rise,</L>
+<L>That Plentie may, thy House-hould wants suffice:</L>
+<L>The Morne, the third part of thy worke doth gaine;</L>
+<L>The Morne, makes short thy way, makes short thy paine;</L>
+<L>The Morne, being once vp, fils the waies with all,</L>
+<L>And yokes the Oxe, her selfe vp, in his stall.</L>
+<L>When once the Thistle doth his flower prefer;</L>
+<L>And on the Tree, the garrulous Grashopper,</L>
+<L>Beneath her wings; all Day, and all Night long,</L>
+<L>Sits pouring out, her derisorie song;</L>
+<L>When <HI>Labour</HI> drinks, his boyling sweat to thriue:</L>
+<L>Then Gotes grow fat; then best wine chuse; then striue</L>
+<L>Women for worke most; and Men least can do;</L>
+<L>For then, the Dog-starre, burns his drouth into,</L>
+<L>Their braines, and knees, and all the Bodie dries;</L>
+<L>But then, betake thee, to the shade that lies,</L>
+<L><NOTE N="34" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Biblinum vi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ū▪ dicitur a Biblia R<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>gione T<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>r<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ciae vbi nobilis<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ima <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ina sunt.</HI></NOTE> In shield of Rocks; drinke Biblian wine, and eate,</L>
+<L>The creamie wafer; Gotes milke that the Teate,</L>
+<L>Giues newly free; and nurses Kids no more.</L>
+<L>Flesh of Bow-browsing Beeues, that neuer bore;</L>
+<L>And tender Kids. And to these, taste black wine,</L>
+<L><NOTE N="35" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>tertiam aquae pa<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>tem insunde</HI>▪ The Greeks neuer drunk <HI>Merum,</HI> but <HI>dilutum vinum</HI>; wine alaid with water. <HI>Athenaeus</HI> saies, that to two cups of wine, some∣time they put fiue cups of water; and sometimes, to <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>oure of wine, but two of wa∣ter; which they order ac∣cording to the strength, or weaknes of their wine.</NOTE> The third part water, of the Crystaline,</L>
+<L>Still flowing fount, that feeds a streame beneath;</L>
+<L>And sit in shades, where temperate gales may breath</L>
+<L>On thy oppos'd cheeks; when <HI>Orions</HI> raies,</L>
+<L>His influence, in first Ascent assaies.</L>
+<L>Then to thy labouring seruants giue command,</L>
+<L>To dight the sacred gift of <HI>Ceres</HI> hand;</L>
+<L>In some place windie, on a well-plan'd floore;</L>
+<L>Which, all by measure, into Vessels poure;</L>
+<L>Make then, thy Man-swaine, one that hath no House;</L>
+<L>Thy hand-maid, one, that hath nor child, nor Spouse;</L>
+<L>Hand-maids, that children haue, are rauenous.</L>
+<L><NOTE N="36" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>▪ <HI>den<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>es in<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>rse pectinatim coe∣untes habens.</HI></NOTE> A Mastiffe likewise, nourish still at home;</L>
+<L>Whose teeth are sharp, and close as any Combe;</L>
+<L>And meat him well, to keep with stronger guard,</L>
+<L><NOTE N="37" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>d<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e dormi∣<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ns, nocte vigi∣lance vir,</HI> a Pe∣riphrasis of a Theefe.</NOTE> The Day-sleep-wake<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> Night Man, from forth thy yard;</L>
+<L>That else thy Goods into his Caues will beare.</L>
+<L>Inne Hay, and Chaffe enough, for all the yeare,</L>
+<L><PB N="29" REF="19"/>To serue thy Oxen, and thy Mules; and then,</L>
+<L>Lose them; and ease the deare knees of thy Men.</L>
+<L>When <HI>Syrius,</HI> and <HI>Orions</HI> aspire</L>
+<L>To Heauens steep height; and bright <HI>Arcturus</HI> fire,</L>
+<L>The rosie-fingerd Morning sees arise;</L>
+<L>O <HI>Perses,</HI> then, thy Vineyard faculties</L>
+<L>See gather'd, and got home. Which twice fiue Daies,</L>
+<L>And Nights no lesse, expose to <HI>Phoebus</HI> Raies;</L>
+<L>Then fiue Daies, Inne them, and in Vessels close,</L>
+<L>The gift, the gladnes-causing <HI>God</HI> bestowes.</L>
+<L>But after, that the Seuen-stars, and the Fiue,</L>
+<L>That twixt the Bulls hornes, at their set arriue;</L>
+<L>Together with the great <HI>Orions</HI> force;</L>
+<L>Then plie thy Plough, as fits the Seasons course.</L>
+<L><NOTE N="38" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>qui de sorte sua quaeritur.</HI></NOTE> If, of a Chance-complaining Man, at Seas,</L>
+<L>The humor take thee; when the <HI>Pleiades,</HI></L>
+<L>Hide head, and flie the fierce <HI>Orions,</HI> chace;</L>
+<L>And the darke-deep <HI>Oceanus</HI> embrace;</L>
+<L>Then diuerse Gusts of violent windes arise;</L>
+<L>And then attempt, no Nauall enterprise.</L>
+<L>But ply thy Land affaires; and draw ashore,</L>
+<L>Thy Ship; and fence her round, with stonage store,</L>
+<L>To shield her Ribs, against the humorous Gales;</L>
+<L>Her Pump exhausted, lest <HI>Ioues</HI> rainie falls,</L>
+<L>Breed putrefaction. All tooles fit for her;</L>
+<L>And all her tacklings, to thy House confer;</L>
+<L>Contracting orderly, all needfull things,</L>
+<L>That Imp a water-treading Vessels wings.</L>
+<L>Her well-wrought Sterne, hang in the smoke at home,</L>
+<L>Attending time, till fit Sea Seasons come.</L>
+<L>And then thy swift Saile lanch, conueying in,</L>
+<L>Burthen, that richly way that Trade begin;</L>
+<L>As did our Father; who a voiage went,</L>
+<L>For want of an Estate so competent,</L>
+<L>As free life askt; and long since landed here;</L>
+<L>When he had measur'd the vnmeasur'd Spheere,</L>
+<L>Of all the Sea; <HI>Aeoliam Cumas</HI> leauing;</L>
+<L><NOTE N="39" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>non red∣ditus, s<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> diui∣tias fugiens.</HI> Hee blames those that ha∣uing richly e∣nough of their owne; which they freely and safely possesse<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> ashore; will yet with insati∣ate desire of more, venture the losse of all; which his father (he saies) was not to be blamed for; in going to Sea; who one∣ly tooke that course to auoid Pouertie; his meanes by Land not enough, to liue withall, freely.</NOTE> Not flying wealth (Reuenews great receiuing;</L>
+<L><PB N="30" REF="20"/>And Blisse it selfe possest, in all fit store;</L>
+<L>If wisely vsde; yet selling that t'explore</L>
+<L>Strange Countries, madly couetous of more;</L>
+<L>But onely shunning lothsome Pouertie;</L>
+<L>Which yet <HI>Ioue</HI> sends, and Men should neuer flie.</L>
+<L>The seat that he was left to dwell vpon,</L>
+<L>Was set in <HI>Ascra,</HI> neare to <HI>Helicon</HI>;</L>
+<L>Amids a miserable Village there;</L>
+<L>In winter vile, in summer noisomer;</L>
+<L>And profitable neuer. Note thou then,</L>
+<L>To doe all workes; the proper Season, when;</L>
+<L>In Sea-workes chiefly. For whose vse allow</L>
+<L>A little Ship; but in her bulke bestow,</L>
+<L>A great bigge Burthen; the more Ships sustaine,</L>
+<L>The surer saile they; and heap Gaine on Gaine:</L>
+<L>If Seas run smooth, and rugged Gusts abstaine.</L>
+<L>When thy vaine Minde then, would Sea-ventures try;</L>
+<L>In loue, the Land-Rocks of loath'd Debt to fly;</L>
+<L><NOTE N="40" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>famem auditu insua<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>em.</HI></NOTE> And Hunger's-euer harsh-to-heare of cry:</L>
+<L>Ile set before thee all the Trim, and Dresse,</L>
+<L>Of those still-roaring-noise-resounding Seas;</L>
+<L><NOTE N="41" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>etsi neque naui∣gand peritus: Melancthon</HI> in this free con∣fession of his vnskilfulnesse in what he in∣tended to teach, giues this Note; <HI>Rem<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>∣net à se repre∣hensionem ob imperitiam Hic videmu <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, Primo vsurpa tum fuisse, cum laude, pro docere &amp; tradere ali∣quid eruditius pre alij.</HI></NOTE> Though neither skild, in either Ship, or Saile,</L>
+<L>Nor euer was at Sea; Or, lest I faile,</L>
+<L>But for <HI>Euboea</HI> once; from <HI>Aulis</HI> where</L>
+<L>The Greeks, with Tempest driuen, for shore did stere</L>
+<L>Their mighty Nauie, gatherd to employ,</L>
+<L>For sacred Greece; gainst faire-dame-breeding Troy;</L>
+<L>To Chalcis there, I made by Sea my Passe;</L>
+<L><NOTE N="42" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, King of <HI>Euboea,</HI> was shine in Battell, against the <HI>Erythreans.</HI> At whose Funerals, his soones instituted Games. And from hence <HI>Melancton</HI> gathers; by that time in which the King died; <HI>Hesiod</HI> then liuing; that <HI>Homer</HI> liued a hundred yeares before him: And so could not be the Man, from whom our Author is affirmed by some Historians to winne the prise, hee now speakes of.</NOTE> And to the Games of great <HI>Amphidamas</HI>;</L>
+<L>Where many afore-studied Exercise,</L>
+<L>Was instituted, with excitefull prise,</L>
+<L>For great-and-good, and able-minded Men:</L>
+<L>And where I wonne, at the <HI>Pierean</HI> Pen,</L>
+<L>A three-ear'd <HI>Tripod,</HI> which I offerd on,</L>
+<L>The <HI>Altars</HI> of the Maids of <HI>Helicon.</HI></L>
+<L><PB N="31" REF="20"/>Where first their loues initiated me,</L>
+<L>In skill of their vnworldly Harmony.</L>
+<L>But no more practise haue my trauailes swet,</L>
+<L>In many-a-naile-composed ships; and yet,</L>
+<L>Ile sing what <HI>Ioues</HI> Minde will suggest in mine,</L>
+<L>Whose daughters taught my verse the rage diuine.</L>
+<L>Fifty daies after Heauens conuerted heate,</L>
+<L>When Summers land-works are dissolu'd with sweat;</L>
+<L>Then growes the nauigable season fit:</L>
+<L>For then no stormes rise, that thy saile may split,</L>
+<L>Nor spoile thy sailers. If the God that swaies</L>
+<L>Th'earth-shaking <HI>Trident,</HI> doe not ouerpaise,</L>
+<L>With any counsaile, before hand decreed,</L>
+<L>The seasons naturall grace, to thy good speed;</L>
+<L>Nor <HI>Ioue</HI> consent with his reuengefull will;</L>
+<L>In whom are fixt the bounds of good and ill.</L>
+<L>But in the vsuall temper of the yeare,</L>
+<L>Easie to iudge of, and distinguish cleare,</L>
+<L>Are both the windes▪ and seas; none rude, none crosse,</L>
+<L>Nor mis-affected with the loue of losse.</L>
+<L>And therefore put to sea; trust euen the winde</L>
+<L>Then, with thy swift ship; but when thou shalt finde</L>
+<L>Fit freight for her; as fitly stowe it strait;</L>
+<L>And all haste home make. For no new wine waite,</L>
+<L>Nor aged Autumnes showres; nor winters falls,</L>
+<L>Then fast approaching; Nor the noisome gales,</L>
+<L>The humorous South breathes, that incense the seas,</L>
+<L><NOTE N="42" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Coelestem imbr<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> secutus;</HI> inten∣ding a follow∣ing of those things <HI>quae se∣rie quadam con∣tinuase sequun∣tur.</HI></NOTE> And raise together in one <HI>series</HI></L>
+<L><HI>Ioues</HI> Autumne dashes, that come smoking downe,</L>
+<L>And with his roughest brows make th'Ocean frowne.</L>
+<L>But there's another season for the seas,</L>
+<L>That in the first spring others choices please;</L>
+<L>When, looke how much the Crowe takes at a stride,</L>
+<L>So much, put forth, the yong leafe is descride</L>
+<L>On Fig-tree tops. But then the gusts so fall,</L>
+<L>That oft the sea becomes imperviall.</L>
+<L>And yet this vernall season many vse,</L>
+<L>For sea affaires; which yet, I would not chuse;</L>
+<L>Nor giues it my minde any gratefull taste,</L>
+<L>Since then steales out so many a rauenous blast;</L>
+<L><PB N="32" REF="21"/>Nor, but with much skath thou canst scape thy bane,</L>
+<L>Which yet, Mens greedy follies dare maintaine;</L>
+<L>Mony is soule to miserable Men:</L>
+<L>And to it many Men their soules bequeath.</L>
+<L>To dy in darke-seas is a dreadfull death.</L>
+<L>All this I charge thee, need to note no more;</L>
+<L>Nor in one vessell venture all thy store;</L>
+<L>But most part leaue out, and impose the lesse;</L>
+<L>For tis a wretched thing t'indure distresse</L>
+<L>Incurr'd at sea. And, tis as ill, ashore</L>
+<L>To vse aduentures, couetous of more</L>
+<L>Than safety warrants; As, vpon thy Waine</L>
+<L>To lay on more load than it can sustaine.</L>
+<L>For then, thy Axle breakes, thy goods diminish,</L>
+<L>And <HI>Thrifts</HI> meane meanes in violent Au'rice vanish.</L>
+<L>The <HI>Meane</HI> obseru'd, makes an exceeding slare.</L>
+<L>Occasion tooke at all times, equalls Fate.</L>
+<L>Thy selfe, if well in yeares; thy wife take home,</L>
+<L>Not much past thirtie; nor haue much to come:</L>
+<L>But being yong thy selfe; Nuptialls that sease,</L>
+<L>The times best season in their acts are these.</L>
+<L><NOTE N="43" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, Pollux ex∣pounds this word, which is vsually taken for foure; fourteen. Plato and Aristotle appoint the best time of womens marri∣ages at eight∣teene.</NOTE> At fourteene yeeres a woman growes mature,</L>
+<L>At fifteene, wed her; and best meanes inure,</L>
+<L>To marry her a Maid; to teach her then,</L>
+<L>Respect to thee, and chastnes t'other men.</L>
+<L><NOTE N="44" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>qua prope <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> ha∣bitat.</HI> His coun∣sell is, to marry a maid bred neere a man, whose bree∣ding and beha∣uiour he hath still taken into note. Counsell of gold, but not respected in this borne age</NOTE> In chiefe chuse one, whose life is neere thee bred,</L>
+<L>That her condition circularly weighd,</L>
+<L>(And that with care too) in thy neighbours eies,</L>
+<L>Thou wedd'st not, for a Maide, their mockeries.</L>
+<L>No purchase passes a good wife, no losse</L>
+<L>Is, than a bad wife, a more cursed crosse,</L>
+<L>45. That must a gossip be at euery feast;</L>
+<L>And priuate cates prouide too for her guest;</L>
+<L>And beare her husband ne're so bolde a breast,</L>
+<L><NOTE N="46" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Torres sine fac<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> et cr<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>da senecta tradit. <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, senecta ante temp<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>s adueniens,</HI> which place Boaetius imitates in his booke <HI>de consolatione</HI> in this distich: <HI>Intempestiui funduntur vertice cani, et dolor aetatemiussit-inesse suam.</HI></NOTE> Without a fire, burnes in him euen to rage,</L>
+<L>And in his youth poures griefe on him in age.</L>
+<L><PB N="33" REF="21"/>The Gods forewarnings,<NOTE PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, In God signi∣fies insight, and gouernment in all things, and his iust indig∣nation against the impious; In man, respect to the feare of God, and his reuerence. Mel.</NOTE> and pursuits of Men,</L>
+<L>Of impious liues, with vnauoided paine;</L>
+<L>Their sight, their rule of all, their loue, their feare,</L>
+<L><NOTE N="48" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>. <HI>vigilus et excu∣bi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>s positu.</HI></NOTE> Watching, and sitting vp, giue all thy care.</L>
+<L>Giue neuer to thy friend an euen respect,</L>
+<L><NOTE N="49" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>. This precept of preferring a mans owne brother to his friend, is full of humanitie, and sauours the true tast of a true-borne Man. The neglect of which in these daies, showes children either vtterly mist e∣go<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>e<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>, or got by vnnaturall fathers; of whō children must tast, in disposi∣tion, as a poi∣son of degene∣racie, poured into thē both, &amp; a iust plague for both.</NOTE> With thy borne brother; for, in his neglect,</L>
+<L>Thy selfe thou touchest first, with that defect.</L>
+<L>If thou shalt take thy friend with an offence,</L>
+<L>By word, or deed; twice onely, try what sense</L>
+<L>He hath of thy abuse, by making plaine</L>
+<L>The wrong he did thee: and if then againe</L>
+<L>He will turne friend, confesse, and pay all paine</L>
+<L>Due for his forfaite; take him into grace:</L>
+<L>The shamelesse Man shifts friends still with his place.</L>
+<L>But keepe thou friends, forgiue, and so conuert,</L>
+<L>That not thy looke may reprehend thy heart.</L>
+<L>Be not a common host for guests, nor one</L>
+<L>That can abide the kinde receipt of none.</L>
+<L>Consort none ill, though rais'd to any state;</L>
+<L>Nor leaue one good; though n'ere so ruinate.</L>
+<L>Abhor all taking pleasure to vpbraid</L>
+<L>A forlorne <HI>Pouertie,</HI> which God hath laid</L>
+<L>On any Man, in so seuere a kinde,</L>
+<L>As quite disheartens, and dissolues his Minde.</L>
+<L>Amongst Men on the earth there neuer sprung</L>
+<L>An ampler treasure than a sparing tongue.</L>
+<L>Which yet, most grace gaines, when it sings the Meane.</L>
+<L>Ill-speakers euer heare as ill againe.</L>
+<L>Make not thy selfe at any publique feast,</L>
+<L>A troublesome or ouercurious guest.</L>
+<L>Tis common cheare, nor touches thee at all;</L>
+<L>Besides, thy grace is much, thy cost is small.</L>
+<L>Doe not thy tongues grace the disgrace to lie,</L>
+<L>Nor mend a true-spoke Minde with policie;</L>
+<L>But all things vse with first simplicitie.</L>
+<L>To <HI>Ioue,</HI> nor no God poure out morning wine,</L>
+<L>With vnwasht hands: for, knowe, the powres diuine</L>
+<L>Auer<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> their eares, and praiers impure reiect.</L>
+<L>Put not they vrine out, with face erect</L>
+<L>Against the sun, but sitting let it fall,</L>
+<L><PB N="34" REF="22"/>Or turne thee to some vndiscouering wall.</L>
+<L><NOTE N="50" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>. <HI>utque contra so∣lem versus e∣rectus m<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ito.</HI> He would haue no contempt a∣gainst the sun; either directly, or allegorically intending by the sun, great &amp; reuerend men: against whom, <HI>nihil proteruè, et irreuerenter a∣gendum,</HI> If in the plain sense; which he makes serious, he would not haue a Man make water turning pur∣posely against the sun, nor standing, but sitting, as at this day euen a∣mongst the rude Turkes it is abhorred, <HI>Quibus religio∣sum est vt se∣dentes mingant, et ingens flagiti∣um designari credunt siquis in publico cacaret aut mingeret.</HI></NOTE>And after the great Sunne is in descent,</L>
+<L>Remember, till he greet the <HI>Orient,</HI></L>
+<L>That, in way, or without, thou still forbeare.</L>
+<L>Nor ope thy nakednes while thou art there.</L>
+<L>The nights the Gods are, and the Godly Man,</L>
+<L>And wise will shun by all meanes to prophane</L>
+<L><NOTE N="51" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Melancthon</HI> ex∣pounds this place <HI>a congressu vxoris ne sacra accedas</HI>▪ whom I haue followed▪ <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, signifies here <HI>inf<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>stut,</HI> &amp; <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>funebre epulum.</HI></NOTE> The Gods appropriates. Make no accesse</L>
+<L>(Thy wife new left) to sacred mysteries;</L>
+<L>Or coming from an ominous funerall feast;</L>
+<L>But from a banquet that the Gods haue blest</L>
+<L>In Men whose spirits are frolikely inclinde;</L>
+<L>Performe those rights that propagate thy kinde.</L>
+<L>Neuer, the faire waues of eternall flouds,</L>
+<L>Passe with thy feet, but first inuoke the Gods;</L>
+<L>Thine eies cast on their streames; Which those that wade,</L>
+<L>(Their hands vnwasht) those Deities inuade</L>
+<L>With future plagues: and euen then angrie are.</L>
+<L><NOTE N="52" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, hee saies a man must not pare his nailes at the Table, in which our reuerend Author is so respectfull and morall in his setting downe, that hee nameth not nailes, but calls what is to be pared away <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>siccum,</HI> or <HI>aridum,</HI> and the naile it selfe <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> because it is still growing, he cals likewise the hand <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>or quae in quinos ramo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> dispergitur,</HI> because it puts out fiue fingers, like branches.</NOTE> Of thy fiue branches, see thou neuer pare</L>
+<L>The dry from off the greene, at solemne feasts:</L>
+<L>Nor on the quaffing Mazers of thy guests</L>
+<L>Bestow the boawle vowd, to the powres diuine;</L>
+<L>For harmefull fate is swallow'd with the wine.</L>
+<L>When thou hast once begun to build a house,</L>
+<L>Leau't not vnfinisht, lest the Ominous,</L>
+<L>Ill-spoken Crowe, encounter thee abroad,</L>
+<L>And from her bow, thy meanes outgone, explode.</L>
+<L>From three-foot pots of meat, set on the fire</L>
+<L>To serue thy house; serue not thy tasts desire</L>
+<L>With rauine of the Meate, till on the borde</L>
+<L>Thou seest it set and sacrifice afforde.</L>
+<L>Not if thou wash first, and the Gods wouldst please</L>
+<L>With that respect to them: for euen for these,</L>
+<L>Paines are imposde, being all Impieties.</L>
+<L><PB N="35" REF="22"/>On tombe-stones, or fixt seats no boy permit,</L>
+<L>(That's growne to twelue yeares ould) to idlie sit;</L>
+<L>For tis not good, but makes a slothfull man.</L>
+<L>In bath's whose waters women first began</L>
+<L>To wash their bodies in, should bathe no Men.</L>
+<L>For, in their time, euen these parts haue their paine</L>
+<L>Grieuous enough. If any homely place,</L>
+<L>Syluane, or other, thou seest vowd to grace</L>
+<L>Of any God, by fire made for the weale</L>
+<L>Of any poore soule, mou'd with simplest zeale;</L>
+<L>Mock not the mysteries: for God disdaines</L>
+<L>Those impious parts, and paies them certaine paines.</L>
+<L>Neuer in channels of those streames that pay</L>
+<L>The Ocean tribute, giue thy vrine way;</L>
+<L>Nor into <NOTE N="(r)" PLACE="marg"><HI>Hirectè in fon<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>es imminge∣re dicuntnr qui sacram doctr. nā commaculant.</HI></NOTE> fountaines: but past all neglect,</L>
+<L>See thou auoid it: for the graue respect</L>
+<L>Giuen to these secrets, meetes with blest effect.</L>
+<L><NOTE N="53" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>grauem</HI> or <HI>terri∣bilem famam</HI> he aduiseth a man to auoid. Intending with deseruing a good and ho∣nest fame a∣mongst men, which knowne to himselfe im∣partially, and betwixt God &amp; him; euery worthy man should despise the contrary conceit of the world. Accor∣ding to that of Qu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ntilian writing to Se∣neca affirming he cared no more what the misiudging world vented a∣gainst him, <HI>quā de vent<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> redditi crepitus.</HI></NOTE> Do this, and flie the peoples bitter fame,</L>
+<L>For Fame is ill: tis light and rais'd like flame;</L>
+<L>The burthen heauie yet, and hard to cast.</L>
+<L>No fame doth wholly perish, when her blast</L>
+<L>Eccho resounds in all the peoples cries,</L>
+<L>For she her selfe, is of the Deities.</L>
+<TRAILER>The end of the second Booke of works.</TRAILER>
+</DIV1>
+<DIV1 TYPE="book">
+<PB N="36" REF="23"/>
+<HEAD>HESIODS BOOKE OF DAYES.</HEAD>
+<L><SEG REND="decorInit">T</SEG>He Daies, that for thy workes, are Good, or Ill,</L>
+<L>According to the Influence, they instill;</L>
+<L>Of <HI>Ioue</HI> with all care, learne, and giue them then,</L>
+<L>(For their discharge) in precept to thy Men.</L>
+<L>The thirtith Day of euery Moneth, is best</L>
+<L><NOTE N="1" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>diligèti inspecti∣one digero, seu seceru<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> &amp; <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ligo.</HI> He beginnes with the last day of the Moneth, which he names not a day of any good, or bad influence; but being (as twere) their Terme Day; in which their businesse in Lawe was attended: And that, not lasting all the Day; He aduiseth to spend the rest of it, in dis∣posing the next Moneths labours. Of the rest, hee makes difference; shewing which are infor∣tunate, and which auspicious; and are so farre to be obserued, as naturall cause is to be giuen for them; for it were madnesse, not to ascribe Reason to Nature; or to make that Reason so farre a∣boue vs, that we cannot know by it, what is daily in vse with vs; all beeing for our cause created of God: And therefore the differences of D<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ies, arise in some part from the Aspects; <HI>quibus Lu∣na intuetur solem Nam quadrati asp<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ctus cient pugnam Naturae cum morb<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>.</HI></NOTE> With diligent inspection, to digest</L>
+<L>The next Moneths workes; and part thy house-hould foods:</L>
+<L>That being the Day, when all litigious Goods,</L>
+<L>Are iustly sentenc't, by the peoples voyces.</L>
+<L>And till that Daie, next Moneth, giue these Daies choyces;</L>
+<L>For they are markt out, by most-knowing <HI>Ioue.</HI></L>
+<L><NOTE N="2" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>primum Nouilunium</HI>; which he calls sacred; <HI>nam omnia initia sacra.</HI> The fourth likewise, hee calls sacred, <HI>quia eo die prodit a cui<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> Luna, primumque tum conspicitur.</HI></NOTE> First, the first Day, in which the Moone doth mooue,</L>
+<L>With radiance renu'd. And then, the fourth,</L>
+<L>The seuenth Day, next; being first in sacred worth:</L>
+<L>For that Day, did <HI>Latona</HI> bring to light,</L>
+<L><NOTE N="3" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, The second, and fift day, let p<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>sse, and sixt; <HI>vt medijs</HI>; he comes to the eighth, &amp; ninth, which in their encreasing he tearms truely profitable; <HI>Nam humores alit crescentia Luna.</HI></NOTE> The gould-sword-wearing Sun. Next then the eightth,</L>
+<L><PB N="37" REF="23"/>And ninth, are Good; being both, Daies that retaine</L>
+<L>The Moones prime strength, t'instruct the works of Men.</L>
+<L><NOTE N="3" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, The tenth let passe; the ele∣uenth, and twelfth, he prai∣ses diuersely; because the Moone be∣holdes the Sunne then in a triangulare aspect; which is euer called beneuolent.</NOTE> The leauenth, and twelfth, are likewise both Good Daies;</L>
+<L>The twelfth yet, farre exceeds, the 'leuenths repaire;</L>
+<L>For that Day hangs the Spinner in the Aire;</L>
+<L>And weaues her web vp. So the Spinster, all</L>
+<L>Her Rock then ends, exposing it to sale.</L>
+<L>So Earth's third Huswife, the ingenious Ant,</L>
+<L>On that Day ends her Mole-hils cure of want.</L>
+<L>The Day her selfe, in their example then,</L>
+<L>Tasking her fire, and bounds her length to Men.</L>
+<L>The thirteenth Day, take care thou sowe no seed;</L>
+<L>To plant yet, tis a Day of speciall speed.</L>
+<L>The sixteenth Day, Plants set, prooue fruitlesse still;</L>
+<L>To get a Sonne tis good, a Daughter ill.</L>
+<L><NOTE N="5" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>eque <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>uptijs trudendis</HI> The sixteenth Day, he saies, is nei∣ther good to get a Daugh∣ter, nor to wed her; <HI>quia à plenilunio coepit iam humor defi∣cere.</HI> He saies, tis good to get a Sonne in, <HI>nam ex humido semi∣ne s<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> nellae: <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> sictiore, puelli na<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>cuntur.</HI></NOTE> Nor good to get, nor giue in Nuptials;</L>
+<L>Nor in the sixt Day, any Influence falls,</L>
+<L>To fashion her begetting Confluence.</L>
+<L>But to geld Kids, and Lambs, and Sheep-coats fence;</L>
+<L>It is a Day of much beneuolence:</L>
+<L>To get a Sonne, it good effects affords;</L>
+<L><NOTE N="6" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>eor al<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>cui scin∣deus.</HI></NOTE> And loues to cut ones heart, with bitter words.</L>
+<L>And yet it likes faire speeches too, and lies;</L>
+<L>And whispering out detractiue obloquies.</L>
+<L>The eight, the bellowing Bullock lib, and Gote;</L>
+<L>The twelfth, the labouring Mule; but if of note,</L>
+<L><NOTE N="7" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>prudentem ver<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ud cem, seu Arbitr<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>m quod eoigna<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>os esse oporteat rei de qua agitur</HI>; He calls <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>t the great <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> w<GAP DESC="illegible" RESP="pdcc" EXTENT="4 letters" DISP="••••"/>th, be∣cause it is the last, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, which is of the middle De<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>d of the Moneth; <HI>diebus</HI> <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, or daies of the dying moone immediatly following.</NOTE> For wisedome, and to make a Iudge of Lawes;</L>
+<L>To estimate, and arbitrate a Cause,</L>
+<L>Thou wouldst a Sonne get, the great twentith Day,</L>
+<L>Consort thy wife, when full the Morns broad Ray,</L>
+<L>Shines through thy windowes: for that Day is fit,</L>
+<L>To forme a great, and honourable wit.</L>
+<L>The tenth is likewise good, to get a Son;</L>
+<L><NOTE N="8" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>. The fourteenth is good to get a Daughter; because the Moone then abounds in humours; and her light is more gel<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>d &amp; cold; her heat more temperate. And therefore he saies, tis good likewise, to tame Beast<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> in, since then, by the abundance of humous, they are made more gentle, &amp; consequently, easier tamed.</NOTE> Fourteenth a Daughter; then lay hand vpon</L>
+<L>The Colt, the Mule, and horne-retorted Stere;</L>
+<L>And sore-bit Mastiffe; and their forces rere,</L>
+<L><PB N="38" REF="24"/>To vsefull seruices. Be carefull then,</L>
+<L><NOTE N="9" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, He calls this day so banefull; because of the opposition of Sunne and the Moone; and the time then being, that is, between the old and new Moone; are hurtfull for bodies, such as labour with cholerick disea∣ses; most lan∣guish then: Those with Phlegmatick contrary.</NOTE> The foure and twentith Day, (the bane of Men,</L>
+<L>Hurling amongst them) to make safe thy State;</L>
+<L>For tis a Day, of Death insatiate.</L>
+<L>The fourth Day, celebrate thy Nuptiall feast,</L>
+<L>All Birds obseru'd, that fit a Bridall best.</L>
+<L><NOTE N="10" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, He warnes Men to flie all fif<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> Daies; that is, the fift, the the fifteenth, and the fiue &amp; twentith; be∣cause all venge∣full spirits he affirmes then to be most bu∣sie with Men.</NOTE> All fift Daies, to effect affaires in, flie;</L>
+<L>Being all of harsh and horrid qualitie.</L>
+<L>For then, all vengefull spirits walke their Round,</L>
+<L>And haunt Men like their hand-maids; to confound</L>
+<L>Their faithles peace; whose plague <HI>Contention</HI> got.</L>
+<L>The seuenteenth Day, what <HI>Ceres</HI> did allot</L>
+<L>Thy Barnes in Haruest (since then <HI>view'd</HI> with care)</L>
+<L><NOTE N="11" PLACE="marg">The seuen∣teenth day, he thinketh best to vi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>now, or dight Corne <HI>à pleniluni<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></HI>▪ be∣cause about that time, winds are stirred vp, and the Aire is drier.</NOTE> Vpon a smooth floore; let the <HI>vinnoware,</HI></L>
+<L>Dight, and expose, to the opposed Gale.</L>
+<L>Then, let thy Forrest-feller, cut thee all</L>
+<L>Thy Chamber fuell; and the numerous parts</L>
+<L>Of Nauall timber, apt for Ship-wrights Arts.</L>
+<L>The foure and twentith Day, begin to close</L>
+<L><NOTE N="12" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>prima no<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>a.</HI> That is, from the beginning of the Moneth; he cals harmelesse; <HI>proptergeminum aspectum, cum sol abest a signis.</HI></NOTE> Thy Ships of leake. The ninth Day neuer blowes</L>
+<L>Least ill at all on Men. The ninteenth Day,</L>
+<L>Yeelds (after Noone yet) a more gentle Ray;</L>
+<L>Auspicious, both to plant, and generate</L>
+<L><NOTE N="13" PLACE="marg"><HI>Prouerb n<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ll<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> dies omni<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> mal<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/>.</HI></NOTE> Both Sonnes and Daughters; ill to no estate.</L>
+<L>But the thrice ninth Daies Goodnes, few Men know▪</L>
+<L>Being best Day of the whole Moneth, to make flow</L>
+<L>Both wine, and Corne-tuns; and to curb the force</L>
+<L>Of Mules and Oxen and the swift-hoou'd Horse.</L>
+<L><NOTE N="14" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, Hee saies, few obserue these differences of daies; and as few know, or make any dif∣ference betwixt one day and another.</NOTE> And then, the well-built Ship lanch. But few men,</L>
+<L>Know truth in any thing. Or where, or when</L>
+<L>To doe, or order, what they must doe, needs:</L>
+<L>Daies differencing, with no more care than deeds.</L>
+<L>The twice seuenth Day (for sacred worth) exceeds.</L>
+<L>But few Men, when the twentith Day is past,</L>
+<L>Which is the best Day (while the Morne doth last</L>
+<L><PB N="39" REF="24"/>In her increasing power; though after Noone,</L>
+<L><NOTE N="15" PLACE="marg">He saies, few approue those daies, be∣cause these cause most change of tempests, and Mens bodies, in the beginning of the last quar∣ter.</NOTE> Her grace growes faint) approue, or end that Moone,</L>
+<L><NOTE N="16" PLACE="marg">All this, and the liues of Foules, is cited out of this Au∣thor by <HI>Plu∣tarch</HI>; not be∣ing extant in the common Copie.</NOTE> With any Care; Mans life, most pris'd, is least:</L>
+<L>Though lengthlesse; spent as endless. Fowle and Beast</L>
+<L>Farre passing it, for Date. For all the store</L>
+<L>Of yeares, Man boasts; the prating <HI>Crowe</HI> hath more,</L>
+<L>By thrice three liues. The long-liu'd <HI>Stagge,</HI> foure parts,</L>
+<L>Exceeds the <HI>Crowes</HI> Time; the <HI>Rauens</HI> Age; the <HI>Harts,</HI></L>
+<L>Triples in durance; all the <HI>Rauens</HI> long Date,</L>
+<L>The <HI>Phoenix,</HI> ninefolde doth reduplicate.</L>
+<L>Yet <HI>Nymphs</HI> (the blest seed of the Thunderer)</L>
+<L>Ten liues out-last the Phoenix. But preferre</L>
+<L>Good life, to long life; and obserue these Daies,</L>
+<L>That must direct it; being to all Mens waies</L>
+<L><NOTE N="17" PLACE="marg"><P><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Et hae quidem d<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>es hominibus sunt magno commodo.</HI></P>
+<P>The Epilogue of the Teacher; in all Daies is to be considerd what Religion commands, &amp; then what ri∣seth out of na∣turall Causes.</P></NOTE> Of excellent conduct. All the rest but sound's,</L>
+<L>That follow falls; meere vaine and haue no grounds:</L>
+<L>But, one doth one Day praise; another, other;</L>
+<L>Few knowing the truth. This Day becomes a Mother;</L>
+<L>The next, a Step-dame. But, be Man still one;</L>
+<L>That Man a happy Angell waites vpon;</L>
+<L>Makes rich, and blessed, that through all these Daies</L>
+<L>Is knowingly emploid. In all his waies,</L>
+<L>(Betwixt him and the Gods) goes still vnblam'd.</L>
+<L>All their forewarnings, and suggestions fram'd,</L>
+<L>To their obedience; being directly view'd:</L>
+<L>All Good endeauour'd, and all Ill eschew'd.</L>
+<TRAILER>The end of Hesiods Works, and Daies.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

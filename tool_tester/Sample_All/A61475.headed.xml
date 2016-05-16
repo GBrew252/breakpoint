@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The spirit convincing of sinne opened in a sermon before the Honorable House of Commons, assembled in Parliament upon the solemne day of their monethly fast, Novemb. 26, 1645 / by Peter Sterry ...</TITLE><AUTHOR>Sterry, Peter, 1613-1672.</AUTHOR></TITLESTMT><EXTENT>Approx. 66 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2005-10 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A61475</IDNO>
+
+
+<IDNO TYPE="stc">Wing S5483</IDNO>
+
+<IDNO TYPE="stc">ESTC R34606</IDNO>
+
+<IDNO TYPE="eebo citation">14522660</IDNO>
+
+<IDNO TYPE="oclc">ocm 14522660</IDNO>
+
+<IDNO TYPE="vid">102509</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A61475)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 102509)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 1071:27)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The spirit convincing of sinne opened in a sermon before the Honorable House of Commons, assembled in Parliament upon the solemne day of their monethly fast, Novemb. 26, 1645 / by Peter Sterry ...</TITLE><AUTHOR>Sterry, Peter, 1613-1672.</AUTHOR></TITLESTMT><EXTENT>[6], 36 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed by Matth. Simmons for Henry Overton and Benjamin Allen ...,</PUBLISHER>
+<DATE>1645.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>"Published by order of the House of Commons."</NOTE><NOTE>Imperfect: pages stained.</NOTE><NOTE>Reproduction of original in the Union Theological Seminary Library, New York.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Bible. --  N.T. --  John XVI, 8 --  Sermons.</TERM><TERM>Fast-day sermons.</TERM><TERM>Sermons, English --  17th century.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2003-04</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2003-05</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2005-03</DATE><RESPSTMT><RESP>Jonathan Blaney</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2005-03</DATE><RESPSTMT><RESP>Jonathan Blaney</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2005-04</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A61475">
+<STC T="W">S5483</STC>
+<BIBNO T="oclc">14522660</BIBNO>
+<VID>102509</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>THE
+SPIRIT
+CONVINCING
+OF SINNE. OPENED
+In a Sermon before the Honorable
+HOUSE of COMMONS,
+Assembled in Parliament upon the solemne
+day of their Monethly Fast,
+<HI>Novemb.</HI> 26. 1645.</P>
+<P>By PETER STERRY, sometimes Fellow
+of <HI>Emanuel Colledge</HI> in <HI>Cambridge.</HI> AND NOW
+Preacher of the Gospel in LONDON.</P>
+<P>Published by Order of the House of Commons.</P>
+<P><HI>LONDON,</HI>
+Printed by <HI>Matth. Simmons,</HI> for <HI>Henry Overton,</HI> and <HI>Benjamin
+Allen,</HI> and are to be sold at their shops in
+Popes-head Alley, 1645.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>To THE
+HONOURABLE
+THE
+KNIGHTS &amp; BURGESSES
+OF THE
+HOUSE of COMMONS
+Assembled in
+PARLIAMENT.</HEAD>
+<P><HI><SEG REND="decorInit">G</SEG>OD</HI> hath promised his people to carry
+them on the <HI>Eagles Wing.</HI> The
+onely desire and humble endeavour
+of your lowest servant in Christ, hath
+been to work with God in this Ser∣mon;
+that your Soules, Counsels,
+Warres, may be carried on by the
+Spirit of God; who in the language
+of the Scriptures is not onely the <HI>Dove</HI> for <HI>Purity</HI>
+and <HI>Peace;</HI> but also the <HI>True Eagle</HI> for <HI>Wisdome</HI> and
+<HI>Power.</HI></P>
+<P><PB REF="3"/>
+Worthy Senatours, if you knew this Spirit, you
+would ask <HI>Him</HI> of your Saviour; and Hee would be in
+you a Fountain of Counsell and Strength springing up
+to Everlasting Peace and Glory. But have you not
+known <HI>The Spirit?</HI> His sound hath gone forth
+into all your Eares. All the Scriptures speak of <HI>Him</HI>
+as they doe of <HI>Jesus Christ.</HI></P>
+<P><HI>Daniel</HI> was chosen by the King of Assyria to sway
+the great affaires of that vast Empire; because the <HI>Spi∣rit
+of the immortall God</HI> was found in him.</P>
+<P><HI>David</HI> was a <HI>Statesman, Wiser then his Tea∣chers:
+David</HI> was a <HI>Souldier;</HI> His fingers were
+skil'd in fighting, his hands train'd up to Victory o∣ver
+Wild Beasts, Giants, Armies of Men. was not
+the <HI>Spirit</HI> the <HI>Lamp</HI> of God which shone thus glori∣ously
+on <HI>David's</HI> Court and Camp, which made his
+Throne so great? <HI>Thy Word,</HI> saith he, <HI>was a Light to
+my Feet.</HI> The Word of God is the Spirit of God, saith
+<HI>S<SUP>t</SUP>. Paul; The Sword of the Spirit,</HI><NOTE N="a" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, as rela∣ting to <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> not <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, as relating to <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.</NOTE> <HI>which (Spirit,</HI>
+not <HI>Sword) is the Word of God.</HI> This made <HI>Da∣vid</HI>
+when hee had sin'd, cry: Take not thine Holy Spi∣rit
+from me. When the Spirit of God once left <HI>Saul,</HI>
+an evill Spirit came upon him, which vex't him,
+which haunted him to the losse of his kingdome and life
+together.</P>
+<P>Honourable Fathers of your Countries, I humbly
+move to know, By what Title you sit there and rule o∣ver
+us. Is it not as <HI>Powers on Earth?</HI> But <HI>All
+power on Earth</HI> as well as in Heaven, is given to
+Iesus Christ. You are Substitutes and Vice-gerents to
+the Lord Iesus. Look then to Iesus the Beginning and
+End of your Authority. God hath laid the Government
+<PB REF="3"/>
+on his Shoulder. What is his sufficiency for it? The Spi∣rit
+of the Lord resteth on him, and this is, A Spirit of
+Counsell and Might in him.</P>
+<P>You who sit at the right hand of the Lord Iesus, in
+this Common-wealth, as the Lord Iesus sits at the right
+hand of his Father in that Kingdome, which is over all:
+pray, that the same Spirit, which was powred forth on
+him, may be by him powred forth on you: So shall you be
+<HI>Messiahs,</HI> anointed ones, and <HI>Saviours</HI> to this people.
+Can <HI>You</HI> be able to rule over any spot of this earth;
+when <HI>Jesus Christ</HI> was not fit for the government of
+the whole; without the Spirit?</P>
+<P>Do you put your whole trust in the promises of God,
+and expect by them to be made partakers of every blessing?
+Do you believe the promises made in the Word of God? I
+hope, I may say, at least with as good confidence, as <HI>Paul</HI>
+said it to <HI>Agrippa;</HI> I know you believe them.</P>
+<P>This is the promise: <HI>The Spirit shall lead you into
+all truth.</HI> You are now searching into the deep things
+of God, which concern <HI>Religion;</HI> Live in the Spirit,
+and the Spirit shall bring all into your minde, and shew
+you the things of Iesus Christ. It behoves you to know
+the method of Satan; the stratagems and dark deeps of
+the Devill himself, in mysteries of <HI>State</HI> and <HI>Religi∣on.</HI>
+Walk in the Spirit; hee shall lead you into their
+chambers, as hee did <HI>Ezekiel;</HI> and let you see what
+mischiefes they are there contriving in secret.</P>
+<P>This is the promise: <HI>The Spirit of God and of glory
+shall rest on his servants, in their conflicts and suffer∣ings.</HI>
+Sit still in all humble resignation of your selves, to
+the working of this Spirit; that hee may rest on you: so
+shall hee manage your counsels, finish your wars; and
+<PB REF="4"/>
+end all your sufferings with <HI>glorie.</HI></P>
+<P>I shall conclude my Epistle with an <HI>humble Petition
+to</HI> your Honours: <HI>an hearty Prayer for</HI> you.</P>
+<P>My humble Petition is, that You would ever remem∣ber
+to converse as <HI>Doves,</HI> among <HI>Doves;</HI> with <HI>this
+Dove;</HI> He is a tender Spirit, take heed of grieving
+<HI>this Spirit,</HI> where ever hee dwels: For by him alone
+can your hopes be sealed to a day of full accomplish∣ment.</P>
+<P>My <HI>hearty Prayer</HI> is, <HI>that,</HI> as you sit debating in
+Parliament, the appearances of the Holy Ghost may be
+among you; as hee was with the Apostles, sitting over
+them in the form of fiery tongues: <HI>that</HI> when you fight
+in the field, the Holy Ghost may be as a two-edged sword
+going forth from the mouth of the Lord Iesus into your
+enemy's hearts: <HI>that</HI> you may never see upon the walls of
+your house, that hand-writing which made <HI>Bel-shazzer</HI>
+tremble; <HI>Your kingdome is divided;</HI> but in stead of
+this, that uniting and building Principle; <HI>Not by
+might, nor by power, but by my Spirit, saith the
+Lord.</HI> This is the fervent, constant prayer of</P>
+<SIGNED>Your Honours
+humble servant in Christ,
+<HI>Peter Sterry.</HI></SIGNED>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB N="1" REF="4"/>
+<HEAD>A
+SERMON PREACHED
+Before the honorable House of
+COMMONS,
+<DATE>Novemb. 26. 1645.</DATE> being the publike Fast.</HEAD>
+<EPIGRAPH>
+<BIBL>JOHN 16. 8.</BIBL>
+<Q>When he shall come, he shall convince
+the world of sin, &amp;c.</Q>
+</EPIGRAPH>
+<P><SEG REND="decorInit">I</SEG> Will at once open to you the
+publike scope of this place; and
+the private sense of my Text,
+as it lies imbodied in the Con∣text.</P>
+<P>Our tender-hearted Saviour
+is now cheering the hearts of his
+Disciples, drooping with the sad
+presages of their dear Master's death.</P>
+<P>The Lord Jesus sweetly gives them for a revivall
+<PB N="2" REF="5"/>
+of their fainting spirits, a gracious promise of his
+own Spirit.</P>
+<P>This Promise is threefold,
+<HI>The Spirit's</HI><LIST>
+<ITEM>1. Personall Comming,</ITEM>
+<ITEM>2. Particular Comforts,</ITEM>
+<ITEM>3. Universall Convictions.</ITEM>
+</LIST></P>
+<P>Pardon me, if I be somewhat larger in the Expli∣cation
+of these. For this also will serve my purpose;
+which is, to set before you the <HI>Spirit</HI> of the Lord
+Jesus; that <HI>Spirit,</HI> by which we know those things,
+which <HI>Reason</HI> cannot reach; and live, not<NOTE N="a" PLACE="marg">1 Cor. 3. 3.</NOTE> as <HI>Men,</HI>
+(<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>) but as<NOTE N="b" PLACE="marg">2 Pet. 1. 4.</NOTE> <HI>Partakers of the Divine Nature.</HI></P>
+<P>The first Promise is the <HI>Personall comming.</HI><NOTE PLACE="marg"><HI>Pro.</HI> 1.</NOTE> This
+hath two parts. <HI>The</HI><LIST>
+<ITEM><HI>Person</HI> comming.</ITEM>
+<ITEM><HI>Comming</HI> of that Person.</ITEM>
+</LIST></P>
+<P><HI>Part</HI> 1<SUP>st</SUP>. The first part is the <HI>Person</HI> comming. It
+appears to be a <HI>Person</HI> of whom our Saviour speaks,
+by those demonstrative particles: <HI>Hee: Him.</HI> It
+appeares to be some great One, a <HI>Divine Person,</HI> by
+those workes, which are to be done by him: To com∣fort
+hearts: To convince a world: To be in stead of
+Christ; nay, to be a better Comforter then Christ
+himselfe in the flesh.</P>
+<P>Commentators, Common-placers, Controver∣siaries,
+School-men; all sorts of Divines in general,
+<PB N="3" REF="5"/>
+chuse this place, and such like places in this dying
+discourse of our Saviour's; for principall proofes of
+this fundamental point in Divinity; that, the <HI>Blessed
+Spirit</HI> is not onely, <HI>The Power of the Godhead,</HI> but, <HI>A
+Person in the Godhead.</HI> For, say they, Christ speakes
+of him as of a <HI>Person; Hee; Him:</HI> and as of a <HI>Di∣stinct
+Person</HI> in the Trinity, <HI>Joh. 14. 16. Another</HI>
+Comforter. Another besides Jesus Christ.</P>
+<P>Now these places with the same force prove it to
+be the same Person, which was to come to the Dis∣ciples.
+For Christ speaks of him not <HI>simply,</HI> but <HI>in
+respect</HI> of his <HI>comming.</HI></P>
+<P>Part. 2. <HI>The second part of this Promise is; The</HI>
+comming <HI>of that Person. School-men call the</HI> com∣ming
+<HI>of the</HI> Spirit: Novus modus Existendi &amp; Appa∣rendi:
+A new way of the Spirit's Being in men, and Ap∣pearing
+to men.</P>
+<P>All that I shall say concerning it, amounts to this.
+The Scriptures very often represent the <HI>Comming of
+Christ</HI> in the flesh, &amp; this <HI>Comming</HI> of the <HI>Spirit</HI> in the
+same formes of Expression. I have cul'd forth these
+five: <HI>Comming, Sending, Giving, Dwelling, Appearing.</HI></P>
+<P>1<SUP>st</SUP> <HI>Comming.</HI> You read of the <HI>Comming</HI> of Shi∣loh,
+which is Christ: <HI>Hee, to whom. Gen.</HI> 49. 10. My
+Text tells you of the <HI>comming</HI> of the Spirit. The
+Divine and Humane Nature are, as it were, two
+termes of reciprocall motion, for these two glori∣ous
+Persons.</P>
+<P>2<SUP>d</SUP>. <HI>Sending.</HI> The Father <HI>sends</HI> the Son, <HI>Joh.</HI> 3.
+17. The Son sends the Spirit, in the verse going be∣fore
+my Text. The Father's <HI>Love-token</HI> to man, is
+<PB N="4" REF="6"/>
+<HI>his own Son.</HI> The Son's <HI>Love-token</HI> to his spouse, is
+<HI>his own Spirit.</HI></P>
+<P>3<SUP>d</SUP>. <HI>Giving.</HI> Christ is the <HI>Gift</HI> of God to the
+world, <HI>Joh.</HI> 3. 16. S. <HI>Paul</HI> tells us that the holy
+Ghost is <HI>given</HI> to us, <HI>Rom.</HI> 5. 5. In a <HI>Gift</HI> there is a
+<HI>conferring of Propriety,</HI> and <HI>Possession.</HI></P>
+<P>4. <HI>Dwelling.</HI> Joh. 1. 14. <HI>The Word was made Flesh,
+and dwelt among us.</HI> 2 Tim. 1. 14. <HI>By the holy Ghost
+which dwelleth in thee.</HI> These two Texts have this dif∣ference.
+Christ dwels in Flesh, as in a <HI>Tabernacle,</HI> or
+<HI>Tent,</HI> like a Pilgrim or Souldier. The Spirit dwels
+in <HI>Timothy</HI> as at home, in his owne house.</P>
+<P>5. <HI>Appearing.</HI> Christ is <HI>God manifested in Flesh,</HI>
+1 Tim. 3. 16. Jesus speakes of the Spirit to his A∣postles,
+<HI>You shall know him,</HI> Joh. 14. 17. These two
+are distinct Persons in respect of their <HI>Appearances,</HI>
+as well as <HI>Subsistencies.</HI> <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.</P>
+<P>This concurrency of expressions seems to signifie
+that these two <HI>Commings</HI> of <HI>Christ</HI> in the Flesh, and
+of the <HI>Spirit,</HI> are <HI>True, Reall Unions</HI> of God with
+Man; <HI>True, Reall Appearances</HI> of God to man; in
+these two Persons of the Trinity, the Son, the Spi∣rit.
+But with this threefold difference.</P>
+<P>First, the <HI>Cōming</HI> of <HI>Christ</HI> in the flesh is a Union of
+two Natures in one Person. This is that w<SUP>ch</SUP> we call
+the <HI>Hypostaticall Union;</HI> where there is a distinction
+of Natures without a distinction of Persons or sub∣sistencies.
+The <HI>Comming</HI> of the <HI>Spirit</HI> is a union
+between <HI>Persons</HI> as well as <HI>Natures.</HI> Here is a <HI>Distin∣ction</HI>
+and a <HI>Union</HI> both at once, between <HI>Natures</HI> and
+<HI>Persons</HI> joyntly. Compare those two places of
+Scripture, 1 Cor. 6. 17. <HI>He that is joyned to the Lord,
+<PB N="5" REF="6"/>
+is one Spirit.</HI> and <HI>Rom. 8. 16. The Spirit witnesseth
+<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ith our spirits.</HI> The result of these will be; that
+<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>he Spirit of <HI>Christ,</HI> and of a <HI>Christian,</HI> are <HI>two spi∣<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>its,
+by distinction of persons, one by Union.</HI></P>
+<P>Secondly, the <HI>coming</HI> of <HI>Christ</HI> was into the broad
+street of the same common nature of man; to be
+<HI>with</HI> us; yet so, as to be <HI>without</HI> us. The coming
+of the <HI>Spirit</HI> is into our particular persons as into
+the same house with us. See this Opposition, <HI>Gal.</HI>
+4. chap. 4. verse. <HI>He hath sent his Son, [made of a
+woman];</HI> that is, made of the humane nature. Then,
+vers. 6. <HI>He hath sent the Spirit of his Son into our
+[Hearts].</HI> Christ came into our <HI>flesh.</HI> The Spirit
+comes into our <HI>hearts;</HI> so as to be both <HI>with</HI> us,
+and <HI>within</HI> us, <HI>John</HI> 14. chap. 16. verse. <HI>He dwelleth
+[with] you, and shall be [in] you.</HI></P>
+<P>Thirdly, the <HI>comming of Christ</HI> in the flesh, was
+visible to all alike, to the eye of sense. But the <HI>com∣ing</HI>
+of the <HI>Spirit</HI> is invisible to all the world; vi∣sible
+only to those who receive him, <HI>Joh.</HI> c. 14. v. 16.
+<HI>The world seeth him not, but ye shall know him, for he shall
+be in you.</HI> To these he is visible <HI>inwardly,</HI> and after a
+spirituall manner.</P>
+<P>This is the first Promise, The <HI>Personall coming.</HI></P>
+<P>The second Promise is,<NOTE PLACE="marg">Prom. 2.</NOTE> The <HI>particular comforts</HI> of
+the Spirit: He shall come as <HI>Comforter,</HI> saith the
+verse immediately foregoing my Text.</P>
+<P>But can any thing comfort a Spouse that mourns
+for her beloved One, besides his own presence? ther∣fore
+this makes the <HI>Spirit, a Comforter indeed;</HI> He
+brings <HI>Christ</HI> for a <HI>comfort</HI> along with him. <HI>Christ</HI> was
+<PB N="6" REF="7"/>
+to live again in the <HI>Spirit,</HI> 1 Pet. 3. c. 18. v. <HI>He was
+crucified in the flesh, but quickened by the Spirit. Christ</HI>
+was to appeare again to them in the <HI>Spirit,</HI> and to be
+for ever with them, <HI>Joh.</HI> 15. chap. 26. vers. <HI>When the
+Spirit come, he shall testifie of me.</HI> The <HI>Spirit</HI> was to
+give them a <HI>second Sight</HI> of their Husband, in a more
+true, divine, lasting way; as he was unvailed of flesh,
+and in his own heavenly form.</P>
+<P>Yea, this <HI>Comfort</HI> was to be <HI>doubled</HI> at the coming
+of the <HI>Spirit:</HI> For the Father was to <HI>come</HI> along
+with his deare Son, <HI>Joh.</HI> 14. c. 23. v. <HI>I, and the Fa∣ther
+will come unto him, and make our abode with him.</HI>
+But which way would these Persons of glory come
+to lodge themselves in the humble Cottage of a
+Saints heart? In the <HI>Spirit.</HI> This Person was to be
+the Chariot for the other two. Therefore but two
+verses after this Promise, <HI>Christ</HI> explains it by ano∣ther
+Promise, that of the <HI>coming</HI> of the <HI>Comforter:</HI>
+And S<SUP>t</SUP>. <HI>Paul</HI> tels us, that we have accesse to the
+Father, by <HI>one Spirit,</HI> Ephes. 2. <HI>c. 18. v.</HI> Thus the
+<HI>Father, Son, Spirit,</HI> and a <HI>Saint,</HI> dwell all together,
+and converse: The <HI>Father</HI> and <HI>Son</HI> in the <HI>Spirit;</HI> the
+<HI>Spirit</HI> in our hearts. This is that <HI>Unity</HI> of the <HI>Spirit,</HI>
+which is the <HI>band</HI> of <HI>Comforts,</HI> Ephes. 4. <HI>c. 3. v.</HI></P>
+<P>The third Promise is the <HI>Universall Convictions</HI>
+of the Spirit.<NOTE PLACE="marg">Prom. 3.</NOTE> Christ and his Disciples were singu∣lar
+in the world; they saw those things whcih none
+could see besides themselves: <HI>Blessed are your eyes, for
+they see.</HI> They were as mad men; they fill'd the
+world with a noise of things, as present, reall migh∣ty
+in glory; they spake every where of a rising
+<PB N="7" REF="7"/>
+Sun, of a wonderfull Light, which made all other
+lights a deep darknesse; when all this while the
+whole world of men round about them could dis∣cerne
+no other Sun without them, save that which
+had shined from the creation untill now; no other
+Light within them, besides that which their own
+reason had ever in an ordinary way supplied them
+withall. <HI>Isaiah</HI> prophecied of Christ and his
+Disciples, <HI>Es.</HI> 8. chap. 8. v. <HI>I, and the children which
+thou hast given mee, are for signes and for wonders.</HI></P>
+<P>Would our Saviour now leave his Disciples alone
+in such a world as this? Therefore hee comforts
+them with this; that his <HI>Spirit</HI> should come and con∣vince
+the world, anoint the eyes of man-kind gene∣rally,
+to see the same light of divine truth with them.</P>
+<P>The Text reads it, <HI>Reprove,</HI> but the word in Greek
+(<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>) more properly signifies <HI>to convince,</HI> as the
+margin hath it.</P>
+<P>This <HI>Conviction</HI> is threefold:</P>
+<P>First, of <HI>Sin; Because they believe not in me.</HI> The
+<HI>Spirit</HI> should shew the world this as the <HI>Center,</HI>
+where all sin met in one; from whence all sin flows;
+their <HI>not believing</HI> in Christ, their neglect of the Per∣son
+of Christ.</P>
+<P>Secondly, of <HI>Righteousnesse, because I go to my
+Father,</HI><NOTE N="a" PLACE="marg">John 6. 62.</NOTE> By Christs returning thither, where he
+was at first; by his going back to the Father, the
+Spirit should teach the world; that he alone came
+forth from the Father:<NOTE N="b" PLACE="marg">John 3. 13.</NOTE> <HI>For no one ascendeth up to
+Heaven, but the Son of man, who came down from Hea∣ven.</HI>
+And by this Argument shall the Spirit de∣monstrate
+Christ alone to be the Righteousnesse
+of God to man.</P>
+<P><PB N="8" REF="8"/>
+Thirdly, of <HI>Judgement, because now the Prince of
+this world is cast out.</HI> The Spirit should reade this
+Lecture upon the world; how, since the fall, the
+whole frame, all appearances of things, had been
+one great enchantment raised and maintained up∣on
+the spirits of men, by the father of lies, the
+Prince of darknesse; to hide their eyes from the
+sight of God. But how Jesus Christ had by his
+death cast down that old Magician from his Throne
+and Power; and now the whole enchantment, the
+fashion or show of this world was dissolving and
+vanishing, till it should appeare no more.</P>
+<P>Thus large I have been in the opening of the con∣text
+and Text.</P>
+<P>Now, without any further stay, or needlesse divi∣sion
+of my Text;<NOTE PLACE="marg">Doctr.</NOTE> my Doctrine from it is this.</P>
+<P>Rightly to convince of sin, is the proper work of the
+Spirit.<NOTE PLACE="marg">Proof.</NOTE></P>
+<P><HI>I shall give you only one place of Scripture to
+prove it; but that, I hope, a fit and full one,</HI> Zach.
+12. 10. I will powre out upon them the spirit of grace
+and supplications, and they shall see him, whom they
+have pierced, and mourn over him.</P>
+<P>You have here two successive <HI>effusions:</HI> one of
+the <HI>Spirit,</HI> and another of <HI>Tears.</HI></P>
+<P>First, <HI>An effusion of Teares; They shall mourne.
+Mourning</HI> expresseth true Repentance in all the
+foure parts of it; conviction, confession, contri∣tion,
+conversion. The force of the conviction here,
+as in my Text, lies in a sight of Christ pierced;
+in a sense of unbelief. Not to receive <HI>Christ</HI> for
+<PB N="9" REF="8"/>
+your Husband and King, is to Pierce him. To take
+away <HI>His Crown</HI> and <HI>Your Hearts</HI> from him, is to kill
+him the worst way. But this is only a Consequent
+and Secondary effusion.</P>
+<P>Secondly, An <HI>Effusion of spirit.</HI> This is the Ante∣cedent
+Effusion. The powring forth of the Spirit
+is the cause of powring forth teares. But who? or
+what is this Spirit? He is markt by a double cha∣racter:
+<HI>A Spirit of grace</HI> and <HI>supplication.</HI></P>
+<P>First, <HI>a Spirit of grace.</HI> There is a twofold grace.
+The <HI>grace</HI> of <HI>loving-kindnesse</HI> in the heart of God.
+The <HI>grace</HI> of <HI>divine lovelinesse</HI> in the heart of man.
+If this latter be here meant, then the <HI>Spirit of grace</HI>
+is he, whom S<SUP>t</SUP>. <HI>Paul</HI> calls the <HI>holy Spirit,</HI> Ephes. 1.
+and wee generally know by the name of the <HI>Holy
+Ghost.</HI></P>
+<P>But this cannot be the sense: For in the Origi∣nall,
+it is <HI>chen,</HI> not <HI>chesed: Grace,</HI> or <HI>loving-kindnesse,</HI>
+not <HI>graciousnesse,</HI> or <HI>goodnesse.</HI></P>
+<P>This <HI>Spirit</HI> of <HI>Grace</HI> then must be, either the <HI>Spi∣rit,
+the spring</HI> of love in the bosome of the Godhead:
+or, the <HI>Spirit,</HI> the diffuser, the discoverer of this love
+in the bosome of man. Both these are that One Spi∣rit,
+the <HI>Holy Ghost.</HI> Divines give to the third Person,
+the name of <HI>Love;</HI> as they do to the second, that of
+<HI>Wisdome:</HI> And wee reade from S<SUP>t</SUP>. <HI>Paul's</HI> mouth,
+<HI>Rom. 5. 5. The love of God is powred forth in our
+hearts, by the Holy Ghost, which he hath given us.</HI> This
+is the first character.</P>
+<P>Second. <HI>A spirit of supplication.</HI> You have a
+<HI>Commentary</HI> upon this character, <HI>Rom.</HI> 8. ch. 26. vers.
+<HI>The Spirit helpeth our infirmities, making intercession
+<PB N="10" REF="9"/>
+for us by groanes unexpressible.</HI> This is the <HI>Spirit</HI>
+which convinceth of sin, the <HI>Holy Ghost</HI> himself.</P>
+<DIV2 TYPE="part">
+<HEAD>Reasons.</HEAD>
+<P>The Spirit is truth.<NOTE PLACE="marg">Reason 1.</NOTE> These are the words of the
+Holy Ghost himself, 1 <HI>Joh.</HI> 5. c. 6. v. <HI>The Spirit is
+truth.</HI> Truth absolutely, that is, the Highest and
+fullest truth; the Principle of all truth: the first
+truth, and so the last measure of all truth.</P>
+<P>Take two Distinctions upon this <HI>Reason.</HI></P>
+<P>Threre are three Principles of truth.<NOTE PLACE="marg"><HI>Distin.</HI> 1.</NOTE>.</P>
+<LIST>
+<ITEM>1. Sense.</ITEM>
+<ITEM>2. Reason.</ITEM>
+<ITEM>3. Spirit.</ITEM>
+</LIST>
+<P>1. Princ. <HI>Sense,</HI> Prov. 20. ch. 12. vers. <HI>The seeing
+eye, and the hearing eare, God hath made them both.</HI> God
+hath made the <HI>senses, standards</HI> and <HI>judges</HI> of truth,
+within their own <HI>circuit,</HI> in such things, as may be
+<HI>seen</HI> or <HI>heard;</HI> as appertain to <HI>sense.</HI></P>
+<P>2. Princ. <HI>Reason,</HI> Prov. 20. <HI>ch. 26. vers. The spi∣rit
+of man is the candle of the Lord, searching out the
+hidden parts of the belly.</HI> Though the <HI>candle</HI> of <HI>Rea∣son</HI>
+excell in light the Glow-worms of sense; yet is
+it but a <HI>candle,</HI> not the <HI>Sun</HI> it self; it makes not
+day; only shines in the darknesse of the night. You
+will more clearly see this Spirit of man to be the
+<HI>Principle</HI> of <HI>Reason,</HI> planted by nature in man; if
+you compare this expression of <HI>Solomon's</HI> with that
+of S<SUP>t</SUP>. <HI>Paul,</HI> which seems to have some glance towards
+<PB N="11" REF="9"/>
+this Proverb, 1 <HI>Cor.</HI> 2. ch. 11. vers. <HI>No man knowes
+the things of a man, but the spirit of man, which is
+in man. The things of a man</HI> are all the things of
+this creation, visible, invisible;<NOTE N="a" PLACE="marg">Eccles. 6. 10.</NOTE> man is the summe
+of them all; all are subject to man; God hath,
+<NOTE N="b" PLACE="marg">Eccles. 3. 1<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>.</NOTE> <HI>set this whole world in the heart of man,</HI> to search
+it out; these are the <HI>hidden things of his belly:</HI> And
+thus farre the spirit of man, the <HI>candle</HI> of <HI>Reason,</HI>
+spreads his beams, to enlighten this <HI>world</HI> of <HI>na∣ture.</HI>
+This the Scripture calls <HI>Man's Day,</HI> which is
+<HI>God's</HI> and <HI>a Saint's night.</HI></P>
+<P>3. Princ. <HI>The Spirit</HI> 1 Cor. 2. <HI>c. 11. v. The things
+of God knoweth no man, but the Spirit of God. The Spirit
+searcheth out the deep things of God.</HI> Divine truths are
+the <HI>depths</HI> of things; the rest are only the <HI>surface.</HI>
+No plummet is strong, no line long enough to
+sound these depths; save only that of the <HI>Spirit.</HI></P>
+<P>These three different <HI>Principles of truth</HI> consti∣tute
+the three different <HI>parts</HI> or <HI>states</HI> of <HI>life:</HI></P>
+<P>First, <HI>the brute part</HI> of the world; it is that which
+is acted by <HI>sense.</HI></P>
+<P>Seconly, <HI>Reason</HI> makes <HI>man;</HI> or the <HI>rationall state.</HI></P>
+<P><HI>Thirdly,</HI> the Spirit <HI>is the principle of a</HI> Saint
+<NOTE N="c" PLACE="marg">Rom. 8. 1.</NOTE> As many as are the sons of God, are led <HI>(or</HI> acted) by
+the Spirit of God.</P>
+<P>I cannot leave this <HI>Distinction</HI> betweene these
+three <HI>Principles</HI> of truth, before I have annext three
+<HI>Rules.</HI></P>
+<P>1. Rule. <HI>Every principle of truth is to be confin'd to
+its own compasse, to its own object.</HI> To seek out spi∣rituall
+<PB N="12" REF="10"/>
+things by the sent and sagacity of reason;
+were to plough with an Oxe and an Asse. <HI>Sensus
+non fallitur circa proprium objectum,</HI> Sense is not de∣ceived
+in judging of its own proper object. If
+sense and reason make no other report but this;
+<HI>This is the state of things, according to our principles:
+this is the appearance of things to us:</HI> Sense and
+reason may be admitted for true witnesses. But if
+they will be wise beyond what is written in their
+book, and say: <HI>This is the only, absolute, true appea∣rance
+of things; because this is the appearance which
+things make to us.</HI> Now sense and reason become blind
+guides, and will lead you into the ditch: 1 <HI>Cor. 2. 12.
+Spirituall things are spiritually discern'd.</HI> By pro∣portion:
+<HI>sensuall</HI> things are <HI>sensually</HI> discern'd: <HI>ra∣tionall</HI>
+things are <HI>rationally</HI> discern'd. You cannot
+reach the things of reason by the hand of sense,
+though it be stretch't out like <HI>Jeroboam's</HI> towards
+the Prophet. You cannot understand spirituall
+things Rationally; that is, upon the grounds of
+Reason.</P>
+<P>2. Ru. <HI>Right Appearances of things to one Principle
+of truth, may be directly contrary to those which are right
+Appearances of the same things to another Principle of
+truth.</HI> The greatest lights of this world, Angels and
+Invisible things, are meere darknesse to the eye of
+sense. The light of this life is darknesse in the lan∣guage
+of the Scripture. Darknesse it selfe is as the
+light before the face of God. 1 Cor. 2. 14. <HI>The wis∣dome
+of the Spirit is foolishnesse to the Naturall man.</HI> The
+Apostle distinguisheth betweene two men, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.
+<PB N="13" REF="10"/>
+&amp; <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>: Man, whose Principle is <HI>Rationall
+soul:</HI> and Man, whose Principle is the <HI>Spirit.</HI> That
+which is <HI>Wisdome</HI> to one, is <HI>Foolishnesse</HI> to the other.</P>
+<P>3. Ru. <HI>Lower Principles of Truth cannot comprehend
+the Higher; but they are comprehended and judged by
+these.</HI> So Philosophers say, that <HI>Reason corrects the
+errors of Sense.</HI> 1 Cor. 2. 15. <HI>The spirituall man judgeth
+all things, but he is judg'd or discern'd by none.</HI> ver. 9. <HI>Eye
+hath not seen, eare hath not heard, neither can the heart of
+mā receive the things of the Gospel.</HI> See here both Prin∣ciples
+of <HI>Sense</HI> and <HI>Reason.</HI> The senses are too super∣ficial:
+the large heart of Man, the vast spirit of Rea∣son
+in him is too narrow to take in any thing of the
+spirit. But the spirit understands them with all their
+wayes and workings <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>; distinctly and criti∣cally.</P>
+<P>These three Principles of truth are as three
+Circles upon the face of the water; one within ano∣ther:
+the lesser are infolded in the greater; but can∣not
+extend themselves to the wide compasse of the
+greater circle, unlesse they break and vanish in them∣selves,
+<NOTE PLACE="marg">1 Cor. 3. 18.</NOTE> that they may become one with it. <HI>If any man
+be wise, let him become a foole that he may be wise.</HI></P>
+<P>The soule shuts the windowes of sense when she
+would have the room fill'd with the light of Rea∣son.
+Reason's selfe must first be cast cast into a deep
+sleep and die, before she can rise again in the bright∣nesse
+of the Spirit. I have dispatch'd the first Di∣stinction.</P>
+<P><HI>Dist.</HI> 2<SUP>d</SUP>. All three Persons in the Trinity are
+<PB N="14" REF="11"/>
+<HI>Truth,</HI> but with their severall and distinct Idioms or
+Characters. The Father is the onely <HI>True</HI> God, <HI>Joh.</HI>
+17. 3. The Son is <HI>Truth, Joh.</HI> 14. 6. The Spirit is
+<HI>Truth, Joh.</HI> 5. 5. But,</P>
+<P>1. The <HI>Father</HI> is <HI>Truth</HI> in the Root: therefore hee
+is call'd the <HI>Father of Lights,</HI> Jam. 1. 17.</P>
+<P>2. <HI>The</HI> Son <HI>is</HI> Truth <HI>in the Image.</HI> He is the Image
+of the Invisible God, <HI>Coloss.</HI> 1. 15.</P>
+<P>3. The <HI>Spirit</HI> is <HI>Truth</HI> in the <HI>Irradiation</HI> or Dis∣covery:
+therefore the Spirit is the <HI>witnessing Truth,
+1 Joh.</HI> 5. The Spirit is the <HI>testifying Truth,</HI> Ioh. 15. 26.</P>
+<P><HI>Nazianzen</HI> delivers the Doctrine of the Tri∣nity
+to us from that place of Scripture, <HI>Psal. 36. 9.
+In thy light shall we see light.</HI> 1. The Father is Light
+in the Fountain. <HI>Thy Light.</HI> 2. The Son is Light in
+the <HI>Face</HI> or <HI>Fulnesse: See Light.</HI> 3. The Spirit is
+Light in the <HI>Flowing</HI> or <HI>Emanation</HI> of it: <HI>In light.</HI>
+The Father is the Light, <HI>from which</HI> is all we see: The
+Son is Light, <HI>which</HI> we see: The Spirit, the Light <HI>by
+which</HI> we see.</P>
+<P><HI>Sin is spiritually discern'd.</HI><NOTE PLACE="marg">Reason 2.</NOTE> Privations and Habits;
+Perfections and Defects, are judg'd by the same fa∣culty.
+The eye discerns light and darknesse. Sin is
+a privation or the absence of Divine Grace. Holi∣nesse
+is frequently exprest by light; sin by darknesse.
+Holinesse is a spirituall beauty: sin, deformity. Both
+are perceiv'd by the same Spirit.</P>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>VSES.</HEAD>
+<P><HI>An Admonition.</HI><NOTE PLACE="marg">Vse 1.</NOTE> You have dedicated this day,
+<PB N="15" REF="11"/>
+and many such dayes, to a holy sorrow. I know
+some, I beleeve many, I hope most of you carry <HI>bro∣ken
+hearts</HI> in your bosomes thorough these dayes.
+Indeed very nature in you cannot but relent; and
+reason it selfe tremble, to see those things, which
+your eyes see. Three Kingdomes stand before you
+this day, like those three crosses on Mount <HI>Golgotha,</HI>
+all laden with broken and bleeding carkasses. These
+three doth your God take, as one Text, that hee may
+preach sin to your soules from it, that he may con∣vince
+you of sin by it.</P>
+<P>Behold, <HI>Scotland</HI> comes with her thousands of
+slain men; <HI>England</HI> with her ten thousands; <HI>Ireland</HI>
+with her millions; besides innumerable multitudes
+which no man can reckon up, of families, persons,
+now undone, now famishing. These come crying to
+every one of us, <HI>Our bloods be upon your heads, if you
+weep not for us before our God this day whilest we bleed
+and dye.</HI> Sure your <HI>hearts</HI> doe <HI>break</HI> at the representa∣tion
+of these things; which your selves know to bee
+at this present farre more sad in <HI>Fact,</HI> then they can
+be made by any <HI>Relation.</HI></P>
+<P>You that are the Fathers of your Countries over
+all this Nation, doe you not often look back upon
+your severall Countries with a tender and dropping
+eye? Do you not find as much reason and sweetnesse
+as once <HI>David</HI> did, to sigh and say within your selves,
+<HI>Lord, we have sin'd, wee should have kept this people as
+their shepheards: but we have procur'd their woe. Alas!
+what have these sheep done?</HI></P>
+<P>But now is it not pitie that <HI>broken hearts</HI> should
+be worthlesse and uselesse? that God should say of
+<PB N="16" REF="12"/>
+our <HI>Mourning,</HI> as <HI>Solomon</HI> sayes of <HI>Mirth: what
+doth it?</HI> Yet so it will be, if it be your <HI>Reason</HI> one∣ly,
+and not the <HI>Spirit,</HI> which by your sufferings con∣vinceth
+you of your sins. If your convictions and
+contritions be Rationall and no more; your groanes
+will be to God as the unpleasing cry, the howling of
+wild beasts when they are pinch'd with famine, or
+caught in a toyle: He that sacrificeth with a heart
+thus broken, will be as if he offer'd a <HI>Dog's Heart.</HI></P>
+<P>Doth it not much concern you to know whether
+your convictions be from a <HI>Rationall</HI> or <HI>Spirituall</HI>
+Principle? Are you not eager to understand the
+difference between these, that you may judge your
+sorrows? As God shall assist me, I will assist you in
+this enquiry, by which you are to examine your
+selves.</P>
+<P><HI>Rationall</HI> and <HI>Spirituall</HI> convictions differ in
+their <HI>Perswasives,</HI> in their <HI>Principles.</HI></P>
+<P><HI>Rationall Perswasives</HI> in conviction for sinne are
+such as these.<NOTE PLACE="marg">Pers. Rat.</NOTE></P>
+<P>First, <HI>Self-love.</HI> Will you heare the workings of
+this? One man afflicted and oppress'd, laments af∣ter
+this manner: <HI>I have blasted my reputation; wasted
+my estate; brought my body into diseases; by my lusts:
+and now I hang over a pit of flames by the thin, worn
+thread of this life; in the same moment that this thread
+is cut; I drop in, and am lost for ever. Wo is me!</HI> Thus
+he cryes; then he runs to prayers, Sermons, Fasts,
+in these he hopes for ease. Another, as he, lies rest∣lesse
+all the night; hath these thoughts working like
+a storm in his breast. <HI>I have expos<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>d my life to
+<PB N="17" REF="12"/>
+the Censure of the Lawes, by Treacheries against my Coun∣trey,
+and my God. If the Preacher's words prove true,
+and there be a hell at last; there remaines nothing for me,
+but a fearfull expectation of my share there.</HI> In these an∣guishes
+this man breathes forth a groan, and cries to
+God, to have mercy on him. So <HI>Pharaoh,</HI> so <HI>Ahab</HI>
+were convinc'd. This is like weeping with an Oni∣on;
+the eyes shed teares because they smart.</P>
+<P>2. <HI>Sparklings of Naturall Worth.</HI> A generous
+heart, if it be no more, when it hath done any thing
+foulely dishonest, or dishonorable; will call aloud
+for Seas of Teares; a Laver of Blood to wash it
+clean.</P>
+<P>The Jewes in the Wildernesse, when once they
+had refus'd to fight at God's command, would purge
+that blot with their blood, fighting though forbid∣den,
+when they were sure to fall. This is not beyond
+that Elephant, which reproach'd with the offer of a∣nother
+Elephant to draw his burthen for him; drew
+till he broke his heart, and fell down dead.</P>
+<P>3. <HI>Naturall Religion</HI> heightned by temper, edu∣cation,
+custome, formalities of Nation, age, in
+which wee live. The Heathen Romanes wounded
+deeply with the losse of an Army, or the pestilence;
+sought reliefe in <HI>reforming</HI> their <HI>Religion:</HI> The Si∣byl's
+books were search'd: <HI>Ludi instaurati:</HI> solemne
+showes and pomps for devotion renew'd: Temples
+set open. Cushions laid; Holy tables, seats, beds
+made ready: the Matrons flock't in Troops, fill'd
+the Churches, fell on their faces, with their haire
+<PB N="18" REF="13"/>
+spred and torne; moystening the Marble pavement
+with their plentifull teares at the feet of every I∣doll.</P>
+<P><HI>In after-times the Heathens among whom the
+Christians lived, on every sad accident, exclaimed:</HI>
+The Christians are the cause of this, which joyn not with
+us in the worship of our gods. Appease the gods, by the
+suppression, or slaughter of these Christians.</P>
+<P>Happy are our times, if some amongst us doe not,
+upon no higher Conviction, then these of Natu∣rall
+Devotion, call for <HI>dayes of Humiliation, Reforma∣tion
+in Religion.</HI></P>
+<P>But do I condemne these Convictions? No. God
+commands and commends them from the example
+of Brute Creatures: <HI>The Oxe knowes his owne; and the
+Asse his Masters Crib.</HI> But this I say; These are no
+better things then the <HI>Best of Beasts,</HI> the <HI>worst of Men</HI>
+have attain'd unto. These indeed, if they be but <HI>Sin∣gle,</HI>
+may procure <HI>Temporall, Temporary</HI> blessings. But
+if they be not <HI>Subordinate</HI> to the Convictions of the
+Spirit, they can doe your souls no good. You may
+save the Kingdome by such teares, but alas! what
+shall be done for Your souls?</P>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Spirituall Perswasives follow.<NOTE PLACE="marg">Perswa. Spir.</NOTE></HEAD>
+<HEAD TYPE="sub">First, Sense of Divine Love. Zach. 12. 10.</HEAD>
+<P>First, a Spirit of Grace, or Love, is shed upon
+the Heart; Then teares are shed. What an eye was
+that which Christ cast upon <HI>Peter,</HI> when he went out
+and wept bitterly? Was it not an Eye of love? a
+<PB N="19" REF="13"/>
+Melting look? You have seen how a Sugar-loafe
+dissolves, and weeps it selfe away, when it is dipt in
+wine. So hearts dissolve, so they melt, dip't in the
+sweet sense of Divine Love. Who knowes not
+what a wound, abused love, a wronged Friend makes
+upon a tender breast? How then doth the dearest
+love, the sweetest friendship of the great God
+wound a soule with the sense of Love and Sin.</P>
+<P>Have you not sometimes read that place, and
+drop't teares upon it? some have told me, that they
+have done it often. The place is Es 43. 22. <HI>I have not
+wearied thee with sacrifices; thou hast wearied me with thy
+sins, O Israel. I blot out thy transgressions like a Cloud, &amp;
+remember then no more.</HI> Give me the worst, the hard∣est
+Heart in this great Assembly: how soft would it
+grow on a sudden, if the Spirit of Christ should
+whisper to it such words as these are: <HI>Many years hast
+thou lived profanely; many a secret wickednesse hast thou
+practis'd, which mine eye hath seen. Often I have set my
+selfe before thee in the blood of my Manhood, in the glory
+of my Godhead, in the love of both my Natures: Thou
+hast wearied me with thy scornings:— But thou sha't be
+mine, I freely forgive all thy sins, as if they never had been
+committed. Come and see how much I love thee! how I
+have ever loved thee!</HI> What temper would thy heart
+be in when thou shouldst hear these words? Would
+it not be like unto that, when <HI>Joseph</HI> revealed him∣selfe
+to his brethren: Whiles thy Saviour falls on
+thy neck to kisse thee, thou would'st fall at his feet
+unable to speak any word for weeping.</P>
+<P>I appeale to you that feel the love of your God,
+how it works in the soules of men: doe you not of∣ten
+<PB N="20" REF="14"/>
+in sweet pangs cry out? Ah! my God, the swee∣ter
+thou art to me, the more sinfull still doe I appear
+to my selfe. This is a Spirituall Conviction, a Con∣viction
+by <HI>Love.</HI></P>
+<P>2. <HI>Sight of Jesus Christ. They shall see him whom
+they have pierced, and mourne over him.</HI> As the looking
+forth of the Sun melts the Snow; so doe the shi∣nings
+out of Jesus Christ melt the Soule. 'Tis
+sweet when a Saint sayes; <HI>Mine eyes have seen
+my Saviour, and now they powre forth teares.</HI> A Rain∣bow,
+the Covenant of peace is then form<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>d, when the
+Sun shines upon a watry cloud: When Christ puts
+forth himselfe, and scatters his beams upon a mour∣ning
+cloudy soule; then followes faire weather:
+there is peace. This is a spirituall Conviction, a
+Conviction by the Beames of Beauty.</P>
+<P>3. The greatest sin, the not-beleeving in Iesus Christ.
+<HI>In spirituall Perswasives the Person of our Saviour
+is the</HI> Argument <HI>and</HI> Conclusion <HI>of all Convictions.</HI>
+A sight of Christ, <HI>is that,</HI> by which <HI>Men are powerfully
+convinc'd.</HI> Not-beleeving on Christ, <HI>is the grand sin,</HI>
+of which <HI>they are convinc'd.</HI></P>
+<P>They shall mourn over him whom▪ they have pierced.
+Not to beleeve on Christ is to pierce him.</P>
+<P>To beleeve Christ is to see him. So in those
+Chronicles of Faith, Hebr. 11. c. 27. v. <HI>Moses</HI>'s
+faith is exprest by his sight: <HI>He saw him who was invi∣sible.</HI>
+But this sight is Inward, Spirituall, Divine:
+a sight by no ordinery Light. S<SUP>t</SUP> <HI>Peter</HI> describes the
+state of beleeving, the sight of faith, 1 <HI>Pet.</HI> 2. 9. Hee
+<PB N="21" REF="14"/>
+hath brought us into his (his own <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>) marvel∣ous
+Light. Hee that sees Christ, sees him in a
+strange, wonderfull, in a divine Light, in God's own
+Light. To believe, is thus to see Christ, and to live
+continually by this sight of Christ; <HI>The life I live▪
+is by the faith of the Son of God,</HI> Gal. 2. <HI>chap. ver.</HI> ult.</P>
+<P>Paul <HI>was convinc'd</HI> by this sight <HI>of Christ; and</HI>
+of this sin, <HI>that he had ever liv'd on any other sight.</HI>
+Gal. 1. <HI>chap.</HI> 16. vers. When it pleased the Father to
+reveale his Son in mee, I consulted not with flesh and
+blood.</P>
+<P>You may see by <HI>Paul's Conversion,</HI> what his <HI>Con∣viction</HI>
+was. He had consulted with flesh and blood;
+that is, with Principles of Reason, with the Spirit of
+man; what should hee have consulted with? or
+whom? with the Word, the immortall Word:
+with the Wisdome of God; with the discoveries
+of Jesus Christ in him.</P>
+<P>Is this the Sin, you chiefly mourn for this day?
+By this judge of your convictions. Do you grieve to
+think; that the glory of God hath shined so long,
+so sweetly from the face of Christ; filling all things
+round about you: while you have been sitting un∣der
+the shadow of humane wit and reason, as in the
+shadow of death; That so bright a Day hath dawn'd
+from the Person of the Lord Jesus; and yet you sit
+spinning out your Counsels and Course▪ by the
+candle-light of man's spirit, and policy, as in the
+night? Do your hearts sigh-forth this sense? Lord,
+we have sate in counsell concerning the great affairs
+of many Kingdomes, Churches, Common-wealths▪
+but not by thy Wisdome; by the shining forth of
+<PB N="22" REF="15"/>
+thy Son in us. Many Principles of State, Reason,
+Policy, have raigned over us; but the sight of thee,
+O Jesus, in our hearts, hath not ruled us.</P>
+<P>When the Spirit convinceth of sin; hee makes
+this the great sin and folly; that the appearances
+of Christ have not been our <HI>Sun</HI> and <HI>shield.</HI> No
+such <HI>shield</HI> is there to defend us from the strifes,
+contentions, conspiracies of men and things; as to
+be hid in the light of our Saviour's looks. No
+such advantage is there as to gain this <HI>Sun,</HI> to have
+the beamings forth of our Husband-king on our
+side: How do the glorious dartings of his presence
+from among us, dazle the spirits of our enemies,
+trouble their order, and make them unable to fight
+against us, or hurt us?</P>
+<P>When the Spirit convinceth of sin, hee shews
+us, that the story of things in the Wildernesse, was
+a Figure for us under the Gospel, 1 <HI>Cor.</HI> 10. c. 4. ver.
+When the <HI>Jews</HI> were to passe over the river <HI>Jordan,</HI>
+the Ark went before them; so they passed through
+dry-shod. When they travelled through the De∣sart;
+the Cloud, the Glory went before them: as
+that moved, they marched on; when that rested, they
+stood still.</P>
+<P>Your Ark now is the spirituall presence of Je∣sus
+Christ in your hearts; the Cloud, the Glory
+now, is the appearance of your Saviour, resting
+upon your spirits. You have waded through many
+rivers of blood, have you seen the discoveries of
+your Jesus going before you, and followed these?
+You have made many Marches, many Rests; hath
+the wel-pleased face of your Jesus, as your Leading-starre,
+<PB N="23" REF="15"/>
+been still in your eye? Have you march't
+as this hath moved? Where this hath stood still,
+have you stay'd?</P>
+<P>The <HI>Jews</HI> sung of old; What ailed you, ye wa∣ters,
+that ye fled? ye seas, that ye were driven back∣wards?
+The waters saw thee, O God, and fled be∣fore
+thee. If these things be thus with you, you
+may go forth, and say in your songs: What ailed
+you, ye mighty armies, at <HI>Keinton, Newbury, York,
+Naseby;</HI> that ye fled, and were driven backwards?
+What ailed you, ye strong treasons, close conspi∣racies,
+that ye trembled, and fell, and your founda∣tions
+were discovered, before you could take effect?
+They saw thee, O Jesus! they saw thee appearing in
+the midst of us; so they fled, so they fell before
+thee.</P>
+<P>If things have not been thus with you; behold
+the sin, over which you are principally to powre
+out your tears. Behold the sin, which troubles
+you. Assure your selves; all your acts in Coun∣sell
+and Camp will be <HI>Null;</HI> till the Lord Jesus be
+as the shout of a King, in the midst of you. Vain
+are all our hopes, sweet dreams of Peace; till our
+Deare Saviour shew himself among you, as once
+among his Disciples; <HI>Saying;</HI> Peace be with you;
+<HI>Breathing</HI> Peace upon you.</P>
+<P>These are the <HI>Perswasives,</HI> in which <HI>Rationall</HI> and
+<HI>Spirituall</HI> convictions for sin differ; not all, but
+some few, which I have chosen for you from among
+the rest.</P>
+<P>Now remains the difference between these <HI>Con∣victions</HI>
+in the <HI>Principles</HI> themselves.</P>
+</DIV2>
+<DIV2 TYPE="part">
+<PB N="24" REF="16"/>
+<HEAD>Principles.</HEAD>
+<P>The <HI>Principles</HI> themselves are the <HI>Spirit</HI> of <HI>Man</HI>
+or <HI>Reason;</HI> the <HI>Spirit</HI> of <HI>God.</HI> But I can no more
+convey a sense of this difference into any soule,
+that hath not seen these two Lights shining in it
+self: than I can convey the difference between <HI>Salt</HI>
+and <HI>Sugar;</HI> to him, who hath never tasted <HI>Sweet</HI> or
+<HI>Sharp.</HI> These things are discerned only by <HI>exercise</HI>
+of <HI>senses;</HI> and are too hard for those, who have
+not their own <HI>senses</HI> exercised in them, as S<SUP>t</SUP>. <HI>Paul</HI>
+speaks, <HI>Hebr.</HI> 5. chap. 14. ver. When you shall see
+the <HI>Sea</HI> of Truth, the <HI>Spirit;</HI> then you will know,
+that the <HI>Great River</HI> of <HI>Reason</HI> was not the <HI>Sea.</HI></P>
+<P>I can tell you, that as much as the complexion
+of a face; the colour of a cloth or lace, seen by
+Moon-light, and Sun-shine differ: So, and farre
+more do the convictions or discoveries by <HI>Reason,</HI>
+and the <HI>Spirit.</HI></P>
+<P><HI>But still this is the difference in the</HI> Effects, <HI>not
+in the</HI> Principles <HI>themselves. To give you, as I
+may, some shadowie description of this; I will
+commend to your most constant and serious medi∣tations
+that place,</HI> 1 Cor. 15. chap. 45. v. The first man
+was a living soule; the last man a quickening spirit,
+<HI>Vers.</HI> 46. The naturall is first, and then the spirituall.
+<HI>Vers.</HI> 48. As the earthy, so are they that are earthy; as
+is the heavenly, so are they that are heavenly. <HI>Vers.</HI> 49.
+As we have born the Image of the earthly man; so shall
+we beare the Image of the heavenly.</P>
+<P><PB N="25" REF="16"/>
+From these places you may draw these <HI>Archi∣tectonick,</HI>
+or commanding Conclusions.</P>
+<P>1. A <HI>Living soule</HI> in her full glory, as she was
+in the <HI>first man</HI> in innocencie, in Paradise, is not
+the <HI>Principle</HI> of the second man, the new birth;
+but the <HI>All-quickening,</HI> the <HI>Eternall Spirit.</HI></P>
+<P>2. A <HI>Living soule,</HI> with the highest improve∣ments,
+raised to the noblest actings of Wit, Rea∣son,
+Worth, is <HI>naturall,</HI> not <HI>spirituall;</HI> the <HI>Image
+of the first Adam,</HI> not the <HI>Image of the Lord Jesus.</HI></P>
+<P>3. <HI>The</HI> naturall <HI>and</HI> spirituall <HI>man differ as much
+as</HI> earth <HI>and</HI> heaven; corruption <HI>and</HI> immortality; flesh
+<HI>and</HI> spirit.</P>
+<P>You see the difference between these two sorts
+of convictions; as I have been able to set it before
+you. I will now conclude this Use with an <HI>Admo∣nition,</HI>
+as I begun it.</P>
+<P>An earthly Root may bring forth earthly fruit;
+nothing can reach up to Heaven, and immortalitie,
+but that which first comes from heaven, and that
+immortall Spirit. If you see your sins this day,
+and weep for them, though it be only by the Owle-light
+of your own reason, (as the Philosopher him∣self
+styles it) you shall not lose your <HI>reward,</HI> though
+you may lose your soules.</P>
+<P>But what will it profit you to save three King∣domes
+by your sorrows; and in the mean time to
+carry in your own bosomes, dying, perishing soules,
+of which every <HI>single one</HI> is more worth than all
+the world?</P>
+<P><PB N="26" REF="17"/>
+'Tis dreadfull to expresse; but I will speak it for
+your sakes. If God should please to put the choice
+into my hands; I had much rather, that all these
+three Kingdomes should be consum'd at once, in
+this very moment, with fire from heaven, by an
+outward destruction; then that <HI>any one</HI> the meanest,
+most miserable <HI>soule</HI> in them, should perish ever∣lastingly.</P>
+<P>Draw then water out of that <HI>Well</HI> of salvation,
+the <HI>Spirit;</HI> and powre it forth before the Lord. If
+the <HI>Spirit</HI> be the <HI>Spring;</HI> your tears will quench <HI>both
+flames,</HI> those that burn <HI>outwardly,</HI> and <HI>inwardly;</HI> so
+you shall at once save these nations, and your own
+soules.</P>
+<P><HI>A Caution.</HI><NOTE PLACE="marg">Vse 2.</NOTE> If it be the work of the <HI>Spirit</HI> to
+convince of <HI>sin;</HI> then it is his work more especi∣ally,
+to convince of spirituall <HI>Duties,</HI> and spirituall
+<HI>Truths.</HI> Take heed of measuring divine things by
+the modell of <HI>Reason.</HI> Take heed of rejecting what
+<HI>Reason</HI> cannot receive. S<SUP>t</SUP>. <HI>Paul</HI> gives you a full ac∣count
+of the <HI>Jews</HI> case and ruine, in a few words;
+<HI>Rom. 10. 3. While they sought after righteousnesse by
+the Law, they fell short; because they were ignorant of
+the righteousnesse of God.</HI> Feare, lest you also fall
+after the same example of unbelief; lest you fall
+short of the knowledge of spirituall things; be∣cause
+you seek it by <HI>Reason,</HI> and know not the
+<HI>Spirit</HI> of God.</P>
+<P>It is true; all grant, that some; some say, that
+all truths which come by <HI>revelation</HI> of the <HI>Spirit,</HI>
+may also be demonstrated by <HI>Reason.</HI> But if they
+<PB N="27" REF="17"/>
+be, they are then no more <HI>Divine,</HI> but humane
+truths: They lose their <HI>certainty, beauty, efficacy;</HI>
+they become like the <HI>Name</HI> of Jesus in the mouth
+of those <HI>counterfeit Exorcists,</HI> which made them not
+the Devil's <HI>Masters,</HI> but his <HI>scorne. Spirituall truths</HI>
+discovered by demonstrations of Reason, are like
+the Mistresse in her Cook-maid's clothes. They
+differ from themselves in their own true shape;
+as those little plump boyes with wings, the pictures
+of Angels in Churches, differ from the Angels in
+Heaven. <HI>Spirituall things are foolishnesse to the na∣turall
+man,</HI> 1 Cor. 2. <HI>chap.</HI> No visible shape is so
+lovely, so full of Majesty, as that of <HI>Man:</HI> No
+shape is so deformed, ridiculous, as the resem∣blance
+of man in a beast, in the <HI>Ape.</HI> So heaven∣ly
+things lose their majestie, become weak and con∣temptible,
+when they are represented by <HI>Reason</HI>
+only: For they are not the things themselves; but
+an apish, mimicall imitation of them.</P>
+<P>The Philosopher gives us this rule; that wee
+should seek for sutable demonstrations in every
+sort of truths; and not leape from one <HI>kinde</HI> to
+another. The Apostle gives us this rule; to <HI>com∣pare
+spirituall things with spirituall.</HI><NOTE PLACE="marg">1 Cor. 2. 13.</NOTE> <HI>Spirituall Con∣clusions,</HI>
+with <HI>spirituall Principles.</HI></P>
+<P>You will reap both pleasure and profit from
+this Observation; that the <HI>true Protestant</HI> differs
+from all sorts of men and Religions, by making
+the three Persons in Trinity, according to their se∣verall
+properties, <HI>the foundation of all truth.</HI></P>
+<P>1. He distinguisheth himself from the <HI>Atheists,</HI>
+<PB N="28" REF="18"/>
+by worshipping the <HI>Father</HI> as the <HI>Fountain</HI> of <HI>truth.</HI></P>
+<P>2. He dissents from <HI>Mahumetans, Indians, In∣fidels,</HI>
+while he sets up <HI>Christ</HI> in himself, for the on∣ly
+<HI>Image</HI> of truth.</P>
+<P>3. By seeking and imbracing the <HI>discovery</HI> of
+truth in the <HI>Spirit,</HI> hee differs from all sorts of
+<HI>Christians;</HI> especially three.</P>
+<P>1. The <HI>Papists,</HI> a <HI>Faction of policy.</HI> These per∣swade
+us to receive the testimony, not of the <HI>Spi∣rit,</HI>
+but of the <HI>Church,</HI> for a Touchstone of truth:
+And this <HI>Church</HI> is the <HI>Popes</HI> private <HI>Consistory,</HI> or
+<HI>Generall Councel.</HI> Thus the <HI>Church's Authority,</HI> not
+the <HI>Demonstration of the Holy Ghost</HI> shall be the light
+of Faith to Truth. Thus not content with an <HI>An∣tichrist,</HI>
+they set up their <HI>Consistory,</HI> or <HI>Councel</HI> for
+an <HI>Anti-spirit.</HI> But wee need no visible Judge on
+earth, to determine upon our consciences; <HI>What is
+Scripture; what is the sense of Scripture.</HI> We have
+an invisible Judge and Witnesse in our own breasts:
+<HI>He that believeth, hath the testimony in himself,</HI> 1 Joh.
+5. <HI>chap. 10. v.</HI> for he hath the Spirit.</P>
+<P>2. The <HI>Arminians,</HI> a <HI>Sect of Moralists,</HI> who give
+the over-perswading power of the Spirit, to strength
+of Rhetorick and Reason, inward or outward.</P>
+<P>3. A <HI>Party of wit and worth:</HI> so farre as the wit
+and worth of man can go; if they would submit
+the wit and worth of man to the Power and Wis∣dome
+of God: The <HI>Socinians;</HI> the <HI>Principles</HI> of
+<HI>Reason,</HI> are the <HI>pillars</HI> of <HI>Religion,</HI> and truth to
+<PB N="29" REF="18"/>
+these men. But Reason is a <HI>pillar</HI> of a <HI>Cloud;</HI> the
+Spirit only is the <HI>pillar</HI> of <HI>Fire,</HI> which hath light
+in it. Reason is that <HI>Gladius versatilis,</HI> that sword
+in that hand of the Cherubim, that kept Paradise;
+a sword that turns every way. It may keep men
+from the tree of Life, but can never bring them to
+it. Our faith is not in the <HI>wisdome</HI> of <HI>man,</HI> but <HI>power</HI>
+of <HI>God,</HI> 1 Cor. 2. <HI>chap. 5. verse.</HI></P>
+<P>Now, Worthy Senators, give me leave to make
+my particular addresses to your selves. You have
+commanded me to speak before you; how farre
+so ever I finde my self below a sufficiencie for it,
+I must speak; I would not seek to work upon you
+by art or cunning, if I had any skill in these things.
+My earnest desire is, with all humilitie and lowli∣nesse,
+to speak the things of <HI>God,</HI> as a <HI>man;</HI> on whom
+the earliest glimmerings of the Spirit have scarce
+yet dawned. I have believed, so I will speak; to
+you; those things▪ on which I fasten the immor∣talitie
+of mine own deare soule.</P>
+<P>Pardon mee, Honourable Patriots, if I speake
+twice to you, once as <HI>private Christians,</HI> a second
+time, as <HI>publike persons</HI> and Magistrates.</P>
+<P>First, <HI>As Private Christians.</HI> If the words of a
+weak, worthlesse man may have place in your large
+hearts, I beseech you to lay up within you, and to
+ponder frequently upon this short word which I am
+now about to speak: <HI>Remember, Remember, not to trust
+to the strength and wisdome of that Living soule, which
+dwels in the Breast of Man.</HI> But, <HI>Have all your depen∣dance
+upon that Spirit of the Immortall God, which comes
+<PB N="30" REF="19"/>
+forth from our Lord Jesus Christ.</HI> I speak this to <HI>You,</HI>
+who are Princes of Reason, in whom the Spirit of
+Man is at a High pitch: Your Saviour died, that he
+might send you this <HI>Spirit:</HI> He left you in his flesh∣ly
+presence, that you might have this Spirit with
+you. O wait <HI>for him</HI> constantly, till he come: Wait
+<HI>upon him</HI> diligently, when he is come.</P>
+<P>Saint <HI>Hierom</HI> thought hee ever heard the last
+Trumpet sounding in his eares. How well should I
+think my selfe rewarded for all the pains of this day,
+if I could fix upon your spirits the constant sound
+of two onely Sentences, as two blasts of the last
+Trumpet? The Sentences are, <HI>Esa. 2. vers. ult.</HI></P>
+<P>Cease from man whose breath is in his nostrils;
+wherein is he to be esteemed of?</P>
+<Q><BIBL>VERS. 17.</BIBL><P>The Lord alone shall be exalted in that day. The
+great God make <HI>That</HI> day, <HI>This</HI> day, to every one of
+your soules.</P></Q>
+<P><HI>Thus much to Private Christians.</HI></P>
+<P>Secondly, As <HI>Publick Persons.</HI> Christ tells the
+Jewes:</P>
+<P>If any one sin against the Son of Man, it shall be for∣given
+him: But if any one sin against the holy Ghost: it
+never shall bee forgiven him. <HI>You will allow it, if I
+shall make a little change in these words, and so re∣turn
+them to you.</HI> If a State sin against the Sonne of
+Man, it shall he forgiven: But if a State sin against the
+holy Ghost, it shall never be forgiven.</P>
+<P><PB N="31" REF="19"/>
+<HI>Remember Hierusalem, Christ</HI> came in the flesh,
+and was crucified, yet <HI>Hierusalem</HI> stood. The <HI>Spirit</HI>
+of Christ came in the persons of the Disciples, in
+the power of the Gospel, and was cast out; then <HI>Hie∣rusalem</HI>
+fell. Divided into three Factions within, be∣leaguer'd
+with a fourth enemy without; <HI>Hierusalem</HI>
+miserably fell.</P>
+<P><HI>O England! London! Remember Hierusalem.</HI> You
+have had the first day of your Peace, and passed it.
+<HI>Christ</HI> hath been preach'd among you; but as in the
+<HI>Flesh;</HI> clouded with carnall rites and ceremonies.
+Christ hath been pierc'd among us, that is, not be∣leeved
+on: yet we <HI>live,</HI> though we <HI>bleed.</HI> You have
+had the first day of your Peace, and pass'd it. Be care∣full;
+Be carefull, to know the <HI>last day</HI> of your Peace;
+the comming of the <HI>Spirit</HI> among you.</P>
+<P><HI>You have set me on your Watch-Tower, and
+made me your Watchman for the few sands of these
+glasses; If you ask mee now;</HI> Watchman, what of
+the Night? <HI>My humble answer is:</HI> The Nights is
+almost past, the Day is at hand, if you will receive the
+Spirit when he comes: If you shall refuse to heare, you
+will look for day; but I feare, I feare, it will be Black∣nesse
+of Darknesse, and Desolation.</P>
+<P>But I bend my Knees to the Father of our Lord
+Jesus, who hath hitherto made you tender in a very
+great measure; that he would send the Spirit of his
+Son into your hearts; that you may know him, that
+he may be in you; that all this people may honour
+the <HI>Spirits</HI> as they honour Jesus Christ.</P>
+<P><PB N="32" REF="20"/>
+<HI>A</HI> Vindication of the Spirit <HI>from those Who</HI>
+<LIST>
+<ITEM>1. Pretend it to Profanenesse.<NOTE PLACE="marg">Vse 3.</NOTE></ITEM>
+<ITEM>2. Profane it under Pretentes.</ITEM>
+</LIST></P>
+<P>1. From those who <HI>Pretend the Spirit to Profane∣nesse.</HI>
+Can any think they have the <HI>Spirit of Grace</HI> in
+them, and yet sin, and yet not mourn for sin? Can a∣ny
+man make that Spirit, whose work is to <HI>Convince</HI>
+of sin, a <HI>Colour</HI> for sin? Can any man paint his foule
+lusts with the specious name of this holy Spirit,
+whose property it is to paint out lusts in their True
+deformities, their Hellish shapes?</P>
+<P>I read in Ecclesiastick Writers, that in the Pri∣mitive
+times there were those that deserv'd the name
+of <HI>Borboristae,</HI> or <HI>Coenosi:</HI> The <HI>Dirty Sect:</HI> and yet a
+Branch of the <HI>Gnostiques.</HI></P>
+<P>But I might perhaps feare this to be the <HI>Malice,</HI>
+or <HI>Mistake</HI> of some in those ages; if I did not read
+in the holy Scriptures of<NOTE N="a" PLACE="marg">Jude 8.</NOTE> <HI>Filthy-Dreamers.</HI></P>
+<P>Spirituall Discoveries are either <HI>Waking Sights,</HI>
+or <HI>Dreames.</HI> Dreames are False Visions of sleeping
+men, without connexion, full of absurdities, incon∣sistencies.
+It is not strange for a filthy vile Person to
+have fair Glorious Dreames. It is monstrous, that
+Glorious Discourses, Notions and Apprehensions,
+should be set upon vile Affections, Actions, and
+conversations; as the Head of an Angel upon the
+body of a Beast. But All is a <HI>Dream.</HI></P>
+<P>If any man indeed have the <HI>Spirit,</HI> he hath a <HI>True
+Dove</HI> in his Breast. The Dove's eyes are the Em∣blem
+of Chastity; The Dove's song is in Grones.
+<PB N="33" REF="20"/>
+Who, so mourn for sin; who, so moane day and
+night after their God, as those who live with this
+<HI>Spirit?</HI></P>
+<P>This is the first Part of the <HI>Vindication.</HI></P>
+<P>Secondly, from those that <HI>Profane the Spirit</HI> un∣der
+<HI>Pretences</HI> of <HI>Fancy, Profanenesse.</HI></P>
+<P>1. Under <HI>Pretences of Fancy.</HI> Why should <HI>Jo∣seph</HI>
+be despised as a <HI>Dreamer</HI> among his brethren?
+<HI>Paul</HI> as a Babler among the Athenians? The <HI>Spirit
+as a Fancy,</HI> by men onely Rationall? That scurrilous
+Comoedian in his Greek play call'd the <HI>Frogs,</HI> re∣proach'd
+<HI>Socrates,</HI> as a Worshipper of <HI>Clouds,</HI> and
+the <HI>Aire;</HI> because he neglected their Idols, and con∣vers'd
+with the <HI>Invisible-God,</HI> So the workings and
+Discoveries of the Spirit, often seem to Men of
+Mighty Reason, <HI>Cloudy, Airy.</HI> Yet the <HI>Spirit</HI> is
+<HI>Truth;</HI> the onely Solid and Weighty Truth, carry∣ing
+the power of God for a demonstration along
+with it.<NOTE PLACE="marg">1 Cor. 2. 4.</NOTE></P>
+<P>Some learned men beare such a modest respect to
+<HI>Nature,</HI> that they affirm it Probable, Some Beasts
+may have a <HI>Sense</HI> more then we have, which wee can
+neither judge of, or guesse at; because we have it not.
+O! that the most Rationall Men, were so modest to∣wards
+their Maker; as to suspect, that there may be
+in him a <HI>Divine Sense,</HI> a <HI>Spirit of Light,</HI> above the
+Compasse and Conjectures of their Reason; which
+he may communicate to whom he pleaseth!</P>
+<P>2. Under <HI>Pretences</HI> of <HI>Profanenesse.</HI> The Heathens
+mingled with Christians, of old charg'd their secret
+Meetings with the <HI>Beds</HI> of <HI>Oedipus,</HI> unnaturall In∣cests,
+<PB N="34" REF="21"/>
+the <HI>Feasts</HI> of <HI>Thyestes,</HI> monstrous cruelties.</P>
+<P>The Late <HI>Protestants at large</HI> cloath'd the best men
+with the name of <HI>Puritan,</HI> as with a Cap of Paper;
+then they painted that Cap with Devils; they loa∣ded
+that name with all the foule things of all Sects
+or Persons; as before them the Papist did the Pro∣testant.</P>
+<P>God grant that the Father of lies may not still
+live between the Lips of Men by the same Art of
+Names; representing the most spirituall men like
+Christ on the Crosse, under the most carnall Titles
+of Ambition, Lust, Falshood.</P>
+<P>The Spirit is Holy, so are they that are <HI>His.</HI> This
+Spirit cannot encourage to sin, comfort in sin; for
+his work is to convince sin.</P>
+<P>Beleeve it, 'Tis true as Gospel: No man that is
+led by the law of the Spirit of Life; can walk con∣trary
+to any Law of Nature, Common Honesty,
+Civill Policy, or whatsoever is of good Report,
+Praise-worthy.</P>
+<P>If any man walk by any other rule; an evill Spirit
+hath deceived him; only let not the reproach of
+such fall upon them, who with humble and panting
+hearts call upon the Name of this <HI>Holy Spirit.</HI></P>
+<P>A <HI>Consolation.</HI><NOTE PLACE="marg">Use 4.</NOTE> This Spirit, which convinceth of
+sin, is the <HI>Comforter.</HI> If you have this day receiv'd
+his conviction; you shall now go away full of his
+comforts: with bosomes full of All comforts
+of peace and joy in your selves; of peace and
+love, one towards another.</P>
+<P>Where the Spirit convinceth of sin, he commu∣nicates
+<PB N="35" REF="21"/>
+all contents in these two bundles of com∣forts;
+Righteousnesse and Peace.</P>
+<P>1. <HI>Righteousnesse.</HI> Have you seen your sins by
+the light of the Spirit? by the same light you shall
+see your righteousnesse. Humble your selves be∣fore
+this Spirit; let him cover your faces with
+shame; and he shall cloath your persons with glo∣ry.
+He shall make you precious in the eyes of your
+God, honourable in all the world: Nations round
+about shall say, This is a wise and righteous people,
+for the Spirit of the Eternall God is come down
+among them.</P>
+<P>2. <HI>Peace.</HI> Naturalists say, A wound is a separa∣tion
+of parts in the whole. How full are all of
+wounds? Alas, do we not begin to have wounds up∣on
+our breasts, neer our hearts? And still we strive
+to make that good in Civilitie, which is true only
+in Nature; that the best Balsome for a wound is
+its own blood: We would make up our divisions,
+by making them more.</P>
+<P>Who now shall restore Peace to our mourners?
+This Spirit will restore peace to his mourners. This
+Dove, though he come groaning, yet he brings an
+Olive branch in his mouth. O ye! every one of you
+in particular, give this Spirit your single hearts to
+breake in pieces; and he will make them all one
+heart. How happy should we live, if God would
+do this!</P>
+<P>If the Lord would powre forth his Spirit upon
+our souls, and melt them; how sweetly would they
+<PB N="36" REF="22"/>
+run all into one piece, like gold?</P>
+<P>Then should <HI>Righteousnesse</HI> and <HI>Peace</HI> kisse each
+other in these Lands; and these three kingdomes
+should mutually kisse and imbrace in this union.
+The Lambs, <HI>England</HI> and <HI>Scotland,</HI> Presbyterians and
+Independents, shall feed together in fat pastures.
+The Lambs and the Lion shall live lovingly, and
+converse one with another.</P>
+<P>Then shall your Cattell go forth again in Herds
+and Flocks: Your children in dances; Your Saints
+in their assemblies; and the Lord Jesus shall be
+known for a God in the midst of them.</P>
+<P>Then shall after-ages call this Age, this Parlia∣ment;
+<HI>The blessed of the Lord;</HI> and make it your
+Motto for ever.</P>
+<Q><L>Blessed are the Peace-makers in divided Common-wealths.</L>
+<L>Blessed are the Peace-makers in divided Consci∣ences.</L></Q>
+<P>Thus if the Holy Spirit set a crown of thorns by
+conviction on your hearts; he shall crown you with
+Righteousnesse and Peace: For;<NOTE PLACE="marg">Rom. 14. 17.</NOTE> <HI>The Kingdome of
+God is Righteousnesse, Peace, and Joy in the Holy Ghost.</HI></P>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="22"/>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

@@ -1,0 +1,3955 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">Cursus osteologicus being a compleat doctrine of the bones according to the newest and most refin'd notions of anatomy : shewing their nature, substance, composition, manner of ossification, nourishment, &amp;c. ... : to which is annex'd by way of appendix, an excellent method of whitening, cleansing, preparing, and uniting the bones, to form a movable skeleton ... / by Robert Baker, Chirurgeon.</TITLE><AUTHOR>Baker, Robert, Chirurgeon.</AUTHOR></TITLESTMT><EXTENT>Approx. 167 KB of XML-encoded text transcribed from 72 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2006-02 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A29856</IDNO>
+
+
+<IDNO TYPE="stc">Wing B515</IDNO>
+
+<IDNO TYPE="stc">ESTC R16777</IDNO>
+
+<IDNO TYPE="eebo citation">12010383</IDNO>
+
+<IDNO TYPE="oclc">ocm 12010383</IDNO>
+
+<IDNO TYPE="vid">52388</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A29856)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 52388)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 81:5)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">Cursus osteologicus being a compleat doctrine of the bones according to the newest and most refin'd notions of anatomy : shewing their nature, substance, composition, manner of ossification, nourishment, &amp;c. ... : to which is annex'd by way of appendix, an excellent method of whitening, cleansing, preparing, and uniting the bones, to form a movable skeleton ... / by Robert Baker, Chirurgeon.</TITLE><AUTHOR>Baker, Robert, Chirurgeon.</AUTHOR></TITLESTMT><EXTENT>[10], 125, [1] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed by I. Dawks, for D. Browne ... and R. Clavell ...,</PUBLISHER>
+<DATE>1697.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Advertisements: p. [1] at end.</NOTE><NOTE>Reproduction of original in British Library.</NOTE><NOTE>Marginal notes.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Bones.</TERM><TERM>Skeleton.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2005-07</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2005-08</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2005-10</DATE><RESPSTMT><RESP>Andrew Kuster</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2005-10</DATE><RESPSTMT><RESP>Andrew Kuster</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2006-01</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A29856">
+<STC T="W">B515</STC>
+<BIBNO T="oclc">12010383</BIBNO>
+<VID>52388</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y"/>
+<PB REF="1" MS="y"/>
+<P><HI>Cursus Osteologicus:</HI>
+BEING A
+Compleat Doctrine
+OF THE
+BONES;
+According to the Newest, and most
+Refin'd Notions of ANATOMY.</P>
+<P>Shewing their Nature, Substance, Compo∣sition,
+manner of Ossification, Nourish∣ment,
+<HI>&amp;c.</HI> Also the various ways of
+their Articulation; together with the
+Parts to be consider'd in each particular
+Bone of the whole SKELETON, as
+Figure, Cavities, Protuberancies, <HI>Fora∣mina,</HI>
+Scituation, Connexion and Use;
+with several Curious Observations rela∣ting
+to the BONES.</P>
+<P>To which is Annex'd by way of <HI>APPENDIX,</HI>
+An Excellent Method of Whitening, Cleansing,
+Preparing, and Uniting the Bones, to Form a
+Movable Skeleton, wherein the Bones may have
+the same Motions as in a Living Subject.</P>
+<P>The Whole being a Work very Useful and Necessary
+for all Students in Physick and Chirurgery.</P>
+<P>By <HI>ROBERT BAKER,</HI> Chirurgeon.</P>
+<P><HI>London,</HI> Printed by <HI>I. Dawks,</HI> for <HI>D. Browne,</HI> at the
+<HI>Black Swan</HI> without <HI>Temple-Bar;</HI> and <HI>R. Clavell,</HI> at
+the <HI>Peacock</HI> near St. <HI>Dunstan's</HI> Church. 1697.</P>
+</DIV1>
+<DIV1 TYPE="introduction">
+<PB REF="2" MS="y"/>
+<PB REF="2"/>
+<HEAD>INTRODUCTION.</HEAD>
+<P><HI>REctum est Regulasui,
+&amp; obliqui,</HI> is an un∣deniable
+Axiom among
+the Mathematicians; the same
+may be said of that thrice Noble
+Science call'd <HI>Anatomy,</HI> it be∣ing
+the Grand Foundation, or if I
+may so say, the Corner-stone both
+of Physick and Chirurgery, espe∣cially
+the latter, it being the <HI>Ba∣sis</HI>
+on which we build all our Stru∣ctures
+towards the Cure of Distem∣pers,
+both External, and Inter∣nal;
+for how is it possible we
+should pretend to Cure any Inter∣nal
+Affect, unless we know what
+Part or <HI>Viscera</HI> is affected; the
+<PB REF="3"/>
+like may be said in Chirurgical
+Cases; for what Surgeon can
+give a true Prognostick in Wounds,
+Vlcers, <HI>&amp;c.</HI> or Restore Luxated
+or Fractured Limbs, or perform
+any Manual Operation, without
+a true Knowledge of the Oeconomy
+of Humane Body; and this ought
+not to be a bare Knowledge only of
+the Parts, and where they lye (as
+many who are unwilling to give
+themselves the Trouble of Scruti∣nying
+into the more nice Compo∣sition
+of them) but we ought also
+to know the Figure, Structure,
+Vse, what Juices they separate,
+and the like, all which the Do∣ctrine
+of <HI>Anatomy</HI> teaches; for
+to what a prodigious height is the
+Art of Medicine improved, since
+our most Ingenious and Accurate
+Countryman, Doctor <HI>Harvey,</HI>
+<PB REF="3"/>
+found out and demonstrated the
+Circulation of the Blood; <HI>Jolivi∣us</HI>
+the Lymphatick Vessels; <HI>Cas∣per
+Assellus</HI> the <HI>Venae La∣cteae;</HI>
+and <HI>Haver's</HI> the Articu∣lar
+Glands; with many more
+great Improvements, which are
+too long to mention; nay, the
+whole Method of Physick is almost
+alter'd; and this Great and No∣ble
+Work could ne'er have been per∣form'd,
+had those Learned Men
+contented themselves with a bare
+Knowledge o the Parts only; for
+suppose any had a Pile of Build∣ing
+to Erect, would they think
+you, employ any one who is Ignorant
+of what Figure of Size the Stones
+or Timber ought to be, and how
+to be join'd together? The same
+may be said of a Chirurgeon, or
+Physician, who is ignorant of <HI>A∣natomy;</HI>
+<PB REF="4"/>
+so that whoever is
+willing to perform the Duty of a
+Good and Consciencious Surgeon,
+ought to know the whole Fabrick
+of Man's Body; and that as well
+in its perfect, and sound state,
+as morbid, that he may re-esta∣blish
+Health when lost, and re∣store
+unsound Parts to their former
+Sanity.</P>
+<P>I shall not here Harangue, or
+run out in the many Praises which
+are due to <HI>Anatomy,</HI> or Treat
+of its Origin and Antiquity; it
+being already so excellently well
+perform'd by the Learn'd Doctor
+<HI>Charleton,</HI> in the Preface to his
+Anatomic Prelections, but proceed
+to the Matter in hand.</P>
+<P>Various are the Opinions of Au∣thors,
+about the Parts we ought
+to begin with, in Anatomical De∣monstrations.
+<PB REF="4"/>
+<HI>Bartholinus</HI> says,
+We ought to begin with the Te∣guments,
+they being first in view,
+then proceed to the <HI>Viscera,</HI> and
+Muscles, and lastly, end with
+the Bones; and the Reasons he
+gives for it, are because the Bones
+cannot be examined before they
+appear, which they cannot do,
+(says he) 'till all the Muscles
+are separated from them; others
+begin with the <HI>Abdomen,</HI> or
+Lower Belly, so proceed to the
+<HI>Thorax,</HI> then to the Head, and
+lastly, to the Extremities; by
+reason the Belly is apt to send forth
+in a little time, very noisom and
+offensive Smells, which would hin∣der
+the Operator from prosecuting
+his intended Design: 'Tis true
+this is the best way, supposing we
+have but one Subject to work on,
+<PB REF="5"/>
+and that we be obliged to shew all,
+or most of the Parts on this one
+Subject.</P>
+<P><HI>Galen</HI> says we ought to begin
+with the Bones, and gives many
+Cogent Reasons to prove it; first,
+because they serve as Beams or
+Supporters of the whole Body. Se∣condly,
+they serve to fasten the
+Muscles too; for how can we tell
+the Origin or Insertion of any Mus∣cle,
+if we be wanting in the true
+Doctrine of the Bones; nay, all
+the Parts seem as if design'd for
+their use; for when the Bones
+cease to grow, they also put a Pe∣riod
+to the growth of all the other
+Parts.</P>
+<P><HI>Laurentius</HI> says, that in the
+Anatomical School of <HI>Alexan∣dria,</HI>
+the Young Students in
+Medicine, always began their
+<PB REF="5"/>
+Anatomical Course with the <HI>Osteo∣logy,</HI>
+and then proceeded to the
+Doctrine of the Muscles, several
+of which receive their Denomina∣tions
+from the Bones, which they
+pass by, or lye on, as the <HI>Tibia∣lis
+Posticus,</HI> and <HI>Anticus</HI> the
+<HI>Peronii, Scapulares, Sterno∣hyoidei,
+Mastoideii,</HI> &amp;c.
+Lastly, the Knowledge of the
+Bones is of that great use to a
+Surgeon, that it's impossible for
+him to restore well a Fracture or
+Dislocation, who is Ignorant of;
+the Structure, Figure, Articula∣tion,
+<HI>&amp;c.</HI> of the Fractured or
+Dislocated Bone.</P>
+<P>All these Reasons are a suffici∣ent
+Inducement to perswade us,
+that we ought to begin with the
+Skeleton, and then proceed in or∣der,
+to the Rest of Man's Body.</P>
+<P><PB REF="6"/>
+The Skeleton is an Assemblage
+of all the Bones of the Body; it's
+either Natural, or Artificial; the
+Natural, is when the Bones are
+all excarn'd, but kept together by
+their proper Ligaments; the Ar∣tificial
+one, is when the Bones
+are Artificially Cleans'd, Whiten'd
+and Join'd together by Wiers.</P>
+<P>That part of <HI>Anatomy</HI> which
+Treats of the Bones, is call'd <HI>O∣steologia,</HI>
+which is as much as
+to say, A Discourse of the Bones.</P>
+<P>We shall in this Tract examins
+what belongs to the Bones in ge∣neral,
+and what belongs to each
+particular; which we shall di∣vide
+in several Demonstrations.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="medical treatise">
+<PB N="1" REF="6"/>
+<HEAD>Cursus Osteologicus:
+BEING A
+Compleat Doctrine
+OF THE
+BONES, &amp;c</HEAD>
+<DIV2 N="1" TYPE="demonstration">
+<HEAD>Demonstration I.</HEAD>
+<HEAD TYPE="sub">Of the Bones in General.</HEAD>
+<P>THE Doctrine of the Bones
+in General,<NOTE PLACE="marg">What to be consider'd in the Bones in General.</NOTE> consists in these
+Eleven Things, as Defini∣tion,
+Substance, Composi∣tion,
+manner of Ossification, Vessels,
+Nourishment, Differences, Parts, or
+Things to be consider'd in the Bones;
+<PB N="2" REF="7"/>
+together with their manner of Arti∣culation,
+Number and Use; of all
+which in order.</P>
+<P><HI>Galen</HI> defin'd a Bone to be the most
+hard,<NOTE PLACE="marg">Antient De∣finition.</NOTE> firm, and terrestrious part of
+all the Body. <HI>Laurentius</HI> adds, and
+says, That it's ingendred by the for∣mative
+Faculty, by reason of great
+heat, out of the most crass and ter∣restrious
+part of the <HI>Semen,</HI> to serve
+as a Foundation to all the Body, and
+to give it Shape and Figure; but this
+Definition, as it is not compleat e∣nough,
+so on the other hand, the
+word Faculty, is a Term which they
+used to exprese themselves by, when
+they were at a loss for an Answer or
+Solution to any Question proposed;
+besides, it's not at all agreeable to the
+Idea we have of the formation of the
+Bones, or Use; yet it's certain the
+Antients made use of that Term to ex∣plain
+most of the Actions of the Bo∣dy;
+for when they were to declare
+how the Chyle, or Blood was made,
+or how the Bones or Cartilages were
+form'd, nay, how the Senses acted;
+they answer'd, That the Stomach had
+<PB N="3" REF="7"/>
+a Chylific Faculty, the Liver a San∣guifying;
+the Bones were form'd by
+an Ossific, and the Cartilages by a
+Cartilaginous Faculty, that the Eye
+saw by the Visive Faculty; <HI>&amp;c sic de
+caeteris.</HI></P>
+<P>This was a general Answer, by
+which they eluded (as well by their
+occult Qualities) all Difficulties pro∣posed
+to them, so that their Pupils
+were as Ignorant at the finishing of
+their Studies▪ as at the beginning;
+but we at this Day explain all these
+Actions purely Mechanically; as I
+shall shew in demonstrating each
+part of the Osteology exactly, that
+the Action which it performs, abso∣lutely
+depends on its Structure, so
+that it can do nought else, but what it
+does.</P>
+<P>But to return from whence I have
+digress'd;<NOTE PLACE="marg">Modern Definition.</NOTE> the Moderns say a Bone is
+a similer part, most dry, cold and
+hard, without sense, (unless by some
+Preternatural Accident) inflexible,
+affording Stabiliment, Figure and
+Form to the whole Body.</P>
+<P><PB N="4" REF="8"/>
+A Bone may be consider'd at two
+distinct times, either before or after
+the Birth.</P>
+<P>In their beginning,<NOTE PLACE="marg">Nature and Substance.</NOTE> or before the
+Birth, they are of a Membranous Sub∣stance,
+wrapt up, as it were, in very
+many folds, or <HI>Laminae;</HI> which at
+first are Gelatinous, in time grow
+Cartilaginous, and at last when suffi∣ciently
+indurated by the Ossific Li∣quor,
+are so strong as to resist all in∣ward
+force, and their Parts which
+had before some Heterogeneous Bo∣dies
+in their Insterstices, being squee∣zed
+closer by the power and pressure
+of the Spirits, dis-engage themselves
+from those Bodies which lye between
+their <HI>Laminae,</HI> so grow more solid,
+wholly fixt, and void of motion,
+which is about the time when the
+Bones have attain'd their full perfe∣ction
+of growth, which also puts a
+period to the bulk and magnitude of
+the Body, so that they are no more
+extended or enlarged, either in
+breadth or length.</P>
+<P>The Bones are composed of many
+strings,<NOTE PLACE="marg">Composition of stringy Fibrils.</NOTE> or threads, which have their
+<PB N="5" REF="8"/>
+course according to the length of the
+Bones, or their Figure; for if the
+Bone be of an unequal, or irregular
+Figure, the strings are also unequal,
+and irregular; except in the <HI>Cranium,</HI>
+where the threads begin at a point,
+(sometimes two or more) for the
+most part in the Centre, and termi∣nate
+in the Circumference of the Bone,
+as the Spokes in a Wheel; for which
+reason it's more thick, and compact
+there, than in the Circumference,
+the thready Fibrils being more close
+and united there, which is visible in
+the <HI>Cranium</HI> of a <HI>Foetus;</HI> the Bones
+have also some transverse Fibres, to
+hold the long ones in; which may be
+seen in the Bones of the <HI>Tarsus,</HI> as al∣so
+in the Extremities of most of the
+long Bones, where the Porosities are.</P>
+<P>The Ossification begins not in the
+same place of every Bone;<NOTE PLACE="marg">Where the Ossification begins.</NOTE> in the long
+Bones it begins in the middle, and to∣wards
+each end; but in Bones of
+an irregular Figure in several places,
+as may be seen in the <HI>Ossa Innominata</HI>
+of a <HI>Foetus,</HI> where it begins at three
+points or places at once, so that they
+<PB N="6" REF="9"/>
+seem to be three distinct Bones united
+just in the middle of the <HI>Acetabulum,</HI>
+but in time, as the Ossification in∣creases,
+they grow more strong, the
+fibrous threads join, and so make but
+one Bone; for if the Bones should
+have been totally Ossified before the
+Birth,<NOTE PLACE="marg">Why the Bones are not totally Ossified be∣fore the Birth.</NOTE> how should the <HI>Foetus</HI> pass
+through the <HI>Vagina</HI> of the Womb as
+it doth? For it's without Dispute, that
+both the Bones of the Head, and also
+the Hips of the <HI>Foetus,</HI> give way some∣what
+in time of Exclusion; for it's
+observed that those Animals which
+have long and small Heads,<NOTE PLACE="marg">☜</NOTE> but big
+Bodies, have the Bones of their Head
+wholly Ossified before the Birth, but
+their Ribs not, so careful is Nature in
+this Affair.</P>
+<P>In the Skull, and most broad thin
+Bones, as the <HI>Sternon,</HI> the Ossificati∣on
+begins at two, three, or more
+points, commonly about the Centre;
+Nature is also very cautious in Ossify∣ing
+long Bones all at once; for if
+their Extremities had been Ossified as
+soon as their middle, the ligamentous
+and tendorous threads would not en∣ter
+<PB N="7" REF="9"/>
+so easily their ends, to join them
+together, which they can do, being
+not totally Ossified. The Ossification,
+as I said afore of the <HI>Ossa Innominata,</HI>
+begins at three points, that they may
+have the greater solidity; but quite
+contrary in the Bones of the <HI>Cranium,</HI>
+for while the middle of most Bones of
+the <HI>Cranium</HI> are fully Ossified, their
+edges are only Membranous, that
+they may give way somewhat in time
+of Birth, which they would not, were
+the <HI>Cranium</HI> compleatly Ossified.
+These are the Reasons why Nature re∣tards
+Ossification in some Bones, and
+advances it in others.</P>
+<P>The Bones before they be through∣ly
+indurated,<NOTE PLACE="marg">Vessels.</NOTE> have many Blood-ves∣sels,
+which are obliterated, as soon as
+the Meduller Glands are large enough
+to separate the Oily Particles from the
+Arterial Blood, (which have a Proper∣ty
+of keeping the Bones soft) then the
+Ossific Liquor which is emitted from
+the aforesaid Glands hardens them,
+and so presses the Parts closer toge∣ther,
+and hinders the Blood from pas∣sing
+and repassing as usual, when
+<PB N="8" REF="10"/>
+they were softer, their bony threads
+gave way, and being then not prest
+so close; which Vessels are also boni∣fied
+by the Ossific Juice, having lost
+their first use; yet some few remain,
+which serve only the Meduller Glands,
+for their Nourishment, the Pulsation
+of Blood in them having strength e∣nough
+to scatter the Fibrils of the
+Bones in that Part, and so makes pas∣sages
+for themselves.</P>
+<P>The Bones are nourished two ways,<NOTE PLACE="marg">Nourish∣ment two fold.</NOTE>
+the one in their beginning, that is,
+when they are only Membranous, and
+is quite different from the Nourish∣ment
+they receive after their Perfecti∣on;
+for now they are nourished as all
+other Membranes,<NOTE PLACE="marg">When Mem∣branous.</NOTE> with Blood imme∣diately
+from the Arteries, so that if
+you then cut them, you'll find every
+thread bloody, which is not so when
+truly Ossified; for when the Bones
+have occasion of greater solidity, Na∣ture
+then changes her way of Nou∣rishment,<NOTE PLACE="marg">When Bony.</NOTE>
+which is by a peculiar Li∣quor
+of a Saline Tartarous Nature,
+prepared by the Meduller Glands, the
+more oily Particles being separated,
+<PB N="9" REF="10"/>
+and kept in them,<NOTE PLACE="marg">Medulla Quid.</NOTE> which is that we
+call the Marrow; this Liquor; I say,
+insinuates its self all along the bony
+strings, and is visible in a Fractured
+Bone, it appearing at their Extremi∣ties,
+and meeting together causes
+them to reunite,<NOTE PLACE="marg">Callus Quid.</NOTE> which we call <HI>Callus;</HI>
+nay, we often find that the adjacent
+Parts are sometimes indurated by this
+Ossific Liquor, and the Limbs often
+grow Gouty, and has not its former
+nimble motion, the <HI>Callus</HI> growing too
+big; for if they were bloody Particles,
+which exuded forth of their bony
+threads, instead of generating a <HI>Callus,</HI>
+it would Impostumate, for all Blood
+shed out of its Vessels putrifies, this
+Liquor is of such an indurating Quali∣ty,
+that if the Fibrils of the Bones be
+any ways broken, that it sheds it self
+in any great quantity, it will Ossifie
+the very Tendons; I have seen the
+Marrow it self turn'd bony.</P>
+<P>The Bones have Nerves (is plain)
+although no Sense,<NOTE PLACE="marg">Nerves, but no Sense.</NOTE> for when they
+come to the solid Substance of the
+Bone, they are prest so close, that the
+Animal Spirits cannot enter their Sub∣stance,
+<PB N="10" REF="11"/>
+and so consequently can have
+no feeling,<NOTE PLACE="marg">Acids soften the Bones.</NOTE> unless softned by Acids,
+which will cause them to have a dull
+Sense, as may be try'd by the use of
+Acids on the Teeth; which, as the a∣cidity
+goes off, reassume their former
+hardness, and insensibility. Some∣times
+the Blood acquires such an aci∣dity
+which is apt to cause a <HI>Spina Ven∣tosa,</HI><NOTE PLACE="marg">Cause of a <HI>Spina Ven∣tosa.</HI></NOTE>
+which is nothing else but a Ca∣riosity
+of the Bones, proceeding from
+an Acid Blood coming to the Meduller
+Glands for the Nourishment of the
+Bones; also Acid Acrid Humours in
+an Ulcer may cause a Cariosity.</P>
+<P>The Differences observed in the
+Bones,<NOTE PLACE="marg">Differences Nine.</NOTE> may be derived from Nine
+Things, <HI>viz.</HI> from their Substance,
+Quantity, Figure, Situation, Uses,
+Motion, Sensibility, Generation, and
+Cavities.</P>
+<P><MILESTONE N="1"/> The First Difference is derived
+from their Substance,<NOTE PLACE="marg">From their Substance.</NOTE> for some Bones
+have a very hard one, as the <HI>Tibia;</HI>
+others less hard, as the <HI>Vertebrae;</HI> and
+finally, others have a more soft and
+spongy one, as the <HI>Sternon.</HI></P>
+<P><PB N="11" REF="11"/>
+The Second is derived from their <MILESTONE N="2"/>
+Quantity,<NOTE PLACE="marg">From their Quantity.</NOTE> for some as
+those of the Thigh, Leg, Arm, <HI>&amp;c.</HI>
+others less, as those of the Head;
+some least of all, as those of the Fin∣gers.</P>
+<P>The Third proceeds from their Fi∣gure; <MILESTONE N="3"/>
+some are long,<NOTE PLACE="marg">From their Figure.</NOTE> as the <HI>Os Femo∣ris,
+Tibia, &amp;c.</HI> others short, as those
+of the Fingers, and <HI>Metatarsus, &amp;c.</HI>
+some round, as the <HI>Rotula;</HI> others
+flat, as the <HI>Ossa Palati;</HI> others square,
+as the <HI>Ossa Parietaria;</HI> others trian∣gular,
+as the first Bone of the <HI>Sternon,
+Scapula, &amp;c.</HI></P>
+<P>The Fourth is from their Situation,<MILESTONE N="4"/><NOTE PLACE="marg">From their Situation.</NOTE>
+as some are plac'd in the Head, others
+in the Trunk, and some in the Extre∣mities;
+others are seated deeply, as
+the Officles in the Cavity of the
+Ear, <HI>&amp;c.</HI></P>
+<P>The Fifth is from their Use,<NOTE PLACE="marg">From their Vse.</NOTE> as some <MILESTONE N="5"/>
+serve to sustain the Body, as those of
+Legs and Thighs, others to contain
+and defend the Parts, as the Ribs de∣fend
+the Lungs, Heart, <HI>&amp;c. Ossa Inno∣minata,</HI>
+and <HI>Os Sacrum,</HI> the Bladder,
+Womb in Women, <HI>&amp;c. Cranium</HI> the
+Brain.</P>
+<P><PB N="12" REF="12"/>
+<MILESTONE N="6"/> The Sixth is known by their Moti∣on;<NOTE PLACE="marg">From their Motion.</NOTE>
+for some have a more manifest
+motion, as the great Bones of the Ex∣tremities;
+others have a less, as those
+of <HI>Tarsus</HI> and <HI>Carpus;</HI> others none
+at all, as those of the Head.</P>
+<P><MILESTONE N="7"/> The Seventh is from their Sense,<NOTE PLACE="marg">From their Sense.</NOTE>
+which is easily remarkt, for all the
+Bones, generally speaking, have no
+Sense, except the Teeth, and they
+only a very dull Sense; except, as I
+have already observed, they be soft∣ned
+by some offending Acid.</P>
+<P><MILESTONE N="8"/> The Eighth is taken from the time
+of their perfect Generation,<NOTE PLACE="marg">From the time of their Gene∣ration.</NOTE> and Per∣fection;
+for some Bones are perfect in
+the Womb, or before the Birth, as
+the small Officles of the Ears; and o∣thers,
+which do not acquire their Per∣fection,
+but as the Subject advances
+in Age, as all the rest of the Bones of
+the Body, yet some of these Ossifie
+quicker, as those of the lower Jaw;
+others slower, as the <HI>Fontanella</HI> of the
+Head.</P>
+<P><MILESTONE N="9"/> The Ninth and last Difference is
+drawn from their Cavities,<NOTE PLACE="marg">From their Cavities.</NOTE> for some
+have great ones, and contain Marrow,
+<PB N="13" REF="12"/>
+as the Bones of the Extremities; and
+there be others which have no mani∣fest
+Cavity, but only Porosities;
+which contain a Meduller Juice, as
+those of <HI>Tarsus, Carpus, &amp;c.</HI> some
+have holes, by which Vessels pass and
+repass, as those in the <HI>Basis</HI> of the
+<HI>Cranium</HI> and <HI>Vertebrae;</HI> others have
+only Trenches or Furrows, as those of
+the <HI>Sternon,</HI> Ribs; others have Si∣nesses,
+as the <HI>Os Frontis,</HI> and <HI>Ossa Pe∣trosa;</HI>
+lastly, some are pierced like
+the holes in a Seive, as the <HI>Os Cibri∣forme.</HI></P>
+<P>The things to be consider'd in the
+Doctrine of each Bone are three;<NOTE PLACE="marg">Threetian's consider'd in the Bones.</NOTE>
+1. The Apophisis. 2. Epiphisis. And
+3. Cavities, Furrows, and Sinusses.</P>
+<P>First,<NOTE PLACE="marg">Apophysis, of Process.</NOTE> The Bones not being of one <MILESTONE N="1"/>
+even Form, or Figure, have at their
+Extremities several Prominencies, or
+Protuberancies, which are of two
+sorts, the one is a continued part of
+the Bone jetting manifestly out, above
+its superficies, ordain'd for the more
+commodious and strong insertion of
+<PB N="14" REF="13"/>
+the Tendons of the Muscles, and is
+call'd an Apophysis, or Process.</P>
+<P><MILESTONE N="2"/> The Second is an additional Bone
+growing to another by immediate
+contiguity,<NOTE PLACE="marg">Epiphysis, or Apendage.</NOTE> as if Nature had forgot
+to make the Bone long enough, and is
+generally more porous than the Bone
+it self; which will separate if you
+boil in Oil, for they will not separate
+if boil'd in Water never so long, un∣less
+the Subject be very young, it's
+call'd an Apendage, or Epiphisis;
+this in young Bodies may sometimes
+by great force be separated from the
+rest of the Bone, or to speak impro∣perly,
+Dislocated.</P>
+<P>If this Protuberance be round, it's
+call'd <HI>Caput,</HI> under which is the <HI>Cer∣vix,</HI>
+as in the superior part of the <HI>Os
+Femoris;</HI> if it be flat, <HI>Cordilus;</HI> if
+sharp, <HI>Corone;</HI> others from their fi∣gure
+are call'd Styloides, Mostoides,
+Coracoides, Ancyroides, <HI>&amp;c.</HI></P>
+<P>Embrions have not these Protube∣rances
+so large; for except some very
+few large ones, they are hardly vi∣sible.</P>
+<P><PB N="15" REF="13"/>
+These Protuberances are either Na∣tural,
+as the <HI>Spina</HI> of the <HI>Scapula;</HI> the
+rest are only Accidental.</P>
+<P>The Accidental Protuberances of
+the Bones,<NOTE PLACE="marg">Cause of the Protuberan∣ces.</NOTE> (which are only manifest
+when the Bones are perfect) are cau∣sed
+by the Tendons of the Muscles or
+Ligaments, which always are inser∣ted
+there; for the stringy Filaments
+of the Tendons and Ligaments, en∣tring
+into the Bones (while soft)
+between their stringy threads, cause
+them to inlarge there into a bulk,
+which it must do of necessity, there
+being a double portion of Fibres uni∣ted
+together; which are all Ossified
+as the bony Liquor increases.</P>
+<P>It's a general Note, that where you
+find such Protuberances, some Liga∣ments
+or Tendons of Muscles are in∣serted
+there; although these Protube∣rances
+seem only to be accidental,<NOTE PLACE="marg">Vses of the Protuberan∣ces.</NOTE> yet
+they have many uses; first, by them
+the Muscles have a greater force to
+lift or pull up the Part. Secondly,
+they are of use to inlarge the Extremi∣ties
+of the Bones, that the Body be
+sustain'd.</P>
+<P><PB N="16" REF="14"/>
+<MILESTONE N="3"/> The next part of the Bones,<NOTE PLACE="marg">Cavities of three sorts.</NOTE> that
+come under our Consideration, are
+the Cavities, which are either Exter∣nal
+or Internal: These Cavities are of
+three sorts, Holes, or <HI>Foramina;</HI>
+Trenches, or Furrows, and Sinusses.</P>
+<P><MILESTONE N="1"/> A <HI>Foramina,</HI><NOTE PLACE="marg">Foramina, or holes.</NOTE> or Hole, is a Cavity
+which is perforated in a Bone, or
+made up of two Bones join'd together,
+as may be seen in the <HI>Basis</HI> of the <HI>Cra∣nium,</HI>
+lower Jaw, <HI>Vertebrae</HI> of the
+Ribs. They are design'd for the pas∣sage
+of the Vessels and Nerves, which
+pass through them, also the great
+Cavity of the <HI>Ischium</HI> may be call'd
+a Hole.</P>
+<P><MILESTONE N="2"/><HI>A Trench,</HI><NOTE PLACE="marg">Trenches, or Furrows.</NOTE> or Furrow, is not a Ca∣vity
+through the Bone, but only a
+deep hole, or hollowness, long, or
+round, as the orbit of the Eye, <HI>&amp;c.</HI>
+sometimes very shallow, as those in
+the inside of the <HI>Cranium, &amp;c.</HI> some
+of a mean between both, as those in
+the Joints, to receive the Protube.
+rances of other Bones; some call these
+Sinusses, but improperly.</P>
+<P><MILESTONE N="3"/> A <HI>Sinus</HI> is a sort of Cavity in a Bone,<NOTE PLACE="marg">Sinusses.</NOTE>
+whereof the Orifice or Entrance is ve∣ry
+<PB N="17" REF="14"/>
+strait, and the bottom large, such
+are in the Frontal Bone, <HI>&amp;c.</HI></P>
+<P>I shall declare the use of all these
+Cavities, when I Treat of each Bone
+in particular.</P>
+<P>All the long Bones of the Body are
+hollow in the inside towards the mid∣dle,<NOTE PLACE="marg">All long Bones hol∣low.</NOTE>
+and contain a Marrow, which is
+only a heap of Membranous Vesicule,
+full of a fatty or oily Substance, call'd
+Meduller Glands; which,<NOTE PLACE="marg">Meduller Glands.</NOTE> as I obser∣ved
+before, separated the more oily
+Particles from the Blood, so that the
+more salfish only remain'd, which has
+the Ossific Virtue of rendering the
+Bones hard: The Ends or Extremities
+are porous, somewhat like a Pumice
+Stone, containing a Meduller Juice,<NOTE PLACE="marg">Meduller Juice.</NOTE>
+like thin Oil, and have very few
+Glands; it's probable that the Liga∣mentous
+strings entring the top of the
+Bones, divide and scatter the bony
+threads, which make it so porous.</P>
+<P>The External Superficies of all
+Bones have a certain solid <HI>Cortex.</HI><NOTE PLACE="marg">Solid Cor∣tex in all Bones.</NOTE></P>
+<P>All the External Cavities which
+serve for Articulation, have at their
+Circumference an Eminence call'd a
+<PB N="18" REF="15"/>
+Lip, to which is fastned a Circular
+Ligament, which embracing the Head
+of the received Bone, fortifies the Ar∣ticulation.</P>
+<P>As for each particular Process and
+Cavity, we shall describe them in
+the Demonstrations of each particular
+Bone.</P>
+<P>Before I mention the Articulation
+of the Bones, I think it convenient to
+observe these things.</P>
+<P>First,<NOTE PLACE="marg">The Bones not of the same big∣ness in Wo∣men as in Men.</NOTE> All the Bones are not of the
+same greatness, and that not only in
+Persons of different Stature, but also
+in those of an equal Height, or Sta∣ture;
+for some of these have their
+Bones smaller than others, and it's
+Beauty consists (as some have said it
+does) in the delicateness and small∣ness
+of the Bones, then Women have
+all the Reason imaginable to have a
+better Shape and Symetry than Men,
+by reason their Bones are smaller; the
+Bones also of their Face are finer and
+more smooth.</P>
+<P>There's also a great difference be∣tween
+the Bones of the <HI>Ossa Innomina∣ta,</HI><NOTE PLACE="marg">Difference of the Ossa in∣nominata.</NOTE>
+<PB N="19" REF="15"/>
+which makes the <HI>Pelvis.</HI> In Men
+they are less and more unequal, but
+in Women larger, and smoother, to
+have a greater space to contain the
+Womb; also a Woman's <HI>Os Sacrum</HI>
+inclines more backwards than a Man's
+which makes their Buttocks more
+large.</P>
+<P>We must also observe a difference in
+the Bones,<NOTE PLACE="marg">Difference of the Bones according to Age.</NOTE> according as we grow in
+Years; for from the Birth to the twen∣tieth
+Year, or thereabouts, the Bones
+continually increase, and from that to
+the sixtieth they continue in the same
+stay, neither increasing or diminish∣ing;
+but after that they daily dimi∣nish,
+by reason of the bony Fibres dry∣ing,
+approach nearer one another,
+and so must consequently have a less
+bulk.</P>
+<P>The Colour of the Bones is not a∣like
+in all;<NOTE PLACE="marg">Difference from the Colour.</NOTE> for some have them very
+white, others less, but some almost
+greyish; so that if you take the same
+Pains in whitening two or three Ske∣letons,
+yet one will be doubtless whi∣ter
+than the other.</P>
+<P><PB N="20" REF="16"/>
+It's true,<NOTE PLACE="marg">Periostion.</NOTE> as I have observed before,
+that the Bones have no sense; yet
+they are Invested with a very sensible
+Membrane, call'd <HI>Periostion,</HI> as if
+we should say a Membrane over or
+inversing the Bone, it's very thin;
+all Bones have this, except the Teeth.
+I think there's a great Question about
+its Use.<NOTE PLACE="marg">Vse.</NOTE> Some affirm it's to convey
+bloody Vessels to the Bones; but its
+rather believed to be for the greater
+implantation of the Tendons of the
+Muscles; for when you separate the
+<HI>Periostion,</HI> the Muscle comes off with
+it.</P>
+<P>I shall now proceed to the manner
+of the Articulation of the Bones;
+there's such Art in the Conjunctions
+of the Bones,<NOTE PLACE="marg">Articulati∣on of the Bones.</NOTE> that they have served as
+a pattern to many Artizans in their
+Curious Works; for they could find
+nothing in Nature more fit to copy by;
+and although there be so many vari∣ous
+ways of Articulation, as almost
+Junctures, yet they are all necessary,
+otherwise Man could never move him∣self
+every way so compleatly as he
+does.</P>
+<P><PB N="21" REF="16"/>
+The Bones join'd together have ei∣ther
+motion, or none, the former is
+call'd Articulation, the latter <HI>Symphy∣sis,</HI>
+Or growing together.</P>
+<P>Articulation,<NOTE PLACE="marg">Articulation twofold.</NOTE> is either for manifest,
+or obscure motion: The first is call'd
+<HI>Diarthrosis,</HI> or loose Articulation, the
+other <HI>Synarthrosis,</HI> or more close and
+compact.</P>
+<P>Diarthrosis <HI>is Threefold, 1. Enar∣throsis.</HI><NOTE PLACE="marg">1. Diar∣throsis <HI>threefold.</HI></NOTE>
+2. <HI>Anthrodiae. 3. Gyngli∣mus.</HI></P>
+<P>1. <HI>Enarthrosis,</HI><NOTE PLACE="marg">Enarthro∣sis.</NOTE> is when a large
+Head is received into a deep Cavity,
+as the <HI>Os Femoris</HI> in the <HI>Acetabulum</HI>
+of the <HI>Ossa Innominata.</HI></P>
+<P>2. <HI>Arthrodia,</HI><NOTE PLACE="marg">Arthrodia.</NOTE> is when the Cavity
+is shallow, and the Head of the re∣ceived
+Bone also shallow and flattish,
+as the <HI>Os Humeri,</HI> with the <HI>Scapula,</HI>
+and the Bones of the <HI>Metacarp</HI> and
+<HI>Metatarse;</HI> with the first <HI>Phalanx</HI> of
+the Fingers and Toes.</P>
+<P>Now the Bones which are Articu∣lated
+by <HI>Enarthrosis,</HI> and <HI>Arthrodia,</HI>
+are capable of all sorts of motion, as
+upwards, downwards, forwards,
+<PB N="22" REF="17"/>
+backwards, and circularly; yet the
+deeper the Cavity, and the more bony
+the Edges are, the motion is render'd
+more slow, and not so brisk and nim∣ble
+as when the Cup is not so deep;<NOTE PLACE="marg">These two all sorts of motion.</NOTE>
+this is seen in the <HI>Os Femoris,</HI> and <HI>Ace∣tabulum,</HI>
+for the <HI>Os Humeri</HI> being in∣serted
+in a more shallow Cup, is ca∣pable
+of all sorts of motion, and that
+to a great degree, yet about the Cup
+or the <HI>Scapula</HI> there are several Carti∣lages,
+which make it seem as deep as
+the <HI>Acetabulum,</HI> but at the same time
+by giving way, hinders not the very
+free motion of the <HI>Humerus.</HI></P>
+<P><HI>Ginglimus,</HI><NOTE PLACE="marg">Ginglimus <HI>threefold.</HI></NOTE> is when the same Bone
+both receives, and is received, and is
+Threefold. 1. <HI>Ginglimus Proximus.</HI>
+2. <HI>Longus. 3. Compositus.</HI></P>
+<P>1. <HI>Ginglimus Proximus,</HI><NOTE PLACE="marg">Proximus.</NOTE> is when a
+Bone is received by another, and re∣ceives
+the same, as the lower part of
+the <HI>Os Humeri,</HI> and <HI>Ʋlna.</HI></P>
+<P>2. <HI>Ginglimus Longus,</HI> is when two
+Bones are join'd together according to
+their length,<NOTE PLACE="marg">Longus.</NOTE> so that the one Bone ha∣ving
+a Cavity in its side towards the
+<PB N="23" REF="17"/>
+end, receives the head of the other,
+which has a Cavity likewise at its o∣ther
+Extremity, to receive a Protube∣rance
+of the first Bone, as the <HI>Radius</HI>
+and <HI>Ulna.</HI></P>
+<P>2. <HI>Ginglimus Compositus,</HI><NOTE PLACE="marg">Composi∣tus.</NOTE> is when a
+Bone receives one, and is received by
+another, as in some of the <HI>Vertebrae</HI> of
+the Back, where one receives the up∣per,
+and is received by the lower:
+<HI>Ginglimus Compositus,</HI> is also when a
+long Process of a Bone is inserted into
+another above it, and so turns in the
+Cavity as an <HI>Axis</HI> in a Wheel, as the
+second <HI>Vertebra</HI> of the Neck with the
+first.</P>
+<P>As <HI>Enarthrosis,</HI> and <HI>Arthrodia,</HI><NOTE PLACE="marg">Ginglimus <HI>for Flexion and Exten∣sion ouly.</HI></NOTE> serve
+for all sorts of motion, <HI>Ginglimus</HI>
+serves only for Flexion, and Extensi∣on;
+yet in the <HI>Radius</HI> and <HI>Vlna</HI> it
+serves for Pronation and Supination.</P>
+<P>When a Bone is join'd by double
+<HI>Arthrodia,</HI> it makes a sort of <HI>Gingli∣mus,</HI>
+as may be seen in the lower
+Jaw.</P>
+<P><HI>Synarthrosis,</HI><NOTE PLACE="marg">Synarthro∣sis.</NOTE> or obscure motion, is
+in the Ribs which have a little motion
+in their ends towards the <HI>Vertebrae</HI> in
+<PB N="24" REF="18"/>
+Respiration; also most of the Bones of
+the <HI>Tarsus</HI> and <HI>Carpus,</HI> which in great
+pressure give way a little, for the
+more easie motion of the Part.</P>
+<P><HI>Symphysis,</HI><NOTE PLACE="marg">2. Symphy∣sis <HI>Three∣fold.</HI></NOTE> is only when the Bones
+are united without any motion at all,
+and is Threefold, as <HI>Sutura, Harmonia,</HI>
+and <HI>Gomphosis.</HI></P>
+<P>1. <HI>Sutura,</HI><NOTE PLACE="marg">Sutura.</NOTE> is when the Bones are
+united together in their edges by little
+Points, or Teeth (as it were) un∣equally,
+as may be seen in the Bones
+of the <HI>Cranium.</HI></P>
+<P>2. <HI>Harmonia,</HI><NOTE PLACE="marg">Harmonia.</NOTE> is an union of the
+Bones by a simple Line only, either
+streight or curved, as the Bones of the
+Nose, Face, Palate; but this is only
+in their outward part, for we always
+find them Internally Serratil, or Su∣ture
+like.</P>
+<P>3. <HI>Gomphosis,</HI><NOTE PLACE="marg">Gompho∣sis.</NOTE> is when one Bone is
+fastned in another, as a Nail in Wood,
+so are the Teeth in the Jaws.</P>
+<P>Some add to the <HI>symphysis</HI> several
+other sorts of Articulations, as <HI>Syn∣chondrosis, Syssarcosis, syneurosis, vel
+Syntenosis.</HI></P>
+<P><PB N="25" REF="18"/>
+<HI>Synchondrosis,</HI><NOTE PLACE="marg">Synchon∣drosis.</NOTE> is when a Cartilagi∣nous
+Substance interveens, as may be
+seen in the middle of the lower Jaw;
+which in young are two distinct
+Bones, but as the Ossific Liquor pre∣dominates,
+grow one; also the <HI>Ossa
+Pubis</HI> are united by it, so are the Bo∣dies
+of the <HI>Vertebrae</HI> one to another.</P>
+<P><HI>Syssarcosis,</HI><NOTE PLACE="marg">Syssarcosis.</NOTE> is when a Bone is fastned
+by Means of Flesh only, as the <HI>Os Hy∣oides</HI>
+in the Mouth, and the <HI>Scapula</HI> to
+the Ribs.</P>
+<P><HI>Syneurosis,</HI><NOTE PLACE="marg">Syneurosis.</NOTE> <HI>vel Syntenosis,</HI> is when
+Bones are united together by means
+of Ligamentous Parts, as the <HI>Rotula</HI>
+with the Bones of the Legs; but I
+think these are not properly Articula∣tions.</P>
+<P>The Bones of the Body in an Adult,<NOTE PLACE="marg">Number 245.</NOTE>
+are accounted 245. For Example, the
+Head has 64, the Trunk 57, the Arms
+and Hands 64, the Legs, <HI>&amp;c.</HI> 60,
+which makes in all 243. Some per∣haps
+may wonder why the Great Crea∣tor
+composed such a number of Bones;
+I Answer, how could the Hand or
+Arm perform all the Actions it does,
+and put it self in so many Thousand
+<PB N="26" REF="19"/>
+Postures, had it not many Junctures
+and Articulations? For had the Part
+been compos'd but of one or two
+Bones, how Lame and Preposterously
+would it have acted? The same may
+be said of the Legs, <HI>&amp;c.</HI> And if the
+<HI>Spine</HI> had not been made up of such a
+number of <HI>Vertebrae,</HI> how could we
+have bent, or mov'd it as we do? It
+was therefore convenient and necessa∣ry
+for the Perfection of Man and his
+Functions, to have as many Bones as
+he has.</P>
+<P>The Head,<NOTE PLACE="marg">Head 64.</NOTE> as I said, is made up of
+64 Bones, which are thus number'd,
+6 proper of the Skull, 8 of the Ears,
+4 in each, 3 Common of the Skull;
+Face 11, with the <HI>Vomer; Os Hyoid</HI> 1,
+lower Jaw 1, though some make it 2,
+Teeth about 32, which make 62;
+but if you add the <HI>Ossa Spongiosa,</HI> they
+make 64.</P>
+<P>The Trunk consists of 57 Bones;<NOTE PLACE="marg">Trunk 57.</NOTE>
+<HI>Vertebrae</HI> 25, as 7 of the Neck, 12 of
+the Back, 5 in the Loins, and 1 in the
+<HI>Os Sacrum,</HI> which some say is made
+up of 5; 3 in the <HI>Coccyx,</HI> Ribs 24,
+<HI>Sternon 3, Ossa Innominata</HI> 2, which
+<LIST>
+<PB REF="19"/>
+<PB REF="20"/>
+<HEAD>A Table of the BONES.</HEAD>
+<ITEM>The Bones of
+the Body
+are those;
+of the
+<LIST>
+<ITEM>Head,
+<LIST>
+<ITEM>Whose Parts are ei∣ther
+of the <HI>Cra∣nium,</HI>
+which has,
+<LIST>
+<ITEM>Proper Bones 6,
+as,
+<LIST>
+<ITEM>Os Frontis 1.</ITEM>
+<ITEM>Ossa Sincipitis 2.</ITEM>
+<ITEM>Occipitis 1.</ITEM>
+<ITEM>Temporum 2.
+<LIST>
+<ITEM>In whose <HI>Foramina
+Auditoria</HI> are 8
+Bones, 4 in each
+<LIST>
+<ITEM>Malleus.</ITEM>
+<ITEM>Stapes.</ITEM>
+<ITEM>Incus.</ITEM>
+<ITEM>Os Orbiculare.</ITEM>
+</LIST></ITEM>
+</LIST></ITEM>
+</LIST></ITEM>
+<ITEM>Common Bones 3▪
+<LIST>
+<ITEM>Os Sphenoides.</ITEM>
+<ITEM>Os Cribriforme.</ITEM>
+<ITEM>Os Jugale.
+<LIST>
+<ITEM>To which is annex'd;
+<HI>Ossa Spongiosa</HI> 2.</ITEM>
+</LIST></ITEM>
+</LIST></ITEM>
+<ITEM>Of the Bones of the
+Face,
+<LIST>
+<ITEM>In the Superior
+part are 11
+Bones; 5 pair
+and an odd one,
+Upper Jaw.
+<LIST>
+<ITEM>Ossa Triangularia.</ITEM>
+<ITEM>Ossa Lachrimalia.</ITEM>
+<ITEM>Ossa Malae.</ITEM>
+<ITEM>Ossa Nasi.</ITEM>
+<ITEM>Ossa Palati.</ITEM>
+<ITEM>Os Vomer.</ITEM>
+</LIST></ITEM>
+<ITEM>Lower Jaw 1.
+<LIST>
+<ITEM>Teeth in both
+Jaws 32.
+<LIST>
+<ITEM>Incisorii 8.</ITEM>
+<ITEM>Canini 4.</ITEM>
+<ITEM>Molares 20.</ITEM>
+</LIST></ITEM>
+</LIST></ITEM>
+</LIST></ITEM>
+</LIST></ITEM>
+<ITEM>To which is Annexed, the <HI>Os Hyoides,</HI>
+join'd by <HI>Syssarcosim.</HI></ITEM>
+</LIST></ITEM>
+<ITEM>Spine, in
+which are
+the Bones of
+the
+<LIST>
+<ITEM>Neck, in which are 7 <HI>Vertebrae.</HI></ITEM>
+<ITEM>Breast, divided in∣to
+the
+<LIST>
+<ITEM>Fore-part, in which
+are,
+<LIST>
+<ITEM>Clavicles 2.</ITEM>
+<ITEM>Ossa Pectoris 3.</ITEM>
+</LIST></ITEM>
+<ITEM>Lateral-part, in
+Which are,
+<LIST>
+<ITEM>Ribs 24.</ITEM>
+</LIST></ITEM>
+<ITEM>Back-part, in which
+are,
+<LIST>
+<ITEM>Scapulae 2.</ITEM>
+<ITEM>Vertebrae 12.</ITEM>
+</LIST></ITEM>
+</LIST></ITEM>
+<ITEM>Loins, divided in∣to
+the
+<LIST>
+<ITEM>Fore-part, in which
+are,
+<LIST>
+<ITEM>Ossa Pubis 2.</ITEM>
+</LIST></ITEM>
+<ITEM>Lateral-part,
+in which are,
+<LIST>
+<ITEM>Ossa Ilia 2.</ITEM>
+<ITEM>Ossa Coxendicis 2.
+<LIST>
+<ITEM>These join'd toge∣ther
+in Adults,
+make up the <HI>Ossa
+Innominata.</HI></ITEM>
+</LIST></ITEM>
+</LIST></ITEM>
+<ITEM>Back-part, in which
+are,
+<LIST>
+<ITEM>Lumborum Vertebrae 5.</ITEM>
+<ITEM>Os Sacrum, which some make 5.</ITEM>
+<ITEM>Ossa Coccygis 3.</ITEM>
+</LIST></ITEM>
+</LIST></ITEM>
+<ITEM>Limbs, which
+are either,
+<LIST>
+<ITEM>Superior, or Hands,
+divided into
+<LIST>
+<ITEM>Os Humeri 2.</ITEM>
+<ITEM>Cubitus ejus
+<LIST>
+<ITEM>Radius</ITEM>
+<ITEM>Vlna</ITEM>
+</LIST></ITEM>
+<ITEM>Lower-part, or
+Hand, strictly so
+called, whose
+Parts are,
+<LIST>
+<ITEM>The Wrist 8.</ITEM>
+<ITEM>Metacarpus 4.</ITEM>
+<ITEM>Fingers 15.
+<LIST>
+<ITEM>Three in each.</ITEM>
+</LIST></ITEM>
+<ITEM>To which are annex'd, some Ossa Sesamoidea.</ITEM>
+</LIST></ITEM>
+</LIST></ITEM>
+<ITEM>Inferior, or Feet,
+divided into
+<LIST>
+<ITEM>Bones of the
+<LIST>
+<ITEM>Thigh</ITEM>
+<ITEM>Patella</ITEM>
+</LIST></ITEM>
+<ITEM>Leg, strictly so
+call'd,
+<LIST>
+<ITEM>Tibia</ITEM>
+<ITEM>Fibula</ITEM>
+</LIST></ITEM>
+<ITEM>Lower-part, or
+Foot, strictly so
+call'd in which
+is
+<LIST>
+<ITEM>Tarsus, Bones 7.</ITEM>
+<ITEM>Metatarsus 5.</ITEM>
+<ITEM>Fingers or Toes 14.</ITEM>
+<ITEM>To which are annex'd, Ossa Sesamoidea.</ITEM>
+</LIST></ITEM>
+</LIST></ITEM>
+</LIST></ITEM>
+</LIST></ITEM>
+</LIST></ITEM>
+</LIST>
+<PB REF="21"/>
+<PB REF="22"/>
+<PB N="27" REF="22"/>
+makes up the number of 57.—I once
+saw a Skeleton which had 13 Ribs on
+each side.</P>
+<P>The upper Extremities, or Limbs,
+consist of 64 Bones,<NOTE PLACE="marg">Vpper Limbs 64.</NOTE> taking in the <HI>Cla∣viculae,</HI>
+which I think we ought to do,
+since much of the motion of the Arms
+depends on them; there's 32 Bones in
+each Arm then, as <HI>Clavicula, Scapula,
+Os Humerus, Radius,</HI> and <HI>Vlna;</HI> 8
+Bones of the <HI>Carpus,</HI> 4 of the <HI>Metacarp;</HI>
+and Bones of the Fingers 15, 3 in
+each, accounting the Thumb as one
+Finger, which added to the other Arm
+makes 64.</P>
+<P>The Lower Extremities consists of
+60,<NOTE PLACE="marg">Lower Limbs 60.</NOTE> that is, 30 in each; as the <HI>Os
+Femoris, Rotula, Tibia,</HI> and <HI>Fibula;</HI>
+7 in the <HI>Tarsus,</HI> 5 in the <HI>Metatarsus,</HI>
+and 14 in the Toes, which makes to∣gether
+with the other Leg 60.</P>
+<P>Some augment the number, who
+make many of the <HI>Os Hyoides,</HI> 3 of the
+<HI>Os Innominatum,</HI> 2 of the lower Jaw,
+5 of the <HI>Os Sacrum,</HI> and add the <HI>Ossa
+Sesamoidea,</HI> which are not often found,
+and then for the most part in the great
+Toes, which would then make up a∣bove
+250.</P>
+<P><PB N="28" REF="23"/>
+I am come now to the last Conside∣ration
+of the Bones in General,<NOTE PLACE="marg">Vse of the Bones.</NOTE> which
+is their Use.</P>
+<P>They have many Uses; 1. They
+serve for the support of the Body, be∣ing
+as so many Beams or Pillars in a
+House. 2. For the Defence of some
+Noble Part, as the Skull for the Brain,
+Ribs for the Heart, Lungs, <HI>&amp;c. Ossa
+Innominata</HI> and <HI>Sacrum,</HI> which make
+the <HI>Pelvis</HI> for the Womb, Bladder, <HI>&amp;c.</HI>
+3. For the Progression and Motion of
+the Animal, of which with the Mus∣cles,
+they are the only Instruments.
+4. To give Shape and Figure to the
+whole Body; these are the General
+Uses, as for their Particular, we shall
+speak of them in the Demonstration
+of each particular Part.</P>
+</DIV2>
+<DIV2 N="2" TYPE="demonstration">
+<PB N="29" REF="23"/>
+<HEAD>Demonstration II.</HEAD>
+<HEAD TYPE="sub">Of the Bones of the Skull.</HEAD>
+<P>WE now come to the Doctrine of
+the Bones in particular;<NOTE PLACE="marg">Skeleton di∣vided into three parts.</NOTE> we di∣vide
+the Skeleton into three parts, as
+the Head, Trunk and Limbs.</P>
+<P>By the Head we understand not on∣ly
+all the Bones of the Skull, but also
+those of the Face, even from the <HI>Ver∣tix</HI>
+to the first <HI>Vertebra</HI> of the Neck;
+by the Trunk all that composes the
+Neck, Back, Loins, <HI>Os Sacrum, Ossa
+Innominata, Sternon, &amp;c.</HI> By the
+Limbs those which make up the Arms
+and Legs, generally so called; of all
+which in order. The Head is subdi∣vided
+into the Skull, properly so cal∣led,
+and the Face.</P>
+<P>The Skull (I mean that upper part
+whose Bones compose,<NOTE PLACE="marg">Figure of the Skull.</NOTE> and make up
+a large Cavity, which contains the
+Brain, in which you must consider its
+Figure altogether) is globous, some∣what
+<PB N="30" REF="24"/>
+what long, but flattish towards the
+sides, for the better Situation of the
+Temporal Muscles; which being on,
+make it look more round.</P>
+<P>All the Bones of the Skull are made
+up of two <HI>Laminae</HI> or Plates,<NOTE PLACE="marg">Skull, two Tables.</NOTE> call'd
+Tables, one Internal, the other Ex∣ternal,
+between which lyes a Medul∣lar
+Juice, of a reddish Colour, call'd
+the Pith,<NOTE PLACE="marg">Diploe, what.</NOTE> or Diploe, which is very
+discernable in young Persons; but as
+we grow in Years, the Ossific Liquor
+invading, it bonifies.</P>
+<P>The Exterior and Superior Superfi∣cies
+of the <HI>Cranium;</HI> is very smooth,
+and polished, having few inequalities;
+but where the Sutures are, the Inter∣nal
+Superior Superficies is not so equal,
+having many little <HI>Sulci,</HI> or Furrows,
+which are caused by the Vessels of the
+<HI>Dura Mater,</HI> when the Skull is but
+Membranous, being then capable of
+receiving any Impression, that the
+Pulsation of the Vessels give it,<NOTE PLACE="marg">Cause of the Furrows.</NOTE> so
+make themselves Furrows; but its
+Internal Inferior Part is very unequal,
+by reason of the many Productions
+and Cavities found there.</P>
+<P><PB N="31" REF="24"/>
+The <HI>Cranium</HI> has many <HI>Foramina,</HI><NOTE PLACE="marg">Foramina <HI>in General.</HI></NOTE>
+which give way or passage to the Ves∣sels
+sels passing and repassing, which fill
+up these holes so close, that no Fumes
+or Vapours, as the Antients believed,
+can get in, or come forth, unless by
+the Vessels themselves: we will shew
+all these holes, at the latter end of this
+Demonstration.</P>
+<P>It's a Question,<NOTE PLACE="marg">The bigness of the <HI>Cra∣nium,</HI> de∣pends on the Brain.</NOTE> whether it be the
+<HI>Cranium,</HI> which gives greatness to the
+Brain; or whether the Brain gives
+form to the <HI>Cranium,</HI> I Answer, that
+the bigness of the <HI>Cranium</HI> depends on
+that of the Brain, for two Reasons;
+First, the <HI>Cranium,</HI> while Membra∣nous,
+especially towards the Sutures,
+extends it self more or less, as the Brain
+increases: The Second, is that the
+<HI>Cranium</HI> is not totally Ossified till the
+Brain is arrived to its full Magnitude;
+for we see in an Infant new-born,
+that although the Brain be perfect,
+yet at the same time, the <HI>Cranium</HI> is
+only Cartilaginous about the Sutures;
+though bony in the middle of every
+Bone, nay, the <HI>Fontanella</HI> does not Os∣sifie
+under some Years; from whence
+<PB N="32" REF="25"/>
+also it is, that in Labour these Bones,
+as I have before observed, give way,
+and fold over one another, for the
+more easie <HI>exit</HI> of the Infant out of the
+Womb.</P>
+<P>The Bones of the <HI>Cranium</HI> are join'd
+together by Sutures,<NOTE PLACE="marg">Sutures, twofold.</NOTE> which are of two
+sorts, true, or false; or to speak more
+properly, common, or proper.</P>
+<P>The Proper are Eight.<NOTE PLACE="marg">Proper, three.</NOTE></P>
+<P><MILESTONE N="1"/> 1. <HI>Coronalis,</HI><NOTE PLACE="marg">Coronalis.</NOTE> (<HI>vel Frontalis</HI>) because
+the Antients used to wear their Gar∣lands
+on that part of the Head, it
+reaches from one Temporal Bone to
+the other, joining the <HI>Os Frontis</HI> to
+the <HI>Ossa Parietaria.</HI></P>
+<P><MILESTONE N="2"/> 2. <HI>Lambdoides</HI> being like the Greek
+Letter <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>,<NOTE PLACE="marg">Lambdoi∣des.</NOTE> others call it <HI>Triangularis;</HI>
+this Suture is seldom wanting, what∣ever
+the rest are; it begins at the <HI>Basis</HI>
+of the <HI>Os Occipitis,</HI> and ascends ob∣liquely
+to the middle of the back-part
+of the Head, and descends again to
+the other side of the Head; the Point
+in the middle is call'd <HI>Vertix,</HI><NOTE PLACE="marg">Vertix, <HI>what.</HI></NOTE> by rea∣son
+the Hair on the Scalp commonly
+turns there; it joins the Occipital Bone
+<PB N="33" REF="25"/>
+to the Bones of the Temples, and <HI>Ossa
+Parietaria.</HI></P>
+<P>3. <HI>Sagittalis,</HI><NOTE PLACE="marg">Sagittalis.</NOTE> because it runs length∣ways <MILESTONE N="3"/>
+as an Arrow; it begins at the
+<HI>Vertix</HI> of the <HI>Sutura Lambdoides,</HI> and
+marching strait forwards to the mid∣dle
+of the Coronal Suture; in Chil∣dren
+it divides the Coronal Bone, and
+goes quite to the Nose, which as we
+grow in Years vanishes; yet I have
+seen it in the <HI>Cranium</HI> of some A∣dults.</P>
+<P>The Sutures being so united toge∣ther,
+make up a Figure almost like
+this )—&lt;.</P>
+<P>Some of our Modern Anatomical
+Professors, will have the Sutures to
+be Serratil only in the Superior Ta∣ble,
+but join'd by Harmony in the
+Lower, but it's always found to the
+contrary.</P>
+<P>The Common are Five,<NOTE PLACE="marg">Common, five.</NOTE> or more;
+these are the Chief, 1. The Suture
+<HI>Squamose,</HI><NOTE PLACE="marg">Squamosae.</NOTE> or Scale-like, because ap∣ply'd
+as one Scale on another; they
+are two, one on each side, which a∣rise
+from the outside of the Mastoid∣process,
+and circumscribing the Tem∣ple-bones,
+<PB N="34" REF="26"/>
+descend Circularly to∣wards
+the <HI>Basis</HI> of the Ears.</P>
+<P>Whatever Anatomists say, I think
+them true Sutures, being Serratil as
+well Internally, as Externally.</P>
+<P>2. <HI>Orbalis,</HI><NOTE PLACE="marg">Orbalis.</NOTE> it begins at the top of
+the <HI>Sutura Squamosa,</HI> and descending
+obliquely towards the Orbit of the
+Eye, crosses on the top of the Nose,
+so passes over the other Eye, and
+so on to the other Squamous Suture.</P>
+<P>3. <HI>Nasalis,</HI><NOTE PLACE="marg">Nasalis.</NOTE> which divides the Bones
+of the Nose.</P>
+<P>4. <HI>Sutura Basilaris,</HI><NOTE PLACE="marg">Basilaris.</NOTE> which separates
+the other Bones from the <HI>Os Basilare.</HI></P>
+<P>5. <HI>Sutura Ethmoides,</HI><NOTE PLACE="marg">Ethmoides</NOTE> <HI>seu Cribrifor∣mis,</HI>
+dividing this Bone from the <HI>Os
+Frontis;</HI> some say that these Four last
+are rather <HI>Harmonia,</HI> than <HI>Sutura,</HI> but
+Demonstration shews the contrary.</P>
+<P>The Sutures have many uses,<NOTE PLACE="marg">Vse of the Sutures.</NOTE> the
+principal are these; 1. Many Liga∣mentous
+Fibres pass through them
+from the <HI>Dura Mater</HI> to the <HI>Pericrani∣um,</HI>
+which suspends the <HI>Dura Mater,</HI>
+so are a sort of hinderance of too vio∣lent
+Concussions of the Brain, in any
+great motions of the Body; for by
+<PB N="35" REF="26"/>
+these Fibres the Brain is kept more
+light; it's by this Communication,
+that when the <HI>Pericranium</HI> is wound∣ed,
+an Inflammation often arises in
+the <HI>Dura, Mater,</HI> as if it had received
+some offence it self: These Fibres also,
+by suspending the <HI>Dura Mater,</HI> and
+keeping it close to the Interior Surface
+of the <HI>Cranium,</HI> the Arteries in the
+Cortical part have a freer motion,
+which would be somewhat impeded,
+if it fell on the Brain. 2. They give
+passage to several Vessels, that are pas∣sing
+and repassing to the Diploe, for the
+Nourishment of the Bones of the <HI>Cra∣nium.</HI>
+3. They are of use in hinder∣ing
+Fractures from passing further
+than one Bone, for they always stop
+at the Sutures, which if the Skull were
+but one continued Bone, the Fracture
+would be apt to run over all the <HI>Cra∣nium,</HI>
+as may be seen daily in any
+Earthen or Glass Vessel, when crackt
+by a stroke, it commonly runs almost
+quite over, or round. Some say, a
+fourth Use is, to give a vent or breath∣ing
+to many Fuliginous Vapours ga∣ther'd
+within the <HI>Cranium,</HI> but I much
+<PB N="36" REF="27"/>
+question this use; yet some say, that
+many who have had their Sutures too
+close, have been subject to insuppor∣table
+Head-aches, Transpiration ha∣ving
+been stopt, as they say; but I
+rather think it proceeded from the
+pressure of the Vessels which pass
+through them, which causing an Ob∣struction
+of the flowing Liquors, was
+a cause of these Pains.</P>
+<P>There are many Observations in se∣veral
+Authentick and Learned Au∣thors,<NOTE PLACE="marg">Some have had no Su∣tures.</NOTE>
+of some who have had none,
+or very few Sutures, and others who
+have had more than usual. I saw a
+Skull lately in the Hands of an Ingeni∣ous
+Chirurgeon, my very good
+Friend, which had a Suture running
+transverse the Occipital Bone, and the
+Sagittal pass'd quite through the <HI>Os
+Frontis,</HI> and it was the Skull of an A∣dult;
+such is the various Disports of
+Nature; also in very Old Age the Su∣tures
+are almost obliterated, the Ossi∣fic
+Liquor then predominating.</P>
+<P>Embryons have no Sutures,<NOTE PLACE="marg">How the Sutures are made.</NOTE> or at
+least not to be well distinguished, their
+Skulls being wholly Membranous; so
+<PB N="37" REF="27"/>
+while the Ossific Liquor, (which as I
+have said, begins at a point, <HI>&amp;c.</HI> in
+the <HI>Cranium</HI>) insinuates it self along
+the bony Threads, and by degrees har∣dens
+them, some Fibrous and Vascu∣lar
+Strings passing from the <HI>Dura Ma∣ter</HI>
+to the <HI>Pericranium,</HI> hinders in
+those places the bony Liquor from u∣niting,
+so forms these Seams or Su∣tures;
+for in a <HI>Foetus</HI> the Skull being
+as yet Membranous in its edges, wrap,
+or fold themselves as it were one over
+another, to take up less room in the
+Birth; for had the Skull been totally
+Ossified before the Birth, the Infant
+would for the most part endanger the
+Life of the Mother; this may be daily
+seen in young Children, where the
+Skull is wholly Membranous in the
+top of the Head between the Coronal
+and Sagittal Sutures, which place is
+call'd <HI>Fontanella.</HI><NOTE PLACE="marg">Fontanel∣la, <HI>what.</HI></NOTE></P>
+<P>The Bones of the Skull are either
+Proper or Common; the Proper are
+Six in number.</P>
+<P>1. The <HI>Os Frontis,</HI><NOTE PLACE="marg">Proper Bones of the Skull, Six.</NOTE> or <HI>Coronalis,</HI> the
+Forechead-Bone; of a Semicircular Fi∣gure,
+<PB N="38" REF="28"/>
+in its superior part, situated in
+the Superior part of the Face, and An∣terior
+of the <HI>Cranium,</HI> bounded above
+by the Coronal Suture from the <HI>Ossa
+Parietaria,</HI> on the sides by the <HI>Ossa
+Temporum,</HI> below by the <HI>Transver∣salis,</HI>
+or <HI>Orbalis</HI> from the Nose,
+Eyes, <HI>&amp;c.</HI></P>
+<P>The things to be consider'd in this
+Bone, are its Cavities and Processes.</P>
+<P>Its outside is smooth, as are most of
+the Bones of the <HI>Cranium,</HI> no Tendons
+or Ligaments being inserted here.</P>
+<P>The Ossification begins in this Bone
+at two Points, between the <HI>Laminae</HI> of
+this Bone there's a Cavity call'd <HI>Sinus
+Frontalis;</HI><NOTE PLACE="marg">1. Os Fron∣tis.</NOTE> it's oft-times double, which
+by two small <HI>Foramina</HI> enter into the
+Nostrils; this <HI>Sinus</HI> makes the inside
+of this Bone arise in a ridge, which be∣gins
+about the top of the Forehead,
+where the Hair grows not, and reaches
+to the <HI>Crista Galli;</HI><NOTE PLACE="marg">☜</NOTE> for which reason
+we must not Trepan here, lest we of∣fend
+the <HI>Dura Mater</HI> on each side the
+ridge, whenas the middle is not per∣forated
+by much; the upper <HI>Lamina</HI>
+of this coming to the Eyes, where
+<PB N="39" REF="28"/>
+turning inwards, makes up part of the
+Orbit on the upper side: This: <HI>Sinus</HI> is
+lined with a thick Membrane full of
+Glands, which separate a <HI>Mucus</HI> to
+moisten the Nose; in Brutes it's very
+large, but not so in Men; yet once I
+saw a Skull which had it extreamly
+large, and divided in four or five
+Cells, quite round the <HI>Basis</HI> of the
+<HI>Os Frontis,</HI> so that the Internal Protu∣berances
+almost hid the <HI>Crista Galli;</HI><NOTE PLACE="marg">☞</NOTE>
+yet sometimes this <HI>Sinus</HI> is quite obli∣terated,
+and the Membrane turn'd
+bony, as the Ossific Liquor increases,
+and we incline in Age.</P>
+<P>In its lower part over each Eye is a
+small <HI>Foramen,</HI><NOTE PLACE="marg">Foramine.</NOTE> through which passes
+a Branch of the five pair of Nerves to
+the Musculous Flesh on the Forehead.</P>
+<P>It has Four Processes;<NOTE PLACE="marg">Processes.</NOTE> the two grea∣ter
+at the Internal <HI>Canthus</HI> of the Eyes,
+the other two at the less; its inner
+<HI>Lamen</HI> about the Eye-brows towards
+the Nose, bunches inwards, so causes a
+hollowness there, which is part of the
+<HI>Sinus Frontalis.</HI></P>
+<P>2. The <HI>Os Occipitis</HI> is opposite to
+the Coronal,<NOTE PLACE="marg">2. Os Occi∣pitis.</NOTE> in the hinder part of the
+<PB N="40" REF="29"/>
+Head, it's the thickest and strongest
+Bone of the Head; the reason whereof
+is this, we having no Eyes behind,
+Nature has framed it of a thicker con∣sistence,
+to the end it may the better
+resist any stroak or blow it receives;
+it's five-corner'd, join'd to the <HI>Ossa
+Parietaria</HI> by the Lambdoid Suture,
+and to the <HI>Ossa Temporum</HI> by the
+Squamous Sutures, and it's bottom to
+the <HI>Os Sphenoides,</HI> by a sort of Har∣mony.</P>
+<P>The things to be consider'd in this
+Bone, are its Sinusses, <HI>Foramina,</HI> and
+Processes.</P>
+<P>Its Sinusses,<NOTE PLACE="marg">Sinusses, or <HI>Sulci.</HI></NOTE> or rather <HI>Sulci,</HI> are
+many, two on the External part just
+behind the <HI>Foramen Medullare;</HI> and
+seven in the Internal Superficies, the
+two largest of which contain the Pro∣tuberances
+of the <HI>Carebel,</HI> the other
+are of small moment.</P>
+<P>It has five <HI>Foramina</HI> or Holes,<NOTE PLACE="marg">Foramina.</NOTE> the
+lowest and largest call'd <HI>Foramen Me∣dullare,</HI>
+the Spinal Marrow passing by
+this hole to all the <HI>Vertebrae;</HI> the other
+four are less, and only serve for the
+<HI>exit</HI> of the Vessels; two give passage
+<PB N="41" REF="29"/>
+to the Nerves of the Tongue, and two
+to the <HI>Arteriae Cervicales;</HI> these are
+proper <HI>Foramina,</HI> there are two others
+which are common both to it and the
+other Bones, one on each side the <HI>Os
+Petrosum,</HI> which give passage to the
+eighth pair of Nerves call'd <HI>parvagum,</HI>
+and to the two Internal Jugular
+Veins.</P>
+<P>It has five Processes, four of which
+are on the outside by the <HI>Foramen Me∣dullare;</HI>
+the two innermost are call'd
+<HI>Condyli,</HI><NOTE PLACE="marg">Processes.</NOTE> and are received by the two
+shallow <HI>Sinus</HI>'s of the first <HI>Vertebra</HI> of
+the Neck, serving for the Articulati∣on
+of the Head; in its Internal part it
+has a long Protuberance or Ridge,
+which ascends in the middle from the
+<HI>Foramen Medullare,</HI> and parts the Pro∣tuberances
+of the <HI>Cerebellum,</HI> this is
+its fifth Process.</P>
+<P>There's another small Protuberance
+or Process,<NOTE PLACE="marg">A sixth Pro∣cess, not de∣scrib'd by a∣ny Author.</NOTE> which is not describ'd by
+any Author; it lyes between the
+<HI>Condyli,</HI> from it passes a Ligament,
+which joins it to the first <HI>Vertebra</HI> of
+the Neck.</P>
+<P><PB N="42" REF="30"/>
+It has also several small Prominen∣ces
+towards its <HI>Basis</HI> on the outside,
+some Tendons being inserted there.</P>
+<P>Third and fourth are the <HI>Ossa Sinci∣pitis,
+vel Parietaria,</HI><NOTE PLACE="marg">Third and fourth, <HI>Ossa Sincipitis.</HI></NOTE> because alike, or
+forming the Walls of the <HI>Cranium,</HI> as
+it were; they are the thinnest Bones
+of the Head, are join'd by the Coro∣nal
+Suture to the <HI>Os Frontis,</HI> to the
+<HI>Occiput</HI> by the Lambdoidal, to the
+<HI>Ossa Temporum</HI> by the <HI>Squamosae,</HI> and
+to one another by the <HI>Sagittalis:</HI> They
+are very smooth on their outside, but
+somewhat unequal within,<NOTE PLACE="marg">Sulci.</NOTE> having
+many small <HI>Sulci,</HI> or Furrows, for the
+reception of the Vessels of the <HI>Dura
+Mater;</HI> they are thinnest towards the
+Sutures, as are all Bones of the <HI>Crani∣um;</HI>
+these Furrows are thus caus'd,<NOTE PLACE="marg">How caus'd.</NOTE>
+while the Skull is Membranous, the
+Vessels by their Pulsation make them∣selves
+these Furrows.</P>
+<P>These Bones are of a Quadran∣gular
+Figure.<NOTE PLACE="marg">Figure.</NOTE></P>
+<P>Anatomists call that the <HI>Bregma</HI> of
+the Head,<NOTE PLACE="marg">Bregma, <HI>what.</HI></NOTE> where these two Bones are
+united together by the Sagittal Suture,
+towards the Coronal Bone.</P>
+<P><PB N="43" REF="30"/>
+The fifth and sixth Bones are call'd
+<HI>Ossa Temporum,</HI><NOTE PLACE="marg">Fifth and sixth, <HI>Ossa Tempo∣rum.</HI></NOTE> so call'd <HI>a Temporibus,</HI>
+because as a Man grows old, the
+Hairs on the Temples whiten the soon∣est;
+they lye on the sides of the Skull,
+being join'd above by the Squamous
+Sutures to the <HI>Ossa Parietaria,</HI> before
+to the Process of the first Bone of the
+upper Jaw, below to the Sphenoidal
+Bone, and behind to the <HI>Os Occipitis;</HI>
+their superior part is smooth, thin,
+and semicircular, so sometimes call'd
+<HI>Ossa Squamosa;</HI><NOTE PLACE="marg">Ossa Squa∣mosa &amp; Pe∣trosa. <HI>Sinusses.</HI></NOTE> their inferior thick,
+and hard, and call'd <HI>Ossa Petrosa.</HI></P>
+<P>Their Parts to be consider'd, are Si∣nusses,
+Processes, and Holes.</P>
+<P>These Bones have two Sinusses
+each; the first is large, and lin'd with
+a Cartilaginous Substance, plac'd be∣tween
+she <HI>Meatus Auditorius,</HI> and its
+long Process, which makes up part of
+the <HI>Os Jugale,</HI><NOTE PLACE="marg">Glenoides.</NOTE> call'd <HI>Sinus Glenoides,</HI>
+and receives one of the Processes of the
+lower Jaw, call'd <HI>Condylus;</HI> the other
+two are less, and lye on the inside of
+the aforesaid long Process.</P>
+<P>Each Bone has four Processes,<NOTE PLACE="marg">Processes.</NOTE> three
+External, and one Internal.</P>
+<P><PB N="44" REF="31"/>
+The First is call'd <HI>Styloides,</HI><NOTE PLACE="marg">Styloides.</NOTE> being
+slender, sharp, and long; some take
+it to be an Appendix only; in Infants
+it's Cartilaginous; those Animals
+which want these Processes,<NOTE PLACE="marg">☜</NOTE> their <HI>Os
+Hyoides</HI> have a double Horn, or Pro∣cess
+which supplies its place, many
+Muscles arise from it.</P>
+<P>Secondly,<NOTE PLACE="marg">Mastoides.</NOTE> <HI>Mastoideus,</HI> or <HI>Mamilla∣ris,</HI>
+because like a Cow's Teat; 'tis
+blunt, thick, and short, hollow with∣in,
+plac'd at the botton of the Audi∣tory
+passage.</P>
+<P>Thirdly,<NOTE PLACE="marg">Jugalis.</NOTE> <HI>Processus Jugalis vel Zygo∣maticus,</HI>
+very long, somewhat broad,
+and curved, it's thin, arising a little
+from the outside of the <HI>Sinus Glenoides,</HI>
+and meeting with another long Pro∣cess
+belonging to the first Bone of the
+<HI>Maxilla superior,</HI> are join'd together
+by an oblique Suture, and make up
+the <HI>Os Jugale,</HI> or Bridge.</P>
+<P>Fourthly, The Internal Protube∣rance
+is call'd <HI>Petrosus,</HI><NOTE PLACE="marg">Petrosus.</NOTE> from its hard∣ness,
+or <HI>Auditorius;</HI> it's somewhat
+long, and jets out towards the inner
+<HI>Basis</HI> of the Skull, or <HI>Os Sphenoides;</HI>
+it's hollow, and contains the Instru∣ments
+<PB N="45" REF="31"/>
+of Hearing:<NOTE PLACE="marg">Four small Bones of the Ear.</NOTE> It has four little
+Bones within its Cavity.</P>
+<P>1. <HI>Incus,</HI> or the Anvil.</P>
+<P>2. <HI>Malleus,</HI> the Hammer.</P>
+<P>3. <HI>Stapes,</HI> the Stirrup.</P>
+<P>4. <HI>Os Orbiculare,</HI> which lyes just
+on the top of the <HI>Stapes.</HI></P>
+<P>These Bones are as big and perfect
+at the Birth, as in Adults; they are
+Articulated after this manner,<NOTE PLACE="marg">Manner of Connexion.</NOTE> the <HI>A∣pophisis</HI>
+of the <HI>Malleus</HI> is fastned to the
+<HI>Tympanum,</HI> and Articulated by its
+Head in the Cavity of the <HI>Incus;</HI> this
+<HI>Incus</HI> has two Feet, the shortest of
+which is plac'd on the <HI>Tympanum,</HI> and
+the longer on the <HI>Stapes,</HI> on which
+lyes the <HI>Os Orbiculare.</HI></P>
+<P>These Bones have many <HI>Foramina</HI>
+each.<NOTE PLACE="marg">Foramina.</NOTE></P>
+<P>The First is External, and call'd
+<HI>Foramen Auditorium, seu Meatus Audi∣torius,</HI><NOTE PLACE="marg">Meatus Auditori∣us.</NOTE>
+by which the Sound enters to
+the Organs of Hearing.</P>
+<P>Its Second, Is narrow, short, and
+oblique, by which the Jugular Vein
+enters the inner Cavity of this passage.</P>
+<P><PB N="46" REF="32"/>
+The Third, Is between the Styloid
+and Mastoid Process, and ends in that
+which goes from the Ear to the
+Mouth.</P>
+<P>The common Bones are three.<NOTE PLACE="marg">Common Bones, three.</NOTE></P>
+<P>1. <HI>Os Sphenoides,</HI><NOTE PLACE="marg">Os Sphe∣noides.</NOTE> <HI>Basilare, vel Cu∣neiforme,</HI>
+some call it <HI>Polyforme,</HI> from
+its strange Figure; it's not call'd <HI>Cu∣neiforme,</HI>
+as if it were like a Wedge,
+but by reason it's seated between the
+Bones of the Skull and upper Jaw; in
+Infants it consists of two or three
+Bones; it's very thick at its <HI>Basis,</HI> but
+thin towards the Temples. It's join'd to,
+or touches all the Bones almost of the
+<HI>Cranium,</HI> and some of the Bones of the
+upper Jaw, to which it's fastned by
+the Sphenoid Suture.</P>
+<P>Its Parts to be consider'd, are either
+Processes, Sinusses, or <HI>Foramina.</HI></P>
+<P>It has eight Processes,<NOTE PLACE="marg">Processes.</NOTE> four Inter∣nal,
+and four External.</P>
+<P>The Internal are call'd <HI>Clinoides,</HI><NOTE PLACE="marg">Clinoides.</NOTE>
+they resembling the Feet of a Bed;
+these with the deprest <HI>Sinus</HI> in the
+middle,<NOTE PLACE="marg">Sella Tur∣cica.</NOTE> make up the <HI>Sella Turcica,</HI> be∣ing
+like the Seat of a War-saddle, on
+<PB N="47" REF="32"/>
+which lyes the <HI>Glandula Pituita∣ria.</HI></P>
+<P>Two of the External are call'd <HI>Pte∣rigoidei,</HI><NOTE PLACE="marg">Pterigoi∣dei.</NOTE>
+<HI>seu Aliformes,</HI> or the Bats
+Wings, being like the Wings of a Bat;
+the other two have no Name.</P>
+<P>The Sinusses are many.<NOTE PLACE="marg">Sinusses.</NOTE> It has one
+in each Process, call'd <HI>Pteregoides,</HI><NOTE PLACE="marg">Pteregoi∣des.</NOTE> to
+give way to the <HI>Musculi Pteregoidei
+Interni:</HI> It has also a very large one in
+the middle of the <HI>Sella Turcica,</HI> to re∣ceive
+the <HI>Glandula Pituitaria.</HI></P>
+<P>Within this Bone lyes a true <HI>Sinus,</HI><NOTE PLACE="marg">Basilaris.</NOTE>
+call'd <HI>Basilaris,</HI> which have the same
+Glands, and separate the same Juice,
+as the <HI>Sinus Frontalis,</HI> and has the
+same use.</P>
+<P>The <HI>Foramina,</HI><NOTE PLACE="marg">Foramina.</NOTE> are either Common,
+or Proper.</P>
+<P>The Common are those which lye
+between it and the <HI>Ossa Petrosa,</HI>
+through which the Jugulars pass; the
+proper are twelve, six on each side;
+the first pair is call'd <HI>Transcolatores,</HI><NOTE PLACE="marg">Transcola∣tores.</NOTE>
+which serve as a discharge to the <HI>Glan∣dula
+Pituitaria;</HI> the second <HI>Foramina
+Optica,</HI><NOTE PLACE="marg">Optica.</NOTE> by which passes the Optick
+Nerves; the third <HI>Motoria,</HI><NOTE PLACE="marg">Motoria.</NOTE> by which
+<PB N="48" REF="33"/>
+passes the Motory Nerves; the fourth
+call'd <HI>Crotophites;</HI><NOTE PLACE="marg">Croto∣phites.</NOTE> the fifth <HI>Gustatoria,</HI><NOTE PLACE="marg">Gustatoria.</NOTE>
+by which the Tasting Nerves pass; the
+sixth call'd <HI>Carotides,</HI><NOTE PLACE="marg">Carotides.</NOTE> by which the
+Carotid Arteries pass.</P>
+<P>The second Common Bone is call'd
+<HI>Os Cribriforme,</HI><NOTE PLACE="marg">Os Cribri∣forme.</NOTE> being perforated like a
+Seive, the Fibrils of the Olfactory
+Nerves pass through these Holes; it's
+seated at the middle of the <HI>Basis</HI> of the
+Forehead, to which it's join'd by <HI>Har∣monia;</HI>
+it's also join'd to the two Bones
+of the upper Jaw, and behind to the
+<HI>Os Sphenoides.</HI></P>
+<P>On its inside it has an almost Trian∣gular
+Process, call'd <HI>Crista Galli</HI><NOTE PLACE="marg">Crista Gal∣li.</NOTE> the
+Coxcomb; it arises just where the
+Process of the <HI>Sinus Frontalis</HI> ends,
+and reaches about half way in the
+middle of the Bone; the <HI>Falx</HI> which
+divides the two <HI>Lobes</HI> of the Brain, is
+tyed to the point of this Process.</P>
+<P>On its outside,<NOTE PLACE="marg">Septum Nasi.</NOTE> just opposite to the
+<HI>Crista Galli;</HI> it has another very thin,
+but hard Process, call'd <HI>Septum Nasi,</HI>
+dividing the Nostrils.</P>
+<P><PB N="49" REF="33"/>
+To the <HI>Os Cribriforme</HI> is annex'd two
+other very fine and thin Bones,<NOTE PLACE="marg">Ossa Spon∣giosa.</NOTE> one in
+each Nostril, call'd <HI>Ossa Spongiosa,</HI>
+they be wrapt up, as it were, in many
+folds, and lin'd with a Membrane made
+up of the Expanded Fibres of the Ol∣factory
+Nerves;<NOTE PLACE="marg">☞</NOTE> so that those Crea∣tures,
+who have more of these <HI>Lami∣nae</HI>
+have a more exquisite smell, as
+Cats, Greyhounds, <HI>&amp;c.</HI> for a Man
+has not above three or four folds,
+whereas the above-nam'd Creatures
+have very many; so that it's not dif∣ficult
+to judge of the acuteness of the
+smell, from the multiplicity of these
+folds; most Anatomists consider them
+as parts of the <HI>Os Cribriforme,</HI> using the
+one for the other promiscuously; but
+I think them to be different Bones.</P>
+<P>The third Common Bone is call'd
+<HI>Os Jugale,</HI><NOTE PLACE="marg">Os Jugale.</NOTE> <HI>vel Zygoma,</HI> by some the
+Bridge, or Yoak-bone; it's not one
+distinct Bone, but made up of a long
+Process of the Temporal Bone, and
+another of the first Bone of the upper
+Jaw.</P>
+<P><PB N="50" REF="34"/>
+It's situated on the outside of the
+Face,<NOTE PLACE="marg">Situation.</NOTE> under the External <HI>Canthus</HI> of
+the Eye, there's one on each side.</P>
+<P>Its use seems as if ordain'd by Na∣ture,<NOTE PLACE="marg">Vse.</NOTE>
+for the defence of the Temporal
+Muscle which passes under it; it also
+gives Origination to the <HI>Musculi Mas∣seteres.</HI></P>
+</DIV2>
+<DIV2 N="3" TYPE="demonstration">
+<PB N="51" REF="34"/>
+<HEAD>Demonstration III.</HEAD>
+<HEAD TYPE="sub">Of the Bones of the Face.</HEAD>
+<P>IF the structure of the Bones of the
+<HI>Cranium</HI> be worthy our Admirati∣on,
+the Composition of the Bones of
+the Face, which now comes under our
+view, is no less surprizing; for al∣though
+that contains the Brain, which
+is one of the most Noble Parts of the
+Body; yet the Face where most of the
+Senses are lodged, and for many Rea∣sons
+may be call'd the Image of the
+Soul, since most, if not all the Passions
+of the Mind, are fully demonstrated
+in the Face, cannot merit less, especi∣ally
+in the wonderful structure of the
+Bones which compose it. The Face
+is also the Seat of Beauty, which
+Charms and Attracts the Eyes of all
+to behold it;<NOTE PLACE="marg">The Bones give Figure, Form, and Beauty to the whole Body.</NOTE> and nothing contributes
+more to this Beauty than a good For∣mation,
+and true Symmetry of the
+Bones: <HI>Ex. gratia,</HI> if the lower part
+<PB N="52" REF="35"/>
+of the Coronal Bone bunch out too
+much, it makes them Beetle brow'd,
+as we call it: If the Bones of the Nose
+be too large, and rising from the Face,
+it makes them Hawk-nosed: If the
+lower Jaw be too sharp, or pointed,
+it makes an Out mouth, and so of the
+rest; yet we may say the same of the
+Bones of the whole Body, they giv∣ing,
+as I have said, Shape and Figure
+to all; so that if they be any way de∣form'd
+or unproportioned, that part
+must of necessity be disfigured.</P>
+<P>The Bones of the Face are divided
+into those of the upper and lower
+Jaw.<NOTE PLACE="marg">Division.</NOTE></P>
+<P>The Bones of the superior Jaw are
+eleven in number,<NOTE PLACE="marg">Bones of the upper Jaw, eleven.</NOTE> five on each side,
+and an odd one.</P>
+<P>The <HI>Ossa Triangulares</HI> are big,<NOTE PLACE="marg">1, 2, Ossa Trian∣gulares.</NOTE> of a
+hard and solid Substance, in Figure
+triangular, wherefore so call'd, plac'd
+on the lower side of the outward <HI>Can∣thus</HI>
+of the Eye's Orbit, the middle are
+advanced out, and rising, which forms
+the Balls of the Cheeks: One of their
+Angular Processes, as I said before,
+makes up the <HI>Os Jugale,</HI> being join'd
+<PB N="53" REF="35"/>
+with the long Process of the Temple-Bone;
+they also make the inferior part
+of the Orbit of the Eyes, and is united
+to four Bones, <HI>viz.</HI> the <HI>Coronalis,
+Sphenoides, Maxillary,</HI> and <HI>Os Petro∣sum.</HI></P>
+<P>They have three <HI>Apophises</HI> each;<NOTE PLACE="marg">Apophisis, <HI>three.</HI></NOTE> one
+of which makes an eminence, which
+forms the lesser Angle of the Eye; the
+other advancing towards the Nose,
+makes the greatest part of the inferior
+Lip of the Orbit; the third may well
+be call'd <HI>Processus Jugalis,</HI> which I
+have already mentioned.</P>
+<P>The <HI>Ossa Lachrimalia,</HI><NOTE PLACE="marg">3, 4, Ossa La∣chrimales.</NOTE> <HI>seu Ʋnguis,</HI>
+are very little and thin, in shape of a
+Nail of a Man's Hand, seated in the
+great <HI>Canthus</HI> of the Eyes, within the
+Orbit; there's a small <HI>Foramina,</HI> in
+each call'd <HI>Lachrimale,</HI> in which the
+Lachrimal Duct passes to the Nose,<NOTE PLACE="marg">Puncta La∣chrimalia.</NOTE>
+also through this hole passes a Branch
+of the fifth pair of Nerves, to the in∣ner
+Membrane of the Nose.</P>
+<P>These Bones are so small, that they
+be easily lost.</P>
+<P>The <HI>Ossa Male</HI><NOTE PLACE="marg">5, 6, Ossa Maxil∣lares.</NOTE> some call them
+<HI>Maxillares,</HI> are the thickest, greatest,
+<PB N="54" REF="36"/>
+and spongiest of all the Bones of the
+Face, and makes up the greatest part
+of the Cheeks and Palate.</P>
+<P>Parts to be consider'd in these Bones,
+are first, many deep Cavities which
+are in their lower edge, call'd <HI>Alveoli,</HI><NOTE PLACE="marg">Alveoli.</NOTE>
+or Sockets, in which the Teeth are
+fastned: Secondly, each has an Inter∣nal
+<HI>Sinus,</HI> which is lin'd with the same
+sort of Glandulous Membrane, as the
+<HI>Sinus Frontalis,</HI> and of the same use,
+and is call'd <HI>Sinus Maxillare.</HI><NOTE PLACE="marg">Sinus Max∣illare.</NOTE> There's
+also another long one, which runs a∣long
+over the Roots of the Teeth, in
+which the Vessels pass which serve for
+the Nourishment of the Teeth.</P>
+<P>The <HI>Ossa Nasi</HI> are two long,<NOTE PLACE="marg">7, 8, Ossa Nasi.</NOTE> hard,
+and somewhat thick Bones, of a Pyra∣midal
+Figure each, being join'd, they
+make up the bony or superior part of
+the Nose; their lower Extrmities are
+somewhat unequal, for the more
+strong Connexion of the Cartilages of
+the Nose with it; they are join'd to∣gether
+by <HI>Harmonia.</HI></P>
+<P>The last pair are call'd <HI>Ossa Palati,</HI><NOTE PLACE="marg">9, 10, Ossa Palati.</NOTE>
+are very broad, but thin, and being
+join'd by <HI>Harmonia,</HI> make up the Roof
+<PB N="55" REF="36"/>
+of the Mouth; they are join'd to the
+<HI>Ossa Maxillares</HI> forwardly, and back∣wardly,
+sideways to the Pterygoid A∣pophisis,
+by the Sphenoidal Suture:
+Each Bone has a hole forwardly, call'd
+<HI>Foramen Gustativum.</HI></P>
+<P>The eleventh Bone of the upper
+Jaw is call'd <HI>Vomer,</HI><NOTE PLACE="marg">11, Os Vomer.</NOTE> by reason the An∣tients
+say it resembes a Plough-share;
+it's situated in the middle over the
+Palate, edgeways, and is, as it were, a
+sort of <HI>Septum,</HI> dividing the interior
+part of the Nostrils.</P>
+<P>Before I pass to the lower Jaw,<NOTE PLACE="marg">Orbita Oc∣culorum.</NOTE>
+'twill not be amiss to give a Descripti∣on
+of the Orbits of the Eyes; they are
+two great Cavities plac'd at the infe∣rior
+part of the <HI>Os Frontis,</HI> which
+serve as Habitations to the Eyes, and
+to defend them against all Injuries;
+their external part is quite round, but
+internally they grow Pyramidal, ha∣ving
+at their bottom many perforati∣ons
+for Vessels, <HI>&amp;c.</HI></P>
+<P>Each Orbit is made up of part of
+six different Bones,<NOTE PLACE="marg">Each Orbit made up of six Bones.</NOTE> which altogether
+composes its Cavity.</P>
+<P><PB N="56" REF="37"/>
+Five of which are Common, and
+one Proper, which is call'd, as I have
+already demonstrated, <HI>Os Vnguis vel
+Lachrimale:</HI> Of the Common, three
+belong to the <HI>Cranium,</HI> and two to the
+Face; the first of those of the <HI>Crani∣um,</HI>
+is the Coronal, which forms the
+superior part; the second is the Eth∣moidal
+Bone, which forms part of the
+internal side next the Nose; the
+third is the Sphenoidal, which makes
+up part of the internal Cavity; the
+two of the Face compose all its lower
+part, the <HI>Os Triangulare</HI> forming that
+part towards the lesser <HI>Canthus,</HI> and
+the <HI>Maxillare,</HI> that next the greater.</P>
+<P>The lower Jaw is but one continu∣ed
+Bone in Adults,<NOTE PLACE="marg">Inferior Jaw.</NOTE> but in young Bodies
+is composed of two join'd together in
+the fore-part, by <HI>Syncondrosis;</HI> they u∣nite,
+and become one about the se∣venth
+Year, of a somewhat Circular
+Figure, or rather like the Greek Let∣ter
+Ʋ, smooth and polished without,
+but a little rough within, several
+Muscles being inserted, and arising
+from thence.</P>
+<P><PB N="57" REF="37"/>
+This in all Creatures is only move∣able,
+except as some affirm in the Cro∣codile,
+who moves the upper only.</P>
+<P>The Parts to be consider'd in this
+Bone, are its Processes, <HI>Foramina,</HI> and
+<HI>Alveoli.</HI></P>
+<P>It has two large Processes at each
+end,<NOTE PLACE="marg">Processes.</NOTE>
+the first call'd <HI>Condiloides vel Ar∣ticularis,</HI><NOTE PLACE="marg">Condiloi∣des.</NOTE>
+it's received into the <HI>Sinus</HI> of
+the <HI>Os Petrosum,</HI> and fastned there by
+a strong Membranous Ligament; the
+motion of the Jaw depends on this Ar∣ticulation;
+the other is call'd <HI>Corone,</HI><NOTE PLACE="marg">Corone.</NOTE>
+which from a large <HI>Basis</HI> ends in a
+sharp point; it lyes under the <HI>Os Ju∣gale,</HI>
+the Tendon of the <HI>Musculus Tem∣poralis</HI>
+is inserted into it; these Pro∣cesses
+are in the superior part of the
+Bone. In its inferior part, just where
+it begins to turn up on each side, are
+its Angles, to whose outward part the
+Masseter Muscles are inserted, and the
+<HI>Pterygoidei</HI> to the interior.</P>
+<P>This Bone is somewhat hollow
+within, containing a Meduller Juice.</P>
+<P>It has four <HI>Foramina,</HI><NOTE PLACE="marg">Foramina.</NOTE> two of which
+are at the Roots of the Processes in the
+inside, in which a Branch of the fifth
+<PB N="58" REF="38"/>
+pair of Nerves, together with the
+sanguifying Vessels enter, and pass un∣der
+the Roots of the Teeth, distribu∣ting
+Branches to each as they pass;
+the other two are in the fore-part of
+the Chin, out of which come two
+Twigs of the aforesaid Nerve, which
+are spent on the Muscles and Skin of
+the lower Jaw.<NOTE PLACE="marg">Alveoli.</NOTE> It has also its <HI>Alveoli,</HI>
+or Sockets for the Teeth, as the up∣per
+Jaw.</P>
+<P>The Uses of the lower Jaw,<NOTE PLACE="marg">Vses.</NOTE> besides
+its adding to the Beauty of the Face,
+is to help Mastication, and serves to
+form the Voice.</P>
+<P>The Teeth are the hardest of all the
+Bones of the Body,<NOTE PLACE="marg">Teeth.</NOTE> having a peculiar
+<HI>Cortex,</HI> are smooth, and fix'd in the
+<HI>Alveoli</HI> of the Jaws, by <HI>Gomphosis.</HI></P>
+<P>They are in number about Thirty∣two,<NOTE PLACE="marg">Number 32.</NOTE>
+of three Ranks or Orders.</P>
+<P>1. The <HI>Incisores,</HI><NOTE PLACE="marg">Incisores 8.</NOTE> or Cutters, four
+in each Jaw plac'd in the fore-part,
+and have commonly but one Phang or
+Root; they are also call'd by some <HI>Ri∣sores,</HI>
+they appearing when we laugh.</P>
+<P><PB N="59" REF="38"/>
+2. <HI>Canini,</HI><NOTE PLACE="marg">Canini 4.</NOTE> or Dog-teeth, by some
+the Eye-teeth, two in each Jaw, one
+on each side the <HI>Incisores;</HI> they have
+sometimes two Roots, but strong,
+and crooked.</P>
+<P>3. The last are call'd <HI>Molares,</HI><NOTE PLACE="marg">Molares.</NOTE> or
+Grinders, in number about twenty,
+five on each side the <HI>Canini,</HI> and have
+two or three Phangs.</P>
+<P>The Teeth are not perfected all at
+once, nor appear before a certain time,
+when they force their way through
+the Jaws and Gums; yet there are
+Observations of some who have been
+Born with Teeth; the first that appear
+in Children, are for the most part the
+superior Incisives, which is sometimes
+sooner, sometimes later, but general∣ly
+about the seventh, eighth, or ninth
+Month; then in time come the <HI>Cani∣ni,</HI>
+and lastly the <HI>Molares:</HI> When the
+Teeth come to about the number of
+twenty, there appears no more till a∣bout
+the seventh Year, about which
+time there appears four more: At
+fourteen there comes four more,
+and towards the twentieth Year the
+last four, which are call'd Teeth of
+<PB N="60" REF="39"/>
+Wisdom, because they come at an
+Age, when we ought to be Wise and
+Serious.</P>
+<P>The first twenty Teeth are call'd
+Milk-teeth, which fall or shed about
+the seventh Year, and new ones come
+in their places.</P>
+<P>I have seen some who have had new
+Teeth, when they have been upwards
+of Sixty Years, but this is not very
+usual.</P>
+<P>The Teeth have several Uses;<NOTE PLACE="marg">Vses.</NOTE> first,
+they serve for Mastication, which is
+its chief, the Teeth being as so many
+Mill stones which bruise and grinde
+the Aliment, the <HI>Incisores</HI> cut the Mor∣sel,
+and the <HI>Molares</HI> grinde it. Second∣ly,
+to help Articulation of the Voice,
+for we see those that lose their Teeth,
+especially the <HI>Incisores,</HI> do not speak
+plain, but lisp, as we call it; they are
+also Ornamental.</P>
+<P>Since we are demonstrating the
+Bones of the Head,<NOTE PLACE="marg">Os Hyoi∣des.</NOTE> it will not be amiss
+to mention the Bone which is at the
+Root of the Tongue, being united on∣ly
+by Muscles; it's call'd <HI>Os Hyoides,</HI>
+or <HI>Ypsiloides,</HI> by reason it's like the
+Greek V.</P>
+<P><PB N="61" REF="39"/>
+It consists of two parts, the Body
+and Horns which receive the <HI>Epi∣glottis.</HI></P>
+<P>The principal Use of this Bone,<NOTE PLACE="marg">Vse.</NOTE> is
+not to support the Tongue, as some
+pretend, but rather to facilitate the
+entrance of Air into the <HI>Trachea Arte∣ria,</HI>
+also of the Aliments into the <HI>Oeso∣phagus;</HI>
+many Muscles also are inser∣ted
+into this Bone.</P>
+<P>The Bones of the <HI>Cranium</HI> being
+join'd together,<NOTE PLACE="marg"><HI>Foramina,</HI> in the whole <HI>Cranium.</HI></NOTE> there are many <HI>Fora∣mina</HI>
+or Holes, through which Vessels
+pass and repass; to begin then in or∣der,
+these appear first, and are com∣monly
+by pairs.</P>
+<P>1. There's a Hole which lyes be∣tween
+the <HI>Crista Galli,</HI><NOTE PLACE="marg">Foramen, Crista Gal∣li.</NOTE> and the Process
+of the <HI>Sinus Frontalis;</HI> it's a single
+Hole, and mentioned by no Author as
+I find: It may well be call'd <HI>Foramen
+Nasale, vel Crista Galli;</HI> through this
+Hole a Vessel passes from the <HI>Sinus Lon∣gitudinalis</HI>
+of the <HI>Dura Mater</HI> to the
+Nose, where it becomes double, one
+to each Nostril; this is the way how
+in great Commotions of the Brain,<NOTE PLACE="marg">☞</NOTE>
+<PB N="62" REF="40"/>
+the Blood sometimes streams out, and
+that with violence, the Vessel being
+then more turgid.</P>
+<P>2. The <HI>Foramina</HI> in the <HI>Cribriforme</HI>
+Bone,<NOTE PLACE="marg">Foramina Ethmoides</NOTE> for the passage of the Olfactory
+Nerves, and may be call'd <HI>Foramina
+Ethmoides.</HI></P>
+<P>3. <HI>The</HI> Foramina Opticorum Nervo∣rum,<NOTE PLACE="marg">Foramina Opticorum</NOTE>
+<HI>number two.</HI></P>
+<P>4. Two for the <HI>Nervi Motorii,</HI><NOTE PLACE="marg">Foramina Motorii.</NOTE> and
+other Vessels, they are very large long
+Holes.</P>
+<P>5. Two call'd the <HI>Crotophite,</HI><NOTE PLACE="marg">Foramina Temp.</NOTE> or
+Temporal Holes, through which passes
+two Branches of the fifth pair of
+Nerves, to the Temples.</P>
+<P>6. Two for the <HI>Arteriae Carotides,</HI><NOTE PLACE="marg">Foramina Carotidum</NOTE>
+which lye just by the sides of the lower
+parts of the <HI>Sella Turcica.</HI></P>
+<P>7. Two small ones,<NOTE PLACE="marg">Foramina Durae Ma∣tris.</NOTE> one on each
+side the Carotide Holes, call'd <HI>Fora∣mina
+Durae Matris.</HI></P>
+<P>8. Two for the Auditory Nerves,<NOTE PLACE="marg">Foramina Auditoria.</NOTE>
+which pass into the <HI>Antra Audito∣ria.</HI></P>
+<P>9. Two for the Jugular Veins.<NOTE PLACE="marg">Foramina Jugul.</NOTE></P>
+<P>10. Two call'd <HI>Linguales,</HI><NOTE PLACE="marg">Foramina Lingnales.</NOTE> through
+which passes Vessels to the Tongue.</P>
+<P><PB N="63" REF="40"/>
+11. Two more for the Cervical Ar∣teries,<NOTE PLACE="marg">Foramina Nervor. paris 5.</NOTE>
+and also for the <HI>exit</HI> of some
+Nerves of the fifth pair.</P>
+<P>12. Lastly,<NOTE PLACE="marg">Foramen Medullare.</NOTE> the great one, call'd
+<HI>Foramen Medullare,</HI> for the passage of
+the Spinal Marrow.</P>
+<P>All these Holes are in the <HI>Basis</HI> of
+the Skull, or Internal Part.</P>
+<P>There are also several <HI>Foramina,</HI> of
+great use in the External Part.</P>
+<P>1. Are two <HI>Foramina,</HI><NOTE PLACE="marg">Foramina Orbicula∣ria.</NOTE> or Holes,
+one by the edge of the orbit of each
+Eye, call'd <HI>Orbicularia,</HI> through which
+passes a Branch of the fifth pair of
+Nerves, to the Lips.</P>
+<P>2. The <HI>Foramina seu puncta Lachri∣malia,</HI><NOTE PLACE="marg">Foramina Lachrima∣lia.</NOTE>
+in the Lachrimal Bones through
+which the Tears pass into the Nose.</P>
+<P>3. The <HI>Foramina Palati,</HI><NOTE PLACE="marg">Foramina Palati.</NOTE> they are
+plac'd in the fore-part of the Roof of
+the Mouth next the Teeth, the thin∣nest
+<HI>Mucus</HI> of the Nose is convey'd
+through these two Holes.</P>
+<P>4. Two in the back part of the Pa∣late,<NOTE PLACE="marg">Foramina Alia.</NOTE>
+through which Branches of the
+<PB N="64" REF="41"/>
+fifth pair of Nerves pass to the Pa∣late.</P>
+<P>As for the <HI>Foramina</HI> of the lower
+Jaw, I have already mentioned
+them in the Description of that
+Bone.</P>
+</DIV2>
+<DIV2 N="4" TYPE="demonstration">
+<PB N="65" REF="41"/>
+<HEAD>Demonstration IV.</HEAD>
+<HEAD TYPE="sub">Of the Bones of the Trunk.</HEAD>
+<P>THE next part of the Skeleton
+that is to be Demonstrated,<NOTE PLACE="marg">Division, threefold.</NOTE> is
+the Trunk, which we shall divide in∣to
+Three Parts, as the Back or Spine,
+Ribs and Breast; and lastly, the Hips,
+or <HI>Ossa Innominata.</HI></P>
+<P>The Back, or rather Spine, is com∣posed
+of many Bones, call'd <HI>Vertebrae,</HI><NOTE PLACE="marg">Vertebrae.</NOTE>
+or Spondils, all which being join'd or
+united together, may not unfitly be
+term'd a Pyramid of Bones; but be∣fore
+we Treat of them in particular, it
+will be requisite to say something of
+the Spine in General,<NOTE PLACE="marg">Of the Spine in General.</NOTE> in which several
+Things are to be taken notice of.</P>
+<P>1. All the Bones,<NOTE PLACE="marg">Denomina∣tion.</NOTE> from the first of the
+Neck, to the very Extremity of the
+<HI>Coccigis,</HI> are call'd the Spine, I suppose
+from the acute Processes each <HI>Vertebrae</HI>
+have, call'd <HI>Spinales.</HI></P>
+<P><PB N="66" REF="42"/>
+2. The figure or shape of the Spine,<NOTE PLACE="marg">Figure.</NOTE>
+is of great Consideration, for if you
+look on its Anterior or Posterior Parts,
+it appears streight; but if you look on
+its Lateral Parts, its curved in and
+out: First, the Spondils of the Neck
+bend inwards, for the better support
+of the <HI>Oesophagus,</HI> also to sustain the
+Head in an <HI>Equilibrium,</HI> then the <HI>Ver∣tebrae</HI>
+of the Back jet themselves out∣ward,
+to augment the Capacity of the
+<HI>Thorax,</HI> that the Heart and Lungs
+may have a larger room to play in;
+towards the Loins again, they bend
+inwards, not only to defend the great
+Vessels which lye on them, but al∣so
+to Counterballance the better the
+weight of the Body; the <HI>Os Sacrum</HI>
+bends outward, that the <HI>Pelvis</HI> be in∣larged
+to contain the Bladder, Womb
+in Women, and <HI>Intestinum Rectum;</HI>
+and lastly, the <HI>Os Coccygis</HI> bends in∣wards,
+that it might not be offended
+when we sit down, also that the <HI>Inte∣stinum
+Rectum</HI> be tyed to it.</P>
+<P>The third Thing to be observed in
+General,<NOTE PLACE="marg">Bodies of the <HI>Verte∣brae.</HI></NOTE> or Common to all, is that
+the Bodies, of each <HI>Vertebra</HI> are of a
+<PB N="67" REF="42"/>
+spongy Substance, made up of many
+irregular bony Threads, containing a
+Medullar Juice, of a Convex Figure
+forwards, but Concave backwards,
+and plain above and below, being only
+join'd with Cartilages, which makes
+them Contiguous, &amp; unites them there,
+which gives them a more easie moti∣on,
+the Body also of each <HI>Vertebra</HI> gra∣dually
+increases in bulk, till to the very
+<HI>Os Sacrum;</HI> for it's reasonable that
+those which support,<NOTE PLACE="marg">☞</NOTE> should be larger
+than those which are supported, and
+at the same time as the <HI>Spinalis Medul∣la</HI>
+passes down it grows less, losing
+of its bulk as the Nerves pass from it,
+and the <HI>Foramina Medullares</HI> of each
+<HI>Vertebra</HI> consequently less.</P>
+<P>4. Each <HI>Vertebra</HI> have five Things
+to be consider'd,<NOTE PLACE="marg">Five things to be consi∣der'd in the <HI>Vertebra.</HI></NOTE> which belong to all;
+1. Each, as I have said, have a Body.
+2. Each have a great <HI>Foramina,</HI><NOTE PLACE="marg">Foramina Spinales.</NOTE>
+through which the <HI>Spinalis Medulla</HI>
+passes, even to the very <HI>Os Sacrum,</HI>
+which may well be call'd <HI>Foramina
+Spinalia vel Medullaria;</HI> these holes are
+largest in the <HI>Vertebrae</HI> of the Neck,
+and so lessen as they descend, several
+<PB N="68" REF="43"/>
+Nerves, as I have hinted before,
+passing from the Spinal Marrow, so
+lessens them; but the Bodies grow lar∣ger
+to sustain the rest, the Spinal Mar∣row
+reaches no further than the last
+<HI>Vertebra</HI> of the Back, where it begins
+to divide into many small Filaments,
+which are subdivided into smaller in
+the <HI>Os Sacrum,</HI><NOTE PLACE="marg">Cauda E∣quina, quid?</NOTE> where it's call'd <HI>Cauda
+Equina,</HI> or the Horse-tail. 3. They
+have each seven Processes,<NOTE PLACE="marg">Seven Pro∣cesses in each <HI>Vertebra.</HI></NOTE> four ob∣lique
+ones, two superior, and two in∣ferior,
+two transverse, and an odd one
+call'd <HI>Acutus, vel Spinalus,</HI> by some
+<HI>Posterior.</HI> 4. They are join'd one to
+another in their oblique Processes by
+<HI>Ginglimus,</HI><NOTE PLACE="marg">Conjunction.</NOTE> and by <HI>Synchondrosis</HI> in their
+Bodies; also on their inside, they are
+lin'd with a strong smooth Membrane,
+which reaches from the first, to the <HI>Os
+Sacrum.</HI> 5. They have many Sinuffes,
+but the most remarkable, are those
+under their oblique Processes, which
+being united to others above the a∣foresaid
+Processes of other <HI>Vertebrae,</HI>
+make certain <HI>Foramina,</HI> through which
+the Nerves of the Spinal Marrow
+passes, as also many Blood-vessels to
+<PB N="69" REF="43"/>
+and from the <HI>Spinalis Medulla;</HI> they
+may be aptly enough call'd <HI>Foramina
+Nervina.</HI><NOTE PLACE="marg">Foramina Nervina.</NOTE></P>
+<P>We come now to Treat of each
+<HI>Vertebra</HI> in particular;<NOTE PLACE="marg">Of the <HI>Ver∣tebrae</HI> in particular. Number 25.</NOTE> the <HI>Vertebrae</HI>
+are in number twenty-five; that is, se∣ven
+of the Neck, twelve of the Back,
+five of the Loins, and one of the <HI>Os
+Sacrum,</HI> to which is annex'd the <HI>Ossa
+Coccygis.</HI></P>
+<P>The Neck has seven.<NOTE PLACE="marg">Seven of the Neck.</NOTE></P>
+<P>The first is call'd <HI>Atlas,</HI><NOTE PLACE="marg">1. Atlas.</NOTE> by reason
+is sustains the Head, as <HI>Atlas</HI> was sup∣posed
+to do the Heavens; its transverse
+Processes, as also all the other of the
+Neck, are not so long as those of the
+Back; it's Articulated to the Condi∣loid
+Processes of the <HI>Os Occipitis,</HI> by its
+superior oblique Processes, in which
+are two <HI>Sinus</HI>'s that receives the afore∣said
+Condiloid Processes; this Articu∣lation
+is a sort of double <HI>Arthrodia,</HI> so
+is only capable of Flexion and Exten∣tion;
+it has very little, or no Body,
+but within has a small <HI>Sinus</HI> to receive
+the <HI>Dens</HI> of the second <HI>Vertebra;</HI> this
+<HI>Sinus</HI> is lin'd with a strong Ligament,
+<PB N="70" REF="44"/>
+which fastens the aforesaid <HI>Dens,</HI> the
+Spinal Process is a very little blunt
+knob, but all the other Spines of the
+Neck are forked, except the last. It
+has a small round Process in its upper
+part where the Body should be, from
+which passes a small Ligament, to ano∣ther
+small round Process between the
+<HI>Condiloides</HI> of the Occipital Bone, close
+to the <HI>Foramen Medullare.</HI></P>
+<P>The second <HI>Vertebra</HI> is call'd <HI>Denta∣ta
+vel Epistrophous,</HI><NOTE PLACE="marg">2. Dentata.</NOTE> because between
+its two superior Processes, springs ano∣ther
+very hard one, call'd <HI>Dens,</HI> being
+like a little Tooth, which being re∣ceived
+into the above-mentioned <HI>Sinus</HI>
+of the first <HI>Vertebra,</HI> and encompassed
+with strong Membranous Ligaments;
+this moves in the <HI>Atlas</HI> as an <HI>Axis,</HI> as
+the Flexion and Extention depend on
+the first <HI>Vertebra</HI> with the Head;<NOTE PLACE="marg">☜</NOTE> the
+Circular Motion depends on this and
+the first: When a Luxation happens
+here, the Neck is said to be broke.</P>
+<P>The five following have no particu∣lar
+Name, and are much like one ano∣ther,
+only increasing a little in bigness,
+and the Spinal Process of the last is
+<PB N="71" REF="44"/>
+not fork'd, beginning to grow some∣what
+like those of the Back; the trans∣verse
+Processes, and spinous ones, are
+somewhat rough, for the better in∣sertion
+of many Muscles, which are
+fastned there.</P>
+<P>All the <HI>Vertebrae</HI> of the Neck,<NOTE PLACE="marg">Foramina Vertebra∣rum Colli▪</NOTE> have
+two small <HI>Foramina</HI> each, which lye
+in the Head of the transverse Processes,
+serving for the passage of the Verte∣bral
+Arteries.</P>
+<P>Their oblique Processes have this ob∣servable
+in them, their superior ones
+are somewhat hollowish, to receive the
+inferior Convex ones, that the moti∣on
+of the Neck be freer.</P>
+<P>The Back has twelve <HI>Vertebrae;</HI><NOTE PLACE="marg">Back 12.</NOTE> yet
+I once saw a Skeleton that had thir∣teen,
+and thirteen Ribs; they are
+bigger than those of the Neck, but
+less then those of the Loins; their Spi∣nal
+Processes are not fork'd but pointed,
+and lye one over another; the trans∣verse
+are short, but large, and blunt,
+and have a Cavity to receive the
+Heads of the Ribs; the oblique are
+sharp, and smooth, and so conse∣quently
+little motion,<NOTE PLACE="marg">Vertebrae Costales.</NOTE> these are call'd
+<PB N="72" REF="45"/>
+the Costal <HI>Vertebrae;</HI> the eleventh <HI>Ver∣tebra</HI>
+has its spinal Process, not lying
+over the other, as those above it.</P>
+<P>The last <HI>Vertebra</HI> of the Back has
+this to be observed in it; it receives
+none, but is received, both by the
+eleventh of the Back, and first of the
+Loins; on this depends the greatest
+motion of the Back.</P>
+<P>The five of the Loins are larger than
+those of the Back,<NOTE PLACE="marg">Loins 5.</NOTE> and their Articu∣lation
+looser, their transverse Pro∣cesses
+are more long and fine than
+those of the Back, which serve as
+Ribs, as it were, yet the first and fifth
+are shorter than the rest; their <HI>Fora∣mina
+Nervina</HI> are excavated only out
+of the lower <HI>Vertebra,</HI><NOTE PLACE="marg">N. B.</NOTE> whereas those
+of the Back equally out of both, but
+those of the Neck only out of the su∣perior;
+their posterior Spines, are
+short, blunt and thick, a little broad,
+and turn a little upwards, that the
+bending of the Body be no way hin∣dred;
+and whereas in the other <HI>Ver∣tebrae,</HI>
+the upper oblique Processes re∣ceive
+the lower, in these the lower re∣ceive
+the upper.</P>
+<P><PB N="73" REF="45"/>
+The first of these <HI>Vertebrae</HI> is call'd
+<HI>Renalis,</HI><NOTE PLACE="marg">Renalis.</NOTE>
+the Kidneys being lodged at
+the side of it; the other four have no
+particular Name.</P>
+<P>The <HI>Os Sacrum,</HI><NOTE PLACE="marg">Os Sacrum.</NOTE> or holy Bone, so
+call'd, as some think, because the An∣tients
+used to save this part as Sacred
+in Sacrifices; but I think rather from
+<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, as the Greeks call it, which
+signifies <HI>Magnum,</HI> as well as <HI>Sacrum,</HI>
+it being the biggest Bone of all the
+Spine. It's immoveable, and serves
+as a <HI>Basis</HI> or Pedestal to the whole
+Spine; it's of a somewhat triangular
+Figure, with the point downwards;
+it's Concavous within, which helps
+to form the <HI>Pelvis,</HI> also smooth; be∣hind
+it's <HI>Convex,</HI> and unequal, many
+Muscles arising, and being inserted
+here, it seems as if it were composed
+of five or six Bones, (as indeed it is in
+Infants) its Ossification beginning at
+so many points, but its edges, or ra∣ther,
+if you will, its transverse Pro∣cesses
+look but like one continued
+Bone, as it is; the <HI>Foramen Spinale</HI>
+towards its lower part is very small;
+its <HI>Foramina Nervina</HI> are before and
+<PB N="74" REF="46"/>
+behind, and not on the sides, as in the
+other <HI>Vertebrae;</HI> its spinal Processes
+are very small, the last being only a
+small round Protuberance, it ob∣lique
+Processes are hardly visible, ex∣cept
+the superior ones; the parts
+which compose the <HI>Os Sacrum,</HI> are
+plac'd in the number of the <HI>Vertebrae,</HI>
+not by reason of their use, but because
+of their resemblance, for otherwise
+they are immoveable: The <HI>Os Sacrum</HI>
+may be said to be divided into five
+<HI>Vertebrae</HI> of different bigness, whereof
+the superior is biggest, they diminish∣ing
+as they descend, the last being the
+least; these seperate easily in Infants,
+by reason the Cartilages which unite
+them, are not fully ossified; but in A∣dults,
+they all make up but one intire
+Bone.</P>
+<P>This Bone seems to have several
+Uses,<NOTE PLACE="marg">Vses.</NOTE> the first is, as I have already re∣mark'd,
+to serve as a Foundation to
+the whole Spine. Secondly, to help
+to contain the parts of the <HI>Hypogastri∣um,</HI>
+by forming Cavity, as I have
+said. The third to defend them; the
+fourth to Articulate the Bones of the
+<PB N="75" REF="46"/>
+Hips; the fifth to give Origin and In∣sertion
+to many Muscles.</P>
+<P>To the end of this Bone are annex'd
+two or three little Bones call'd <HI>Ossa
+Coccygis,</HI><NOTE PLACE="marg">Ossa Coc∣cygis.</NOTE>
+the Cuckow's Beak; some
+call them the Rump-bones: They
+have a somewhat loose Articulation,
+and tyed by Cartilages one to ano∣ther,
+the last is the smallest: They
+have this loose Articulation, that
+they may give way to the <HI>Foetus</HI> in
+the Birth, therefore in Women these
+Bones are always more bent back∣wards
+than in Men; they end in a
+Cartilaginous point, to which is tyed
+the <HI>Intestinum Rectum;</HI> they have no
+thing more material in them, having
+neither Process nor Cavity.</P>
+<P>We shall now proceed to the Bones
+of the Breast and Ribs,<NOTE PLACE="marg">Bones of the Breast.</NOTE> which is the
+second Division of the Trunk.</P>
+<P>The Ribs are twenty-four in num∣ber,<NOTE PLACE="marg">Ribs 24.</NOTE>
+twelve on each side; to be well-instructed
+in all which concerns the
+Ribs, we must observe several things,
+as their Substance, Figure, Connexi∣ons,
+Parts, Division and Use, of all
+which in order.</P>
+<P><PB N="76" REF="47"/>
+The substance of the Ribs is partly
+Bony,<NOTE PLACE="marg">Substance of the Ribs.</NOTE> and partly Cartilaginous, that
+end next the <HI>Vertebra,</HI> being of a har∣der
+and more solid and thick substance
+than that towards the <HI>Sternon,</HI> which
+is flattish, so less capable of being
+broke; sor that end towards the <HI>Ster∣non</HI>
+being more spongy in substance,
+all the Ribs end towards the Breast by
+Cartilages, increasing in length as the
+Ribs descend; and those Cartilages of
+the superior Ribs, are harder than
+those of the inferior; sometimes these
+Cartilages grow bony in Old People,
+so that they cannot be separated by a
+Knife.</P>
+<P>The Ribs have a sort of Semicircu∣lar
+Figure,<NOTE PLACE="marg">Figure.</NOTE> making a sort of Arch;
+when two are together, they make a
+kind of a true Circle, Concave inward∣ly,
+to form the Capacity of the <HI>Tho∣rax,</HI>
+and to contain the Lungs and
+Heart, and Convex outwardly, to re∣sist
+outward force; the farther they
+depart from the <HI>Sternon,</HI> the more
+round they are in their own Body;
+they are not equally big, for the supe∣rior
+are shorter, the middle biggest of
+<PB N="77" REF="47"/>
+all, and the inferior one least of all;
+their upper sides are thick, blunt, and
+broad; one edge is call'd the interior,
+the other the exterior Lip; their un∣der
+edges are sharp, having in their
+inside a long <HI>Sinus,</HI> or Furrow, in
+which lye the Intercostal Vessels.</P>
+<P>The Ribs are Articulated by their
+Extremities,<NOTE PLACE="marg">Articulati∣on.</NOTE> both to the <HI>Vertebrae</HI> of
+the <HI>Thorax,</HI> and <HI>Sternon;</HI> that Articu∣lation
+with the Back is moveable, the
+other not; the long Head of each Rib
+is Articulated by a single <HI>Arthrodia;</HI>
+it has a small Protuberance cloathed
+with a Cartilage, which head is re∣ceived
+into a <HI>Sinus</HI> of the transverse
+Process of the <HI>Vertebra;</HI> 'tis this Pro∣cess
+which supports the Ribs, and hin∣ders
+them from coming lower in Ex∣piration:
+You must observe,<NOTE PLACE="marg">N. B.</NOTE> that the
+back-part of every Rib is higher than
+the fore-part, till the Cartilage be
+join'd, which turning a little up,
+makes the two ends of an equal
+height, so that by the rising of the
+Ribs, the Breast is enlarged. We must
+also take notice, that almost all the
+Ribs have a Communication with the
+<PB N="78" REF="48"/>
+<HI>Sternon,</HI> either directly or indirectly;
+that is, the superior ones are by a di∣rect
+insertion, but the lower by an in∣direct,
+which is by Cartilages adhe∣ring
+to the superior.</P>
+<P>All the Ribs make a sort of Angle
+by their Cartilages towards the <HI>Ster∣non,</HI>
+which serves to increase the
+Spring of the Cartilages, that the
+Ribs be brought down again, having
+been rais'd in Inspiration. It some∣times
+happens, though seldom, that
+these Cartilages are ossified,<NOTE PLACE="marg">☜</NOTE> which
+occasions an Incurable <HI>Asthma;</HI> the
+last, or lowest Rib in Man, have no
+Cartilage as the rest; the lower
+the Ribs, are, longest and more
+movable,<NOTE PLACE="marg">N. B.</NOTE> because Respiration in Man
+is downwards, but in Birds up∣wards.</P>
+<P>The Ribs are commonly divided in
+two sorts,<NOTE PLACE="marg">Ribs of two sorts.</NOTE> as true or false, but I think
+they may well be all accounted true,
+except the last, (being join'd mediate∣or
+immediately to the <HI>Sternon</HI> by Car∣tilages)
+which has none, so only may
+be term'd a false Rib; however it be∣ing
+a common received Opinion, I
+<PB N="79" REF="48"/>
+shall make the division: the long or
+true are seven on each side,<NOTE PLACE="marg">True 14.</NOTE> and are
+the superior ones; the first of which
+has no motion at all, it being as a
+prop for all the rest, but as they de∣scend
+they increase in motion; they
+are Articulated to the <HI>Vertebrae</HI> of the
+Back by a sort of double <HI>Arthrodia,</HI>
+which makes a <HI>Ginglimus,</HI> and to the
+<HI>Sternon</HI> by <HI>Synarthrosis,</HI> the three low∣est
+of which are by some call'd the
+Pectoral Ribs.<NOTE PLACE="marg">Costae Pe∣ctorales.</NOTE></P>
+<P>The false or bastard are five on each
+side,<NOTE PLACE="marg">False, 10.</NOTE> the four uppermost of which
+have at their Extremities towards the
+<HI>Sternon</HI> long Cartilages, bending up∣wards,
+and cleaving only one to ano∣ther;
+that is, the lowest to the supe∣rior,
+so not directly united to the
+<HI>Sternon,</HI> as the first seven are; which
+was the Reason the Antients gave
+them the Name of Spurious: The last
+has no Cartilage at its end, the edge of
+the <HI>Diaphragme</HI> being tyed to it.</P>
+<P>All the Ribs, as I have already de∣monstrated,
+are received both into
+the transverse Processes, and body of
+the <HI>Vertebrae;</HI> except the two or three
+<PB N="80" REF="49"/>
+last, which are only received into the
+body of the <HI>Vertebrae.</HI></P>
+<P>The Ribs are to defend the Heart
+and Lungs,<NOTE PLACE="marg">Vse.</NOTE> <HI>&amp;c.</HI> from all sorts of ex∣ternal
+Injuries, so that they be not
+prest, but have free motion, which
+were it not bony, would be always in
+danger of being offended; they also
+serve to sustain the Respiratory Mus∣cles.</P>
+<P>The Cartilages of the Ribs have this
+Use,<NOTE PLACE="marg">Vse of the Cartilages.</NOTE> that is, when the Ribs are drawn
+something upwards in Inspiration,
+they draw them down again with a
+sort of Spring; for all Cartilaginous
+Bodies are indued with a sort of Ela∣sticity,
+so that they always recover
+their first Figure.</P>
+<P>This Mechanism is observed in va∣rious
+Animals,<NOTE PLACE="marg">☜</NOTE> for in Birds the <HI>Ster∣non</HI>
+is immovable, because the flying
+Muscles arise from thence; so that if
+the <HI>Sternon</HI> had any thing to do in Re∣spiration,
+it would be hinder'd;
+therefore Nature has contrived another
+Artifice, which is this, between eve∣ry
+Rib there's a little Bone, plac'd
+somewhat obliquely, so that if one
+<PB N="81" REF="49"/>
+moves, the other follow by con∣sent.</P>
+<P>All these Birds have no Diaphragm,<NOTE PLACE="marg">☞</NOTE>
+but instead thereof two Bladders,
+which reach to the bottom of their
+Bellies, they serve for the <HI>Diaphrag∣ma,</HI>
+and also help to keep them sus∣pended
+in the Air: Those Creatures
+which have a <HI>Diaphragma,</HI> breathe
+downwards, but Birds, <HI>&amp;c.</HI> which
+have none, breathe upwards.</P>
+<P>In Amphibious Creatures, as the
+Tortoise, <HI>&amp;c.</HI> their shell is in place
+of Ribs, and Frogs have only one Rib
+on a side, to defend the Lungs.</P>
+<P>The Breast-bone is call'd <HI>Sternon,</HI><NOTE PLACE="marg">Sternon <HI>made up of three Bones.</HI></NOTE> or
+<HI>Os Pectoris,</HI> situated in the middle of
+the Anterior part of the Breast, com∣posed
+of two or three Bones, having
+the Productions of the Cartilages of
+the Ribs inserted into their sides, of a
+reddish fungous Substance.</P>
+<P>To consider it well, it must be exa∣mined
+at two different times; for in
+Infants it's almost all Cartilaginous,
+except the first Bone where the <HI>Clavi∣culae</HI>
+are fastned. In Old People I have
+seen it all ossified, except the first
+<PB N="82" REF="50"/>
+with the second at its juncture, but in
+those of Middle Age, partly Bony,
+and partly Cartilaginous, the supe∣rior
+Bone always ossifies first, and the
+inferior last. In the <HI>Sternon</HI> of Infants
+you may perceive seven or eight Jun∣ctures,
+as if so many Bones, but in
+the seventh or eighth Year, they uni∣ting,
+make up but three or four at
+most.</P>
+<P>The first or superior Bone of the
+<HI>Sternon,</HI><NOTE PLACE="marg">First Bone.</NOTE> is more thick and solid than
+the rest, made in the shape of a Cres∣cent
+almost, at each side of its superior
+part, it has a <HI>Sinus</HI> to receive the head
+of the <HI>Clavicula;</HI> at its top it has a Lu∣nated
+<HI>Sinus</HI> call'd <HI>Jugulum;</HI><NOTE PLACE="marg">Jugulum.</NOTE> it has al∣so
+a small long <HI>Sinus</HI> on its inside, to
+give way to the <HI>Aspera Arteria:</HI> It's
+immovable.</P>
+<P>The second Bone is narrower,<NOTE PLACE="marg">Second Bone.</NOTE> lon∣ger
+and thinner, having at its sides
+many Sinosities, to receive the Carti∣lages
+of the Ribs.</P>
+<P>The third Bone is less than the se∣cond,<NOTE PLACE="marg">Third Bone.</NOTE>
+but broader, at the lower end
+of which is annex'd a Cartilage call'd
+<HI>Xiphoides, vel Mucroconita, vel Ensi∣formis,</HI>
+<PB N="83" REF="50"/>
+the Sword-like Cartilage;<NOTE PLACE="marg">Cartilago Ensiformis.</NOTE> it's
+of a Triangular Figure, it serves to
+defend the superior Orifice of the Sto∣mach:
+It's this place which is call'd
+<HI>Scrobiculus Cordis,</HI> the Heart-pit; the
+<HI>Diaphragma</HI> is also fastned to it; a
+strong Ligament of the Liver, call'd
+<HI>Suspensorium,</HI><NOTE PLACE="marg">☜</NOTE> is tyed to it, for in In∣spiration
+the Ribs being draw up∣wards,
+then the Liver by its weight
+keeps this from moving, and when in
+Exspiration the Ribs assume their for∣mer
+Figure, this by its Cartilaginous
+Spring assumes his also.</P>
+<P>The Uses of the <HI>Sternon</HI> are,<NOTE PLACE="marg">Vses of the Sternon.</NOTE> first,
+to unite the Ribs, that their motion
+may be all at one and the same time,
+also to receive the <HI>Clavicula:</HI> Lastly,
+to fasten the <HI>Mediastinum,</HI> which is a
+Membrane that divides the Breast in
+two.</P>
+<P>The third part that compose the
+Trunk,<NOTE PLACE="marg">Ossa Inno∣minata.</NOTE> are call'd <HI>Ossa Innominata,</HI> be∣cause
+of a very strange Figure; they
+are in number two, one on each side of
+the <HI>Os Sacrum,</HI> having where they are
+united to it, many Depressions and
+Risings, for their greater Strength and
+<PB N="84" REF="51"/>
+Connexion,<NOTE PLACE="marg">Articulati∣on.</NOTE> being Articulated before
+by <HI>Synchondrosis,</HI> so make up that Ca∣vity
+call'd the <HI>Pelvis,</HI><NOTE PLACE="marg">Pelvis.</NOTE> which contains
+the (Womb in Women) Bladder,
+and <HI>Intestinum Rectum,</HI> with other of
+the Guts.</P>
+<P>In Children each Bone consists of
+three,<NOTE PLACE="marg">Each con∣sists of three in Children.</NOTE> all of them meeting in that
+deep Cavity, call'd <HI>Acetabulum,</HI> which
+receives the head of the <HI>Fenier,</HI> but as
+we grow in Years they all make but
+one Bone, yet then, for better distin∣ction,
+nam'd as three, as the <HI>Os Ile∣um,
+Ischium,</HI> and <HI>Pubis,</HI> of all which
+in order.</P>
+<P>The <HI>Ileum</HI> is the superior part of the
+Bone,<NOTE PLACE="marg">Os lleum.</NOTE> so call'd, because most part of
+the <HI>Ileum</HI>-Gut lyes on its Internal
+Face; from it's External arise the
+<HI>Musculi Glutei:</HI> It's the biggest of
+the three, and join'd with the <HI>Os Sa∣crum.</HI></P>
+<P>Things to be consider'd in this Bone,<NOTE PLACE="marg">Spina Ilei.</NOTE>
+are, first, its Figure, which is Semi∣circular.
+Secondly, its top, which is
+call'd the Ridg, Comb, or Spine, be∣ing
+covered with a Cartilage: Its In∣ternal
+<PB N="85" REF="51"/>
+Face is Concave, and its Exte∣rior
+Convex: It has three Protube∣rances,
+being rather so many parts of
+the Spine;<NOTE PLACE="marg">Three parts of the Spine.</NOTE> one forwards, call'd <HI>Spina
+Anterior Superior;</HI> another below,
+call'd <HI>Spina Anterior Inferior,</HI> less
+than the former; and a third behind,
+call'd <HI>Spina Posterior.</HI></P>
+<P>The <HI>Os Ischium,</HI><NOTE PLACE="marg">Os Ischium</NOTE> or <HI>Coxendicis,</HI> is
+the lower part of the <HI>Os Innomina∣tum,</HI>
+in which is to be consider'd two
+parts; first, It's Superior, which
+makes up the greatest part of the <HI>Cotu∣la,</HI>
+or <HI>Acetabulum.</HI> Secondly, Its In∣ferior,
+or lower part, which we sit
+on, which is call'd <HI>Tuberositas Ischii;</HI><NOTE PLACE="marg">Tuberosi∣tas.</NOTE> it
+has a Sinuosity on its inner side, where
+the <HI>Musculus Obturator Internus</HI> winds
+about; the Muscles of the <HI>Penis,</HI> and
+Elevators of the <HI>Anus,</HI> have their Ori∣gin
+from the Tuberosity of the <HI>Is∣chium.</HI></P>
+<P>The <HI>Os Pubis,</HI><NOTE PLACE="marg">Os Pubis.</NOTE> or <HI>Pectinis,</HI> by us the
+Share-bone, is the fore-part of the <HI>Os
+Innominatum;</HI> it's join'd forwardly to
+its Fellow by <HI>Synchondrosis,</HI> the hinder
+part of it forms part of the <HI>Acetabulum;</HI>
+<PB N="86" REF="52"/>
+the superior part is call'd the Spine, to
+which the Muscles of the <HI>Abdomen</HI> are
+fastned; where this joins with the
+<HI>Ischium</HI> there's large <HI>Foramen,</HI> call'd
+<HI>Ovale,</HI><NOTE PLACE="marg">Foramen Ovale Ossis Pubis.</NOTE> cover'd with very a strong Li∣gamentous
+Membrane; above this
+<HI>Foramen</HI> there's <HI>Sinus,</HI> by which the
+Crural Vessels pass to the Thigh.</P>
+<P>All these Bones being join'd toge∣ther
+in their middle, make up that
+deep Cavity call'd <HI>Acetabulum, vel Co∣tula,</HI>
+in which the head of the <HI>Os Fe∣moris</HI>
+enters, which is tipt with a
+Cartilage, call'd <HI>Supercilium.</HI></P>
+<P>These Bones are more ample and
+large in Women than Men,<NOTE PLACE="marg"><HI>Ossa Pubis,</HI> largest in Women.</NOTE> and those
+which have them most advanc'd, have
+the easiest Labour.</P>
+<P>The Antients believed, that in La∣bour
+the <HI>Ossa Pubis</HI> separated for the
+more easie Delivery of the Birth,<NOTE PLACE="marg">The <HI>Ossa Pubis</HI> do not separate in Labour.</NOTE> nay,
+<HI>Bartholinus</HI> is of this Opinion, for he
+says, that in a Woman newly Deli∣ver'd,
+you may divide them with
+the back of a Knife; but I presume it's
+not so, for they separate not the least;
+'tis only the <HI>Os Coccygis</HI> which gives
+<PB N="87" REF="52"/>
+way a little by bending backwards,
+for most pain is felt when the <HI>Foetus</HI>
+passes by the Fundament; yet some
+have a more loose Articulation of their
+Bones, and so perhaps might bring
+them into this Error.</P>
+</DIV2>
+<DIV2 N="5" TYPE="demonstration">
+<PB N="88" REF="53"/>
+<HEAD>Demonstration IV.</HEAD>
+<HEAD TYPE="sub">Of the Bones of the Superior
+Extremities.</HEAD>
+<P>I Have Demonstrated all the Bones
+which make up the two parts of
+the Skeleton, there remains now only
+the third part, which is those of the
+Extremities.</P>
+<P>The Extremities,<NOTE PLACE="marg">Extremi∣ties, Vpper and Lower.</NOTE> or rather the
+Limbs, are either Superior, as the
+Arms; or Inferior, as the Legs.</P>
+<P>We will begin with the Superior;
+but first I must inform you, that since
+both Extremities are double, I shall
+only speak of them in the singular num∣ber,
+for by demonstrating one side,
+you at the same time shew the other.</P>
+<P>Although there be no part which
+does not furnish us with some Subject
+of Admiration, yet we must all agree,
+that the Arm hath as great a share,
+if not more, than any other; for which
+reason <HI>Aristotle</HI> call'd it the Organ of
+<PB N="89" REF="53"/>
+Organs, and the Instrument of Instru∣ments;
+and since Nature has given
+to all Animals, something particular,
+either to defend themselves against
+others, and preserve themselves from
+external Injuries; or else to offend;
+we may say then, that Man has re∣ceived
+two things preferable to Ani∣mals,
+to wit, Reason and Hands, the
+one for Counsel and Conduct, the o∣ther
+for Execution of our Will; 'tis
+these Hands which gives him the So∣veraign
+Command over all Creatures
+be he never so Cruel, Strong, or
+Swift; for of what Advantage would
+all our Reason and Conduct be, if we
+had not Hands to perform what Rea∣son
+dictates: I could say much more
+on this Subject, but that I am here on
+plain Demonstration, and not Philo∣sophizing.</P>
+<P>The Arm,<NOTE PLACE="marg">Division. Arm, five parts.</NOTE> generally so called, has
+five parts, as the <HI>Clavicula, Scapula,</HI>
+Shoulder, Arm, and Hand, of all
+which in due course.</P>
+<P>1. The <HI>Clavicula,</HI><NOTE PLACE="marg">Clavicula▪</NOTE> which some place
+among the Bones of the Spine, but I
+<PB N="90" REF="54"/>
+think it rather belongs to those of the
+Arms, as I shall shew in its use, the
+whole motion of the Arm depending
+on this Bone; It's call'd <HI>Clavicula,</HI> I
+suppose, being a diminutive from <HI>Cla∣vis</HI>
+a Key, because the Keys in old time
+were like an s<NOTE PLACE="marg">Figure.</NOTE> in <HI>Padua</HI> they have
+such sort of Keys still, as I am in∣form'd
+by those who have been there;
+it's not so crooked in Women as in
+Men;<NOTE PLACE="marg">Articulati∣on.</NOTE> it's Articulated by one end to
+the <HI>Acromium</HI> of the <HI>Scapula,</HI> and by
+the other to the upper part of the
+first Bone of the <HI>Sternon;</HI> by a sort of
+<HI>Arthrodia,</HI> yet has but little motion;
+the more crooked these Bones are,
+the more force and agility has the
+Arm.<NOTE PLACE="marg">Substance.</NOTE> It's hollow in the middle, and
+contains Marrow, as all long Bones,
+but towards the ends Spongy; that
+end towards the <HI>Acromium</HI> is not very
+thick, but rough, and unequal, the
+end towards the <HI>Sternon</HI> smoother:
+It's also here outwardly Convex, but
+inwardly Concave, to give way to
+the Vessels which pass under it, other∣wise
+it would have prest them; but
+towards the <HI>Acromium,</HI><NOTE PLACE="marg">☜</NOTE> Convex in∣wardly,
+<PB N="91" REF="54"/>
+and Concave outwardly, for
+the more convenient situation of the
+Deltoid Muscle, which would other∣wise
+appear too bulky, and make the
+Breast look deform'd.</P>
+<P>They serve to uphold the <HI>Scapula</HI>
+and <HI>Humerus</HI> from falling on the
+Breast,<NOTE PLACE="marg">Vse.</NOTE> which they do when this Bone
+happens to be Fractured; the whole
+motion of the Arm depends also on
+this Bone; for Brutes having no <HI>Cla∣viculae,</HI>
+cannot move their Fore-legs so
+readily as Man, or as some Animals
+which have them, as Monkeys, Squir∣rels,
+<HI>&amp;c.</HI></P>
+<P>2. The <HI>Scapula,</HI><NOTE PLACE="marg">Scapula.</NOTE> or Shoulder bone,
+is situated on the back-part of the <HI>Tho∣rax,</HI>
+being only fastned with Muscles,
+(so more loose, that the motion be
+freer and easie) except in its <HI>Acromi∣um</HI>
+where it's Articulated with the
+<HI>Clavicula;</HI> it's of a Triangular Figure,<NOTE PLACE="marg">Figure.</NOTE>
+whereof two Angles are Posterior,
+and one Anterior, Its inward Face is
+Concave, as well to accommodate it
+self to the Ribs whereon it lyes, as to
+contain a Muscle, but outward Gib∣bous,
+thicker on its edges than in the
+<PB N="92" REF="55"/>
+middle,<NOTE PLACE="marg">☜</NOTE> being there transparent, and
+very thin; so that in a <HI>Caries</HI> of that
+part we cannot expect Exfoliation, no
+Medullar Glands being there, it's nou∣rished
+from its sides.</P>
+<P>Parts to be consider'd in this Bone,<NOTE PLACE="marg">Processes, three.</NOTE>
+are first, its Processes, which are three,
+first is a thin, but rising Process, in the
+middle of its outside, extending all its
+length, it's call'd the Spine;<NOTE PLACE="marg">Spine Acromium</NOTE> its Point
+or Extremity is call'd the <HI>Acromium,</HI>
+in which is a flattish <HI>Sinus</HI> to receive
+the <HI>Clavicula:</HI> Some say that this Pro∣cess
+is a distinct Bone from the <HI>Scapula,</HI>
+because in Infants its only Cartilagi∣nous,
+which ossifying by degrees,
+makes up but one Bone; the second
+is less, and plac'd at the superior part
+of the Neck, which advances above
+the Head of the Bone of the Arm: It's
+curved, and call'd <HI>Coracoides,</HI><NOTE PLACE="marg">Coracoides Ancyroi∣des</NOTE> the
+Crows-bill, or <HI>Ancyroides,</HI> some call
+it only <HI>Processus Curvatus,</HI> it streng∣thens
+the Articulation of the <HI>Humerus.</HI>
+The third, or middle one, is call'd
+<HI>Cervix,</HI><NOTE PLACE="marg">Cervix.</NOTE> is which in a somewhat flat
+<HI>Sinus</HI> to receive the head of the <HI>Hume∣rus,</HI>
+call'd <HI>Glenoides;</HI> the <HI>Humerus</HI> is
+<PB N="93" REF="55"/>
+tyed to it by a strong, but somewhat
+loose Ligament; the edges of this <HI>Si∣nus</HI>
+is tipt with a Cartilaginous Liga∣ment,
+which hinders the <HI>Humerus</HI>
+from being too easily Dislocated;
+there's also a strong Ligament from
+the <HI>Acromium</HI> to the <HI>Processus Cora∣coides,</HI>
+which, together with the <HI>A∣cromium,</HI><NOTE PLACE="marg">☞</NOTE>
+hinders the <HI>Humerus</HI> from
+being too easily Dislocated upwards,
+except this Ligament or the <HI>Acromiune</HI>
+be broken.</P>
+<P>The edges of this Bone are call'd
+<HI>Costa.</HI><NOTE PLACE="marg">Costa.</NOTE></P>
+<P>It has three Angles,<NOTE PLACE="marg">Angles, three.</NOTE> 1. The Infe∣rior.
+2. Posterior. 3. <HI>Cervix;</HI> that
+part which reaches from the Posterior
+to the Inferior Angle, is call'd the <HI>Ba∣sis</HI>
+of the <HI>Scapula.</HI><NOTE PLACE="marg">Basis.</NOTE></P>
+<P>It has two notable <HI>Sinusses</HI><NOTE PLACE="marg">Sinusses.</NOTE> one on
+each side the Spine, where the <HI>Musculi
+Infra,</HI> and <HI>Supra Spinati</HI> lye; the lower
+<HI>Sinus</HI> is largest; in its inside Concave
+part lyes the <HI>Musculus Subscapularis,
+vel Immersus.</HI></P>
+<P>The <HI>Scapula</HI> has many Uses;<NOTE PLACE="marg">Vse.</NOTE> first,
+it gives Origin to many Muscles, it fa∣stens
+also the Arm to the Body, and
+<PB N="94" REF="56"/>
+serves to support it, to the end it may
+have all its motions.</P>
+<P>The third part of the superior
+Limb is the <HI>Os Humeri,</HI><NOTE PLACE="marg">Humerus.</NOTE> or Shoulder∣bone,
+it's the strongest and largest of
+all that compose the Arm; it's long
+and round in its fore part, but some∣what
+flat behind; its superior part is
+Articulated to the <HI>Cervix</HI> of the <HI>Scapu∣la</HI>
+by <HI>Arthrodia;</HI><NOTE PLACE="marg">Articulati∣on.</NOTE> at its lower end
+with the <HI>Cubitus</HI> by <HI>Ginglimus;</HI> it al∣so
+touches the <HI>Radius</HI> by <HI>Arthrodia.</HI></P>
+<P>To examine the parts of the <HI>Hume∣rus,</HI>
+you must consider its Extremi∣ties,<NOTE PLACE="marg">Parts to be consider'd.</NOTE>
+and Body.</P>
+<P>The Body is long and round, with∣in
+it contains a Marrow;<NOTE PLACE="marg">Body.</NOTE> its Figure is
+not absolutely streight, but somewhat
+hollow inwardly, and bunching out∣wardly,
+to fortifie it in its Actions;
+there is observed a Line which de∣scends
+and terminates in two Pro∣cesses,
+which serve to fasten the Mus∣cles
+inserted here.</P>
+<P>The superior Extremity of the <HI>Hu∣merus</HI>
+is bigger and more spongy than
+the Inferior;<NOTE PLACE="marg">Superior Extremity.</NOTE> and contains a Medullar
+Juice; it's call'd the Head, cover'd
+<PB N="95" REF="56"/>
+with a Cartilage: It's encompassed
+on all sides with Ligaments and Mem∣branes,
+which proceed from the Gle∣noid
+Cavity of the <HI>Scapula;</HI> a little be∣low
+this Head,<NOTE PLACE="marg">Processes.</NOTE> there's a round part a
+little smaller, call'd the Neck; there's
+at the hinder part of this end two
+rough unequal Processes, into which
+several Tendons and Ligaments are
+inserted; so that great Care ought to
+be had in Wounds, or Ulcers of this
+part, lest you mistake the Roughness
+for a Cariosity;<NOTE PLACE="marg">N. B.</NOTE> between these inequa∣lities
+there's a long Slit, or Scissure,
+in which the Tendon of the <HI>Musculus
+Biceps</HI> passes.</P>
+<P>The Inferior Extremity of the <HI>Hu∣merus</HI>
+is less, flatter, and harder than
+the other; it has three Processes, two
+whereof are call'd <HI>Condyli,</HI><NOTE PLACE="marg">Condyli▪</NOTE> the Exte∣rior
+and Interior: The Bone seems
+here to be divided in two parts. The
+third, or middle Process, is large, and
+call'd <HI>Trochlea,</HI><NOTE PLACE="marg">Trochlea.</NOTE> the Pully; it has two
+large Sinusses, which receive the Pro∣cesses
+of the <HI>Vlna,</HI> to which it's Arti∣culated
+by <HI>Ginglimus;</HI> the back <HI>Sinus</HI>
+is large and deep, which receives the
+<PB N="96" REF="57"/>
+<HI>Olecranon,</HI> but that on its fore part
+smaller.</P>
+<P>The fourth part,<NOTE PLACE="marg"><HI>Brachium,</HI> two Bones.</NOTE> or that which is
+strictly call'd the Arm, is composed
+of two Bones, the biggest and longest
+call'd <HI>Vlna,</HI> the lesser <HI>Radius;</HI> for had
+this part been made up only of one
+Bone join'd by <HI>Ginglimus,</HI> we could
+do nothing else but extend and draw
+up the Arm, and not turn it upwards
+and downwards, which is perform'd
+by means of the <HI>Radius,</HI> for which end
+it's Articulated by <HI>Arthrodia.</HI></P>
+<P>The two Bones are not both of a
+bigness, for which some distinguish
+them by the Names of <HI>Major</HI> and
+<HI>Minor Focile;</HI> in their middle they are
+somewhat distant the one from the o∣ther,
+for the more Commodious Situa∣tion
+of the Muscles, Passage of the Ves∣sels,
+and principally for the Ease of
+Motion.</P>
+<P>1. The <HI>Vlna,</HI> or <HI>Cubitus,</HI><NOTE PLACE="marg">Ulna.</NOTE> so call'd,
+by reason it's this Bone which makes
+the Elbow; it's biggest at the superior
+part, and had two large Processes, that
+in the back-part is call'd <HI>Olecranon▪</HI><NOTE PLACE="marg">Olecranon.</NOTE>
+<PB N="97" REF="57"/>
+<HI>vel Ancon,</HI> which when the Arm is
+extended, is received into the large
+Posterior <HI>Sinus</HI> of the <HI>Trochlea,</HI> so stops
+the Arm from going further back∣wards,
+it's otherwise call'd the El∣bow;
+the other is less, and received
+into the fore <HI>Sinus</HI> of the <HI>Trochlea,</HI> it
+stops the Arm from being bent too
+close forward; below this is another
+very small Process, into which the
+Tendon of the <HI>Musculus Biceps</HI> is in∣serted.</P>
+<P>It has two small Sinusses,<NOTE PLACE="marg">Sinusses.</NOTE> the Lat∣teral
+one receiving the Head of the
+<HI>Radius,</HI> the other is between the two
+large Processes, and receives the <HI>Tro∣chlea</HI>
+of the <HI>Humerus;</HI> it may be call'd
+<HI>Sigmatoides,</HI> because it resembles the
+Greek Letter <HI>Sigma.</HI></P>
+<P>At the body,<NOTE PLACE="marg">Three An∣gles in its Body.</NOTE> of middle of this Bone,
+there's observed three Angles, where∣of
+the Inferior is call'd the Spine, and
+is very streight; the other two are
+oblique, the one of which is the Ante∣rior
+Angle, the other Posterior; one
+side is very smooth and equal, the o∣ther
+pretty rough, some Tendons be∣ing
+inserted there.</P>
+<P><PB N="98" REF="58"/>
+The Inferior part of this Bone has
+two Eminencies, and one Cavity;
+the first of the Eminencies is seated at
+the lateral part, and is received by the
+Glenoid Cavity of the <HI>Radius:</HI> The
+second is at the very Extremity, and
+may be call'd <HI>Styloides,</HI><NOTE PLACE="marg">Stylodes.</NOTE> it serves to
+strengthen the Articulation; the Ca∣vity
+or Sinuosity is at the end of the
+Bone, and helps to make the <HI>Arthro∣dia</HI>
+with the <HI>Carpus:</HI> This Bone at its
+superior end receives the <HI>Radius,</HI> but
+is received by the <HI>Radius</HI> at its lower
+end.</P>
+<P>The <HI>Radius</HI><NOTE PLACE="marg">Radius.</NOTE> is the second Bone of
+the Arm, (or as some call it, the Fore-Arm)
+so call'd, because it resembles
+the Spoke of a Wheel;<NOTE PLACE="marg">Articulati∣on.</NOTE> it's Articula∣ted
+in its superior part, two manner of
+ways: First, with the External Con∣dyl
+of the <HI>Humerus.</HI> Secondly, with
+the <HI>Ulna,</HI> and both by <HI>Arlhrodia:</HI> It's
+likewise Articulated two manner of
+ways in its Inferior part, either with
+the Bones of the <HI>Carpus</HI> at its Extremi∣ty,
+or with the <HI>Vlna,</HI> on its latter part:
+The <HI>Radius</HI> is smallest in its Superior,
+but largest in its Inferior part.</P>
+<P><PB N="99" REF="58"/>
+The Things to be observed in its
+Superior part are these;<NOTE PLACE="marg">Superior part.</NOTE> First, its
+Head, which is round and polished,
+at the end of which is a Glenoid Cavi∣ty,
+which as I have already remark'd,
+receives the External Condyl of the
+<HI>Humerus;</HI> the Neck is somewhat
+long. Now this is very observable,<NOTE PLACE="marg">☞</NOTE>
+that the Ligament which comes from
+the other Bone to join it, is not inser∣ted
+in it as in other Bones, but only
+encompasses this Neck as a Ring, so
+that it may turn,<NOTE PLACE="marg">Ligamen∣tum Admi∣rabile.</NOTE> for its Prone, and
+Supine Motions, which had the Liga∣ment
+been inserted into it, it could not
+have done, yet at the same time it's
+strong enough to keep it firm; the
+whole motion of the Wrist is per∣form'd
+by the <HI>Radius;</HI> the Tuberosity
+or Eminence is seated just below the
+Neck, and is received into the lateral
+Superior <HI>Sinus</HI> of the <HI>Ulna.</HI></P>
+<P>In its middle it has an obtuse Angle,
+which some call the Spine, which
+gradually grows bigger as it inclines
+towards the <HI>Carpus,</HI> different from the
+<HI>Cubitus,</HI><NOTE PLACE="marg">Body.</NOTE> which diminishes: It's in this
+that we may admire Nature, which
+<PB N="100" REF="59"/>
+not being able to avoid making these
+two Bones unequal in their Extremi∣ties,
+has found means to make the
+Arm equally strong in all parts, by
+placing the weakest part of one Bone
+against the strongest of the other.</P>
+<P>At its Inferior part many Sinuosities
+appear,<NOTE PLACE="marg">Inferior part.</NOTE> which are as small Gutters,
+that so the Tendons be not incommo∣ded;
+it has also a Cavity at its Extre∣mity,
+which receives one of the Bones
+of the <HI>Carpus;</HI> at its lower end it has
+a blunt Process,<NOTE PLACE="marg">Mastoides.</NOTE> call'd <HI>Mastoides:</HI>
+from the Internal Angle of this Bone,
+there's a long broad Ligamentous
+Membrane, which unites it to the In∣ternal
+Angle of the <HI>Ulna,</HI> according to
+its length.</P>
+<P>The <HI>Ulna</HI> serves only for Flexion
+and Extension,<NOTE PLACE="marg">Vse of the <HI>Radius</HI> and <HI>Ulna.</HI></NOTE> and the <HI>Radius</HI> for
+Pronation and Supination.</P>
+<P>The fifth and last part of the Arm,<NOTE PLACE="marg">5. Hand.</NOTE>
+generally so call'd, is the Hand, which
+is subdivided into the <HI>Carpus, Metacar∣pus.</HI>
+and Fingers.</P>
+<P>The <HI>Carpus,</HI><NOTE PLACE="marg"><HI>Carpus,</HI> eight Bones.</NOTE> or Wrist, is composed
+of eight small Bones plac'd in two
+ranks, four in a rank, three of the
+<PB N="101" REF="59"/>
+first rank are united very close on
+their sides, the two greatest of which
+are received into the Cavity of the <HI>Ra∣dius</HI>
+by <HI>Arthrodia,</HI> for the motion of
+the Hand in their Inferior part, they
+touch the three Bones of the second
+rank of the <HI>Carpus;</HI> the third of the
+first rank which is next in bigness,
+and received in the Cavity at the lower
+Extremity of the <HI>Ulna;</HI> the fourth of
+the first rank which lyes on the out∣side,
+a little out of its rank, is the least
+of the four: The four Bones of the se∣cond
+rank are join'd together on their
+sides by <HI>Harmonia,</HI> as the Bones of the
+first rank are, also one to another so;
+but at their ends, to the Bones of the
+<HI>Metacarpus</HI> by <HI>Enarthrosis,</HI> having an
+obscure motion: The first Bone of
+this rank is seated more within the
+Hand, that the Thumb be better su∣stain'd;
+the second and third sustain
+the first and second Bone of the <HI>Meta∣carpus;</HI>
+the fourth Bone of this second
+rank sustains the third and fourth
+Bones of the <HI>Metacarp,</HI> by its two Gle∣noid
+Cavities: All these Bones are
+Convex on the back-part, but hollow∣ish
+<PB N="102" REF="60"/>
+within,<NOTE PLACE="marg">☜</NOTE> for the more safe passage
+of the Vessels, and Tendons of the
+<HI>Musculi Flexores,</HI> being likewise guard∣ed
+by the <HI>Ligamentum Anulare</HI> which
+covers them,<NOTE PLACE="marg">Ligamen∣tum Anu∣lare.</NOTE> and joins together all
+these Bones.</P>
+<P>The <HI>Metacarpus</HI> is composed of four
+long hollowish Bones,<NOTE PLACE="marg"><HI>Metacar∣pus,</HI> four Bones.</NOTE> containing
+Marrow in their Internal Sinusses;
+there are some who make five Bones
+of the <HI>Metacarp,</HI> and for that end add
+thereto the first Bone of the Thumb,
+but it ought not to be numerated a∣mong
+those of the <HI>Metacarp,</HI> it having
+a manifest, but the others a very ob∣scure
+Motion.</P>
+<P>These four Bones are united by their
+Superior Extremities with the <HI>Carpus,</HI><NOTE PLACE="marg">Articulati∣on.</NOTE>
+as I have already mentioned, by means
+of strong Cartilaginous Ligaments,
+and with the first Bones of the Fingers
+by <HI>Arthrodia;</HI> they also touch one a∣nother
+in their lateral Parts, especially
+towards the <HI>Carpus;</HI> about the mid∣dle
+they are a little separated to give
+way to the <HI>Musculi Interossei:</HI> They
+are Convex, and smooth outwardly,
+<PB N="103" REF="60"/>
+but Concave inwardly; all their Ex∣tremities
+are tipt with Cartilages.</P>
+<P>These four Bones are not of an equal
+bigness, for that which sustains the
+<HI>Index</HI> is the largest, that which su∣stains
+the middle Finger less, and so
+on to the very last, which is least of
+all.</P>
+<P>The Fingers,<NOTE PLACE="marg">Fingers.</NOTE> counting the Thumb,
+are five, having three Bones each;
+these Orders may be well call'd <HI>Pha∣langi
+Digitorum,</HI><NOTE PLACE="marg">Phalangi Digitorum.</NOTE> the first largest, the
+second less, the third least of all; their
+outward Face round, but plain, and
+even within, Articulated to each o∣ther
+by <HI>Ginglimus,</HI> except the first
+rank, which are join'd by <HI>Arthrodia</HI>
+to the <HI>Metacarp,</HI> and so have all sorts
+of Motion, but the other Joints have
+only Flexion and Extension: The least
+Bones are not hollow as the rest, but
+spongy.</P>
+<P>The <HI>Greeks</HI> call the Hand in general
+<HI>Cheir,</HI> but the Thumb <HI>Antichier,</HI> as
+much as to say, an opposite Hand: The
+second Finger, counting the Thumb
+as one, is call'd <HI>Indicator,</HI> because we
+are apt to point it, when we intend to
+<PB N="104" REF="61"/>
+shew something: The third is call'd
+the Middle-Finger, because of its situa∣tion,
+and is the longest of all: The
+fourth is call'd the Annular, by reason
+Rings are used the most upon this Fin∣ger:
+The fifth and least is call'd the
+Auricular, being most fit to pick the
+Ear with.</P>
+<P>I will not speak here of the <HI>Ossa Sesa∣moidea,</HI>
+which are sometimes found
+in the Joints of the Fingers, till we
+explain the Bones of the Toes.</P>
+</DIV2>
+<DIV2 N="6" TYPE="demonstration">
+<PB N="105" REF="61"/>
+<HEAD>Demonstration. V.</HEAD>
+<HEAD TYPE="sub">Of the Bones of the Inferior
+Extremities.</HEAD>
+<P>WE come now to Demonstrate the
+Bones of the Inferior Limbs,
+which is the last part of the Osteo∣logy.</P>
+<P>The Leg,<NOTE PLACE="marg">Division.</NOTE> generally so taken, may
+be divided into the Bones of the Thigh,
+Leg, and Foot.</P>
+<P>We shall begin with the Thigh∣bone,<NOTE PLACE="marg">Os Femo∣ris.</NOTE>
+which is but one in each Leg:
+It's the longest largest, and strongest
+Bone of the Body, being form'd to su∣stain
+the weight of the whole Body;
+some saying that the word <HI>Femur</HI> is
+derived from the Verb <HI>Fero,</HI> to carry
+or bear; it's imbow'd a little on the
+fore-part, but hollow in its back.</P>
+<P>We must examine in this Bone se∣veral
+Things.<NOTE PLACE="marg">Things to be examined in it.</NOTE></P>
+<P><PB N="106" REF="62"/>
+First, At its upper end it has a great
+round head, cover'd with a smooth
+Cartilage,<NOTE PLACE="marg">Articulati∣on.</NOTE> and received into the <HI>Ace∣tabulum</HI>
+by <HI>Enarthrosis,</HI> and tyed there∣in
+by a short, but strong round Liga∣ment,
+which is fastned in the very
+middle of the Head;<NOTE PLACE="marg">Caput.</NOTE> under this Head
+lyes the Neck,<NOTE PLACE="marg">Cervix.</NOTE> which is long, and lyes
+obliquely, otherwise the Head coud
+never have entred conveniently into
+the <HI>Acetabulum,</HI> considering its posture
+in the Skeleton; and also the Neck
+carrying it self outwardly, puts these
+Bones the one from the other, and so
+causes that the Body be carried more
+conveniently and surely.</P>
+<P>At this Extremity or End lyes two
+<HI>Apophyses,</HI><NOTE PLACE="marg">Trochan∣ters.</NOTE> behind the Neck, call'd
+<HI>Trochanters,</HI> which are derived from
+the Greek work <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, which signi∣fies
+to turn, because many of the Mus∣cles
+of the Thigh, especially the <HI>Rota∣tores,</HI>
+are fastned to these Protube∣rances,
+the Anterior and Upper one
+is the biggest, the Posterior and Lower
+the less: the outward part of this Bone
+is smooth, but rough within, many
+Muscles arising from thence: This
+<PB N="107" REF="62"/>
+Bone has a large long Cavity all its
+length, full of Marrow; it's of a
+crooked Figure,<NOTE PLACE="marg">☞</NOTE> so that Surgeons in
+Fractures of this Bone, ought well to
+consider its sound Figure: Towards
+its lower end it grows thicker and lar∣ger,
+ending in two large heads, which
+are received into the two shallow <HI>Si∣nus</HI>'s
+of the <HI>Tibia;</HI> between these two
+Processes is a <HI>Sinus</HI> which receives a
+rising Process of the <HI>Tibia,</HI> so that here
+the Thigh-bone is Articulated by a
+loose <HI>Ginglimus;</HI> the fore-part of this
+Articulation is call'd the Knee, the Po∣sterior
+the Ham.</P>
+<P>The Leg,<NOTE PLACE="marg">Leg.</NOTE> strictly so call'd, is com∣posed
+of two Bones, the greater and
+internal call'd <HI>Tibia,</HI> the lesser and ex∣ternal
+<HI>Fibula,</HI> by many also <HI>Focile ma∣jus
+&amp; minus.</HI></P>
+<P>The <HI>Tibia</HI> is the biggest,<NOTE PLACE="marg">Tibia.</NOTE> hollow
+within, and full of Marrow, it's partly
+Triangular; its sharp Angle of Spine
+makes that we call the Shin; it has a
+ridge like a Process at its upper end,
+which is received by the <HI>Sinus</HI> at the
+extremity of the <HI>Femur;</HI> on each side
+of this Process, there's two longish,
+<PB N="108" REF="63"/>
+shallow Cavities, to receive the two
+lower Eminences of the <HI>Femur:</HI> These
+shallow Cavities are deepned by a lu∣nated
+Cartilage, which is thick about
+the edges, but grows thin towards
+the Centre; as this Bone approaches
+towards the <HI>Tarsus</HI> it lessens, but
+grows more solid; at the lower part
+of the <HI>Tibia</HI> there's notable Process
+which makes the Internal Ancle,<NOTE PLACE="marg">Malleolus Internus.</NOTE>
+which hinders the luxation of the
+Foot, in keeping in firm: At the bot∣tom
+of the <HI>Tibia</HI> there's a <HI>Sinus,</HI> which
+receives the Convex head of the <HI>Astra∣galus;</HI>
+this Bone supports the whole
+Body.</P>
+<P>The <HI>Fibula,</HI><NOTE PLACE="marg">Fibula.</NOTE> or <HI>Perone,</HI> is as long
+as the other, but much slenderer,
+plac'd on the outside of the Leg; its
+superior head reaches not quite to the
+<HI>Os Femoris,</HI> but has a shallow <HI>Sinus</HI> on
+its side, which receives a small lateral
+Process of the <HI>Tibia;</HI> this Articulation
+is fortified with a Ligament; its Body
+is of a Triangular Figure as well as the
+<HI>Tibia,</HI> but a little more irregular; the
+lower end is received by the <HI>Tibia,</HI>
+and extending it self to the side of the
+<PB N="109" REF="63"/>
+<HI>Astragalus,</HI><NOTE PLACE="marg">Malleolus Externus.</NOTE> makes the external Ankle;
+both these Ankles, or rather Processes,
+hinder the <HI>Talus</HI> from being too easily
+dislocated.</P>
+<P>These two Bones separate a little
+one from another in their middle, to
+make room for the Muscles and Ves∣sels.</P>
+<P>Upon the Knee lyes a small round
+Bone,<NOTE PLACE="marg">Rotula.</NOTE> gibbous, and plain without,
+but hollowish within, about two
+Inches broad, somewhat like the Boss
+of a Buckler, the middle being thick,
+and thinning towards its edges, call'd
+<HI>Rotula, Patella,</HI> the Knee-pan; it's
+movable, and Articulated by a sort of
+<HI>Ginglimus,</HI> cover'd with the <HI>Aponeu∣rosis</HI>
+of four Muscles, being the Exten∣ders
+of the Leg; internally it has a
+very smooth Cartilage, to facilitate its
+motions.</P>
+<P>Some believe it's to strengthen the
+Articulation of the Joint,<NOTE PLACE="marg">Vse.</NOTE> but it's no
+such thing, it being rather plac'd to
+cause greater force in extending the
+Leg, by reason the Tendons of the
+<HI>Musculi Extensores</HI> pass over it;<NOTE PLACE="marg">☞</NOTE> for if
+the Tendons had not this hillock, as
+<PB N="110" REF="64"/>
+it were, to pass over, but lain flat on
+the Bones, they could not have had so
+much force, as by this means to ex∣tend
+the Leg.</P>
+<P>It's of a hard Substance,<NOTE PLACE="marg">Substance.</NOTE> but some∣what
+spongy within, and tyed loosly
+by Ligaments.</P>
+<P>The Foot is subdivided into the <HI>Tar∣sus,
+Metatarsus,</HI><NOTE PLACE="marg">Ossa Pedis.</NOTE> and Toes.</P>
+<P>The <HI>Tarsus</HI> is made up of seven
+Bones,<NOTE PLACE="marg">Tarsus.</NOTE> differing much in shape and
+bigness; four of which have particu∣lar
+Names, the other three no other
+but <HI>Ossa Cuneiformia</HI> in general.</P>
+<P>First, The <HI>Talus, vel Astragalus,</HI><NOTE PLACE="marg">Talus.</NOTE>
+is of a very strange figure, in which is
+to be consider'd its six Faces: First,
+the Superior, which is very smooth
+and convex, Articulated with the <HI>Ti∣bia,</HI>
+hedged in by both <HI>Malleoli:</HI> Se∣condly,
+its Anterior, which is a great
+head which enters the Cavity of the
+<HI>Os Naviculare,</HI> with which it's strong∣ly
+Articulated: Thirdly, the Poste∣rior,
+which has a Protuberance recei∣ved
+by the <HI>Os Calcis:</HI> Fourthly, the In∣ferior,
+which is rough and unequal,
+<PB N="111" REF="64"/>
+rising in some places, and sinking in
+others: The fifth and sixth are the
+two Lateral Faces, hedged in, as I
+said, by the <HI>Malleoli;</HI> it serves as a
+<HI>Basis</HI> to sustain the <HI>Tibia,</HI> which sup∣ports
+the whole Body.</P>
+<P>The second Bone is the <HI>Os Calcis,</HI><NOTE PLACE="marg">Os Calcis.</NOTE> or
+Heel bone, the biggest and largest of
+the seven, but most porous of all; it's
+this Bone which hinders the Body
+from falling backwards, being seated
+at the Posterior part of the Foot; it
+lyes uner the <HI>Talus,</HI> to which it's
+Articulated; it's also join'd with a
+flat head to the <HI>Os Cuboides;</HI> behind it
+has a long Process, to which is tyed
+the great Tendon, call'd <HI>Nervus He∣ctoricus,
+vel Achillis;</HI> it has a large
+<HI>Sinus</HI> on its inside, by which the Ten∣dons
+pass under the Foot, it's very un∣equal
+on its outside, for the insertion
+of Ligaments and Tendons.</P>
+<P>The third is call'd <HI>Os Scaphoides,
+Cymbiforme, vel Naviculare,</HI><NOTE PLACE="marg">Os Navicu∣lare.</NOTE> the Boat-like
+Bone, behind it has a large Cavi∣ty,
+wherein the head of the <HI>Astrga∣lus</HI>
+is received: but before it has three
+Eminences, which unites it to the <HI>Ossa
+Cuneiformia.</HI></P>
+<P><PB N="112" REF="65"/>
+The fourth has a somewhat un∣equal
+Figure of six irregular sides,<NOTE PLACE="marg">Os Cuboi∣des.</NOTE>
+therefore call'd <HI>Cuboides,</HI> the Die-like
+Bone, by some <HI>Multiforme;</HI> in its
+fore-part it's join'd to the fourth and
+fifth Bone of the Metatarse, behind to
+the <HI>Os Calcis,</HI> its inside to the <HI>Ossa Cu∣neiformia;</HI>
+it lyes on the outside of the
+Foot, and sustains the little Toes.</P>
+<P>The other three are call'd <HI>Ossa Cu∣neiformia,</HI><NOTE PLACE="marg">Ossa Cu∣neiformia.</NOTE>
+or Wedge-like Bones, and
+lye all in a rank, but differ in bigness
+one from another, join'd behind to
+the <HI>Os Naviculare,</HI> and before to the
+three first Bones of the <HI>Metatarsus:</HI>
+These Bones are Convex outwardly,
+but hollowish within, for the more
+safe passage of the Vessels; there's a
+broad Ligament which passes from the
+<HI>Os Calcis</HI> to the Bones of the <HI>Metatar∣sus,</HI><NOTE PLACE="marg">Ligamen∣tum Latum.</NOTE>
+under which the Vessels and Mus∣cles
+lye; for if there were no such, in
+long standing on the Foot, the action
+of the Muscles, and circulation of the
+Juices would have been hindred: It's
+a sort of <HI>Ligamentum Annulare.</HI></P>
+<P>The <HI>Metatarsus,</HI><NOTE PLACE="marg">Metatarsus.</NOTE> or Instep, is com∣posed
+of five long Bones, placed at the
+<PB N="113" REF="65"/>
+side of each other, to sustain each a
+Toe, very close where they are uni∣ted
+to the <HI>Tarsus,</HI> but part a little in
+their middle, to give place to the <HI>Mus∣culi
+Interossei;</HI>
+convex outwardly, but
+hollow within, for the better lying of
+the Muscles, and passage of the Ves∣sels;
+their lower ends are round, and
+received into the Cavities of the first
+Phalanx of the Bones of the Toes by
+<HI>Arthrodia;</HI> that which sustains the
+great Toe the biggest, the next less,
+and so on to the least of all.</P>
+<P>The Bones of the Toes are in num∣ber
+14,<NOTE PLACE="marg">Digiti Pe∣dis.</NOTE> for all have three Bones each,
+except the great Toe, which has only
+two; their Articulation the same as
+in the Fingers and the same Observa∣tions.</P>
+<P>There are sometimes, found in the
+Articulations of the Fingers,<NOTE PLACE="marg">Ossa Sesa∣moidea.</NOTE> but espe∣cially
+in the Toes, some very small
+Bones, call'd <HI>Ossa Sesamoidea,</HI> Seed-like
+Bones, because they resemble
+much the <HI>Semina Sesami;</HI> they are
+fastned only by Ligaments in num∣ber
+uncertain, sometimes more, some∣times
+less, in some none at all.</P>
+<P><PB N="114" REF="66"/>
+They have the same Use as the <HI>Patella.</HI><NOTE PLACE="marg">Vse.</NOTE></P>
+<P>The Bones of the Foot being all united
+together,<NOTE PLACE="marg">☜</NOTE> may well be compar'd to a Lever
+plac'd under any great weight, which we
+intend to raise; for the convex part of the
+<HI>Talus</HI> being plac'd just under the <HI>Tibia,</HI>
+which, as I have shew'd, sustains the whole
+Body; the long hinder Process of the <HI>Os
+Calcis,</HI> being, as it were, the handle of this
+Lever, and so rais'd, (as by the Hands) by
+the <HI>Nervus Hectoricus,</HI> which is strongly
+inserted there: This Nerve, or rather Ten∣don,
+is composed of three or four Tendons
+of several Muscles of the Leg, as <HI>Solaris,
+Gastrochnemii,</HI> &amp;c. and with it the whole
+Body is rais'd, as may be seen when we rear
+our selves on our Toes.</P>
+<P>There's one thing very Curious to ob∣serve,<NOTE PLACE="marg">N. B.</NOTE>
+in the bending of the Joints of the
+Skeleton; for all the Junctures of the
+Arms, as Elbow, Wrist, and Fingers, bend
+upwards, but otherwise in the Legs; for
+at the Thigh it bends forwards, that we
+may sit when weary; at the Ham back∣wards,
+at the Ankle forwards again, and
+the Toes backwards: All these several
+bendings give us a greater strength, both
+to walk, and rise when down, which we
+could not do, if the bendings were other∣wise
+disposed.</P>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="appendix">
+<PB N="115" REF="66"/>
+<HEAD>AN
+APPENDIX
+TO THE
+Doctrine of the Bones;
+SHEWING,</HEAD>
+<HEAD TYPE="sub">The Best Method of Whitening,
+Cleansing, and Preparing the Bones
+of Man's Body, for making a Mova∣ble
+Skeleton, wherein the Bones
+may have the same Motions, as in
+a Living Subject; together with
+the manner of Uniting them toge∣ther.</HEAD>
+<P>WHen you have a Body, that you in∣tend
+to save the Bones, towards
+forming a skeleton, proceed in this man∣ner▪</P>
+<P><PB N="116" REF="67"/>
+First,<NOTE PLACE="marg">No Bone to be lost.</NOTE> Take Care that in Decarning the
+Bones, you lose none, although never so
+small, for by so doing you will spoil the
+Beauty of your Skeleton; also be Cautious
+lest you cut away any of the Substance of the
+Bones with your knife, which if you are
+not aware you may do, especially when
+you come towards the more Spongy, and
+Cartilaginous Extremities of them; as in
+the Bones of the Breast, Cartilaginous
+parts of the Ribs, and <HI>Cartilago Ensifor∣mis,</HI>
+also the <HI>Processus Styloides</HI> of the <HI>Basis</HI>
+of the <HI>Cranium,</HI> is very apt to be separated,
+unless you are careful, especially in young
+Subjects; but if by chance you lose any of
+the small Bones, get one in its place from
+any other Skeleton, and about the same
+bigness; also if you happen to break any
+Bone, join it again with <HI>Lithecolla,</HI> the same
+as Masons use to join their broken Stones
+together; or a Preparation of Wax and
+Rosin.</P>
+<P>That you be at the less trouble in prepa∣ring
+your Skeleton for boiling,<NOTE PLACE="marg">Method to be observed in boiling and separa∣ting the parts.</NOTE> you ought
+to divide it in several parts, before you
+put it into your Chaldron to boil, which
+you must perform thus; first, Artificially
+bare from the Muscles, the first and second
+<HI>Vertebra</HI> of the Neck, on which the whole
+Head turns, and separate them gently one
+from another, so that the first <HI>Vertebra</HI> be
+still fastned to the <HI>Cranium,</HI> then Saw off
+<PB N="117" REF="67"/>
+the upper part of the <HI>Cranium</HI> to take out
+the Brain, and with a slender piece of
+Wire a little hooked, strive to extract the
+Ossicles of the Ears by the <HI>Foramen Audito∣rium,</HI>
+which will be more easily extracted
+after a little boiling of the <HI>Cranium,</HI> so
+that by the use of the aforesaid Wire they
+will come out; when they are extracted, keep
+them by themselves till you have occasion
+to use them. Secondly, separate the last
+<HI>Vertebra</HI> of the Back from the first of the
+Loins, and the Thighs from the <HI>Ossa Inno∣minata,</HI>
+and the Arms from the <HI>Scapula</HI>'s,
+so you have all most movable Parts sepa∣rated,
+Thirdly, separate the Clavicle
+from the <HI>Scapula,</HI> and also from where it's
+join'd to the first Bone of the <HI>Sternon,</HI>
+and put them by themselves, always ta∣king
+Care by some mark to distinguish the
+Right side from the Left. Fourthly, di∣vide
+the Cartilages from the bony Extre∣mities
+of the Ribs in their very Coalition;
+then separate every Rib from the <HI>Vertebrae</HI>
+of the <HI>Thorax,</HI> tying them one below ano∣ther
+in order, in a piece of Packthread, to
+distinguish them rightly, observing also
+always the side they belong to; take Care
+in separating them, they having a double
+Insertion, as well with the Bodies of the
+<HI>Vertebrae,</HI> as with their transverse Processes.
+Fifthly, separate every <HI>Vertebra</HI> of the
+Neck and Back one from another, hanging
+<PB N="118" REF="68"/>
+them in order on a small Cord, that you
+be not at a loss in uniting them again when
+boil'd also the <HI>Vertebra</HI> of the Loins in the
+same order from the <HI>Os Sacrum;</HI> and di∣vide
+the <HI>Ossa Coccygis</HI> from that, and the
+<HI>Ossa Innominata</HI> from the <HI>Os Sacrum,</HI> so that
+you may command, and cleanse each in or∣der
+more commodiously. Sixthly, come to
+the Limbs, beginning first with the Arms;
+as for Example, separate the <HI>Os Humeri</HI>
+from the <HI>Cubitus,</HI> and that from the <HI>Car∣pus,</HI>
+which when you come to, take Care in
+separating the Flesh and Tendons from
+them, that you may keep them as much as
+possible in their due places; for which end,
+I think it will not be amiss to drill two or
+three holes quite through each rank, in
+which pass a Wire or two that will hold
+them in their right Situation, in time of
+boiling, they have in been before separated
+from the Bones of the <HI>Metacarpus,</HI> which
+four Bones you must also separate from each
+Finger, making some fitting Marks with
+Thread, or the like, which sustains one
+Finger, and which another; and as for the
+Fingers, put them in the Fingers of a
+Glove, according to order; so there will
+be less danger of Confusion; the Leg is to
+be separated after the same manner as the
+Arm, always making some distinguishing
+Character, which belongs to the Right side,
+and which to the Left.</P>
+<P><PB N="119" REF="68"/>
+Some Bones require a longer time of
+boiling than others,<NOTE PLACE="marg"><HI>Sternon,</HI> will not <GAP DESC="illegible" REASON="faint" EXTENT="1 letter" DISP="•"/>d∣mit of boil∣ing.</NOTE> and some will not en∣dure
+boiling at all, as the <HI>Sternon,</HI> with
+its annex'd Cartilages; the large Bones
+admit of longer boiling than the small;
+now suppose it be the Skeleton of a young
+Subject, boil not above an Hour, or an Hour
+and half at most, lest the Cartilaginous
+tips of the Bones come away; but in an
+Adult you may boil longer, the older the
+Subject is, the longer time is required in
+boiling; but before you put the long Bones
+into your boiling Vessel, bore a hole in
+their Extremities, large enough, according
+to the bigness of the Bones, that the Me∣dullar
+Parts may have free <HI>exit</HI> in boiling;
+to further which, run up the Bones so
+drill'd, a red hot Wire to and fro, to make
+a quicker dispatch of the fatty Particles,
+then cast them into your boiling Water;
+for it's this fatty Substance only, which in
+many Skeletons makes them look so muddy
+and dull; when you think your Bones suffi∣ciently
+boil'd, let them be presently taken
+out and cleaned one after another, a fast
+as you can; it's very good to rub the Bones
+with Masons Dust, which fetches off the
+<HI>Periostion,</HI> and levigates them very well;
+or you may wash them in boiling Lye made
+of Ashes, which scowers and cleanses them
+very well; after they are thus cleansed,
+throw them in clean cold Water, in which
+<PB N="120" REF="69"/>
+let them lye about half a Day, then take
+them out, and wipe them dry, putting
+them still in the same order as they were
+before you boiled them, and observing to
+make the same marks of distinction; when
+they are thus dried, place them on the
+Leads of he House for some Days and
+Nights, especially when the Dews fall most,
+but keep them from the violent heat of the
+Sun, that being apt to make them brittle;
+by this means they will become as white as
+Ivory.</P>
+<P>The <HI>Sternon,</HI><NOTE PLACE="marg">The <HI>Ster∣non</HI> not to be boiled.</NOTE> as I have told you, is not
+to be boil'd at all, by reason the Cartilages
+will shrink, and go out of their true Fi∣gure,
+so that you cannot bring the Cartila∣ges
+to their true Shape, to be annex'd to
+the ends of the Ribs from whence they
+were separated, which will make your Ske∣leton
+deform'd neither will it endure too
+great a heat in drying, so that you must
+use very great Caution in preparing it,
+which you may do thus, After you have
+Artificially and Neatly separated it, as I
+have already taken notice of, cleanse it as
+carefully from the Flesh as you can, then
+let it dry moderately in the shade, always
+striving to keep the Cartilages in their true
+Figure, and now and then picking away
+what you find of fleshy Particles; when you
+think you have cleansed it well, rub it all
+over, especially the Cartilages, with this
+<PB N="121" REF="69"/>
+mixture, made of Wax, Rosin, and Tur∣pentine,
+used very warm, for so you will
+hinder them from drying, and growing
+brittle, which they would be apt to do
+otherwise, and likewise defend them from
+the Worm and Moth, as also from Cor∣ruption,
+so keep it whole by you till you
+have occasion to use it, in making up your
+Skeleton.</P>
+<P>When your Bones are thus clean'd and
+dry'd,<NOTE PLACE="marg">Method of uniting your Skeleton.</NOTE>
+then begin to unite your Bones to∣wards
+forming your Skeleton. Since the
+Spine is the prop of all, and the <HI>Os Sacrum</HI>
+the <HI>Basis</HI> of that, you ought to begin with
+it, as your Shipwrights do in making a
+Ship, who always begin with the Keel, to
+which they annex the other parts towards
+compleating the Vessel; the Spine there∣fore
+may well be call'd the Keel of Man's
+Body, to which the rest of the Bones of
+the Skeleton are join'd.</P>
+<P>First, Therefore prepare a fitting Rod
+of Steel, so order'd that it may have an
+Elastic Property, that is, when you bend
+it, to return to its first Figure of streight∣ness;
+let it not be too thick, yet strong
+enough to support all the <HI>Vertebrae;</HI> for by
+this means you will have the Spine perform
+all its motions. It must be a little more
+than three Foot long, that it may pass
+through all the <HI>Vertebrae,</HI> and come out of
+<PB N="122" REF="70"/>
+the top of the <HI>Cranium,</HI> to hang the whole
+Skeleton on; it must be smaller towards
+its top than bottom, by reason the Bones
+of the <HI>Vertebra</HI> grow less towards the supe∣rior
+part of the Spine; then Drill a hole in
+the very Body of the <HI>Os Sacrum,</HI> through
+which pass your Steel Wire, which you
+must Artificially fasten at the lower end of
+the <HI>Os Sacrum,</HI> to sustain all the rest, then
+pass on the same Wire the rest of the five
+Bones of the Loins, according to their or∣der,
+holes being Drill'd through the very
+Bodies of all the <HI>Vertebra</HI> in the very Cen∣tre,
+that they may fit exactly each other;
+in the same manner pass on the twelve <HI>Ver∣tebrae</HI>
+of the <HI>Thorax,</HI> one by one, to which
+join the Ribs likewise in order, beginning
+with the lowest; this unition must be made
+with Brass Wire, as well to the Bodies of
+each <HI>Vertebra</HI> as transverse Processes, then
+pass on the Steel Wire to the <HI>Vertebrae</HI> of
+the Neck in their order, except the last,
+which is call'd the <HI>Atlas,</HI> which must be
+join'd to the Condiloid Processes of the
+Occipital Bone, by two fitting Brass Wires,
+so that the Head may have its due flexion
+and extention; this being done pass the
+Steel Rod through the Medullar <HI>Foramen</HI> of
+the <HI>Atlas,</HI> into the very Capacity of the
+<HI>Cranium,</HI> to pass through a hole Drill'd on
+the top, that the Head and Spine may hang
+regular, so the Head will have its Circular
+<PB N="123" REF="70"/>
+motion, as well as flexion and extention,
+that being perform'd by the first and se∣cond
+<HI>Vertebra</HI> of the Neck, as this by the
+first only, being join'd by a double <HI>Arthro∣dia</HI>
+to the <HI>Os Occipitis;</HI> when you have so
+done, unite the lower Jaw by its Condiloid
+Processes into the Glenoid Sinusses of the
+<HI>Ossa Petrosa;</HI> then fasten the Teeth in
+their proper <HI>Alveoli,</HI> with a preparation
+of Rosin and Wax; then in its place hang
+the <HI>Os Hyoides,</HI> also at the outward part of
+the <HI>Foramina Auditoria</HI> hang the Officles
+of the Ear in order; when you have done
+this, fasten the <HI>Sternon</HI> and its Cartilages
+to the Ribs, holes being Artificially Drill'd
+through their Extremities, to fasten them
+with Brass Wire; then fasten the <HI>Clavicu∣la</HI>
+to the <HI>Sternon,</HI> to which unite the <HI>Sca∣pula,</HI>
+which is not only to be fastned with
+its <HI>Acromium</HI> to the <HI>Clavicula,</HI> but also to
+the Body of the Ribs, to which its flat side
+lyes on, then pass to the inferior part of
+the Spine, and fasten strongly the <HI>Ossa In∣nominata</HI>
+to the sides of the <HI>Os Sacrum,</HI> so
+as to be join'd even before at the <HI>Ossa Pu∣bis,</HI>
+which must be join'd together with
+Wires, so the <HI>Pelvis,</HI> will be form'd, and
+to the Extremity of the <HI>Os Sacrum,</HI> fasten
+the <HI>Ossa Coccygis,</HI> and so you will have the
+Trunk with the Head extraordinary well
+fitted.</P>
+<P><PB N="124" REF="71"/>
+Then pass to the Limbs; first take the
+<HI>Os Humeri,</HI> to whose lower Extremity u∣nite
+the <HI>Vlna</HI> by two Hooks, one fitly a∣dapted
+to receive the other, which Hooks
+must be fastned one in the Extremity of
+each Bone, so as the Bones sit close one to
+another, for which end you may hollow a
+little the Extremity of the <HI>Humerus</HI> with a
+Graver, to make the Junctures the closer;
+then to the side of the <HI>Ulna</HI> fasten the <HI>Ra∣dius,</HI>
+so that it may have its Prone and Su∣pine
+motion, which may be done thus,
+Encompass its Neck pretty close with a
+Ring of Brass Wire, (after the same man∣ner
+as the <HI>Ligamentum Admirabile</HI> doth,
+which comes from the <HI>Ulna</HI>) which you
+must fasten in the lateral <HI>Sinus</HI> of the Head
+of the <HI>Ulnae;</HI> then adapt fitly, and in their
+due order, the Bones of the <HI>Carpus,</HI> and
+they having but little, or very obscure
+motion, you may only fasten them by their
+sides with Brass Wire, holes being first
+Drill'd through their very middle, also
+fasten the first rank to the other according
+to Art; when the <HI>Carpus</HI> is thus form'd,
+unite the Bones of the <HI>Metacarp</HI> to them in
+their due order; for which end, you must
+have four little Brass Hooks, fitted close in
+the Bones of the <HI>Carpus,</HI> to receive in order
+four other little Hooks, one in each Bone
+of the <HI>Metacarp,</HI> to be engaged in the four
+first Hooks, fasten them so as the Bones
+<PB N="125" REF="71"/>
+may touch close, and yet at the same time,
+the Juncture to have its proper motions;
+also fasten the sides of the <HI>Metacarp</HI> one to
+another with a piece of Brass Wire, yet so
+as the proper distance be kept where it
+ought; then fasten the first <HI>Phalanx</HI> of the
+Bones of the Fingers to the <HI>Metacarpus,</HI>
+then the second, and then the third, all in
+their due place, which must be fastned
+with fitting Hooks, as in the Bones of the
+<HI>Metacarp</HI> with the <HI>Carpus;</HI> lastly, join the
+<HI>Carpus</HI> to the <HI>Radius</HI> and <HI>Vlna,</HI> so that it may
+have its proper motions: When you have
+thus finished the whole Limb, then fasten
+it to the Trunk, but so as you may take it
+off when you please, which may be done by
+only fastening a Hook on the very Head of
+the <HI>Os Humerus,</HI> just where its Ligament
+is, which is to be hung on a curved Brass
+Wire, which must be fastned in the Cavi∣ty
+of the <HI>Scapula;</HI> the lower Extremity
+must be managed after the same manner,
+observing fitting Circumstances, which
+must be also made to take off and on, as oc∣casion
+requires.</P>
+<P>I only design'd this <HI>Appendix</HI> as a hint
+towards the forming of a Skeleton, which
+cannot be so well exprest by Writing, as
+by often Working, and seeing it done.</P>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="publisher's advertisement">
+<PB REF="72"/>
+<HEAD>Books Printed for, and Sold by Daniel
+Brown, at the Black Swan and Bi∣ble
+without Temple-Bar.</HEAD>
+<P>A Treatise of the Gout, wherein both its Cause
+and Cure are demonstrably made appear. To
+which are added some Medicinal Observations con∣cerning
+the Cure of Fevers, <HI>&amp;c.</HI> by the Means of
+Acids. By <HI>John Colbatch,</HI> Physician, a Member of
+the Royal Colledge of Physicians, <HI>London.</HI></P>
+<P>Officina Chymica Londinensis. Sive exacta no∣titia
+Medicamentorum Spagyricorum, quae apud
+Aulum Societatis Pharmaceutiae Londin. Praeparan∣tur,
+&amp; Venalia prostant. Consilio Pharmacopoe∣orum,
+&amp; Approbatione Collegii Medicorum Londi∣nensium
+exhibitum. Opera &amp; Studio <HI>Nicolai Stap∣horst,</HI>
+Oper▪ chym dict. <GAP DESC="illegible" REASON="blotted" EXTENT="1 span" DISP="〈…〉"/>.</P>
+<P>Catalogus Plantarum que in In<GAP DESC="illegible" REASON="blotted" EXTENT="3 letters" DISP="•••"/>a Jamaica spon∣te
+proveniu<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>t, vel vulgo coluntur<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/> cum earundem
+Synonymis &amp; locis natalibus; adiectis aliis quibus∣dam
+quae in Insulls Madera, Barbados, Nieves, &amp;
+Sancti Christophori nascutur <GAP DESC="illegible" REASON="blotted" EXTENT="1 word" DISP="〈◊〉"/> Prodomi Histo∣riae
+Naturalis Jamaicae Pars prima. Autore <HI>Hans
+Sloane,</HI> M. D. Coll. Reg. Med. Lond. neo non Soc.
+Reg. Lond. Soc.</P>
+<P>Curiosities in Chymistry: Being new Experi∣ments
+and Observations concerning the Principles
+of Natural Bodies. Written by a Person of Honour,
+and Published by his Operator, <HI>H. G.</HI></P>
+<P>Secrets of the Famous <HI>Lazarus Reverius,</HI> Counsel∣lor
+and Physician to the <HI>French</HI> King, and Professor
+of Physick in the University of <HI>Montpelier.</HI></P>
+<PB REF="72"/>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>
+

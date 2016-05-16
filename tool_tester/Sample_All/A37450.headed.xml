@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">Samson, or, The unhappy lover a poem / by Gerard De Gols.</TITLE><AUTHOR>De Gols, Gerard.</AUTHOR></TITLESTMT><EXTENT>Approx. 37 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2008-09 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A37450</IDNO>
+
+
+<IDNO TYPE="stc">Wing D856A</IDNO>
+
+<IDNO TYPE="stc">ESTC R27854</IDNO>
+
+<IDNO TYPE="eebo citation">10174992</IDNO>
+
+<IDNO TYPE="oclc">ocm 10174992</IDNO>
+
+<IDNO TYPE="vid">44698</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A37450)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 44698)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 1381:15)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">Samson, or, The unhappy lover a poem / by Gerard De Gols.</TITLE><AUTHOR>De Gols, Gerard.</AUTHOR></TITLESTMT><EXTENT>27, [1] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for Robert Battersby,</PUBLISHER>
+<DATE>1696.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Reproduction of original in the Harvard University Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2006-09</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2006-09</DATE><RESPSTMT><RESP>Apex CoVantage</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2007-02</DATE><RESPSTMT><RESP>Jonathan Blaney</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2007-02</DATE><RESPSTMT><RESP>Jonathan Blaney</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2008-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A37450">
+<STC T="W">D856A</STC>
+<BIBNO T="oclc">10174992</BIBNO>
+<VID>44698</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<P><PB REF="1" MS="y"/>
+SAMSON, OR THE Unhappy Lover. A POEM.</P>
+<P>By <HI>Gerard De Gols,</HI> T. C. C. S.</P>
+<P><HI>LONDON,</HI> Printed for <HI>Robert Battersby</HI> at <HI>Staple-Inn-Gate</HI> near the <HI>Barrs</HI> in <HI>Holbourn,</HI> 1696.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2" MS="y"/>
+<HEAD><PB REF="2"/>
+To my Honoured Brother, Philip De Gols, Gent.</HEAD>
+<OPENER><SALUTE>SIR,</SALUTE></OPENER>
+<P>I Have for some time waited to express my Respects unto you, but having had nothing worthy, I have hitherto stood out; nor do I presume now to build my Security on Merits; but since kind Heav'n has design'd you for my <HI>Mecaenas,</HI> I kneel at You the Shrine, and offer up the Ʋnhappy <HI>SAMSON</HI> unto You, unhappy indeed, deluded by them tempting Wo∣men, then still imitating the first Delusion: Nor truly, tho' it is a long time since, do I think it is out of Date, or that the Ladies have forgot it, (the less the more pity;) Or there is no sign for it yet. But I would not have the Ladies think hard of me, because I pity poor <HI>SAMSON</HI>'s Case, and his Mistresses Infidelity; not that I suppose all Ladies Faithful alike neither. But why do I Carp at the Ladies? those tender, soft, sweet, harmless Creatures. Sure, as to outward Appearance, there can't be much harm
+<PB REF="3"/>
+in that Sex: But stay, and since <HI>SIR</HI> You admire 'em too, I shan't speak against them, but only court your Condescention to accept this: And I could wish that it was worthy You, who Fortune and Nature conspiring, have made you the happiest Man: Fortune gave Quality, Nature Generosity, Wit, and all Vertuous Qua∣lifications, whereby You are successful in the Hearts of the Fair, Obliging to all, esteem'd be∣lov'd, ador'd by all; You, You alone, the Dar∣ling of Mankind. And these uncommon Endow∣ments have all their Center in Your Breast, un∣mixt with Vices to sullen Your Glory; But be∣sides, Your Ingenuity so gently shown in Your soft∣ness of Poetry, seems to derive its Original from the sweetness of Your Disposition; and sure, Your Favour to, and acquaintance with Poetry, is so Great, that You alone deserve to claim the Lau∣rel. I hope You will accept this, and that it may give You some Recreation in the Perusal; and so I beg leave to gratifie my Ambition, to sub∣scribe my self,</P>
+<CLOSER><SALUTE>Honoured BROTHER,</SALUTE> <SIGNED>Your humble, and obedient devoted Servant, <HI>Gerard De Gols,</HI> T. C. C. S.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB N="5" REF="3"/>
+<HEAD>SAMSON, OR THE Unhappy Lover.</HEAD>
+<LG>
+<L>SO God has wrought the Deed, now Ruines lay</L>
+<L>Where e're Triumphant <HI>Israel</HI> cut their way;</L>
+<L>Whilst with his Strength th' Almighty led 'em on,</L>
+<L>Rob'd other Nations, to give them the Throne:</L>
+<L>Protected them where e're their Arms display'd,</L>
+<L>And Strengthned in a Clouds refreshing Shade▪</L>
+<L>Yes, in the Deserts, Health and Safety made.</L>
+<L>Now <HI>Pharaoh's</HI> might, with his bright Chariot's hurl'd,</L>
+<L>And sent beneath to'th Underwatty World:</L>
+<L>Where is his Power, Gods People to Inslave?</L>
+<L>While <HI>Israel</HI> digg'd, they digged <HI>Pharaoh</HI>'s Graye▪</L>
+<L><HI>Sihon,</HI> with mighty <HI>Og,</HI> for Death decreed,</L>
+<L>And <HI>Median</HI> Kings, like Hecatombs did bleed▪</L>
+<L>Kings numberless, were vanquish't all around,</L>
+<L>And Walls were rooted up by Trumpet Sound.</L>
+<L><PB N="6" REF="4"/>
+Thus God destroy'd, and with his powerful Hand</L>
+<L>Led <HI>Israel</HI> safe unto his promis'd Land:</L>
+<L>Now did the Wars and bloody Slaughters cease,</L>
+<L>Encircled with the hopes of Lasting Peace.</L>
+<L>But Ah! Where's Peace, when God the Javelin throws?</L>
+<L>The Peace with <HI>Canaan, Israel</HI> overthrows;</L>
+<L>To Idols now they run; Ah <HI>Joshua</HI>'s Dead!</L>
+<L>They sacrifice to <HI>Baal,</HI> forget their God;</L>
+<L>Uncircumcis'd, they mix with Sacred Blood.</L>
+<L>Then God enrag'd, did Lighten ev'ry Flash,</L>
+<L>Brought burning Flames, and struck the Face</L>
+<L>With mighty Thunder, mixt of th' Universe.</L>
+<L>At stake their Honour and their Glory lay,</L>
+<L>For God had left 'em for Devourers Prey.</L>
+<L>The Heathen Monsters roul'd the Swelling Tide,</L>
+<L>Raging they came, and gap'd Destruction wide:</L>
+<L><HI>Israel</HI> then tatter'd in their rusty Steel,</L>
+<L>With broken Bows and Darts, they stoop and kneel;</L>
+<L>And from th' Almighty's Throne of Justice flye,</L>
+<L>And to his Mercy Seat for Pardon cry:</L>
+<L>God he hears Prayers, with Prayers we God may move,</L>
+<L>He stopt his Hand, was mindful of his Love.</L>
+<L>Here the Almighty, awful Majesty,</L>
+<L>Curbs his hot Wrath, he casts a pitying Eye,</L>
+<L>With Mercy mov'd, he could not see 'em Dye;</L>
+<L>Tho' all their Glory was as't were intom'b,</L>
+<L>Tho' all their Honour was unwing'd, unplum'd:</L>
+<L><PB N="7" REF="4"/>
+Tho' <HI>Moses, Joshua</HI> dead, their Friend's above,</L>
+<L>And Judges now shall more auspicious prove;</L>
+<L>Judges shall judge the Tribes, their Wars they'l wage,</L>
+<L>Destroy their Foes, and ev'n with Death ingage.</L>
+</LG>
+<LG>
+<L>Such was the mighty <HI>SAMSON,</HI> whose great Birth</L>
+<L>By Heav'nly Quire was sung, twice told on Earth;</L>
+<L>Eager and Young, in th' valiant list he came,</L>
+<L>The God of War push't on the Noble Game;</L>
+<L>In his Veins Blood, with eager Zeal would rise,</L>
+<L>His tender Cheeks did Glow, with Sparkling Eyes.</L>
+<L>War his first Mistress was, for War alone</L>
+<L>Design'd by God, to fight for <HI>Israels</HI> Crown:</L>
+<L>Great were th' Ideas of his Yet Young Soul,</L>
+<L>'Twas Honour, and Ambition all, VVar whole.</L>
+<L>Great were the Labours he'd already done,</L>
+<L>And now was call'd for Judge to <HI>Israel</HI>'s Throne:</L>
+<L>A <HI>Nazarite</HI> by Birth, with eager Zeal</L>
+<L>To free his Nation, seek Revenge with Steel.</L>
+<L>And now ascending to the Judgment Seats,</L>
+<L>In Mighty Words his faithful Mind repeats:</L>
+</LG>
+<LG>
+<L>Thus <HI>Israels</HI> God with Conquest crowns my Head,</L>
+<L>By fragrant Zeal, and true Devotion led,</L>
+<L>With mighty Victory my Foes I Slay,</L>
+<L>And Thousands by this Hand do vanquish't lye</L>
+<L>Wing'd with Success, th' <HI>Philistines</HI> I invade,</L>
+<L><HI>Philistines</HI> to all Ill, by me betray'd:</L>
+<L><PB N="8" REF="5"/>
+Fields with their Carcasses I cover'd o're,</L>
+<L>And urge my self thro' Floods of Humane Gore.</L>
+<L>Inspir'd by Vengeance, still they'l feel my Arm,</L>
+<L>With spilling of their Blood, my Blood I'le warm:</L>
+<L>This Hand shall make 'em fear; I'le bring 'em low;</L>
+<L>Their dismal Ruines all on heaps I'le throw,</L>
+<L>Tho' they are stiff to kneel, too tall to bow:</L>
+<L>Yet on their Necks I'le set my lofty Throne,</L>
+<L>And place my Chariot with the Rising Sun.</L>
+<L>No Priest shall e're here <HI>Baals</HI> Altar load,</L>
+<L>No Fragrant Gums shall burn t'a barbarous God;</L>
+<L>No Heathen State shall for Alliance sue,</L>
+<L>Tho' Nations shall with Courting Friendship woo;</L>
+<L>No Crown with all its taudry tempting Pride,</L>
+<L>No Coronet shall ever move this Head;</L>
+<L>For God I fight; God shall reward the Deed.</L>
+<L>To nothing shall my fixed Soul give way,</L>
+<L>No Lust shall tempt, nor Wanton Womens Eye:</L>
+<L>Women! (kind Heav'n forbid!) tho' all her Gems,</L>
+<L>And beauteous Face, out shines th' Suns Radiant Beams;</L>
+<L>I'le conquer sordid Lust, so vile, so foul:</L>
+<L>Ah wretched thought! too mean for my Great Soul;</L>
+<L>God's <HI>Nazarite</HI> I am, and Judge of <HI>Israel.</HI></L>
+<L><HI>Israels</HI> Laws I'le write, and mark in Blood,</L>
+<L>And bear the Mandates of Great <HI>Jacob</HI>'s God.</L>
+</LG>
+<LG>
+<L>Thus spoke the mighty Hero; at whose Word</L>
+<L>The Tribes astonish't, drew their Warlike Sword:</L>
+<L><PB N="9" REF="5"/>
+He with his Courage led the Glorious Train,</L>
+<L>To free 'em from the base <HI>Philistines</HI> Raign:</L>
+<L>And while he spake, Fame did her Trumpet Sound,</L>
+<L>And flew with's mighty Name to all around.</L>
+<L>All Nations with a fearful Reverend Awe,</L>
+<L>Ador'd his Name, as Heav'n rever'd him too;</L>
+<L>And in the Skie, on wavering Wings she hung,</L>
+<L>And his Great Deeds in moving Notes she sung.</L>
+</LG>
+<LG>
+<L>Bless'd be the Heroe, who Gods Quarrel takes,</L>
+<L>Oh Heav'n! thy Wrongs his justest Vengeance wakes,</L>
+<L>Who ready strove, and strives, and e're shall toil,</L>
+<L>To Conquer <HI>Philistins,</HI> to lead their Spoil:</L>
+<L>And whilst he lives, due Wrath shall swell his Soul.</L>
+<L>So have I seen him, when in <HI>Timnath</HI>'s Plain,</L>
+<L>A Lion roar'd, unto whose Breast he ran,</L>
+<L>And rent his hardned Flesh with's Hands alone.</L>
+<L>And thirty Men at <HI>Askelon</HI> he threw,</L>
+<L>Brought forth their Spoil, and sent 'em down Below,</L>
+<L>So deep to Hell, as to Heav'n his Fame does Go.</L>
+<L>Here <HI>Samson, Zorah</HI> shall thy Deeds proclaim,</L>
+<L>And sing thy Matchless ever-living Fame;</L>
+<L>While Brands with Foxes, as your Ensigns fly,</L>
+<L>And Olives, Corn do burn, before your Eye,</L>
+<L>And make the Vineyards as the Desarts lye.</L>
+<L>He rouz'd again by Wrongs, his Sword he draws,</L>
+<L>And weds his Mighty Hand to a spotless Cause:</L>
+<L><PB N="10" REF="6"/>
+Now the Great <HI>SAMSON,</HI> he could hold no more,</L>
+<L>Here his wing'd Wrath, his flaming Lightning bore;</L>
+<L>He Crush't, and Conquer'd, fill'd the Fields with Gore.</L>
+<L>A while the Labours of our Heroe stay,</L>
+<L>While he fixt Grounds, for Glorious Triumphs lay,</L>
+<L>To <HI>Etams Rock</HI> he's gone, to bring the Day.</L>
+<L>No, the Great <HI>SAMSON</HI> cannot take his Rest;</L>
+<L>No little time for him's in <HI>Halcyons</HI> Nest:</L>
+<L><HI>Philistines</HI> Wrath again him, cause Affords,</L>
+<L><HI>Judah</HI> betrays him, bind his Hands with Cords;</L>
+<L>And in <HI>Philistines</HI> Camp they <HI>SAMSON</HI> lead,</L>
+<L>Ʋnhappy <HI>SAMSON!</HI> now ordain'd to bleed.</L>
+<L>Great was the Quire, and long Tun'd was their Joy,</L>
+<L>Their Shouts were Mighty, up to Heav'n they fly,</L>
+<L>With Trumpets, Cimbals, sung the Victory.</L>
+<L>Thus ty'd and bound, the Mighty <HI>SAMSON</HI> stood,</L>
+<L>His mighty Hand still by his Courage led,</L>
+<L>He wrung his Arms, and strait the People sled.</L>
+<L>His Hands he did unfold, he broke the Cords,</L>
+<L>His Foes he did pursue, his Rival Lords:</L>
+<L>An Asses Jaw-bone from the Ground he took,</L>
+<L>His Foes the Great <HI>Philistines,</HI> then he struck;</L>
+<L>With mighty Slaughter and Confusion Grew,</L>
+<L>With loud Alarms the fearful People Flew,</L>
+<L>So loud, so dismal Cry, did e're where Roul,</L>
+<L>As caus'd Amazement into ev'ry Soul;</L>
+<L>Heav'n it self as an Admirer stood,</L>
+<L>Grew Pale to see his Hands so stain'd in Blood.</L>
+<L><PB N="11" REF="6"/>
+While he with Conquest wing'd, and thus inspir'd,</L>
+<L>Pursues his haughty Foes, with Zeal untir'd;</L>
+<L>Pusht on their Fates to th' utmost point of War,</L>
+<L>Nor thought he could have scatter'd Death too far,</L>
+<L>While Thousand Souls cryed Vengeance thro' the Air.</L>
+</LG>
+<LG>
+<L>Thus sung the Goddess, but confin'd She was</L>
+<L>To Numbers; his great Deeds were Numberless:</L>
+<L>Then strait She flew, t' assail the lofty Skye,</L>
+<L>While her aspiring lab'ring Thoughts let flye,</L>
+<L>These Words she left, and then she flew away.</L>
+</LG>
+<LG>
+<L>Religion is his great Ambitious Aim,</L>
+<L>No Object of a tempting Lustful Flame;</L>
+<L>No Love shall ever clasp him in her Arms,</L>
+<L>No Love shall move, endear'd with Thousand Charms:</L>
+<L>No Beauty ever, with its killing Eyes,</L>
+<L>Shall cause his Soul a Bleeding Sacrifice.</L>
+</LG>
+<LG>
+<L>This <HI>Cupid</HI> heard, who from his Throne above,</L>
+<L>'Twixt Heaven and Earth, did on his Pinions move;</L>
+<L>Pamper'd with Pride, with powerful Lust was fed,</L>
+<L>With Envy burn'd, and with Ambition led:</L>
+<L>Enrag'd, his Blood did boil, and wrung his Hands,</L>
+<L><HI>And cry'd,</HI> Not Heav'n denys my Great Commands:</L>
+<L>And shall a Mortal here my Strength despise?</L>
+<L>Tho' he be great, his Name to Heav'n does rise;</L>
+<L>Yet I've in Heav'n my Throne, fixt far above,</L>
+<L>Where mortal Reach, aspiring Thought can move.</L>
+<L><PB N="12" REF="7"/>
+And shall my Glory thus abused lye?</L>
+<L>My Name thus scorn'd, and I a Mortals Play?</L>
+<L>Or what extravagant Thought dares soar so high!</L>
+<L>As to dispute my Worlds Supremacy?</L>
+<L>Or who does dare deny me, Heaven too?</L>
+<L>In Heav'n, or Earth, I will no room afford,</L>
+<L>Nor Hell it self shall boast a Rival Lord.</L>
+<L>Who dares behold, and face me unador'd!</L>
+<L>By this my Dart, all hardned Hearts shall bleed,</L>
+<L>I'le vanquish Triumph, all to Love I'le lead,</L>
+<L>Ev'n <HI>SAMSONS</HI> Heart's for Sacrifice decreed.</L>
+<L>Tho' he rejects a thousand Amorous Charms,</L>
+<L>Or vilifies Loves tender sacred Arms.</L>
+<L>Yet here's his Fate, he shall to love obey,</L>
+<L>His haughty Soul I will in Ruines lay:</L>
+<L>How dares a Mortal scorn a Deity?</L>
+<L>Tho' Cords can't bind, no Chains his hands can close,</L>
+<L>Tho' with his naked hands he a Lion throws.</L>
+<L>On heaps casts Men, a Thousand at a Blow,</L>
+<L>Yet one poor Dart sent from my mighty Bow,</L>
+<L>Shall melt his Heart, and love alone he'l bear,</L>
+<L>And be as great in Love as he is in War:</L>
+<L>No Thought but Love shall ever reach his Mind,</L>
+<L>Thro' Love, with Love, like Love, he shall be blind.</L>
+</LG>
+<LG>
+<L>Thus spake the mighty Love, and straight he fled,</L>
+<L>In's hand his Bow, on's side his Quiver laid:</L>
+<L><PB N="13" REF="7"/>
+To <HI>Gaza</HI> then he flew, whereas he past,</L>
+<L>On a Notorious Fair his Eyes he cast:</L>
+<L><HI>Then spake the God,</HI> This shall the Conqueress be,</L>
+<L>And she shall lead Great <HI>SAMSONS</HI> Soul astray;</L>
+<L>Then eager in his Thoughts, his Mind inspir'd,</L>
+<L>And with an ardent Soul her Heart he fir'd:</L>
+<L>And Flaming Javelins in her Breast he threw,</L>
+<L>Yes, common sordid Lust he gave her too.</L>
+<L>Here Our Great Heroe's Soul does him invite,</L>
+<L>At <HI>Gaza</HI> now to show, his wondrous Might,</L>
+<L>His Name must greater be, his Trophies infinite,</L>
+<L>But <HI>SAMSON,</HI> stay, Ah! Whither do you run?</L>
+<L>From <HI>Gaza</HI> flee, Ah! Love is in the Town;</L>
+<L>Love seeks your heart, will rob you of your Crown.</L>
+</LG>
+<LG>
+<L>Mean time, when <HI>Samson</HI>'s noble Thoughts were high,</L>
+<L>And thought on Slaughters, Battles in the Way;</L>
+<L>When all his Mind was only Victory,</L>
+<L>Love see the Warlike Heroe as he came,</L>
+<L>And in his Eyes mov'd first a gentle Flame;</L>
+<L>Then in his Mind he kindled a soft heat,</L>
+<L>Th' Idea of his Soul waxt all Delight;</L>
+<L>At last he farther try'd the Noble Guest,</L>
+<L>He drew, and shot a Dart into his Breast.</L>
+<L>Now gently, the fierce Monarch grew more kind,</L>
+<L>And all his Strength was whole for Love design'd;</L>
+<L>On Women thinks, and throws the Jaw away,</L>
+<L>And nought but Womens Heart shall be his Prey.</L>
+</LG>
+<LG>
+<PB N="14" REF="8"/>
+<L>At <HI>Gaza,</HI> mighty <HI>Samson</HI> he arrives,</L>
+<L>He knows not whether he be dead, or lives;</L>
+<L>His Mind is Roving, thinking on soft Charms,</L>
+<L>He wish't him Blest, clasp't round in Lovers Arms:</L>
+<L>And thus, whilst lab'ring with these Thoughts opprest,</L>
+<L>His Eye, then Wanton Eye, spy'd room for Rest.</L>
+<L>VVhat must poor <HI>Samson</HI> do? his Heart does burn,</L>
+<L>Love does him draw, from <HI>Gaza</HI> he can't turn;</L>
+<L>He'l venture on, and to the Fair One flye,</L>
+<L>Bless the short Night, and love th' Sun shall stay.</L>
+<L>Away he goes, wrapt with loves Dearest Charms,</L>
+<L>Looses the Night within her tender Arms;</L>
+<L>But still his Soul is lab'ring with a Care,</L>
+<L>He cannot rest, Ah, he's come too far!</L>
+<L>So Faults with Sweets indear'd, yet Tortures bear.</L>
+<L>His Thoughts did tell him, how <HI>Philistines</HI> laid,</L>
+<L>And watch'd to Murder him, ev'n as they did;</L>
+<L>His very Soul did cry, You are betray'd.</L>
+<L>Then from his Sleep and Slumb'rings he did rise,</L>
+<L>He see all Dark, no sprinkling Stars i'th Skies;</L>
+<L>All things were hush't, no little Birds repair,</L>
+<L>No Murm'ring Notes do sound thro' th' dusky Air:</L>
+<L>All Nature sleeps, yes, wakes he and his Foe,</L>
+<L>He dares not stay, he must, yes, he will go;</L>
+<L>He went, and like a Martial Eagle flew:</L>
+<L>No Thunder from the Skies so swift e're rod,</L>
+<L>And carry'd Vengeance from the angry God.</L>
+<L><PB N="15" REF="8"/>
+In vain they VVatch, in vain with hopes they Feed,</L>
+<L>In vain their Arms, and all their Snares are spred;</L>
+<L>VVings on his Feet, and Lightning in his Eyes,</L>
+<L>By Fears and Hopes, and with his wrath he flyes:</L>
+<L>Not <HI>Lucifers Armado</HI> could ingage</L>
+<L>The Glorious <HI>Michael</HI> with more hellish Rage,</L>
+<L>Both by his VVishes, and hot Blood inspir'd,</L>
+<L>Thunder'd when e're he Breath'd, and when he look't he fir'd.</L>
+<L>The City Gates at length our <HI>Samson</HI> spies,</L>
+<L>He see the VVatch, he thought himself the Prize;</L>
+<L>The Gates were shut, the Guards stood all about,</L>
+<L>Now Courage leads his vigorous Arm, he stout,</L>
+<L>Does urge himself thro' Death; and as he flew,</L>
+<L>He clasp't the Gates, and took the Pillars too,</L>
+<L>VVith Posts and Barrs, he on his Shoulders threw:</L>
+<L>And left the Guard astonish't at the Sight,</L>
+<L>Fear shook their Limbs, more dreadful the Night.</L>
+<L>Away he fled to <HI>Hebron;</HI> now he Goes,</L>
+<L>He leaves on th' Hill his Load, and mocks his Foes.</L>
+<L>His Thoughts did swell with dangerous Amorous Care,</L>
+<L>He'l never more encounter in that VVar.</L>
+<L>His Mind was heavy; how th' Almighty Power</L>
+<L>VVhich he'd abus'd, forgot should help him more;</L>
+<L>No more by Heav'n, he swears, that VVanton Pride,</L>
+<L>Nor VVomans Eyes shall call his Soul aside;</L>
+<L>He scorns to see an Amorous Lustful Bride.</L>
+</LG>
+<LG>
+<PB N="16" REF="9"/>
+<L>But stay, the God of Love, his Fall will cause,</L>
+<L>No VVar lyes in his Breast; he lives in Peace,</L>
+<L>The fairer time to conquer him with ease,</L>
+<L>Your Fate is firm, your self Oh <HI>Samson</HI>'s Snare,</L>
+<L>Lest Love destroys you quite, with wanton Air,</L>
+<L>And burn you more than with <HI>Promethean</HI> Fire.</L>
+</LG>
+<LG>
+<L>But see, Great <HI>Samson</HI>'s Mind is still in Love,</L>
+<L>He tugs with Charms, those Sweets he cannot leave;</L>
+<L>Those pleasant Thoughts he can't again possess,</L>
+<L>Those sacred Bonds of humble innocent Peace;</L>
+<L>Still he does Labour in his Royal Mind,</L>
+<L>His Will, and yet his Oath, cannot be join'd;</L>
+<L>He would, but dares not now to <HI>Gaza</HI> Go,</L>
+<L>He'l go another way, those Charms to flee;</L>
+<L>To <HI>Zoreck</HI> he will run, sure there's no Love,</L>
+<L>He bids the VVind those wretched Thoughts remove:</L>
+<L>Yes, <HI>Samson</HI> yes! at <HI>Zoreck</HI> there is Love,</L>
+<L>Ah! see it does not to you fatal prove.</L>
+<L>God <HI>Cupid</HI> for you Snares, there too has laid,</L>
+<L>And shot the heart of ev'ry tender Maid;</L>
+<L>To <HI>Zoreck</HI> now he goes, with Thoughts opprest,</L>
+<L>He fears lest cursed Love should fire his Breast;</L>
+<L>And he again Despise, forget his God,</L>
+<L>Deep lab'ring Cares do vex his drooping Head:</L>
+<L><PB N="17" REF="9"/>
+Still on he Goes, and to the place draws nigh,</L>
+<L>Nor had he long cast round his dazled Eye;</L>
+<L>But see <HI>Delilah,</HI> as she passed by:</L>
+<L>Neat was her Shape, and gentle was her Mien,</L>
+<L>Her Face was Charming Fair, no Spot was seen;</L>
+<L>Like Stars i'th Firmament did shine her Eye,</L>
+<L>More Am'rous Flames than burning Comets shew:</L>
+<L>Would fire Mortals, and to love them frame,</L>
+<L>Yes, Hearts more fierce than Lions gently tame.</L>
+</LG>
+<LG>
+<L>Then <HI>Cupid</HI> shook his Wings; and from above,</L>
+<L>On his poor Breast, threw wretched drops of Love:</L>
+<L>Love Courage gave, to Love he did prepare,</L>
+<L>And Love now cures all his uneasy Care;</L>
+<L>Where e're she goes, still follows <HI>Samson</HI> on,</L>
+<L>Her lovely Mien, and glorious Face drew on,</L>
+<L>The Eyes and Heart of our great Champion.</L>
+<L>Here he does act a Real Lovers part,</L>
+<L>Expresses lively to her Soul his Heart,</L>
+<L>Till she with him did sympathize the Smart.</L>
+<L>Again the Heroe, Oh unhappy sight!</L>
+<L>In beauteous Masques, and wanton Balls delight,</L>
+<L>And with their Sports they loose the Am'rous Night.</L>
+</LG>
+<LG>
+<L>Then God inrag'd, and Wrath his Hand did move,</L>
+<L>His Light'ning Flasht, sent Thunder from above;</L>
+<L>Black Night cloak't Heav'n o're, Earthquakes he made▪</L>
+<L>And Desolation was by 's Nodding laid:</L>
+<L><PB N="18" REF="10"/>
+No Stars did in the Firmament appear,</L>
+<L>They silent were, and hid themselves for fear.</L>
+<L>Then God arose, and his long Silence brake,</L>
+<L>And with his mighty Voice from Heav'n he spake:</L>
+<L>How dares a mortal Worm thus raise his Head?</L>
+<L>How dares he thus despise, forget his God?</L>
+<L>I ever Living God, Great Majesty,</L>
+<L>Who governs Heav'n and Earth, who gives the Day,</L>
+<L>And sends the Night; by this my Hand alone,</L>
+<L>I rais'd the Heav'ns, the Earthly Bull laid down,</L>
+<L>I'm God alone, who dares dispute my Crown?</L>
+<L>I mov'd with Love, created Human Kind,</L>
+<L>In's Face I plac'd the Image of my Mind;</L>
+<L>Gave him what Heav'n and Earth e're could afford,</L>
+<L>Of the whole Ʋniverse I made him Lord:</L>
+<L>But straight the cursed Man rebellious grew,</L>
+<L>He sinn'd against me, and despis'd me too.</L>
+<L>Still pity mov'd my Breast, and I again</L>
+<L>The wretched Mortals gave a second Reign;</L>
+<L><HI>Abraham</HI>'s Seed I for my Darling chose,</L>
+<L>Where e're he trod, there was he blest in Joys:</L>
+<L>How many Nations have I for him stain?</L>
+<L>Pull'd down their Thrones, and caused them to Reign.</L>
+<L>Ʋngrateful <HI>Israel,</HI> the more I bless,</L>
+<L>Still the more stubborn they, they prize the less;</L>
+<L>Here now my Judge, my <HI>Samson,</HI> who I lov'd,</L>
+<L>With who I was with dear Compassion mov'd,</L>
+<L><PB N="19" REF="10"/>
+Forgets me quite, his Glory he pulls down,</L>
+<L>And wastes my Image, making of his own;</L>
+<L>Forgets his God, to Women he gives ear,</L>
+<L>Once I already freed him from that care,</L>
+<L>When he at <HI>Gaza</HI> was, but now no more;</L>
+<L>Tho' he should pray, I heard his Prayers before.</L>
+<L>A thousand fatal Hardships this shall prove,</L>
+<L>I'le leave him quite, let him go on in Love;</L>
+<L>As he did me, I will forget him now,</L>
+<L>I'le not regard his Crys, as he his Vow:</L>
+<L>I swear, and't shall be true, he his Reward shall have,</L>
+<L>And with this Love he'l find himself a Grave.</L>
+</LG>
+<LG>
+<L>Thus the Almighty God in Anger spake,</L>
+<L>His thund'ring Voice the Crystaline did shake;</L>
+<L>Earthquakes were rais'd, the Sea tempestuous grew,</L>
+<L><HI>Leviathan</HI> stretch't the Billows as he flew,</L>
+<L>And Hurricanes around the Mountains blew:</L>
+<L>Dismal the Noise, and horrid was the Sound,</L>
+<L>The Winds still bursted as they touch't the Ground;</L>
+<L>All things conspired, as't were to loose their hold,</L>
+<L>And bring Confusion dreadful, as of Old.</L>
+<L>This <HI>Samson</HI> heard, dread Terror struck his Soul,</L>
+<L>Amazement struck him Dumb, like Dead, so Foul</L>
+<L>With wretched Sin, Ah! <HI>Samson</HI> now does hide</L>
+<L>His Face, asham'd of what he lately did,</L>
+<L>Asham'd of what no one did know beside.</L>
+<L><PB N="20" REF="11"/>
+So Sin to'th Conscience bears a horrid sting,</L>
+<L>And thinks each whisling Wind revenge does bring;</L>
+<L>Now <HI>Samson</HI>'s struck by God, how fain he'd quit</L>
+<L>Those foolish Joys, be blessed in Gods sight.</L>
+<L>What must poor <HI>Samson</HI> do? Alas! he's dead,</L>
+<L>He thinks, if he does come again to God,</L>
+<L>And if in sin he stays, he'l still increase</L>
+<L>His cursed Crime, sure then can hope no Peace.</L>
+<L>But God has left him now, his Strength's too weak,</L>
+<L>Those Bonds by <HI>Cupid</HI> ty'd, he cannot break;</L>
+<L>Those Love-tyes tye too fast; Ah wretched Man!</L>
+<L><HI>Philistines</HI> know you're here, they seek again.</L>
+<L>Oh! <HI>Samson</HI> you'l be try'd, keep the Secret giv'n,</L>
+<L>And Oh! let no one know, but you and Heav'n.</L>
+</LG>
+<LG>
+<L>Now <HI>Samson</HI> slumb'ring, eas'd his mighty Cares,</L>
+<L>Love has its Toyls, as well as lab'ring Wars;</L>
+<L><HI>Philistine</HI> Princes came, and Dow'rs they bring,</L>
+<L>Sure Baits for an unguarded Heart to fling:</L>
+<L>They will reward <HI>Delilah,</HI> if she knew</L>
+<L>What mighty <HI>Samsons</HI> Force could stay, and how?</L>
+<L>All things may fix, but none more surer hold,</L>
+<L>Than what is made by'th well-try'd magick Gold.</L>
+<L>She's Charm'd, and willing th' Heroe betray,</L>
+<L>And now she'l only strive for Victory.</L>
+</LG>
+<LG>
+<L>Now had soft Sleep yet left his drowsy Eyes,</L>
+<L>And he Injoy'd a gentle slumb'ring Ease;</L>
+<L><PB N="21" REF="11"/>
+But then the <HI>Delilah</HI> with her Am'rous Charms,</L>
+<L>Encircled him around with tender Arms;</L>
+<L>And swears by <HI>Baal</HI> her God, may Curses fall,</L>
+<L>And in her Breast be all the Plagues of Hell:</L>
+<L>All Tortures ever thought, she will be true,</L>
+<L>May she but only that great Secret know.</L>
+<L>His mighty Strength, and what his hand may bind,</L>
+<L>Yet <HI>Samson</HI>'s loth to tell his anxious Mind;</L>
+<L>Thinks this a sin again; Ah! he doubts now,</L>
+<L>If any thing he'l tell, or false, or true:</L>
+<L>At last Green Withs, he says, around me tye,</L>
+<L>Will tame my Strength, and all my Pow'r stay.</L>
+<L>So <HI>Samson</HI> spake, with Withs his hand she ty'd,</L>
+<L>(And Watchmen Arm'd she in her Chamber hid,)</L>
+<L><HI>Philistines</HI> over thee, <HI>Delilah</HI> cry'd.</L>
+<L>Then <HI>Samson</HI> rose, for God was not yet gone,</L>
+<L>The Withs he brake, straight when his hands he wrung.</L>
+<L>Again <HI>Delilah,</HI> she does not yet know,</L>
+<L>Again she'l try what kinder Words may do;</L>
+<L>Kind Words, <HI>says she,</HI> may move a stony Heart,</L>
+<L><HI>Now</HI> Samson <HI>say,</HI> Why should you False impart</L>
+<L>For Truth, resolve the Question, let me know,</L>
+<L>New Ropes, <HI>says</HI> Samson, never us'd, may bow;</L>
+<L>And stay my Force. Delilah <HI>then she try'd,</HI></L>
+<L>But found that vain, she found she was bely'd.</L>
+<L>Yet once more <HI>Delilah</HI> will try with Words,</L>
+<L>Deluding Words may bind more strong than Cords:</L>
+<L><PB N="22" REF="12"/>
+Oh <HI>Samson!</HI> how can e're thy Bosom bear,</L>
+<L>To hear my Cryes, and not regard my Pray'r;</L>
+<L>I pray, if ought you care, if ought you love,</L>
+<L>If any dearment can your Passion move:</L>
+<L>Dear Soul, I pray, let me no longer crave,</L>
+<L>If seven of my Locks with a Web you weave;</L>
+<L>Will stay my Pow'r; Oh <HI>Samson</HI> save your Head!</L>
+<L>See what you do, you are almost betray'd.</L>
+<L>Let not her moving Words gain you too far,</L>
+<L>Oh! don't reveal the Secret of your Hair:</L>
+<L>God▪s not yet gone, who knows but he may stay;</L>
+<L>Kind Heav'n forbid, you should your self betray.</L>
+<L>Then <HI>Delilah</HI> his Hair did tye to a Pin,</L>
+<L>And fastned to a Beam; Alas all vain!</L>
+<L>He rose, and see, he broke the hold again.</L>
+<L>Then <HI>Delilah</HI> her Heart was griev'd, she su'd,</L>
+<L>She wept, and with her Tears she <HI>Samson</HI> woo'd;</L>
+<L>Cold trickling Tears on her fair Cheeks did roul,</L>
+<L>In Sighs reveal'd the Sorrow of her Soul.</L>
+<L>How can you say you love me? <HI>Samson</HI> say,</L>
+<L>When you still mock, and keep me for your Play;</L>
+<L>Where is that Love, which you so oft did sware?</L>
+<L>Ah! where's the Passion which for me you bear?</L>
+<L>And your Heart from me still, yes, tho' I cry,</L>
+<L>And beg in Tears, you mock me still all day;</L>
+<L>Is this your Love, kind Heav'n? mine other it;</L>
+<L>Oh that I knew what could compleat thy Bliss!</L>
+<L><PB N="23" REF="12"/>
+With Words and Sighs, and Kisses I'de relate;</L>
+<L>Surely, this is no Love, but sign of Hate:</L>
+<L>This only thing you from my Soul do hide,</L>
+<L>As Heav'n is true, and I your faithful Bride,</L>
+<L>The Secret I will keep, and none shall know beside.</L>
+</LG>
+<LG>
+<L>Now <HI>Samson</HI>'s mov'd, his Heart does melt away,</L>
+<L>Who can deny, when whining Women pray?</L>
+<L>His very Soul was griev'd to hear her Sigh,</L>
+<L>With open Heart unto her Arms he'l flye,</L>
+<L>Reveal the Secret now, tho' he should die.</L>
+<L>My Dear, Ah! do not grieve too much; arise,</L>
+<L>And wipe the trickling Tears from your Bright Eyes.</L>
+<L>Why should you vex your self, and Sorrow wear,</L>
+<L>Am I not <HI>Samson,</HI> your Beloved here?</L>
+<L>The Secret you shall know, to you I'le tell,</L>
+<L>What e're my Heart does know, you'l know it all:</L>
+<L>I am a <HI>Nazarite,</HI> by God decreed,</L>
+<L>No Razor ever touch't my rigid Head;</L>
+<L>My Hair was never cut; and if it be,</L>
+<L>My Strength departs, and all my Pow'rs flee;</L>
+<L>My Hands are weak, unfit for Victory.</L>
+<L>Now she rejoyc'd, and now he's e'ne betray'd,</L>
+<L>While <HI>Samson</HI> on her Knees himself had laid,</L>
+<L>To take a little Rest, a soft Repose;</L>
+<L><HI>Delilah</HI> sent for th' Princes, <HI>Samson</HI>'s Foes:</L>
+<L>And in her hand, his rigid Hair she had,</L>
+<L>Whilst others with a Razor shav'd his Head.</L>
+<L><PB N="24" REF="13"/>
+Arise Great <HI>Samson,</HI> rise, but Ah too late!</L>
+<L>See now the Secret of your faithful Bride,</L>
+<L>Bewail not her, bewail your dismal Fate;</L>
+<L>Philistines <HI>over you.</HI> Then straight he rose,</L>
+<L>But Ah! his Strength was fled, he see his Foes:</L>
+<L>He thought as ever now, to wrest him free,</L>
+<L>But now God's gone, he's in Captivity;</L>
+<L>Th' unhappy cause of Love now <HI>Samson</HI> found,</L>
+<L>Her heart does first intice, and then she'll wound:</L>
+<L>A heart deserving more, his Doom then his,</L>
+<L>His Crimes are here out-done, by her Victories.</L>
+<L>Here all the depth of Love he finds, all Air</L>
+<L>Her Vows, her Frowns all Blood, her Smiles all snare.</L>
+<L><HI>Samson</HI> he's conquered, Ah! what must he do?</L>
+<L>Alas! to Dungeons, Prisons, he must go:</L>
+<L>While's Enemies are glad, and do rejoyce,</L>
+<L>And fill the Air with a victorious Voice.</L>
+<L>Their Altars now they load, <HI>Dagon</HI> he too,</L>
+<L>For this mistaken Conquest, has his due.</L>
+<L><HI>Philistines</HI> they so loud their <HI>Dagon</HI> sung,</L>
+<L>Till thro' the hollow Skies the Echo rung;</L>
+<L>And <HI>Samson</HI> too, they to the Altar bring.</L>
+<L>They bind and tye him fast, put out his Light,</L>
+<L>And leave the Body Dark as blackest Night,</L>
+<L>And to their <HI>Dagon</HI> offer up his Sight.</L>
+<L>To <HI>Gaza</HI> they poor <HI>Samson</HI> led; Ah! there</L>
+<L>In dismal Dungeons cast, must Shackles wear;</L>
+<L>In Fetters clos'd he lives, Oh! might he live</L>
+<L>In Peace and Quiet, and his sad Fate there grieve:</L>
+<L><PB N="25" REF="13"/>
+Oh! no hard Labours now he undergoes,</L>
+<L>Blind, in a Mill he Grinds, is struck by's Foes;</L>
+<L>Where as to rest himself a while, he sate,</L>
+<L>And thus in Tears bewail'd his Wretched Fate.</L>
+</LG>
+<LG>
+<L>Ʋnhappy me! depriv'd of all what's good,</L>
+<L>My Joys are gone, and all my Pleasure fled;</L>
+<L>My Hopes are snatch't, for I am left by God.</L>
+<L>In Dungeons here, in Fetters bound I lye,</L>
+<L>Oh that I were so happy as to Die!</L>
+<L>My Feet with Chains are torn, I Shackles bear,</L>
+<L>Am desolate, my very Life I fear.</L>
+<L>But most unhappy yet, in Darkness creep,</L>
+<L>Blind, Eyeless, Dark as Night, or Death-like Sleep.</L>
+<L>O loss of Sight! for thee I pine away,</L>
+<L>Eclipse Eternal, and no hopes of Day;</L>
+<L>No hopes of Light!</L>
+<L>Among Inhumane Foes at <HI>Gaza</HI>'s Mill,</L>
+<L>Labours more hard than all the Pangs of Hell:</L>
+<L>At <HI>Gaza</HI>'s Mill I grind, my Foes a Slave,</L>
+<L>Ʋnhappy me, my Tomb, my self my Grave.</L>
+<L>Oh! had I never seen that tempting Fair,</L>
+<L>Heard those deluding Words, or see that Air;</L>
+<L>Oh! had I never seen those Eyes, that mighty Light,</L>
+<L>Which blinded me, and dim'd me more than Night;</L>
+<L>Night hopes for Day, but I can't hope for Sight:</L>
+<L>I'd not forgot, no not despis'd my God,</L>
+<L>In Glory I had liv'd, injoy'd all Good.</L>
+<L><PB N="26" REF="14"/>
+What must I do? my God I did displease,</L>
+<L>Oh that he was my Friend! All my Enemies</L>
+<L>Were Chaff unto my Hands; I'd draw my Sword,</L>
+<L>And in the Dust with Blood, their Fates record.</L>
+<L>But he is fled, to who now must I fly?</L>
+<L>I dare not rise, and him for Pardon Pray;</L>
+<L>Heav'n against me's shut, no Grace is left</L>
+<L>For wretched me, of all my Joys bereft.</L>
+<L>Yet I will rise, tho' Thunder strikes me dead,</L>
+<L>And Lightning blasts my Soul, I'le rouze my Head;</L>
+<L>And with my Pray'rs I'le break quite thro' the Air,</L>
+<L>Ʋntil my Pray'rs shall reach the Almightys Ear.</L>
+<L>Thus <HI>Samson</HI> spake, and Sighing, down he lay,</L>
+<L>His Griefs were many, and his Sorrows true;</L>
+<L>Grief vext his Breast, he could no longer Cry,</L>
+<L>But in deep Sighs, his Soul would Pardon pray.</L>
+</LG>
+<LG>
+<L>Now Princes join'd again, they th' People call,</L>
+<L>To Celebrate another Festival,</L>
+<L>To sing to <HI>Dagon</HI> our Great Champions Fall.</L>
+<L><HI>Samson</HI> is call'd for, he must be their Play,</L>
+<L>He's struck at's Work, and mock't at all the Day;</L>
+<L>Betwixt the Pillars, he does stand for publick View.</L>
+</LG>
+<LG>
+<L>Once more he'l try if Pray'rs ought can move,</L>
+<L>He'l pray once more, for Vengeance from above;</L>
+<L>All he desires is Death, that he might have</L>
+<L>One Blow, and give himself and's Foes a Grave:</L>
+<L><PB N="27" REF="14"/>
+War his true Friend, he prays, may leave him last,</L>
+<L>VVhilst living he ador'd, her still imbrac'd,</L>
+<L>And in his dying Pangs he'l hold her fast.</L>
+<L>Now he's in hopes that God has cast an Eye;</L>
+<L>An Eye of Pity reconcil'd him too;</L>
+<L>He grasp'd the mighty Pillars where he stood,</L>
+<L>Joyn'd in his Pray'rs, with all his Strength he bow'd,</L>
+<L>And over-threw the House, a fatal Fall,</L>
+<L>VVhilst in confusion many a thousand Soul:</L>
+<L>In their own Sables, hellish black Array'd,</L>
+<L>VVere hurl'd headlong to the Eternal Shade.</L>
+<L>VVhilst our Great Heroe in a Chariot rod,</L>
+<L>And shook the Christaline where e're he trod;</L>
+<L>To Heav'n he flyes, where waiting Angels stay'd,</L>
+<L>Prepar'd his Throne, prepar'd his Diadem laid:</L>
+<L>Fragrant he came, with Vengeance of his Foes,</L>
+<L>As Radient as the Sun, to Heav'n he goes.</L>
+<L>VVith fresh Repentance, New-born now he came,</L>
+<L>No Spot is on his Breast, a sacred Flame</L>
+<L>Is Ardent in his Soul, he sees the Joys,</L>
+<L>Eternal Bliss, is eager in his ways;</L>
+<L>Now reconciled, to his God he flyes.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="publisher's advertisement">
+<PB REF="15"/>
+<HEAD>ADVERTISEMENTS.</HEAD>
+<P><HI>SYlvia</HI>'s <HI>Revenge,</HI> Or a Satyr against MAN, in Answer to the Satyr against WO∣MAN. <HI>The Second Edition.</HI></P>
+<P><HI>SYlvia</HI>'s <HI>Complaint</HI> of her Sexes Unhap∣piness. A Poem. Being the Second Part of <HI>Sylvia</HI>'s <HI>Revenge,</HI> or a Satyr against MAN. To which is added, the Emulation, a Pinda∣rique ODE. <HI>The Second Edition.</HI></P>
+<P>Both Printed for <HI>Robert Battersby</HI> at <HI>Staple-Inn Gate</HI> near the <HI>Barrs</HI> in <HI>Holbourn.</HI></P>
+<PB REF="15"/>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>
+

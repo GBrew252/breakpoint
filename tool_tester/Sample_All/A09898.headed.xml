@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The life of Alfred, or, Alvred: the first institutor of subordinate government in this kingdome, and refounder of the Vniversity of Oxford Together with a parallell of our soveraigne lord, K. Charles untill this yeare, 1634. By Robert Povvell of Wels, one of the Society of New-Inne.</TITLE><AUTHOR>Powell, Robert, fl. 1636-1652.</AUTHOR></TITLESTMT><EXTENT>Approx. 101 KB of XML-encoded text transcribed from 94 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2005-03 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A09898</IDNO>
+
+
+<IDNO TYPE="stc">STC 20161</IDNO>
+
+<IDNO TYPE="stc">ESTC S115025</IDNO>
+
+<IDNO TYPE="eebo citation">99850245</IDNO>
+
+<IDNO TYPE="proquest">99850245</IDNO>
+
+<IDNO TYPE="vid">15432</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A09898)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 15432)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1475-1640 ; 1214:3)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The life of Alfred, or, Alvred: the first institutor of subordinate government in this kingdome, and refounder of the Vniversity of Oxford Together with a parallell of our soveraigne lord, K. Charles untill this yeare, 1634. By Robert Povvell of Wels, one of the Society of New-Inne.</TITLE><AUTHOR>Powell, Robert, fl. 1636-1652.</AUTHOR><AUTHOR>Alfred, King of England, 849-899.</AUTHOR></TITLESTMT><EXTENT>[34], 96, 99-156, [2] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>[London] :</PUBPLACE>
+<PUBLISHER>Printed by Richard Badger for Thomas Alchorn, and are to be sold at the signe of the green-Dragon in Pauls Church-yard,</PUBLISHER>
+<DATE>1634.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>With a final imprimatur leaf.</NOTE><NOTE>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Charles --  I, --  King of England, 1600-1649.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2004-09</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2004-10</DATE><RESPSTMT><RESP>Apex CoVantage</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2004-11</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2004-11</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2005-01</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A09898">
+<STC T="S">20161</STC>
+<BIBNO T="umi">99850245</BIBNO>
+<VID>15432</VID>
+</IDG>
+<GROUP>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>THE LIFE OF ALFRED, <HI>OR,</HI> ALVRED: The first Institutor of <HI>sub∣ordinate government in this</HI> Kingdome, and Refounder of the Vniversity of OXFORD.</P>
+<P>Together with a Parallell of our Soveraigne Lord, K. CHARLES <HI>untill this yeare,</HI> 1634.</P>
+<P>By ROBERT POVVELL of <HI>Wels,</HI> one of the Society of <HI>New-Inne.</HI></P>
+<P>Printed by <HI>Richard Badger</HI> for <HI>Thomas Alchorn,</HI> and are to be sold at the signe of the <HI>green-Dragon</HI> in <HI>Pauls Church-yard.</HI> 1634.</P>
+</DIV1>
+<DIV1 LANG="lat" TYPE="dedication">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>REVERENDIS∣SIMO IN CHRISTO PATRI, AC DOMI∣no Gualtero <HI>permis∣sione divina</HI> Winton. <HI>Epis∣copo, Sacrae Periscelidis</HI> Praesuli, Domino suo honoratissimo.</HEAD>
+<OPENER><SALUTE>Reverendissime Antistes:</SALUTE></OPENER>
+<P><SEG REND="decorInit">I</SEG>Nter publicas, &amp; privatas rerum an∣xietates, per suffura∣tas ansam arripui horas, opus∣culum
+<PB REF="3"/>
+de antiquis legibus &amp; subdelegatis in hoc regno re∣gendi formulis, ab <HI>Alvredo</HI> olim praeillustri <HI>Angliae</HI> prin∣cipe institutis, &amp; ad <HI>Mosai∣cam</HI> moderno tempori dedu∣ctis imitationem, elucubran∣di: non citiùs opus istud pere∣gissem, &amp; honoratissimo ju∣ris perito examine suo truti∣nandū devovissem, cum mag∣num me incessit desiderium, in illius celeberrimi regis &amp; vi∣tam, virtutes, &amp; gesta peni∣tius inscrutandi, quae omnia
+<PB REF="3"/>
+quidem accuratiùs perpen∣denti, tantum mihi in delitiis erant, ut variis sparsim Chro∣nographis reperta, in unum colligere fasciculum non per∣taesum fuerit, in illius adim∣plendi conatu sic unda super∣venit undae, mirae (torrentis instar) in animum meum de serenissimo nostro <HI>Carolo</HI> re∣ge, &amp; ipsius cum <HI>Saxonico</HI> illo antecessore suo, aequipara∣bili fere in omnibus assimila∣tione, meditationes incide∣runt; &amp; eò magis mirae, quod
+<PB REF="4"/>
+tunc temporis insignissimus ille Aetoniae praepositus multas earundem (licet longè concin∣niori &amp; disertiori idiomatis contextu) in plausibus &amp; vo∣tis suis ad Regem è Scotia re∣ducem dilucidè pertextuisset: aetate hac calamorum &amp; ty∣porum prurigine laboranti cum non deerint (haud dicam histriomastiges) insolentes, &amp; insensati Regis, legis, ecclesiae Episcoporum, &amp; totius ditio∣nis hujus gubernationis, masti∣ges licèt ipsissimis ipsi flagellis
+<PB REF="4"/>
+pereant; non iniquum mihi (cum nos non nobis solùm na∣tos esse meminerim) hoc mi∣nutulum meum in rei-publicae gazophylacium, Regis, &amp; le∣gis ergo immittere visum est: Ad opellam istam de legi∣bus, quod attinet, quantùm naturalem subditorum erga sacram Regis Majestatem, obedientiam, quantum inna∣tam Coronae regalis praeemi∣nentiam, nec non veterum consuetudinum, &amp; novissimo∣rum decretorum scientiam ex∣plicatura,
+<PB REF="5"/>
+quantùm denique emolumenti, ad rerum geren∣darum subordinationē allatu∣ra videatur, consultissimos ap∣pellare judices fas sit: interim ad nobile par Principum sa∣crorum redeam; quis de tali∣bus talia, qualia perrarò ulla produxit aetas, silendo praeter ire queat? <HI>Etenim</HI> (ut alibi in <HI>Alfredum</HI> dicitur) <HI>quae delectatio major, quam cla∣rorum virorum studia, res gestas, mores, vitas, ortus &amp; obitus (tanquam tabu∣las</HI>
+<PB REF="5"/>
+<HI>bene pictas) quotidie intueri? Quis fructus ube∣rior quam qui ex istiusmo∣di rerum lectione percipia∣tur?</HI> Non alium hoc aggredi∣endo mihi finem destinaverā, quām ut incomparabilia om∣nium in ij<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/> praesertim in <HI>Alf.</HI> nostro superstite) bonorum in∣signia, quasi totidem exempla∣ria imitationis commodè sin∣gulis accommodentur: qualis haec micula mea, prae grandi∣oribus, apud vulgus hominum estimanda videatur, non mul∣tùm
+<PB REF="6"/>
+interest; modo dominati∣onis vestrae (cui omnia quic∣quid me penes, immò meipsum debeo) patrocinio, cum omni humilitate dicari digneris. Intimis igitur à te praesul Re∣verende votis contendo, ut hujus officii pignoris dedicati∣onem acceptare non pigeat, quo ingenti favore fretus, al∣terum istud de legibus, rei∣publicae utilitati devotum (quorum intererit prius con∣sultis) alacrius exhibiturus sum. <HI>Deus optimus &amp; max∣imus</HI>
+<PB REF="6"/>
+<HI>dignitatem vestram</HI> in ecclesiae, et regni ornamen∣tum et adjumentum, diu inco∣lumem praestet, et annorum plenitudine transacta aeterna beatitudine in altissimis co∣ronet.</P>
+<CLOSER><SIGNED>Dominationi vestrae omni ob∣servantiae officio, studio, &amp; fide devinctissimus Servulus
+ROB▪ POVELLUS▪</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="preface">
+<PB REF="7"/>
+<PB REF="7"/>
+<HEAD>The Preface.</HEAD>
+<P><SEG REND="decorInit">H</SEG>ISTORY is the Herauld of An∣tiquity, and the life of time, and well deserves <HI>Cicero</HI> his ap∣pellation, <HI>Magistram vitae:</HI> it preserves and presents un∣to our understanding, and knowledge in the booke of nature (as it were in a <HI>Syn∣optick</HI> glasse) the life and light of the boundlesse and beautifull theatre of the
+<PB REF="8"/>
+whole world, the heavens, the elements, the glorious lights, the nature of al herbs and plants, and all creatures whatsoever both of sea, and land; yea, even subterrane∣ous things, treasured up in the bosome and bowels of the earth; the variety of all precious gems, and all mi∣nerall bodies and materials whatsoever; and not onely the life &amp; light of this great universe, but of all persons and actions memorable and worthy to be recorded, either for imitation of good, or eschewing of evill, ever
+<PB REF="8"/>
+since the world it selfe had its first created light: it presents our first Pa∣rents in their innocence and naked purity, and after their fall, in their sinfull<NOTE PLACE="marg">Gen. 9 21</NOTE> robes of figleaves. <HI>Noah</HI> in the Arke (the type of the Church militant) and after∣wards uncovered in his Tent.</P>
+<P>It brings to our memo∣ries, the gracious and god∣ly government of <HI>David, Ie∣hosaphat, Ezechias,</HI> and many other blessed Kings; and on the contrary, the tyrannicall and cruell oppressions of
+<PB REF="9"/>
+<HI>Pharaoh, Astyages,</HI> and <HI>He∣rod,</HI> and many others, with their wofull and exemplary punishments, the lives of good and bad subjects; an undermining <HI>Ziba,</HI> and a faithfull <HI>Mephibosheth,</HI> a proud <HI>Haman,</HI> and a loyall <HI>Mordecai,</HI> an incorrupted <HI>Naaman,</HI> and a bribing <HI>Ge∣hazi;</HI> in a word, a Pharisai∣call <HI>Thraso</HI> and a penitent <HI>Publican:</HI> it presents unto us from the mouth of God, by the hand of <HI>Moses</HI> the Law of God, or the deca. logue proceeding from the eternall wisdome and rule
+<PB REF="9"/>
+of justice in God; by which, as by a Rule or Levell, all the counsels and consulta∣tions, all the actions and en∣terprises of men are to bee directed and squared.</P>
+<P>This great Mistresse hath two eyes, and by them she surveyes the whole world, <HI>Topographie,</HI> and <HI>Chronology,</HI> and exact knowledge of pla∣ces, and of times, which like the <HI>Cynosura</HI> are able to guide and conduct every studious reader in the vast Ocean of the affaires of the world unto the haven of true knowledge.</P>
+<P><PB REF="10"/>History is either univer∣sall, describing the whole fabricke of the world, or ge∣nerall containing a national or provinciall description, <HI>Quae mores hominum cognovit &amp; urbes,</HI> or speciall, compre∣hending the lives and acti∣ons of particular Princes or persons; this last I shall walke in.</P>
+<P>To be versed in the know∣ledge of forreigne Coun∣tries, and affaires, and to be a stranger at home, were great folly, and a way to forget the legiance and obe∣dience which wee owe to
+<PB REF="10"/>
+our Soveraigne and his Lawes.</P>
+<P>Vnder the service of that great Commandresse, that yeelds subjection to none but eternity it selfe, I shall humbly presume, to present unto the world for the glory of our <HI>Eng∣lish</HI> Nation such a Prince, as <HI>Constantine</HI> the great Emperour of <HI>Rome,</HI> (who rescued the Christi∣ans of his time from the persecution,) would have owned and honoured for a Compeere, if he had lived in his time; <HI>Alfred,</HI> or, as
+<PB REF="11"/>
+some name him <HI>Aelfred,</HI> or <HI>Alvred,</HI> the 23. King of the <HI>West-Saxons,</HI> and the first Monarch of England; who not only rescued and defen∣ded his Christian Subjects from Pagan persecutions, but was the Author of re∣conciling and adopting a <HI>Danish</HI> King, and many Nobles and others to the Christian faith.</P>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="11"/>
+<HEAD>To the Christian and Courteous <HI>REA∣DER.</HI></HEAD>
+<P><SEG REND="decorInit">T</SEG>Here are, who will expect from mee some reasons, why I, <HI>inter minores mini∣mus,</HI> should adven∣ture the laboures of my shallow and slender judgement, upon a Subject so Princely and <HI>Para∣mount;</HI> Let such accept some few for many.</P>
+<P>In that degree of profession, and imployment in the Com∣mon lawes of this kingdome
+<PB REF="12"/>
+which I now injoy, &amp; have done these twenty five yeares. I had ever a desire to improve my knowledge not, only by traditio∣nall and ordinarie rules of pra∣ctice, but by a more exact inqui∣rie, <HI>Petere fontes potius quàm ri∣vulos,</HI> to looke into the antiqui∣ties and originall grounds of those lawes wherewith I was to deale.</P>
+<P>My first incouragement there∣in I received by versing in a lear∣ned worke compiled and publi∣shed <HI>Anno,</HI> 1609. by Master Iohn <HI>Skeny</HI> a great <HI>Senator</HI> and privy Counsellor in <HI>Scotland,</HI> to our late blessed Soveraigne of famous memory KING <HI>Iames,</HI> intituled <HI>Regiam Majestatem,</HI> &amp;c. with his marginall annotations touching the Concordance of the divine law, the lawes of this
+<PB REF="12"/>
+land, and the latter Parliamentary lawes of <HI>Scotland,</HI> which mini∣stred an occasion unto me to be∣stow some stolne houres (amidst many distracting businesses) in the studie of our <HI>Brittish, Saxon,</HI> and English histories, wherein I observe, notwithstanding the many and often permutations of State and government in the time of the heptarchie, as also before, and after, a constant observati∣on of the fundamentall rules of our Nationall lawes in <HI>Tanto,</HI> though not in <HI>Toto,</HI> and I tooke no meane felicity therein, hear∣tily wishing, that they were not so much neglected and underva∣lued, as they are by many, who are more conversant in <HI>Turkish</HI> and other forraigne histories, than in our owne, <HI>in sua re∣publica hospites, in aliena Gives</HI>
+<PB REF="13"/>
+<HI>Aliens</HI> at home and Citizens abroad.</P>
+<P>From the studie of those lawes I learned that the bodie of the common weale subsisteth by an ancient monarchicall govern∣ment, and that the KING is <HI>Vicarius Dei</HI> and <HI>Caput reipubli∣cae,</HI> GODS <HI>Vicegerent</HI> and the head of the Common-wealth. The members which make up the structure of our Republike are the LORDS spirituall and temporall, and the commons: the common-wealth hath an in∣terest in every mans actions, <HI>In praemium</HI> or <HI>paenam,</HI> either to re∣ward the good or to punish the bad actions of men, crimes of omission, or commission; <HI>Inter∣est rei-publicae ne quis re sua malè utatur,</HI> It hath such a power over the actions and estates of men,
+<PB REF="13"/>
+that no man must abuse or mis∣imploy the talent of his minde, body, or meanes: And by the rules of contraries, Every man must well and rightly, order, and imploy them for the aid, and de∣fence of the head, and of that great body. Master <HI>Crompton</HI> in the dedication of his learned <HI>Ire∣narcha,</HI> rendereth this motive; for the publication of that book. For that (saith hee) the body of the Common-wealth doth con∣sist of divers parts, and every member ought to indevour him∣selfe according to his calling, for the maintenance thereof; I have studied how I might put my poore talent into the treasury; for the more safe conservation of that body. The same reason rai∣sed up some courage in me to en∣terprise that work which is men∣tioned
+<PB REF="14"/>
+in the precedent nuncu∣pation.</P>
+<P>I had no sooner finished and devoted that to the view and examination of an honourable person eminently learned in the lawes, but my meditations fell amaine upon the lives, lawes and memorable actions of our Roy∣all paire of peerelesse <HI>Princes,</HI> and especially of our Brittish <HI>Al∣fred,</HI> and afterwards perusing that most accurate and learned worke of Sir Henrie <HI>Wootton</HI> Provost of <HI>Eaton Colledge</HI> for the gratulation of his Majesties happy returne from <HI>Scotland.</HI> It bred a wonder in me, that two Subjects, the one noble, the other plebeian should at one and the same time, as neare as may be conjectured, concord for most things in their meditations, upon
+<PB REF="14"/>
+the noble acts and deeds of their most glorious Soveraigne.</P>
+<P>It seemes to me a strong argu∣ment to prevent the sinister con∣ceits and criticke opinions of those who will bee too censori∣ous upon my publishing of this worke: and amongst them some of my owne calling, who never had their breeding in any Innes of Court or Chauncery, such I must passe by with the <HI>Poet,</HI></P>
+<LG>
+<L>Carpere nostra voles? potes hinc jam lector abire</L>
+<L>Quo libet—</L>
+</LG>
+<P>I heare some already censure me, for writing some part of the life of our renowned Monarch in his life time; two presidents <HI>instar multorum</HI> shall serve to vin∣dicate me therein. <HI>Asser</HI> who wrote the life of <HI>Alfred</HI> whilst he lived; And our ever honoured
+<PB REF="15"/>
+<HI>Cambden</HI> who wrote part of the life of blessed Queene <HI>Eliza∣beth</HI> before her death.</P>
+<P>I shall adde a reason, that sith∣hence by nature wee are apt to imitate the worst things;</P>
+<LG>
+<L>—dociles imitandis</L>
+<L>Turpibus &amp; pravis omnes sumus—</L>
+</LG>
+<P>It is most expedient that the lives of good and gracious Prin∣ces, being gods on earth, should be set forth unto their people as <HI>specula,</HI> a <HI>super</HI>-eminent watch-Tower whom their subjects e∣very where might behold afar off, and learne to obey their su∣preme power; and as <HI>speculum,</HI> a mirrour wherin they might gaze on, and strive to imitate their Soveraigne in vertue and good∣nesse.</P>
+<P>Two points in my Parallell, I heare, are already quarrelled with.</P>
+<P><PB REF="15"/>One concerning genu∣flexion at the saving name of IESVS; the Canonicall disci∣pline of our Church ratified by regall authority injoynes it, and I will obey it; and if there were no such injunction, my consci∣ence would warrant me to doe it, with freedome from Idolatry.</P>
+<P>The other, concerning recre∣ations on the Lords day after the end of Evening prayer, for which I refer the Reader to the late translated worke of the re∣verend Divine D<SUP>r</SUP>. <HI>Prideux.</HI> In either of these I have not presu∣med to use any arguments; nei∣ther needed I, for then I should have walked <HI>ultra crepidam:</HI> and needlesse it is, to argue or dispute for that which authority hath commanded, and most insuffera∣ble insolence to speake or write
+<PB REF="16"/>
+against it: know, good Reader, that I have learned the fifth Commandement, which teach∣eth us, that subjection must at∣tend on superiority; and com∣mands not onely a naturall obe∣dience from children to parents, but a civill obedience from sub∣jects to their Prince who is <HI>Pa∣ter Patriae,</HI> and to all subordinate Ministers and Magistrates under him. How can any man thinke himselfe religious, who will con∣temptuously violate that Com∣mandement, not onely in not obeying the Ordinances and E∣dicts of their Christian King, but in oppugning them, and perver∣ting others from yeelding obe∣dience to them. Let this suffice for matter of apologie; I shall conclude with a thankefull re∣membrance of some living Au∣thors,
+<PB REF="16"/>
+to whom this Treatise of <HI>Alfred</HI> must especially ascribe a part of its being; M<SUP>r</SUP>. <HI>Bryan Twyne</HI> sometimes Fellow of <HI>Cor∣pus Christi Colledge</HI> in <HI>Oxford,</HI> for his learned and laborious work, touching the Antiquity of <HI>Ox∣ford;</HI> out of which I excerpted many things conducible to my purpose; and to M<SUP>r</SUP>. <HI>Noel Sparks</HI> Fellow, and Greek Lecturer of the same house, for his faithfull and carefull collections out of <HI>Asser.</HI> These and many more I consulted with, before I brought it to that contexture and forme, wherein it now presents it selfe to publike view. And so beseech∣ing the Almighty to direct all our actions for his glory and the common good, and to blesse us with true piety towards him, unfeigned loyalty to our Sove∣raigne,
+<PB REF="17"/>
+and Christian charity one towards another, I rest,</P>
+<CLOSER><SIGNED>Yours howsoever you censure me,
+ROBERT POWELL.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="life">
+<PB N="1" REF="17"/>
+<HEAD>THE LIFE OF ALFRED, <HI>OR, ALVRED.</HI></HEAD>
+<P><SEG REND="decorInit">T</SEG>HE light of the <HI>Lawes</HI> of this ver∣tuous &amp; magna∣nimous Prince, drawne from the first and best patterne of all Lawes, did not onely minister the occasion of compiling a
+<PB N="2" REF="18"/>
+Treatise to be hereto annex∣ed, but a just encouragement with my unworthy and un∣polish't Pensil to limbe out the life of him, who (though he died seven hundred thir∣ty three yeares since) doth by the moderne practise and imitation of his Lawes and Government still live: To speak sufficiently (as one saith) of so noble a Prince<NOTE PLACE="marg">Holinsh.</NOTE> as <HI>Alfred</HI> was, might re∣quire eloquence, learning, and a large Volume.</P>
+<P>I must truly say, that <HI>tota vita luctamen,</HI> all his life was a perpetuall warfare
+<PB N="3" REF="18"/>
+against the enemies either of outward, or inward peace, men, or vices. And in this short breviary of his life, I intend not any long discourse of the various and troublesome affaires of his twenty eight yeares raigne: but what concernes his va∣lour, vertue, and religion, his pious and memorable deeds, his orderly (in the times of war and disorder) course and method of a well disposed government.</P>
+<P>This good King who is stiled by one the Mirror of Princes, by another, <HI>Moses</HI>
+<PB N="4" REF="19"/>
+his imitator, was the Grand∣childe of <HI>Egbert,</HI> who first gave this <HI>Kingdome</HI> the name of <HI>England,</HI> and the fourth and youngest son of <HI>Aethel∣wolphe</HI> by the Lady <HI>Ogburgh.</HI> In his child-hood he was a carefull observer, and cele∣brator of peculiar houres in prayers, and service of God, and so dextrously studious, that he had many Psalmes and Prayers by heart, which afterwards being gathered into a booke, he did conti∣nually night and day car∣ry about with him in his bosome, as his insepa∣rable
+<PB N="5" REF="19"/>
+companion, and as a supply or provision for the worship of God, amidst the manifold changes of those times: he was a sedulous frequenter, and visitor of holy places, <HI>Etiam ab infan∣tia,</HI><NOTE PLACE="marg">Asser.</NOTE> <HI>orandi &amp; eleëmosynam dan∣di gratia, diu in oratione ta∣cita prostratus</HI> (saith mine Author) wherein hee fol∣lowed his Fathers steps, who by reason of his mo∣nasticke education under <HI>Swithun</HI> a Monke (whom he afterwards made Bishop of <HI>Winton,</HI>) was a man zea∣lously and piously addicted.
+<PB N="6" REF="20"/>
+And of all his sonnes, <HI>Al∣fred</HI> was most heire appa∣rant to his fathers devotion and vertues, though not to his Crown and Kingdome. When he was not above five yeares old, yet <HI>senior virtutibus quàm annis Aethel∣wolphe</HI><NOTE PLACE="marg">Twine Apol. p. 194.</NOTE> his father being war∣ned thereto in a dreame by the voice of an Angell, <HI>A∣dulphe Rex dilecte Dei quid moraris? mitte filium postge∣nitum,</HI> &amp;c. did upon this vi∣sion (if it may receive any credite) by an honourable Convoy of <HI>Swithun</HI> Bishop of <HI>Winton,</HI> &amp; other Nobles,
+<PB N="7" REF="20"/>
+send this blessed youngling to the Bishop of <HI>Rome,</HI> to be anointed King of <HI>Eng∣land:</HI> certaine it is, he was there, and was humbly pre∣sented by <HI>Swithun</HI> to <HI>Pope Leo</HI> the fourth, who (as if divining and presaging his future fortune and suc∣cession to his fathers <HI>Crown</HI>) did in the yeare of Christ eight hundred fifty five, an∣noint him a King in the presence of his Father (saith <HI>Rossus,</HI>) and it was about the time that <HI>Lewis</HI> the second succeeded <HI>Lotha∣rius</HI><NOTE PLACE="marg">Chytrae<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/></NOTE> in the Empire of <HI>Rome.</HI></P>
+<P><PB N="8" REF="21"/><HI>Aethelwolphe</HI> not many yeares after his return from <HI>Rome</HI> died, and his three el∣der sonnes <HI>Ethelbald, Ethel∣bert,</HI> and <HI>Etheldred</HI> succes∣sively raigned, and dying left the Kingdome distract∣ed by continuall conflicts with the <HI>Danes;</HI> and <HI>Alfred</HI> having faithfully served his brothers, as Viceroy, in each of their sev<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>ral raignes survived, and in the twen∣ty second yeare of his age, and the nineteenth yeare of the Emperour succeeded in<NOTE PLACE="marg"><GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ewis.</NOTE> his Kingdome, in a yeare wherein eight severall bat∣tels
+<PB N="9" REF="21"/>
+had beene given to the <HI>Danes</HI> by the <HI>Saxons;</HI> and<NOTE PLACE="marg">Hellin∣shead.</NOTE> himself within one moneth after his Coronation, forced into the field by the Pagan <HI>Danes</HI> at <HI>Wilton,</HI> where the end of the fight was more successefull than the begin∣ning, and procured the first truce betweene the <HI>Danes</HI> and <HI>Saxons;</HI> yet so impla∣cable were those Heathens against this pious Prince; that like wilde and savage Boares after many over∣throwes they would conti∣nually whet their tuskes to give new onsets. After this
+<PB N="10" REF="22"/>
+truce about the yeare, eight hundred seventy five, <HI>Hal∣den</HI> the <HI>Danish King</HI> having▪ the fresh supply and aide of <HI>Guthrun,</HI> and other <HI>Danish</HI> Leaders, (Viceroyes at least) did both by Sea and Land continually exercise this gracious Prince in a defen∣sive warfare; but not with∣out some perillous im∣broylements, he did inforce them to the treatie of a se∣cond<NOTE PLACE="marg">Hollinsh.</NOTE> peace; and then (more than ever they did before to any) they tooke a solemn<GAP DESC="illegible" REASON="in gutter" EXTENT="1 letter" DISP="•"/> Oath to depart the Coun∣trey; but eft-soones perfi∣diously
+<PB N="11" REF="22"/>
+violated the same, and for further preparation of warre, marched with an Armie towards <HI>Exeter; Al∣fred</HI> approached them in such wise, and so fiercely encountred them, as that they were enforced to de∣liver pledges for perfor∣mance of their former a∣greement of departure: for no oathes would serve to binde the consciences of those lawlesse Miscreants. Hence they departed and drew into <HI>Mercia;</HI> and ha∣ving usurped the govern∣ment of the Kingdome
+<PB N="12" REF="23"/>
+from the River of Thames forward; no termes, nor tyes of truce could containe them from continuall in∣cursions, and invasions up∣on this noble Prince: under the conduct of <HI>Guthrun</HI> (called by some <HI>Gurmund.</HI>) The remnant of those dis∣banded <HI>Atheists</HI> mustered up themselves, and about the first yeare of his raigne invaded the Countrey of <HI>West-saxia,</HI> and pitched their Tents about <HI>Chipnam</HI> in <HI>Wiltshire,</HI> where they infe∣sted the whole Countrey▪ and so overlaid King <HI>Al∣fred</HI><NOTE PLACE="marg">Speed.</NOTE>
+<PB N="13" REF="23"/>
+with their united for∣ces; that by extremity hee was necessitated to make his recesse into obscure pla∣ces almost inaccessible for fennes and marshes, having nothing of his great Mo∣narchie left unto him but that part of the Kingdome, since knowne and distin∣guished by the Counties of <HI>Hampton, Wilts</HI> and <HI>Somer∣set.</HI></P>
+<P>In this distresse, one of his greatest Courts for resi∣dence, was an Iland now knowne by the name of <HI>Athelney,</HI> in the County of<NOTE PLACE="marg">Cambden F<GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/>.</NOTE>
+<PB N="14" REF="24"/>
+<HI>Somerset,</HI> anciently in the <HI>Saxon</HI> called <HI>Aethelingarg▪</HI> (that is,) <HI>Nobilium insula,</HI> so termed, by reason of the Kings abode, and the con∣course of his Nobles unto him: this place is as fa∣mous to us for the shelter of <HI>Alfred</HI> from the <HI>Danish</HI> pursuit, as the <HI>Minturnian</HI> fens were to the <HI>Romanes</HI> for <HI>Marius</HI> his covert from the persecution of <HI>Sylla:</HI> In this place hee lived poorely disguised in a <HI>Cowheards</HI> house, (some would have it in the service of <HI>Den∣wulphus</HI> a <HI>Hogheard;</HI>) Being
+<PB N="15" REF="24" MS="y"/>
+excellent in musicke and songes, he oftentimes in the habit and posture of a com∣mon minstrill, did insinu∣ate himselfe in the <HI>Danish</HI> Campe, where his plausible carriage and skill, gained a freedome of accesse and passage in the company of their Princes at Banquets and other meetings; and thereby he discovered their conditions, and all their martiall counsels and de∣signes.</P>
+<P>By this prudent and po∣litique course, being now furnished and prepared not
+<PB N="16" REF="25"/>
+onely to prevent, but to surprize his enemies; (<HI>Do∣lus an virtus, quis in hoste requirat?</HI>) He returnes to hi<GAP DESC="illegible" REASON="in gutter" EXTENT="1 letter" DISP="•"/> comfortlesse company, and unmasking himselfe, and the <HI>Danish</HI> designes, doth with comfort cheere them up; and with a refreshed power and strength, he sud∣denly issued forth, and gave a fierce assault upon the se∣cure and carelesse company of the <HI>Danes</HI> who were then frollicking in their Tents, and <HI>Somno vinoque sepulti;</HI> he put such a great number of them to the
+<PB N="17" REF="25"/>
+sword, that the poore re∣mainder of them were ut∣terly disbanded and dis∣comfited, and inforc't to a shameful flight for the safe∣guard of their lives. This victorious surprizall gave a sure overture and hope to King <HI>Alfred</HI> of regaining his imbroyled Monarchie; and so weakened and dis∣he<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>tned the Pagan Rebels, that <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>hey could never recol∣lect sufficient courage, or companie to renew any fresh encounter against the SAXON forces, who had gathered greater strength unto them.</P>
+<P><PB N="18" REF="26"/>In this Isle (whether be∣fore or after his victory it much matters not) King <HI>Alfred</HI> had built a kind of Castle or Fortresse to re∣ceive him and his Nobles upon returne from their sal∣lies and encounters during his warres in those parts.</P>
+<P>About a yeare after that memorable overthrow, <HI>viz. Anno</HI> eight hundred seventy nine, in a battell at <HI>Kinwich</HI> in <HI>Devon, Halden,</HI><NOTE PLACE="marg">Speed.</NOTE> and some of the chiefe Lea∣ders of the <HI>Danes,</HI> received their deaths-wound, and ended their lives; hereup∣on
+<PB N="19" REF="26"/>
+the daunted and disper∣sed <HI>Danes</HI> humbly present their termes of peace to King <HI>Alfred,</HI> with pledges and hostages, that they would either depart the Land, or become Chri∣stians, which was accepted by him; for in him Iustice and Mercy met together.</P>
+<P><HI>Guthrun</HI> their new King upon the death of their o∣ther Leaders, with thirty Noble men and almost all his people, received bap∣tisme in the new built Ca∣stle of <HI>Athelney,</HI> where King <HI>Alfred</HI> was God-father to
+<PB N="20" REF="27"/>
+him, &amp; gave him the name of <HI>Athelstane;</HI> and upon a confederation betweene them, <HI>Alfred</HI> did assigne unto him the Provinces of the <HI>Eastang'es</HI> and <HI>Northum∣berland,</HI><NOTE PLACE="marg">Cambden</NOTE> <HI>vt eas, sub fidelitate Regis jure hereditatio foveret, quas pervaserat latr cinio:</HI> that hee might enjoy that by right, which before he usurped by rapine; and unto the new baptized No∣bles, hee gave many large and rich gifts: This truce or league, must be in time, about the eight or ninth yeare of his raigne, and thus
+<PB N="21" REF="27"/>
+begins: <HI>Foedus, quod Alu∣redus</HI><NOTE PLACE="marg">Lamb. Archaie<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> fo. 49.</NOTE> <HI>&amp; Gythrunus reges ex sapientum Anglorum at que eo∣rum omnium, qui orientalem incolebant Angliam consulto ferierunt, in quod praeterea, singuli non solum de seipsis, verùm etiam de natis suis, ac nondum in lucem editis (quot∣quot saltem misericordiae di∣vinae aut regie velint esse par∣ticipes) jurarunt:</HI> That is, They did by a solemne Oath ratifie this league, as well for themselves, as for those that were then borne and unborne, that would bee partakers of diuine mercy.</P>
+<P><PB N="22" REF="28"/>In the Charter, or mu∣niment of this truce; that his Kingdome might bee free from the <HI>Danish</HI> in∣croachments, he thus boun∣ded his Kingdome. <HI>Primo ditionis nostrae fines ad Tha∣mesin fluvium evehuntor, &amp;c.</HI> Let the bounds of our Do∣minion reach unto the Ri∣ver of <HI>Thames,</HI> and thence forward unto the River of <HI>Lee,</HI> and <HI>Lermouth</HI> (this pas∣seth through <HI>Ware, Wal∣tham,</HI> and <HI>Stratford;</HI>) then let them reach straight to <HI>Bedford;</HI> and last of all be∣ing extended through the
+<PB N="23" REF="28"/>
+River <HI>Isis,</HI> let them end in <HI>Watling-street.</HI></P>
+<P>Afterwards, certaine Co∣mitiall Lawes and Ordi∣nances (<HI>Alfred</HI> no doubt was the prime mover of<NOTE PLACE="marg">Lamb. fo. 52.</NOTE> them) were solemnely made between them, inlar∣ged and amplified by their wise men: before all things they proposed and prefer∣red the strict and holy wor∣shipping of Almighty God, and abandoning all barba∣rous Idolatry; next, they tooke care for the enacting, registring, and inrolling of morall Lawes, for contai∣ning
+<PB N="24" REF="29"/>
+of Subjects in their severall duties and due obe∣dience unto Ecclesiasticall discipline; &amp; therefore they first decreed, That the peace of the Church within her walles (as it was then de∣livered by the hand of King <HI>Alfred</HI>) should bee piously and inviolably observed; they proceeded to the pro∣motion and propagation of the Christian faith, and the abolition of all Paganisme and heathenish Rites; for coertion of Clerks, &amp; men in holy Orders, if they com∣mitted any perjury, forni∣cation,
+<PB N="25" REF="29"/>
+or other offences, or were inconformable in the celebration of Festivall dayes, times of abstinence, or other Orders and injun∣ctions of the Church; pro∣hibiting mercature, and se∣cular negotiations upon the Lords day. In all wh<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>ch, the imposition of penalties and punishments upon an <HI>En∣glish-man,</HI> and upon a <HI>Dane</HI> were differenced one from the other: they also provi∣ded for the exilement of Witches, Wizards, common strumpets, and other lewd and wicked creatures; with
+<PB N="26" REF="30"/>
+other good Lawes for avoi∣ding of homicides, and for preservation of peace and government, and mainte∣nance of each mans right of property in this their na∣tionall commixture.</P>
+<P>This adjured league qui∣eted the civill discords of the <HI>Danes</HI> and <HI>Saxons</HI> for the space of foure years, un∣till the twelfth yeare of <HI>Al∣freds</HI> raign. And afterwards the continuall inrode of the stragling unbaptized <HI>Danes,</HI> issuing out of <HI>France</HI> and other places (who like <HI>Aegyptian Locusts</HI> vexed that
+<PB N="27" REF="30"/>
+Easterne part of the Land) gave this good King little time of intermission from a vigilant provision for de∣fensiue warres; untill not without a holy testamenta∣ry preparation, hee surren∣dred both life and Crown, in the eight &amp; twenty yeare of his happy raigne.</P>
+<P>And yet I must not so soon bring him to his grave; I said at first he lived, and still doth live, the Chara∣cters of that life which are his vertues, and never-dying well-done deeds: It is my willingnesse, more than my
+<PB N="28" REF="31"/>
+ablenesse to expresse; I will rather hazard my inabilities for such an enterprize to the censorious opinion of this age, than leave his exempla∣ry goodnesse unpublished to the world.</P>
+<P>In the flower of his youth (a time most subject to en∣tertaine pleasure and de∣lights) before hee married his wife (who was <HI>Aelswida</HI> daughter of <HI>Etheldred</HI> Earle of <HI>Mercia;</HI>) he was so cha∣ry of a chast and continent course of life, and so studi∣ous<NOTE PLACE="marg">Asser.</NOTE> to resist and suppresse all ebullitions of sinfull sug∣gestions,
+<PB N="29" REF="31"/>
+that most dayes, early at the summons of the mornings Herauld, hee would privately betake himselfe from his rest unto sacred Oratories, and pla∣ces of Divine Service, and there in a prostrate hum∣blenesse, with no little ex∣pence of time, most de∣voutly offer up the incense of his prayers to the Throne of Heaven; which course he constantly observed in the silent houres of night, and at all seasons; aswell in the times of prosperity and victorious successe, as
+<PB N="30" REF="32"/>
+also in all adverse, and doubtfull variations of war or State▪ or afflictions of sicknesse, and infirmity of body; in all which he had his vicissitude of participa∣tion.</P>
+<P>He was the first lettered Prince in this Kingdome, since it had its nomination of England, and had the happinesse to be disciplined under the care of <HI>Plegmun∣dus,</HI><NOTE PLACE="marg"><GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>. Godw. ca<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>. <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>o. 17</NOTE> a man of excellent lear∣ning, and eminent parts, who was borne in <HI>Mercia;</HI> and from the solitary life of an <HI>Eremite▪</HI> in the Island of
+<PB N="31" REF="32"/>
+<HI>Chester,</HI> called to be a Tutor to this noble Prince; who at that time found the num∣ber of Learned men to bee so scarce and few, by rea∣son of the continuall deva∣stations of warres (which are alwayes incompatible with lawes and literature) as that with incessant sighs and groanes he would not<NOTE PLACE="marg">Asser.</NOTE> daily cease to bemone the want of such men, and with assiduity of earnest prayers to implore a supply from that Omnipotent w<SUP>th</SUP> soone gave a gratious issue to his desires; for not many
+<PB N="32" REF="33"/>
+moneths after his inaugu∣ration to the Kingdome, he obtained the comfortable service and attendance of <HI>Withfrithus,</HI> called by some <HI>Werefridus</HI> (who was con∣secrated Bishop of <HI>Worce∣ster</HI> on Whitsunday, 872.) And for his singular lear∣ning was had in high esti∣mation by King <HI>Alfred,</HI> and by his command translated the dialogues of S. <HI>Gregorie</HI> out of the Latine into the <HI>Saxon</HI> or <HI>English</HI> dialect; he wanted not all the helpes, advise and instructions of <HI>Plegmundus</HI> his Tutor, who
+<PB N="33" REF="33"/>
+was afterwards, <HI>Anno</HI> 889. consecrated <HI>Archbishop</HI> of <HI>Canterburie.</HI> Those he con∣sulted with, night and day, taking sweet comfort as∣well in their discourses, as in their lectures and rehear∣sals of many learned books and workes, and never thought himselfe happy longer than he had the fru∣ition of their or such like pleasing companies; by meanes whereof he attai∣ned the knowledge of most bookes, and ability to un∣derstand them by himselfe without any of their inter∣pretacions:
+<PB N="34" REF="34"/>
+his regall desire of Arts and learning, rested not at home, but extended it selfe by messages and Embassages beyond the Seas, for men of the most exquisit learning that could be heard of; out of <HI>France</HI> he obtained <HI>Grimbald</HI> and<NOTE PLACE="marg">Asser.</NOTE> <HI>Scotus,</HI> men famous in their times for their great &amp; sin∣gular learning: out of the remotest parts of <HI>Wales</HI> he sent for <HI>Asser</HI> who wrote his life, and divers others of like parts▪ he drew from o∣ther places.</P>
+<P><HI>Asser</HI> (as himselfe affir∣meth)
+<PB N="35" REF="34"/>
+abode with the King in his Court by the space of eight moneths before his returne to <HI>Wales;</HI> in which time he constantly read di∣vers bookes unto him: for (saith he) it was his custome both night and day, amidst all other impediments both of mind and bodie to be e∣ver versed in reading books himselfe, or hearing them read by others; and tooke a great felicity to translate bookes, especially meetre, into the vulgar (then <HI>Saxon</HI>) tongue, and commanded others to do the like, wher∣by
+<PB N="36" REF="35"/>
+he acquired such perfe∣ction therein, as that the Art of Poësie was much honoured, by ascribing to him the title of <HI>Poet.</HI></P>
+<P>This religious <HI>Monarch</HI> out of his immoderate thirst of the Artes and libe∣rall Sciences, modestly con∣ceiving the want thereof in himselfe, to be more than it was, did apply the greater care for the education of his children: In which charge, <HI>Asser</HI> being recalled from <HI>Wales</HI> had the principal im∣ployment, and was vouch∣safed the name of Schoole∣master
+<PB N="37" REF="35"/>
+to his children, be∣ing two sonnes and three daughters by his one, and only Queene. No lesse ten∣der was he in the trayning up and tutoring of the chil∣dren of his Nobility under the same masters, and in the same method of disci∣pline.</P>
+<P>For the perpetuall pro∣pagation of learning, he re∣vived and repaired the old, and erected, and endowed new Schooles and Colled∣ges, as so many seed plots, and nurseries of Religion and vertue. Some write that
+<PB N="38" REF="36"/>
+he did first institute the V∣niversity of Oxford: the institution of that famous Achademie was doubtlesse long before: but if vivifica∣tion and redemption from oblivion and ruine, be pro∣portionable to a worke of creation; it is not a graine in the ballance, who should deserve the greatest honour of that renowned <HI>Seminary,</HI> either the first founder, or <HI>Alfred</HI> the refounder.</P>
+<P>For amidst the many mournefull demolitions of stately monuments by the <HI>Danish</HI> and <HI>Saxon</HI> warres,
+<PB N="39" REF="36"/>
+<HI>Oxford</HI> had her deplorable part and sufferance, in the exile of her Muses in her houses and structures; All, by warres, laid wast, and even with the dust, little or nothing left to demonstrate what her former beauty had beene, save onely the Monasterie of S. <HI>Frideswide.</HI></P>
+<P>For repairing the wasts and spoiles of that sacred place, <HI>Alfred</HI> bestirres him∣selfe; and there for the stu∣dies of Divinity, Philoso∣phy and other Artes, did raise up the fabrick of three magnificent <HI>Colledges</HI> then
+<PB N="40" REF="37"/>
+called by the name of his schooles, one for divinity, a∣nother for Philosophy, and a third for Grammer; one of which three is now knowne by the name of V∣niversity Colledge.</P>
+<P>In this revived Seminary he designed and appointed severall Readers and Pro∣fessors, to whom hee allot∣ted large and liberall sti∣pends. The first divinity<NOTE PLACE="marg">Twine Apo.</NOTE> reader was <HI>Neote</HI> (the se∣cond sonne of his father by his Queene <HI>Iudith</HI> daughter<NOTE PLACE="marg"><HI>Mr. Lytes</HI> Geneal.</NOTE> of <HI>Charles</HI> the bald Empe∣rour and King of <HI>France,</HI>
+<PB N="41" REF="37"/>
+whom he married upon his second returne from <HI>Rome</HI>) a man of admired learning; to whose forwardnes and direction in the reëdificati∣on of this ancient Nursery, that place did owe a special part of her being.</P>
+<P><HI>Asser</HI> as propense and<NOTE PLACE="marg">Asser.</NOTE> zealous to his power, in ad∣vising and furthering the perfection of that worke, was the <HI>Grammar</HI> and <HI>Rhe∣toricke</HI> reader: hither hee sent <HI>Aethelward</HI> his second son, and first, and last child, who was borne about <HI>An.</HI> 880. And thereby gave ex∣ample
+<PB N="42" REF="38"/>
+to al the greatest No∣bles of his Kingdome, to send their sons thither, and to honour their education with the company of the young Prince.</P>
+<P>This worke of restituti∣on<NOTE PLACE="marg">Twine Apol.</NOTE> was begun (saith one) <HI>An. Dom.</HI> 874. And doubt∣lesse it could not be present∣ly finished, and furnished; the government thereof be∣gan to flourish betweene the yeares 882. &amp; 883▪ about which time <HI>Grimbald</HI> was made in the presence of that victorious Prince, the first Chancellor of that Vniver∣sity;
+<PB N="43" REF="38"/>
+to make this worke more absolute, he obtained the grant of many▪ privi∣ledges unto the schollers of this place from <HI>Martin</HI> the<NOTE PLACE="marg">Twine Apol. fo. 168.</NOTE> second <HI>Pope</HI> of <HI>Rome,</HI> which he confirmed with his own grant of many honourable infranchisements and im∣munities. From the same Pope he obtained a relaxati∣on of all tribute to the <HI>Sax∣on</HI> schoole at <HI>Rome.</HI></P>
+<P>As hee was every way royall and magnificent in this ever blessed act of re∣stauration; so he was studi∣ous in the preservation ther∣of
+<PB N="44" REF="39"/>
+in peace and concord: a great dissension and peril∣lous, about the yeare 886, arose amongst the schollers: the parties in this faction were <HI>Grimbald,</HI> and such learned men as he brought thither with him, and the old schollers, who had their abode there at the time of <HI>Grimbalds</HI> comming &amp; refu∣sed to subscribe to, or obey the lawes, rules, and forme of discipline instituted and prescribed by him: for the space of three yeares the controversie was not visibly great, but a lurking and in∣testine
+<PB N="45" REF="39"/>
+hatred, which now taking vent, made its way with the greater fury and fiercenesse, <HI>Iamque faces &amp; Saxa volant, furor arma mi∣nistrat;</HI> it grew so great and dangerous, that none could appease it, but a <HI>Regall Ar∣biter,</HI> who being certified of it, upon the complaint of <HI>Grambald,</HI> hastens thither to accord the controversie, and (saith the Author) <HI>summos</HI><NOTE PLACE="marg">Twine Apo.</NOTE> <HI>labores hausit, &amp;c.</HI> he tooke very great paines with un∣heard-of patience, exactly to heare the differences of each party. The summe of
+<PB N="46" REF="40"/>
+the controversie was touch∣ing the orders and consti∣tutions of that place, long before <HI>Grimbalds</HI> comming established by Saint <HI>Gildas</HI> and others; and afterwards allowed by Saint <HI>German,</HI> who made six moneths a∣bode there, as he tooke his journey to preach against the <HI>Pelagian</HI> heresie; which being deliberately debated on both sides, the good Prince accorded the dis∣cord, and with pious and sweet monitions, incessant∣ly exhorted them to joyne together in peace and unity:
+<PB N="47" REF="40"/>
+what can be more said of his boundlesse munificence and blessing upon that glo∣rious Garden of Arts and Learning, than the suf∣frage of the place it self doth ascribe unto him.</P>
+<Q>Oxonii flores Alured fert iste priores.</Q>
+<P>That schooles of learning might not be unfurnished of studious <HI>Colleagues,</HI> hee made a law or decree, wherby he straightly char∣ged all the free men of the Kingdome, who were owners of two hides of Land at the least, (being
+<PB N="48" REF="41"/>
+such a portion of land as<NOTE PLACE="marg">Cambden Brit.</NOTE> might be yearely manured by two ploughs.) That they should keepe and traine up their children to learning, until they were fifteen years old; and that in the meane time they should diligently instruct them in the know∣ledge of GOD, that they might thereby acquire wis∣dome and goodnesse.</P>
+<P>For the better promoti∣on<NOTE PLACE="marg">Asser. Godwin.</NOTE> of piety, he built a state∣ly Monastery at <HI>Winchester;</HI> and upon the occasion be∣fore mentioned of his in∣forced retire into the Isle of
+<PB N="49" REF="41"/>
+<HI>Athelney,</HI> hee there out of a<NOTE PLACE="marg">Twine fo. 196.</NOTE> locall gratitude erected an other like religious house, and a third for a Nonnery at <HI>Shaftisbury</HI> in the County of <HI>Dorset;</HI> the prefecture whereof he assigned to <HI>E∣thelgeda</HI> his second daugh∣ter, the first Abbesse there, all which he inriched with large revenewes.</P>
+<P>These and other his edi∣fices by his owne former kinde of structure were most spacious, sumptuous, and glorious, beyond all the platformes and presi∣dents of his ancestors.</P>
+<P><PB N="50" REF="42"/>And because, <HI>To every thing</HI> (saith <HI>Salomon</HI>) <HI>there is a season, and a time to every purpose vnder the heaven;</HI> and, <HI>jactura temporis precio∣sissima,</HI> it was the glory of his first invention, to pro∣portion out a certitude of time, in all his best and choisest actions. The use of Clocks and Watches being not then invented; hee cast the naturall day, consisting of twenty foure houres, in∣to three parts; and having solemnely devoted the best and choisest part of his time to the service of God; he ap∣portioned
+<PB N="51" REF="42"/>
+the spaces of the day, by a great wax light or Tapor which was placed in his Chappell or Oratory, divided into three equall distances, and measured his time by the burning there∣of, whereof he had notice by his wax-keeper or offi∣cer appointed for that pur∣pose; according to this threefold proportion of time, he allotted eight hours for prayer, studie, and wri∣ting, eight in the service of his body, for his sleepe and sustenance, and eight in the affaires of his estate, which
+<PB N="52" REF="43"/>
+as farre as humane judge∣ment could discerne, his in∣firme body, and casualties of that mutable time per∣mit, he most accuratly stu∣died to performe; and for the better admeasurement of time for his subjects and common people, six wax candles were appointed for every twenty foure houres, and the use of Lanthornes first invented by him, to preserve their due time of burning.</P>
+<P>The prime motive of that invention was upon this ground: the Churches
+<PB N="53" REF="43"/>
+then were of so poore and<NOTE PLACE="marg">Asser.</NOTE> meane a structure, that the Candles being set before the Reliques were often∣times blowne out by the wind, which got in not on∣ly, <HI>per ostium ecclesiarum,</HI> but also, <HI>per frequentes parietum rimulas;</HI> insomuch, that the ingenious Prince, was put to the practise of his dexte∣rity: and upon that occasi∣on, by an apt composture of thin hornes in wood, he taught us the mystery of making a Lanthorne: hee<NOTE PLACE="marg">Lamb. fo. 54. ca. 6.</NOTE> also made a Law for con∣tribution of money to∣wards
+<PB N="54" REF="44"/>
+the maintenance of candles.</P>
+<P>And in the league be∣tweene<NOTE PLACE="marg">Idem. fo. <GAP DESC="illegible" EXTENT="2 letters" DISP="••"/> ca. 54</NOTE> him and <HI>Gythrun:</HI> there were strict and severe Lawes made against those who paid not tythes to the Clergie. He was as zealous in inlarging the immuni∣ties and priviledges of his Churches, as appeares by his sanction <HI>de immunitate</HI><NOTE PLACE="marg">Lamb. so</NOTE><NOTE PLACE="marg">28</NOTE> <HI>Templi, ca.</HI> 2. and by another <HI>de sacrarum aedium immunita∣te,</HI><NOTE PLACE="marg">29</NOTE> <HI>cap.</HI> 5. By the first, any person being guilty of any crime (if it did not concern <HI>villam Regis,</HI> or any hono∣rable
+<PB N="55" REF="44"/>
+family) hee had the priviledge of refuge to the Temple, and of abode there three nights, without any disturbance or expulsion.</P>
+<P>By the latter; if a man pursued by his enemie did flie to the Temple, no man might take him away, (<HI>à nemine abstrahitor</HI>) by the space of seven dayes, if hee were able to live for hun∣ger, <HI>&amp; viam vinon apperuerit;</HI> other, and great immuni∣ties the King there granteth to the Church; but with this caution <HI>unicuique templo religiose ab Episcopo consecrato</HI>
+<PB N="56" REF="45"/>
+<HI>hanc pacem concedimus,</HI> &amp;c. Every Church must be first haliowed by the Bishop be∣fore it could be capable of such a freedome; whence a grave and learned Civilian<NOTE PLACE="marg">D. <HI>Rid∣ley</HI> his view. <HI>fo.</HI> 193.</NOTE> observes upon that Law <HI>ca.</HI> 5. that the Patron or Founder might bring the stones, and the workeman put the materials together, and make it a house, but the Bishop made it a Church; till then, nothing was but the breathlesse body of a Temple, the soule being yet to come from the diviner influence of the Diocesan.</P>
+<P><PB N="57" REF="45"/>As this Princely piety did inlarge it selfe, in mainte∣nance of the rites and cere∣monies of the Church, the necessary and divine dues and duties to the Altar, (Tithes) being the just ali∣mony of the painefull mi∣nistery; as also in the immu∣nitis of Gods houses, so was it munificently extended, to the needfull supportati∣ons of those consecrated bodies, the materiall tem∣ples themselves. It was not long ere he cured, and clo∣sed up those <HI>parietum rimu∣las,</HI> the crannies and chinks
+<PB REF="46"/>
+of those crackt and crazed houses, with the expence of his owne estate.</P>
+<P>About <HI>Anno</HI> 892. Not without long seizing, and many doubtfull skirmishes, he recovered the Citie of <HI>London</HI> out of the hands of the <HI>Danes;</HI> restored it to its former liberties, repaired the ruines, and committed the custody thereof to <HI>Ethel∣red</HI> Duke of <HI>Mercia,</HI> who maried the Lady <HI>Elfed</HI> his eldest daughter. And doubt∣lesse the Churches in <HI>Lon∣don,</HI> and elsewhere, had a principall interest in his pi∣ous
+<PB N="59" REF="46"/>
+and prudent provision for restauration, and repa∣ration. And if the first fa∣brick of the Temple of St. <HI>Paul</HI> (which was about 210. yeares after his raigne,<NOTE PLACE="marg">Episcu. Lond. Conc. 16<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>0.</NOTE> consumed with fire, with no small part of the Citie) could speake for it selfe, it would not be silent of his magnificent bounty.</P>
+<P>The revenewes of his Kingdome, he was as stu∣dious to husband, as his time; which, that he might the better ascertaine, and know his own, &amp; (which is the best part of thrift)
+<PB N="60" REF="47"/>
+confine his expen∣ces, unto the provent of his estate: he enjoyned a gene∣rall<NOTE PLACE="marg"><GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>niel <GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/>.</NOTE> survey of the kingdome to bee made and certified unto him, and that with the particulars of his whole estate, to be deduced into a booke, which he commit∣ted to safe custodie within his treasury at <HI>Winchester.</HI></P>
+<P>The one halfe of his wealth, he faithfully &amp; de∣voutly resolved to bestow in the service of him whom he ever served: but to avoid the guilt of violating that caution of sacred Scripture,
+<PB N="61" REF="47"/>
+<HI>Si recte offeras, recte autem</HI><NOTE PLACE="marg">Asser.</NOTE> <HI>non dividas, peccas.</HI> He studied discreely to divide what he did religiously devote. Therefore by a holy and di∣vine direction, of all the in∣come of his annuall reve∣new, he caused a twofold division to be made; wher∣of, one part for divine, the other part for secular af∣faires.</P>
+<P>1 That part for Gods ser∣vice; he commands a qua∣druple subdivision, to bee exactly and carefully made? The first part whereof was to bee distributed to the
+<PB N="62" REF="48"/>
+poore of each nation, wher∣in his hand was ever open to <HI>cast his bread upon the wa∣ters:</HI> his bounty and almes∣deeds were not circumscri∣bed at home, but liberally dispersed abroad, and not onely to those of his owne and neighbouring nations; but to others of forreigne and remote parts, as if hee should have therein said,</P>
+<Q>Tros Tiriusque mihi nullo discrimine habetur.</Q>
+<P>In the yeare 888: hee<NOTE PLACE="marg"><GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>. God∣win. fo. 164.</NOTE> sent by <HI>Athelmus</HI> Bishop of <HI>Winton,</HI> much treasure of his owne; together with a
+<PB N="63" REF="48"/>
+large collection of his well disposed subjects, unto <HI>Ma∣rianus</HI> then <HI>Pope</HI> of <HI>Rome</HI> consigning a portion there∣of to be conveyed to <HI>Hieru∣salem.</HI><NOTE PLACE="marg"><GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>lem. fo. 269.</NOTE> Another time by <HI>Si∣gelmus</HI> Bishop of <HI>Sherborne</HI> a large Almes, or offering of his owne into <HI>India:</HI> there was scarce any Countrey, where the poore had not a portion of his bounty.</P>
+<P>2 The second part was allotted to his <HI>Monasteries,</HI> for the support and mainte∣nance of them.</P>
+<P>3 The third part was se∣questred, and appropriated
+<PB N="64" REF="49"/>
+for the benefit, and indow∣ment of his great Schoole, or <HI>Academie</HI> at <HI>Oxford</HI> which hee had stored with many Students.</P>
+<P>4 The fourth he laid a∣side as a portion for all the bordering <HI>Monasteries,</HI> in<NOTE PLACE="marg">Asser.</NOTE> <HI>Saxonie,</HI> and <HI>Mercia,</HI> and (in some yeares) to releeve, and repaire severall Churches by turnes in <HI>Brittaine, Fraunce, Ireland,</HI> and other places.</P>
+<P>The other moytie of his estate, he did wholly addict to the service of the secular affaires which he carefully commanded to bee tripar∣tited.</P>
+<P><PB N="65" REF="49"/>1 Whereof the first part was yearely conferred on those of his military im∣ployment, whom he high∣ly esteemed; as also upon his meniall officers, and Mi∣nisters, who garded his per∣son, and guided his Court; and being lifted into a tri∣nall Company, each of them wayted a moneth by turnes, and then had two moneths recession for their ease and dis<GAP DESC="illegible" EXTENT="3 letters" DISP="•••"/>ch of their owne affair<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>▪</P>
+<P>2 T<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/> second part on the Masters and Workemen of his <HI>Fabrickes,</HI> whom he
+<PB N="66" REF="50"/>
+had in great numbers pro∣cured, selected, and sent for out of many nations.</P>
+<P>The third portion he re∣served, for reliefe of stran∣gers, whom, the deserved fame of his vertue, good∣nesse, and bountie, drew out of all parts to admire him, and (whether they sought and asked it, or not) to bee partakers of his li∣berall largesse, which to every one according to their dignitie and desert, hee did aboundantly dispose.</P>
+<P>In all this (if vertue and piety were hereditary) hee
+<PB N="67" REF="50"/>
+might justly challenge a descent therof from <HI>Aethel∣wolphe</HI> his father a Prince more affected to devotion, than <HI>Action,</HI> who being a <HI>Subdeacon,</HI> was by the dis∣pensation of <HI>Pope Leo,</HI> after∣wards made <HI>King,</HI> and gave the tenth of his kingdomes tribute (with exemption of regall service) to maintaine the ministery of God, and his Church. And in his last journey to <HI>Rome,</HI> did con∣firme<NOTE PLACE="marg">Speed.</NOTE> the pay of peeter∣pence to <HI>Leo</HI> IIIIth. then <HI>Pope</HI> of <HI>Rome,</HI> and his suc∣cessours to the end that no
+<PB N="68" REF="51"/>
+Englishman should do pen∣nance<NOTE PLACE="marg">Asser.</NOTE> in bonds.</P>
+<P>Adde unto <HI>Alfreds</HI> then unmatchable pietie, his royall gratitude, which (in∣gratitude being the worst of vices,) is the best of ver∣tues; <HI>Asser</HI> makes ample re∣lation of his munificence, to him after his eight moneths abode in his Court, yet with his excuse, <HI>Non ideo se dedisse parva illa, quòd sequenti tem∣pore nollet dare majora,</HI> which promise hee made good shortly after, in bestowing the Bishopricke of Sher∣borne upon him in the yeare 873.</P>
+<P><PB N="69" REF="51"/>His old Host of <HI>Athelnry</HI><NOTE PLACE="marg">Godwin▪ fo. 163.</NOTE> hee afterwards well requi∣ted, by advancing him to the Bishoprick of <HI>Winche∣ster, Anno Christi.</HI> 879.</P>
+<P>He was not so carefull in apportioning his estate and time, as he was in disposing the local government of his now setled Monarchie (the league betweene him and <HI>Guthrun</HI> being so firmely established,) and before he could not doe it: he did all things <HI>stato &amp; statuto tempo∣re,</HI> a president for all Prin∣ces, yea, and for all persons, in imitation of <HI>Iethro</HI> his
+<PB N="70" REF="52"/>
+councell to <HI>Moses.</HI> He was the first, that reduced this confused Kingdome into an orderly rule of subordi∣nate<NOTE PLACE="marg">Lam. ex∣plic. re∣rum, &amp;c.</NOTE> government.</P>
+<P>And observing the old rule of <HI>Divide &amp; impera,</HI> did divide this land into Shires, hundreds, and tythings; re∣spectively appointing the prepositure of them to seve∣rall Officers and Ministers, now called Sherifs, Consta∣bles, and Tythingmen.</P>
+<P>But no government could bee without Lawes; and herein <HI>Moses</HI> is still his en∣sample, who having first se∣lected
+<PB N="71" REF="52"/>
+his wisemen, and placed such to be rulers over thousands, hundreds, fifties, and tens: then and not be∣fore, <HI>Iura dabat populo,</HI> hee gave laws to the people frō<NOTE PLACE="marg">Lamb. fo. 19</NOTE> the mouth of eternity it self.</P>
+<P><HI>Alfred,</HI> with a religious majesty begins his Lawes, <HI>Loquutus est Dominus ad Mo∣sem hos sermones, &amp;c;</HI> &amp; cites all the decalogue, and then proceeds with the Lawes comprised in the 21, 22 and part of the 23 Chapters of <HI>Exodus:</HI> all which, and the confirmation of these, with the Lawes of King <HI>Inus</HI> and
+<PB N="72" REF="53"/>
+other his Ancestors, I have<NOTE PLACE="marg">Lam. ex∣plic. re∣rum &amp; verbo.</NOTE> elsewhere at large expres∣sed.</P>
+<P>He caused a booke con∣taining <HI>Decreta judiciorum,</HI> collected by King <HI>Ethelbert,</HI> to bee written in the <HI>Saxon</HI> characters, which the inju∣ry of times hath utterly sup∣pressed.</P>
+<P>Lawes without executi∣on are but <HI>Vmbratiles,</HI> cloudes without raigne, shadowes without sub∣stance; hee was therefore prepared <HI>jus sacere,</HI> as well as <HI>jus dicere.</HI> He was not sparing to administer ju∣stice,
+<PB N="73" REF="53"/>
+and to dispose of af∣faires of most weight in his owne person; <HI>Taediosus,</HI> or,<NOTE PLACE="marg">Asser.</NOTE> <HI>districtus examinandae in judi∣ciis veritatis arbiter existe∣bat, &amp; hoc maximè propter pauperum curam, qui in toto regno praeter illum solum nul∣los aut paucissimos habebant jutores;</HI> he was a most so∣licitous umpire, in exami∣ning the equity and verity of judicatory proceedings, and that principally for the cause of the poore, who be∣sides him alone, had none or very few advocates or assistants: he was the Pa∣tron
+<PB N="74" REF="54"/>
+and protector of Wid∣dowes and Orphanes.</P>
+<P>As curious he was in re∣viewing almost all the judgements, decrees &amp; sen∣tences, rendred in his ab∣sence throughout his whole kingdome, where he found any ignorant, malevolent, or corrupt deviation from the line of Iustice: he was dis∣creetly quick in his repre∣hensions, with a <HI>nimium ad∣miror vestram hanc insolen∣tiam, &amp;c.</HI></P>
+<P>Hee was a most ready composer of differences which commonly arose be∣tweene
+<PB N="75" REF="54"/>
+his subjects, both noble and plebeian at their comitiall centuriate, and o∣ther assemblies in his seve∣rall Counties.</P>
+<P>And because there is so neere a conjunction and co∣herence betweene the body and the mind, <HI>Langueat illi∣us, fessus ut iste malis:</HI> and the best cure and comfort of either, is the alternate in∣termixture of some delights either in objects, or actions.</P>
+<P>Amidst the tempests of<NOTE PLACE="marg">Asser.</NOTE> warre, the infestations of Pagans, the continuall cra∣zinesse of his infirme body,
+<PB N="76" REF="55"/>
+his watchfull providence in government, the ponderous depressure of his state af∣faires; he disposed some in∣tervalum of retired time for the needfull solace, and re∣fection of his tired and toi∣led spirits: and therefore applied himselfe to royall recreations, all kindes of hunting, and hawking, wherein his skill and dex∣terity were so incompara∣ble, that he was able to di∣rect and instruct all his Huntsmen, Fawkners, and all other Officers of his game: the interpositions of
+<PB N="77" REF="55"/>
+these and other recreations added vigor &amp; valour both to his minde and body to support the burthen of his state.</P>
+<P>And thus hee measured the paces of his earthly pil∣grimage, w<SUP>•h</SUP> in the twen∣ty eight yeare of his raigne he cheerefully resigned, lea∣ving behind him <HI>Elswich</HI> his sorrowfull Queene, who survived him foure yeares; <HI>Edward senior</HI> heire appa∣rant to his Fathers valour and vertues, aswell as to his Crowne: <HI>Ethelward,</HI> his se∣cond sonne (but youngest
+<PB N="78" REF="56"/>
+childe) to whom by his Will he devised great reve∣newes in the County of <HI>South-hampton, Somerset,</HI> and <HI>Devon;</HI> a good part where∣of the Cathedrall Church of <HI>Wels,</HI> built, or begun by his Ancestor K. <HI>Ine</HI> doth now enjoy. He also left behind him three daughters <HI>Elfleda, Ethelgeda▪</HI> and <HI>Elfrtde:</HI> hee was buried in Saint <HI>Peters</HI> Church at <HI>Winchester,</HI> but removed thence, and buri∣ed by the new Kings dire∣ction in the <HI>Monastery</HI> there being one of his owne ede∣fices.</P>
+<P><PB N="79" REF="56"/>His armes are to be seene<NOTE PLACE="marg">Twine Apol. 20<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/></NOTE> in the publike Hall of Vni∣versity <HI>Colledge</HI> in <HI>Oxford,</HI> and are thus blazoned. A yellow <HI>Crosse</HI> patence, in a field <HI>Azure,</HI> (the auncient armes of the <HI>West-Saxon</HI> Kings) And (added by him) at each end or point of the crosse, a Saint <HI>Martins</HI> bird, called a <HI>Martinet,</HI> or <HI>Mart∣let;</HI> the reason of which ad∣dition, whether (because he was a fourth brother) ac∣cording to the rule of He∣rauldry, or for what other cause, it is not certainly hi∣storied. A fit embleme may
+<PB N="80" REF="57"/>
+be drawne from the nature of these birds, who about the moneth of <HI>November,</HI> before the Feast of S. <HI>Mar∣tin,</HI> for avoiding the cold∣nesse of the aire, doe in the Winter time for shelter be∣take themselves unto secret and covert corners, <HI>Late∣bras quaerunt ubi delitescant;</HI> they flye much, because they want the use of feet, and thence are called <HI>Apodes.</HI></P>
+<P>It was the case of <HI>Alfred,</HI> who in the winter of the <HI>Danish</HI> pursuit and persecu∣tion, was forced <HI>latebras quaerere, ubi delitesceret,</HI> and
+<PB N="81" REF="57"/>
+was kept in such continuall agitation, the former part of his raigne, that he could not make use for any setled station or abode.</P>
+<P>His Epitaphe is the Epi∣tome of his life, which the happinesse of thankefull times have dedicated to him as a monument of his eternall fame, and here fol∣loweth out of the workes of a modern <HI>Chronographer.</HI></P>
+<Q><TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="epitaph">
+<DIV2 LANG="lat" TYPE="version">
+<LG>
+<L>Nobilitas inimica tibi probitatis hono∣rem</L>
+<L>(Armi potens Alfred) dedit, probitas∣que laborem,</L>
+<L>Perpetuumque labor nomen: immixta dolori</L>
+<L>Gaudia semper erant, spes semper mixta timori▪</L>
+<L><PB N="82" REF="58"/>Si modò, victor eras, ad crastina bella pavebas,</L>
+<L>Si modò victus eras, in crastina bella parabas,</L>
+<L>Cui vestes sudore jugi, cui sicca cruore,</L>
+<L>Tincta jugi, quantum sit onus regnare, probarunt;</L>
+<L>Non fuit immensi quisquam per clima∣ta mundi,</L>
+<L>Cui tot in adversis vel respirare liceret,</L>
+<L>Nec tamen aut ferro contritus ponere ferrum,</L>
+<L>Aut gladio potuit vitae finisse labores.</L>
+<L>Iam post transactos regni vitae{que} labores,</L>
+<L>Christus ei fit vera quies, sceptrumque perenne.</L>
+</LG>
+</DIV2>
+<DIV2 LANG="eng" TYPE="version">
+<BYLINE>Englished by Mr. <HI>Flemming.</HI></BYLINE>
+<LG>
+<L>Nobility by birth to thee (O <HI>Alfred</HI>) strong in armes.</L>
+<L>Of goodnesse hath thy honor given,<NOTE PLACE="marg">Holinsh.</NOTE> and honour toilsome harmes,</L>
+<L>And toilsom harms, an endlesse name whose joyes were alwayes mixt</L>
+<L>With sorrow, and whose hope with feare, was euermore perplext:</L>
+<L>If this day thou wert conquerour, the next dayes war thou dredst,</L>
+<L><PB N="83" REF="58"/>If this day thou wert conquered, to next dayes warre thou spred'st,</L>
+<L>Whose clothing wet w<SUP>th</SUP> daily swet, whose blade with bloudy staine,</L>
+<L>Do prove how great a burthen 'tis, in royallty to raigne.</L>
+<L>There hath not beene in any part, of all the world so wide.</L>
+<L>One that was able breath to take, and troubles such abide,</L>
+<L>And yet w<SUP>th</SUP> weapons weary, would not weapons lay aside,</L>
+<L>Or with the sword the toilsomnesse of life by death divide.</L>
+<L>Now after labours past of Realme, and life (which he did spend)</L>
+<L>Christ is to him true quietnesse, and scepter void of end.</L>
+</LG>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT></Q>
+<P>That famous Academie<NOTE PLACE="marg">Twine Apo. 202</NOTE> of <HI>Oxford,</HI> retained so grate∣full a memory of this bles∣sed Prince, that the supersti∣tion of that age, ordained a
+<PB N="84" REF="59"/>
+solemn prayer to be cele∣brated in the Schooles year∣ly, upon the vigils of S. <HI>Mar∣tin,</HI> for the soules of all their Benefactors, and especially, for the soule of King <HI>Alfred;</HI> which the happy reformati∣on of religion, hath reduced to an anniversary comme∣moratiō by way of thanks∣giving, and so continueth, and ever may, til the worlds end.</P>
+</DIV1>
+</BODY>
+</TEXT>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="preface">
+<PB REF="59"/>
+<PB REF="60"/>
+<PB N="87" REF="60"/>
+<HEAD>The Preface.</HEAD>
+<P><SEG REND="decorInit">S</SEG>Ome write the lives of dead Princes, to eclipse the glory of the living; in such, a lawlesse humour discontented with the present State, over. swayes the legiance of a loyall heart. This Treatise aimes at no such end, nor other; but on∣ly an impartiall Parallell of two such Princes, the one dead, yet living in the other, and the living, raised as it were, out of the ashes of the dead, as ma∣ny
+<PB N="88" REF="61"/>
+ages have not knowne the like. You have observed in the past discourse, the life of the dead; and now survey the ful∣nesse of his vertues surviving in him that lives, <HI>CHARLES,</HI> our great and dread Sove∣raigne, the <HI>Constantine,</HI> and <HI>Carolus magnus</HI> of our age: and if the stile of <HI>Magnus</HI> may seeme to bee borrowed from <HI>CHARLES the great,</HI> Em∣perour of <HI>Rome,</HI> yet I must adde <HI>Primus,</HI> and I should write but truth, if <HI>Primus ante omnes:</HI> and none who will observe that sacred rule, <HI>In cogitatione tua Regi ne</HI>
+<PB N="89" REF="61"/>
+<HI>detrahas,</HI> will harbour so dis∣loyall a thought of his Sove∣raigne, as to thinke I flatter: adulation, like a false Glasse, makes things seeme to be what they are not, and exalteth ver∣tue from its proper Sphere; in this subject of Soveraignety there is no need of such impo∣sture, all mens eyes and co sci∣ences may see and know, that the radiant splendor of his gra∣tious goodnesse doth exceed the expression of any tongue or penne.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="parallel life">
+<PB N="90" REF="62"/>
+<HEAD>A Parallell of our gra∣tious Soveraigne Lord King CHARLES <HI>with</HI> King ALFRED.</HEAD>
+<P><SEG REND="decorInit">A</SEG>S <HI>Alfred</HI> was, so is he the yonger sonne of a Roy∣all King; and though not anointed King in his younger yeares, yet then by eternall providence designed to his kingdomes
+<PB N="91" REF="62"/>
+His education, and studious desire of learning, his match∣lesse piety even in his tender age inferiour to none; his frequent accesse to our great provincial Councels, his se∣dulous observations there, and in the greatest Courts of Iustice, did promise of him what now he is: after the death of his most deare brother of famous memo∣ry, when the burthen of our so great expectation, as his hopefull succession lay wholly on him, though be∣fore he seemed not so agill and valid as his brother, yet
+<PB N="92" REF="63"/>
+his care of our welfare (which breathed by the breath of him) did raise up such vigor and spirit in him, that his ability and dexteri∣ty in body, and his admira∣ble skil and facility, in eque∣striall and other corporall exercises, did grow up and increase together.</P>
+<P>He journied not to <HI>Rome,</HI> to <HI>Spaine</HI> he did, whence (to say no more his thrice hap∣py return, entertained with such wonderfull acclamati∣ons, and ineffable expressi∣ons of joy and gladnesse (as this kingdome never knew
+<PB N="93" REF="63"/>
+the like before) did quicken and reviue the life and spi∣rit of many sad distressed soules.</P>
+<P>Not long after, when by our <HI>Salomon</HI> his resignation in fulnesse of time, of both life and Crowne <HI>Sol occu∣buit,</HI> by his gracious succes∣sion <HI>nox nulla sequuta est;</HI> for (as a great Primate ob∣served)<NOTE PLACE="marg">Epise. Menev. modo Ar∣chiae. Conc. 1625.</NOTE> by Gods grace, and his royall fathers prudent education, he was <HI>confirma∣ta &amp; aptata columna,</HI> a Pillar every way fitted to the State he beares, fitted to the diffi∣culties of the times, fitted to
+<PB N="94" REF="64"/>
+the State, and fitted to the Church, before his Crown was scarce setled on his Royall head; and, ere he was anointed by the hand of the Priest, he was not without his cares, <HI>Coronam cura se qui∣tur;</HI> the epidemicall sins of our Nation, drew from heaven, one of the greatest instruments of Gods ven∣geance, the noisome pesti∣lence, which miserably in∣fested not onely our great <HI>Ierusalem,</HI> but many other famous Cities, and almost all the skirts and corners of our kingdome; shortly af∣ter
+<PB N="95" REF="64"/>
+seconded with its se∣cond, the dread and horror of the sword in the times of<NOTE PLACE="marg">An 1025</NOTE> both which, first, in the time of contagion, turne backe your eyes upon his strict and carefull edict of a gene∣rall fast and humiliation, by a prescribed forme of pray∣er throughout all his King∣dome: himselfe, like ano∣ther <HI>Phinees,</HI> stood up and prayed and the plague cea∣sed, and in a wonderfull manner, that Gods great mercies farre surpassed the extent of our hopes; his roy∣all thankfulnesse, expressed<NOTE PLACE="marg">An. 1625</NOTE>
+<PB N="96" REF="65"/>
+in an uniformity of com∣mon prayer, in like manner publikely edicted follow∣ed, nay, (as if both in one divine conception) issued forth with this great delive∣rance.</P>
+<P>Hee was not, as <HI>Alfred,</HI> forced into the field in the very infancy of his raigne; nor into any such angusti∣ous and distressed recessi∣ons: yet for perlustration of his Armies, and the well or∣dering his military affaires, he forced himselfe, not in a progresse of ease, but by an expeditious toilesome jour∣ney,
+<PB N="99" REF="65"/>
+to the remotest and most navigable harbour of his Westerne Region, ex∣posing himselfe thereby un∣to no meane dangers.</P>
+<P>By the space of those few yeares wherein his prepara∣tions of defensive warre, were against two of the most potent and mightiest Christian Princes of <HI>Europe;</HI> he put not his confidence in his Princes, nor in his men of warre either by Sea or Land, nor in the childe of man; he put not his trust in his bow, neither was it his sword that shold help him
+<PB N="100" REF="66"/>
+nor did hee trust in his Chariots, nor his Horse, nor in his great Navies of Ships, nor in any Engines of war, nor his warlike provision (of all which his copious supply and store exceeded former times) but in God his strength, and his Redee∣mer. After the sudden and miraculous deliverance frō the Pestilence, looke upon no lesse and in as little di∣stance of time, his forme of prayer prescribed, in the yeare 1626, necessary to bee<NOTE PLACE="marg">An. 1626</NOTE> used in those dangerous times, for the safety and pre∣servation
+<PB N="101" REF="66"/>
+of his Majesty and his Realme: the like not long after with a gene∣rall fast for the preservation of his Majestie, his Realmes and all reformed Churches: God heard him, the Lord of Hostes was with us; the God of <HI>Iacob</HI> was our re∣fuge, he made warres to cease, hee broke the bow and knapped the speare in sunder.</P>
+<P>He blessed our <HI>Alf.</HI> and those two great neighbour Princes with a gratious is∣sue of truce and peace: at unity they are, and their
+<PB N="102" REF="67"/>
+Kingdomes in publike ne∣gotiations, commerce, and affaires of State, and God grant they long may be: and (might they stand with di∣vine providence) in the uni∣on of our Church, aswell as our Common wealth.</P>
+<P>By this you see, that upon all occasions, God is his re∣fuge and strength, a very present helpe in trouble: the best armour of a Christian Prince is prayer and humi∣liation; the strength and sin∣newes whereof, doe consist in the uniformity of religi∣on and conformity of the
+<PB N="103" REF="67"/>
+ministry; upon both these the peace and quiet of the Church, (the Spouse of Christ) doe principally de∣pend.</P>
+<P>Our royall Soveraigne<NOTE PLACE="marg">Peace of the Church.</NOTE> had no sooner by the in∣cense of his prayers drawne from heaven a remission of that great contagion upon this land, but instantly hee betakes himselfe to a regall course for establishing the peace of his Church; and therein agrees with <HI>Alfred,</HI> who in his sanction of the<NOTE PLACE="marg">Lamb. A<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>hai<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>. fo 5<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>.</NOTE> league betweene him and <HI>Guthrun</HI> did decree, <HI>ut eccle∣siae</HI>
+<PB N="104" REF="68"/>
+<HI>pax &amp; tranquillitas pie inviolateque serventur.</HI> And<NOTE PLACE="marg">Vnifor∣mity.</NOTE> for avoiding all offences, and innovations in religion, our now <HI>Alf.</HI> with the ad∣vice of his reverend <HI>Bishops,</HI><NOTE PLACE="marg">Pro<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>l. 14. Iunij. 1620.</NOTE> did by his edict declare and publish his utter dislike of all those, who did or should adventure to stirre or move any new opinions, contra∣ry and differing from the sound and orthodoxall grounds of the true religi∣on here professed and esta∣blished: and did thereby charge all his subjects, espe∣cially Church-men, that
+<PB N="105" REF="68"/>
+they should not by writing, preaching, printing, confe∣rences, or otherwise, raise any doubts, or publish or maintaine any new inven∣tions or opinions concern∣ing religion, other than such as are warranted by the doctrine and discipline of the Church of England.</P>
+<P>And that all excuse of ig∣norance<NOTE PLACE="marg">Articles of religi∣on re∣printed,</NOTE> might be taken a∣way; his illustrious good∣nesse for avoiding diversi∣ties of opinions, and for the <HI>stablishing</HI> of consent touch∣ing true religion; hath cau∣sed and commanded the
+<PB N="106" REF="69"/>
+Articles agreed upon by the Arch-Bishops and Bishops of both Provinces, in the <HI>Convocation</HI> holden at <HI>Lon∣don, Anno</HI> 1562: to be reprin∣ted with his royall declara∣tion prefixed thereunto for ratification thereof: what zeale and care hee hath had to suppresse and recall any bookes or writings, though published by some of great<NOTE PLACE="marg">Edict 17 Ia. 4. Rs.</NOTE> learning, that might breed the least doubt and disquiet in points of religion is well knowne.</P>
+<P>For the conformity of the<NOTE PLACE="marg">Confor∣mity.</NOTE> Ministry, I find an old Law
+<PB N="107" REF="69"/>
+ratified by King <HI>Alf. de for∣mula</HI><NOTE PLACE="marg">Lamb fo. 1. ca. 1.</NOTE> <HI>vivendi ministrorum Dei;</HI> it goes with an <HI>inpri∣mis praecipimus, Dei ut mini∣stri constitutam vivendi for∣mulam curent &amp; observent;</HI> That the Ministers of God should observe a regu∣lar forme of living: and certainly it was meant by that Law, as well in their habit and vestiture, as in their condition and gesture; doth not the parallell hold in our times? witnesse the prudent care of the seve∣rall Bishops within their Diocesses, by his High∣nesse
+<PB N="108" REF="70"/>
+gratious and provi∣dent directions, that the Mi∣nisters in their lives and conversations might bee lights and examples to o∣thers; and by their <HI>Clericall</HI> and conformable habites, they might with respect to their callings bee distingui∣shed from others. God hath<NOTE PLACE="marg">Gods∣day.</NOTE> his proper day and time for the more especiall and pecu∣liar advancement of his worship. And albeit his Highnes <HI>Ecclesiasticall</HI> lawes are armed with competent power, to redresse the trans∣gressing of either; yet hee
+<PB N="109" REF="70"/>
+hath given a liberty for un∣sheathing the sword of his secular justice to propugne and maintaine that selected day and time.</P>
+<P>There were good Laws<NOTE PLACE="marg">Lamb fo. 54 ca.</NOTE> made before the Conquest, one by King <HI>Alf. De ijs qui die dominico sua negotia agunt,</HI> for repressing under a great mulcte all servile and pro∣phane workes upon the Lords day; no speciall law of that subject were ever since made, but in the time of our <HI>Alf.</HI> in whose first Parliament, the first Law enacted, was for punishing
+<PB N="110" REF="71"/>
+abuses committed on that day: and in the second and last Parliament, the first Law made, was for further reformation of the breaches &amp; profanations of that day by Carriers and others. And<NOTE PLACE="marg">Liberty of <GAP DESC="illegible" EXTENT="3 letters" DISP="•••"/>r<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>∣a<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>on.</NOTE> whereas his Highnesse pur∣suing the example of his deare Father, directed by the primitive practice of former times, for the ease and comfort of his well de∣serving people, hath by his Princely declaration vouch∣safed a liberty to his sub∣jects, concerning lawfull sports to be used that day,
+<PB N="111" REF="71"/>
+without impediment or neglect of Divine Service, prohibiting the same to all wilfull and negligent Recu∣sants, that shall not resort to their owne Parish Church∣es to heare Divine Service before their going to the said recreations: this grati∣ous indulgence hath of late disquieted the spirits of some unquiet humorists: But let the consequence bee discreetly weighed, and all men will perceive a double benefit arise thereby for the propagation of Gods ser∣vice: 1. In incouraging the
+<PB N="112" REF="72"/>
+younger sort of people (who are most subject to desire of recreations) with more alacrity to frequent their Church, that they might injoy their harme∣lesse pastime: 2. In retain∣ing the Parishioners to the discipline of their owne Pa∣stors from stragling abroad to other mens <HI>Cures,</HI> a thing too frequent and most pe∣rillous to conformity.</P>
+<P>As the service of God<NOTE PLACE="marg">Gods time.</NOTE> hath its principall depen∣dance on devout prayer, so the devotion of prayer is quickned and much impro∣ved
+<PB N="113" REF="72"/>
+by fasting and absti∣nence<NOTE PLACE="marg">Fasting.</NOTE> at times prefixed by the Lawes, which may be termed Gods time.</P>
+<P><HI>Alfred</HI> made a Law <HI>de</HI><NOTE PLACE="marg">Lamb. fo. 55.</NOTE> <HI>jejunijs; Liber si indictum je∣junium cibo sumpto dissolve∣rit, &amp; mulcta, &amp; ipsa legis violatae paena plectitor, &amp;c.</HI> A Free-man for the violati∣on of a Fast was to pay a pe∣nalty (some say five markes) a servant to be beaten or to redeeme it with monie.</P>
+<P>His Majesty ever since his raigne hath had a most watchfull eye, by orders and Proclamations yearely,
+<PB N="114" REF="73"/>
+published to revive and command the due executi∣on of his Lawes, made a∣gainst eating and selling of flesh in Lent, and other times prohibited▪ and find∣ing that divers Officers and Ministers were remisse in the punishing and preven∣tion of such abuses, did by a strict edict command all<NOTE PLACE="marg">27. Iam. 7. Rs.</NOTE> his people that his Lawes should be duely executed upon all that should offend, either in eating or venting of flesh at times inhibited, or not fasting upon the dayes by his Lawes appoin∣ted.</P>
+<P><PB N="115" REF="73"/>God hath also a name<NOTE PLACE="marg">Gods name.</NOTE> which must not bee taken in vaine: our Soveraigne, for his pious observation of that, may bee proposed for imitation to all the Princes and people of the world, no rash oathes, nor teme∣rous execrations breathe out of his sacred mouth; and that saving Name, by which God ownes our re∣demption, is had in high e∣steeme with him. It is said<NOTE PLACE="marg"><GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/>erius M<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>n.</NOTE> of K. <HI>Alfred,</HI> that God some∣times permit<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ed his adver∣saries an insultation over him, <HI>ut sciret</HI> (saith mine
+<PB N="116" REF="74"/>
+Author) <HI>unum esse omnium Dominum, cui curvatur omne genu,</HI> that hee might know that there was one <HI>IESVS CHRIST</HI> to whom all knees should bow: It is Gods precept or rather pro∣testation, <HI>Isay</HI> 45. <HI>ver.</HI> 23. <HI>In memet ipso juravi,</HI> I have sworne by my selfe, the word is gone out of my mouth in righteousnesse and shall not returne, <HI>Vnto me every knee shall bow:</HI> it is the practise of our Church,<NOTE PLACE="marg">Canon.</NOTE> and still may it continue, <HI>Ad nomen Iesu curvetur omne ge∣nu,</HI> Let every knee bow at the name of <HI>Iesus.</HI></P>
+<P><PB N="117" REF="74"/>As God hath his dayes and times, so his Places,<NOTE PLACE="marg">Gods places.</NOTE> Churches, and sacred Ora∣tories for his adoration and invocation of his great Name: the wisdome and munificent piety of ancient times, hath within this Island erected such stately and magnificent Churches, as doe far surpasse all other places in the Christian world: were it not then great pitie that such famous fabricks should by the inju∣ry of times bee suffered to moulder away, and be de∣molished for want of time∣ly
+<PB N="118" REF="75"/>
+reparations? And here let mee pause a while, and admire his Highnesse ten∣der zeale for supporting the Houses and Temples of GOD; and his beginning with that goodly and glo∣rious structure, which was first begunne in our King∣dome, and dedicated to St. <HI>Paul,</HI> the great threshing∣floore of th<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>s Dominion, purchased and erected by the pious <HI>Davids</HI> of for∣mer Ages and consecrated for a Temple to the GOD of <HI>Iacob;</HI> and herein his Majesty doth inherit his Fa∣thers
+<PB N="119" REF="75"/>
+Royall intentions.</P>
+<P>It is said of <HI>London;</HI> That it is <HI>Camera Regis, Cor reipub∣licae, &amp; tanquam Epitome to∣tius regni.</HI> The Kings cham∣ber, the heart of the Com∣mon-wealth, and as it were<NOTE PLACE="marg">Saint <HI>Paules.</HI></NOTE> a Summary of the whole kingdome. What shall I then terme this holy place, which is the very center of that imperiall chamber, but <HI>Sanctum Sanctornm,</HI> the Mo∣ther-church of the whole land, where all publike be∣nedictions are first rendred, all apprecations for bles∣sings, and all deprecations
+<PB N="120" REF="76"/>
+of publike calamities are resounded and ecchoed out unto the eares of Heaven. Twice hath his Highnesse vouchsafed his presence at severall Auditories in that place: Once as a glorious Starre that followeth the Sun, He attended his Roy∣all Father about thirteene<NOTE PLACE="marg">Mart. 26 1620.</NOTE> yeares since, to heare a holy and a powerfull embassage on the behalfe of that An∣cient <HI>Temple,</HI> delivered by the mouth and meditations of a learned <HI>Prelate</HI> upon a foundation laid, a Text cho∣sen out of a Kingly Prophet.</P>
+<Q><PB N="121" REF="76"/>
+<BIBL>Psalme 102. VER. 13.</BIBL>
+<P>Thou shalt arise and have mercie upon Syon, for the time to favour her, yea the set time is come.</P>
+<BIBL>VER. 14.</BIBL>
+<P>For thy servants take pleasure in her stones, and favour the dust there∣of.</P></Q>
+<P>And in such an assem∣blie was it, that to use his owne words, Hee never spake in such an Auditorie, never should againe. What would he have said (if hee had beene living) upon his Majesties second comming<NOTE PLACE="marg">2 Time▪</NOTE> to the blessing of that place,
+<PB N="122" REF="77"/>
+when the birth of his and our hope the most illustri∣ous Prince <HI>Charles</HI> ushered into the world by a light from Heaven, <HI>Stella oriens in oriente</HI> manifested in the <HI>Meridian</HI> of the day was not without a solemne thankes∣giving, in such a confluence, and throng of all sorts of Subjects, as no eye ever saw the like in this land; And as it was said of the first, so may it be of this last, wor∣thy to adde a <HI>Rubrick</HI> more to our <HI>Almanacke,</HI> and make a new holy day amongst us, for such a <HI>Prince</HI> borne
+<PB N="123" REF="77"/>
+to the union of so many Kingdomes was here never knowne, <HI>non sic contigit ulli.</HI></P>
+<P>The pretious ointment<NOTE PLACE="marg">Other Church∣es.</NOTE> of his Majesties zeale doth not onely fall upon and drench the beard of this a∣ged <HI>Hermon,</HI> but descends and runs downe upon all the skirts of <HI>Sion,</HI> all other Churches within his Maje∣sties Realme of England, whereof hee hath given an<NOTE PLACE="marg">Edict. <GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/>▪ <HI>Rs.</HI></NOTE> evident remonstrance, as∣well by his proclamation edicted in the first yeare of his raigne, for preventing the decayes of Churches
+<PB N="124" REF="78"/>
+and Chappels for the time to come, and prescribing and commanding thereby a speedy reformation in all such cases: as also by his Highnesse late letters and directions to his Bishops within their severall Dio∣cesses; that either by them∣selves in person, or by their officials or other persons of worth and trust, they take view and survey of the Churches and Chappels in their severall jurisdictions; and where they finde ought amisse to cause a speedy re∣dresse thereof.</P>
+<P><PB N="125" REF="78"/>Our <HI>Saxon Alfred</HI> was<NOTE PLACE="marg">Their gratitude</NOTE> never more gratefull, nor more studious to prefer his <HI>Plegmund, Grimbald, Asser, Scotus,</HI> and others his lear∣ned Chaplaines, than our <HI>Brittish Alfred</HI> hath beene, and is, to advance and pri∣viledge his sacred Hierar∣chie of Bishops, and others of the Tribe of <HI>Levi.</HI> Who was ever more tender and indulgent unto them? Who more sedulous and speedy in the donation of Ecclesia∣sticall dignities? scarce doe any fall, but presently he fits a person for the place, no
+<PB N="126" REF="79"/>
+Episcopall Sees have (as in former times) seene any tri∣ennial vacancies. His <HI>Prince∣ly</HI> gratitude hath not onely honoured some of them in their lives, but survived af∣ter their death. That late dead Bishop of <HI>Winton,</HI> a man of most ample and e∣minent learning shall wit∣nesse <HI>instar omnium:</HI> his ac∣curate workes published by the reviewing of two his reverend Colleagues by his Majesties speciall com∣mand, have raised up an eternall monument of his goodnesse, and not for his
+<PB N="127" REF="79"/>
+glory onely, but (as in the<NOTE PLACE="marg">B. <HI>An∣drewes misc.</HI></NOTE> dedication) <HI>utilitati simul &amp; honori tum Ecclesiae tum Rei∣publicae futura;</HI> and what is there further said of him I cannot conceale, <HI>Non ha∣buit Regia majestas servum fidelem magis, non habuit Ec∣clesia antistitem magis erudi∣tum.</HI> It is to be wished that his Highnesse honourable gratefulnesse to him might incite others to deserve the like. His Majesties frequent<NOTE PLACE="marg">Piety▪</NOTE> and fervent exercise of pie∣ty in his owne person is not inferiour to that of <HI>Alfred.</HI> The often and serious fre∣quenting
+<PB N="128" REF="80"/>
+his Chappels, his reverend attention in hea∣ring his unfeigned devoti∣on in praying, and his reli∣gious comportment every way conformable, may be deservedly proposed to our little world; an optative rule, that in this as in other things,</P>
+<Q>Regis ad exemplum totus componeret orbis.</Q>
+<P>Let my meditations of<NOTE PLACE="marg">Workes of justice</NOTE> his unmatchable good∣nesse in and to his Church, passe unto his workes of Iustice in the Common wealth: behold him in the
+<PB N="129" REF="80"/>
+chaire of <HI>Moses</HI> sitting a∣midst his people; nay, his selected ones, <HI>è sacris &amp; ar∣canis consiliis, Iethro</HI> his Counsellors men of cou∣rage, <HI>timentes Deum &amp; a∣mantes veritatem;</HI> and there you shall observe his meek∣nesse and patience in hea∣ring, his acutenesse in dis∣cerning, and his maturity in deciding whatsoever comes before him. The<NOTE PLACE="marg">Ecclesia∣sticall &amp; Secular justice.</NOTE> two edged sword of justice Ecclesiasticall and Saecular, one side whereof was here∣tofore (scarce an age since elapsed) rebated by papall
+<PB N="130" REF="81"/>
+accroachment, is full and absolute in his hands, and vailes power to none but the supreme head of all. Looke upon his unspeak∣able wisdome in the sincere and upright swaying of that sword; his royall care to fence and conserve his Ec∣clesiasticall and municipall lawes, from collisions and contestations, and to binde and bound them up in judgement and justice, pro∣hibiting in cases for repara∣tion of Gods houses and such like the too much pro∣fusenesse of prohibitions.</P>
+<P><PB N="131" REF="81"/>The concurrence of both these Lawes is necessarily required, in the supportati∣on of his regal government. And therefore his excellen∣cy as a regall pillar, doth his office in ballancing and up∣holding their jurisdictions as in a just and impartiall equilibre: he fits his Iudges for the places of his Iudica∣ture: where he findes vertue and goodnesse, hee is not sparing of his honourable guerdons; where he findes any aberration, out of the way of righteousnesse, his discerning judgement hath
+<PB N="132" REF="82"/>
+beene and is as ready to re∣prove, even the greatest of them, with as heroicke in∣crepations, as ever <HI>Alfred</HI> did his Iudges, with his <HI>qua∣propter aut terrenarum pote∣statum</HI><NOTE PLACE="marg">Asser.</NOTE> <HI>ministeria, quae habetis illico dimittatis, aut sapientiae studiis multo ut devotius stu∣deatis, impero.</HI></P>
+<P>His grave and learned<NOTE PLACE="marg">Directi∣ons to the Iudg∣es.</NOTE> Iudges for preventing the causes of such rebukes want not sufficient premonitions either from his owne sa∣cred mouth, or from his honorable Lord <HI>Keeper</HI> by his directions, of cautiona∣ry
+<PB N="133" REF="82"/>
+dictates, and remem∣brances for the due executi∣on of his Lawes aswell in their semestriall circuits as at other <HI>Iudicatory</HI> times; and at this time I dare bold∣ly say that his Majesties <HI>soli∣um</HI> or <HI>tribunal justiciae,</HI> &amp; his <HI>Cathedra, &amp; chorus Ecclesiae</HI> can more glory of their learned, able, and incorrupt possessors than in former ages. But Ministers and Magistrates are mortall, <HI>sta∣tutum est omnibus semel mori,</HI> and therefore a continuall succession must be supplied from Schooles, and Semi∣naries
+<PB N="134" REF="83"/>
+of Arts and learning, whereof the two most fa∣mous seed-plots are <HI>Oxford</HI><NOTE PLACE="marg">Oxford &amp; Cam∣bridge.</NOTE> and <HI>Cambridge.</HI></P>
+<P>His soveraignety hath had a most speciall regard, not onely to preserve the re∣spective priviledges, order, and government of these renowned Sisters, but their peace and unity each with the other; in the laborious Antigraphies for their elder∣ship, hee hath owned no side, <HI>vetustas virtute hona∣ratur,</HI> vertue crownes anti∣quity with honour: <HI>Grim∣bald,</HI><NOTE PLACE="marg">Twy<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>i Apo. pro Oxo.</NOTE> a great Divine (but a
+<PB N="135" REF="83"/>
+stranger) was the first <HI>Chan∣cellor</HI> of <HI>Oxford</HI> created by <HI>Alfred.</HI> A greater than hee, and of our owne Nation, and of her education was the first Chancellor there, and the first Metropolitan of <HI>Canterburie</HI> that was in∣vested by King CHARLES since his raigne. <HI>Alfred</HI> and <HI>Grimbald</HI> were not more zealous in appeasing the civill broyles of that hono∣rable Academie, <HI>Anno</HI> 886.<NOTE PLACE="marg">886.</NOTE> than our now living <HI>Alfred,</HI> and his most reverend and honourable Chancellor in the yeare 1631.</P>
+<P><PB N="136" REF="84"/>Amidst his Highnesse<NOTE PLACE="marg">Exacted fees.</NOTE> many acts of preventing ju∣stice, I shall onely insist on two, and but perfunctorily.</P>
+<P>The first a Proclamation<NOTE PLACE="marg">12 Octo. 1627.</NOTE> in pursuance of his Fathers wise and just directions, for protecting his people from exactions and oppressions in any his Courts of justice, either Ecclesiasticall or tem∣porall, and his royall inten∣tion concerning his Com∣mission then lately gran∣ted to enquire of new Offi∣ces erected, and new fees exacted in his Courts; His Majesty hath not onely in∣tended,
+<PB N="137" REF="84"/>
+but acted a course of reformation, and it was high time; the common appellation of such crimes is extortion or expilation, &amp; is one of those Cardinall sins that crie aloud to God for vengeance, <HI>vox oppresso∣rum;</HI> this sin of extortion, is no other than robbery, but more odious, because that is apparant, and in possibili∣ty to be avoided: And this is done <HI>colore officij,</HI> under the mask or visage of a legall verity, and pretext of a due demand; and the poore sub∣ject must either yeeld to
+<PB N="138" REF="85"/>
+such exaction, or redeeme it in some cases, with a more expensive waiting.</P>
+<P>The second; his Maje∣sties<NOTE PLACE="marg"><HI>Procla.</HI> 28. Sep. 8 <HI>Rs. cum Articulis</HI></NOTE> watchfull eye of provi∣dence by his orders &amp; pub∣lik edict, for preventing the dearth of corne and victu∣all, and his just and speedy proceedings in his high Court of Star-chamber a∣gainst Fore-stallers and In∣grossers, the common Cat∣terpillers of our Kingdome, termed by our ancient laws <HI>depressores pauperum &amp; toti∣us communitatis &amp; patriae publici inimici,</HI> who if a sea∣sonable
+<PB N="139" REF="85"/>
+and timely occur∣rence of Iustice had not sup∣pressed them, would like the <HI>Aegyptian</HI> Locusts have covered the face of the whole earth, and have bred a dearth without a scar∣city.</P>
+<P>His impartialitie in Iu∣stice:<NOTE PLACE="marg">Imparti∣alitie. Injustice.</NOTE> where he meets with the scarlet sins of Murther, or with the crimes of open rebellion, unnaturall abo∣minations, or such like; no interpellations of favour or greatnesse, dare implore any hope of pardon from him: His regall inflexibility in the
+<PB N="140" REF="86"/>
+case of a mutinous (which alwaies implies a malici∣ous) homicide, by the only Champion of his highnesse Noble and faithfull Con∣voy in his Spanish voyage would admit of no media∣tion for redeeming of pro∣longing of life. In another case (I cite but two) of a dishonourable and ignomi∣nious capitall crime, he spa∣red not one of the greatest and Antientest <HI>Cedars</HI> of his Nobility. Let a word suffice; He doth not in the distribu∣tion of Iustice in capitall, or criminall causes, accept the
+<PB N="141" REF="86"/>
+persons of men; And yet, He is not without his mul∣titude of mercie: <HI>Mercie</HI> and<NOTE PLACE="marg">Mercie.</NOTE> <HI>Truth</HI> preserve the King, and his Throne is upholden by mercie: where the crime is any way dispensable with hope to reclaime the offen∣dor for a future good to publike, or private services, and without any injurious example to his govern∣ment. <HI>Est piger ad paenas;</HI> No <HI>Prince</HI> more prone to a mercifull relaxation, of le∣gall rigor; here you might recount numbers of con∣demned Malefactors deli∣vered
+<PB N="142" REF="87"/>
+out of severall Pri∣sons, not to their demerited execution, but for some Martiall and other service∣able expeditions: but let such offendors beware of re∣lapse (which is most dange∣rous as well in civill as na∣turall diseases.) They never then scape with impunitie.</P>
+<P>I must not sever <HI>Mercie,</HI> and <HI>Truth, In verbo veritas.</HI><NOTE PLACE="marg">Truth.</NOTE> To use our English adage, His royall word is a Law, His promises and perfor∣mances are twynnes, con∣ceived together, though pro∣duced in birth one after the
+<PB N="143" REF="87"/>
+other. Hee is <HI>constans verbi custos,</HI> either in forraigne en∣tercourses, or domesticke pollicitations; his immobili∣ty in the one is sufficiently attested to other <HI>Princes</HI> and States, and in the other, to his owne servants and sub∣jects.</P>
+<P>His <HI>Eleemosynarie largesse</HI><NOTE PLACE="marg">Almes∣deeds.</NOTE> either at home, or abroade is not behind <HI>Alfreds,</HI> though not to <HI>Rome, Ierusalem,</HI> nor <HI>India,</HI> yet neerer and more needfull, for the releefe of the <HI>Palatinate,</HI> the distressed Clergie of the reformed Churches. For whose sup∣ply
+<PB N="144" REF="88"/>
+and succour, His high∣nesse by his owne example drew a general benevolence from his subjects.</P>
+<P>Adde unto this, his great<NOTE PLACE="marg">Embas∣sage.</NOTE> and chargable disburs∣ments and diminution of his treasure, in the expen∣sive emissions and addresses of honourable embassages, to pacifie the fury of almost al the Christian Continent, was it not most expedient? what danger might not we justly dread, <HI>Cum proximus ardet ucalegon,</HI> when neigh∣bour Nations are all in combustion, and religion the pretext?</P>
+<P><PB N="145" REF="88"/>The magnificent deco∣ration<NOTE PLACE="marg">Build∣ings.</NOTE> of his structures and edifices in all symmetricall proportions, with his pre∣script forme of building strictly enjoyned, doe farre surpasse all former times: they are such and so pat∣tern'd by the most glorious Architectures of all <HI>Europe,</HI> that a man would thinke <HI>Italiam,</HI> in <HI>Ilium, Italy</HI> trans∣lated into <HI>England.</HI></P>
+<P>Though his Majesty did<NOTE PLACE="marg">Care of subord.</NOTE> not divide the Kingdome into centuries and decuries, nor was the first Author of that subordinate kinde of
+<PB N="146" REF="89"/>
+government in this famous <HI>Monarchie,</HI> yet his restlesse vigilancie hath ever beene, to preserve and propagate the true and ancient uses of that division. For which<NOTE PLACE="marg">5 Ianu. 1630.</NOTE> purpose his highnesse in his commission directed to the then Lord Arch-Bishop, and others of his honorable Counsell, amongst many gratious directions is plea∣sed<NOTE PLACE="marg"><GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/> direct.</NOTE> to descend to the Stew∣ards of <HI>Leets</HI> and to charge them, what they shall give in charge in their turnes and halfe-yearely viewes of Franckpledge touching
+<PB N="147" REF="89"/>
+Forestallers, Regrators, and other the most obvious and enormous offences of the Countrey.</P>
+<P>It is said of <HI>Alfred,</HI> that <HI>ad</HI><NOTE PLACE="marg">Warlike prepara∣tion.</NOTE> <HI>crastina bella victor pavebat, victus parabat;</HI> If unjust peace is to be preferred be∣fore just warre, we having the happy fruition of a just and honourable peace with all the Christian world, and having no need in the times of conquest, to dread ad∣verse approaches, or of de∣features to prepare for fresh onsets, may glory in his Majesties assiduous and vi∣gilant
+<PB N="148" REF="90"/>
+supervising of his mi∣litary munition and provi∣sion both by Sea and Land, remonstrated by his fre∣quent visiting his greatest Storehouse of his Ord∣nance, and other martiall supply, as also his goodly number of Ships in severall harbours.</P>
+<P>Amidst the coacervati∣ons<NOTE PLACE="marg">Recrea∣tions.</NOTE> of his many and mul∣tifarious cares, He hath like <HI>Alfred</HI> his <HI>statuta reficiendi tempora,</HI> his convenient times of royall recreations, and no lesse skil &amp; prompt∣nesse in the use and exercise
+<PB N="149" REF="90"/>
+of them: What insensate subject can envie so grati∣ous a Soveraigne that liber∣ty, which his clemency in∣dulgeth to the least of us? Must Princes onely, be like heathen Idols? must they have eyes, and not see the objects of lawfull oblecta∣tions? eares, and not heare the sweet harmony of vo∣call and instrumentall mu∣sick? Of such murmuring miscreants I will onely say, <HI>Dij regno tales nostro diverti∣te pestes.</HI></P>
+<P>Time in somethings doth difference the parallell; <HI>Al∣fred</HI>
+<PB N="150" REF="91"/>
+lived in the infancie of the <HI>English</HI> Church, when the fier at the Altar was but newly kindled; and his zeale was by sending to for∣raigne parts for learned men, and by other meanes to raise up the fabricke of Religion: Wee live in the height in, the Meridian of the Church her <HI>Glory;</HI> And because, <HI>altitudo semper decli∣nationi proxima,</HI> his now Majesties principall aime is for the worke of preserva∣tion, to keepe the fire upon our Altar burning, which is <HI>magnum opus:</HI> It was high
+<PB N="151" REF="91"/>
+time for his goodnesse to put to his owne helping hand, or else by the fanatical schismes and aversions of <HI>non-conformists,</HI> Religion, and her houses would both have melted together, and Parlors and Groves beene exalted and preferred before the beautifull Temples, and sacraries of the God of Is∣rael.</P>
+<P>I have now presented to your favourable view, a paire of Peerelesse Princes, who for their religion, pie∣ty, devotion, institution and renovation of good lawes,
+<PB N="152" REF="92"/>
+government, justice, mer∣cy, truth, meeknesse, tempe∣rance, patience, abstinence, conjugall castimony, and all other vertues, may be presi∣dents of imitation to all Princes and people. And what a reverend Arch-Bi∣shop in his Preface upon the life of <HI>Alfred</HI> commen∣deth unto the Reader for him, I must say for both, <HI>Ista quidem historia non medi∣ocrem</HI><NOTE PLACE="marg">Arch-Bishop <HI>Parker in preaes. Asseri.</HI></NOTE> <HI>menti tuae voluptatem infundet, neque minorem ad∣feret cum voluptate utilitatem si in praeclarissimarum rerum contemplatione defixus, te ad</HI>
+<PB N="153" REF="92"/>
+<HI>eorum imitationem, &amp; quasi imaginem, totum effinxeris;</HI> and to proceed for both, as he doth for him, <HI>Etenim cum vide as regem summo splendo∣re, &amp; tanta, quantum illa prae∣rarò vidit aetas, dignitate re∣gentem, &amp;c. Quo te Lector ani∣mo esse oportebit, &amp;c.</HI> In brief, where▪ there are such glo∣rious Soveraignes, would it not well become their peo∣ple to be gracious subjects? As I began, I shall close up my Parallell and not unfit∣ly with the time.</P>
+<Q>CaroLVs ALVreDo, Charo<NOTE PLACE="marg">1634.</NOTE> ALVreDVs In CaroLo re VI∣VIsCIt.</Q>
+<P><PB N="154" REF="93"/>You have seene the twen∣ty eight yeares raigne of the one, beyond that you can heare no more; and but nine yeares of the other, of him wee shall with incessant prayers to heaven expect much more; numbers of dayes &amp; numbers of deeds, a numerous issue by a most ennobled illustrious <HI>Queen,</HI> equall in bloud, and equall in good: that as one of <HI>Al∣freds,</HI> many of their royall Off-spring, may with their princely education honour both our Vniversities: and let all true hearted subjects
+<PB N="155" REF="93"/>
+humbly and thankefully consider GODS ineffable mercie towards us in his Majesties happie birth, his vertuous education, the Al∣mighties provident desig∣ning, and fitting him to our our state and government; his royall match, his sweet Olive-branches, and their and our hope of many more; his peaceable raigne with his exemplary good∣nesse and vertue, which we all see and know, and have just cause humbly and hear∣tily to supplicate and im∣plore the omnipotent Au∣thor
+<PB N="156" REF="94"/>
+of this so great happi∣nesse for the long life of his Highnesse and his most deere consort: And that whilst the Sun and Moone doe indure, there never may one bee wanting of their thrice Royall Line to sway the Scepter of great <HI>Brit∣taine,
+Amen.</HI></P>
+</DIV1>
+<TRAILER>FINIS.</TRAILER>
+</BODY>
+<BACK>
+<DIV1 LANG="lat" TYPE="imprimatur">
+<PB REF="94"/>
+<P>Perlegi hunc Librum, cui Titulus, (<HI>The life of</HI> Alfred) in quo nihil reperio, quò minùs, cum utilitate publicâ, imprimatur.</P>
+<CLOSER><SIGNED>THO. WEEKES, R. P. D. Episc. Lond. Cap. Domest.</SIGNED></CLOSER>
+</DIV1>
+</BACK>
+</TEXT>
+</GROUP>
+</EEBO>
+</ETS>
+

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="2">A golden trumpet sounding an alarum to judgement the sound whereof was never more needfull though evermore profitable : dedicated and directed unto all the elect children of God which truly repent / newly published by Iohn Andrewes.</TITLE><AUTHOR>Andrewes, John, fl. 1615.</AUTHOR></TITLESTMT><EXTENT>Approx. 33 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2007-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A25382</IDNO>
+
+
+<IDNO TYPE="stc">Wing A3123A</IDNO>
+
+<IDNO TYPE="stc">ESTC R27886</IDNO>
+
+<IDNO TYPE="eebo citation">10261318</IDNO>
+
+<IDNO TYPE="oclc">ocm 10261318</IDNO>
+
+<IDNO TYPE="vid">44730</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A25382)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 44730)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 1375:4)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="2">A golden trumpet sounding an alarum to judgement the sound whereof was never more needfull though evermore profitable : dedicated and directed unto all the elect children of God which truly repent / newly published by Iohn Andrewes.</TITLE><AUTHOR>Andrewes, John, fl. 1615.</AUTHOR></TITLESTMT><EDITIONSTMT><EDITION>The nine and twentieth impression.</EDITION></EDITIONSTMT><EXTENT>[23] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for Edward Wright,</PUBLISHER>
+<DATE>1648.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Reproduction of original in the British Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Judgment Day.</TERM><TERM>Salvation.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2006-02</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2006-04</DATE><RESPSTMT><RESP>SPi Global</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2006-06</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2006-06</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2006-09</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A25382">
+<STC T="W">A3123A</STC>
+<BIBNO T="oclc">10261318</BIBNO>
+<VID>44730</VID>
+</IDG>
+<TEXT>
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<P>A Golden Trumpet, Sounding an Alarum to Judge∣ment: the sound whereof was ne∣ver more needfull, though evermore profitable.</P>
+<P>Dedicated and directed unto all the Elect Children of God, which truly repent.</P>
+<P>Newly published by <HI>Iohn Andrewes,</HI> Minister and Preacher of Gods Word.</P>
+<P>The nine and twentieth Impression.</P>
+<P><FIGURE>
+</FIGURE></P>
+<P>LONDON, Printed for <HI>Edward Wright,</HI> and are to be sold at his shop in gilt-spur-street without Newgate, at the signe of the Bible, 1648.</P>
+</DIV1>
+<DIV1 TYPE="author to the reader">
+<PB REF="2"/>
+<HEAD>The Author to the Reader.</HEAD>
+<LG>
+<L>SOund to Judgment this Golden Trum∣pet,</L>
+<L>Into the eares of every one:</L>
+<L>Early be ringing here thine owne knell,</L>
+<L>Or sound t'- alarum, for time will be gone.</L>
+</LG>
+<LG>
+<L>Weep for thy sins, and watch for the day</L>
+<L>Here of the coming of Christ our Judge:</L>
+<L>Each day and houre slips quickly away;</L>
+<L>No time is set, therefore doe not grudge.</L>
+</LG>
+<LG>
+<L>Make this Trumpet to sound in thine eare,</L>
+<L>A day of Judgement is almost come:</L>
+<L>Delay no time, we all must appeare,</L>
+<L>Now still prepare for the day of doome.</L>
+</LG>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="book">
+<PB REF="2" MS="y"/>
+<HEAD>A Golden Trumpet.</HEAD>
+<DIV2 N="1" TYPE="chapter">
+<HEAD>CHAP. I. The first Chapter treateth of the sound of the Trumpet.</HEAD>
+<P>AS <HI>Adam</HI> sléeping securely in his transgression, had great néed of that Trumpet from <HI>GOD,</HI> to rowze him from the sléep of sin, <HI>Adam ubi es?</HI><NOTE PLACE="marg">Gen. 3.9</NOTE> <HI>Adam</HI> where art thou? So necessary for every sinfull <HI>Adamite,</HI> (to raise him up from the sléep of sin) is this notable <HI>memento,</HI> this worthy sound of the <HI>Golden Trumpet.</HI></P>
+<P>Wherefore if ever there were a time for Gods Ministers to have their hearts like the Lions, their face of brasse, and their voice of stéele, to sound this <HI>Golden Trumpet,</HI> that they might boldly in the face of the Congregation cry, and lift up their voice like a Trumpet with the Pro∣phet <HI>Esay,</HI><NOTE PLACE="marg">Esay 58.9</NOTE> <HI>to shew the people their transgressions:</HI> If ever there were a time for <HI>Ieremiah to cry in the eares of Hierusalm,</HI><NOTE PLACE="marg">Ier. 50.2.</NOTE> <HI>to declare amongst the Na∣tions, and to set up a standard to proclaim the fall of Babylon</HI>: If ever there were time for <HI>Lot To reprove the Sodomites,</HI><NOTE PLACE="marg">Gen. 19.7.</NOTE> for <HI>Elias to reprove Achab, Nathan to reprove David, Ionah to cry to the Ni∣nivites,</HI> or <HI>Ieremiah to wish his head to be full of water, and his eyes to be a foun∣taine of teares</HI>: Yea <HI>David, Esay, Iere∣miah</HI>
+<PB REF="3"/>
+&amp; <HI>Paul,</HI> to wéep for the sins of the people;<NOTE PLACE="marg">Ie. 4.19. Act. 20.19.</NOTE> then sure the time is now. Yet, nothwithstanding the Gospell hath béen long taught amongst us, the sound thereof hath filled our eares, but whose heart hath it pier∣ced?<NOTE PLACE="marg">Eze. 3.18. Eze. 33.7. Esa 56.1<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>. Ier. 2.1, 2 Ier. 48.10. Ez. 34.2, 3, 4 to the 10. Ier. 1.7, 8. Za. 11.8, 17. Malac. 2.7. Eze. 3 4.10 18. Mat. 5.21. Mat. 10.17. Mat. 25.26 2<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>, 28. Mat. 9.47. Luk. 10.2.</NOTE> Whose life hath it bettered? Sin is sharply reproved, but iniquity still aboundeth. To the briefe, I néed not complaine with the Prophet of those gréedy dumbe Curres, which feacute;ed themselves, and starve the soules of their flocke, but onely re∣cite Gods threatnings against them in a few proofes of Scripture and so I leave them, <HI>for the Lord to require their bloud at their hands.</HI> For I may boldly say (the Lord be praised for it) that we had never more preaching, though never lesse following than we have now: There were never more crafty worldlings, and gréedy <HI>Nabals,</HI> that love an ounce of Give me, more than a pound of Heare me, than be now. O I feare, that there were never more that have sold them∣selves, and their very Soules for lucre sake, than be now. Where∣fore I doubt not but the very iniqui∣tie of the whole world is come to ma∣turitie.</P>
+<P>Therefore it is now high time to
+<PB REF="3"/>
+sound the <HI>Golden Trumpet,</HI> and ring it with alarum, that if ever they will be rouzed from the deadly sléep of sin to awake and repent, now: for, <HI>Qui non est hodie, cras minus aptus erit.</HI> He that is not ready to repent to day will be lesse ready to morrow.</P>
+<P>Oh now therefore,<NOTE PLACE="marg">Rom. 10.18. Pro. 11.34. Rev. 3.10.</NOTE> while the Gospell soundeth, now while Christ calleth, now while he knocketh; let us now repent, let us take this pre∣sent time while we have it? time and tide staieth for no man; the time past is irrevocable, which cannot be re∣called: the time to come is full of un∣certainty for it may be it never shall come: Only the present time is, ours, but it is momentarie: O there∣fore let us take and make good use of it.</P>
+<L>To morrow, some wil say, I will a Convert be,</L>
+<L>O when tell me I pray, shall I this morrow see?</L>
+<L>Let never wise man say, to morrow mend I will,</L>
+<L>Who is not fit to day, is l<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>sse &amp; l<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>sse fit still.</L>
+<P>Wherefore, holy men of God urge still the time present?<NOTE PLACE="marg">Isa. 55 10. Ier. 25.15 Gal. 6.10. Heb. 3.15 Psal. 95.8.</NOTE> <HI>Seeke ye the Lord while he may be found: Turne ye now from your evill wayes: Doe good while ye have time: To day if ye will heare his voice, hearden not your hearts.</HI></P>
+<P>Thus the converted heart séeketh the present time,<NOTE PLACE="marg">Psa. 51.17 Psal. 51.4.</NOTE> be cause it is a blée∣ding
+<PB REF="4"/>
+and a tender heart;<NOTE PLACE="marg">Acts 2.36. Psal. 6.99. Psa. 119 13 Iohn 2.17. Titus. 2.14</NOTE> It trem∣bleth at the word, it is pricked when it is rebuked, and inflamed with bur∣ning zeale when it is instructed. O then take hold of this present oppor∣tunity so friendly smiling on thée, and repent presently: Let the sound of this <HI>Golden Trumpet</HI> be ever in thy eares: For as our Saviour Christ said of <HI>Iohn Baptist, This is Eliah, if ye will receive him</HI>;<NOTE PLACE="marg">M<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/> 2 <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>4.</NOTE> So say I, this instant, this moment is the time of repen∣tance; this is the day of salvation this is the time of grace; this is the acceptable houre; O therefore em∣brace it. We read that the <HI>Ninivites</HI> were coverted at these words of <HI>Io∣nahs</HI> preaching,<NOTE PLACE="marg">Ionah 3.4.</NOTE> <HI>Yet forty dayes and Ni∣niveth shall be destroyed.</HI></P>
+<P>The sound thereof caused not onely the Subjects, but the very King of that City to come from his Throne of Monarchie,<NOTE PLACE="marg">Ionah 3.5.</NOTE> to cast off his Robes, to put on sackcloth, and sit in ashes, with fasting, wéeping, and great mourning.</P>
+<P>S. <HI>Peter</HI> at one Sermon converted thrée thousand soules unto Christ; insomuch as they were so pricked in their hearts at his Doctrine, that they came crying, <HI>Men and brethren, what shall we doe to be saved?</HI><NOTE PLACE="marg">Acts 2 37.</NOTE> In ano∣ther
+<PB REF="4"/>
+Sermon he converted <HI>Cornelius</HI> the Captain, with a great multitude.<NOTE PLACE="marg">Acts 10.</NOTE></P>
+<P>S. <HI>Iohn Baptist</HI> at one Sermon con∣verted both Scribes, Pharises,<NOTE PLACE="marg">Luk. 3.14.2.</NOTE> Pub∣licans, Souldiers and Sinners, in∣somuch as all that heard him preach, <HI>Mused in their hearts whether he were not very Christ.</HI></P>
+<P><HI>Paul</HI> converted many in <HI>Asia,</HI><NOTE PLACE="marg">Rom. 15.15</NOTE> and also in <HI>Europe,</HI> yea in all parts and quarters of the world: Christ himself converted so many,<NOTE PLACE="marg">Ioh. 12.19.</NOTE> that it caused the Iewes to cry out, <HI>Behold the whole world goeth after him.</HI> O where is any such Conversion in these our dayes? What drowsinesse is in us? What carelesnesse? Nay, what mad∣nesse is in us, that we cannot be con∣verted with all the preaching that is so often and continually preached a∣mongst us? Can we not remember?<NOTE PLACE="marg">Luk. 13.9. Esay 59.2. Nabu. 1.2. 1 King. 10.1, 2. 1 Chr. 9.8.</NOTE> Is our memory so short? or have we drunke so much of the River of for∣getfulnesse? That wée remember not what our Saviour saith plainly, <HI>Except ye repent, ye shall all be dam∣ned.</HI></P>
+<P>Let us consider with our selves, and descend into our owne Consci∣ence and sée whether there be any Reason▪ why God should spare us,<NOTE PLACE="marg">Mat 12, 42 Luke 11 3.</NOTE> and deale so severely with others:
+<PB REF="5"/>
+<HI>Saba the Queene of the South came from the furthermost parts of the world, to heare the wisdome of Salomon</HI>: But many of us which live in this evill declining age, are so over busied with worldly affaires, that they have little or no time to come out of our doores, to bestow one houre in the Church to heare the <HI>Wisedome of Christ.</HI></P>
+<P>The want whereof maketh many which neglect their comming to <HI>Be∣thel,</HI><NOTE PLACE="marg">Ge. 13.19.</NOTE> the house of God, to starve their Soules in <HI>Bethaven,</HI> the denne of ini∣quitie. Yea, too too many to become so godlesse,<NOTE PLACE="marg">Hos. 4.15</NOTE> so gracelesse, so roo<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ed in all sin, and so fully resolved to live therein,<NOTE PLACE="marg">Math. 3.2. Esay 51.12 Psal. 119.8. Ier. 4.19. Ier. 9.1. Acts 2.3.</NOTE> that if <HI>John Baptist</HI> were to preach; <HI>Esay</HI> to cry, King <HI>David, Ie∣remiah,</HI> and <HI>Paul</HI> to wéep for the sins of the people, Yet they are so frozen in their sin, and so wedded in their wickednesse that a Leopard may sooner change his spots, and a blacke Moore become white: nay (as our Saviour saith <HI>(It is easier or a Camell to goe through the eye of a needle,</HI><NOTE PLACE="marg">Mat. 10.51.</NOTE> than many to forsake their beloved sins to gaine the Kingdome of Heaven.</P>
+<P>What shall I more say? If Christ himselfe came from Heaven, to cry unto the people, for to repent in these
+<PB REF="5"/>
+our dayes, it may be they would let him say what he would, but I feare that too too many would doe what they list: All his preaching, and all his wonders would no more prevaile with the wicked in these our times, than it did in his time with the Iewes,</P>
+<P>To conclude then this point, if any seeme to storme at my harsh wri∣ting, let them amend their lives, and not dislike these my lines: For I openly protest, I feare none but God whose truth I teach, and hate no∣thing but sin, which is the ruine and destruction of the soule. I care not for my life, so it were lost in the de∣fence of the truth: I looke not for preferment, the world is so corrup∣ted: I desire not the praise of men, it is but vanitie: I ayme not at my owne good, but to set forth Gods glo∣ry, the discharge of my owne consci∣ence, and the benefit of Christ his Church and children.</P>
+</DIV2>
+<DIV2 N="2" TYPE="chapter">
+<HEAD>CHAP. II Of the shortnes and uncertainty of mans life.</HEAD>
+<P>MAns life is but a pilgrimage,<NOTE PLACE="marg">Gen. 4.7. Psalm. 3.1. Sirach 40. Psalme 1.</NOTE> a travell, and a way: and he is scarce entred into the world, but he is admonished to remember to de∣part out of the same, for all the world
+<PB REF="6"/>
+is mutable, and of all the things in the world man is most mutable. And as our dayes here are short and evill, we ought alwayes to be prepared for the Lord:<NOTE PLACE="marg">Benard</NOTE> For <HI>Nihil certius morte, ho∣ra mortis nihil incertius,</HI> as there is nothing more certaine than death, so there is nothing more uncertaine then the houre of death. We are all tenants at will, and know not how long we shall remaine it this earthly Tabernacle.</P>
+<P>All creatures waxe old with this aged world; this is even the last houre, the world cannot continue long,<NOTE PLACE="marg">Gen 6.27. Psalme 89.</NOTE> <HI>Methusela</HI> lived <HI>969</HI> yeares. If in our age we reach to <HI>80.</HI> it is with sor∣row and labour. <HI>Thou hast made my dayes as it were a span long,</HI><NOTE PLACE="marg">Psal. 40.6.</NOTE> saith <HI>David, All flesh is grasse</HI> (saith the Prophet) <HI>and all the glory thereof as the flower of the field.</HI><NOTE PLACE="marg">Esay 39.5.</NOTE> The old world had <HI>120.</HI> yeares given them to repent, <HI>Niniveh 40.</HI> daies,<NOTE PLACE="marg">Gen 6.5. Ionah 1.4. Psal. 95.20</NOTE> and <HI>Israel 4<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>.</HI> yeares, but thou O man knowest not how long thou hast to live.</P>
+<P>Some are wasted away by wan∣tonnesse as <HI>Commodus, Claudius Ne∣ro, Alexander</HI> the Great and such like, Some are shortned by ambition, many will never leave climbing till they catch a fall. This climbing by
+<PB REF="6"/>
+ambition cut off the dayes of <HI>Absa∣lom,</HI> and brought <HI>Haman</HI> to the trée.<NOTE PLACE="marg">2 Sam. 18. Hester 7. 2 Kin. 22. Psal 54.5.</NOTE></P>
+<P>Some God taketh away; because the world was not worthy of them; and some because they are not wor∣thy of it. <HI>He cut off Iosias,</HI><NOTE PLACE="marg">1 Kin. 2 1. Psal 54.5. 1 Kin. 22.</NOTE> <HI>for his soule pleased God</HI>: therefore he made haste to take him away from the iniquity of the world.</P>
+<P>He cut off <HI>Achab, Agag</HI> and <HI>Herod,</HI><NOTE PLACE="marg">1 Sa. 15.32 Mat. 2.19 20. Act. 12.32</NOTE> because they were vile and ungodly men, therefore they did not live out half their dayes.</P>
+<P>Some God cutteth off suddenly,<NOTE PLACE="marg">Gen. 7.11. Ge. 19.14. Exo. 14.27 Nu. 21.6. Nu. 16.3. Act. 12.23. Lu. 12 20. Acts 5 5. and 10. Iudg. 3.21. 2 Sa. 3.27.</NOTE> in so much as they have not time to thinke on God, or once to cry, Lord help me. The old world not thinking on death, was suddenly drowned. The <HI>Sodomites</HI> suddenly consumed by fire. <HI>Pharaoh</HI> with all his Host swallowed up in the sea: the <HI>Israe∣lites gnawne of dedly serpents. Corah, Dathan</HI> and <HI>Abiram</HI> eaten up of the earth. <HI>Herod</HI> suddenly devoured with lice. The rich man suddenly smitten with death. Lying <HI>Ananias</HI> and his wife suddenly fell downe dead. <HI>Eglon</HI> the <HI>Moabite,</HI> and <HI>Abner</HI> the Captaine were suddenly murthered with the sword. To conclude, all Histories in all ages are full of the like exam∣ples▪</P>
+</DIV2>
+<DIV2 N="3" TYPE="chapter">
+<PB REF="7"/>
+<HEAD>CHAP. III. Of the straight accompt we m<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>st give unto God at the day of Judgement.</HEAD>
+<P>TO draw every man to a better consideration of his time, and of his accompting day, our Saviour ad∣deth a reason why we should be rea∣dy, and alwaies prepared to render our accompt;<NOTE PLACE="marg">Matth. 4.</NOTE> for (saith he) <HI>The King∣dome of God is at hand.</HI></P>
+<P>What will move a man to consi∣der of himselfe, and of his accompt∣ing day, if this will not? when he heareth that the same is at hand.</P>
+<P>Mortall men in their accompts they make to their Lords and Ma∣sters, will gather their Scrowles, Bils, Papers, and other writings, from hundreths to farthings, lest they be found unworthy men to be put in trust with such worldly com∣modities.</P>
+<P>If mortall men have such a care how to make their accompts to mortall Auditors, what care, nay, what feare ought to be in all men and women, when they are summoned by the eternall God to appeare before him and his Angels, to give accompt how they have spent their time from their birth untill their dying day?</P>
+<P><PB REF="7"/>Here we are summoded to the high <HI>Imperial Court</HI> of eternall doome. <HI>The time is come</HI>;<NOTE PLACE="marg">Mark. 1.15</NOTE> <HI>and the Kingdome of God is at hand.</HI> O Lord who shall es∣cape amercing here? Nay, who shall escape damnation here? Séeke up your Scrowles, search the Bookes of your consciences: we are called to the Court, where every mans consci∣ence shall be laid open. Wherefore unlesse we repent; that our sins may be blotted out with the bloud of Christ Iesus, the Lord will call us to accompt, the Bookes of our Consci∣ences shall be laid open, and every sin both secret and knowne shall be brought to light: and not one sinne shall passe, but all our sinnes, both past, present, and to come, as well our rebellious thoughts,<NOTE PLACE="marg">Rev. 10.12</NOTE> as sinfull Acts committed. Whereupon <HI>S Bernard</HI> saith, <HI>Omne tempus tibi impensum requiretur a te qualiter fuerit expensum:</HI><NOTE PLACE="marg">Bernard,</NOTE> All the time that God hath given thée (except thou repent) shall be required at thy hands, how thou hast spent it. <HI>There shall in∣quisition be made for the thoughts of the ungodly: There shall not a wicked thought passe in Iudgement.</HI><NOTE PLACE="marg">Wisd. 1.9.</NOTE></P>
+</DIV2>
+<DIV2 N="4" TYPE="chapter">
+<PB REF="8"/>
+<HEAD>CHAP IV. Now followeth the manner of this ac∣compt.
+<LIST>
+<ITEM>I. Who must give accompt</ITEM>
+<ITEM>II. Of what things they must give accompt.</ITEM>
+<ITEM>III. To whom this accompt must be made.</ITEM>
+<ITEM>IV. When it must be made.</ITEM>
+</LIST></HEAD>
+<DIV3 N="1" TYPE="part">
+<P>FIrst, the persons that must give accompt, our Saviour Christ ex∣presly sheweth us to be men.<NOTE PLACE="marg">M<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>t. 13.36.</NOTE> <HI>But I say unto you</HI> (saith our Saviour) <HI>that of every idle word that men shall speake, they shall give accompt at the day of Iudgement.</HI></P>
+<P>And <HI>S. Paul</HI> saith, <HI>We must all appeare before the Tribunall Seat of Christ,</HI><NOTE PLACE="marg">1 Cor. 5.30.</NOTE> <HI>that every man may receive according to his workes.</HI> For as <HI>Lingua est mentis inter∣pres,</HI> The tongue is the interpreter of the mind, so saith our <HI>Saviour, By thy words</HI> (if thou doe well) <HI>thou shalt be justified,</HI><NOTE PLACE="marg">Mat. 12.37.</NOTE> <HI>and by thy words</HI> (if thou do evill) <HI>thou shalt be condemned.</HI> Thus we may sée Christs true &amp; iust judge∣ment, how that first by the evidence of their déeds they shall be accused: Secondly, by the witnesse of their words convicted: and thirdly, by the testimony of their owne conscience condemned, Thus all men, none ex∣cepted, of all ages, and of all nations,
+<PB REF="8"/>
+Kings and Princes, rich and poore, yea all that have been from the be∣ginning of the world, and shall be to the end of the same, shall appeare be∣fore the Tribunall seat of Christ, and give an account every one for him∣selfe.</P>
+</DIV3>
+<DIV3 N="2" TYPE="part">
+<HEAD>II Of what things they must give ac∣compt.<NOTE PLACE="marg">Mat. 12.29 2 Cor. 5.10 Eccl. 12.4. Wisd. 1.9. Mat. 12.37 Rom. 4.12. 1 Pet. 4.5.</NOTE></HEAD>
+<P>THey shall give accompt not onely of every idle word, work, &amp; deed, but also of every idle thought: yea, every man, and every member of man shall answer to his default.</P>
+<P>The King must give an accompt for himselfe, and how he hath gover∣ned his Kingdome.</P>
+<P>The Ministers that have taken upon them <HI>curam animarum,</HI> the charge of Soules, must give an accompt how they have fed their Flocke, and how they have lived in their calling: The Magistrate for his Iustice: The Master for his servants: The Parents for the children, and every Artificer for his trade, every man in his own proper person, must ren∣der an accompt of his Talent, be it ten, foure, or one that he hath recei∣ved. And so strait shall this accompt be, that every member of every body
+<PB REF="9"/>
+shall answer to his default: the Eyes shall give an accompt what they have séene: the Eares what they have heard: the Tongue what it hath spo∣ken: the Hands what they have felt: the Féet where they have béene: and the Heart of man what it hath thought. To conclude, both Heart and Body, with all the parts and powers thereof shall be indited and arraigned before the Tribunall Seat of Christ to render a streight accompt, <HI>Tam de dictis quam de factis suis,</HI> both of their words and their déeds.</P>
+</DIV3>
+<DIV3 N="3" TYPE="part">
+<HEAD>III. To whom this accompt must be given.</HEAD>
+<P>THe Iudge to whom we must give our accompt is Christ. <HI>The Lord commandeth</HI> (saith <HI>David) to judge the World.</HI><NOTE PLACE="marg">Psal. 56 13 Iohn 9.22.</NOTE> <HI>S. Iohn</HI> saith, <HI><GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>he Father, judg∣eth no man, but hath committed all judgement to the Sonne.</HI><NOTE PLACE="marg">Gen. <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>8 25</NOTE> And <HI>Abraham</HI> gave God the stile of the Iudge of the world. There it is evident that our Saviour Iesus Christ is Iudge of the world. He is <HI>verus Iudex &amp; Iu∣stus,</HI> he is a true and upright Iudge? yea,<NOTE PLACE="marg"><HI>Iames</HI> 4.12</NOTE> he is a Iudge that is able to de∣stroy both body and soule in hell fire for ever.</P>
+<P><NOTE PLACE="marg">Iud. 14.15.</NOTE>But let us note, he commeth▪ not alone, but bringeth ten thousand of
+<PB REF="9"/>
+his Saints to execute judgement upon all; yea, he said to his Disci∣ples,<NOTE PLACE="marg">Ma. 25.34 Wisd. 6. Acts. 3 19.</NOTE> <HI>Ye which have followed me shall sit upon twelve Thrones, judging the twelve Tribes of Israel.</HI></P>
+<P>Vnto the godly he shall say, <HI>Come ye blessed &amp;c.</HI> They shall both with body and soule <HI>receive a glorious king∣dome and a beautifull Crowne from the Lords hand: for with his right hand shall he cover them,</HI><NOTE PLACE="marg">Rev. 21.6. Rev. 7.1<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>. Esay 15.4.</NOTE> <HI>and with his arme he shall protect them,</HI> Because it shall be a day of refreshing, when all teares shall be wiped away from their eyes, and all sorrow shall cease, and they shall live and raigne with the Lamb for ever.</P>
+<DIV4 TYPE="section">
+<HEAD>To the wicked (Christ saith) Goe ye cursed.</HEAD>
+<P>BVt first let us note,<NOTE PLACE="marg">M<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>t. 15.4 Mat. 7.17 Psalm. 9.8</NOTE> that he doth not judge them after the manner of worldly Iudges, whose knowledg may be deceived with false and So∣phisticall pleas; whose justice may be corrupted with feare, hatred, love and rewards; whose anger may be paci∣fied with pittifull words. Oh feare∣fall and terrible will the sight of this Iudge bée to the wicked: for his power shall be invincible, his anger implacable, his knowledge infallible
+<PB REF="10"/>
+and his Iustice inflexible. First, ty∣rany and cruelty shall not counter∣vaile his power: Secondly, benignity of pitifull words shall not appease his anger: Thirdly, liberality, nor rewards shall not bow his Iustice: Fourthly, subtilty of advocates shall not blind his knowledge.</P>
+<P>Whereupon saith <HI>S. Augustine Judex ille nec gratia praevenitur, nec misericor∣dia flectitur, nec pecunia corrumpitur, nec penitentia mitigatur.</HI> Neither is this Iudge prevented with favour, nor bowed with mercy, nor bribed with money, neither mitigated by Repen∣tance: Therefore when Christ saith to the wicked, <HI>Goe ye cursed,</HI> hée doth not onely curse them, but hée biddeth them goe,<NOTE PLACE="marg">Mat. 25 41.</NOTE> he sendeth them to <HI>Gehen∣na,</HI> that dreadfull dungeon of utter darknesse, that burning Lake and most fearfull <HI>Tophet,</HI> yea, to that hol∣low cave and Chaos of all confusion, to that bottomlesse pit of eternall perdition: whose burning furnace is made by Gods Iustice, his power upholds it, and it is blowne with the bellowes of his wrath ever prepared for the Deuill and his Angels. And as Christ saith, <HI>Goe ye cursed,</HI> his curse is <HI>paenarum inflictio,</HI> infliction of punish∣ment, which is twofold, <HI>Paena Damni</HI>
+<PB REF="10"/>
+and <HI>Paena Sensus,</HI> the punishment of losse, and the punishment of sense. The losse of God, of his glorious and most blessed presence, his mercy, his fa∣vour, his bounty, his beauty, his grace, and all his eternall goodnesse, the losse of heaven, the habitation of God, and of all his holy and blessed Angels and Saints, the house and heaven of happinesse, with all the un∣speakable joyes, pleasures glory, ri∣ches, and treasures thereof for ever∣more.</P>
+<P>The punishment of sense which is hell and all the intolerable, everlast∣ing, and wofull torments thereof. As the blessing of God comprehends all blessings, so this curse, <HI>Anathema</HI> and <HI>Maranatha,</HI> includes all crosses,<NOTE PLACE="marg">Mat. 25.41.</NOTE> <HI>Goe ye cursed, &amp;c.</HI> They shall bée cursed of Christ himselfe, cursed shall they be of the Angels, whose curse is <HI>conscien∣tiae cruciamen</HI> vexation of conscience. Cursed shall they be of the Devils, whose curse is <HI>paenarum executio,</HI> the execution of their punishment, accor∣ding to that of the Poet:</P>
+<Q><L>Minos examen, Radamanthus dat cruciamen;</L>
+<L>Tertius, beufrater terti aiura tenet.</L></Q>
+<P>One Devill rippeth up the exami∣nation, another Devill tormenteth, the third addeth one torment upon
+<PB REF="11"/>
+another, For their desire is revenge, their devotion cursing, and their bles∣sing blasphemy. They be in a Sea of miseries, and in an Ocean of cala∣mities; Fire flameth about them; the worme of conscience gnaweth within them; rage, madnesse, and irefull in∣dignation among them, ugly visages of black and fearfull Devils affrigh∣ting them; Sulphur and hot burning coales under them: the revenging hand of God over them, and powring forth the vials of his wrath full of va∣riety of plagues without ceasing up∣on them.</P>
+<P>They have penury, for gluttony: extreame thirsting, for excessive drin∣king: burning, for lecherous lusting: want for ill gotten wealth: outragi∣ous madnesse, for blaspheming: for oppression, utter desolation; and a fearfull agony for bloudy cruelty.</P>
+<P>And <HI>S. Augustine</HI> speaking of <HI>Dives,</HI> saith,<NOTE PLACE="marg">Augu∣stines saying of Dives, Rom. 7.</NOTE> <HI>Desideravit guttam, qui non dedit micam,</HI> hée would not give a erum, hée shall not have a drop: a just recom∣pence: as he denied the least comfort to <HI>Lazarus</HI> living, so <HI>Lazarus</HI> shall not bring him the least comfort dead.</P>
+<P>And <HI>Seneca</HI> saith, <HI>Nemini bonus, sibi possimus,</HI> as he was good to none, so (let it be his plague) he is worst to him∣self;
+<PB REF="11"/>
+thus the pain for sin answers the pleasure of sin.<NOTE PLACE="marg">Rev. 1.5. Psal. 1.7</NOTE> Their torments shall be both comfortlesse &amp; endlesse. They shall bée dying alwayes, yet never dead. They shall séek death, but never find it. They shal be burning alwayes, yet never burnt to death. Their meat shall be griping hunger,<NOTE PLACE="marg">Mat. 13.42 Mat. 22. 13 Psal. 11, 7.</NOTE> and famine intolerable. Their drink shall be lakes of fire and brimston. Their musicke shall be howling and roaring of foule and ugly Devils, with savage furies accompanied, and with barbarous torments cruelly handled.</P>
+<P>Thus Heaven they shall have lost, which cannot be purchased. Hell they have received,<NOTE PLACE="marg">Rev. 18, 2</NOTE> &amp; the place must néeds be indured. And looke how many sins they have set on the score, so many kinds of punishments are provided for them in Hell. O how many cau∣ses of wéeping and dolefull crying shall those miserable wretches then have? They shall wéep because they cannot appeale from Gods dreadfull judgement. They shall wéep, because their pleasures have brought them to all these sorowes. They shall wéep, because they shall sée their miseries are past all remedy, and their repen∣tance too late. To conclude this point, they will then curse the parents
+<PB REF="12"/>
+which begat them, and the wombs which bare them, the day wherein they were borne, &amp; the Aire that gave them breath: and will cry, woe, woe, that ever we were borne, O where is that <HI>Dives</HI> that would not beléeve this before he felt the fire of Hell.</P>
+</DIV4>
+</DIV3>
+<DIV3 N="4" TYPE="part">
+<HEAD>IV. The time when we must give this ac∣compt.</HEAD>
+<P>VVE must give an accompt at the day of Iudgement, when Christ commeth to judge the world. <HI>But of that day and houre knoweth no man,</HI><NOTE PLACE="marg">Mar. 13.3.</NOTE> <HI>no not the Angels which are in Heaven</HI>; neither the Son according to his humane nature; but the Fa∣ther. But according to his Divine nature, hée knoweth as well as the Father. Therefore saith <HI>Christ. It is not for you to know the times and sea∣sons; which the Father hath put in his own power.</HI><NOTE PLACE="marg">Acts 1.17.</NOTE> But as <HI>Paul</HI> saith to the <HI>Corinthians, Seeing wee are they upon whom the ends of the world are come,</HI> we ought to learne of our Saviour, to watch,<NOTE PLACE="marg">Mat. 24.42</NOTE> <HI>for wee know not at what time the Lord will come.</HI> And our Sa∣viour séeing the iniquity of the world growing so fast to maturity, saith; <HI>Except those dayes should bee shortned, there should no flesh be saved.</HI>
+<PB REF="12"/>
+Therefore saith <HI>S. Iohn, Repent, for the Kingdome of Heaven is at hand.</HI><NOTE PLACE="marg">Mat. 14.24</NOTE> And <HI>S. Iames</HI> cryeth out, <HI>Behold the Iudge standeth before the doore,</HI> If they loo∣ked for it to be so nigh in those daies, now sure it cannot be far off.</P>
+<P><HI>Augustine</HI> in his book upon <HI>Genesis,</HI> against the <HI>Manichees</HI> said, that the world should last six ages. And (accor∣ding to his prophecy) we live in the last age. <HI>Eliah</HI> also prophesied that the World should last six thousand yéeres, two thousand before the Law, two thousand under the Law. &amp; two thousand from Christs his birth untill his coming to Iudgement. If his prophecy be true, the World cannot last foure hundred yéeres. To con∣clude, let us be ready alwayes how∣soever, although this day be like ye∣sterday, and too morow like to day, yet let us not defer our repentance.<NOTE PLACE="marg"><HI>Gen.</HI> 3.8. <HI>Gen.</HI> 19.1.</NOTE> For God came not unto <HI>Adam</HI> be∣fore the evening, yet he came. Al∣though the Angels came not upon <HI>Sodome</HI> untill the evening, yet they came. And so comes Christ to Iudge∣ment, although he be not yet come, let us not think he hath leaden féet, and cannot come, lest we finde hée hath iron hands when he doth come. To conclude, if there be any one
+<PB REF="13"/>
+thing in the Booke of God, from the <HI>Alpha</HI> of <HI>Genesis,</HI> unto the <HI>Omega</HI> of the <HI>Revelation,</HI> that is able to turne a sinner from his sinnes to come unto God by repentance, it is the remem∣brance of this generall judgement. This is that kept <HI>David</HI> in so much awe, <HI>I have feared thy Iudgements. I have been mindfull of thy Iudgements,</HI><NOTE PLACE="marg">Psal. 119.</NOTE> <HI>thy Iudgements were alwaies in my sight.</HI></P>
+<P>O therefore let us spéedily repent that we may be unblameable before the Iudge at that great generall day of Iudgement; and be cloathed with the white <HI>Robes of righteous∣nesse,</HI><NOTE PLACE="marg">Rev. 19.8.</NOTE> &amp; stand in the number of those, unto whom Christ shall say, <HI>Come ye blessed children of my Father</HI>;<NOTE PLACE="marg">Mat. 25.3.</NOTE> <HI>inherit the Kingdome prepared for you from the beginning of the world.</HI> This God grant (without whose help, all the labour of man is vaine) even for his deare Son Christ Iesus his sake, our Redéemer and onely Saviour, to whom with the Father, and the ho∣ly Gost, be all honour glory, praise, power and dominion both now and for evermore. <HI>Amen.</HI></P>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="13"/>
+</DIV3>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

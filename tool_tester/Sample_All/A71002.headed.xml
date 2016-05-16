@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The medal of John Bayes a satyr against folly and knavery.</TITLE><AUTHOR>Shadwell, Thomas, 1642?-1692.</AUTHOR></TITLESTMT><EXTENT>Approx. 37 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2008-09 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A71002</IDNO>
+
+
+<IDNO TYPE="stc">Wing S2860</IDNO>
+
+<IDNO TYPE="stc">ESTC R10443</IDNO>
+
+<IDNO TYPE="eebo citation">12425150</IDNO>
+
+<IDNO TYPE="oclc">ocm 12425150</IDNO>
+
+<IDNO TYPE="vid">61815</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A71002)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 61815)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 297:1, 849:1)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The medal of John Bayes a satyr against folly and knavery.</TITLE><AUTHOR>Shadwell, Thomas, 1642?-1692.</AUTHOR></TITLESTMT><EXTENT>[10], 23 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for Richard Janeway,</PUBLISHER>
+<DATE>1682.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>In verse.</NOTE><NOTE>An answer by Thomas Shadwell to Dryden's The medal, which is an attack on Shaftesbury. Cf. BM.</NOTE><NOTE>Reproduction of original in British Library and Duke University Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683.</TERM><TERM>Dryden, John, 1631-1700. --  Medall.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2007-02</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2007-02</DATE><RESPSTMT><RESP>Apex CoVantage</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2007-04</DATE><RESPSTMT><RESP>Emma (Leeson) Huber</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2007-04</DATE><RESPSTMT><RESP>Emma (Leeson) Huber</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2008-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A71002">
+<STC T="W">S2860</STC>
+<BIBNO T="oclc">12425150</BIBNO>
+<VID>61815</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<P>THE MEDAL OF John Bayes: A SATYR AGAINST FOLLY and KNAVERY.</P>
+<Q>—Facit indignatio versus.</Q>
+<P><HI>LONDON:</HI> Printed for <HI>Richard Janeway.</HI> 1682.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2" MS="y"/>
+<HEAD>EPISTLE TO THE TORIES.</HEAD>
+<P>WE here present you with a Medal of an <HI>Hero∣ick Author,</HI> which most properly belongs to you; (he being at this time hired to Lye and Libel in your service) and in his last Essay, has perform'd it so dully, that if you put him away (as it is said of the <HI>Gen∣tleman-Usher</HI> and the Doctor in the <HI>Rehearsal</HI>) No body else will take him; No, No body else will take him. We cannot say his Portraicture is done at the full length, or has all its Orna∣ments, since there are many touches to be added to it, which we shall reserve for the occasions he shall give us hereafter. But we dare say, these rough strokes have made the linea∣ments and proportions so true, that any one that knows him, will find there is a great resemblance of him; and will believe that he has sate above five times for it. Though indeed he is so li∣beral of shewing himself, that in an hours space, he will expose all his Parts; and a good Drawer, in that time, may observe enough to make a <NOTE N="*" PLACE="marg">So the Pain∣ters call a naked Picture.</NOTE> <HI>Nuditie</HI> of him.</P>
+<P>You may know he is no concealer of himself, by a story which he tells of himself, <HI>viz.</HI> That (when he came first to Town) be∣ing a young <GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>aw fellow of seven and Twenty, as he call'd him∣self when he told the story, he frequenting but one Coffee-house, the Woman (it seems finding him out) put Coffee upon him for Chocolate, and made him pay three pence a dish for two years to∣<GAP DESC="missing" EXTENT="1+ pages" DISP="〈1+ pages missing〉"/>
+<PB REF="3"/>
+<HI>midable Cripple.</HI> The unpunish'd audaciousness of this front∣less Scribler, would be a reproach to any Government; and there∣fore no man can think him too hardly dealt with in the following <HI>Medal:</HI> especially▪ since he knows, and so do all his old acquain∣tance, that there is not an untrue word spoken of him.</P>
+<P>There is not so vile an employment, as that of a Hired Libel∣ler, an Executioner of mens Reputations: the Hangman is an Office of greater Dignity. Were all which your Poet says of this great Peer true, yet the Libeller ought to be whipt out of a Countrey for his Insolence: but what does he deserve, when he himself knows every word of it to be false! and scarce a Papist in <HI>England</HI> believes any thing of it to be true.</P>
+<P>He is as unlucky in his allusion to the Turks wearing of <HI>Scander∣begs</HI> Bones, as he is afterwards in his bungling Simile, about the feign'd Association. They were the Turks, <HI>Scanderbegs</HI> Enemies, that wore his Bones; and therefore he thinks this Lords Friends must do the same.</P>
+<P>According to the example which he cites you, <HI>Tories</HI> should do it and I doubt not but ye would be glad on't; but we hope he will last, till by a happy Agreement of the King with a Parlia∣ment, your Party will hide their heads, or become of no significa∣tion; which for that very reason ye endeavour all ye can to ob∣struct▪</P>
+<P>I know not what good his Bones might do ye, were he dead; but I am sure his Brains, while he is living, would be very much to the advantage of the best of ye: those would keep ye from the ridiculous Follies and mad Extravagancies ye daily run into.</P>
+<P>'Tis you that are apparently the Faction; since ye are the Few that have divided from the Many. 'Tis you who in your Facti∣ous Clubs vilifie the Government, by audaciously railing a∣gainst <HI>Parliaments,</HI> so great and so essential a part of it. They ought to lose the use of Speech, who dare say any thing irre∣verently of the <HI>King,</HI> or disrespectfully of <HI>Parliaments.</HI></P>
+<P><PB REF="3"/>If any thing could make the <HI>King</HI> lose the love and confi∣dence of his people, it would be your unpunish'd boldness, who presume to call the <HI>Freeholders</HI> of <HI>England</HI> the Rabble, and their <HI>Representative</HI> a Crowd, and strike at the very Root of all their Liberty. Ye are those who abuse our gracious Prince, and endeavour to delude him with false Numbers, and promi∣sing to serve him when ye have no Interest, as in all the fre∣quent <HI>Parliaments</HI> (his <HI>Majesty</HI> has been pleased to promise us) will plainly appear.</P>
+<P>If any thing could dishonour him, it would be the bloudy vi∣olence of your Spirits; your unpunished Exorbitances, and breach of Laws; your Huzzaing, Roaring, Quarrelling, and Damning by much the greater part of the Nation, and their whole Representative Body. Who made ye Judges in <HI>Israel?</HI> but whatever ye might have been in <HI>Judea,</HI> ye will find very few of ye will be made, in <HI>England,</HI> Trustees for the Liberty of the people, as your Poet says, who (as if he had been hired for the whole Popish Plot) vilely casts dirt upon the best reformed Pro∣testants in his next Page,</P>
+<P>That <HI>Beza</HI> has been charged by the <HI>Papists</HI> for having insti∣gated <HI>Poltrotius M<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>raeus</HI> to Assassinate the Duke of <HI>Guise,</HI> is readily acknowledged; but withal, we know how usual, and how meritorious a thing it is with them, to brand Protestants with whatsoever they can suppose will render them odious. Nor was this Calumny so much fastened by them upon <HI>Beza,</HI> as upon the Admiral <HI>Coligni,</HI> who was known to be a man of more Vertue and Honour, than to allow the least accession to so base a Crime. Had this vile Libeller but common honesty and ingenuity, he would (at the same time he presumes to revive this calumnious Accusation) have taken notice of the vindication which the Admiral published to justifie his innocency. Vide <HI>Stat. Repub. &amp; Relig. in Gall<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>â,</HI> part 2. p. 358.</P>
+<P>And for <HI>Buchanan,</HI> the character which Archbishop <HI>Spotswood</HI> has given of him, is enough to secure and preserve his memory from the stains which such Fellows as this, or any Enemies to truth
+<PB REF="4"/>
+and Learning▪ could throw upon him. Nor will <HI>Calvin</HI> lose the reverence he has from good Protestants, for this Libeller's mer∣cenary Reproaches.</P>
+<P>For the Association, which he next mentions, dropt out of the Clouds, entred into, and subscribed by no body, and seen by no one of our Party that ever we could hear of, (and we believe, by none of yours, but those that contrived the putting it into the Earls Closet) it renders you more ridiculous and extravagant than ever ye were; to set up an Abhorrence through all <HI>Eng∣land,</HI> of a Paper, which you can lay to the charge of no Party, nor at one single mans door.</P>
+<P>But we doubt not but if you had found or put the Libel your Poet was Cudgell'd for (though few of your Loyal Closets, per∣haps, are without that, and other Libels upon the King) into the Earls Closet, ye would have set up an abhorrence of that, rather than not have kept up the Fermentation and Division amongst the people. When this is run out of breath, we suppose ye will set up the Ticket for the Forbidden Dinner, and ye will abhor Factious, Schismatical, Seditious, Fanatical, and Rebel∣lious Dining, or some new Red-Herring out of his Lordships Kitchin will come forth.</P>
+<P>The insolence in the same page of your Libeller, in comparing the Jury (that gave in <HI>Ignoramus</HI> to the Bill against our Noble Peer) to a Jury taken out of <HI>Newgate,</HI> deserves the Pillory, since 'tis evident to the whole City, they were all men of singular Honesty and Integrity in all their dealings, of signal good Lives, of good Ʋnderstandings, and of great Wealth; and, in the Memory of man, the City has not seen a Jury bet∣ter qualified; nor was there one Dissenter amongst them, to prevent your weak Cavils; Cavils, I say; for it had been no Objection if they had been all so, since they value their Oaths and Consciences as much as any sort of men and have no Dispen∣sations to go against them.</P>
+<P>And this Clamour against the Jury, is because they would not believe an incredible matter from incredible Witnesses, who either were then, or had been lately, most of them <HI>Papists;</HI>
+<PB REF="4"/>
+who were so inconsistent in their Testimony with one another an<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/> themselves, that I am confident not one of the reverend Benc believed them: if they did, they must be very shallow, and must take this Lord to be little better than an Ideot. If ye look upon the Oath of a Grand Jury-man, ye will find that the meaning of those two words <HI>Billa Vera</HI> is, they do believe the matter of the Bill in their Consciences to be true; which if they did not, they must have been perjur'd if they found, the Bill. The Law provides, that in capital Cases, a man shall not be wrongfully accused, and therefore appoints two Juries, both which are bound to find according to their belief; and the in∣justice is as great, though the injury be less, for the former to accuse by Indictment, if they believe the party innocent, as for the latter to hang him with the same belief.</P>
+<P>If ye had had the disposal of the Juries, we doubt not but there are Conspirators would have found Witnesses to have sworn that most of the Nobility and Gentry who have been zea∣lous and active against Popery, had entred into this feigned Association. Heaven keep us from Juries, such as will give 800 l. dammages to a Powder-monkey, without any Dammage proved, (for words spoken by a Magistrate in rebuking the sawcy Fellow) as if it were <HI>Scandalum Magnatum</HI> to abuse a Tory, though a seller of Wash-balls: And from that which gave 1000 l. to a Knight for being called Papist, whom it would not, perhaps, have cost 100 l. if he had been convicted: Or 500 l. to a notorious Varlet, for being six hours detained by a Messenger, (after notice of the Dissolution of a Parliament) and perhaps no legal notice neither. Our Juries are zealous to preserve the Innocent, and yours to ruine and destroy them.</P>
+<P>Ye see what manner of Spirit it is that actuates ye; and by the Fruits we can guess whether it be good or evil: it seems to us to breath forth nothing but Ruine, Murther, and Massacre. And, for your understanding, 'tis sufficiently shewn, by your pro∣fessing to believe a Protestant Plot (to Seize and Depose the King, and destroy the Government) without any other Circum∣stance proved, than that of a Joyner riding with Sword and
+<PB REF="5"/>
+Pistols to <HI>Oxford,</HI> who had used to ride so armed many years before; and yet ye have the face to deny a Popish Plot, (for the destruction of the Kings Person and Government) after <HI>Coleman</HI>'s Letters, and the others published by the Recor∣der (by command from the House of Commons); the Murther of Sir <HI>Edmundbury Godfrey,</HI> the Assassination of Mr. <HI>Arnold:</HI> After a general Report among the Jesuites in all forein Popish Countries, of the Kings being dead (it seems they thought themselves cock-sure) at the time Dr. <HI>Oates</HI> swears he was to be murther'd here; and a multitude of other convincing Cir∣cumstances, which were of that force, that there were at least ten of the Kings Proclamations that affirmed it, a publick Fast was enjoyned for it, and three successive Parliaments, <HI>nemine contradicente,</HI> upon a full hearing of the Evidence, reading all the Letters, and weighing all the Circumstances, declared it to be a horrid Conspiracy against the Kings Life and Govern∣ment What impudence or stupidity is this, let the world judge!</P>
+<P>Now, <HI>Tories,</HI> fare ye well; apply your heads to thinking a lit∣tle, and do not, like young Whelps, run away with a false Scent, and cry out <HI>Forty One</HI> and <HI>Ignoramus;</HI> and in time ye may be wiser; and let your Poet know, that the first occasion he gives, he shall hear from us farther.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB N="1" REF="5"/>
+<HEAD>THE MEDAL OF John Bayes: OR, A Satyr upon Folly and Knavery.</HEAD>
+<LG>
+<L>HOw long shall I endure, without reply,</L>
+<L>To hear this <NOTE N="*" PLACE="marg">His Name in the <HI>Rehearsal.</HI></NOTE> <HI>Bayes,</HI> this Hackney-rayler lie?</L>
+<L>The fool uncudgell'd, for one Libel swells,</L>
+<L>Where not his Wit, but Sawciness excels;</L>
+<L>Whilst with foul Words and Names which he lets flie,</L>
+<L>He quite defiles the <HI>Satyr's</HI> Dignity.</L>
+<L><PB N="2" REF="6"/>For Libel and true <HI>Satyr</HI> different be;</L>
+<L>This must have <HI>Truth,</HI> and <HI>Salt,</HI> with <HI>Modesty.</HI></L>
+<L>Sparing the Persons, this does tax the Crimes,</L>
+<L>Gall's not great Men, but Vices of the Times▪</L>
+<L>With Witty and Sharp, not blunt and bitter times▪</L>
+<L>Methinks the Ghost of <HI>Horace</HI> there I see,</L>
+<L>Lashing this <HI>Cherry-cheek'd Dunce</HI> of Fifty three;</L>
+<L>Who, at that age, so boldly durst profane,</L>
+<L>With base hir'd Libel, the free <HI>Satyr</HI>'s Vein.</L>
+<L>Thou stil'st it Satyr, to call Names, Rogue, Whore,</L>
+<L>Traytor, and Rebel, and a thousand more.</L>
+<L>An Oyster-wench is sure thy <HI>Muse</HI> of late,</L>
+<L>And all thy <HI>Helicon</HI>'s at <HI>Billingsgate.</HI></L>
+<L>A Libellers vile name then may'st thou gain,</L>
+<L>And moderately the Writing part maintain,</L>
+<L><HI>None can so well the beating part sustain.</HI></L>
+<L>Though with thy Sword, thou art the last of Men,</L>
+<L>Thou art a damn'd <HI>Boroski</HI> with thy Pen.</L>
+<L><PB N="3" REF="6"/>As far from <HI>Satyr</HI> does thy Talent lye,</L>
+<L>As from being cheerful, or good company.</L>
+<L>For thou art <NOTE N="*" PLACE="marg">In his Drammatick Essay.</NOTE> <HI>Saturnine,</HI> thou dost confess;</L>
+<L>A civil word thy Dulness to express.</L>
+<L>An old gelt Mastiff has more mirth than thou,</L>
+<L>When thou a kind of paltry Mirth would'st show.</L>
+<L>Good humour thou so awkwardly put'st on,</L>
+<L>It sits like Modish Clothes upon a Clown;</L>
+<L>While that of Gentlemen is brisk and high,</L>
+<L>When Wine and Wit about the room does flie.</L>
+<L>Thou never mak'st, but art a standing Jest;</L>
+<L>Thy Mirth by foolish Bawdry is exprest;</L>
+<L>And so debauch'd, so fulsome, and so odd,</L>
+<L>As—</L>
+<L><HI>Let's Bugger one another now by G—d.</HI></L>
+<L>(When ask'd how they should spend the Afternoon)</L>
+<L>This was the smart <NOTE N="*" PLACE="marg">At <HI>Windsor,</HI> in the company of several persons of Quality, Sir <HI>G. E.</HI> being present.</NOTE> reply of the Heroick Clown.</L>
+<L><PB N="4" REF="7"/>He boasts of Vice (which he did ne'r commit)</L>
+<L>Calls himself <HI>Whoremaster</HI> and <HI>Sodomite;</HI></L>
+<L>Commends <HI>Reeve</HI>'s Arse, and says she Buggers well;</L>
+<L>And silly Lyes of vitious pranks does tell.</L>
+<L>This is a Sample of his Mirth and Wit,</L>
+<L>Which he for the best Company thinks fit.</L>
+<L>In a rich Soyl, the sprightly Horse y'have seen,</L>
+<L>Run, leap, and wanton o're the flow'ry green,</L>
+<L>Praunce, and curvet, with pleasure to the sight;</L>
+<L>But it could never any eyes delight,</L>
+<L>To see the frisking frolicks of a Cow;</L>
+<L>And such another merry thing art Thou.</L>
+<L>In Verse, thou hast a knack, with words to chime,</L>
+<L>And had'st a kind of Excellence in Rime:</L>
+<L>With Rimes like leading-strings, thou walk'dst; but▪ those</L>
+<L>Lay'd by, at every step thou brok'st thy Nose.</L>
+<L>How low thy Farce! and thy blank Verse how mean!</L>
+<L>How poor, how naked did appear each Scene!</L>
+<L><PB N="5" REF="7"/>Even thou didst blush at thy insipid stuff,</L>
+<L>And laid thy dulness on poor harmless Snuff.</L>
+<L>No Comick Scene, or humour hast thou wrought;</L>
+<L>Thou'st quibling Bawdy, and ill breeding taught;</L>
+<L>But Rime's sad downfal has thy ruine brought.</L>
+<L>No Piece did ever from thy self begin;</L>
+<L>Thou can'st no web, from thine own bowels, spin.</L>
+<L>Were from thy Works cull'd out what thou'st pur∣loin'd,</L>
+<L>Even <HI>D—fey</HI> would excel what's left behind.</L>
+<L>Should all thy borrow'd plumes we from thee tear,</L>
+<L>How truly <NOTE N="*" PLACE="marg">The Name given him by the Earl of <HI>Rochester.</HI></NOTE> <HI>Poet Squab</HI> would'st thou appear!</L>
+<L>Thou call'st thy self, and Fools call thee, in Rime,</L>
+<L>The goodly <HI>Prince of Poets,</HI> of thy time;</L>
+<L>And Sov'raign power thou dost usurp, <HI>John Bayes,</HI></L>
+<L>And from all <HI>Poets</HI> thou a Tax dost raise.</L>
+<L>Thou plunder'st all, t'advance thy mighty Name,</L>
+<L>Look'st big, and triumph'st with thy borrow'd fame:</L>
+<L><PB N="6" REF="8"/>But art (while swelling thus thou think'st th'art Chief)</L>
+<L><HI>A servile Imitator and a Thief</HI> <NOTE N="†" PLACE="marg">Oh imitatores servum pecus!</NOTE>.</L>
+<L>All written Wit thou seizest on as prize;</L>
+<L>But that will not thy ravenous mind suffice;</L>
+<L>Though men from thee their inward thoughts conceal,</L>
+<L><HI>Yet thou the words out of their mouths wilt steal.</HI></L>
+<L>How little owe we to your Native store,</L>
+<L>Who all you write have heard or read before?</L>
+<L>Except your Libels, and there's something new;</L>
+<L>For none were ere so impudent as you.</L>
+<L><HI>Some Scoundrel Poetasters yet there be,</HI></L>
+<L><HI>Fools that Burlesque the name of Loyalty,</HI></L>
+<L><HI>Who by reviling Patriots, think to be</HI></L>
+<L><HI>From louziness and hunger ever free:</HI></L>
+<L><HI>But will (for all their hopes of swelling bags)</HI></L>
+<L><HI>R<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>turn to Primitive nastiness and rags.</HI></L>
+<L>These are blind Fools: thou hadst some kind of sight,</L>
+<L>Thou sinn'st against thy Conscience and the Light.</L>
+<L><PB N="7" REF="8"/>After the <NOTE N="*" PLACE="marg"><HI>In</HI> Rose-Alley.</NOTE> drubs, thou didst of late compound,</L>
+<L>And sold for th'weight in Gold each bruise &amp; wound,</L>
+<L>Clear was thy sight, and none declaim'd then more</L>
+<L>▪Gainst <HI>Popish Plots,</HI> and <HI>Arbitrary Power.</HI></L>
+<L>The <HI>Ministers</HI> thou bluntly wouldst assail,</L>
+<L>And it was dangerous to hear thee rail.</L>
+<L><HI>(Oh may not</HI> England <HI>stupid be like thee!</HI></L>
+<L><HI>Heaven grant it may not feel before it see.)</HI></L>
+<L>Now he recants, and on that beating thrives:</L>
+<L>Thus <HI>Poet Laureats,</HI> and <HI>Russian Wives,</HI></L>
+<L>Do strangely upon beating mend their Lives.</L>
+<L>But how comes <HI>Bayes</HI> to flag and grovel so?</L>
+<L>Sure your new <HI>Lords</HI> are in their payments slow.</L>
+<L>Thou deserv'st whipping thou'rt so dull, this time,</L>
+<L>Thou'st turn'd the <HI>Observator</HI> into Rime.</L>
+<L>But thou suppliest the want of Wit and Sense,</L>
+<L>With most malitious Lies, and Impudence.</L>
+<L><PB N="8" REF="9"/>At <HI>Cambridge</HI> first your scurrilous Vein began,</L>
+<L>When sawcily you traduc'd a <NOTE N="†" PLACE="marg">A Lords Son, and all Noblemens Sons, are called Noblemen there.</NOTE> <HI>Nobleman,</HI></L>
+<L>Who for that Crime rebuk'd you on the head,</L>
+<L>And you had been Expell'd had you not fled.</L>
+<L>The next step of Advancement you began,</L>
+<L>Was being Clerk to <HI>Nolls</HI> Lord <HI>Chamberlain,</HI></L>
+<L>A Sequestrator and Committee-man.</L>
+<L>There all your wholesome Morals you suckt in,</L>
+<L>And got your Gentile Gayety and Meen.</L>
+<L>Your Loyalty you learn'd in <HI>Cromwels</HI> Court,</L>
+<L>Where first your Muse did make her great effort.</L>
+<L>On him you first shew'd your Poetick strain,</L>
+<L><NOTE N="*" PLACE="marg">See his Poem upon <HI>Oliver.</HI>—And wisely he essay'd to stanch the Blood by breathing of a Vein.</NOTE> <HI>And prais'd his opening the Basilick Vein.</HI></L>
+<L>And were that possible to come agen,</L>
+<L>Thou on that side wouldst draw thy slavish Pen.</L>
+<L>But he being dead, who should the slave prefer,</L>
+<L>He turn'd a Journey-man t'a <NOTE N="†" PLACE="marg">Mr. <HI>Herringman,</HI> who kept him in his House for that purpose.</NOTE> Bookseller;</L>
+<L><PB N="9" REF="9"/>Writ Prefaces to Books for Meat and Drink,</L>
+<L>And as he paid, he would both write and think.</L>
+<L>Then by th'assistance of a <NOTE N="*" PLACE="marg">Sir <HI>R. H.</HI> who kept him generously at his own House.</NOTE> Noble <HI>Knight,</HI></L>
+<L>Th'hadst plenty, ease, and liberty to write.</L>
+<L>First like a <HI>Gentleman</HI> he made thee live;</L>
+<L>And on his Bounty thou didst amply thrive.</L>
+<L>But soon thy Native swelling Venom rose,</L>
+<L>And thou didst him, who gave thee Bread, expose.</L>
+<L>'Gainst him a scandalous Preface didst thou write,</L>
+<L>Which thou didst soon expunge, rather than fight.</L>
+<L>(When turn'd away by him in some small time)</L>
+<L>You in the Peoples ears began to chime,</L>
+<L>And please the Town with your successful Rime.</L>
+<L>When the best Patroness of Wit and Stage,</L>
+<L>The Joy, the Pride, the wonder of the Age,</L>
+<L>Sweet <HI>Annabel</HI> the good, great, witty, fair;</L>
+<L>(Of all this Northern Court, the brightest Star)</L>
+<L><PB N="10" REF="10"/>Did on thee, <HI>Bayes,</HI> her sacred beams dispence,</L>
+<L>Who could do ill under such influence?</L>
+<L>She the whole <HI>Court</HI> brought over to thy side,</L>
+<L>And favour flow'd upon thee like a Tide.</L>
+<L>To her thou soon prov'dst an <NOTE N="*" PLACE="marg">When he had thrice broken his Word, Oath, and Bargain with Sir <HI>Wi<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>∣liam Davenant,</HI> <GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>he wrote a Letter to this great Lady to pass her word for him to Sir <HI>William,</HI> who would not take his own; which she did. In his Letter he wisht God might never prosper him, his Wife or Children, if he did not keep his Oath and Bargain; which yet in two Months he broke, as several of the Dukes Play-house can testifie.</NOTE> <HI>ungrateful Knave;</HI></L>
+<L>So good was she, not only she forgave,</L>
+<L>But did oblige anew, the faithless Slave.</L>
+<L>And all the Gratitude he can afford,</L>
+<L>Is basely to traduce her Princely Lord.</L>
+<L>A <HI>Heroe</HI> worthy of a <HI>God-like</HI> Race,</L>
+<L>Great in his Mind, and charming in his Face,</L>
+<L>Who conquers Hearts, with unaffected Grace.</L>
+<L>His mighty Vertues are too large for Verse,</L>
+<L>Gentle as billing Doves, as angry Lions fierce:</L>
+<L><PB N="11" REF="10"/>His Strength and Beauty so united are,</L>
+<L>Nature design'd him <HI>Chief,</HI> in Love and War.</L>
+<L>All Lovers Victories he did excel,</L>
+<L>Succeeding with the beautious <HI>Annabel.</HI></L>
+<L>Early in Arms his glorious course began,</L>
+<L>Which never <HI>Heroe</HI> yet so swiftly ran.</L>
+<L>Wherever danger shew'd its dreadful face,</L>
+<L>By never-dying acts, h'adorn'd his <HI>Royal Race.</HI></L>
+<L>Sure the three <HI>Edwards</HI> Souls beheld with Joy,</L>
+<L>How much thou out didst Man, when little more than Boy.</L>
+<L>And all the <HI>Princely Heroes</HI> of thy Line,</L>
+<L>Rejoyc'd to see so much of their great Blood in thine.</L>
+<L>So good and so diffusive is his Mind,</L>
+<L>So loving to, and lov'd by Humane kind,</L>
+<L>He was for vast and general good design'd.</L>
+<L>In's height of Greatness he all eyes did glad,</L>
+<L>And never Man departed from him sad.</L>
+<L><PB N="12" REF="11"/>Sweet and obliging, easie of access,</L>
+<L>Wise in his Judging, courteous in address.</L>
+<L>Ore all the Passions he bears so much sway,</L>
+<L>No <HI>Stoick</HI> taught 'em better to obey.</L>
+<L>And, in his Suffering part, he shines more bright,</L>
+<L>Than he appear'd in all that gaudy light.</L>
+<L>Now, now, methinks he makes the bravest show,</L>
+<L>And ne're was greater <HI>Heroe</HI> than he's now.</L>
+<L><HI>For publi<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/> <GAP DESC="illegible" RESP="oxf" EXTENT="1 span" DISP="〈…〉"/> wealth and power forsakes,</HI></L>
+<L><HI>Over <GAP DESC="illegible" RESP="oxf" EXTENT="1 span" DISP="〈…〉"/> <GAP DESC="illegible" RESP="oxf" EXTENT="2 letters" DISP="••"/>nquest makes.</HI></L>
+<L><GAP DESC="illegible" RESP="oxf" EXTENT="1 span" DISP="〈…〉"/> to him are dear;</L>
+<L>And <GAP DESC="illegible" RESP="oxf" EXTENT="1 span" DISP="〈…〉"/> dares appear.</L>
+<L>'Tis <GAP DESC="illegible" RESP="oxf" EXTENT="1 span" DISP="〈…〉"/> in the breach,</L>
+<L><HI>'Gainst <GAP DESC="illegible" RESP="oxf" EXTENT="1 span" DISP="〈…〉"/>, and furious Parsons preach.</HI></L>
+<L>Were't not <GAP DESC="illegible" RESP="oxf" EXTENT="1 span" DISP="〈…〉"/>, how soon some <HI>Popish</HI> Knife</L>
+<L>Might rob us of his <HI>Royal</HI> Fathers Life!</L>
+<L><HI>We to their fear of thee that blessing owe▪</HI></L>
+<L><HI>In such a Son, happy Great King art thou,</HI></L>
+<L><HI>Who can defend, or can revenge thee so.</HI></L>
+<L><PB N="13" REF="11"/>Next, for thy Medal, <HI>Bayes,</HI> which does revile</L>
+<L>The wisest <HI>Patriot</HI> of our drooping Isle,</L>
+<L>Who <HI>Loyally</HI> did serve his Exil'd <HI>Prince,</HI></L>
+<L>And with the ablest Councel blest him since;</L>
+<L>None more than he did stop <HI>Tyrannick</HI> Power,</L>
+<L>Or, in that <HI>Crisis,</HI> did contribute more,</L>
+<L>To his Just Rights our Monarch to restore;</L>
+<L>And still by wise advice, and Loyal Arts,</L>
+<L>Would have secur'd him in his Subjects Hearts.</L>
+<L>You own the Mischiefs, sprung from that Intrigue,</L>
+<L>Which fatally dissolv'd the <HI>Tripple-League.</HI></L>
+<L>Each of your <HI>Idol mock-Triumv'rate knows,</HI></L>
+<L>Our <HI>Patriot</HI> strongly did that Breach oppose.</L>
+<L>Nor did this Lord a <HI>Dover</HI>-Journey go,</L>
+<L><NOTE N="*" PLACE="marg"><HI>Bayes</HI> his own expression, <HI>Medal, pag. 5.</HI></NOTE> <HI>From thence our tears, the</HI> Ilium <HI>of our woe.</HI></L>
+<L>Had he that Interest follow'd, how could he</L>
+<L>By those that serv'd it then discarded be?</L>
+<L><PB N="14" REF="12"/>The <HI>French</HI> and <HI>Papists</HI> well his Merits know;</L>
+<L>Were he a friend, they'd not pursu'd him so:</L>
+<L><HI>From both he would our beset King preserve,</HI></L>
+<L>For which he does Eternal wreaths deserve.</L>
+<L>His Life they first, and now his Fame would take,</L>
+<L>For Crimes they forge, and secret Plots they make.</L>
+<L><HI>They by hir'd Witnesses the first pursue,</HI></L>
+<L><HI>The latter by vile Scriblers hir'd like you.</HI></L>
+<L>Thy Infamy will blush at no disgrace,</L>
+<L>(With such a harden'd Conscience, and a Face)</L>
+<L>Thou only want'st an <HI>Evidences</HI> place.</L>
+<L>When th'<HI>Isle</HI> was drown'd in a Lethargick sleep,</L>
+<L>Our vigilant <HI>Heroe</HI> still a watch did keep.</L>
+<L>When all our strength should have been made a Prey</L>
+<L>To the Leud <HI>Babylonish Dalilah,</HI></L>
+<L>Methinks I see our watchful <HI>Heroe</HI> stand,</L>
+<L><HI>Jogging the Nodding Genius of our Land;</HI></L>
+<L><PB N="15" REF="12"/>Which sometime strugling with sleeps heavy yoak,</L>
+<L>Awak'd, star'd, &amp; look'd grim, and dreafully he spoke.</L>
+<L>The voice fill'd all the Land, and then did fright</L>
+<L>The <HI>Scarlet Whore</HI> from all her works of night.</L>
+<L>But—</L>
+<L>With unseen strengths at home, and Forreign Aid,</L>
+<L>Too soon She ralli'd, and began t'invade,</L>
+<L>And many Nets she spread, and many Toils she laid.</L>
+<L>To lull us yet asleep, what pains she takes!</L>
+<L>But all in vain, for still our Genius wakes.</L>
+<L>And now remembers well the <NOTE N="*" PLACE="marg">April. 75.</NOTE> dangerous Test,</L>
+<L>Which might have all our Liberty opprest,</L>
+<L>Had not the cover'd snare our <HI>Heroe</HI> found,</L>
+<L>And for some time bravely maintain'd the ground,</L>
+<L>Till others saw the bondage was design'd,</L>
+<L>And late with them their stragling Forces joyn'd.</L>
+<L><HI>A</HI> <NOTE N="†" PLACE="marg">Anno 76.</NOTE> <HI>Bill then drawn by B— did we see,</HI></L>
+<L><HI>A zealous Bill against — for Popery.</HI></L>
+<L><PB N="16" REF="13"/>Then Murther'd <HI>Godfrey,</HI> a <HI>lov'd Princes blood,</HI></L>
+<L>Ready with precious drops to make a purple-flood.</L>
+<L>When <HI>Popish Tyranny</HI> shall give command,</L>
+<L>And spread again its darkness o're the Land.</L>
+<L>Then Bloody Plots we find laid at their door,</L>
+<L>Than whom none e're have done or suffered more,</L>
+<L>Or, would to save the Prince they did restore.</L>
+<L>Amidst these hellish Snares, 'tis time to wake;</L>
+<L>May never more a sleep our Genius take.</L>
+<L>These things did soon our glorious City warm,</L>
+<L>And for their own, and Princes safety arm.</L>
+<L>The Joy of ours, Terrour of other Lands,</L>
+<L><HI>With moderate Head, with unpolluted Hands,</HI></L>
+<L>To which the Prince and People safety owe,</L>
+<L>From which the uncorrupted streams of Justice flow.</L>
+<L>Through thickest clouds of Perjury you see,</L>
+<L>And ne're by <HI>Hackney-Oaths</HI> deceiv'd will be</L>
+<L><HI>Resolv'd to value Credibility.</HI></L>
+<L><PB N="17" REF="13"/>Thou vindicat'st the Justice of thy Prince,</L>
+<L>Which shines most bright by clearing Innocence.</L>
+<L>While some would Subjects of their Lives bereave,</L>
+<L>By Witnesses themselves could ne're believe,</L>
+<L>Though wrongly accus'd, yet at their Blood they aim,</L>
+<L>And, as they were their <HI>Quarrey,</HI> think it shame</L>
+<L>Not to run down, and seize the trembling Game.</L>
+<L>Thy <HI>Justice</HI> will hereafter be renown'd,</L>
+<L>Thy lasting name for <HI>Loyalty</HI> be crown'd.</L>
+<L>When 'twill be told who did our Prince restore,</L>
+<L>Whom thou with zeal, didst ever since adore.</L>
+<L>How oft hast thou his Princely wants supply'd?</L>
+<L>And never was thy needful aid deny'd.</L>
+<L>How long his Kindness with thy Duty strove!</L>
+<L>Great thy Obedience, and as great his Love;</L>
+<L>And curst be they who would his Heart remove.</L>
+<L>Thou (still the same) with equal zeal wilt serve;</L>
+<L>Maintain his Laws, his Person wilt preserve.</L>
+<L><PB N="18" REF="14"/>But some foul Monsters thy rich womb does bear,</L>
+<L>That, like base Vipers, would thy bowels tear;</L>
+<L>Who would thy <HI>ancient Charters</HI> give away,</L>
+<L>And all thy <HI>stronger Liberties</HI> betray:</L>
+<L>Those <HI>Elder Customs</HI> our great Ancestors</L>
+<L>Have from the <HI>Saxon</HI> times convey'd to ours.</L>
+<L>Of which no Pers'nal Crimes a loss can cause,</L>
+<L>By <HI>Magna Charta</HI> backt, and by succeeding Laws.</L>
+<L>This is the <HI>Factious Brood</HI> we should pursue:</L>
+<L>For as in <HI>Schism,</HI> so in <HI>Sedition</HI> too,</L>
+<L>The Many are deserted by the Few.</L>
+<L>These Factious Few, for bitter scourges fit,</L>
+<L>(To shew <HI>Addressing</HI> and <HI>Abhorring</HI> Wit)</L>
+<L>Set up a <HI>Jack of Lent,</HI> and throw at it.</L>
+<L>But those, alas, false silly measures take,</L>
+<L>Who of the Few an <NOTE N="*" PLACE="marg">Their Addressing is plainly making an Association.</NOTE> Association make.</L>
+<L>Thou need'st not doubt to triumph o're these Fools,</L>
+<L>These blindly led, these Jesuited Tools;</L>
+<L><PB N="19" REF="14"/>Whilst bravely thou continu'st to oppose,</L>
+<L>All <HI>would be Papists,</HI> as all <HI>Romish Foes.</HI></L>
+<L>In spight of lawless men, and <NOTE N="*" PLACE="marg">See the Chancellors Excellent Speech before the Sentence on the Lord <HI>Stafford.</HI></NOTE> Popish flames,</L>
+<L>(Inrich'd by thy much lov'd and bounteous <HI>Thames</HI>)</L>
+<L>May into thee the Wealth of Nations flow,</L>
+<L>And to thy height all <HI>Europes</HI> Cities bow.</L>
+<L>Thou great support of Princely Dignity!</L>
+<L>And Bulwark to the Peoples Liberty!</L>
+<L>If a good <HI>Mayor</HI> with such good <HI>Shrieves</HI> appear,</L>
+<L>Nor Prince, nor People, need a danger fear:</L>
+<L>And such we hope for each succeeding year.</L>
+<L>Thus thou a Glorious City may'st remain,</L>
+<L>And all thy Ancient Liberties retain,</L>
+<L>While <HI>Albion</HI> is surrounded with the Main.</L>
+<L>Go, <HI>Abject Bayes!</HI> and act thy slavish part;</L>
+<L>Fawn on those <HI>Popish Knaves,</HI> whose Knave thou art:</L>
+<L>'Tis not ill writing, or worse Policy,</L>
+<L>That can enslave a Nation, so long free.</L>
+<L><PB N="20" REF="15"/>Our King's too good to take that rugged course;</L>
+<L>He'll win by kindness, not subdue by force.</L>
+<L><HI>If King of Slaves and Beasts, not Men he'd be,</HI></L>
+<L><HI>A Lyon were a greater Prince than he.</HI></L>
+<L>Approach him then, let no malitious Chit,</L>
+<L>No insolent Prater, nor a flashy Wit,</L>
+<L>Impeachments make not men for States-men sit.</L>
+<L>But—</L>
+<L><HI>Truth, Judgment, Firmness, and Integrity,</HI></L>
+<L><HI>With long experience, quick sagacity,</HI></L>
+<L><HI>Swift to prevent, as ready to foresee;</HI></L>
+<L><HI>Knowing the depths from which all action springs,</HI></L>
+<L><HI>And by a Chain of causes judging things:</HI></L>
+<L><HI>That does all weights into the ballance cast,</HI></L>
+<L><HI>And wisely can fore-tell the future, by the past.</HI></L>
+<L>Where ere such vertuous qualities appear,</L>
+<L>They're <HI>Patriots</HI> worthy of a Princes ear,</L>
+<L>To Him and Subjects they'l alike be dear.</L>
+<L><PB N="21" REF="15"/><HI>The Kings and Peoples Interest they'll make one.</HI></L>
+<L><HI>What personal greatness can our Monarch own,</HI></L>
+<L><HI>When hearts of Subjects must support the Throne!</HI></L>
+<L>And Ministers should strive those hearts t'unite,</L>
+<L>Unless they had a mind to make us fight.</L>
+<L>Who by Addresses thus the Realm divide,</L>
+<L>(All bonds of Kindred, and of Friends untide)</L>
+<L>Have in effect, in Battle rang'd each side.</L>
+<L>But Heaven avert those Plagues which we deserve:</L>
+<L><HI>Intestine Jarres, but Popish ends can serve.</HI></L>
+<L>How false, and dangerous Methods do they take,</L>
+<L>Who would a King but of Addressers make!</L>
+<L>They from Protection would throw all the rest,</L>
+<L>And poorly narrow the Kings Interest.</L>
+<L>To make their little Party too, seem great,</L>
+<L>They with false Musters, like the <HI>Spaniards,</HI> cheat.</L>
+<L>He's <HI>King</HI> of all, and would have all their Hearts,</L>
+<L>Were't not for these dividing <HI>Popish</HI> arts.</L>
+<L><PB N="22" REF="16"/><HI>Statesmen who his true Interest would improve,</HI></L>
+<L><HI>Compute his Greatness, by his Peoples Love:</HI></L>
+<L><HI>That may assist our Friends, and Foes o'recome;</HI></L>
+<L><HI>So much he will be fear'd Abroad, as lov'd at Home.</HI></L>
+<L>He at the Peoples Head, may great appear,</L>
+<L>As th' <HI>Edward's, Henry's,</HI> and <HI>Eliza</HI> were.</L>
+<L>And curst be they who would that Power divide,</L>
+<L>Who would dissolve that Sacred knot by which they're ty'd.</L>
+<L>Those Miscreants who hate a <HI>Parliament,</HI></L>
+<L>Would soon destroy our Antient Government.</L>
+<L>Those <HI>Slaves</HI> would make us fit to be o'recome,</L>
+<L>And gladly sell the Land to <HI>France,</HI> or <HI>Rome.</HI></L>
+<L><HI>But Heaven preserve our Legal Monarchy,</HI></L>
+<L><HI>And all those Laws that keep the People free.</HI></L>
+<L>Of all Mankind, for ever curst be they,</L>
+<L>Who would or Kings, or Peoples Rights betray,</L>
+<L>Or ought would change, but by a Legislative way.</L>
+<L><PB N="23" REF="16"/>Be damn'd the most abhorr'd, and Traiterous Race,</L>
+<L>Who would the best of Governments deface.</L>
+</LG>
+<LG>
+<L>Now farewel wretched Mercenary <HI>Bayes,</HI></L>
+<L>Who the <HI>King</HI> Libell'd, and did <HI>Cromwel</HI> praise.</L>
+<L>Farewel, abandon'd Rascal! only fit</L>
+<L>To be abus'd by thy own scurrilous Wit.</L>
+<L>Which thou wouldst do, and for a Moderate Sum,</L>
+<L>Answer thy Medal, and thy <HI>Absolont.</HI></L>
+<L>Thy piteous Hackney-Pen shall never fright us,</L>
+<L>Thou'rt dwindl'd down to <HI>Hodge,</HI> and <HI>Heraclitus.</HI></L>
+<L>Go, <HI>Ignoramus</HI> cry, and <HI>Forty One,</HI></L>
+<L>And by <NOTE N="*" PLACE="marg">A Coffee-house where the Inferiour Crape-gown-men meet with their Guide <HI>Roger,</HI> to invent Lies for the farther carrying on the Popish-Plot.</NOTE> <HI>Sams Parsons</HI> be thou prais'd alone.</L>
+<L>Pied thing! half Wit! half Fool! and for a Knave,</L>
+<L>Few Men, than this, a better mixture have:</L>
+<L>But thou canst add to that, Coward and Slave.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

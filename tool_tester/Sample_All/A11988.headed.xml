@@ -1,0 +1,4872 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The merry vviues of Windsor With the humours of Sir Iohn Falstaffe, as also the swaggering vaine of ancient Pistoll, and Corporall Nym. Written by William Shake-speare. Newly corrected.</TITLE><AUTHOR>Shakespeare, William, 1564-1616.</AUTHOR></TITLESTMT><EXTENT>Approx. 179 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2005-12 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A11988</IDNO>
+
+
+<IDNO TYPE="stc">STC 22301</IDNO>
+
+<IDNO TYPE="stc">ESTC S111208</IDNO>
+
+<IDNO TYPE="eebo citation">99846605</IDNO>
+
+<IDNO TYPE="proquest">99846605</IDNO>
+
+<IDNO TYPE="vid">11585</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A11988)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 11585)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1475-1640 ; 597:1)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The merry vviues of Windsor With the humours of Sir Iohn Falstaffe, as also the swaggering vaine of ancient Pistoll, and Corporall Nym. Written by William Shake-speare. Newly corrected.</TITLE><AUTHOR>Shakespeare, William, 1564-1616.</AUTHOR></TITLESTMT><EXTENT>[80] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed by T[homas] H[arper] for R. Meighen, and are to be sold at his shop, next to the Middle-Temple Gate, and in S. Dunstans Church-yard in Fleet-street,</PUBLISHER>
+<DATE>1630.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Partly in verse.</NOTE><NOTE>Printer's name from STC.</NOTE><NOTE>Signatures: A-K⁴.</NOTE><NOTE>The last leaf is blank.</NOTE><NOTE>Reproduction of the original in the Folger Shakespeare Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2005-06</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2005-06</DATE><RESPSTMT><RESP>Apex CoVantage</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2005-07</DATE><RESPSTMT><RESP>Andrew Kuster</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2005-07</DATE><RESPSTMT><RESP>Andrew Kuster</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2005-10</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A11988">
+<STC T="S">22301</STC>
+<BIBNO T="umi">99846605</BIBNO>
+<VID>11585</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<P>THE MERRY VVIVES OF WINDSOR.</P>
+<P>With the humours of Sir <HI>Iohn Falstaffe▪</HI> As also the swaggering vaine of Ancient <HI>Pistoll,</HI> and Corporall <HI>Nym.</HI></P>
+<P>Written by <HI>William Shake-Speare.</HI></P>
+<P><HI>Newly corrected.</HI></P>
+<P><FIGURE>
+</FIGURE></P>
+<P><HI>LONDON:</HI> Printed by <HI>T. H.</HI> for <HI>R. Meighen,</HI> and are to be sold at his Shop, next to the Middle-Temple Gate, and in <HI>S. Dunstans</HI> Church-yard in <HI>Fleet-street,</HI> 1630.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB REF="2" MS="y"/>
+<PB REF="2" MS="y"/>
+<HEAD>THE MERRY VVIVES OF VVINSOR.</HEAD>
+<DIV2 N="1" TYPE="act">
+<HEAD>Actus primus,</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Scena prima.</HEAD>
+<STAGE>Enter Iustice Shallow, Slender, Sir Hugh Euans, Master Page, Falstoffe, Bardolph, Nym, Pistoll, Anne Page, Mistresse Ford, Mistresse Page, Simple.</STAGE>
+<SP>
+<SPEAKER>Shallow.</SPEAKER>
+<P><SEG REND="decorInit">S</SEG>Ir <HI>Hugh,</HI> perswade mee not: I will make a Star-Chamber matter of it, if he were twenty Sir <HI>Iohn Falstoffe,</HI> hee shall not abuse <HI>Robert Shadow</HI> Esquire.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>In the County of <HI>Glocester,</HI> Iustice of Peace and Coram.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>I (Cosen <HI>Slender</HI>) and <HI>Cust▪ alorum.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I, and <HI>Rotulorum</HI> too; and a Gentleman borne (Master Parson) who writes himselfe <HI>Armigero,</HI> in any Bill, Warrant, Quittance, or Obligation, <HI>Armigero.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>I that I doe, and haue done any time these three hundred yeeres.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>All his successors (gone before him) hath don't: and all his Ancestors (that come after him) may: they may giue the dozen white Luces in their Coate.</P>
+</SP>
+<SP>
+<PB REF="3"/>
+<SPEAKER>Shal.</SPEAKER>
+<P>It is an olde Coate.</P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>The dozen white Lowses doe become an olde Coat well: it agrees well passant: It is a familiar beast to man, and signifies Loue.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>The Luse is the fresh-fish, the salt-fish is an old Coate.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I may quarter (Coz).</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>You may, by marrying.</P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>It is marring indeed, if he quarter it.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Not a whit.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Yes per-lady: if hee ha's a quarter of your coate, there is but three Shirts for your selfe, in my simple con∣iectures; but that is all one: if Sir <HI>Iohn Falstaffe</HI> haue com∣mitted disparagements vnto you▪ I am of the Church and will be glad to doe my beneuolence, to make attonements and compremises betweene you.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>The Councell shall heare it, it is a Riot.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>It is not meet the Councell heare a Riot: there is no feare of Got in a Riot: The Councell (looke you) shall desire to heare the feare of Got, and not to heare a Riot: take your viza-ments in that.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Ha; o'my life, if I were yong againe, the sword should end it.</P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>It is petter that friends is the sword, and end it: and there is also another deuice in my praine, which perad∣uenture prings goot discretions with it. There is <HI>Anne Page,</HI> which is daughter to Master <HI>Thomas Page,</HI> which is pretty virginity.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P><HI>Mistris Anne. Page?</HI> shee has browne haire, and speakes small like a woman.</P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>It is that ferry person for all the world, as iust as you will desire, and seuen hundred pounds of Moneies, and Gold, &amp; Siluer, is her Grand▪ sire vpon his deaths-bed (Got deliuer to a ioyfull resurrections) giue, when she is able to ouertake seuenteene yeeres old. It were a goot motion, if we leaue our pribbles and prabbles, and desire a marriage betweene Master▪ <HI>Abraham,</HI> and Mistris <HI>Anne Page.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>Did her Grand, sire leaue her seauen hundred pound▪</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>I, and her father is make her a petter penny.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I know the young Gentlewoman, she has good gifts.</P>
+</SP>
+<SP>
+<PB REF="3"/>
+<SPEAKER>Euan.</SPEAKER>
+<P>Seuen hundred pounds, &amp; possibilities, is goot gifts.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Wel, let vs see honest Master <HI>Page</HI> is <HI>Falstaffe</HI> there▪</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Shall I tell you a lye? I doe despise a lyer, as I doe despise one that is false, or as I despise one that is not true: the Knight Sir <HI>Iohn</HI> is there, and I beseech you be ruled by your well-willers: I will peat the doore for Master <HI>Page.</HI> What hoa? Got-plesse your house heere.</P>
+</SP>
+<SP>
+<SPEAKER>Master Page.</SPEAKER>
+<P>Who's there?</P>
+</SP>
+<SP>
+<SPEAKER>Euen.</SPEAKER>
+<P>Here is go 't's plesting and your friend, and Iustice <HI>Shallow,</HI> &amp; heere young Master <HI>Slender:</HI> that peraduentures shall tell you another tale, if matters grow to your likings.</P>
+</SP>
+<SP>
+<SPEAKER>Master Page.</SPEAKER>
+<P>I am glad to see your Worships well: I thanke you for my Venison Master <HI>Shallow.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Master <HI>Page,</HI> I am glad to see you: much good doe it your good heart: I wish'd your Venison better, it was ill killed: how doth good Mistresse <HI>Page?</HI> and I thanke you alwaies with my heart, la▪ with my heart.</P>
+</SP>
+<SP>
+<SPEAKER>M. Page.</SPEAKER>
+<P>Sir, I thanke you.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Sir, I thanke you: by yea, and no I doe.</P>
+</SP>
+<SP>
+<SPEAKER>M. Pa.</SPEAKER>
+<P>I am glad to see you, good Master <HI>Slender.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>How do's your fallow Greyhound, Sir, <HI>I</HI> heard say he was out▪ run on <HI>Cotsall.</HI></P>
+</SP>
+<SP>
+<SPEAKER>M. Pa.</SPEAKER>
+<P>It could not be iudg'd, Sir,</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>You'll not confesse: you'll not confesse.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>That hee will not, 'tis your fault: 'tis your fault: 'tis a good dogge.</P>
+</SP>
+<SP>
+<SPEAKER>M. Pa.</SPEAKER>
+<P>A Cur, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Sir: hee's a good dog, and a faire dog, can there be more said? he is good and faire. Is Sir <HI>Iohn Falstaffe</HI> heerr?</P>
+</SP>
+<SP>
+<SPEAKER>M. Pa.</SPEAKER>
+<P>Sir, hee is within: and <HI>I</HI> would <HI>I</HI> could doe a good office betweene you.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>It is spoke as a Christians ought to speake.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>He hath wrong'd me Master <HI>Page.</HI>)</P>
+</SP>
+<SP>
+<SPEAKER>M. Pa.</SPEAKER>
+<P>Sir, he doth in some sort confesse it.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>If it be confessed, it is not redressed; is not that so (M. <HI>Page?</HI>) he hath wrong'd me, indeed he hath, at a word he hath: belecue me, <HI>Robert Shallow</HI> Esquire, saith hee is wronged.</P>
+</SP>
+<SP>
+<PB REF="4"/>
+<SPEAKER>Ma. Pa.</SPEAKER>
+<P>Here comes Sir <HI>Iohn.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Now, Master <HI>Shallow,</HI> you'll complaine of me to the King?</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Knight, you haue beaten my men, kill'd my deere, and broke open my Lodge.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>But not kiss'd your Keepers daughter?</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Tut, a pin: this shall be answer'd.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<LG>
+<L>I will answer it strait, I haue done all this:</L>
+<L>That is now answer'd.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>The Councell shall know this.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>'T were better for you if it were known in Councell: you'll be laugh'd at.</P>
+</SP>
+<SP>
+<SPEAKER>Eu.</SPEAKER>
+<P><HI>Pauca verba;</HI> (Sir <HI>Iohn</HI>) good worts.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Good worts? good Cabidge; <HI>Slender,</HI> I broke your head: what matter haue you against me?</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>Marry sir, I haue matter in my head against you, and against your cony-catching Rascals, <HI>Bardolf, Nym,</HI> and <HI>Pistoll.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Bar.</SPEAKER>
+<P>You Banbery Cheese.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I, it is no matter.</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>How now, <HI>Mephostophilus?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I, it is no matter.</P>
+</SP>
+<SP>
+<SPEAKER>Nym.</SPEAKER>
+<P>Slice, I say; <HI>pauca, pauca:</HI> Slice, that's my humor:</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>Where's <HI>Simple</HI> my man? can you tell, Cosen?</P>
+</SP>
+<SP>
+<SPEAKER>Eua.</SPEAKER>
+<P>Peace, I pray you▪ now let vs vnderstand: there is three Vmpires in this matter, as I vnderstand; that is, Master <HI>Page</HI> (fidelicet Master <HI>Page,</HI>) and there is my selfe, (fidelicet my selfe) and the three party is (lastly, and finally) mine Host of the Garter.</P>
+</SP>
+<SP>
+<SPEAKER>Ma. Pa.</SPEAKER>
+<P>We three to heare it, and end it between them:</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Ferry goo't, I will make a priefe of it in my note∣booke, and we will afterwards orke vpon the cause, with as great discreetly as we can.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Pistoll.</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>He heares with eares.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>The Teuill and his Tam: what phrase is this? hee heares with eare? why, it is affectations.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P><HI>Pistoll,</HI> did you picke M. <HI>Slenders</HI> purse?</P>
+</SP>
+<SP>
+<PB REF="4"/>
+<SPEAKER>Slen.</SPEAKER>
+<P>I, by these gloues did he, or I would I might neuer come in mine owne great chamber againe else, of seauen groates in mill-sixpences, and two <HI>Edward</HI> Shouelboords, that cost me two shilling and two pence a peece of <HI>Yead Miller:</HI> by these gloues.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Is this true, <HI>Pistoll?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fuan.</SPEAKER>
+<P>No, it is false, if it is a picke-purse.</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>Ha, thou mountaine Forreyner: Sir <HI>Iohn,</HI> and Master mine, I combat challenge of this Latine Bilboe: word of deniall in thy <HI>labras</HI> here; word of deniall; froth, and scum thou liest.</P>
+</SP>
+<SP>
+<SPEAKER>Slen▪</SPEAKER>
+<P>By these gloues, then 'twas he.</P>
+</SP>
+<SP>
+<SPEAKER>Nym.</SPEAKER>
+<P>Be auis'd sir, and passe good humours: I will say marry trap with you, if you runne the nut-hooks humor on me, that is the very note of it.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>By this hat, then hee in the red face had it: for though I cannot remember what I did when you made me drunke, yet I am not altogether an asse.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>What say you <HI>Scarlet,</HI> and <HI>Iohn?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Bar.</SPEAKER>
+<P>Why sit, (for my part) I say the Gentleman had drunke himselfe out of his fiue sentences.</P>
+</SP>
+<SP>
+<SPEAKER>Eu.</SPEAKER>
+<P>It is his fi<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>e sences: fie, what the ignorance is.</P>
+</SP>
+<SP>
+<SPEAKER>Bar.</SPEAKER>
+<P>And being fap, sir, was (as they say) casheerd: and so conclusions past the Car-eires.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I, you spake in Latten then to: but 'tis no matter; Ile nere be drunke whilst I liue againe, but in honest, ciuill, god∣ly company for this tricke: if I be drunke, Ile bee drunke with those that haue the feare of God, and not with drunken knaues.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>So got udge me, that is a vertuous minde.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>You heare all these matters deni'd, Gentlemen; you heare it.</P>
+</SP>
+<SP>
+<SPEAKER>Ma. Page.</SPEAKER>
+<P>Nay daughter, carry the wine in, wee'll drinke within.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>Oh heauen: This is Mistresse <HI>Anne Page:</HI></P>
+</SP>
+<SP>
+<SPEAKER>Master Page.</SPEAKER>
+<P>How now Mistris <HI>Ford?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P><HI>Mistris Ford,</HI> by my troth you are very well met: by your leaue good Mistris.</P>
+</SP>
+<SP>
+<PB REF="5"/>
+<SPEAKER>Master Page.</SPEAKER>
+<P>Wife bid these gentlemen welcome: come, we haue a hot Venison pasty to dinner; Come gentlemen, I hope we shall drinke downe all vnkindnesse.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I had rather then forty shillings I had my booke of Songs and Sonnets heere: How now <HI>Simple,</HI> where haue you beene? I must wait on my selfe, must I? you haue not the booke of Riddles about you, haue you?</P>
+</SP>
+<SP>
+<SPEAKER>Sim.</SPEAKER>
+<P>Booke of Riddles? why did you not lend it to <HI>Alice Short-cake</HI> vpon Alhallowmas last, a fortnight afore Mi∣chaelmas.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Come Coz, come Coz, wee stay for you: a word with you Coz: marry this there is as 'twere a tender, a kinde of tender, made a faire-off by Sir <HI>Hugh</HI> here: doe you vn∣derstand me?</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I Sir, you shall finde me reasonable, if it be so, I shall doe that that it reason.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Nay, but vnderstand me▪</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>So I doe Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Giue care to his motions; <HI>(Master Slender) I</HI> will description the matter to you, if you be capacity of it.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>Nay, I will doe as my Cozen <HI>Shallow</HI> saies: <HI>I</HI> pray you pardon me, he's a Iustice of Peace in his Countrie, simple though I stand here.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>But that is not the question: the question is con∣cerning your marriage.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>I, there's the point Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Eu.</SPEAKER>
+<P>Marry is it▪ the very point of it, to Mist. <HI>Anne▪ Page.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>Why if it be so▪ <HI>I</HI> will marry hervpon any reason∣able demands.</P>
+</SP>
+<SP>
+<SPEAKER>Eu.</SPEAKER>
+<P>But can you affection the'o man, let vs command to know that of your mouth, or of your lips: for diners Philosophers hold, that the lips is parcell of the mouth▪ therefore precisely, can you carry your good will to the maide?</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Cosen <HI>Abraham Slender,</HI> can you loue her?</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I hope sir, I will doe as it shall become one that would doe reason.</P>
+</SP>
+<SP>
+<SPEAKER>Euan:</SPEAKER>
+<P>Nay, got's Lords, and his Ladies, you must speake
+<PB REF="5"/>
+possitable, if you can carry-her your desires towards her.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>That you must.</P>
+<P>Will you, (vpon good dowry) marry her?</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P><HI>I</HI> will doe a greater thing then that, vpon your re∣quest (Cosen) in any reason.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Nay conceiue mee, conceiue mee, (sweet Coz): what <HI>I</HI> doe is to pleasure you (Coz) can you loue the maid?</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P><HI>I</HI> will marry her (Sir) at your request; but if there be no great loue in the beginning, yet Heauen may decrease it vpon better acquaintance, when wee are married, and haue more occasion to know one another; <HI>I</HI> hope vpon familiarity will grow more content; but if you say mary-her, <HI>I</HI> will mary-her, that <HI>I</HI> am freely dissolued, and dissolutely.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>It is a fery discretion-answere; saue the fall is in the'ord, dissolutely; the ort is (according to our meaning) resolutely: his meaning is good.</P>
+</SP>
+<SP>
+<SPEAKER>Sh▪</SPEAKER>
+<P><HI>I, I</HI> thinke my Cosen meant well.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P><HI>I</HI> or else <HI>I</HI> would <HI>I</HI> might be hang'd (la▪)</P>
+</SP>
+<SP>
+<SPEAKER>Sh.</SPEAKER>
+<P>Here comes faire Mistris <HI>Anne;</HI> would I were yong for your sake, Mistris <HI>Anne.</HI></P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>The dinner is on the Table, my Father desires your worships company.</P>
+</SP>
+<SP>
+<SPEAKER>Sh.</SPEAKER>
+<P><HI>I</HI> will wait on him, (faire Mistris <HI>Anee.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Od's plessed-will; <HI>I</HI> will not be absence at the grace</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Wil't please your worship to come in, Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Sl.</SPEAKER>
+<P>No, <HI>I</HI> thanke you forsooth, hartely; <HI>I</HI> am very well.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>The dinner attends you Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Sl.</SPEAKER>
+<P><HI>I</HI> am not a hungry, <HI>I</HI> thanke you, forsooth; goe Sirha, for all you are my man, goe waite vpon my Cosen <HI>Shallow;</HI> a Iustice of peace sometime may be beholding to his friend, for a Man; <HI>I</HI> keepe but three Men and a Boy yet, till my Mother be dead; but what though, yet <HI>I</HI> liue like a a poore Gentleman borne.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P><HI>I</HI> may not goe in without your worship; they will not sit till you come.</P>
+</SP>
+<SP>
+<PB REF="6"/>
+<SPEAKER>Slen.</SPEAKER>
+<P>I▪faith, ile eate nothing, I thanke you as much as though I did.</P>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<P>I pray you Sir walke in.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I had rather walke here (I thanke you) I bruiz'd my shin th'other day, with playing at Sword and Dagger with a Master of Fence (three veneys for a dish of slew'd Prunes) and by my troth, I cannot abide the smell of hot meat since. Why doe your dogs barke so? be there Beares ith' Towne?</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>I thinke there are, Sir, I heard them talk'd of.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I loue the sport well, but I shall as soone quarrell at it, as any man in <HI>England,</HI> you are afraid if you see the Beare loose, are you not?</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>I indeede Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>That's meate and drinke to me now; I haue seene <HI>Sackerson</HI> loose, twenty times, and haue taken him by the Chaine, but (I warrant you) the women haue so cride and shrekt at it, that it past. But women indeede, cannot abide'em, they are very ill-fauour'd rough things.</P>
+</SP>
+<SP>
+<SPEAKER>Ma. Pa.</SPEAKER>
+<P>Come, gentle M. <HI>Slender,</HI> come; we stay for you.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>Ile eate nothing, I thanke you Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Ma. Pa.</SPEAKER>
+<P>By cocke and pie, you shall not choose, Sir: come, come.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>Nay, pray you lead the way.</P>
+</SP>
+<SP>
+<SPEAKER>Ma. Pa.</SPEAKER>
+<P>Come on Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>Mistris <HI>Anne:</HI> your selfe shall goe first.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Not I Sir, pray you keepe on.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>Truely I will not goe first, truely-la▪ I will not doe you that wrong.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>I pray you Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>Ile rather be vnmannerly, then troublesome, you do your selfe wrong indeede-la.</P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Scena Secunda.</HEAD>
+<STAGE>Enter Euans, and Simple.</STAGE>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Go your wayes, and aske of Doctor <HI>Caius</HI> house,
+<PB REF="6"/>
+which is the way; and there dwels one Mistris <HI>Quickly;</HI> which is in the manner of his Nurse; or his dry-Nurse; or his Cooke; or his Laundry; his Washer, and his Ringer.</P>
+</SP>
+<SP>
+<SPEAKER>Si.</SPEAKER>
+<P>Well Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Nay, it is petter yet; giue her this letter; for▪t is a'oman that altogeathers acquaintance with Mistris <HI>Anne Page;</HI> and the Letter is to desire, and require her to solicite your Masters desires, to Mistris <HI>Anne Page.</HI> I pray you bee gon: I will make an end of my dinner; ther's Pippins and Cheese to come.</P>
+<STAGE>Exeunt▪</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>Scena Tertia.</HEAD>
+<STAGE>Enter Falstaeffe, Host, Bardolfe, Nym, Pistoll, Page.</STAGE>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Mine <HI>Host</HI> of the <HI>Garter?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<P>What saies my Bully Rooke? speake schollerly, and wisely.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Truely mine <HI>Host;</HI> I must turne away some of my followers.</P>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<P>Discard, (bully <HI>Hercules</HI>) casheere; let them wag; trot, trot.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>I sit at ten pounds a weeke.</P>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<P>Thou'rt an Emperor (<HI>Cesar, Keiser</HI> and <HI>Pheazar</HI>) I will entertaine <HI>Bardolfe;</HI> he shall draw; he shall tap; said I well (bully <HI>Hector?</HI>)</P>
+</SP>
+<SP>
+<SPEAKER>Fa.</SPEAKER>
+<P>Doe so (good mine <HI>Host.</HI>)</P>
+</SP>
+<SP>
+<SPEAKER>Ho.</SPEAKER>
+<P>I haue spoke, let him follow, let me see thee froth, and liue: <HI>I</HI> am at a word: follow.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P><HI>Bardolfe,</HI> follow him; a <HI>Tapster</HI> is a good trade, an old Cloake, makes a new Ierkin, a wither'd Seruingman, a fresh Tapster; goe, adew.</P>
+</SP>
+<SP>
+<SPEAKER>Ba.</SPEAKER>
+<P>It is a life that <HI>I</HI> haue desir'd, <HI>I</HI> will thriue.</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>O base hungarian wight, wilt thou the spigot wield:</P>
+</SP>
+<SP>
+<SPEAKER>Ni.</SPEAKER>
+<P>He was gotten in drinke, is not the humor conceited</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P><HI>I</HI> am glad <HI>I</HI> am so acquit of this Tinderbox, his Thefts were too open, his filching was like an vnskilfull Singer, he kept not time.</P>
+</SP>
+<SP>
+<PB REF="7"/>
+<SPEAKER>Nim.</SPEAKER>
+<P>The good humor is to steale at a minuntes rest.</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>Conuay: the wise it call: Steale? foh: a fico for the phrase.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Well sirs, I am almost out at heeles.</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>Why then let Kibes ensue.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>There is no remedy: I must conicatch, I must shift,</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>Yong Rauens must haue foode.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Which of you know <HI>Ford</HI> of this Towne?</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>I ken the wight; he is of substance good.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>My honest Lads, I will tell you what I am about.</P>
+</SP>
+<SP>
+<SPEAKER>Pist,</SPEAKER>
+<P>Two yards, and more.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>No quips now <HI>Pistoll;</HI> (Indeede I am in the wast two yards about; but I am now about no waste: I am a∣bout thrift) briefely; I doe meane to make loue to <HI>Fords</HI> wife; I spie entertainment in her, shee discourses, shee craues, she giues the leere of inuitation; I can construe the action of her familier stile, and the hardest voice of her behauior (to be english'd rightly) is <HI>I am Sir Iohn Falstafs.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>He hath studied her will; and translated her will out of honesty, into English.</P>
+</SP>
+<SP>
+<SPEAKER>Ni.</SPEAKER>
+<P>The Anchor is deepe; will that humor passe?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Now, the report goes, she has all the rule of her hus∣bands Purse; he hath a legend of Angels.</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>As many diuels entertaine; and to her Boy say I.</P>
+</SP>
+<SP>
+<SPEAKER>Ni</SPEAKER>
+<P>The humor rises it is good; humor me the angels.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>I haue writ me here a letter to her; and here another to <HI>Pages</HI> wife, who euen now gaue me good eyes too; exa∣mind my parts with most iudicious illiads; sometimes the beame of her view, guilded my foote, sometimes my portly belly.</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>Then did the Sun on dung-hill shine.</P>
+</SP>
+<SP>
+<SPEAKER>Ni.</SPEAKER>
+<P>I thanke thee for that humour.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>O she did so course o're my exteriors with such a greedy intention, that the appetite of her eye, did seeme to scorch mee vp like a burning-glasse; here's another letter to her; She beares the Purie too; Shee is a Region in <HI>Guiana;</HI> all gold, and bountie; I will be Cheaters to them both, and they shall be Exchequers to mee; they
+<PB REF="7"/>
+shall be my East and West Indies, and I will trade to them both; Goe, beare thou this Letter to Mistris <HI>Page;</HI> and thou this to Mistris <HI>Ford;</HI> wee will thriue (Lads) wee will thriue.</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<LG>
+<L>Shall I Sir <HI>Pandarus</HI> of <HI>Troy</HI> become,</L>
+<L>And by my side weare Steele? then Lucifer take all.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ni.</SPEAKER>
+<LG>
+<L>I will run no base humor; here take the humor-Letter;</L>
+<L>I will keepe the hauior of reputation.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<LG>
+<L>Hold Sirha, beare you these Letters rightly,</L>
+<L>Saile like my Pinnasse to these golden shores.</L>
+<L>Rogues, hence, auaunt, vanish like haile-stones; goe,</L>
+<L>Trudge; plod away ith' hoose: seeke shelter, packe,</L>
+<L><HI>Falstaffe</HI> will learne the honor of the age,</L>
+<L>French thrift, you Rogues, my selfe, and skirted <HI>Page.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<LG>
+<L>Let Vultures gripe thy guts, for gourd, and Fullam</L>
+<L>holds, and high and low beguiles the rich and poore,</L>
+<L>Tester ile haue in pouch when thou shalt lacke,</L>
+<L>Base <HI>Phrygian</HI> Turke.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ni.</SPEAKER>
+<LG>
+<L>I haue opperations.</L>
+<L>Which be humors of reuenge.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>Wilt thou reuenge?</P>
+</SP>
+<SP>
+<SPEAKER>Ni.</SPEAKER>
+<P>By Welkin, and her Star.</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>With wit, or Steele?</P>
+</SP>
+<SP>
+<SPEAKER>Ni.</SPEAKER>
+<LG>
+<L>With both the humors, I;</L>
+<L>I will discusse the humour of this Loue to <HI>Ford.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<LG>
+<L>And I to <HI>Page</HI> shall eke vnfold</L>
+<L>How <HI>Falstaffe</HI> (varlet vile)</L>
+<L>His Doue will proue; his gold will hold,</L>
+<L>And his soft couch defile.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ni.</SPEAKER>
+<P>My humor shall not coole; I will incense <HI>Ford,</HI> to deale with poyson; I will possesse him with yallow∣nesse, for the reuolt of mine is dangerous; that is my true humour.</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>Thou art the <HI>Mars</HI> of <HI>Malecontents; I</HI> second thee; troope on.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<PB REF="8"/>
+<HEAD>Scoena Quarta:</HEAD>
+<STAGE>Enter Mistris Quickly, Simple, Iohn Rugby, Doctor Caius, Fenton.</STAGE>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>What, <HI>Iohn Rugby,</HI> I pray thee goe to the Casement, and see if you can see my Master, Master Doctor <HI>Caius</HI> com∣ming; if he do (I'faith) and finde any body in the house; here will be an old abusing of Gods patience, and the Kings English.</P>
+</SP>
+<SP>
+<SPEAKER>Ru.</SPEAKER>
+<P>Ile goe watch.</P>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>Goe, and we'll haue a posset for't soone at night, (in faith) at the latter end of a Sea-cole-fire: An honest, willing, kinde fellow, as euer seruant shall come in house withall: &amp; I warrant you, no tel-tale, nor no breedebate: his worst fault is, that he is giuen to prayer; hee is something peeuish that way: but no body but has his fault: but let that passe. <HI>Peter Simple,</HI> you say your name is?</P>
+</SP>
+<SP>
+<SPEAKER>Si.</SPEAKER>
+<P>I, for fault of a better.</P>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>And Master <HI>Slender's</HI> your Master?</P>
+</SP>
+<SP>
+<SPEAKER>Si.</SPEAKER>
+<P>I forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Do's he not weare a great round Beard, like a Glouers paring-knife?</P>
+</SP>
+<SP>
+<SPEAKER>Si.</SPEAKER>
+<P>No forsooth, he hath but a little wee-face; with a little yellow Beard, a Caine colourd Beard.</P>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>A softtly-sprighted man, is he not?</P>
+</SP>
+<SP>
+<SPEAKER>Si.</SPEAKER>
+<P>I forsooth, but he is as tall a man of his hands, as any is betweene this and his head; hee hath fought with a Warrener.</P>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>How say you; oh, I should remember him, do's hee not hold vp his head (as it were?) and strut in his gate?</P>
+</SP>
+<SP>
+<SPEAKER>Si.</SPEAKER>
+<P>Yes indeede do's he.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Well, heauen send <HI>Anne Page,</HI> no worse fortune, Tell Master Parson, <HI>Euans,</HI> I will doe what I can for your Master; <HI>Anne</HI> is a good girle, and I wish—</P>
+</SP>
+<SP>
+<SPEAKER>Ru.</SPEAKER>
+<P>Out alas, here comes my Master.</P>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>Wee shall all be shent; Run in here, good young
+<PB REF="8"/>
+man, goe into this Closset: hee will not stay long? what <HI>Iohn Rugby? Iohn;</HI> what <HI>Iohn</HI> I say? goe <HI>Iohn,</HI> goe enquire for my Master, I doubt hee be not well, that hee comes not home, (<HI>and downe, downe, downe'a, &amp;c.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<P>Vat is you sing? I doe not like des-toyes, pray you goe and vetch me in my Closst, vnboyteene verd; a Box, a greene-a-Box; do intend vat I speake? greene-a-Box.</P>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>I forsooth ile fetch it you: I am glad hee went not in himselfe: if hee had found the yong man he would haue beene horne-mad.</P>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<P>Fe, fe, fe, fe, mai foy, il fait for chando, le man voi a le Court la grand affaires.</P>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>Is it this Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<LG>
+<L>Ouy mette le au mon pocket, de-peech quickly:</L>
+<L>Vere is dat knaue <HI>Rugby?</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>What <HI>Iohn Rugby, Iohn?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ru.</SPEAKER>
+<P>Here Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<P>You are <HI>Iohn Rugby,</HI> and you are <HI>Iacke Rugby;</HI> Come, take your Rapier, and come after my heele to the Court.</P>
+</SP>
+<SP>
+<SPEAKER>Ru.</SPEAKER>
+<P>'Tis ready Sir, here in the Porch.</P>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<P>By my trot, I tarry too long, od's-me: <HI>que ay ie oublie</HI> dere is some Simples in my Closset, dat I vill not for the varld I shall leaue behinde.</P>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>Ay-me, he'll finde the yong man there, and be mad▪</P>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<LG>
+<L>O <HI>Diable, Diable;</HI> vat is in my Closset?</L>
+<L>Villaine, La-roone; <HI>Rugby,</HI> my Rapier.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Qu,</SPEAKER>
+<P>Good Master be content.</P>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<P>Wherefore shall I be content-a?</P>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>The yong man is an honest man.</P>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<P>What shall de honest man do in my Closset, here is no honest man dat shall come in my Closset.</P>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>I beseech you be not so flegmaticke; heare the truth of it. He came of an errand to mee, from Parson <HI>Hugh.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<P>Vell.</P>
+</SP>
+<SP>
+<SPEAKER>Si.</SPEAKER>
+<P>I forsooth: to desire her to—</P>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>Peace, I pray you.</P>
+</SP>
+<SP>
+<PB REF="9"/>
+<SPEAKER>Ca.</SPEAKER>
+<P>Peace-a-your tongue: speake-a-your Tale.</P>
+</SP>
+<SP>
+<SPEAKER>Si.</SPEAKER>
+<P>To desire this honest Gentlewoman (your Maid) to speake a good word to Mistris <HI>Anne Page,</HI> for my Master in the way of Marriage.</P>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>This is all indeed-la: but ile nere put my finger in the fire, and neede not.</P>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<P>Sir <HI>Hugh</HI> send-a you? <HI>Rugby,</HI> ballow me some paper: tarry you a littell-a while.</P>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>I am glad hee is so quiet: if hee had bin throughly moued, you should haue heard him so loud, and so me∣lancholly; but notwithstanding man, Ile doe yoe your Master what good I can; and the very yea, and the no is that French Doctor my Master, (I may call him my Master, looke you, for I keepe his house; and I wash, ring, brew, bake, scowre, dresse meate and drinke, make the beds, and doe all my selfe.)</P>
+</SP>
+<SP>
+<SPEAKER>Simp.</SPEAKER>
+<P>'Tis a great charge to come vnder one bodies hand.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Are you a uis'd o' that? you shall finde it a great charge: and to be vp early, and downe late; but notwith∣standing, (to tell you in your eare, I would haue no words of it) my Master himselfe is in loue with Mistris <HI>Anne Page;</HI> but notwithstanding that I know <HI>Ans</HI> mind, that's neither heere nor there.</P>
+</SP>
+<SP>
+<SPEAKER>Caius.</SPEAKER>
+<P>You, Iack 'Nape; glue-'a this Letter to Sir <HI>Hugh,</HI> by gar it is a shallenge: I will cut his troat in de Parke, and I will teach a scuruy Iack-a-nape Priest to meddle, or make:—you may be gon: it is not good you tarry here; by gar I will cut all his two stones; by gar, he shall not haue a stone to throw at his dogge.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Alas, he speakes but for his friend.</P>
+</SP>
+<SP>
+<SPEAKER>Caius.</SPEAKER>
+<P>It is no matter'a v<GAP DESC="illegible" REASON="faint" EXTENT="1 letter" DISP="•"/>r dat; do not you tell-a-me dat I shall haue <HI>Anne Page</HI> for my selfe? by gar, I vill kill de Iacke Priest; and I haue appointed mine Host of de Iarteer to measure our weapon, by gar, I will my selfe haue <HI>Anne Page.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Sir, the maid loues you, and all shall bee well; Wee must giue folkes leaue to pr<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>te; what the good ier.</P>
+</SP>
+<SP>
+<PB REF="9"/>
+<SPEAKER>Caius.</SPEAKER>
+<P><HI>Rugby,</HI> come to the Court with me: by gar, if <HI>I</HI> haue not <HI>Anne Page, I</HI> shall turne your head out of my dore: follow my heeles, <HI>Rugby.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>You shall haue <HI>An</HI>-fooles head of your owne; No, <HI>I</HI> know <HI>Ans</HI> mind for that; neuer a woman in <HI>Windsor</HI> knowes more of <HI>Ans</HI> minde then <HI>I</HI> doe, nor can doe more then <HI>I</HI> doe with her, <HI>I</HI> thanke heauen.</P>
+</SP>
+<SP>
+<SPEAKER>Fenton.</SPEAKER>
+<P>Who's with in there, hoa?</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Who's there, <HI>I</HI> troa? Come neere the house <HI>I</HI> pray you.</P>
+</SP>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<P>How now (good woman) how dost thou?</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>The better that it pleases your good Worship to aske?</P>
+</SP>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<P>What newes? how do's pretty Mistris <HI>Anne?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>In truth Sir, and shee is pretty, and honest, and gen∣tle, and one that is your friend, I can tell you that by the way, I praise heauen for it.</P>
+</SP>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<P>Shall <HI>I</HI> doe any good thinkst thou? shall <HI>I</HI> not loose my suit?</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Troth Sir, all is in his hands aboue; but not∣withstanding (Master <HI>Fenton</HI>) Ile be sworne on a booke shee loues you; haue not your Worship a wart aboue your eye?</P>
+</SP>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<P>Yes marry haue I, what of that?</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Well, thereby hangs a tale; good faith, it is such an∣other <HI>Nan;</HI> (but (I detest) an honest maid as euer broke bread: wee had an howres talke of that wart; I shall neuer laugh but in that maids company, but (indeed) shee is giuen too much to Allicholy and musing; but for you—well—goe too—.</P>
+</SP>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<P>Well, I shall see her to day; hold, there's money for thee. Let mee haue thy voice in my behalfe; if thou seest her before me, commend me.—</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Willi<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>? I faith that wee will; And I will tell your Worship more of the Wart, the next time we haue confi∣dence, and of other wooers.</P>
+</SP>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<P>Well, fare-well, I am in great haste now.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Fare-well to your Worship; truely an honest
+<PB REF="10"/>
+Gentleman: but <HI>Anne</HI> loues him not, for <HI>I</HI> know <HI>Ans</HI> minde as well as another do's, out vpon't, what haue <HI>I</HI> forgot.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<HEAD>Actus Secundus.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Scoena Prima.</HEAD>
+<STAGE>Enter Mistris Page, Mistris Ford, Master Page, Master Ford, Pistoll, Nim, Quickly, Host, Shallow.</STAGE>
+<SP>
+<SPEAKER>Mi. Page.</SPEAKER>
+<P>What, haue <HI>I</HI> scap'd Loue-letters in the holly∣day-time of my beauty, and am <HI>I</HI> now a subiect for them? let me see.</P>
+<P>Aske me no reason why I loue you, for though Loue vse Rea∣son for his precisian, hee admits him not for his Counsailour: you are not young, no more am I: goe to then, there's simpathie: you are merry▪ so am I: ha, ha, then there's more simpathie: you loue sacke, and so doe I: would yout desire better simpathie? Let it suffice thee (Mistris Page) at the least if the Loue of Souldier can suffice, that I loue thee: I will not say pitty mee, 'tis not a Souldier-like phrase; but I say▪ loue me:</P>
+<LG>
+<L>By me, thine owne true Knight, by day or night:</L>
+<L>Or any kinde of light, with all his might,</L>
+<L>For thee to fight, Iohn Falstaffe.</L>
+</LG>
+<LG>
+<L>What a <HI>Herod</HI> of <HI>Iurie</HI> is this? O wicked, wicked world.</L>
+<L>One that is well-nye worne to peeces with age</L>
+<L>To show himselfe a young Gallant? What an vnwaied</L>
+</LG>
+<P>Behauiour hath this Flemish drunkard pickt (with The Deuills name) out of my conuersation, that hee dares In this manner assay me? why, hee hath not beene thrice In my Company, what should <HI>I</HI> say to him? <HI>I</HI> was then Frugall of my mirth: (heauen forgiue mee,) why ile Exhibit a Bill in the Parliament for the putting downe of men, how shall I be reueng'd on him? for reueng'd I will be? as sure as his guts are made of puddings.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P><HI>Mistris Page,</HI> trust me, I was going to your house.</P>
+</SP>
+<SP>
+<PB REF="10"/>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>And trust me, I was going to you: you looke very ill.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Nay, ile nere beleeue that; I haue to shew to the contrary.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page</SPEAKER>
+<P>'Faith but you doe in my minde.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Fords</SPEAKER>
+<P>Well: I doe then; yet I say, I could shew you to the contrary; O Mistris <HI>Page,</HI> giue mee some coun∣saile.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>What's the matter, woman?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>O woman; if it were not for one trifling re∣spect, I could come to such honour.</P>
+</SP>
+<SP>
+<SPEAKER>Mis▪ Page.</SPEAKER>
+<P>Hang the trifle (woman) take the honour; what is it? dispence with trifles; what is it?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>If I would but goe to hell, for an eternall mo∣ment, or so; I could be knighted.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>What thou liest? Sir <HI>Alice Ford?</HI> these Knights will hacke, and so thou shouldst not alter the article of thy Gentry.</P>
+</SP>
+<SP>
+<SPEAKER>Mis▪ Ford.</SPEAKER>
+<P>Wee burne day-light; heere, read, read; perceiue how I might be knighted, I shall thinke the worse of fat men, as long as I haue an eye to make difference of mens liking; and yet hee would not sweare: praise womens modesty; and gaue such orderly and welbeha∣ued reproofe to all vncomelinesse, that I would haue sworn his disposition would haue gone to the truth of his words: but they doe no more adhere and keepe place to∣gether, then the hundred Psalmes to the tune of Greene∣sleeues: What tempest (I troa) threw this Whale, (with so many Tuns of oyle in his belly) a'shoare at Windsor? How shall I be reuenged on him? I thinke the best way were, to entertaine him with hope, till the wicked fire of lust haue melted him in his owne grease. Did you euer heare the like?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Letter for letter; but that the name of <HI>Page</HI> and <HI>Ford</HI> differs; to thy great comfort in this my∣stery of ill opinions, heer's the twyn-brother of thy Let∣ter; but let thine inherit first, for I protest mine neuer shall: I warrant hee hath a thousand of these Letters, writ
+<PB REF="11"/>
+with blancke space for different names (sure more) &amp; these are of the second edition; he wil print them out of doubt, for he cares not what he puts into the presse, when he would put vs two; I had rather be a Giantesse &amp; lye vnder Mount <HI><GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>elion.</HI> Well; I will finde you twentie lascioious Turtles ere one chaste man.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Why this is the very same; the very hand, the very words, what doth he thinke of vs?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Nay I know not; it makes me almost rea∣die to wrangle with mine owne honesty; Ile entertaine my selfe like one that I am not acquainted withall, for sure vnlesse hee know some straine in mee, that I know not my selfe, hee would neuer haue boorded me in this furie.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Boording, call you it? Ile be sure to keepe him aboue decke.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>So will I, if hee come vnder my hatches, Ile neuer to Sea againe. Let's be reueng'd on him; let's appoint him a meeting, giue him a show of comfort in his Suite, and lead him on with a fine baited delay, till hee hath pawn'd his horses to mine Host of the Garter.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Nay, I will consent to act any villany against him, that may not sully the charinesse of our honesty; oh that my husband saw this Letter; it would giue eternall food to his iealousie.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Why looke where he comes; and my good man too; hee's as farre from iealousie, as I am from gi∣uing him cause, and that (I hope) is an vnmeasurable di∣stance:</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>You are the happier woman.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Let's consult together against this greasie Knight; Come hither.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Well, I hope, it be not so.</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<LG>
+<L>Hope is a curtall-dog in some affaires;</L>
+<L><HI>Sir Iohn</HI> affects thy wife.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Why sir, my wife is not young.</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>He wooes both high and low, both rich and poore, both young and old, one with another (<HI>Ford</HI>) he loues the
+<PB REF="11"/>
+Gally-mawfry (<HI>Ford</HI>) perpend.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Loue my wife?</P>
+</SP>
+<SP>
+<SPEAKER>Pistoll.</SPEAKER>
+<LG>
+<L>With liuer, burning hot: preuent:</L>
+<L>Ot goe thou like Sir <HI>Acteon</HI> he, with</L>
+<L>Ring-wood at thy heeles: O, odious is the name.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>What name Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<LG>
+<L>The horne I say▪ Farewell.</L>
+<L>Take heed, haue open eye, for theeues doe foot by night.</L>
+<L>Take heed, ere sommer comes, or Cuckoo▪ birds doe sing.</L>
+<L>Away sir Corporall <HI>Nim.</HI></L>
+<L>Beleeue it (<HI>Page</HI>) he speakes sence.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>I will be patient; I will finde out this.</P>
+</SP>
+<SP>
+<SPEAKER>Nim.</SPEAKER>
+<P>And this is true; I like not the humor of lying, hee haue wronged mee in some humors; I should haue borne the humour'd Letter to her, but I haue a sword, and it shall bite vpon my necessitie, he loues your wife; There's the sh<GAP DESC="illegible" REASON="blotted" EXTENT="2 letters" DISP="••"/>t and the long: My name is Corporall <HI>Nim,</HI> I speak, and I auouch; 'tis true: my name is <HI>Nim,</HI> and <HI>Falstoffe</HI> loues your wife, adieu, I loue not the humour of bread &amp; cheese: adieu.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>The humour of it (quoth'a▪) heere's a fellow frights English out of his wits.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>I will seeke out <HI>Falstaffe.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>I neuer heard such a drawling-affecting rogue▪</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>If I doe finde it: well▪</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>I will not beleeue such a <HI>Catai<GAP DESC="illegible" REASON="blotted" EXTENT="2 letters" DISP="••"/>,</HI> though the Priest o'th'Towne commended him for a true man.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>'Twas a good sensible fellow, well.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>How now <HI>Meg?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Whither goe you (<HI>George?</HI>) harke you.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>How now (sweet <HI>Frank</HI>) why art thou me▪ lancholy?</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<LG>
+<L>I melancholy? I am not melancholy:</L>
+<L>Get you home, goe.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Faith, thou hast some crochets in thy head, Now, will you goe, <HI>Mistris Page?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Haue with you, you'll come to dinner <HI>George▪</HI> Looke who comes yonder; shee shall bee our Messenger
+<PB REF="12"/>
+to this paltrie Knight:</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Trust me, I thought on her; shee'll fit it:</P>
+</SP>
+<SP>
+<SPEAKER>M. Page.</SPEAKER>
+<P>You are come to see my daughter <HI>Anne?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Qui,</SPEAKER>
+<P>I forsooth: and I pray how do's good Mistresse <HI>Anne?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Go in with vs and see, wee haue an houres talke with you.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>How now Master <HI>Ford?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>You heard what this knaue told me, did you not?</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Yes, and you heard what the other told me?</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Doe you thinke there is truth in them?</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Hang ▪em slaues: I doe not thinke the Knight would offer it: But these that accuse him in his intent to∣wards our wiues, are a yoake of his discarded men, very rogues, now they be out of seruice▪</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Were they his men?</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Marry were they.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<LG>
+<L>I like it neuer the better for that,</L>
+<L>Do's he lye at the Garter?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>I marry do's he: if hee should intend this voyage toward my wife, I would turne her loose to him, and what hee gets more of her, then sharpe words, let it lye on my head.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>I doe not misdoubt my wife, but I would be Ioath to turne them together, a man may bee too confident, I would haue nothing lye on my head, I cannot be thus satis∣fied.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Looke where my ranting-Host of the Garter comes: there is either liquor in his pate, or mony in his purse, when hee lookes so merrily: How now mine Host?</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>How now Bully-Rooke, thou'rt a Gentleman, Ca∣ueleiro Iustice, I say.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>I follow, (mine Host) I follow, Good-euen, and twenty (good Master <HI>Page</HI>) Master <HI>Page,</HI> will you go with vs? we haue sport in hand.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Tell him Caueleiro-Iustice: tell him Bully-Rooke.</P>
+</SP>
+<SP>
+<PB REF="12"/>
+<SPEAKER>Shal.</SPEAKER>
+<P>Sir, there is a fray to be fought, betweene Sir <HI>Huge</HI> the Welch Priest, and <HI>Caius</HI> the French Doctor.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Good mine Host o'th'Garter, a word with you.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>What saist thou, my Bully-Rooke?</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Will you goe with vs to behold it? My merry Host hath had the measuring of their weapons, and (I thinke) appointed them contrary places: for (beleeue me) I heare the Parson is no Iester▪ harke, I will tell you what our sport shall be.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Hast thou no suit against my Knight? my guest-Caualeire?</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>None, I protest, but ile giue you a pottle of burn'd sacke, to giue me recourse to him, and tell him my name is <HI>Broome,</HI> onely for a iest.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>My hand, (Bully,) thou shalt haue egresse and re∣gresse, (said I well▪) and thy name shall be <HI>Broome.</HI> It is a merry Knight, will you goe An-heires?</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Haue with you mine Host.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>I haue heard the French-man hath good skill in his Rapier.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Tut Sir, I could haue told you more. In these times you stand on distance, your Passes, Stoccado's, and I know not what: 'tis the heart (Master <HI>Page,</HI>) 'tis heere, 'tis heere, I haue seene the time, with my long-sword, I would haue made you fowre tall fellowes skippe like Rattes.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Heere boyes, heere, heere, shall we wag?</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Haue with you, I had rather heare them scold, then fight.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Though <HI>Page</HI> be a secure foole, and stands so firme∣ly on his wiues frailty: yet, I cannot put-off my opinion so easily, she was in his company at <HI>Pages</HI> house, and what they made there, I know not. Well, I will looke further in∣to't, and I haue a disguise, to sound <HI>Falstaffe,</HI> if I finde her honest, I loose not my labour, if shee be otherwise, 'tis la∣bour well bestowed.</P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<PB REF="13"/>
+<HEAD>Scoena Secunda.</HEAD>
+<STAGE>Enter Falstaffe, Pistoll, Robin, Quickly, Bardolffe, Ford.</STAGE>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>I will not lend thee a penny.</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>Why then the world's mine Oyster, which I, with sword will open.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Not a penny, I haue beene content (Sir,) you should lay my countenance to pawne; I haue granted vp∣on my good friends for three Repreeues for, and your Coach▪ fellow <HI>Nim,</HI> or else you had look'd through the grate, like a Geminy of Baboones: I am damn'd in hell, for swearing to Gentlemen my friends, you were good Souldiers, and tall-fellowes. And when Mistresse <HI>Briget</HI> lost the handle of her Fan, I took't vpon mine honour thou hadst it not.</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>Didst not thou share? hadst thou not fifteene pence?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Reason, you roague, reason; thinkst thou Ile en∣danger my soule, <HI>gratis?</HI> at a word, hang no more about mee, I am no gibbet for you: goe, a short knife, and a throng, to your Mannor of <HI>Pickt-hatch;</HI> goe, you'll not beare a Letter for mee you roague? you stand vpon your honour: why, (thou vnconfinable basenesse) it is as much as I can doe to keepe the termes of my honour precise; I, I, I my selfe sometimes, leauing the feare of heauen on the left hand, and hiding mine honor in my necessity, am faine to shuffle: to hedge, and to lurch, and yet, you Rogue, will en-sconce your raggs; your Cat-a-Moun∣taine-lookes, your red-lattice phrases, &amp; your boldbeating∣oathes, vnder the shelter of your honor? you will not doe it? you?</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>I doe relent: what would thou more of man?</P>
+</SP>
+<SP>
+<SPEAKER>Robin.</SPEAKER>
+<P>Sir, here's a woman would speake with you.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Let her approach.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Giue your worship good morrow.</P>
+</SP>
+<SP>
+<PB REF="13"/>
+<SPEAKER>Fal.</SPEAKER>
+<P>Good-morrow, good-wife.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Not so, and't please your worship.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Good, maid then.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<LG>
+<L>Ile be sworne.</L>
+<L>As my mother was the first houre I was borne.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>I doe beleeue the swearer; what with me?</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Shall I vouch-safe your worship a word, or two?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Two thousand (faire woman) and ile vouchsafe thee the hearing.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>There is one Mistresse <HI>Ford,</HI> (Sir) I pray come a little neerer this waies; I my selfe dwell with Master Doctor <HI>Caius.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Well, on; Mistris <HI>Ford,</HI> you say.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Your worship saies very true; <HI>I</HI> pray your worship come a little neerer this waies.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P><HI>I</HI> warrant thee, no-bodie heares; mine owne people, mine owne people.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Are they so? heauen-blesse them, and make them his Seruants.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Well; Mistresse <HI>Ford,</HI> what of her?</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Why, Sir; shee's a good creature; Lord, Lord your Worship's a wanton: well, heauen forgiue you, and all of vs, <HI>I</HI> pray—</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Mistresse <HI>Ford,</HI> come, Mistresse <HI>Ford.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Marry this is the short, and the long of it; you haue brought her into such a Canaries, as 'tis wonder∣full; the best Courtier of them all (when the Court lay at <HI>Windsor</HI>) could neuer haue brought her to such a Ca∣narie: yet there has beene Knights, and Lords, and Gen∣tlemen, with their Coaches; <HI>I</HI> warrant you Coach after Coach, letter after letter, gift aftee gift, smelling so sweet∣ly; all Muske, and so rushling, <HI>I</HI> warrant you, in silke and golde, and in such alligant tearmes, and in such wine and suger of the best, and the fairest, that would haue wonne any womans heart: and <HI>I</HI> warrant you, they could neuer get an eye-winke of her: <HI>I</HI> had my selfe twentie Angels giuen me this morning, but <HI>I</HI> defie all Angels in
+<PB REF="14"/>
+any such sort, as they say) but in the way of honesty: and I warrant you, they could neuer get her so much as sippe on a cup with the prowdest of them all, and yet there has beene Earles; nay, (which is more) Pentioners, but I warrant you all is one with her.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>But what saies shee to mee? bee briefe my good shee-<HI>Mercurie.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Marry, she hath receiu'd your Letter; for the which she thankes you a thousand times; and shee giues you to notifie, that her husband will be absence from his house, be∣tweene ten and eleuen.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Ten, and eleuen.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>I, forsooth; and then you may come and see the picture (she sayes) that you wot of; Master <HI>Ford</HI> her hus∣band will be from home: alas, the sweet woman leads an ill life with him; hee's a very iealousie-man; shee leades a vere framepold life with him, (good heart.)</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<LG>
+<L>Ten, and eleuen.</L>
+<L>Woman, commend me to her, I will not faile her.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Why, you say well: But I haue another messenger to your worship: Mistresse <HI>Page</HI> hath her heartie commen∣dations to you to; and let me tell you in your eare, shee's as fartuous a ciuill modest wife, and one (I tell you) that will not misse you morning nor euening prayer, as any is in <HI>Windsor,</HI> who ere be the other: and shee bade mee tell your worship, that her husband is seldome from home, but shee hopes there will come a time. I neuer knew a woman so doate vpon a man; surely I thinke you haue charmes, la: yes in truth.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Not I, I assure thee; setting the attraction of my good parts aside, I haue no other charmes.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Blessing on your heart for't:</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>But I pray thee tell me this; has <HI>Fords</HI> wife, and <HI>Pages</HI> wise acquainted each other, how they loue me?</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>That were a iest indeed they haue not so little grace I hope, that were a tricke indeed: But Mistis <HI>Page</HI> would desire you to send her your little <HI>Page</HI> of all loues; her husband has a maruellous infection to the little Page;
+<PB REF="14"/>
+and truely Master <HI>Page</HI> is an honest man; neuer a wife in <HI>Windsor</HI> leades a better life then she do's; do what shee will, say what she will, take all, pay all, goe to bed when shee list, rise when she list, all is as she will; and truly she deserues it; for if there be a kinde woman in <HI>Windsor,</HI> shee is one; you must send her your Page, no remedie.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Why, I will.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Nay, but doe so then, and looke you, hee may come and goe betweene you both; and in any case haue a nay-word, that you may know one anothers minde, and the Boy neuer heede to vnderstand any thing; for 'tis not good that children should know any wickednes; old folkes you know, haue discretion, as they say, and know the world.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Farethee-well, commend mee to them both, there's my purse, I am yet thy debter; Boy, goe along with this woman, this newes distracts me.</P>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<LG>
+<L>This Puncke is one of <HI>Cupids</HI> Carriers,</L>
+<L>Clap no more sailes, pursue▪ vp with your fights:</L>
+<L>Giue fire; she is my prize, or Ocean whelme all.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Saist thou so (old <HI>Iacke</HI>) goe thy waies Ile make more of thy old body then I haue done: will they yet looke after thee? wilt thou after the expence of so much money, be now a gainer? good Body, I thanke thee; let them say 'tis grossely done, so it bee fairely done, no matter.</P>
+</SP>
+<SP>
+<SPEAKER>Bar.</SPEAKER>
+<P>Sir <HI>Iohn,</HI> there's one Master <HI>Broome</HI> below would faine speake with you, and be acquainted with you; and hath sent your worship a mornings draught of Sacke.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P><HI>Broome</HI> is his name?</P>
+</SP>
+<SP>
+<SPEAKER>Bar.</SPEAKER>
+<P>I Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Call him in: such <HI>Broomes</HI> are welcome to me, that that ore'flowes such liquor; ah ha, Mistresse <HI>Ford</HI> and Mi∣stresse <HI>Page,</HI> haue I encompass'd you? goe to, <HI>via.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>'Blesse you sir.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>And you sir; would you speake with me?</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>I make bold, to presse, with so little preparation vpon you.</P>
+</SP>
+<SP>
+<PB REF="15"/>
+<SPEAKER>Fal.</SPEAKER>
+<P>You'r welcome, what's you<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/> <GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>ill? giue vs leaue Drawer.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Sir, <HI>I</HI> am a Gentleman that haue spent much, my name is <HI>Broome.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Good Master <HI>Broome, I</HI> desire more acquaintance of you.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Good Sir <HI>Iohn, I</HI> sue for yours; not to charge you, for <HI>I</HI> must let you vnderstand, <HI>I</HI> thinke my selfe in better plight for a Lender, then you are; the which hath something emboldned mee to this vnseason'd intrusion: for they say, if money goe before, all waies doe lye open.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Money is a good Souldier (Sir) and will on.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Troth, and <HI>I</HI> haue a bag of money heere troubles me; if you will helpe to beare it (Sir <HI>Iohn</HI>) take all, or halfe for easing me of the carriage:</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Sir, I know not how <HI>I</HI> may deserue to bee your Porter.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P><HI>I</HI> will tell you Sir, if you will giue mee the hea∣ring.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Speake (good Master <HI>Broome) I</HI> shall be glad to be your Seruant.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Sir, <HI>I</HI> heare you are a Scholler; (<HI>I</HI> will be briefe with you) and you haue beene a man long knowne to me, though <HI>I</HI> had neuer so good meanes as desire, to make my selfe acquainted with you. <HI>I</HI> shall discouer a thing to you, wherein <HI>I</HI> must very much lay open mine own imperfecti∣on: but (good Sir <HI>Iohn</HI>) as you haue one eye vpon my follies, as you heare them vnfolded, turne another into the Register of your owne, that <HI>I</HI> may passe with a reproofe the easier, sith you your selfe know how easie it is to be such an offender.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Very well Sir, proceed:</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>There is a Gentlewoman in this Towne, her hus∣bands name is <HI>Ford.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Well Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P><HI>I</HI> haue long lou'd her, and <HI>I</HI> protest to you, be∣stowed much on her; followed her with a doating ob∣seruance;
+<PB REF="15"/>
+Ingross'd opportunities to meete her▪ free'd euery slight occasion that could but nigardly giue mee sight of her▪ not onely brought many presents to giue her, but haue giuen largely to many, to know what she would haue giuen briefly, <HI>I</HI> haue pursu'd her, as Loue hath pursud mee, which hath beene on the wing of all occasions; but whatsoeuer <HI>I</HI> haue merited, either in my minde, or in my meanes, meede <HI>I</HI> am sure <HI>I</HI> haue receiued none, vnlesse Experience be a Iewell, that <HI>I</HI> haue purchased at an infinite rate, and that hath taught me to say this.</P>
+<LG>
+<L>``Loue like a shadow flies, when substance Loue pursues,</L>
+<L>``Pursuing that that flies, and flying what pursues▪</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Haue you receiu'd no promise of satisfaction at her hands?</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Neuer.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Haue you importun'd her to such a purpose?</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Neuer.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Of what qualitie was your loue then?</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Like a faire house, built on another mans ground, so that <HI>I</HI> haue lost my edifice, by mistaking the place where I erected it.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>To what purpose haue you vnfolded this to me?</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>When I haue told you that, I haue told you all: Some say, that though shee appeare honest to mee, yet in other places shee enlargeth hir mirth so farre, that there is shrewd construction made of her. Now (Sir <HI>Iohn</HI>) here is the heart of my purpose: you are a Gentleman of ex∣cellent breeding, admirable discourse, of great admittance, authenticke in your place and person, generally allow'd for your many warlike, court-like, and learned prepara∣tions.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>O Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Beleeue it, for you know it: there is money, spend it, spend it, spend more; spend all I haue, onely giue me so much of your time in exchange of it, as to lay an amiable siege to the honesty of this <HI>Fords</HI> wife: vse your Art of
+<PB REF="16"/>
+wooing; win her to consent to you; if any man may, you may as soone as any.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Would it apply well to the vehemency of your af∣fection that I should win what you would enioy? Me∣thinkes you prescribe to your selfe very preposterously.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>O, vnderstand my drift; she dwells so securely on the excellency of her honor, that the folly of my soule dares not present it selfe; she is too bright to be look'd against. Now, could I come to her with any detection in my hand; my desires had instance and argument to commend them∣selues, I could driue her then from the ward of her purity, her reputation, her marriage vow, and a thousand other her defences, which now are too-too strongly embattaild a∣gainst me; what say you too't, Sir <HI>Iohn.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Master <HI>Broome,</HI> I will first make bold with your mony, next, giue me your hand; and last, as I am a Gentleman, you shall, if you will, enioy <HI>Fords wife.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>O good Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>I say you shall.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Want no money (Sir <HI>Iohn</HI>) you shall want none.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Want no <HI>Mistresse Ford</HI> (Master <HI>Broome</HI>) you shall want none; I shall be with her (I may tell you) by her own appointment, euen as you came in to me, her assistant, or goe betweene, parted from me; I say I shall be with her be∣tweene ten and eleuen, for at that time the iealious rascally∣knaue her husband will be forth; come you to me at night, you shall know how I speed.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>I am blest in your acquaintance; do you know <HI>Ford</HI> Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Hang him (poore Cuckoldly knaue) I know him not: yet I wrong him to call him poore; They say the iealous wittolly-knaue hath masses of money, for the which his wife seemes to me well-fauourd: I will vse her as the key of the Cuckoldly-rogues Coffer, &amp; ther's my haruest▪ home.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>I would you knew <HI>Ford,</HI> sir, that you might auoid him, if you saw him.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Hang him, mechanicall-salt-butter rogue; I will stare him out of his wits; I will awe-him with my cudgell: it
+<PB REF="16"/>
+shall hang like a Meteor ore the Cuckolds horns: Master <HI>Broome,</HI> thou shalt know, I will predominate ouer the pezant, and thou shalt lye with his wife▪ Come to me soone at night: <HI>Ford's</HI> a knaue, and I will aggrauate his stile: thou (Master <HI>Broome</HI>) shalt know him for knaue, and Cuckold. Come to me soone at night.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>What a damn'd Epicurian-Rascall is this? my heart is ready to cracke with impatience: who saies this is improuident iealousie? my wife hath sent to him, the howre is fixt, the match is made; would any man haue thought this? see the hell of hauing a faire woman: my bed shall be abus'd, my Coffers ransack'd, my reputation gnawne at, and I shall not onely receiue this villanous wrong, but stand vnder the adoption of abhominable termes, and by him that does me this wrong: Termes, names: <HI>Amaimon</HI> sounds well; <HI>Lucifer,</HI> well; <HI>Barbason,</HI> wel; yet they are Diuels additions, the names of fiends: But Cuckold, Wittoll, Cuckold▪ the Diuell himselfe hath not such a name. <HI>Page</HI> is an Asse, a secure Asse; hee will trust his wife, hee will not bee iealous; I will rather trust a <HI>Fleming</HI> with my butter, Person <HI>Hugh</HI> the <HI>Welshman</HI> with my Cheese, an <HI>Irish man</HI> with my Aqua-vitae-bottle, or a Theefe to walke my ambling gelding, then my wife with her selfe. Then she plots, then shee rumiuates▪ then shee deuises; and what they thinke in their hearts they may effect; they will breake their hearts but they will effect. Heauen bee prais'd for my iealousie: eleuen o'clocke the howre, I will preuent this, detect my wife, bee reueng'd on <HI>Falstaffe,</HI> and laugh at <HI>Page.</HI> I will about it, beter three houres too soone, then a mynute too late: fie, fie, fie: Cuckold, Cuckold, Cuckold.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>Scena Tertia.</HEAD>
+<STAGE>Enter Caius, Rugby, Page, Shallow, Slender, Host.</STAGE>
+<SP>
+<SPEAKER>Caius.</SPEAKER>
+<P>Iacke Rugby.</P>
+</SP>
+<SP>
+<PB REF="17"/>
+<SPEAKER>Ru.</SPEAKER>
+<P>Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Caius.</SPEAKER>
+<P>Vat lothe clocke▪ <HI>Iack.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Rug.</SPEAKER>
+<P>'Tis past the howre (Sir) that Sir <HI>Hugh</HI> promis'd to meet.</P>
+</SP>
+<SP>
+<SPEAKER>Caius.</SPEAKER>
+<P>By gar, he has saue his soule, dat he is no-come: hee has pray his Pible well, dat hee is no-come, by gar (<HI>lack Rugby</HI>) he is dead already, if he be come.</P>
+</SP>
+<SP>
+<SPEAKER>Rug</SPEAKER>
+<P>Hee is wise Sir; hee knew your worship would kill him if he came.</P>
+</SP>
+<SP>
+<SPEAKER>Caius.</SPEAKER>
+<P>By gar, de herring is no dead, so as I vill kill him▪ take your Rapier, (<HI>Iacke</HI>) I vill tell you how I vill kill him.</P>
+</SP>
+<SP>
+<SPEAKER>Rug.</SPEAKER>
+<P>Alas sir, I cannot fence.</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>Villanie, take your Rapier.</P>
+</SP>
+<SP>
+<SPEAKER>Rug.</SPEAKER>
+<P>For beare, heer's company.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>'Blesse thee, bully-Doctor.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>'Saue you Master Doctor <HI>Caius.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Now good Master Doctor.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>'Giue you good morrow, sir.</P>
+</SP>
+<SP>
+<SPEAKER>Caius.</SPEAKER>
+<P>Vat be all you one, two, tree, fowre, come for?</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>To see thee fight, to see thee foigne, to see thee trauerse, to see thee he<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>re, to see thee there, to see thee passe thy puncto, thy stocke, thy reuerse, thy distance, thy mon∣tant: Is hee dead, my Ethiopian? Is he dead, my Francisco? ha Bully? what saies my <HI>Esculapius?</HI> my <HI>Gallen?</HI> my heart of Elder? ha? is he dead bully-Stale? is he dead?</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>By gar, he is de Coward Iack-Priest of de vorld: he is not show his face.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Thou art a Castalion-king Vrinall; <HI>Hector</HI> of <HI>Greece</HI> (my Boy)</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>I pray you beare witnesse, that mee haue stay, sixe or seuen, two tree howres for him, and hee is no∣come.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>He is the wiserman (Master Doctor) he is a curer of soules, and you a curer of bodies; if you should fight, you goe against the haire of your professions▪ is it not true, Master <HI>Page?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Master <HI>Shallow;</HI> you haue your selfe beene a great
+<PB REF="17"/>
+great fighter, though now a man of peace.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Body-kins M. <HI>Page,</HI> though I now be old, and of the peace; if I see a sword out, my finger itches to make one; though wee are Iustices, and Doctors, and Church∣men (Master <HI>Page</HI>) wee haue some salt of our youth <GAP DESC="illegible" REASON="blotted" EXTENT="1 word" DISP="〈◊〉"/> vs, we are the sons of women (Master <HI>Page.</HI>)</P>
+</SP>
+<SP>
+<SPEAKER>Page</SPEAKER>
+<P>'Tis true, Mister <HI>Shallow.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>It will be found so, (M. <HI>Page</HI>) M. Doctor <HI>Caius,</HI> I am come to fetch you home, I am sworn of the peace you haue show'd your selfe a wise Physician, and Sir <HI>Hugh</HI> hath showne himselfe a wise and patient Churchman; you must goe with me, M. Doctor.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Pardon, Guest-Iustice; a Mounseur Mocke∣water.</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>Mock-vater? vat is dat?</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Mock-water, in our English tongue, is Valour (Bully.)</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>By gar, then I haue as much Mock-vater as de Englishman; scuruy-lade dog-Priest▪ by gar, mee vill his eares.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>He will Clapper claw thee tightly (Bully.)</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>Clapper de claw? vat is dat?</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>That is, he will make thee amends.</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>By gar, me doe looke he shall clapper-de-claw me, for by-gar me vill haue it.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>And I will prouoke him to't, or let him wag:</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>Me tanck you for dat.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>And moreouer, (Bully) but first, Master Ghuest, and M. <HI>Page,</HI> and eeke Cauale<GAP DESC="illegible" REASON="faint" EXTENT="1 letter" DISP="•"/>ro <HI>Slender,</HI> goe you through the Towneto <HI>Frogmore.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Sir <HI>Hugh</HI> is there, is he?</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>He is there, see what humor hee is in; and I will bring the Doctor about by the Fields; will it doe well?</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Wee will doe it.</P>
+</SP>
+<SP>
+<SPEAKER>All.</SPEAKER>
+<P>Adieu, good Master Doctor.</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>By-gar, me vill kill de Priest, for he speake for a Iack∣an-Ape to <HI>Anne Page.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Let him die; sheath thy impatience, throw cold
+<PB REF="18"/>
+water on thy Choller; goe about the fields with me through <HI>Frogmore, I</HI> will bring thee where Mistris <HI>Anne Page</HI> is, at a Farm-house a Feasting; and thou shalt wooe her, Cride∣game, said <HI>I</HI> well?</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>By-gar, me danck you vor dat; by gar <HI>I</HI> loue you, and <HI>I</HI> shall procure'a you de good Guest; de Earle, de Knight, de Lords▪ de Gentlemen, my patients.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>For the which, <HI>I</HI> will be thy aduersary toward <HI>Anne Page,</HI> said. <HI>I</HI> well?</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>By-gar, 'tis good, vell said.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Let vs wag then.</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>Come at my heeles, <HI>Iack Rugby.</HI></P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<HEAD>Actus Tertius.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Scoena Prima.</HEAD>
+<STAGE>Enter Euans, Simple, Page, Shallow, Slender, Host, Caius, Rugby.</STAGE>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P><HI>I</HI> pray you now, good Master <HI>Slenders</HI> seruingman and friend <HI>Simple</HI> by your name; which way haue you look'd for Master <HI>Caius,</HI> that calls himselfe Doctor of Phisicke.</P>
+</SP>
+<SP>
+<SPEAKER>Simp.</SPEAKER>
+<P>Marry Sir, the pittie-ward, the Parke-ward, euery way, olde <HI>Windsor</HI> way, and euery way but the Towne-way.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P><HI>I</HI> most fehemently desire you, you will looke that way.</P>
+</SP>
+<SP>
+<SPEAKER>Simp.</SPEAKER>
+<P><HI>I</HI> will sir.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>'Plesse my soule: how full of Chollors <HI>I</HI> am and trempling of minde; <HI>I</HI> shall be glad if hee haue deceiued me: how melancholies <HI>I</HI> am? <HI>I</HI> will knog his Vrinalls a∣bout his knaues costard, when <HI>I</HI> haue good oportunities for the orke▪ Plesse my soule. <HI>To shallow Riuers to whose falls; melodious Birds sing Madrigalls: There will wee make our Peds of Roses: and a thousand fragrant posies. To shal∣low:</HI> 'Mercie on mee, <HI>I</HI> haue a great dispositions to cry: <HI>Melodious birds sing Madrigalls:—When as I sat in Pa∣bilon:</HI>
+<PB REF="18"/>
+<HI>and a thousand vagram Posies. To shallow, &amp;c.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sim.</SPEAKER>
+<P>Yonder he is comming, this <GAP DESC="illegible" REASON="faint" EXTENT="1 letter" DISP="•"/>ay Sir <HI>Hugh.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<LG>
+<L>Hee's welcome: <HI>To shallow Riuers, in whose fals:</HI></L>
+<L>Heauen prosper the right: what weapons is he?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sim.</SPEAKER>
+<P>No weapons, Sir; there comes my master, Master <HI>Shallow,</HI> and another Gentleman; from <HI>Frogmore,</HI> ouer the stile, this way.</P>
+</SP>
+<SP>
+<SPEAKER>Euen.</SPEAKER>
+<P>Pray you giue me my gowne, or else keepe it in your armes.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>How now Master Parson? good morrow good Sir <HI>Hugh,</HI> keepe a Gamester from the dice, and a good Studient from his booke, and it is wonderfull.</P>
+</SP>
+<SP>
+<SPEAKER>S<GAP DESC="illegible" REASON="faint" EXTENT="1 letter" DISP="•"/>en.</SPEAKER>
+<P>Ah sweet <HI>Anne Bage.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>'Saue you, good Sir <HI>Hugh.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>▪Pleasse you from his mercy-sake, all of you.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<LG>
+<L>What? the Sword, and the Word?</L>
+<L>Doe you study them both Master Parson?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>And youthfull still, in your doublet and hose, this raw-rumaticke day?</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>There is reasons, and causes for it?</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Wee are come to you, to doe a good office, Master Parson.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Fery-well, what is it?</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Yonder is a most reuerend Gentleman; who (be-like) hauing receiued wrong by some person, is at most odds with his owne grauity and patience, that euer you saw.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P><HI>I</HI> haue liued foure-score yeeres, and vpward; <HI>I</HI> neuer heard a man of his place, grauity, and learning, so wide of his owne respect.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>What is he?</P>
+</SP>
+<SP>
+<SPEAKER>Page</SPEAKER>
+<P><HI>I</HI> thinke you know him; Master Doctor <HI>Caius</HI> the renowned French Physician.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Got's will, and his passion of my heart, <HI>I</HI> had as liefe you would tell me of a messe of poriedge.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Why?</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Hee has no more knowledge in <HI>Hibocrates</HI> and <HI>Galen,</HI> and hee is a knaue besides: a cowardly knaue, as
+<PB REF="19"/>
+you would desires to acquainted withall▪</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>I warrant you, hee's the man should fight with him.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>O sweet <HI>Anne Page.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>It appeares so by his weapons; keepe them a sunder, here comes Doctor <HI>Caius.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Nay good Master Parson, keepe your weapon.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>So doe you, good Master Doctor.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Disarme them, and let them question; let them keepe their limbs whole, and hacke our English.</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>I pray you let-a-mee speake a word with your eare; vherefore vill you not meet a me?</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>I Pray you vse your patience in good time.</P>
+</SP>
+<SP>
+<SPEAKER>Caius.</SPEAKER>
+<P>By gar, you are de Coward: de Iacke dog: Iohn Ape.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Pray you let vs not be laughing-stocks to other mens humors; I desire you in friendship, and I will one way or other make you amends; I will knog your Vrinal about your knaues Cogs-combe.</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P><HI>Diable; Iack Rugby:</HI> mine <HI>Host de Iarteer;</HI> haue I not stay for him, to kill him? haue I not at de place I did appoint?</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>As I am a Christians soule, now looke you; this is the place appointed, ile be iudgement by mine <HI>Host of the Garter.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Peace, I say, <HI>Gallia</HI> and <HI>Gaule, French</HI> and <HI>Welch,</HI> Soule-Curer, and Body-Curer.</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>I, dat is very good, excellant.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Peace, I say, heare mine Host of the Garter, Am I politicke? Am I subtle? Am I a Machiuell? Shall loose my Doctor? No, he giues me the Potions and the Motions. Shall I loose my Parson? my Priest? my Sir <HI>Hugh?</HI> No, hee giues me the Prouerbes, and the No verbes. Giue me thy hand (Celestiall) so; Boyes of Art, I haue deceiu'd you both; I haue directed you to wrong places; your hearts are mighty, your skinnes are whole, and let burn'd Sacke be the issue; Come▪ lay their swords to pawne; Follow me, Lad of peace, follow, follow, follow▪</P>
+</SP>
+<SP>
+<PB REF="19"/>
+<SPEAKER>Shal.</SPEAKER>
+<P>Trust me, a mad Host: follow Gentlemen, fol∣low.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>O sweet <HI>Anne Page.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>Ha'do I perceiue dat? Haue you make-a-de. sot of vs, ha, ha?</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>This is well, he has made vs his vlowting-stog: I desire you that we may be friends; and let vs knog our praines together to be reuenge on this same scall scuruy∣cogging-companion the Host of the Garter.</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>By gar, with all my heart; he promise to bring mee where is <HI>Anne Page,</HI> by gar he deceiue me too.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Well, I will smite his noddles; pray you follow.</P>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Scoena Secunda.</HEAD>
+<STAGE>Mist. Page, Robin, Ford, Page, Shallow, Slender, Host, Euans, Caius.</STAGE>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<P>Nay keepe your way (little Gallant) you were wont to be a follower; but now you are a Leader: whe∣ther had you rather lead mine eyes, or eye your masters heeles?</P>
+</SP>
+<SP>
+<SPEAKER>Rob.</SPEAKER>
+<P>I had rather (forsooth, goe before you like a man▪ Courtier. then follow him like a dwarfe.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>O you are a flattering boy, now I see you'l be a</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Well met mistris <HI>Page,</HI> whether go you.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Truly Sir, to see your wife, is she at home?</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>I, and as idle as she may hang together for want of companie; I thinke if your husbands were dead, you two would marry.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Be sure of that, two other husbands.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Where had you this pretty weather-cocke?</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Pa.</SPEAKER>
+<P>I cannot tell what (the dickens) his name is my husband had him of, what doe you cal your Knights name sirrah?</P>
+</SP>
+<SP>
+<SPEAKER>Rob.</SPEAKER>
+<P>Sir <HI>Iohn Falstaffe.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Sir <HI>Iohn Falstafe.</HI></P>
+</SP>
+<SP>
+<SPEAKER>M. P.</SPEAKER>
+<P>He, he, I can neuer hit on's name; there is such aleague between my goodman, and he; is your Wife at home indeed.</P>
+</SP>
+<SP>
+<PB REF="20"/>
+<SPEAKER>Ford.</SPEAKER>
+<P>Indeed she is.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>By your leaue sir, I am sicke till I see her.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Has <HI>Page</HI> any braines▪ Hath he any eies? Hath he any thinking? Sure they sleepe, hee hath no vse of them: why this boy will carrie a letter twentie mile as easie, as a Canon will shoot point-blanke twelue score: hee peeces out his wiues inclination, hee giues her folly motion and aduantage: and now she's going to my wife, and <HI>Fal∣staffes</HI> boy with her; A man may heare this showre sing in the winde; and <HI>Falstaffes</HI> boy with her: good plots, they are laide, and our reuolted wiues share damnation together. Well, I will take him, then torture my wife, plucke the borrowed vaile of modestie from the so see∣ming Mistris <HI>Page,</HI> divulge <HI>Page</HI> himselfe for a secure and wilfull <HI>Acteon,</HI> and to these violent proceedings all my neighbors shall cry aime. The clocke giues me my Qu, and my assurance bids me search, there I shall finde <HI>Fal∣staffe:</HI> I shall be rather praisd for this, then mock'd, for it is as possitiue, as the earth is firme, that <HI>Falstaffe</HI> is there: I will go.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P><HI>Page, &amp;c.</HI> Well met Master <HI>Ford.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Trust me, a good knotte; I haue good cheere at home, and I pray you all go with me.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>I must excuse my selfe Master <HI>Ford.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<LG>
+<L>And so must I Sir,</L>
+<L>We haue appointed to dine with Mistris <HI>Anne,</HI></L>
+<L>And I would not breake with her for more mony</L>
+<L>Then ile speake of.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>We haue linger'd about a match betweene <HI>Anne Page,</HI> and my cozen <HI>Slender,</HI> and this day wee shall haue our answer.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I hope I haue your good will Father <HI>Page.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Page</SPEAKER>
+<P>You haue Master <HI>Slender,</HI> I stand wholly for you, But my wife (Master Doctor) is for you altogether.</P>
+</SP>
+<SP>
+<SPEAKER>Caius.</SPEAKER>
+<P>I be-gar, and de Maid is loue-a me: my nursh-a∣Quickly tell me so mush.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>What say you to young Master <HI>Fenton?</HI> He capers, he dances, he has cies of youth▪ he writes verses, he speakes
+<PB REF="20"/>
+holliday, he smels Aprill and May, he will carry't, hee will carry't, 'tis in his buttons, he will carry't.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Not by my consent I promise you. The Gentleman is of no hauing, he kept companie with the wilde Prince, &amp; <HI>Pointz:</HI> hee is of too high a Region, hee knows too much: no, hee shall not knit a knot in his fortunes, with the finger of my substance, if he takes her, let him take her simply; the wealth I haue waits on my consent, and my consent goes not that way:</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>I beseech you heartily, some of you goe home with me to dinner; besides your cheere you shall haue sport, I will shew you a monster; Master Doctor, you shall goe, so shall your Master <HI>Page,</HI> and you Sir <HI>Hugh.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<LG>
+<L>Well, fare you well:</L>
+<L>We shall haue the freer woing at Master <HI>Pages.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>Go home <HI>Iohn Rugby,</HI> I come anon.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Farwell my hearts, I will to my honest Knight <HI>Falstaffe,</HI> and drinke Canarie with him.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>I thinke I shall drinke in Pipe-wine first with him, ile make him dance. Will you go, Gentles?</P>
+</SP>
+<SP>
+<SPEAKER>All.</SPEAKER>
+<P>Haue with you, to see this Monster.</P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>Scoena Tertia.</HEAD>
+<STAGE>Enter Master Ford. Master Page, Seruants, Robin, Falstaffe. Ford, Page, Caius, Euans.</STAGE>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>What <HI>Iohn,</HI> what <HI>Robert.</HI></P>
+</SP>
+<SP>
+<SPEAKER>M. Page.</SPEAKER>
+<P>Quickly quickly; Is the Buck-basket—</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>I warrant. What <HI>Robin</HI> I say.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Come, come, come.</P>
+</SP>
+<SP>
+<SPEAKER>Mi Ford.</SPEAKER>
+<P>Heere, set it downe.</P>
+</SP>
+<SP>
+<SPEAKER>M. Page.</SPEAKER>
+<P>Giue your men the charge, wee must be briefe, be ready here hard by in the Brew house, and when <HI>I</HI> so∣dainly call you, come forth, and (without any pause, or stag∣gering) take this basket on your shoulders; that done trudge with it in all hast, and carry it among the Whit∣sters
+<PB REF="21"/>
+in <HI>Dotchet</HI> Mead, and there empty it in the muddie ditch, close by the Thames side.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>You will do it?</P>
+</SP>
+<SP>
+<SPEAKER>M. Ford.</SPEAKER>
+<P>I ha told them ouer and ouer, they lacke no direction. Begone, and come when you are call'd.</P>
+</SP>
+<SP>
+<SPEAKER>M. Page.</SPEAKER>
+<P>Here comes little <HI>Robin.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mis Ford.</SPEAKER>
+<P>How now my Eyas Musket, what newes with you?</P>
+</SP>
+<SP>
+<SPEAKER>Rob.</SPEAKER>
+<P>My M. Sir <HI>Iohn</HI> is come in at the backe doore Mist. <HI>Ford,</HI> and requests your company.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>You little lack-a-lent, haue you bin true to vs.</P>
+</SP>
+<SP>
+<SPEAKER>Rob.</SPEAKER>
+<P>I, ile be sworne; my Master knowes not of your being heere: and hath threatned to put mee into euerla∣sting liberty, if I tell you of it; for he sweares he'll turne me away.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Thou'rt a good boy; this secrecy of thine shall be a Tailor to thee, and shall make thee a new doublet and hose. Ile go hide me.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Do so, go tell thy Master, I am alone; Mistris <HI>Page,</HI> remember you your <HI>Qu.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>I warrant thee, if I do not act it, hisse me.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford</SPEAKER>
+<P>Go too then; we'l vse this vnwholsome humi∣dity, this grosse-warry Pumpion, we'll teach him to know Turtles from Iayes.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Haue I caught thee, my heauenly Iewell? Why now let me die, for I haue liu'd long enough; This is the period of ambition; O this blessed houre.</P>
+</SP>
+<SP>
+<SPEAKER>Mis▪ Ford.</SPEAKER>
+<P>O sweet Sir <HI>Iohn.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Mistris <HI>Ford,</HI> I cannot cog, I cannot prate (Master <HI>Ford</HI>) now shall I sinne in my wish; I would thy Husband were dead, ile speake it before the best Lord, I would make thee my Lady.</P>
+</SP>
+<SP>
+<SPEAKER>Mis Ford.</SPEAKER>
+<P>I your Lady Sir <HI>Iohn?</HI> Alas, I should be a pitti∣full Lady.</P>
+</SP>
+<SP>
+<SPEAKER>Fal▪</SPEAKER>
+<P>Let the Court of France shew mee such another; I see how thine eye would emulate the Diamond; Thou hast the right arched-beauty of the brow, that becomes the Ship-tyre, the Tyre-valiant, or any Tire of Venetian admittance.</P>
+</SP>
+<SP>
+<PB REF="21"/>
+<SPEAKER>Mist. Ford.</SPEAKER>
+<LG>
+<L>A plaine Kerchiefe, Sir <HI>Iohn.</HI></L>
+<L>My browes become nothing else, nor that well neither.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Thou art a tyrant to say so: thou wouldst make an absolute Courtier, and the firme fixture of thy foote, would giue an excellent motion to thy gate, in a semi∣circled Farthingale. I see what thou wert if Fortune thy foe, were not Noture thy friend: Come, thou canst not hide it.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Ford.</SPEAKER>
+<P>Beleeue me, ther's no such thing in me.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>What made me loue thee? Let that perswade thee: Ther's something extraordinary in thee. Come I cannot cog, and say thou art this and that, like a manie of thess lisping hauthorne buds, that come like women in mens apparrell, and smell like. Bucklers-berry in simple time: I cannot, but I loue thee, none but thee; and thou deseru'st it.</P>
+</SP>
+<SP>
+<SPEAKER>M. Ford.</SPEAKER>
+<P>Do not betray me sir, I feare you loue M. <HI>Page▪</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Thou mightst as well say, I loue to walke by the Counter-gate, which is a hatefull to me, as the reeke of a Lime-kill.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<LG>
+<L>Well, heauen knowes how I loue you,</L>
+<L>And you shall one day finde it.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Keepe in that minde, Ile deserue it.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Ford.</SPEAKER>
+<LG>
+<L>Nay, I must tell you, so you doe;</L>
+<L>Or else I could not be in that minde.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Rob.</SPEAKER>
+<P>Mistris <HI>Ford,</HI> Mistris <HI>Ford,</HI> heere's Mistris <HI>Page</HI> at the doore, sweating, and blowing, and looking wildly, and would needs speake with you presently.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>She shall not see me, I will ensconce mee behinde the Arras.</P>
+</SP>
+<SP>
+<SPEAKER>M. Ford.</SPEAKER>
+<LG>
+<L>Pray you doe so, she's a very tatling woman.</L>
+<L>Whats the matter? How now?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Miist. Pag.</SPEAKER>
+<LG>
+<L>O mistris <HI>Ford</HI> what haue you done?</L>
+<L>You'r sham'd, y'are ouerthrowne, y'are vndone for euer.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>M. Ford.</SPEAKER>
+<P>What's the matter, good mistris <HI>Page?</HI></P>
+</SP>
+<SP>
+<SPEAKER>M. Page.</SPEAKER>
+<P>O weladay, mist. <HI>Ford,</HI> hauing and honestman to your husband, to giue him such cause of suspition.</P>
+</SP>
+<SP>
+<SPEAKER>M. Ford.</SPEAKER>
+<P>What cause of suspition?</P>
+</SP>
+<SP>
+<PB REF="22"/>
+<SPEAKER>Mis. Page.</SPEAKER>
+<LG>
+<L>What cause of suspition? Out vpon you:</L>
+<L>How am I mistooke in you?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Why (alas) what's the matter?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Your husband's comming hether (Woman) with all the Officers in Windsor, to search for a Gentle∣man, that hee sayes is heere now in the house, by your consent to take an ill aduantage of his absence, you are vndone.</P>
+</SP>
+<SP>
+<SPEAKER>M. Ford.</SPEAKER>
+<P>'Tis not, so, <HI>I</HI> hope.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<P>Pray heauen it be not so, that you haue such a man heere: but 'tis most certaine your husband's com∣ming, with halfe Windsor at his heeles, to serch for such a one, <HI>I</HI> come before to tell you, if you know your selfe cleere, why <HI>I</HI> am glad of it, but if you haue a friend here, conuey, conuey him out. Be not amaz'd, call all your senses to you, defend your reputation, or bid farwell to your good life for euer.</P>
+</SP>
+<SP>
+<SPEAKER>M. Ford.</SPEAKER>
+<P>What shall <HI>I</HI> doe? There is a Gentleman my deere friend, and <HI>I</HI> feare not mine owne shame so much, as his perill. <HI>I</HI> had rather then a thousand pound he were out of the house.</P>
+</SP>
+<SP>
+<SPEAKER>M. Page.</SPEAKER>
+<P>For shame, neuer stand (you had rather, you had rather) your husband's heere at hand, bethinke you of some conueyance: in the house you cannot bide him. Oh, how haue you deceiu'd me? Looke, heere is a basket, if hee be of any reasonable stature, hee may creepe in heere, and throw fowle linnen vpon him, as if it were going to buck∣ing; Or it is whiting time, send him by your two men to <HI>Datchet</HI>-Meade.</P>
+</SP>
+<SP>
+<SPEAKER>M. Ford</SPEAKER>
+<P>He's too big to go in there, what shall <HI>I</HI> doe?</P>
+</SP>
+<SP>
+<SPEAKER>Fal</SPEAKER>
+<LG>
+<L>Let me see't, let me see't, O let me see't:</L>
+<L>Ile <GAP DESC="illegible" REASON="faint" EXTENT="1 letter" DISP="•"/>n ile in, follow your friends counsell, ile in.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<P>What Sir <HI>Iohn Falstaffe?</HI> Are these your Let∣ters Knight?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>I loue thee, helpe mee away: let me creepe in heere: ile neuer—</P>
+</SP>
+<SP>
+<SPEAKER>M. Page.</SPEAKER>
+<P>Helpe to couer your Master (Boy:) Call your men (Mist. <HI>Ford.</HI>) You dissembling Knight.</P>
+</SP>
+<SP>
+<PB REF="22"/>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>What <HI>Iohn Rugby, Iohn;</HI> Goe, take vp these cloathes heere, quickly: Wher's the Cowle-staffe? Looke how you drumble? Carry them to the Landresse in Dat∣chet meade: quickly▪ come.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>'Pray you come neere; if <HI>I</HI> suspect without cause, Why then make sport at me, then let me be your iest, <HI>I</HI> deserue it: How now? Whether beare you this?</P>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<P>To the Landresse forsooth?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Why, what haue you to doe whether they beare it? You were best meddle with buck-washing.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<LG>
+<L>Bucke? <HI>I</HI> would <HI>I</HI> could wash my selfe of the Buck:</L>
+<L>Bucke, bucke, bucke, <HI>I</HI> bucke; <HI>I</HI> warrant you Bucke,</L>
+<L>And of the season too, it shall appeare.</L>
+</LG>
+<P>Gentlemen, <HI>I</HI> haue dream'd to night, ile tell you my dreame, heere, heere, heere bee my keyes, ascend my Chambers, search, seeke, finde out: ile warrant wee'le vnkennell the Fox. Let mee stop this way first: so, now vncape.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<LG>
+<L>Good master <HI>Ford,</HI> be contented:</L>
+<L>You wrong your selfe too much.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<LG>
+<L>True (master <HI>Page</HI>) vp Gentlemen,</L>
+<L>You shall see sport anon:</L>
+<L>Follow me Gentlemen.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>This is fery fantasticall humors and iealousies.</P>
+</SP>
+<SP>
+<SPEAKER>Caius</SPEAKER>
+<LG>
+<L>By gar, 'tis no-the fashion of France:</L>
+<L>It is not iealous in France.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Nay follow him (Gentlemen) see the yssue of his search.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Is there not a double excellency in this?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<LG>
+<L><HI>I</HI> know not which pleases me better,</L>
+<L>That my husband is deceiued, or Sir <HI>Iohn.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>What a taking was he in, when your husband askt who was in the basket?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P><HI>I</HI> am halfe affraid hee will haue neede of washing, so throwing him into the water, will doe him a benefit.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Hang him dishonest rascall: <HI>I</HI> would all of the same straine, were in the same distresse.</P>
+</SP>
+<SP>
+<PB REF="23"/>
+<SPEAKER>Mist. Ford.</SPEAKER>
+<P>I thinke my husband hath some speciall sus∣pition of <HI>Falstafs</HI> being heere: for I neuer saw him so grosse in his iealousie till now.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<P>I will lay a plot to try that, and wee will yet haue more trickes with <HI>Falstaffe;</HI> his dissolute disease will scarse obey this medicne.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Shall we send that foolishion Carion, Mistris <HI>Quickly</HI> to him, and excuse his throwing into the water, and giue him another hope, to betray him to another punishment?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Wee will doe it; let him be sent for to mor∣row eight a clocke to haue amends.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>I cannot finde him; may be the knaue bragg'd of that he could not compasse▪</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Heard you that?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>You vse me well, M <HI>Ford?</HI> Doe you?</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>I, I doe so.</P>
+</SP>
+<SP>
+<SPEAKER>M. Ford.</SPEAKER>
+<P>Heauen make you better then your thoughts</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Amen.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>You doe your selfe mighty wrong (M. <HI>Ford</HI>)</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>I, I; I must beare it.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>If there be any pody in the house, and in the cham∣bers, and in the coffers, and in the presses; heauen forgiue my sinnes at the day of iudgement.</P>
+</SP>
+<SP>
+<SPEAKER>Caius.</SPEAKER>
+<P>Be-gar, nor I too: there is no bodies.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Fy, fy, M <HI>Ford,</HI> are you not asham'd? What spirit, what diuell suggests this imagination? I would not ha your distemper in this kind, for the welth of <HI>Windsor castle.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>'Tis my fault (M. <HI>Page</HI>) I suffer for it.</P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>You suffer for a pad conscience; your wife is as honest a o'mans, as I will desires among fiue thousand, and fiue hundred too.</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>By gar, I see 'tis an honest woman.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Well, I promisd you a dinner, come, come, walke in the Parke, I pray you pardon me: I will hereafter make knowne to you why I haue done this. Come wife, come Mist <HI>Page,</HI> I pray you pardon me. Pray hartly pardon me.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Let's go in Gentlemen, but (trust me) we'l mocke
+<PB REF="23"/>
+him; I doe inuite you to morrow morning to my house to breakefast: after we'll a Birding together, I haue a fine Hawke for the bush. Shall it be so:</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Any thing.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>If there is one, I shall make two in the Companie.</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>If there be one, or two, I shall make-a-theturd.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Pray you goe, M. <HI>Page.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>I pray you now remembrance to morrow on the lowsie knaue, mine Host.</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>Dat is good by gar, withall my heart.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>A lowsie knaue, to haue his gibes, and his moc∣keries.</P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<HEAD>Scoena Quarta.</HEAD>
+<STAGE>Enter Fenton, Anne Page, Shallow, Slender, Quickly, Page, Mist. Page.</STAGE>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<LG>
+<L>I see I cannot get thy Fathers loue,</L>
+<L>Therefore no more turne me to him (sweet Nan.)</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<P>Alas, how then?</P>
+</SP>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<LG>
+<L>Why thou must be thy selfe.</L>
+<L>He doth obiect, I am too great of birth,</L>
+<L>And that my state being gall'd with my expence,</L>
+<L>I seeke to heale it onely by his wealth.</L>
+<L>Besides these, other barres he layes before me,</L>
+<L>My Riots past, my wilde Societies,</L>
+<L>And tels me 'tis a thing impossible</L>
+<L>I should loue thee, but as a property.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<P>May be he tels you true.</P>
+</SP>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<LG>
+<L>No, heauen so speed me in my time to come,</L>
+<L>Albeit I will confesse, thy Fathers wealth</L>
+<L>Was the first motiue that I woo'd thee (<HI>Anne:</HI>)</L>
+<L>Yet wooing thee, I found thee of more valew</L>
+<L>Then stamps in Gold, or summes in sealed bagges<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/></L>
+<L>And 'tis the very riches of thy selfe,</L>
+<L>That now I ayme at.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<LG>
+<L>Gentle M. <HI>Fenton.</HI></L>
+<L><PB REF="24"/>Yet seeke my Fathers loue, still seeke it sir,</L>
+<L>If opportunity and humblest suite</L>
+<L>Cannot attaine it, why then harke you hither.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<LG>
+<L>Breake their talke Mistris <HI>Quickly,</HI></L>
+<L>My Kinsman shall speake for himselfe.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>Ile make a shaft or a bolt on't, slid, tis but venturing.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Be not dismaid.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<LG>
+<L>No, she shall not dismay me▪</L>
+<L>I care not for that, but that I am affeard.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Hark ye, Master <HI>Slender</HI> would speake a word with you</P>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<LG>
+<L>I come to him. This is my Fathers choice.</L>
+<L>O what a world of vilde-ill-fauour'd faults</L>
+<L>Lookes handsome in three hundred pounds a yeare?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Qui,</SPEAKER>
+<LG>
+<L>And how do's god Master <HI>Fenton?</HI></L>
+<L>Pray you a word with you.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<LG>
+<L>Shee's comming; to her Coz:</L>
+<L>O boy, thou hadst a father,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I had a father (Mistris <HI>Anne</HI>) my vncle can tel you good iests of him; pray you Vncle, tel Mistris <HI>Anne</HI> the iest how my Father stole two Geese out of a Pen, good Vnckle.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Mistris <HI>Anne,</HI> my Cozen loues you.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I that I doe, as well as I loue any woman in Glo∣cestershire.</P>
+</SP>
+<SP>
+<SPEAKER>Shal</SPEAKER>
+<P>He will maintaine you like a Gentlewoman.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I that I will, come cut and long-taile, vnder the de∣gree of a Squire.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Hee will make you a handred and fiftie pounds ioynture.</P>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<P>Good Master <HI>Shallow</HI> let him woe for him∣selfe.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>Marry I thanke you for it, I thanke you for that good comfort: she cals you (Coz) ile leaue you.</P>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<P>Now Master <HI>Slender.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>Now good Mistris <HI>Anne.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<P>What is your will?</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>My will? Odd's-hart-lings, that's a prettie iest in∣deed: I ne're made my Will yet (I thanke Heauen:) I am not such a sickely creature, I giue Heauen praise.</P>
+</SP>
+<SP>
+<PB REF="24"/>
+<SPEAKER>Anne.</SPEAKER>
+<P>I meane (M. <HI>Sender</HI>) what would you with me?</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>Truely, for mine owne part, I would little or no∣thing with you: your father and vncle hath made motions if it be my lucke, so; if not, happy man be his dole, they can tell you how things goe, better then I can: you may, your father, heere he comes.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<LG>
+<L>Now Master <HI>Slender;</HI> Loue him daughter <HI>Anne.</HI></L>
+<L>Why how now? What does Master <HI>Fenton</HI> here?</L>
+<L>You wrong me Sir, thus still to haunt my house.</L>
+<L>I told you Sir, my daughter is disposd of.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<P>Nay Master <HI>Page,</HI> be not impatient.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<P>Good Master <HI>Fenton.</HI> come not to my child.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>She is no match for you.</P>
+</SP>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<P>Sir, will you heare me?</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<LG>
+<L>No, good Master <HI>Fenton.</HI></L>
+<L>Come M. <HI>Shallow:</HI> Come sonne <HI>Slender,</HI> in;</L>
+<L>Knowing my minde, vou wrong me (M. <HI>Fenton.</HI>)</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Speake to Mistris <HI>Page.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<LG>
+<L>Good Mistris <HI>Page,</HI> for that I loue your daughter</L>
+<L>In such a righteous fashion as I do,</L>
+<L>Perforce, against all checkes, rebukes, and manners,</L>
+<L>I must aduance the colours or my loue,</L>
+<L>And not retire. Let me haue your good will.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<P>Good mother, do not marry me to yond foole:</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<P>I meane it not, I seeke you a better hus∣band.</P>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>That's my master, Master Doctor.</P>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<LG>
+<L>Alas I had rather be set quicki'th earth,</L>
+<L>And bowl'd to death with Turnips.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mist Page.</SPEAKER>
+<LG>
+<L>Come, trouble not your selfe good Master</L>
+<L><HI>Fenton,</HI> I will not be your friend, nor enemy:</L>
+<L>My daughter will I question how she loues you,</L>
+<L>And as I finde her, so am I affected;</L>
+<L>Till then, farewill Sir, she must needs go in,</L>
+<L>Her father will be angry.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Fen</SPEAKER>
+<P>Farewell gentle Mistris; farewell <HI>Nan.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>This is my doing now; Nay, saine I, will you cast away your childe on a Foole, and a Physitian:</P>
+<P><PB REF="25"/>Looke on Master <HI>Fenton,</HI> this is my doing.</P>
+</SP>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<LG>
+<L>I thanke thee: and I pray thee once to night,</L>
+<L>Giue my sweet <HI>Nan</HI> this Ring: there's for thy paines:</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>Now heauen send thee good fortune, a kinde heart he hath: a woman would run through fire and water for such a kinde heart. But yet, I would my Master had Mistris <HI>Anne,</HI> or I would Master <HI>Slender</HI> had her: or (in sooth) I would Master <HI>Fenton</HI> had her; I will doe what I can for them all three, for so <HI>I</HI> haue promised, and ile be as good as my word, but speciously for Master <HI>Fenton.</HI> Well, I must of another errand to Sir <HI>Iohn Falstaffe</HI> from my two Mistresses: what a beast am I to slacke it.</P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="5" TYPE="scene">
+<HEAD>Scoena Quarta▪</HEAD>
+<STAGE>Enter Falstaffe, Bardolfe, Quickly, Ford.</STAGE>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P><HI>Bardolfe I</HI> say.</P>
+</SP>
+<SP>
+<SPEAKER>Bar.</SPEAKER>
+<P>Heere Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Go, fetch me a quart of Sacke, put a tost in't. Haue I liu'd to be carried in a Basket like a barrow of butchers Offall? and to be throwne in the Thames? Wel, if I be seru'd such another tricke, ile haue my braines 'tane out and butter'd, and giuen them to a dogge for a New-yeares gift: The rogues slighted mee into the Riuer with as little remorse, as they would haue drown'de a∣blinde bitches Puppies, fifteene i'th litter: and you may know by my size, that <HI>I</HI> haue a kinde of alacrity in sink∣ing: if the bottome were as deepe as hell, <HI>I</HI> should downe. <HI>I</HI> had beene drown'd, but that the shore was sheluy and shallow; a death that <HI>I</HI> abhorre: for the water swelles a man; and what a thing should <HI>I</HI> haue beene, when <HI>I</HI> had beene swel'd? <HI>I</HI> should haue beene a Mountaine of Mummie.</P>
+</SP>
+<SP>
+<SPEAKER>Bar.</SPEAKER>
+<P>Here's M. <HI>Quickly</HI> Sir to speake with you.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Come, let me poure in some Sacke to the Thames water: for my bellies as cold as if <HI>I</HI> had swallow'd snow∣bals, for pilles to coole the reines. Call her in.</P>
+</SP>
+<SP>
+<PB REF="25"/>
+<SPEAKER>Bar.</SPEAKER>
+<P>Come in woman.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<LG>
+<L>By your leaue; I cry you mercy?</L>
+<L>Giue your worship good morrow.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<LG>
+<L>Take away these Challices;</L>
+<L>Go, brew me a pottle of Sacke finely.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Bard.</SPEAKER>
+<P>With Egges, Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Simple of it selfe; Ile no Pullet-Spersme in my bre∣wage. How now?</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Marry Sir, <HI>I</HI> come to your worship from M. <HI>Ford.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P><HI>Mis. Ford? I</HI> haue had Ford enough; I was thrown into the Ford, I haue my belly full of Ford.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Alas the day, (good-heart) that was not her fault; she do's so take on with her men; they mistooke their promise▪ erection.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>So did I mine, to build vpon a foolish Womans</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Well, she laments Sir for it, that it would yern your heart to see it; her husband goes this morning a birding; she desires you once more to come to her, betweene eight and nine; I must carry her word quickely, she'll make you amends <HI>I</HI> warrant you.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Well, I will visit her, tell her so▪ and bidde her thinke what a man is; Let her consider his frailety, and then iudge of my merit.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>I will tell her.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Do so. Betweene nine and ten saist thou?</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Eight and nine Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Well, be gone; I will not misse her.</P>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>Peace be with you Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>I meruaile I heare not of Master <HI>Broome;</HI> he sent me word to stay within; I like his money well: Oh, heere he comes.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Blesse you Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<LG>
+<L>Now M. <HI>Broome,</HI> you come to know</L>
+<L>What hath past betweene me, and <HI>Fords</HI> wife.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>That indeed (Sir <HI>Iohn</HI>) is my businesse.</P>
+</SP>
+<SP>
+<SPEAKER>Fal:</SPEAKER>
+<LG>
+<L><HI>M. Broome I</HI> will not lye to you,</L>
+<L><PB REF="26"/>I was at her house the houre she appointed me.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>And sped you Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Very ill fauouredly M. <HI>Broome.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>How so sir, did she change her determination?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>No (M. <HI>Broome</HI>) but the peaking Curnuio her hus∣band (M. <HI>Broome</HI>) dwelling in a continnall larum of ielou∣sie, comes me in the instant of our encounter, after wee had embrast, kist, protested, and (as it were) spoke the prologue of our Comedy▪ and at his heeles, a rabble of his compani∣ons, thither prouoked and instigated by his distemper, and (forsooth) to search his house for his wiues Loue.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>What? While you were there?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>While <HI>I</HI> was there.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>And did he search for you, and could not find you?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>You shall heare. As good lucke would haue it, comes in one <HI>Mist. Page,</HI> giues intelligence of <HI>Fords</HI> approach: and in her inuention, and <HI>Fords</HI> wiues distraction, they conuey'd me into a bucke-basket.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>A Buck-basket?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Yes, a Buck-basket: ram'd mee in with foule Shirts, and Smockes, Socks, foule Stockings, greasie Napkins, that (Master <HI>Broome</HI>) there was the rankest compound of villanous smell, that euer offended no∣strill.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>And how long lay you there?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Nay, you shall heare (Master <HI>Broome</HI>) what <HI>I</HI> haue suffered, to bring this woman to euill, for your good: Being thus cram'd in the Basket, <GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/> couple of <HI>Fords</HI> knaues, his Hindes, were cald forth by their Mi∣stris, to carry mee in the name of foule Cloathes to <HI>Datchet lane;</HI> they tooke mee on their shoulders met the iealous knaue their Master in the doore; who asked them once or twice what they had in their Bas∣ket? I quak'd for feare lest the Lunatique Knaue would haue search'd it: but Fate (ordaining hee should bee a Cuckold) held his hand: well, on went hee, for
+<PB REF="26"/>
+a search and away went I for foule Cloathes; But marke the sequell (Master <HI>Broome</HI>) I suffered the pangs of three seuerall deaths: First, an intollerable fright, to bee detected with a iealious rotten Bell▪ weather: Next to bee compass'd like a good Bilbo in the circum∣ference of a Pecke, hilt to point, heele to▪ head. And then to bee stopt in like a strong distillation with stink∣ing Cloathes, that fretted in their owne grease thinke of that, a man of my Kidney; thinke of that; that am as subiect to heate as butter; a man of conti∣nuall dissolution, and thaw: it was a miracle to scape∣suffocation. And in the height of this Bath (when I was more then halfe stew'd in grease (like a Dutch∣dish) to bee throwne into the Thames, and coold, glowing hot, in that serge like a Horse∣shoo; thinke of that; hissing hot: thinke of that (Master <HI>Broome.</HI>)</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>In good sadnesse Sir, I am sorry, that for my sake you haue sufferd all this.</P>
+<P>My suite then is desperate: You'll vndertake her no more?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Master <HI>Broome:</HI> I will bee throwne into <HI>E<GAP DESC="illegible" REASON="faint" EXTENT="1 letter" DISP="•"/>ta,</HI> as I haue beene into Thames, ere I will leaue her thus; her Husband is this morning gone a Birding, I haue receiued from her another ambassie of mee∣ting; 'twixt eight and nine is the houre (Master <HI>Broome.</HI>)</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>'Tis past eight already Sir,</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Is it? I will then addresse mee to my appoint∣ment; Come to mee at your conuenient leasure, and you shall know how <HI>I</HI> speede: and the conclusion shall bee crowned with your enioying her: adiew; you shall haue her (Master <HI>Broome</HI>) Master <HI>Broome,</HI> you shal cuckold <HI>Ford.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Hum: ha? Is this a vision? Is this a dreame? doe I sleepe? Master <HI>Ferd</HI> awake, awake Master <HI>Ford▪</HI>
+<PB REF="27"/>
+ther's a hole made in your best coate (Master <HI>Ford:</HI>) this 'tis to bee marryed; this 'tis to haue Lynnen, and Buck∣baskets: Well, I will proclaime my selfe what I am▪ I will now take the Leacher; hee is at my house; hee cannot scape mee; 'tis impossible hee should: hee can∣not creepe into a halfe-penny purse, not into a Pepper-Boxe. But lest the Diuell that guides him, should aide him, I will search impossible places: though what I am, I cannot auoide; yet to bee what I would not, shall not make me tame; If I haue hornes, to make one mad, let the prouerbe goe with mee, ile bee horne∣mad.</P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<HEAD>Actus Quartus.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Scoena Prima.</HEAD>
+<STAGE>Enter Mistris Page, Quickly, William, Euens:</STAGE>
+<SP>
+<SPEAKER>Mis Page.</SPEAKER>
+<P>Is he at M. <HI>Fords</HI> already think'st thou?</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Sure hee is by this; or will bee presently; but truely hee is very couragious mad, about his throwing into the water. Mistris <HI>Ford</HI> desires you to come so∣dainely.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Ile be with her by and by; ile but bring my yong-man here to Schoole; looke where his Master comes; 'tis a playing day I see: how now Sir <HI>Hugh,</HI> no Schoole to day?</P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>No, Master <HI>Slender</HI> is let the Boyes leaue to play.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>'Blessing of his heart.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Sir <HI>Hugh,</HI> my husband saies my sonne profits nothing in the world at his Booke; I pray you aske him some questions in his Accidence.</P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>Come hither <HI>William;</HI> hold vp your head; come.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Come-on Sirha; hold vp your head; answere your Master, be not afraid.</P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P><HI>William,</HI> how many Numbers is in Nownes?</P>
+</SP>
+<SP>
+<SPEAKER>Will.</SPEAKER>
+<P>Two.</P>
+</SP>
+<SP>
+<PB REF="27"/>
+<SPEAKER>Qui.</SPEAKER>
+<P>Truely, I thought there had bin one Number more, because they say od's-Nownes.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Peace, your tatlings. What is <HI>(Faire) William?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Will.</SPEAKER>
+<P>Pulcher.</P>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<P>Powlcats? there are fairer things then Powlcat, sure.</P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>You are a very simplicity o'man; <HI>I</HI> pray you peace. What is <HI>(Lapis) William?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Will.</SPEAKER>
+<P>A Stone.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>And what is a Stone (<HI>William?</HI>)</P>
+</SP>
+<SP>
+<SPEAKER>Will.</SPEAKER>
+<P>A Peeble.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>No; it is <HI>Lapis;</HI> I pray you remember in your praine.</P>
+</SP>
+<SP>
+<SPEAKER>Will.</SPEAKER>
+<P>Lapis.</P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>That is a good <HI>William;</HI> what is he (<HI>William</HI>) that do's lend Articles:</P>
+</SP>
+<SP>
+<SPEAKER>Will.</SPEAKER>
+<P>Articles are borrowed of the Pronoune; and be thus declined▪ <HI>Singulariter nominatiuo hic haec, hoc.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P><HI>Nominatiuo hig, hag, hog;</HI> pray you marke; <HI>genitiue huius;</HI> Well: what is your <HI>Accusatiue-case?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Will.</SPEAKER>
+<P>Accusatiue hinc.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>I pray you haue your remembrance (childe) <HI>Ac∣cusatiuo hing, hang, hog.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Hang-hog, is latten for Bacon, <HI>I</HI> warrant you.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Leaue your prables (o'man) What is the <HI>Focatiue case</HI> (<HI>William?</HI>)</P>
+</SP>
+<SP>
+<SPEAKER>Will.</SPEAKER>
+<P>O, Vocatiuo, O.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Remember <HI>William, Focatiue,</HI> is <HI>caret:</HI></P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>And that's a good roote.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>O'man, forbare.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Peace.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>What is your <HI>Genitiue case plurall (William?)</HI></P>
+</SP>
+<SP>
+<SPEAKER>Will.</SPEAKER>
+<P>Genitiue case?</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>I.</P>
+</SP>
+<SP>
+<SPEAKER>Will.</SPEAKER>
+<P>Genitiue horum, harum, horum.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Vengeance of Ginyes case; fie on her; neuer name
+<PB REF="28"/>
+her (childe) if she be a whore.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>For shame o'man.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>You doe ill to teach the childe such words: hee teaches him to hic, and to hac; which they'll doe fast enough of themselues, and to call <HI>horum;</HI> fie vpon you.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>O'man, art thou Lunaties? Hast thou no vn∣derstandings for thy Cases, and the numbers of the Gen∣ders? Thou art as foolish Christian creatures, as I would desires.</P>
+</SP>
+<SP>
+<SPEAKER>M. Page.</SPEAKER>
+<P>Pre'thee hold thy peace.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Shew me now (<HI>William</HI>) some declensions of your Pronounes.</P>
+</SP>
+<SP>
+<SPEAKER>Will.</SPEAKER>
+<P>Forsooth, I haue forgot.</P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>It is <HI>Qui, que, quod;</HI> if you forget your <HI>Quies,</HI> your <HI>Ques,</HI> and your <HI>Quods,</HI> you must be preeches: Goe your waies and play, go.</P>
+</SP>
+<SP>
+<SPEAKER>M. Page.</SPEAKER>
+<P>He is a better scholler then I thought hee was.</P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>He is a good sprag▪ memory: Farewel <HI>Mis. Page.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Adeu good Sir <HI>Hugh.</HI></P>
+<P>Get you home boy, Come we stay too long.</P>
+<STAGE>Exeunt:</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Scoena Secunda.</HEAD>
+<STAGE>Enter Falstaffe, M. Ford, Mist. Page. Seruants, Ford, Page, Caius, Euans Shallow.</STAGE>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P><HI>Mis. Ford,</HI> Your sorrow hath eaten vp my suffe∣rance; <HI>I</HI> see you are obsequious in your loue, and I pro∣fesse requitall to a haires bredth, not onely Mistris <HI>Ford,</HI> in the simple office of loue, but in all the accustrement com∣plement, and ceremony of it: But are you sure of your hus∣band now?</P>
+</SP>
+<SP>
+<SPEAKER>M. Ford.</SPEAKER>
+<P>Hee's a birding (sweet Sir <HI>Iohn.</HI>)</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>What hoa▪ gossip <HI>Ford;</HI> what hoa.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Step into th' chamber, Sir <HI>Iohn▪</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>How now (sweet heart) whose at home▪
+<PB REF="28"/>
+besides your selfe?</P>
+</SP>
+<SP>
+<SPEAKER>Mis Ford.</SPEAKER>
+<P>Why none but mine owne people.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Indeed?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Frod.</SPEAKER>
+<P>No certainly; Speake louder.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Truly, I am so glad you haue no body here.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Ford.</SPEAKER>
+<P>Why?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Why woman, your husband is in his olde lines againe; he so takes on yonder with my husband, so railes against all married mankind; so curses all <HI>Eues</HI> daugh∣ters, of what complexion soeuer; and so buffettes himselfe on the for-head; crying peere-out, peere-out, that any mad∣nesse I euer yet beheld, seem'd but tamenesse, ciuility, and patience to this his distemper he is in now. I am glad the fat Knight is not heere,</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Why, do's he talke of him?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Of none but him, and sweares hee was ca∣ried out the last time hee search'd for him, in a Basket; Protests to my husband he is now heere, and hath drawne him and the rest of their company from their sport, to make another experiment of his suspition: But I am glad the Knight is not heere; now hee shall see his owne foo∣lerie.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>How neere is he Mistrs <HI>Page?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<P>Hard by, at street end; he will be here anon▪</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Ford.</SPEAKER>
+<P><HI>I</HI> am vndone, the Knight is heere:</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<P>Why then you are vtterly sham'd, and hee's but a dead man. What a woman are you? Away with him, away with him; Better shame, then murther.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Ford.</SPEAKER>
+<P>Which way should he goe? How should <HI>I</HI> be∣stow him? Shall <HI>I</HI> put him into the basket againe?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>No, Ile come no more i'th Basket.</P>
+<P>May I not goe out ere he come?</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<P>Alas: three of Master <HI>Fords</HI> brothers watch the doore with Pistols, that none shall issue out: otherwise you might slip away ere hee came: But what make you heere?</P>
+</SP>
+<SP>
+<PB REF="29"/>
+<SPEAKER>Fal.</SPEAKER>
+<P>What shall I doe? Ile creepe vp into the chimney.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>There they alwayes vse to discharge their Bir∣ding-peece: creepe into the Kill▪hole.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Where is it?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Hee will seeke there on my word; Neyther Presse, Coffer, Chest, Trunke, Well, Vault, but hee hath an abstract for the remembrance of such places, and goes to them by his Note; There is no hiding you in the house.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Ile goe out then:</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Ford.</SPEAKER>
+<P>If you goe out in your owne semblance, you die Sir <HI>Iohn,</HI> vnlesse you go out disguis'd.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>How might we disguise him?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Alas the day I know not, there is no womans gowne bigge enough for him: otherwise he Might put on a hat, a muffler, and kerchiefe, and so escape.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Good hearts, diuise something; any extremitie, ra∣ther then a mischiefe.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>My Maids Aunt the fat woman of <HI>Brainford,</HI> has a gowne aboue.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>On my word it will serue him: shee's as big as he is; and there's her thrum'd hat, and her muffler▪ too: run vp Sir <HI>Iohn.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Go, go, sweet Sir <HI>Iohn: Mistris Page</HI> and I will looke some linnen for your head.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Quicke, quicke, wee'le come dresse you straight: put on the gowne the while.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P><HI>I</HI> would my husband would meete him in this shape; he cannot abide the old woman of Brainford; hee sweares she's a witch, forbad her my house, and hath threa∣tned to beate her.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Heauen guide him to thy husbands cudgell; and the diuell guide his cudgell afterwards.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>But is my husband comming?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>I in good sadnesse is hee, and talkes of the basket too, howsoeuer he hath had intelligence.</P>
+</SP>
+<SP>
+<PB REF="29"/>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Wee'l try that: for ile appoint my men to car∣ry the basket againe, to meete him at the doore with it, as they did last time.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<P>Nay, but hee'l be heere presently: let goe dresse him like the witch of <HI>Brainford.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mist. Ford.</SPEAKER>
+<P>Ile first direct my men, what they shall doe with the basket: Goe vp, ile bring linnen for him straight.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<LG>
+<L>Hang him dishonst Varlet,</L>
+<L>We cannot misuse enough:</L>
+<L>Well leaue a proofe by that which we will doe,</L>
+<L>Wiues may be merry, and yet honest too:</L>
+<L>We do not acte that often, iest, and laugh,</L>
+<L>'Tis old, but true, Still Swine eats all the draugh.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mist. Ford.</SPEAKER>
+<P>Go Sirs, take the bas basket againe on your shoulders: your Master is hard at doore: if he bid you set it downe, obey him▪ quickly, dispatch.</P>
+</SP>
+<SP>
+<SPEAKER>1 Ser.</SPEAKER>
+<P>Come, come, take it vp.</P>
+</SP>
+<SP>
+<SPEAKER>2 Ser.</SPEAKER>
+<P>Pray heauen it be not full of Knight againe.</P>
+</SP>
+<SP>
+<SPEAKER>1 Ser.</SPEAKER>
+<P>I hope not, I had liefe as beare so much lead.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>I, but if it proue true (Master <HI>Page</HI>) haue you any way then to vnfoole mee againe. Set downe the basket villaine: some body call my wife: Youth in a basket: Oh you Panderly Rascals, there's a knot: a gin, a packe, a conspiracie against mee. Now shall the diuel be sham'd-What wise I say: Come, come forth: behold what ho∣nest cloathes you send forth to bleaching.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Why, this passes Master <HI>Ford,</HI> you are not to goe loose any longer, you must be pinnion'd.</P>
+</SP>
+<SP>
+<SPEAKER>Euan<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>:</SPEAKER>
+<P>Why, this is Lunaticks: this is madde, as a mad dogge.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>In deed Master <HI>Ford,</HI> this is not well indeed.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>So say I too Sir, come hither Mistris <HI>Ford,</HI> Mistris <HI>Ford,</HI> the honest woman, the modest wife, the vertuous crea∣ture▪ that hath the iealous foole to her husband: I suspect without cause (Mistris) do I?</P>
+</SP>
+<SP>
+<PB REF="30"/>
+<SPEAKER>Mist. Ford.</SPEAKER>
+<P>Heauen be my witnesse you do, if you suspect me in any dishonesty.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Well said Brazen-face, hold it out: Come forth sirrah.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>This passes.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Ford.</SPEAKER>
+<P>Are you not a sham'd, let the cloths alone.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>I shall finde you anon.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>'Tis vnreasonable; will you take vp your wiues cloathes? Come, away.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Empty the basket I say.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Why man, why?</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Master <HI>Page,</HI> as I am a man, there was one conuay'd out of my house yesterday in this basket: why may not he be there againe, in my house I am sure hee is; my In∣telligence is true, my iealousie is reasonable, plucke mee out all the linnen.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Ford.</SPEAKER>
+<P>If you find a man there, hee shall dye a Fleas death.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Heer's no man.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>By my fidelity this is not well Master <HI>Ford:</HI> This wrongs you.</P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>Master <HI>Ford,</HI> you must pray, and not follow the imaginations of your owne heart: this is iealousies.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Well, hee's not heere I seeke for.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>No, nor no where else but in your braine.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Helpe to search my house this one time: if I find not what I seeke, shew no colour for my extremity; Let me for euer be your Table-sport; Let them say of me, as iealous as <HI>Ford,</HI> that search'd a hollow Wall-nut for his wiues Lemman. Satisfie me once more, once more serch with me.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Ford.</SPEAKER>
+<P>What hoa (Mistris <HI>Page,</HI>) come you and the old woman downe; my husband will come into the Chamber.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Old woman? what old womans that?</P>
+</SP>
+<SP>
+<SPEAKER>M. Ford.</SPEAKER>
+<P>Why it is my maids Aunt of <HI>Brainford.</HI></P>
+</SP>
+<SP>
+<PB REF="30"/>
+<SPEAKER>Ford:</SPEAKER>
+<P>A witch, a Queane, an olde couzening queane: Haue I not forbid her my house. She comes of errands, do's she? We are simple men, wee doe not know what's brought to passe vnder the profession of Fortune telling, She workes by Charmes, by Spels, by th' Figure, and such dawbry as this is, beyond our Element: wee know no∣thing. Come downe you Witch, you Hagge you, come downe I say.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Nay, good sweet husband, good Gentlemen, let him not strike the old woman.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Come mother <HI>Prat,</HI> Come giue me your hand.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Ile <HI>Prat</HI>-her: Out of my doore, you Witch, you Hagge, you Baggage, you Poulcat, you Runnion, out, out: Ile coniure you, ile fortune tell you.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<LG>
+<L>Are you not a sham'd?</L>
+<L>I thinke you haue kill'd the poore woman.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Nay hee will do it, 'tis a goodly credit for you.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Hang her witch.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>By yea, and no, I thinke the o'man is a witch in∣deede: I like not when a o'mans has a great peard; I spie a great peard vnder his muffler.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Will you follow Gentlemen, I beseech you follow; see but the issue of my iealousie. If I cry out thus vpon no traile, neuer trust me when I open againe.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<LG>
+<L>Let's obey his humour a little further;</L>
+<L>Come Gentlemen.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Trust me he beate him most pittifully.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Nay by th' Masse that he did not; he beate him most vnpittifully, me thought.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Ile haue the cudgell hallow'd, and hung ore the Altar, it hath done meritorious seruice.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>What thinke you? May wee with the warrant of woman-hood, and the witnesse of a good conscience, pursue him with any further reuenge?</P>
+</SP>
+<SP>
+<PB REF="31"/>
+<SPEAKER>Mist. Page.</SPEAKER>
+<P>The spirit of wantonnesse is sure scar'd out of him, if the diuell haue him not in fee-simple, with find &amp; recouery, he will neuer (I thinke) in the way of waste, at∣tempt vs againe.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Ford.</SPEAKER>
+<P>Shall wee tell our husbands how wee haue seru'd him?</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<P>Yes, by all meanes: if it be but to scrape the figures out of your husbands braines: if they can find in their hearts, the poore vnuertuous fat Knight shall be any further afflicted, wee two will bee still the mini∣sters.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Ford.</SPEAKER>
+<P>Ile warrant, they'l haue him publiquely sham'd, and me thinkes there would be no period to iest, should he not be publikely sham'd.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<P>Come, to the Forge with it, then shape it: I would not haue things coole.</P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>Scoena Tertia.</HEAD>
+<STAGE>Enter Host and Bardolfe.</STAGE>
+<SP>
+<SPEAKER>Bar.</SPEAKER>
+<P>Sir, the Germane desires to haue three of your horses: the Duke himselfe will be to morrow at Court, and they are going to meet him.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>What Duke should that be comes so secretly? I heare not of him in the Court: let me speake with the Gentlemen, they speake English?</P>
+</SP>
+<SP>
+<SPEAKER>Bar.</SPEAKER>
+<P>I Sir, Ile call him to you.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>They shall haue my horses, but Ile make them pay: Ile sauce them, they haue had my houses a weeke at com∣maund. I haue turn'd away my other guests they must come off, Ile sawce them, come.</P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<PB REF="31"/>
+<HEAD>Scoena Quarta▪</HEAD>
+<STAGE>Enter Page, Ford, Mistris. Page, Mistris Ford, and Euans.</STAGE>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>'Tis one of the best discretions of a o'mans as e∣uer I did looke vpon.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>And did he send you both these Letters at an instant?</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<P>Within a quarter of an houre.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<LG>
+<L>Pardon me (wife) henceforth doe what thou wilt:</L>
+<L>I rather will suspect the Sunne with gold,</L>
+<L>Then thee with wantonnes: Now doth thy honor stand</L>
+<L>(In him that was of late an Heretike)</L>
+<L>As firme as faith.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<LG>
+<L>'Tis well, 'tis well, no more:</L>
+<L>Be not as extreme in submission, as in offence,</L>
+<L>But let our plot go forward: Let our wiues</L>
+<L>Yet once againe (to make vs publike sport)</L>
+<L>Appoint a meeting with this old fat-fellow,</L>
+<L>Where we may take him, and disgrace him for it.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>There is no better way then that they spoke of.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>How? to send him word they'll meete him in the Parke at midnight? Fie, fie, he'll neuer come.</P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>You say he has bin throwne in the Riuers: and has bin greeuously peaten, as an old o'man: me-thinkes there should be terror in him, that hee should not come: Me-thinkes his flesh is punish'd, hee shall haue no de∣sires,</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>So thinke I too.</P>
+</SP>
+<SP>
+<SPEAKER>M. Ford.</SPEAKER>
+<P>Deuise but how you'l vse him when he comes, And let vs two deuise to bring him thither.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<LG>
+<L>There is an old tale goes, that <HI>Herne</HI> the</L>
+<L>Hunter (sometime a keeper heere in Windsor Forrest)</L>
+<L>Doth all the winter time, at still midnight,</L>
+<L><PB REF="32"/>Walke round about an Oake, with great rag'd hornes,</L>
+<L>And there he blasts the tree, and takes the cattle,</L>
+<L>And make milch-kine yeeld blood, and shakes a chaine</L>
+<L>In a most hideous and dredfull manner.</L>
+<L>You haue heard of such a Spirit, and well you know</L>
+<L>The superstitious idle-headed-Eld</L>
+<L>Receiu'd, and did deliuer to our age</L>
+<L>This tale of <HI>Herne</HI> the Hunter, for a truth.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<LG>
+<L>Why yet there want not many that do feare</L>
+<L>In deepe of night to walke by this Hernes Oake:</L>
+<L>But what of this?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mist. Ford.</SPEAKER>
+<LG>
+<L>Marry this is our deuise,</L>
+<L>That <HI>Falstaffe</HI> at that Oake shall meete with vs.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<LG>
+<L>Well, let it not be doubted but he'll come,</L>
+<L>And in this shape, when you haue brought him thether,</L>
+<L>What shall be done with him? What is your plot?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<LG>
+<L>That likewise haue we thoght vpon and thus:</L>
+<L><HI>Nan Page</HI> (my daughter) and my little sonne,</L>
+<L>And three or foure more of their growth, wee'l dresse</L>
+<L>Like Vrchins, Ouphes, and Fairies, greene and white,</L>
+<L>With rounds of waxen Tapers on their heads</L>
+<L>And rattles in their hands; vpon a sodaine,</L>
+<L>As <HI>Falstaffe,</HI> and I, are newly met,</L>
+<L>Let them from forth a saw▪ pitrush at once</L>
+<L>With some diffused song: Vpon their sight</L>
+<L>We two, in great amazednesse will flye:</L>
+<L>Then let them all encircle him about,</L>
+<L>And Fairy-like to pinch the vncleane Knight;</L>
+<L>And aske him why that houre of Fairy Reuell,</L>
+<L>In their so sacred pathes, he dares to tread</L>
+<L>In shape prophane.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<LG>
+<L>And till he tell the truth,</L>
+<L>Let the supposed Fairies pinch him, sound,</L>
+<L>And burne him with their Tapers.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<LG>
+<L>The truth being knowne.</L>
+<L>We'll all present our selues; dis-horne the spirit,</L>
+<L><PB REF="32"/>And mocke him home to Windsor.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<LG>
+<L>The children must</L>
+<L>Be practis'd well to this, or they'll neu'r doo't.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>I will teach the children their behauiours &amp; I will: be like a Iacke-an-Apes also, to burne the Knight with my Taber.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<LG>
+<L>That will be excellent,</L>
+<L>Ile go buy them vizards.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>My <HI>Nan</HI> shall be the Queene of all the Fairies, finely attired in a robe of white.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<LG>
+<L>That silke will I go buy, and in that time</L>
+<L>Shall M. <HI>Slender</HI> steale my <HI>Nan</HI> away,</L>
+<L>And marry her at <HI>Eaton:</HI> go, send to <HI>Falstaffe</HI> straight.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<LG>
+<L>Nay. Ile to him againe in the name of <HI>Broome,</HI></L>
+<L>Hee'l tell me all his purpose: sure hee'l come.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<LG>
+<L>Feare not you that; Go get vs properties</L>
+<L>And tricking for our Fayries.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<LG>
+<L>Let vs about it,</L>
+<L>It is admirable pleasures, and ferry honest knaueries.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<LG>
+<L>Go <HI>Mis. Ford,</HI></L>
+<L>Send quickly to Sir <HI>Iohn,</HI> to know his minde;</L>
+<L>Ile to the Doctor, he hath my good will,</L>
+<L>And none but he to marry with <HI>Nan Page;</HI></L>
+<L>That <HI>Slender</HI> (though well landed) is an Ideot,</L>
+<L>And he, my husband best of all affects;</L>
+<L>The Doctor is well monied and friends</L>
+<L>Potent at Court; he, none but he shall haue her,</L>
+<L>Though twenty thousand worthier come to craue her.</L>
+</LG>
+</SP>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<HEAD>Scoena Quarta.</HEAD>
+<STAGE>Enter Host, Simple, Falstaffe, Bardolfe, Euans, Cains, Quickly.</STAGE>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>What wouldst thou haue? (Boore) what? (thick skin) speake, breathe, discusse; breefe, short, quicke, nap.</P>
+</SP>
+<SP>
+<PB REF="33"/>
+<SPEAKER>Simp.</SPEAKER>
+<P>Marry Sir, I come to speake with Sir <HI>Iohn Falstaffe</HI> from Master <HI>Slender.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>There's his Chamber, his House, his Castle his standing bed and truckle-bed: 'tis painted about with the story of the Prodigall, fresh and new: goe, knocke and call: hee'l speake like an Anthropophaginian vnto thee; Knocke I say.</P>
+</SP>
+<SP>
+<SPEAKER>Simp.</SPEAKER>
+<P>There's an olde woman, a fat woman gone vp in∣to his chamber; ile be so bold as stay Sir till she come down I come to speake with her indeed.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Ha▪ A fat woman? The Knight may be robb'd; Ile call. Bully-Knight, Bully Sir <HI>Iohn;</HI> speake from thy Lungs Military; Art thou there? It is thine Host, thine Ephesian cals.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>How now mine Host?</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Here's a Bohemian-Tartar taries the comming downe of thy fat-woman. Let her descend (Bully) let her descend▪ my Chambers are honourable; Fie, priuacy? Fie.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>There was (mine Host) an old-fat-woman euen now with me, but she's gone.</P>
+</SP>
+<SP>
+<SPEAKER>Simp.</SPEAKER>
+<P>Pray you Sir, was't not the Wise-woman of <HI>Brainford?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>I marry was it (Mussel-shell) what would you with her?</P>
+</SP>
+<SP>
+<SPEAKER>Simp.</SPEAKER>
+<P>My Master (Sir) my master <HI>Slender,</HI> sent to her seeing her go thorough the streets, to know (Sir) whether one <HI>Nim</HI> (Sir) that beguil'd him of a chaine, had the chaine or no▪</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>I spake with the old woman about it.</P>
+</SP>
+<SP>
+<SPEAKER>Sim.</SPEAKER>
+<P>And what sayes she, I pray Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Marry shee sayes, that the very same man that be∣guil'd Master <HI>Slender</HI> of his Chaine, cozon'd him of it.</P>
+</SP>
+<SP>
+<SPEAKER>Simp.</SPEAKER>
+<P>I would I could haue spoken with the Woman her selfe, I had other things to haue spoken with her too, from him.</P>
+</SP>
+<SP>
+<PB REF="33"/>
+<SPEAKER>Fal.</SPEAKER>
+<P>What are they? let vs know.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>I; come, quicke.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>I may not conceale them (Sir.)</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Conceale them, or thou di'st.</P>
+</SP>
+<SP>
+<SPEAKER>Sim.</SPEAKER>
+<P>Why sir, they were nothing but about Mistris <HI>Anne Page,</HI> to know if it were my Master fortune to haue her, or no.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>'Tis, 'tis his fortune▪</P>
+</SP>
+<SP>
+<SPEAKER>Sim.</SPEAKER>
+<P>What Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>To haue her, or no: goe; say the woman told me so.</P>
+</SP>
+<SP>
+<SPEAKER>Simple</SPEAKER>
+<P>May I be bold to say so Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>I Sir: like who more bold.</P>
+</SP>
+<SP>
+<SPEAKER>Simp.</SPEAKER>
+<P>I thanke your worship: I shall make my Master glad with these tydings.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Thou are clearkly; thou art clearkly (Sir <HI>Iohn</HI>) was there a wise woman with thee?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>I that there was (mine <HI>Host</HI>) one that hath taught me more wit, then euer I learn'd before in my life: and I paid nothing for it neither, but was paid for my lear∣ning.</P>
+</SP>
+<SP>
+<SPEAKER>Bar.</SPEAKER>
+<P>Out alas (Sir) cozonage: meere cozonage.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Where be my horses? speake well of them var∣letto.</P>
+</SP>
+<SP>
+<SPEAKER>Bar.</SPEAKER>
+<P>Run away with the cozoners: for so soone as I came beyond <HI>Eaton,</HI> they threw mee off, from behinde one of them, in a slough of myre; and set spurres, and away; like three <HI>Germane</HI>-diuels; three <HI>Doctor Fau∣staffes.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>They are gone but to meete the Duke (villaine) doe not say they be fled: <HI>Germanes</HI> are honest men.</P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>Where is mine <HI>Host?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>What is the matter Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Euan:</SPEAKER>
+<P>Haue a care of your entertainments: there is a friend of mine come to Towne, tels mee there is three Cozen-Iermans, that has cozened all the <HI>Hosts</HI> of <HI>Readius,</HI>
+<PB REF="34"/>
+of <HI>Maidenhead;</HI> of <HI>Cole-brooke,</HI> of horses and money: I tell you for good will (looke you) you are wise, and full of gibes, and vlouting-stocks: and 'tis not conuenient you should be cozoned. Fare you well.</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>Ver'is mine <HI>Host de Iarteere?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Here (Master <HI>Doctor</HI>) in perplexitie, and doubtfull delemma.</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>I cannot tell vat is dat: but it is tell-a-me, dat you make grand preparation for a Duke <HI>de Iamanie:</HI> by my trot; der is no Duke that the Court is know, to come▪ I tell you for good will; adieu.</P>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Huy and cry, (villaine) goe: assist me Knight, I am vndone: fly, run: huy, and cry (villaine) I am vn∣done.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>I would all the world might bee cozond, for I haue beene cozond and beaten too: if it should come to the eare of the Court, how I haue beene transformed; and how my transformation hath beene washd, and cudgeld, they would melt mee out of my fat drop by drop, and liquor Fishermens-boots with mee: I warrant they would whip mee with their fine wits, till I were as crest-falne as a dride-peare I neur prosper'd since I forswore my selfe at <HI>Primero:</HI> well, if my winde were but long enough; I would repent; Now? Whence come you?</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>From the two parties forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P><GAP DESC="illegible" REASON="faint" EXTENT="2 letters" DISP="••"/>e Diuell take one partie, and his Dam the other: and so they shall bee both bestowed; I haue suf∣fer'd more for their sakes; more then the villanous incon∣stancy of mans disposition is able to beare.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>And haue not they suffer'd? Yes, I warrant; spe∣ciously one of them; Mistris <HI>Ford</HI> (good heart) is beaten blacke and blew, that you cannot see a white spot about her.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>What tell'st thou mee of blacke, and blew? I was beaten my selfe into all the colours of the Raine∣bow:
+<PB REF="34"/>
+and I was like to be apprehended for the Witch of <HI>Braineford,</HI> but that my admirable dexteritie of wit, my counterfeiting the action of an old woman deliuer'd mee, the knaue Constable had set meith' Stocks, ith' common Stocks, for a Witch.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Sir: let me speake with you in your Chamber, you shall heare how things goe, and (I warrant) to your content: here is a Letter will say somewhat: (good∣hearts) what a-doe here is to bring you together? Sure, one of you do's not serue heauen well, that you are so cross'd.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Come vp into my Chamber.</P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="6" TYPE="scene">
+<HEAD>Scoena Sexta.</HEAD>
+<STAGE>Enter Fenton, Host.</STAGE>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<LG>
+<L>Master <HI>Fenton,</HI> talke not to me, my minde is heauy:</L>
+<L>I will giue ouer all.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<LG>
+<L>Yet heare me speake; assist me in my purpose,</L>
+<L>And (as I am a gentleman) ile giue thee</L>
+<L>A hundred pound in gold, more then your losse.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>I will heare you (Master <HI>Fenton</HI>) and <HI>I</HI> will▪ (at the least) keepe your counsell.</P>
+</SP>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<LG>
+<L>From time to time, I haue acquainted you</L>
+<L>With the deare loue I beare to faire <HI>Anne Page,</HI></L>
+<L>Who, mutually, hath answer'd my affection,</L>
+<L>(So farre forth, as her selfe might be her chooser)</L>
+<L>Euen to my wish; I haue a letter from her</L>
+<L>Of such contents, as you will wonder at;</L>
+<L>The mirth whereof, so larded with my matter,</L>
+<L>That neither (singly) can be manifested</L>
+<L>Without the shew of both: fat <HI>Falstaffe</HI></L>
+<L>Hath a great Scene; the image of the iest.</L>
+<L>Ile show you here at large (harke good mine <HI>Host;</HI>)</L>
+<L>To night at <HI>Hernes-Oke,</HI> iust 'twixt twelue and one,</L>
+<L><PB REF="35"/>Must my sweet <HI>Nun</HI> present the <HI>Fairie Queene;</HI></L>
+<L>The purpose why, is here▪ in which disguise</L>
+<L>While other lests are something ranke on foote,</L>
+<L>Her father hath commanded her to slip</L>
+<L>Away with <HI>Slender,</HI> and with him, at <HI>Eaton</HI></L>
+<L>Immediately to Marry; She hatst consented▪ Now Sir,</L>
+<L>Her Mother, (euen strong against that match</L>
+<L>And firme for Doctor <HI>Caius</HI>) hath appointed</L>
+<L>That he shall likewise shuffle her away,</L>
+<L>While other sports are tasking of their mindes,</L>
+<L>And at the <HI>Deanry,</HI> where a <HI>Priest</HI> attends</L>
+<L>Strait marry her: to this her Mothers plot</L>
+<L>She (seemingly obedient) likewise hath</L>
+<L>Made promise to the <HI>Doctor;</HI> Now, thus it rests,</L>
+<L>Her Father meanes she shall be all in white;</L>
+<L>And in that habit, when <HI>Slender</HI> sees his time</L>
+<L>To take her by the hand, and bid her goe.</L>
+<L>She shall go with him; her Mother hath intended</L>
+<L>(The better to deuote her to the <HI>Doctor;</HI></L>
+<L>For they must all be mask'd, and vizarded)</L>
+<L>That quaint in greene, she shall be loose en-roab'd,</L>
+<L>With Ribonds pendant, flaring'bout her head;</L>
+<L>And when the Doctor spies his vantage ripe,</L>
+<L>To pinch her by the hand, and on that token,</L>
+<L>The maid hath giuen consent to go with him.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<P>Which meanes she to deceiue? Father, or Mo∣ther.</P>
+</SP>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<LG>
+<L>Both (my good Host) to go along with me:</L>
+<L>And heere it rests, that you'l procure the Vicar</L>
+<L>To stay for me at Church, 'twixt twelue, and one,</L>
+<L>And in the lawfull name of marrying,</L>
+<L>To giue our hearts vnited ceremony.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Host.</SPEAKER>
+<LG>
+<L>Well, husband your deuice; Ile to the Vicar,</L>
+<L>Bring you the Maid, you shall not lacke a Priest.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<LG>
+<L>So shall I euermore be bound to thee;</L>
+<L>Besides, ile make a present recompence.</L>
+</LG>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<PB REF="35"/>
+<HEAD>Actus Quintus.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Scoena Prima.</HEAD>
+<STAGE>Enter Falstaffe, Quickly, and Ford.</STAGE>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Pre'thee no more pratling; goe, ile hold, this is the third time: I hope good lucke lies in odde numbers: Away, go, they say there is Diuinity in odde Numbers, either in natiuity, chance, or death: away.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<P>Ile prouide you a chaine, and ile do what I can to get <GAP DESC="illegible" REASON="blotted" EXTENT="1 word" DISP="〈◊〉"/> a paire of hornes.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Away I say, time weares, hold vp your head and mince. How now Master <HI>Broome?</HI> Master <HI>Broome,</HI> the matter will be knowne to night, or neuer. Bee you in the Parke about midnight, at Hernes-Oake, and you shall see wonders.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Went you not to her yesterday (Sir) as you told me you had appointed?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>I went to her (Master <HI>Broome</HI>) as you see, like a poore-old-man, but I came from her (Master <HI>Broome</HI>) like a poore-old-woman; that same knaue (<HI>Ford</HI> her hus∣band) hath the finest mad diuell of iealousie in him (Master <HI>Broome</HI>) that euer gouern'd Frensie. <HI>I</HI> will tell you, he beate me greeuously, in the shape of a woman: (for in the shape of Man (Master <HI>Broome</HI>) <HI>I</HI> feare not Goliah with a Weauers beame, because <HI>I</HI> know also, life is a Shuttle) <HI>I</HI> am in hast, go along with mee, ile tell you all (Master <HI>Broome:</HI>) since <HI>I</HI> pluckt Geese, plaide Trewant, and whip<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/> Top, <HI>I</HI> knew not what'twas to be beaten, till lately-Follow me, ile tell you strange things of this knaue <HI>Ford,</HI> on whom to night <HI>I</HI> will be reuenged, and <HI>I</HI> will deliuer his wife into your hand. Follow, strange things in hand (Master <HI>Broome</HI>) follow.</P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<PB REF="36"/>
+<HEAD>Scena Secunda.</HEAD>
+<STAGE>Enter Page, Shallow, Slender.</STAGE>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Come, come: wee'll couch i'th Castle-ditch, till wee see the light of our Fairies. Remember sonne <HI>Slen∣der,</HI> my</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I forsoothe, I haue spoke with her, and wee haue a nay-word, how to know one another. I come to her in white, and cry Mum; she cries Budget, and by that we know one another.</P>
+</SP>
+<SP>
+<SPEAKER>Shal.</SPEAKER>
+<P>That's good too: But what needes either your Mum, or her Budget? The white will decipher her well enough. It hath strooke ten a▪ clocke.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>The night is darke, Light and Spirits will become it well: Heauen prosper our sport. No man meanes euill but the deuill, and we shall know him by his hornes. Lets away: follow me.</P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>Scoena Tertia.</HEAD>
+<STAGE>Enter Mis. Page, Mis. Ford, Caius.</STAGE>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<P>Master Doctor, my daughter is in green, when you see your time, take her by the hand, away with her to the Deanerie, and dispatch it quickly; goe before into the Parke; we two must goe together.</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P><HI>I</HI> know vat <HI>I</HI> haue to do, adieu.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<P>Fare you well (Sir:) my husband will not reioyce so much at the abuse of <HI>Falstaffe,</HI> as he will chafe at the Doctors marrying my daughter; But 'tis no matter; better a little chiding, then a great deale of heart∣breake.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Where is <HI>Nan</HI> now? and her troope of Fai∣ries?
+<PB REF="36"/>
+and the Welch-deuill Herne?</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<P>They are couch'd in a pit hard by Hernes Oake, with obscur'd Lights; which at the very instant of <HI>Falstaffes</HI> and our meeting, they will at once display to the night.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>That cannot choose but amaze him.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>If he be not amaz'd, he will be mock'd; If he be amaz'd, he will euery way be mock'd.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Wee'll betray him finely.</P>
+</SP>
+<SP>
+<SPEAKER>Mist. Page.</SPEAKER>
+<LG>
+<L>Against such Lewdsters, and their lechery,</L>
+<L>Those that betray them, do no treachery.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mi. Ford.</SPEAKER>
+<P>The houre drawes-on; to the Oake, to the Oake.</P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<HEAD>Scoena Quarta.</HEAD>
+<STAGE>Enter Euans and Fairies.</STAGE>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>Trib, trib Fairies; Come, and remember your parts: be pold (I pray you) follow me into the pit, and when I giue the watch-'ords, do as I pid you; Come, come trib, trib.</P>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<HEAD>Scoena Quarta.</HEAD>
+<STAGE>Enter Falstaffe, Mistris Page, Mistris Ford, Euans, Anne Page, Fairies, Page, Ford, Quickly, Slender, Fenton, Caius, Pistoll.</STAGE>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>The Windsor-bell hath stroke twelue: the Mi∣nute drawes on: Now the hot-bloodied▪ Gods assist mee; Remember loue, thou was't a Bull for thy <HI>Europa,</HI> Loue set on thy hornes. O powerfull Loue, that in some re∣spects makes a Beast a Man: in some other, a Man a beast. You were also (Iupiter) a Swan, for the loue of <HI>Leda:</HI> O omnipotent Loue, how nere the God drew to the com∣plexion
+<PB REF="37"/>
+of a Goose: a fault done first in the forme of a beast, (O Ioue, a beastly fault:) and then another fault, in the semblance of a Fowle, thinke on't (Ioue) a fowlefault. When Gods haue hot backes, what shall poore men doe? For me, I am heere a Windsor Stagge, and the fattest (I thinke) i'th Forrest. Send me a coole rut-time (Ioue) or who can blame mee to pisse my Tallow? Who comes heere my Doe?</P>
+</SP>
+<SP>
+<SPEAKER>M. Ford.</SPEAKER>
+<LG>
+<L>Sir <HI>Iohn?</HI> Art thou there (my Deere?)</L>
+<L>My male-Deere?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>My Doe, with the blacke Scut? Let the skie raine Potatoes: let it thunder, to the tune of Greene∣sleeues, haile-kissing Comfit, and snow Eringoes; Let there come a tempest of prouocation, I will shelter mee heere.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford.</SPEAKER>
+<P>Mistris <HI>Page</HI> is come with me (sweet heart.)</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Diuide me like a brid'd-Bucke, each a Haunch: I will keepe my sides to my selfe, my shoulders for the fellow of this walke; and my hornes I bequeath your husband. Am I a Woodman, ha? Speake I like <HI>Herne</HI> the Hunter? Why, now is Cupid a child of conscience, he makes restitu∣tion. As I am a true spirit, welcome.</P>
+</SP>
+<SP>
+<SPEAKER>M. Page.</SPEAKER>
+<P>Alas, what noise?</P>
+</SP>
+<SP>
+<SPEAKER>M. Ford.</SPEAKER>
+<P>Heauen forgiue-our sinnes.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>What should this be?</P>
+</SP>
+<SP>
+<SPEAKER>M. Ford.</SPEAKER>
+<P><HI>M. Page.</HI> Away, away.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<LG>
+<L>I thinke the diuell will not haue me damn'd,</L>
+<L>Lest the oyle that's in me should set hell on fire;</L>
+<L>He would neuer else crosse me thus.</L>
+</LG>
+</SP>
+<STAGE>Enter Eairies.</STAGE>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<LG>
+<L>Fairies blacke, gray, greene, and white,</L>
+<L>You Moone-shine reuellers, and shades of night.</L>
+<L>You Orphan heires of fixed destiny,</L>
+<L>Attend your office, and your quality.</L>
+<L><PB REF="37"/>Crier Hob-goblyn, make the Fairy Oyes.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Bist.</SPEAKER>
+<LG>
+<L>Elues, list your names: Silence you aiery toyes.</L>
+<L>Cricket, to Windsore-chimnies shalt thou leape;</L>
+<L>Where fires thou find'st vnrak'd, and hearths vnswept,</L>
+<L>There pinch the Maids as blew as Bill-berry,</L>
+<L>Our radiant Queene, hates Sluttery.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<LG>
+<L>They are Fairies, he that speaks to them shall die,</L>
+<L>Ile winke, and couch: No man their workes must eie.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<LG>
+<L>Wher's <HI>Bede?</HI> Go you, and where you finde a maid</L>
+<L>That ere she sleepe has thrice her prayers said,</L>
+<L>Raise vp the Organs of her fantasie,</L>
+<L>Sleepe she as sound as carelesse infancie,</L>
+<L>But those as sleepe, and thinke not on their sins,</L>
+<L>Pinch them armes, legs, backes, shoulders, sides, and shins.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<LG>
+<L>About, about:</L>
+<L>Search Windsor Castle (Elues) within, and out:</L>
+<L>Strew good lucke (Ouphes) on euery sacred roome,</L>
+<L>That it may stand till the perpetuall doome,</L>
+<L>In state as wholsome, as in state 'tis fit,</L>
+<L>Worthy the Owner, and the Owner it.</L>
+<L>The seuerall Chaires of Order, looke you scowre</L>
+<L>With iuyce of Balme; and euery precious flower,</L>
+<L>Each faire Instalment, Coate, and seu'rall Crest,</L>
+<L>With loyall Blazon, euermore be blest.</L>
+<L>And Nightly-meadow-Fairies, looke you sing</L>
+<L>Like to the <HI>Garters</HI>-Compasse, in a ring,</L>
+<L>Th'expressure that it beares: Greene let it be,</L>
+<L>Mote fertile-fresh then all the Field to see;</L>
+<L>And, <HI>Hony Soit Qui Mal-y-Pence,</HI> write</L>
+<L>In Emrold ruffes, Flowres purple, blew; and white,</L>
+<L>Like Saphire-pearle, and rich embroidery,</L>
+<L>Buckled below faire Knight-hoods bending knee;</L>
+<L>Fairies vse Flowres for their characterie:</L>
+<L>Away, disperse: But till 'tis one a clocke,</L>
+<L>Our Dance of Custome, round about the Oke</L>
+<L>Of <HI>Herne</HI> the Hunter, let vs not forget.</L>
+</LG>
+</SP>
+<SP>
+<PB REF="38"/>
+<SPEAKER>Eu.</SPEAKER>
+<LG>
+<L>Pray you locke hand in hand: your selues in order set.</L>
+<L>And twenty glo-wormes shall our Lanthornes bee</L>
+<L>To guide our Measure round about the Tree.</L>
+<L>But stay, I smell a man of middle earth.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<LG>
+<L>Heauens defend me from that Welsh Fairy,</L>
+<L>Lest he transforme me to a peece of Cheese.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Pistoll.</SPEAKER>
+<P>Vilde worme, thou wast ore-look'd euen in thy birth.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<LG>
+<L>With Triall-fire touch me his finger end;</L>
+<L>If he be chaste, the flame will backe descend</L>
+<L>And turne him to no paine: but if he start,</L>
+<L>It is the flesh of a corrupted hart.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Pist.</SPEAKER>
+<P>A triall, come.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Come: will this wood take fire?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Oh, oh, oh.</P>
+</SP>
+<SP>
+<SPEAKER>Qui.</SPEAKER>
+<LG>
+<L>Corrupt, corrupt, and tainted in desire.</L>
+<L>About him (Fairies) sing a scornfull rime,</L>
+<L>And as you trip, still pinch him to your time.</L>
+</LG>
+<LG>
+<HEAD>The Song.</HEAD>
+<L>Fie on sinnefull phantasie: Fie on Lust, and Luxirie.</L>
+<L>Lust is but a bloudy fire, kindled with vnchaste desire,</L>
+<L>Fed in heart whose flames aspire,</L>
+<L>As thoughts do blow them higher and higher:</L>
+<L>Pinch him (Fairies) mutuall: Pinch him for his villanie.</L>
+<L>Pinch him, and burne him, and turne him about,</L>
+<L>Till Candles, and Star-light, and Moone-shine be out.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Nay doe not flye, I thinke wee haue watcht you now; Will none but <HI>Hern<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/></HI> the Hunter serue your turne?</P>
+</SP>
+<SP>
+<SPEAKER>M. Page.</SPEAKER>
+<LG>
+<L>I pray you come, hold vp the iest no higher.</L>
+<L>Now (good Sir <HI>Iohn</HI>) how like you <HI>Windsor</HI> wiues?</L>
+<L>See you these husband? Do not these faire yoakes</L>
+<L>Become the Forrest better then the Towne?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<LG>
+<L>Now Sir, who's a Cuckold now?</L>
+<L><PB REF="38"/>Master <HI>Broome, Falstaffes</HI> a Knaue, a Cuckoldy knaue,</L>
+<L>Heere are his hornes Master <HI>Broome;</HI></L>
+</LG>
+<P>And Master <HI>Broome,</HI> he hath enioyed nothing of <HI>Fords,</HI> but his Buck-basket, his cudgell, and twenty pounds of money, which must be paid to Master <HI>Broome,</HI> his horses are ar∣rested for it, Master <HI>Broome.</HI></P>
+</SP>
+<SP>
+<SPEAKER>M. Ford.</SPEAKER>
+<P>Sir <HI>Iohn,</HI> wee haue had ill lucke: wee could neuer meete: I will neuer take you for my Loue againe, but I will alwayes count you my Deere.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>I doe begin to perceiue that I am made an Asse.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P><HI>I,</HI> and an Oxe too; both the proofes are ex∣tant.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>And these are not Fairies;</P>
+<P>I was three or foure times in the thought they were not Fairies, and yet the guiltinesse of my minde, the sodaine surprize of my powers, droue the grossenesse of the foppe∣ry into a receiu'd beleefe, in despight of the teeth of all rime and reason, that they were Fairies. See now how wit may bee made a Iacke-a-Lent, when 'tis vpon ill imploy∣ment.</P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>Sir <HI>Iohn Falstaffe,</HI> serue Got, and leaue your desires, and Fairies will not pinse you.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Well said Fairy <HI>Hugh:</HI></P>
+</SP>
+<SP>
+<SPEAKER>Euans.</SPEAKER>
+<P>And leaue you your iealouzies too, I pray you.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P><HI>I</HI> will neuer mistrust my wife againe, till thou art able to woo her in good English.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Haue <HI>I</HI> laid my braine in the Sun, and dri'de it, that it wants matter to preuent so grosse ore-reaching as this? Am I ridden with a Welch Goate too? Shall <HI>I</HI> haue a Cox∣combe of Frize? Tis time <HI>I</HI> were choak'd with a peece of toasted Cheese.</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>Seese is not good to giue putter; your belly is all putter.</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Seese, and Putter? Haue <HI>I</HI> liu'd to stand at the taunt of one that makes Fritters of English? This is e∣nough
+<PB REF="39"/>
+to be the decay of lust and late-walking through the Realme.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Why Sir <HI>Iohn,</HI> doe you thinke though wee would haue thrust vertue out of our hearts by the head and shoulders, and haue giuen our selues without scru∣ple to hell, that euer the deuill could haue made you our delight?</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>What, a hodge-pudding? A bag of flax?</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>A puftman?</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Old, cold, wither'd, and of intollerable en∣trailes?</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>And one that is slanderous as Sathan?</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>And as poore as Iob?</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>And as wicked as his wife?</P>
+</SP>
+<SP>
+<SPEAKER>Euan.</SPEAKER>
+<P>And giuen to Fornications, and to Tauernes, and Sacke, and Wine, and Metheglins, and to drinkings and swearings, and starings? Pribles and prables?</P>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>Well, I am your Theame: you haue the start of me, I am deiected: I am not able to answer the Welch Flan∣nell, Ignorance it selfe is plummet ore me, vse mee as you will.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>Marry Sir, wee'l bring you to Windsor to one Master <HI>Broome,</HI> that you haue cozon'd of money, to whom you should haue bin a Pander: ouer and aboue that you haue suffer'd, I thinke, to repay that money will be a biting affliction.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Yet be cheerefull Knight: thou shalt eat a posset to night at my house, where <HI>I</HI> will desire thee to laugh at my wife, that now laughes at thee: Tell her Master <HI>Slender</HI> hath married her daughter.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Ford▪</SPEAKER>
+<P>Doctors doubt that;</P>
+<P>If <HI>Anne Page</HI> be my daughter, she is (by this) Doctour <HI>Caius</HI> wife.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>Whoa hoe, hoe, Father <HI>Page,</HI></P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<LG>
+<L>Sonne? How now Sonne.</L>
+<L>Haue you dispatch'd?</L>
+</LG>
+</SP>
+<SP>
+<PB REF="39"/>
+<SPEAKER>Slen.</SPEAKER>
+<P>Dispatch'd? Ile make the best in'Glostershire know on't: would I were hang'd la, else.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Of what sonne?</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I came yonder at <HI>Eaton</HI> to marry Mistris <HI>Anne Page,</HI> and she's a great lubberly boy. If it had not beene i'th Church, I would haue swing'd him, or hee should haue swing'd me. If I did not thinke it had beene <HI>Anne Page,</HI> would I might neuer stirre, and 'tis a Post-masters Boy.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>Vpon my life then, you tooke the wrong.</P>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>What neede you tell me that? I thinke so, when I tooke a Boy for a Girle: If I had beene maried to him, for all hee was in womans apparrell) I would not haue had him.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<LG>
+<L>Why this is your owne folly,</L>
+<L>Did not I tell you how you should know my daughter, By her garments?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Slen.</SPEAKER>
+<P>I went to her in greene, and cried Mum, and she cride budget, as <HI>Anne</HI> and I had appointed, and yet it was not <HI>Anne,</HI> but a Post-masters boy.</P>
+</SP>
+<SP>
+<SPEAKER>M. Page.</SPEAKER>
+<P>Good <HI>George</HI> be not angry, I knew of your purpose: turn'd my daughter in white, and indeede shee is now with the Doctor at the Denerie, and there married.</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P>Ver is Mistris <HI>Page:</HI> by gar I am cozoned, I ha mar∣ried oon Garsoon, a boy; oon pesant, by gar. A boy, it is not <HI>An Page,</HI> by gar, <HI>I</HI> am cozened.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Why? did you take her in white?</P>
+</SP>
+<SP>
+<SPEAKER>Cai.</SPEAKER>
+<P><HI>I</HI> bee gar, and 'tis a boy; be gar Ile raise all Windsor.</P>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<P>This is strange: Who hath got the right <HI>Anne?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<LG>
+<L>My heart misgiues me, here comes Master <HI>Fenton▪</HI></L>
+<L>How now Master <HI>Fenton?</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Anne.</SPEAKER>
+<P>Pardon good father, good my mother pardon</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<LG>
+<L>Now Mistris;</L>
+<L>How chance you went not with Master <HI>Slender?</HI></L>
+</LG>
+</SP>
+<SP>
+<PB REF="40"/>
+<SPEAKER>Mis. Page.</SPEAKER>
+<P>Why went you not with Master Doctor, maid?</P>
+</SP>
+<SP>
+<SPEAKER>Fen.</SPEAKER>
+<LG>
+<L>You do amaze her: heare the truth of it.</L>
+<L>You would haue married her most shamefully,</L>
+<L>Where there was no proportion held in loue:</L>
+<L>The truth is, she and I (long since contracted)</L>
+<L>Are now so sure that nothing can dissolue vs,</L>
+<L>Th'offence is holy, that she hath committed,</L>
+<L>And this deceit looses the name of craft,</L>
+<L>Of disobedience, or vnduteous title,</L>
+<L>Since therein she doth euitate and shun</L>
+<L>A thousand irreligious cursed houres</L>
+<L>Which forced marriage would haue brought vpon her.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<LG>
+<L>Stand not amaz'd, here is no remedie:</L>
+<L>In Loue, the heauens themselues do guide the state,</L>
+<L>Money buyes Lands, and wiues are sold by fate.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>I am glad, though you haue tane a special stand to strike <GAP DESC="illegible" REASON="blotted" EXTENT="1 word" DISP="〈◊〉"/> that your Arrow hath glanc'd.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<LG>
+<L>Well, what remedy? <HI>Fenton,</HI> heauen giue thee ioy,</L>
+<L>What cannot bee eschew'd, must be embrac'd.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Fal.</SPEAKER>
+<P>When night-dogges run, all sorts of Deere are chac'd.</P>
+</SP>
+<SP>
+<SPEAKER>Mis. Page.</SPEAKER>
+<LG>
+<L>Well, I will muse no further: Master <HI>Fenton,</HI></L>
+<L>Heauen giue you many, many merry dayes:</L>
+<L>Good husband, let vs euery one go home,</L>
+<L>And laugh this sport ore by a Countrie fire,</L>
+<L>Sir <HI>Iohn</HI> and all.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ford.</SPEAKER>
+<LG>
+<L>Let it be so (Sir <HI>Iohn:</HI>)</L>
+<L>To Master <HI>Broome,</HI> you yet shall hold your word,</L>
+<L>For he, to night, shall lye with Mistris <HI>Ford.</HI></L>
+</LG>
+<STAGE>Exeunt.</STAGE>
+</SP>
+</DIV3>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="40"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

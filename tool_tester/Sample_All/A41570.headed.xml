@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The declaration of Colonell Goring vpon his examination touching the late intended conspiracie against the state, vvith the report of that worthy gentleman Mr. Fynes to the House of Commons from the Committee upon the examination of severall gentlemen concerning the same, Iune 1641.</TITLE><AUTHOR>Goring, George Goring, Baron, 1608-1657.</AUTHOR></TITLESTMT><EXTENT>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2008-09 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A41570</IDNO>
+
+
+<IDNO TYPE="stc">Wing G1303C</IDNO>
+
+<IDNO TYPE="stc">ESTC R40490</IDNO>
+
+<IDNO TYPE="eebo citation">19340374</IDNO>
+
+<IDNO TYPE="oclc">ocm 19340374</IDNO>
+
+<IDNO TYPE="vid">108712</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A41570)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 108712)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 1671:10)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The declaration of Colonell Goring vpon his examination touching the late intended conspiracie against the state, vvith the report of that worthy gentleman Mr. Fynes to the House of Commons from the Committee upon the examination of severall gentlemen concerning the same, Iune 1641.</TITLE><AUTHOR>Goring, George Goring, Baron, 1608-1657.</AUTHOR></TITLESTMT><EXTENT>[2], 9 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>[London :</PUBPLACE>
+<PUBLISHER>s.n.],</PUBLISHER>
+<DATE>1641.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Place of publication suggested by Wing.</NOTE><NOTE>Reproduction of original in the Harvard University Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Great Britain --  History --  Charles I, 1625-1649.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2007-09</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2007-11</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2008-01</DATE><RESPSTMT><RESP>Emma (Leeson) Huber</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2008-01</DATE><RESPSTMT><RESP>Emma (Leeson) Huber</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2008-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A41570">
+<STC T="W">G1303C</STC>
+<BIBNO T="oclc">19340374</BIBNO>
+<VID>108712</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<P>THE
+DECLARATION
+OF COLONELL
+GORING
+Vpon his Examination, touching
+the late intended CONSPIRACIE
+against the State.
+VVith the Report of that worthy
+Gentleman M<SUP>r</SUP>. <HI>FYNES</HI> to the House of
+Commons from the Committee upon the
+Examination of severall Gentlemen
+concerning the same.
+<HI>Iune</HI> 1641.</P>
+<P>Printed in the yeare 1641.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="declaration">
+<PB REF="2"/>
+<PB N="1" REF="2"/>
+<HEAD>The Examination and Declara∣tion
+of Colonell Goring, touching the
+late Conspiracie.</HEAD>
+<P><SEG REND="decorInit">H</SEG>Aving been told there was an in∣tention
+to unite the Forces of our
+<HI>Armie,</HI> and to put it into a posture
+of being <HI>able,</HI> if not of purpose
+of being <HI>willing,</HI> to interpose in
+the <HI>proceedings of Parliament:</HI> I hearkned to
+the <HI>propositions</HI> of solliciting a <HI>redresse</HI> for the
+miseries of the <HI>Souldiers,</HI> being the first step to
+this, in respect of the present necessities of it,
+not any future consequence of trouble to those
+that were to procure our reliefe.</P>
+<P>But, lest the manner of asking this, or the
+effects of it being obtained, might be lesse just
+then the thing it selfe which was desired, and I
+might be involved in their <HI>crimes,</HI> that had fur∣ther
+ends perhaps then meerly <HI>the redresse of our
+Armies grievances:</HI> I thought it not unsafe, to
+take some witnesses of mine integrity along
+<PB N="2" REF="3"/>
+with me, and spoke to a noble <HI>Lord</HI> the very
+same day, when I assured <HI>him,</HI> there were some
+<HI>Officers</HI> of the <HI>Armie</HI> that were lesse thought on,
+that had greatest zeale to the proceedings of
+this <HI>House,</HI> And I thought there would be an
+occasion to let him know more of it.</P>
+<P>Within few dayes after this, M. <HI>Iermyn</HI> and
+I were admitted into a consultation, where
+wee were tyed to secrecie by an <HI>Oath,</HI> in the
+company of those <HI>Gentlemen</HI> I have named
+in my <HI>Depositions,</HI> where their <HI>purpose</HI> was de∣clared
+to us in some <HI>propositions,</HI> which were to
+this effect.</P>
+<P>1. Putting an <HI>Armie</HI> into a Posture to serve
+the <HI>King.</HI></P>
+<P>2. Sending a <HI>Declaration</HI> to the <HI>Parliament,</HI>
+containing, That no <HI>Act</HI> of <HI>Parliament</HI> should
+bee made contrary to any former <HI>Act</HI> which
+was expressed, That the Episcopacie should be
+kept up as it is now.</P>
+<P>3. And that the <HI>Kings revenue</HI> should be
+<HI>established.</HI></P>
+<PB N="3" REF="3"/>
+<P>This I thought unlawfull for our under∣takings;
+since I thought they intended to in∣terpose
+the <HI>determinations</HI> of this <HI>House;</HI> and, it
+belongs to an <HI>Armie,</HI> to <HI>maintaine,</HI> not to <HI>con∣trive</HI>
+Acts of State.</P>
+<P>I objected therefore against the <HI>propositions,</HI>
+and pressed more the <HI>Follies</HI> and <HI>Difficulties,</HI>
+then the <HI>illegalities</HI> of them; not onely because
+I thought <HI>Reason,</HI> a greater Argument with
+them, then <HI>Conscience,</HI> but because I am so un∣happy
+of the two, to bee thought a worse
+<HI>Common-wealths man,</HI> then a Souldier, and in
+that quality, could procure most credit to my
+words: And I endeavoured to shew them, that
+as the <HI>Designe</HI> would be impious, if their most
+<HI>Desperate Counsell</HI> had beene followed, so it
+would have beene the weakest that ever was
+undertaken, if it were admitted.</P>
+<P>And whereas I am said to have a part in
+this <HI>violent Counsell;</HI> till the day before this
+meeting, I never heard word of it: I knew
+not when I came to the Roome, whether theirs
+were not the same with the other; this they
+may witnesse for me; and that I declared, that
+I would have to doe with neither, And that I
+<PB N="4" REF="4"/>
+expressed a Contempt of our meeting in that
+manner.</P>
+<P>But I relye upon the <HI>Testimonie</HI> of some No∣ble
+<HI>Lords</HI> of his <HI>Majesties Councell,</HI> and others,
+how I protested against all those <HI>violent Coun∣sells,</HI>
+even in the birth of them, and with what
+pity I looked towards the person of his <HI>Ma∣jestie,</HI>
+and the whole Kingdome, in this busi∣nesse.</P>
+<P>I appeale also to <HI>them,</HI> and to some mem∣bers
+of this House, what my carriage was to∣wards
+these Gentlemen that were embarqued
+in these undertakings, intending rather to pre∣vent
+a mischiefe by abandoning their <HI>Coun∣sells,</HI>
+then to ruine them, by disclosing them.</P>
+<P>But mistake me not, for had I knowne of
+any former plot proceeded in, that would en∣danger,
+or disturb the quiet of his <HI>Majestie,</HI> or
+the peace of this <HI>Kingdome,</HI> I should not have
+beene contented with declaring mine owne
+<HI>Innocencie,</HI> nor have stayed till the Command
+of this <HI>House,</HI> or an Oath, extorted from mee a
+Discovery; But by a hasty, open Declaration,
+have broken the Lawes of <HI>Amity,</HI> and <HI>Friend∣ship,</HI>
+and all former tyes, to preserve the duty of
+<PB N="5" REF="4"/>
+a subject; and as freely exposed the Know∣ledge
+of <HI>All,</HI> to the view of the world, as I
+have beene tender in publishing these <HI>purposes,</HI>
+even to my neerest friends, which had waight
+enough to crush nothing but the underta∣kers
+of it. And certainly, if they had stayed
+where I left them, there was no <HI>conclusion</HI>
+at all.</P>
+<P>It appeares, there were two severall <HI>Inten∣tions,</HI>
+digested by others before they were com∣municated
+to me, and I knew not, whether
+my hearkning to them were a <HI>fault,</HI> but I am
+sure it was a <HI>misfortune.</HI></P>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+<DIV1 TYPE="report">
+<PB N="6" REF="5"/>
+<OPENER><DATELINE><DATE>June 19. 1641.</DATE></DATELINE></OPENER>
+<HEAD>The Report of M<SUP>r</SUP>. Fynes, with
+the examinations of severall Gentlemen,
+concerning the late intended Conspiracie
+against the State.</HEAD>
+<P><SEG REND="decorInit">M</SEG>Aster <HI>Fynes</HI> made a Report from the
+<HI>Committee,</HI> to the House of <HI>Commons,</HI>
+that the <HI>Conspirators</HI> in the new
+<HI>Treason</HI> had a three-fold Designe.</P>
+<P>First, concerning the <HI>Tower</HI> of <HI>London.</HI></P>
+<P>Secondly, the <HI>French Armie,</HI> to deliver <HI>Ports∣mouth</HI>
+into their hands.</P>
+<P>Thirdly, a Designe against the <HI>Parliament,</HI>
+by working the <HI>Armie</HI> against it.</P>
+<P><HI>Billingsleys</HI> Examination was read by Ma∣ster
+<HI>Hambden,</HI> which shewes, That Sir <HI>Iohn
+Suckling</HI> invited him to the imployment.</P>
+<P>M. <HI>Nutts</HI> Examination was likewise read
+by the said Master <HI>Hambden,</HI> which shewes,
+The <HI>Earle of Straffords</HI> Escape was practised.</P>
+<PB N="7" REF="5"/>
+<P>Then the Examination of the <HI>Lievtenant</HI> of
+the <HI>Tower</HI> was read, which shewes plainely,
+That the Earle of <HI>Strafford</HI> endeavoured an
+escape, promising him 22000 pounds in marri∣age
+with his Daughter to the <HI>Lievtenants</HI> sonne,
+and to have made her one of the richest
+matches in the <HI>Kingdome.</HI></P>
+<P>Concerning the Army, <HI>Lievtenant Colonell
+Ballards</HI> Examination was read by Sir <HI>Philip
+Stapleton;</HI> which shewes, That Captaine
+<HI>Chidley,</HI> brought downe to the Army many
+<HI>propositions: viz.</HI> That Colonell <HI>Goring</HI> should
+be <HI>Lievtenant</HI> of the <HI>Armie,</HI> and that the <HI>Prince,</HI>
+and the <HI>Earle</HI> of <HI>Newcastle</HI> would meet in <HI>Not∣tinghamshire</HI>
+with 1000 Horse; all which <HI>pro∣positions</HI>
+came from Master <HI>Henry Iermyn,</HI> and
+were dispersed by <HI>Sergeant Major Wallis,</HI> and
+<HI>Captaine Chidley.</HI></P>
+<P><HI>Wallis</HI> upon his Examination sayes, That
+the <HI>French</HI> would have assisted them, and that
+the <HI>Clergie</HI> would at their owne Charge have
+sent 2000 Horse to the ayde of the <HI>Armie;</HI> And
+that the Earle of <HI>Newcastle</HI> should be <HI>Generall</HI>
+of the <HI>Armie;</HI> and that the <HI>Prince</HI> would come
+downe with him.</P>
+<PB N="8" REF="6"/>
+<P>The Examination of <HI>Colonell Goring</HI> was
+read by Sir <HI>Iohn Clotworthy,</HI> In which he sayes,
+That hee was tyed up by an <HI>Oath</HI> of Secrecie,
+and therefore durst not answer to all the <HI>In∣terrogatories;</HI>
+and then mentioning the <HI>Oath,</HI>
+which was given him by M. <HI>Percie</HI> in his own
+Chamber at <HI>Whitehall,</HI> in presence of M. <HI>H. Per∣cie,
+Willmot,</HI> Colonell <HI>Ashburnham,</HI> M. <HI>Hugh Pol∣lard,</HI>
+and others, who then said, they had all
+of them taken this <HI>Oath;</HI> and that hee was the
+last of the Company that had taken the <HI>Oath</HI>
+that M. <HI>Iermyn</HI> had passed under the <HI>Lievtenants</HI>
+owne hand.</P>
+<P>Mistris <HI>Plumwell</HI> said, That a French man,
+<HI>Carver</HI> to the <HI>Queene,</HI> brought <HI>Armes</HI> to her
+House, and desired her to keepe them, for that
+the House of <HI>Commons</HI> had made an <HI>Order,</HI> that
+no <HI>Papists</HI> should have <HI>Armes</HI> in their Custo∣die,
+and that he fetcht them away again, about
+the time that the Earle of <HI>Straffords</HI> Escape was
+practiced.</P>
+<P>Many Examinations were read, to shew
+the practices of the <HI>French,</HI> and a Canon of
+<HI>Burdeux.</HI></P>
+<P>Then a Letter from Master <HI>Iermyn</HI> to Master
+<PB N="9" REF="6"/>
+<HI>Mountague</HI> was read, wherein he writes, That
+he hopes that the horse-leeches will be starved
+for want of food.</P>
+<P>And then another letter from <HI>Mountague</HI> to
+<HI>Iermyn</HI> was read, which shewes, That they
+expected the Earle of <HI>Strafford</HI> shortly with
+them.</P>
+<P>And after that, the Examination of Master
+<HI>Bland</HI> was read, which shewes the desire that
+M. <HI>Iermyn</HI> had to get <HI>Portsmouth</HI> into his hands.</P>
+<P>And also two letters were read, sent from
+one <HI>Roberts</HI> a <HI>Priest,</HI> to the <HI>Bishop</HI> of <HI>Calcedon,</HI> in
+recommendation of two <HI>English Priests.</HI></P>
+<P>And then M. <HI>Allens</HI> and M. <HI>Thorralds,</HI> which
+doe contradict one another.</P>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

@@ -1,0 +1,3305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="2">A witty combat, or, The female victor a trage-comedy : as it was acted by persons of quality in Whitson-week with great applause / written by T.P., Gent.</TITLE><AUTHOR>Porter, T. (Thomas), 1636-1680.</AUTHOR></TITLESTMT><EXTENT>Approx. 121 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2007-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A55496</IDNO>
+
+
+<IDNO TYPE="stc">Wing P2998</IDNO>
+
+<IDNO TYPE="stc">ESTC R9998</IDNO>
+
+<IDNO TYPE="eebo citation">12999025</IDNO>
+
+<IDNO TYPE="oclc">ocm 12999025</IDNO>
+
+<IDNO TYPE="vid">96444</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A55496)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 96444)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 396:16)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="2">A witty combat, or, The female victor a trage-comedy : as it was acted by persons of quality in Whitson-week with great applause / written by T.P., Gent.</TITLE><AUTHOR>Porter, T. (Thomas), 1636-1680.</AUTHOR></TITLESTMT><EXTENT>[41] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for Tho. Roberts ...,</PUBLISHER>
+<DATE>1663.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>About the adventuress Mary Moders, alias Carleton, who masqueraded as a "German princess."</NOTE><NOTE>Has been identified with the "German princess," a play produced in 1664. Cf. NUC pre-1956.</NOTE><NOTE>Written by Thomas Porter. Cf. BM.</NOTE><NOTE>Reproduction of original in Harvard University Libraries.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Carleton, Mary, 1642?-1673 --  Drama.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2005-12</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2006-03</DATE><RESPSTMT><RESP>SPi Global</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2006-05</DATE><RESPSTMT><RESP>Derek Lee</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2006-05</DATE><RESPSTMT><RESP>Derek Lee</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2006-09</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A55496">
+<STC T="W">P2998</STC>
+<BIBNO T="oclc">12999025</BIBNO>
+<VID>96444</VID>
+</IDG>
+<TEXT>
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<P>A Witty Combat: OR, THE FEMALE VICTOR. A Trage-Comedy. As it was <HI>Acted</HI> by Persons of Quality in <HI>Whitson</HI>-Week with great applause.</P>
+<P>Written by T. P. Gent.</P>
+<P>LONDON, Printed for <HI>Tho. Roberts,</HI> and are to be sold at the <HI>Royal-Exchange, Fleet-Street,</HI> and <HI>Westminster-Hall,</HI> 1663.</P>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>ACTORS NAMES.</HEAD>
+<LIST>
+<ITEM>Old <HI>Mr.</HI> Carleton.</ITEM>
+<ITEM><HI>Mr.</HI> G. Carleton <HI>his Eldest Son.</HI></ITEM>
+<ITEM><HI>Mr.</HI> J. Carleton <HI>his youngest Son in love with the</HI> Germaine Princess.</ITEM>
+<ITEM><HI>Mr.</HI> King. <HI>his Son in Law.</HI></ITEM>
+<ITEM>A Parson.</ITEM>
+<ITEM><HI>Two or three</HI> Gentlemen.</ITEM>
+<ITEM><HI>Two or three</HI> Young Clarkes.</ITEM>
+<ITEM><HI>Two</HI> Watermen.</ITEM>
+<ITEM>Drawers.</ITEM>
+<ITEM>A Cellarman.</ITEM>
+<ITEM>Fidlers.</ITEM>
+<ITEM>Mrs. King.</ITEM>
+<ITEM>Madam Moders.</ITEM>
+<ITEM>Old Mrs. Carleton.</ITEM>
+<ITEM>Cook Maid.</ITEM>
+<ITEM>Constable, and Officers.</ITEM>
+</LIST>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB REF="3"/>
+<PB REF="3"/>
+<HEAD>A WITTY COMBAT: OR, The Female Victor.</HEAD>
+<DIV2 N="1" TYPE="act">
+<HEAD>Actus primus,</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Scaena prima.</HEAD>
+<STAGE>Enter two Watermen, as in an Alehouse at Billingsgate, and a Boy with a full Pot of Ale.</STAGE>
+<SP>
+<SPEAKER>1 <HI>Waterm.</HI></SPEAKER>
+<P>THou should'st have brought half a dozen Boy, this will not wet, one Pot of Ale is no more in our Bellies, then a man in <HI>Paules.</HI></P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Waterm.</HI></SPEAKER>
+<P>That's right: I prithee fetch a couple more, for what we do, we must do quickly, and not make a dayes work on't.</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>I swear I can hardly spare another Pot, the House swarms with several Companies, that we have scarce Pots enough to serve their turnes; but drink as fast as you will, I'le fill as fast, I'le warrant you.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Waterm.</HI></SPEAKER>
+<P>Away, away, a man may baul his heart out before thou wilt hear him: bring us another Pot, and by that time this will be ready for thee to fill.</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>Well I'le try my Skill. <STAGE>Exit Boy.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Waterm.</HI></SPEAKER>
+<P>Come, here's half this to thee, fear it not, 'twill warme us within man.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Waterm.</HI></SPEAKER>
+<P>I know it, and will pledge thee and it were a whole one.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Waterm.</HI></SPEAKER>
+<P>Passing good Ale, it goes down merrily.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Waterm.</HI></SPEAKER>
+<P>I believe there's no Bones in't: I have heard of Cock-Ale, <HI>Lambeth</HI>-Ale, <HI>China</HI>-Ale, Rosemary-Ale, Mint-Ale, Wormewood-Ale, Orange-Ale, Lemon-Ale. And I know not how many sorts more that are the Gentlemens drink as they call 'em; All is but Ale still, made of Water that runs by <HI>Billingsgate.</HI> And
+<PB REF="4"/>
+for my part, when all is done give me the plain wholsome Ale of <HI>England</HI> without welt or guard as they say, or a deal of mixtures; but of all drinks I hate that of Coffee, it dries Mens Braines and makes 'em write <HI>Hudibrasses</HI> a plaguy hard Word, and jangles like the breech of a Drum. <STAGE>Enter Boy.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>Here Gentlemen I am provided for you.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Waterm.</HI></SPEAKER>
+<P>Gentlemen! you Knave! we may be drunk as Lords if we fit by't, but soft and fair, two words to a bargain, the Fidler play'd no such matter.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Waterm.</HI></SPEAKER>
+<P>No, no, we are for a touch and begone, here fill us this to, and make hast; Presto. <STAGE>within why Boy.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>With a high pass and a repass I am gone, can I be here and there to, I'me coming. <STAGE>Exit. Boy running.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Waterm.</HI></SPEAKER>
+<P>Have at thee agen. <STAGE>drinks.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Waterm.</HI></SPEAKER>
+<P>Do thy worst Boy, come, to thee agen, the Parish is but short Man. <STAGE>drinks.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Waterm.</HI></SPEAKER>
+<P>'Twill be welcome when it comes, off with it and it were a mile to the bottom.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Waterm.</HI></SPEAKER>
+<P>See, I am a clean Drinker; <HI>Super naculum</HI>: boy, I hate to spill good Liquor, and throw away the bottom, a man may want it before he dies.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Waterm.</HI></SPEAKER>
+<P>I, so the Parson told us this morning in the Boat, we had a jolly Company of Passengers, but what she should be that is gone with the Parson my Noddle cannot imagine.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Waterm.</HI></SPEAKER>
+<P>A notable perrilous witty Wench I warrant her, let her alone for leading her men.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Waterm.</HI></SPEAKER>
+<P>She'l lead the Parson besides his Text I'me afraid; how she handl'd him?</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Waterm.</HI></SPEAKER>
+<P>Nay, marry he would have handl'd Her, by your leave friend.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Waterm.</HI></SPEAKER>
+<P>You say very right, but she was too cunning for him, She was Courted by better Men in the Boat, but she was too hard for them all, I wonder the Parson should carry Her away.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Waterm.</HI></SPEAKER>
+<P>Who would think that such a Yea and Nay man should carry so much wickedness in his Hide.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Waterm.</HI></SPEAKER>
+<P>Oh hang 'em, there's no Whore-master, like the slye Whore-master: the zealous old Scot Doctrin'd Whore-master of the Tribe of <HI>Henderson.</HI></P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Waterm.</HI></SPEAKER>
+<P>What was he? what was he?</P>
+</SP>
+<SP>
+<PB REF="4"/>
+<SPEAKER>1 <HI>Waterm.</HI></SPEAKER>
+<P>What, what was he? why he was the Pope of <HI>Scotland.</HI></P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Waterm.</HI></SPEAKER>
+<P>Of <HI>Rome</HI> thou mean'st Man?</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Waterm.</HI></SPEAKER>
+<P>I say of <HI>Scotland,</HI> I know what I say well enough, and <HI>Marshall</HI> and <HI>Calamy</HI> were two of his Cardinalls.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>waterm.</HI></SPEAKER>
+<L>Lord who would think it, <STAGE>Enter Boy with more Ale.</STAGE></L>
+<L>but thou wilt talke any thing in thy Ale.</L>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Waterm.</HI></SPEAKER>
+<P>Under the Rose I may, Oh art thou there Boy, thou art he that does the Liquor bring, though not the Bottle.</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>I promise you I made what hast I could, but our house is so pester'd. I'me coming—did you ever <STAGE>within why Boy.</STAGE> hear the like? but d'ye hear me?</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Waterm.</HI></SPEAKER>
+<P>Who told you we did not?</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>Well, will you hear me then, there is a Gentleman in∣quires for you without.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Waterm.</HI></SPEAKER>
+<P>What is he for a Man?</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>I tell you he seemes a Gentleman.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>VVaterm.</HI></SPEAKER>
+<P>Though he be not what he seemes, 'tis all one to us; if he has any Money he shall be welcome, and so let him in.</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Well, I shall tell him what you say. <STAGE>within Boy, boy.</STAGE></L>
+<L>I come, and I come again Sir. <STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>1 <HI>VVater.</HI></SPEAKER>
+<P>Now should I laugh if it were some good fellow come to pay our reckoning.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P>No, no, They are Fish too hard to catch; how e're drink about man.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>VVaterm.</HI></SPEAKER>
+<P>That's quickly done, here's towards thee.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P>T'other Pot, and away.—</P>
+</SP>
+<STAGE>Enter Gentleman and Boy.</STAGE>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>Where are the Watermen.</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>They are there Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>How now honest Lads, closeat it, you seldome sleep I think.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>VVaterm.</HI></SPEAKER>
+<P>Yes troth Master we were just thinking upon it, I think and't please you, you came up with this Tyde in our Boat.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>I did so.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>VVaterm.</HI></SPEAKER>
+<P>We had a Com∣pany of merry Passengers, not to lye; truely, and worthy Ones, or else I am very much mistaken</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>You had so, but one especially.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P>If I do not know where he be now ne're trust me.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>Why I am here.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P>I know that too, but I know where you would be.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>That's a hard matter my friend.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P>Do you not mean a Gentlewoman.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>There were many.</P>
+</SP>
+<SP>
+<PB REF="5"/>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P>But I do mean <HI>the</HI> Gentlewoman, she that sat next the Parson.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>Now you hit me.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P>And would not you be with her now, with all your heart and a piece of your Liver?</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>I cannot tell, but I must give thee half a dozen of Beer for thy conceits sake.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>VVaterm.</HI></SPEAKER>
+<P>Ale is the life of a Waterman Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>Why then Ale let it be.</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>You shall have it with all selerity Sir. <STAGE>Exit.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P>Will your Worship or Honour, or I don't know what, be pleased to sit down and take part of our Cup.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>I came to that purpose.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P>Blessing on your heart, I do not love a proud Gen∣tleman, methinks a right Gentleman should not be proud by your favour Sir, here's even to you, and to all our Company how ever dispersed now on Shore.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>I'le pledge you, but my honest friends cannot you tell me what is become of that pretty thing.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>VVaterm.</HI></SPEAKER>
+<P>Pretty thing quoth a, she was worth ten pretty things; she was a thing to thank God for.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>You say well. <STAGE>Enter Boy with Ale.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>Here's your quickning Ale Gentlemen.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>Set it down, and begon.</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>I come, I come presently. <STAGE>Exit Boy.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>My friends here's to you both.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>VVaterm.</HI></SPEAKER>
+<P>One at once Sir, and we are for you.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>Is there no way to find her out?</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P>Way quoth a, it is a shame for you all, so many Gentlemen aboard her, and let a dry bon'd Parson carry her away!</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>Pox on't, I lost her in a mist; I know not how she whipt away.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P>You know not whether?</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>Very true, but I hope thou do'st?</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P>We know nothing Sir, the Streets are wide and many.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>Let this for once cor∣rupt thy knowledge, she cannot be far off?<STAGE>Gives him money.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P>If I thought so.—</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>She must be some where?</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P>That's certain if she be any where Sir, as doubtless she is, and now I think on't.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>I prithee then think on't.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>VVaterm.</HI></SPEAKER>
+<P><HI>London</HI> is a wide place Brother, have a care what
+<PB REF="5"/>
+you do.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>I prithee hold thy prateing, I'le content thee too.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>VVaterm.</HI></SPEAKER>
+<P>I say no more, but Brother have a care.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P>And now I think on't.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>I, go on.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P><HI>London</HI> is a wide place indeed, and a Man may as soon find a Needle in a Bottle of Hay, as a woman-stranger in this City, yet I would advise you.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>To what?</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P>To have her Cry'd in every Parish.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>Pish, I see thou art but a baffling fellow; give me my mo∣ney agen.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>VVaterm.</HI></SPEAKER>
+<P>Yes, when can you tell? did you ever know a Waterman guilty of that fault, to part with money when he had got it in his clutches. I am sorry I cannot serve you, and there's all, the time was you might have serv'd your self.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>Thou say'st right, how cursedly was I mistaken! much good may do you with your money.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>VVaterm.</HI></SPEAKER>
+<P>'Twill serve to pay the reckoning, Sir I wish you may find her.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>Since you cannot informe me, my hopes, and search is ended, fare you well. <STAGE>Exit.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>VVatermen.</SPEAKER>
+<P>We'l drink a health to your good fortunes Sir.</P>
+</SP>
+<SP>
+<SPEAKER>VVatermen.</SPEAKER>
+<P>So, 'tis an ill wind blowes no body good, Boy take your reckoning, and now we'l <STAGE>Enter Boy.</STAGE> take a good smart Nap, and then to the work agen.</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>All's pay'd in the Rose, and you are <HI>Welchmen</HI> Gentlemen.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Waterm.</HI></SPEAKER>
+<P>Thou art a wag Sirrah. <STAGE>Exeunt.</STAGE></P>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="1" TYPE="act">
+<HEAD>Actus primus,</HEAD>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Scaena Secunda.</HEAD>
+<STAGE>Enter Parson, and Madam Moders.</STAGE>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>In verity it is a cold bleak morning, a little of the Crea∣ture would do well: a Glass of Malligo is very comfortable, yea, even unto the Spirits, with a Toast; it does regenerate, and quick∣en much, and in a way does elevate, and stir the blood to action; it does assuredly.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I apprehend not that, (Sir) but I fear you give your self too great a trouble, thus to follow me, I cannot reach your meaning.</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>Verily 'tis sincerity of love I bear to strangers, as we are exhorted even so to do by the most learned Authors; Yea, we are all but strangers here, and there∣fore assuredly we should love one another, yea, so the Word is,
+<PB REF="6"/>
+even as one another. And see, Oh see, indeed law, look ye yonder, there is a door open to Comers surely, which we have not till now found in our way; I hope my courtesie, your Gentleness, will not refuse, yea truly I hope not.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I must house some where: faine I would be rid of this impertinent Coxcomb, yet methinkes I'me chain'd unto him as some fate hung o're me, he may prove fortinate.—</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>How say you beauteous Creature?</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>In truth I say Sir you do so abound in Courtesie, I shall fall short in my endeavours to requite it.</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>'Tis an easie, yea, even a very easie matter surely will do't if you so please,— where is the Man o'th house here?<STAGE><HI>Enter</HI> Mr. <HI>King</HI></STAGE></P>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<P>What is your will?</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>Nay, is it your will, that we may have a special Glass of Malligo.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. King.</SPEAKER>
+<L>The best in all the Town I warrant you.</L>
+<L>Where are you there?<STAGE>Enter Drawer.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>We are but newly come off the Water in verity: and something that's warme is not a miss truly; how say you Sir? with this fair Creatures good leave, I think it is not assuredly.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. King,</SPEAKER>
+<P>Shew a Roome presently d'ye hear, and draw a Pint of the best Malligo, that's next—d'ye hear, do you see, do you understand me. <STAGE>Exit Mr. King.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Draw:</SPEAKER>
+<P>I shall Sir—will you please to walk into a Roome.</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>Yea verily, how say you forsooth?</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I am at your disposal Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>In verity I wish you were else, for ah— <STAGE>He rubs his Elbow.</STAGE> ah—pray give me leave to take you by the hand forsooth ah—ah—'tis as soft as Velvet. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE>And enter again at the other end of the Stage, where there is a Table and Stooles set forth.</STAGE>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>A very pretty close convenient Roome this is assuredly; how say you beauteous Creature.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Why truly Sir the closeness of it does not at all concern me; if it were ten times wider I should like it a great deal better. <STAGE>Enter Drawer with VVine.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>Assuredly I think not so; yea, I can give you many reasons for it, Divine, and Morrall, Hyperbolicall, or Tropologicall,—but here's the creature come, that's the wine,
+<PB REF="6"/>
+now this should have a fellow, that is a Toast, where is the other Creature?</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<L>Even at the fire Sir,</L>
+<L>To receive its Tryal.</L>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>The fellow jeers him.</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>You answer'd well young man, yea verily; but let it not be burnt.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>It shall not be a Martyre; he will turne first assuredly <STAGE>Exit.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Why this is excellent.</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>A good ingenious young man verily, I warrant him well notion'd, that's to say in truth one that has somthing in him, yea certainly, but as I was about to say; to draw my reasons to a head, that is to tell you what they are, assuredly; and first.— <STAGE>Enter Drawer. with the Toast.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>The Toast is ready Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>You assure me right.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Yea, and it has got a new Coat by turning. <STAGE>Exit.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Ha, ha, ha,</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>Assuredly your mirth is comfort to me, what might occasion it, I pray if that—</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>A Toy came in my head.</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>Your Sex have many: but in so sweet a thing as you, they do appear (methinks) com∣mendable, yea verily.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>In that opinion you deceive your self, me you cannot Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>Not for Worlds on worlds! and yet the Weather may allow us to come neerer one another, verily, without offence, or misconstruction; for it is raw and cold, yea very cold. <STAGE>offers to remove.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>The Roome is warm, good Sir keep your seat.</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>Strangers I love, and strangers should love me, in verity they should la; else we do deny the sense, bids us love one another; yea, verily we do, I'le try how warme <STAGE>drawes his Chair neer Her.</STAGE> you are, and truly by a sweet conjunction we may warme one another, yea assuredly.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Sir I understand you not.</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>I hope you will, an understanding Woman is a Jewel, yea, yea, a precious Jewel in the Eares, and hearts of Princes and wise men assuredly, in sundry places we do find it so, yea verily; ah, ah, ah, ah, this hand yea this same hand of yours.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>And what of it Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>It melts like Butter 'gainst the Sun believe me, I would come neerer verily, that is unto your Lip, <STAGE>Enter Drawer.</STAGE>
+<PB REF="7"/>
+in verity it would affourd me sweetness in abundance, truly as∣suredly it would, I pray, I pray.—</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I am a strainger to your sense and Person: keep farther off Sir, or indeed I shall,—</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>Yea, yea,</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Nay, nay, are you so rampant; 'Parson, I thought I knew your meaning <STAGE>Aside.</STAGE> by your Gaping; are you so hot? I'le send a cooler to you. <STAGE>Exit.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>Ha—ha—ha—ha—ha.—</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>What's your meaning Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>The Spirit boyles within me, ye <STAGE>Enter Mr. King.</STAGE> assuredly, and if it be not look'd to, certainly the Liquor will run over, yea in truth, la.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>You are th'uncivill'st man that e're I met with, and unde∣serving of the Coat and Title you do assume; hands off.—</P>
+</SP>
+<SP>
+<SPEAKER>Mr. King.</SPEAKER>
+<P>A civil Gentlewoman I warrant her.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>You rude fellow you.</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>Yea, as the Wise man said, a Womans Tongue is Wormwood, yea verily Gaul and bit∣terness.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. King.</SPEAKER>
+<P>A man of your Coat d'ye see to do these things d'ye see, it is a shame d'ye see, d'ye marke me, that.</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>Assuredly I will pay for the Malligo and the Toast, yea I will.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I scorn your courtesie Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Pars</SPEAKER>
+<P>In verity I will.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. King.</SPEAKER>
+<P>Let him Mistress d'ye see, he has sworn d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>Assuredly I will, what is it pray?</P>
+</SP>
+<SP>
+<SPEAKER>Mr. King.</SPEAKER>
+<P>But Twelve-pence do you see.</P>
+</SP>
+<SP>
+<SPEAKER>Pars.</SPEAKER>
+<P>Twelve-pence is just a Shilling verily, and there it is as∣suredly; fair one, I greet you well; but will conclude with the wise Man, he that takes a Woman for his friend takes a wrong Sow by the Ear; yea verily. <STAGE>Exit Parson.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Mr. King.</SPEAKER>
+<P>I do perceive d'ye see you are a stranger.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>A very stranger to this Town indeed Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. King.</SPEAKER>
+<P>And 'tis very likely d'ye see you have a charge about ye.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I have so Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. King.</SPEAKER>
+<P>If you please d'ye see to make use of part of my House, d'ye see you need go no far∣ther, here you may be safe d'ye see, I see you are a civil Gentle∣woman, and 'tis pity d'ye see you should happen into a place that would abuse you, there are some such in Town; d'ye see that will prey upon strangers d'ye see, but you shall find no such thing here believe me.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I do Sir, and kindly do imbrace your proffer.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. King.</SPEAKER>
+<P>You shall want nothing in my house d'ye see, if you
+<PB REF="7"/>
+please to see your Chamber?</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Sir you oblige me much for this civility. <STAGE>Exeunt.</STAGE></P>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<HEAD>Actus Secundus,</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Scaena Prima.</HEAD>
+<STAGE><HI>Enter</HI> Mr. <HI>King and his Wife.</HI></STAGE>
+<SP>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>SWeet Heart, I have a secret to impart to thee, and a very precious one, d'ye see, it may be worth us pounds wench, nay, if I said hundreds I should not lye, d'ye hear me? provided we order our matters well, and carry 'em in the right way, d'ye see. And therefore I must conjure thee by all loves and nuptial kindnesses that has or may pass between us at Bed or at Board, d'ye see.—</P>
+</SP>
+<SP>
+<SPEAKER>Wife,</SPEAKER>
+<P>What is all this for?</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King,</HI></SPEAKER>
+<P>For it is no petty ordinary common thing d'ye see, but a thing of profit d'ye see, and credit d'ye see, and honour may come on't d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>Wife,</SPEAKER>
+<P>What is it? what is it?</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King,</HI></SPEAKER>
+<P>If a man cannot reveale a thing to his own Flesh and blood, d'ye see, who shall he do it to then d'ye see?</P>
+</SP>
+<SP>
+<SPEAKER>Wife,</SPEAKER>
+<P>I pray Sweet-heart let me know your meaning?</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King,</HI></SPEAKER>
+<P>Womens hearts are like Cullenders, d'ye see, or Loop-holes, d'ye see, but if a man cannot trust his own wife, his second self! d'ye see, I know not what to say d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>Wife,</SPEAKER>
+<P>Good Sweet-heart let me understand you, do you doubt me Sweet-heart?</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King,</HI></SPEAKER>
+<P>I doubt no body d'ye see, but a secret is a secret, d'ye see, and ought to be kept safe, tender as the Apple of ones eye, d'ye see, or the heart in ones bosome, d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>Wife,</SPEAKER>
+<P>Lord, lord, how I long to know it.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King,</HI></SPEAKER>
+<P>Yes you may long d'ye see, and shorten agen, d'ye see, but who payes for't d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>Wife,</SPEAKER>
+<P>Nay, I prithee Sweet-heart.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King,</HI></SPEAKER>
+<P>This it is d'ye see, to have a carefull Husband d'ye see, that riseth early and sits up late, d'ye see, while you she things, you lazy drones, you heavy ey'd wives d'ye see, run to your roost e're it chymes tenn, d'ye see me, there snug and snore till ten next morning, d'ye see; out upon such huswifes I cry.</P>
+</SP>
+<SP>
+<SPEAKER>Wife,</SPEAKER>
+<P>I, but Sweet-heart, what needes all this? good, now let me know this secret, this secret you talk of.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King,</HI></SPEAKER>
+<P>He that
+<PB REF="8"/>
+goes to bed with a Cap of cares on his head is an early riser, d'ye see, he takes time by the fore lock, d'ye see, and must thrive d'ye see, as it is seen in Cynder women, and Small-cole men d'ye see, who have a penny in Purss to spend when the sluggish man does want it d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>Wife,</SPEAKER>
+<P>You weary me, good Sweet-heart to the purpose.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King,</HI></SPEAKER>
+<P>It is a secret d'ye see, that you must keep as close d'ye see, as you do your sins, d'ye see, and reveale it to no body d'ye see, without my privity d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>wife,</SPEAKER>
+<P>You have charm'd me chuck, pray let me know it.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King,</HI></SPEAKER>
+<P>Why then, d'ye see?—</P>
+</SP>
+<SP>
+<SPEAKER>wife,</SPEAKER>
+<P>You know I do, dear heart you know I do, if you love me do not trifle thus,</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King,</HI></SPEAKER>
+<P>Why then I must tell you and exhort you, d'ye see, not to lye so long a bed, you may get Fleas d'ye see, but no wealth there; a stirring Wife is the only woman d'ye see, when all is done, d'ye think my Brother <HI>Bloodworth</HI> would ever have come to be an Alderman or a Knight if his wife d'ye see had not had a care of the Kitchin, and been stirring?</P>
+</SP>
+<SP>
+<SPEAKER>wife,</SPEAKER>
+<P>Well, well, I'le begone Sweet-heart, I see you have a mind to mock me; prepare me for a secret to no purpose.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King,</HI></SPEAKER>
+<P>Yes, it shall be to a purpose d'ye see, and a good purpose too d'ye see, this very morning e're the Crow had pist d'ye see, I got into my Barr d'ye hear, and as good fortune would have it d'ye see, in comes a Parson and as sweet a thing d'ye see, as modest and as comely as ever strod o're Threshold d'ye see, with him d'ye see, they drank a pint of Wine, and I found the Parson was ill inclin'd d'ye see; and his Coat lin'd with letchery d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>wife,</SPEAKER>
+<P>I pray Chuck by the way, where does that Parson preach?</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King,</HI></SPEAKER>
+<P>That's not to my matter d'ye see, I found her to be a vertuous Gentlewoman d'ye see, a stranger, and a Person that had a charge about her d'ye see, yea Jewells and Treasure d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>wife,</SPEAKER>
+<P>And what then Chuck?</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King,</HI></SPEAKER>
+<P>Why, then I discharg'd the Parson d'ye see, after he had discharg'd the Reckoning d'ye see, as it was fit, but not before d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>wife,</SPEAKER>
+<P>So then, and what became of the Gentlewo∣man?</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King,</HI></SPEAKER>
+<P>Why she had a charge about her d'ye see, and you may think I would take care of her d'ye see, she is forth come∣ing.</P>
+</SP>
+<SP>
+<SPEAKER>wife,</SPEAKER>
+<P>Where, good Husband where?</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King,</HI></SPEAKER>
+<P>In no worser place then our own house d'ye see.</P>
+</SP>
+<SP>
+<PB REF="8"/>
+<SPEAKER>wife,</SPEAKER>
+<P>Now blessing on thee Chuck I shall have a Companion.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King,</HI></SPEAKER>
+<P>Hold there child, d'ye see, we must go wisely to work d'ye see, and find out what she is d'ye see, for certainly she is a Gentlewoman of some quality, and therefore you must use her with all respect becoming her Person d'ye see; and when we find how matters stand let us alone to make our Markets d'ye see, if we don't hang me d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>wife,</SPEAKER>
+<P>Sweet-heart, believe me if there be any confidence to be put in Woman, your secret is lockt here in this Cabinet of which none keeps a key but your self; and if you think I retain any thing of a mothers wit in me let me alone to sift her out; were she as subtle as the great Grandmother of us all.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King,</HI></SPEAKER>
+<P>Be wise d'ye see, keep things close d'ye see, and then I warrant ye d'ye see. <STAGE>Exeunt.</STAGE></P>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<HEAD>Actus Secundus,</HEAD>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Scaena Secunda.</HEAD>
+<STAGE>Enter Madam Moders, and the Maid of the House.</STAGE>
+<SP>
+<SPEAKER>Maid,</SPEAKER>
+<P>My Mistress will waite upon you immediately forsooth, and I am sent in the meane time to know what you want.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I returne my equal thankes to your Master and Mistress, and tell them if they can spare me a Glass <STAGE>She opens a little Cabinet &amp; spread some Jewels and money upon the Table.</STAGE> bigger then this I travail with, to dress me by, they will do me a kindness, and d'ye hear sweart a little Paper too, prithee, and I will pay for it.</P>
+</SP>
+<SP>
+<SPEAKER>Maid,</SPEAKER>
+<P>And Pen, and Inke forsooth?</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>No, I never am without one 'tis so necessary.</P>
+</SP>
+<SP>
+<SPEAKER>Maid,</SPEAKER>
+<P>Do you want nothing else, forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Not at present,</P>
+</SP>
+<SP>
+<SPEAKER>Maid,</SPEAKER>
+<P>I'le returne withall speed forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Do so. <STAGE>Exit Maid.</STAGE></P>
+</SP>
+<STAGE>Madam Moders alone.</STAGE>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>These People are highly officious, I have not met the like civility in any place, what e're the reason is; if it continue thus, it will be wonderfull: I am a Stranger, and I must be so in my De∣portment, as the sight of these drawes on respect, <STAGE>pointing to her Jewels.</STAGE> so a becoming distance in me is necessary; to be too familiar renders a woman light, though she be honest, and to be
+<PB REF="9"/>
+sowre and surley is as bad, and argues want of breeding, to avoid the censure of either, I'le walk between both, and as I find my Company, appear neither too Jocand, nor yet too severe.</P>
+</SP>
+<STAGE>Enter Maid.</STAGE>
+<SP>
+<SPEAKER>Maid,</SPEAKER>
+<P>I have brought the Glass, and the Paper forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>You have done very well, set 'em down, I thank you.</P>
+</SP>
+<SP>
+<SPEAKER>Maid,</SPEAKER>
+<P>My Mistress is just upon coming; forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>She gives her self too great a trouble then, but she shall be most welcome.</P>
+</SP>
+<SP>
+<SPEAKER>Maid,</SPEAKER>
+<P>I'le tell her so forsooth, God bless you forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I thank thee Wench, <STAGE>gives her money.</STAGE> thy prayer deserves something, and thou shalt have it.—</P>
+</SP>
+<SP>
+<SPEAKER>Madam,</SPEAKER>
+<P>Oh lack-a-day forsooth, no, no forsooth, but if it must be so forsooth I humbly thank you.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Farewell, this must be done; A grain <STAGE>Exit Wench.</STAGE> or two cast on a fruitful Soyle may multiply. The Wench looks not like one would be ungratefull, and I have gain'd experience by my Travail, that 'tis a thrift thus to be prodigal. <STAGE><HI>Enter</HI> Mrs. <HI>King.</HI></STAGE> This should be the Gentlewoman of the house, I should meet her now—but stay a little. —</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King,</HI></SPEAKER>
+<P>I fear I entrude forsooth; you are busie.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I cry you mercy Mistress, some Letters I am fitting for the Post, but no great business; to let my friends know where I do re∣side, that I may hear from them, that's all.</P>
+</SP>
+<SP>
+<SPEAKER>Mistress,</SPEAKER>
+<P>And that's enough for me. <STAGE>a side</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Will you please to seat your self?</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King,</HI></SPEAKER>
+<P>I came indeed to invite you down to Dinner, goodness how these hangings look for want of brushing, what an idle Wench is this, the Cur∣taines and Vallance too, and the Chaires and Stooles too, what Windowes are here, I dare say they have not been well rub'd this week; the very Flore forsooth if you will believe me have shin'd so, you might have seen your face in't, goodness my Husband is such a man to put a Gentlewoman into a Roome,—Oh fie upon't, I fear forsooth you are but ill pleas'd as you are ill fitted, but indeed I promise it shall be amended.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>It needes not Mistress, me∣thinks 'tis very well, and so long as I am contented, you need not trouble your self.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King,</HI></SPEAKER>
+<P>That is your goodness forsooth, but will you be pleased to walk down to Dinner, or will you have
+<PB REF="9"/>
+a Dish of Meat brought up?</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>No, Mistress I dare not take that State upon me as to dine by my self, if I dine at all 'twill be with you, but truly I do not know how—</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King,</HI></SPEAKER>
+<P>If your Letters be all the hinderance, you have time enough to dis∣patch them forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>But I am all unready.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King,</HI></SPEAKER>
+<P>You need not fear Strangers, my Husband and my self are all.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Say you so Landlady, then I dare venture.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King,</HI></SPEAKER>
+<P>Will you please to lead the way forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>No, I hope you will leave me in Possession of my Chamber.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Oh because of shutting of the door, 'tis very right, Lord how forgetfull I am, pray pardon me forsooth. <STAGE>Exeunt.</STAGE></P>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<HEAD>Actus Secundus,</HEAD>
+<DIV3 N="3" TYPE="scene">
+<HEAD>Scaena Tertia.</HEAD>
+<STAGE>Enter Young Carleton and the Celler-man.</STAGE>
+<SP>
+<SPEAKER>Y. Carlet.</SPEAKER>
+<P>Where's my Sister?</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Who do you mean, my Mistress.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Prithee fool whom else?</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Why then my Mistress your Sister is. —</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>What art thou drunk, where is she?</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Drunk, what is that word drunk? did you ever know me drunk? let Coblers and Tinkers be drunk, did you ever know a Cellerman drunk?</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Leave this fooling, where's my Sister?</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>drunk! drunk! how can he tell any thing that is drunk? yes I know where your Sister is.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Come where is she.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>You may go look, drunk! if I did know I would not tell you; drunk!</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Go you are a Sot.—</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>A Sot! you Scriveners Boy, you Pen and Ink-horn, a Sot you Shittafritter.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Sirrah I shall box ye if you be thus sawcy.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Box me, you coca∣loach, you Tinder-box of a Clark, you Rump of a Lawyer, you box me, come, boy come, come an thou darst <STAGE>Enter Drawer.</STAGE> here I stand.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Very hardly, art not thou a base Rascall to abuse me thus I could kick thee about like a Foot-ball thou dirty fellew thou.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Who <STAGE>he offers to kick and falls down.</STAGE> me, kick me! Boy, boy, I'le kick thee boy, thou spindle thou.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Why how now, what's the mat∣ter?
+<PB REF="10"/>
+what down man? up again and take another. <STAGE>helps him up.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Drunk, and sot, and a Foot-ball to be kickt very fare, come kick for kick, I'le so toss thee.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>welfare a good friend, you had given your self the other toss else.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Come prithee get thee in.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>He sayes I am drunk.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Why so thou art insufferably, cursedly drunk.</P>
+</SP>
+<SP>
+<SPEAKER>Celler.</SPEAKER>
+<P>Thou liest in sober sadness, cursedly, to say so, though thou wert my brother ten times over.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>No more of this; go, go thy wayes to sleep.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Sleep, Pox of sleep, I care not for sleep, I did not sleep ten wincks all last night, I never sleep, am up early and late for my Masters profit, yes <HI>Carleton,</HI> I am <HI>Carleton,</HI> what say you to that now <HI>Carleton,</HI> hah!</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Prithee go thy wayes up Stares, or into some by Roome I prithee brother do.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Yes, I shall but d'ye hear <HI>Carle∣ton,</HI> if ever I meet you <HI>Carleton.</HI>—</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Thou'lt give him a Glass of Wine.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>What then? it may be so I will, and the best Wine in the Celler too; <HI>Carleton</HI> without being drunk <HI>Carleton,</HI> what say you to that <HI>Carleton,</HI> or a Sot, <HI>Carleton,</HI> or a Foot-ball <HI>Carleton,</HI> how think you of that <HI>Carleton</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>D.</SPEAKER>
+<P>Very well, prithee begone.</P>
+</SP>
+<SP>
+<SPEAKER>Celler.</SPEAKER>
+<P>I will not tell I've ta'ne him by the hand.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Why that's well done.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Why you must think I cannot but love the man for the Womans sake, I do so Mr. <HI>Carleton,</HI> she is my Mistress Mr. <HI>Carleton,</HI><STAGE>weepes.</STAGE> and you are her Brother Mr. <HI>Carleton,</HI> Flesh and Blood Mr. <HI>Carleton,</HI> is very neer Mr. <HI>Carleton.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Now his kindness over∣flowes: will thou go in?</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>I will have a pint of Cana∣ry first to drink to Mr. <HI>Carleton,</HI> I pray fetch it Brother I'le pay for it, honest Mr. <HI>Carleton,</HI> my Mistresses Brother, but I am not drunk Mr. <HI>Carleton,</HI> nor a Sot Mr. <HI>Carleton,</HI> nor a Foot-ball Mr. <HI>Carleton,</HI> I may be a fool Mr. <HI>Carleton,</HI> but I love you Mr. <HI>Carleton.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Thou art an honest fellow.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Yes, and ever was Mr. <HI>Carleton,</HI> yet I will creepe on all four to do you good <HI>Mr. Carleton,</HI> and yet I am not drunk Mr. <HI>Carleton.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Thou art not, thou art not.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>It may be I am so, so, as they say in a fair way, but drunk I hate to be drunk.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Wilt thou go into a Roome.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>I will not stirr a foot, nor a leg, nor a finger, nor a thumb, unless Mr. <HI>Carleton</HI>
+<PB REF="10"/>
+commands me, and sayes honest Rogue I love thee.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Why honest Rogue I love thee.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Why so now; is not this better then to say you are drunk, a sot, and I'le kick you like a Foot-ball:—why now you are a Gentleman; and if you will go down into the Cellar I will not wast your Bro∣thers Goods but what you drink there I'le pay for, a man can say no more.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Another time Brother, another time.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Why what's that to thee, thou wilt be medling with other mens matters.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>No more quarrelling good bro∣ther: prithee go in.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Do you say I shall go in Mr. <HI>Carleton,</HI> if you say the Word I am gone.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>I, honest Rogue prithee begone.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Why then I fly. <STAGE>Stumbles.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Hold there man.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>A pox of these Tobacco Pipes, they lie in a mans way basely: d'ye hear brother, if company come in you know where to find me. <STAGE>Exit Cellerman.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Fast a sleep in the Cellar.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>'Tis a very ho∣nest fellow, did not this drink abuse him.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>'Tis wonder'd where he gets it; in Company he shuns it, unless the sent of the Celler makes him drunk, no man can guess it, or drinks with his own shaddow.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Alas poor fellow; but where is my Sister?</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>At dinner Sir, or neer upon't, with a most dainty Creature, a sweet modest thing.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>What is she?</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>A meere stranger happen'd in here by chance; she is worth your seeing Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Say'st thou so; I confess I'me something bashfull, but I'le venture.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>I would I durst. <STAGE>Exeunt.</STAGE></P>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<HEAD>Actus Tertius.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Scaena Prima.</HEAD>
+<STAGE>Enter Young Carleton and Mistress King.</STAGE>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Good lack <HI>John</HI> that you should be so simple to come so late, you know we dine betims, especially when we have little Company; but if thou'lt take a snip such as it is, thou knowest thou art welcome <HI>John.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Pough, I care not for a dinner; I am vext I mist the sight o'th Lady.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>What Lady? <HI>John?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>You think that
+<PB REF="11"/>
+I know nothing; what Lady was it that came in this morning early, very early.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Why <HI>John</HI> as I am a Woman.—</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>You know there was a Gentlewoman or Lady, stran∣ger, came hither this morning as I said before; fie Sister why do you make it so strange to me your natural brother.—</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Lord, how dost thou know this.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>What do I not know?</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Well now it is out; I ever took thee for a <HI>Conjurer</HI> by the scrawles thou us'd to make at home; nay in my conscience I think verily if thou would'st confess <HI>John,</HI> thou mak'st Almanacks <HI>John,</HI> and fortune Bookes <HI>John</HI>; Oh thou wer't alwaies a wag <HI>John.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Away fool; But may not I see this stranger?</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Well thou art a very Witch <HI>John,</HI> if I was not sworn to secrecy, yea by my own Husband let me be hang'd now, and thou by thy craft, thy wicked craft, (for so it is) hast found out all; but <HI>John</HI> thou canst not see her now for all thy cunning.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Why so, Sister?</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>In troth she's de∣spatching Letters to be sent by the Post <HI>John,</HI> but to morrow <HI>John.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>What then Sister?</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>We shall feast our friends <HI>John,</HI> and cannot in civility do less then invite her <HI>John,</HI> being a sojourner in our house <HI>John,</HI> and then thou shalt have thy belly full of seeing of her <HI>Iohn,</HI> but no words <HI>Iohn</HI>; if thou lov'st me; she is a well bred Woman, I perceive that <HI>John,</HI> already <HI>John</HI>; but no words as you love me.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Not a word I.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Be sure you come betimes, and be very neat <HI>John,</HI> 'twill be for your credit, and you may find the benefit of it in time <HI>John.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Well, well, you know Sister I can be as spruce and finicall as another when I please.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>I know it <HI>John.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>And so adue Sister.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>fare you well brother <HI>John.</HI><STAGE>Exeunt severally.</STAGE></P>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<HEAD>Actus Tertius,</HEAD>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Scaena Secunda</HEAD>
+<STAGE>Enter madam Moders and the Maid of the House.</STAGE>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Sweet heart shall I trouble thee.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>No trouble forsooth to serve you.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Only to get a trusty messenger
+<PB REF="11"/>
+to deliver these Letters for me at the Post office, they are of con∣cernment, and their miscarriage will much prejudice me; and therefore good sweet heart get one you know, and are assured of.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>I'le carry them my self forsooth with my Mistresses leave.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>That would do well indeed, but I fear thy mistress cannot spare thee.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>Yes I warrant you forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>shall I not be too troublesome.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>Oh no forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I would not give her occasion of distaste.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>You need not fear it forsooth, she is of a better disposition then so.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Well sweet heart I'le trust to your care then, there's money for 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>They shall be safe delivered forsooth. <STAGE>Exit.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<L>I find these people's over kindness mixt;</L>
+<L>With greyness of subtlety; their plausibility</L>
+<L>Gives only Credit to their busie purpose:</L>
+<L>My Landlady like to one Grandam Eve,</L>
+<L>Covets to know more then she ever shall;</L>
+<L>Yet I'le afford her to tast of the Apple,</L>
+<L>And since she'l needes trouble her self 'bout matters</L>
+<L>That unconcernes her, I have fitted her,</L>
+<L>My Letters which I know she'l intercept,</L>
+<L>And pry into, to satisfie her longing,</L>
+<L>(Though it be most inhospitable and base,)</L>
+<L>I've fram'd accordingly there let her nibble,</L>
+<L>Upon the bates I've laid and please her self,</L>
+<L>With thinking she knowes all, when she knowes nothing:</L>
+<L>Whil'st I've seem still a stranger to her meaning,</L>
+<L>The more respects she shews me, I will be</L>
+<L>The more reserv'd which will draw greater on,</L>
+<L>With some continuance, poor shallow thing</L>
+<L>To hope to sift me out in my affaires,</L>
+<L>My Education has not been so slender,</L>
+<L>Nor my Wit left naked of Rudiments,</L>
+<L>To be a Price for thee and thy designes;</L>
+<L>All bold inquisitors ought thus to be</L>
+<L>Deluded with some shew of certainty.</L>
+</SP>
+<STAGE><PB REF="12"/><HI>Enter Maid of the House.</HI></STAGE>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>The Letters are delivered forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Art sure on't?</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>Sure on't forsooth, I deliver'd 'em with my own hands I'me sure.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Say'st thou so, thou hast made hast then I'le promise thee.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>Have you any more service to command me forsooth?</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Not to night wench.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>Shall I not help to undress you forsooth?</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I was not drest to day, and having nothing on but what I can cast off without thy help wench, I acquit thy diligence.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>Good rest to your Ladiship. <STAGE>Exit.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<L>Ladiship! so, now it begins to work,</L>
+<L>Will it rest there! no, their conceits fly higher;</L>
+<L>A forraign Princess, that for love of some</L>
+<L>Brave <HI>Englishman,</HI> has left her Native Soyle,</L>
+<L>And privately is here Arriv'd, or so;</L>
+<L>But that's too lame, I'd rather have it thus;</L>
+<L>A Noble Person that to view the World</L>
+<L>With an experienc'd eye, throwes off her State,</L>
+<L>And like to the late active <HI>Sweedish</HI> Queen,</L>
+<L>Retires into a Hut without her Retinue.</L>
+<L>This meetes my fancy and comes neerest to</L>
+<L>Their Wit (if they have any) here's a Field</L>
+<L>For us to play in; as I see 'em move,</L>
+<L>I'le poyse their admiration, and their love. <STAGE>Exit.</STAGE></L>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<HEAD>Actus Tertius,</HEAD>
+<DIV3 N="3" TYPE="scene">
+<HEAD>Scaena Tertia.</HEAD>
+<STAGE><HI>Enter</HI> Mr. <HI>King and his Wife.</HI></STAGE>
+<SP>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>Good sweet heart d'ye see, I would not have you so busie d'ye see, sweet heart a body does not know what may come on't d'ye see sweet heart.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Prithee chuck hold thy tongue she's a brave Woman, nay, she must be a gallant Woman, I know what I intend well enough, take you no care, the business is mine chuck.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>Nay, d'ye see, I will not cross you sweet heart d'ye see, I wish all may go well, but you know she is but a stranger d'ye see, and a body may be deceiv'd d'ye see, of
+<PB REF="12"/>
+what you hope for d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Let the fault lie on me then chuck, look here's my brother <HI>John.</HI><STAGE>Enter Yo. Carleton.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>Brother you are very heartily welcome d'ye see, in∣deed you are d'ye see, I cann't dissemble d'ye see, in truth I cannot.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>I know it, what needes all this brother?</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>You are very early <HI>John,</HI> and very smug <HI>John.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>I came just from the Barbers, but where's the Lady?</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>What Lady? I know no Lady I protest d'ye see, but my own Wife your Sister d'ye see, who is the only Lady and Mist∣ress of the house d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Oh fie chuck, fie, you know, you know.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>True, there is a strange Gentlewoman sojournes here d'ye see for some time, but I know no more on't d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Why then a Gentlewoman let her be, so I can but see her.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>I think thou long'st for't <HI>John,</HI> hear∣ken and thou may'st hear her <HI>John,</HI> 'tis her <STAGE>sings above.</STAGE> voice I promise thee.</P>
+</SP>
+<SP>
+<SPEAKER>Yo Carlet.</SPEAKER>
+<P>'Tis a sweet one,—hold good Sister hold, I love a good voice as I love my life.</P>
+</SP>
+<SP>
+<LG TYPE="song">
+<HEAD>SONG.</HEAD>
+<L>A way, away, flatter no more</L>
+<L>My easie Faith, for now I see</L>
+<L>What thou in me seem'd to adore</L>
+<L>Thou mak'st thy pleasures property;</L>
+<L>No more, no more will I believe</L>
+<L>The man that can so soon deceive;</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<L>Excellent, excellent,—Oh good <STAGE>She goes on.</STAGE></L>
+<L>Sister listen a little.</L>
+</SP>
+<SP>
+<LG TYPE="song">
+<HEAD>SONG.</HEAD>
+<L>Nor was it flattery that did,</L>
+<L>Betray my heart, but that I lov'd,</L>
+<L>For which my Reason hath been chid,</L>
+<L>And I the said effects have prov'd;</L>
+<L>Then go, and I no more will see</L>
+<L>The man that has abused me.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Incomparable! the Voice of Nightengales are hoarse to hers: shall I see her Sister?</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Yes brother <HI>John</HI> you shall see her, but I must prepare her first, you will not know her else, she'l not be seen till Dinner time.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Would it were ready, I shall be starv'd till then.</P>
+</SP>
+<SP>
+<PB REF="13"/>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>Rather then so d'ye see, we have a bye Bit for ye.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>You do not understand me brother.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>No, no, <HI>John,</HI> heaken to me, she that I shall call Couzen when we are at Dinner is the Party; and by that word <HI>John</HI> you may know her, but let none else take notice of it.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>If her person be answerable to her voice, she will be taken notice of, whether I will or no.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>He sayes right Wife d'ye see, the truth is I would not have my brother d'ye see, take any notice of her more then as a stranger.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>That is my meaning chuck.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>for she may be a person of Quality d'ye see, and she may not d'ye see, all is not Gold that glisters.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Good brother do not forstall the Market, when I know not how to carry my self you shall in∣struct me.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>Nay, brother I do not speak for your carriage d'ye see, but for your good d'ye see, I would not have you ensnar'd d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Ensnar'd Love! dost thou think that I, who am his natural born Sister, flesh, blood, and bone, would bring him into a snare love!</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>No chuck, but thou may'st be mistaken in the thing it self d'ye see chuck.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>I perceive my Brother is not minded I should see the Gentlewoman, fare you well Sister, I'le not be troublesome.</P>
+</SP>
+<SP>
+<SPEAKER>Mr <HI>King.</HI></SPEAKER>
+<P>Good lord d'ye see, my own heart is not welcomer to my Bosome then you are to it d'ye see, but I speak by way of caution d'ye see, because I love you,</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Certainly I'me neither fool nor mad-man, I have my Wits about me.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>I <HI>John</HI> that thou hast <HI>John</HI> to my knowledge, more wit then twenty of 'em, and I am no fool neither <HI>John,</HI> thou knowest it, and I know more <HI>John</HI> then I will speak; be rul'd by me <HI>John,</HI> let me alone I'le order the business if thou hast a mind to her.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>When I have seen her I will tell you more.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>And that thou shalt <HI>John</HI> for all his pettishness.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>Nay, I have done d'ye see, I'le medle no more in't.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter two Gentlemen, with a Drawer.</STAGE>
+<SP>
+<SPEAKER>1 <HI>Gent.</HI></SPEAKER>
+<P>Are the Guess all come.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Now you are come Gentlemen.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Gent.</HI></SPEAKER>
+<P>Are we the last Couple in Hell then.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Gent.</HI></SPEAKER>
+<P>I believe not; is <HI>Jack Carleton</HI> come?</P>
+</SP>
+<SP>
+<SPEAKER>Draw·</SPEAKER>
+<P>Yes Sir.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Gent.</HI></SPEAKER>
+<P>Nay then I fear we are tardy in point of time, for he us'd to be alwaies the last man born.</P>
+</SP>
+<SP>
+<PB REF="13"/>
+<SPEAKER>Draw.</SPEAKER>
+<P>Today he came sooner then was exspected indeed, but you are not too late, in very good time Gentlemen; will you please to walk up.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Gent.</HI></SPEAKER>
+<P>What else. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE>The Scaene of a Celler is discovered, wherein sits the Cellerman, by him a little Table, with a lighted Candle on it, and several sorts of Pots about it.</STAGE>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Here am I plac'd to attend the noice above Staires; I fill and fill, all manner of Vessels from the Gallon to the Gill Pot, and they bawle and call, and take 'em away as fast, but the divel of drop they give me; none has the heart to say honest <HI>Wat</HI> here's to thee, and God-a mercy 'tis good Wine, hang their money, I respect their love, but thou art not belov'd <HI>Wat,</HI> therefore love thy self <HI>Wat,</HI> the Poets say thou art Prince of the Spiggot and art in thy Kingdome when thou art in the Celler, if so then all these are my Subjects, the <HI>French,</HI> the <HI>Dutch,</HI> and the <HI>Spanish,</HI> nay I dare say if need be I can command the <HI>Welsh,</HI> the <HI>Irish,</HI> the <HI>Scotish,</HI> and the <HI>English</HI>; then <HI>Wat</HI> do like a Prince make use of thy Subjects as they make use of thee, for they would be musty else.— <STAGE>within Wat, Wat, make hast.</STAGE> dost thou hear <HI>Wat</HI> thou art call'd upon, thou must make hast they say hum,—so be it, by, and by, this must be fill'd with Sherry, this with Canary brisk, this with old Malligo, but d'ye hear me Sherry, Canary <STAGE>points to the Pots.</STAGE> brisk, and old Malligo, there's none of you shall go 'till I have ta'ne excise—here <HI>Wat,</HI> since no body else will, I'le drink to thee my self, 'tis a cup of pure Sherry, <HI>Wat,</HI> why gra-mercy—this is something now, here is good fellowship, and no body sees! they say thou hast a good Pallat <HI>Wat,</HI><STAGE>fills his Ves∣sel and cup.</STAGE> I'le try it in faith, here's to thee in a Cup of brisk Canary, off with it man, and so I will <HI>VVat,</HI> and now what say'st thou to a Cup of old Malligo <HI>VVat?</HI> it cannot but be good, the best in Town <HI>VVat</HI> I approve it, off with it man; doubtest thou me <HI>VVat</HI>? now are we Company for Poets <HI>VVat,</HI> but hold— wilt thou let thy <HI>French</HI> and <HI>Dutch</HI> Subjects go free <HI>VVat?</HI> No thou wilt be an unjust Prince then, as for the <HI>English, VVelch, Irish,</HI> and <HI>Scotish,</HI> they are poor, acquit 'em, acquit 'em, then here's to thee in a Cup of Rhenish 'tis cleansing drink <HI>VVat</HI>; off with it, art thou now for a Cup of spruce Claret, or White <HI>VVat?</HI> both; thou
+<PB REF="14"/>
+shalt have 'em intire boy, intire boy; rich Wine <HI>VVat,</HI> huge rich Wine <HI>VVat,</HI> damnable searching <HI>VVat</HI>; yea <STAGE>falls into his Chair &amp; sleeps</STAGE> it is so, it is so, it is so.</P>
+</SP>
+<STAGE>Enter two Drawers.</STAGE>
+<SP>
+<SPEAKER>1 <HI>Draw.</HI></SPEAKER>
+<P>Here he is with all his Artillery about him, dormant as a Mouse.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Draw.</HI></SPEAKER>
+<P>Does he not sleep Dogs sleep.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Draw.</HI></SPEAKER>
+<P>No you may hear him to <HI>Hogesden.</HI></P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Draw.</HI></SPEAKER>
+<P>I'le waken him.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Draw.</HI></SPEAKER>
+<P>By no means, he sat up late last night, come help up <STAGE>They carry the Pots off and so The Scaene is drawn.</STAGE> with these Pots.</P>
+</SP>
+<STAGE><HI>Enter</HI> Mrs. <HI>King, and Young Carrleton.</HI></STAGE>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Now Dinner's done, while they are merry <HI>John</HI> let you and I consider of the matter; how do you like the Person, <HI>John?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Exceeding well; good at discourse, and of a modest countenance.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Why law ye now, did not I tell you this <HI>John</HI>? and you would not believe me, my Hus∣band like a fool was of the same faith too.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Pough I did believe you Sister, but has she that estate you talke of too?</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>What do you doubt me there too <HI>Iohn</HI>? yes she has an Estate and a glorious Estate <HI>Iohn,</HI> but what it is I do not know <HI>Iohn,</HI> yet I can shrewdly guess <HI>Iohn</HI> and if need be.—</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Is it in her own hands.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Why now I see thou art not so wise as I thought thee to be <HI>Iohn,</HI> in whose hands should it be else <HI>Iohn.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Where lies it.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Between Heaven and Earth <HI>Iohn,</HI> does not all peoples Estates lie there you fool.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>I would not be made one of good Sister.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Nay, if you be there abouts <HI>Iohn</HI> I have done.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>I must confess I never saw a per∣son I ever fancy'd better; Pray Heaven my flames consume me not, they take so soon, and are so fierce.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Fear not <HI>Iohn,</HI> I am her bosome <HI>Iohn,</HI> and if she were not for your turne, you should not have her <HI>Iohn,</HI> but you must be rul'd <HI>Iohn.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>In any thing dear Sister thou wilt have me.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Then put your self <HI>Iohn</HI> into an Equipage beyond your self <HI>Iohn,</HI> appear as I would have you like a Lord <HI>Iohn,</HI> with your Coach and Foot-boyes, the sooner <HI>Iohn</HI> the better; were't to morrow, and treat her nobly <HI>Iohn,</HI> were I a man, <HI>Iohn</HI> I could
+<PB REF="14"/>
+do it to the life <HI>Iohn,</HI> I know you want not friends to furnish you, let it be so <HI>Iohn,</HI> for she is a Lady, &amp; none but him is recommend∣ed for a Lord will carry her <HI>Iohn.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>It shall be done dear Sister; I know where to be provided both with money and Cloaths.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>And then let me alone to manage things for thy advancement <HI>Iohn.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>I, dear Sister prithee use thy Interest.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>If we should not do well for one an∣other <HI>Iohn,</HI> how would the World look on us <HI>Iohn</HI>? I love thee heartily <HI>Iohn.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>I know thou dost, and there is no love lost on either side.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>I'le lordifie thee <HI>Iohn,</HI> I'le be thy HERAULD: thou shalt no more be plain <HI>Iohn,</HI> nor poor <HI>Iohn,</HI> nor honest <HI>Iack</HI> as thy friends call thee; but my Lord <HI>Iohn,</HI> I will have it in my thought, and will dream upon't, for man, I must not call you brother, nor you me Sister, observe that <HI>Iohn,</HI> yet I would not have you to forget <HI>Iohn,</HI> that I am your Sister.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Dost think I will? but come, our friends do stay.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Then my Lord <HI>Iohn</HI> I pray lead on the way. <STAGE>Exeunt.</STAGE></P>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<HEAD>Actus Quartus,</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Scaena prima.</HEAD>
+<STAGE>Enter Cellerman, Drawer, and Cook-maid.</STAGE>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Yesterday was a hot day, a wicked hot day.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>No, 'twas a very cool day; how canst thou call it a hot day when thou wert in the Celler all the while?</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Why goodman puppy the Celler is the hotest place in the house.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>To thee sometimes it may be so.</P>
+</SP>
+<SP>
+<SPEAKER>Cookm.</SPEAKER>
+<P>I know not what it was to him or you, but to me I'me sure it was a very sultry hot day.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>I, thou art a Wench that deales in fire, but he is for the other Element.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>You, ly you Logerhead I hate Water.</P>
+</SP>
+<SP>
+<SPEAKER>Draw:</SPEAKER>
+<P>But thou art quarrelsome in thy Ale.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>I hate that too.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Small Beer can never stir thee.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>I do not much affect that neither, it rots my Guts.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Some secret Liquor, some <HI>Nepenthe</HI> as the Po∣ets call it, inspires thee now and then abominably: but I am taught to tell you Brother mine, and Sister <HI>Eke,</HI> that if you chance to see
+<PB REF="15"/>
+this day a Lord in shape as like Mr. <HI>Iohn Carleton</HI> as Puss to Cat, you must not think it him.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>What him, what him?</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Even him, I spoke off Mr. <HI>Iohn Carlet,</HI> yea though you know the Nose upon his face you must not think it him, but.—</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>But what?</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>A Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Cookm.</SPEAKER>
+<P>A Lord, ha, ha, ha,.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>I shall laugh too, prithee what Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>The Lord knowes what, but hear me it is no laughing matter mums the word.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>May not one winck and laugh?</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>yea winck you may but laugh ye may not.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Where didst thou get this Tone thou wicked elder.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Even of a Parson truly, yea verily it was, that brought the Lady to this place assuredly.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>Hold there is a Coach at door, no feasting I hope this day. <STAGE>Enter Yo. Carleton with two Foot-boyes.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>'Tis he.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>'Tis not he.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>But I say 'tis he.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>And I am sure 'tis he.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>What he?</P>
+</SP>
+<SP>
+<SPEAKER>Omnes.</SPEAKER>
+<P>My Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>You do well. there,— <STAGE>Gives them money.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>Ne're go now if he ben't <STAGE>Exits.</STAGE> a hansome Gentleman.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>And generous.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>'Tis pitty he is not a Lord indeed, now my trouble comes on.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>Or mine rather.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>No I dare assure you the day will not be so hot to either of you as yesterday was.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Then I shall be plagu'd with night work.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Why all times and seasons are alike to thee so thou dost drink and sleep.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Hang ye Raskal I never was a drin∣ker, a thorough drinker in my life.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Not to speak of.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>Nay truly, <HI>VVat</HI> is as sober a man when he is not drunk, as any of us all.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Ha, ha, ha, come, come, let's about our business. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE><HI>Enter Young Carleton,</HI> Mrs. <HI>King, Madam Moders, and two Foot-boyes.</HI></STAGE>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Boyes.</P>
+</SP>
+<SP>
+<SPEAKER>Boyes.</SPEAKER>
+<P>Ny Lord?</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Get you down Staires, take a Roome there.</P>
+</SP>
+<SP>
+<SPEAKER>Boyes.</SPEAKER>
+<P>Yes my Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>And when I call be ready.</P>
+</SP>
+<SP>
+<SPEAKER>Boyes.</SPEAKER>
+<P>We shall my Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Keng.</HI></SPEAKER>
+<P>And one of you bid one of my men bring up some Wine, shall it be so my Lord?</P>
+</SP>
+<SP>
+<SPEAKER>yo. Carlet.</SPEAKER>
+<P>I come not to be idle, 'twas well thought on.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>These boyes
+<PB REF="15"/>
+are as bad as young Coach-horses, they <STAGE>Exeunt Boyes.</STAGE> take up so much time in teaching it wearies one.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>You may remedy it as they say my Lord, and have those that are prepared to your hand my Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>I may so indeed, but many of them have practic'd sawcyness and become surley. <STAGE>Enter Drawer with Wine.</STAGE></P>
+<P>Oh art thou come; where are my Foot-boyes?</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Below, my Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Do I dream? a Lord <STAGE>aside.</STAGE> since yesterday!</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Fellow fill some Wine.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Yes my Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Can this be real?<STAGE>aside.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Madam my hearty service to you.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>You do too much eclips you title in't Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Not a whit Madam, Honour's bound to serve a per∣son of your vertue and your Presence: will you be pleas'd to take the aire to day, my Coach is <HI>ready.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Were I dispos'd, I could cammand one Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>So you may mine Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Not I Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Why will not your Ladiship accept his proffer?</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>You put strange Titles upon people Mistress. <STAGE>The Lord and Lady went over the Green.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>A smart wit; would you would honour me so much Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>As how Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>As to walk with me over the green.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>No my Lord, I should be wet shod then, <HI>April</HI>'s dew is deep.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>And therefore sweet.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Your Lordship makes that up a vulgar Error.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet</SPEAKER>
+<P>Well Sister.—</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Art mad or <STAGE>aside.</STAGE> foolish.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Both; I am not right.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I do be∣lieve so.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>His Lordship is not well.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>A-lack good Gentleman.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>I beg your pardon; I am forc'd to leave you.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>No force Sir, in good time.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>She would be rid of me.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>How do you my Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>His Lordship would to Coach.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Again.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Will your Lordship have any Comfortable thing?</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>No I'le to Coach, the Lady has directed me.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>In the right way I hope Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Again? I will not stay, call my Boyes fellow.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Why Children,—I forgot my self,—Boyes,—I'le send 'em up an't please your Lordship.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>No, tell 'em I'me
+<PB REF="16"/>
+a going, and 'tis enough.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>I shall my Lord. <STAGE>Exit.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Madam give me leave to kiss your hand,—your ser∣vant, your servant Mistress. <STAGE>Exit.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>His Lordship will be hard put to't, to serve us both.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Me he cannot, you he may Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Good Couzen, or Landlady, the last is the truest, be not so prodigal of your favours in confering Titles of Honour at this rate.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Why d'ye think I do not know you to be a Lady Ma∣dam.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I should be so were I a Madam really; but you are free in the bestowing it as I suppose upon any person, because the word is common, and therefore Landlady I do abhor it.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Indeed you mist my meaning Madam, I ne're apply Titles to any person but such as I know deserves 'em, as on your self, my Lord, or so.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>But is he, that was here, a Lord really descended.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>A very Lord I do assure you Ma∣dam.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Since yesterday translated! for then he din'd with us or my memory deceives me.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>He did so, but then he was disguis'd.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Not with drink I'me sure.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>No, but in his freikes as they call 'em, and he has many, some times he will go in the Street as he went for a wager, with his Collor all unbutton'd, swetting like a Bull, his Cloak hanging behind him, in one hand his Gloves, the other full of Pa∣pers, that one would take him for all the World to be some young Clerk, or one that had Relation to the Law. At another time when he has a mind to be privately merry he throwes his Cloak over his Nose, and in he steales, and is as good Company!—</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>For a mad Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Nay he is not mad, in truth he has some whymseys but they are huge becoming I'le assure you Madam, if you were acquainted with 'em; then he has been bravely bred Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>So a Lord should be.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>He's a good <HI>Latiness</HI> they say, and writes a very good Hand.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Those are very good commendations for a Clerk indeed.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Or for a Lord or a Gentleman or any bo∣dy else believe me Madam; and then he's as sober, as vertuous, and as hansome a young Lord though I say't as any is within a hun∣dred miles of his head, and of as sweet a disposition.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Methinkes you dwell too long upon his prayses.</P>
+</SP>
+<SP>
+<PB REF="16"/>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>If you were but well acquainted with him Madam.—</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I must to my Chamber.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>And I'le wait on you Madam. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE>Enter Drawer, and a Foot-boy with a Box of sweet Meates.</STAGE>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>How now, did these come from your Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>Yes to the Lady.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Where did thy Lord pick thee up?</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>What's that to you Jack-a-napes I'le tell your Mistress Sirrah.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>Why how now little impudence will you be lug'd by the Eares Sirrah, does your Lord teach you no beeter manners you Arss-worme?</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>I cannot tell—I must speak with your Mistress. <STAGE><HI>Enter</HI> Mrs. <HI>King.</HI></STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Who's there?</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>My Lord presents his love to you forsooth, and desires you would present his service with this Box of sweet Meates to the Lady!</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Thou shalt see it deliver'd thy self, Boy come in with me.</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>Your man is so unlucky he will not let me alone.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>fie, fie, meddle with a Child. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>There's a young Pimp now, he'l be a stew'd Rogue in time if his Lords Trade continues. <STAGE>Exit.</STAGE></P>
+</SP>
+<STAGE><HI>Enter Madam Moders,</HI> Mrs. <HI>King, and the Foot-boy.</HI></STAGE>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>He bid me tell your Ladiship he'l wait upon you in the af∣ternoon, and have you abroad.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Will he, but 'tis a questi∣on whether I shall give my self that leisure or not.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>By all meanes good madam.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>How ever boy prithee present my service and thankes to him, <STAGE>gives him money.</STAGE> there's something for thy paines.</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>Your humble servant madam. <STAGE>Exit.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>D'you observe Landlady, the word madam is so out of fashion 'tis a Foot-boyes Complement.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>What shall I call you then? Princess.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Away, away, I abandone flattery as I do Titles that are misapply'd.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Why directly your Presence and excellent parts cannot speak you less,—but sa∣ving my tale forsooth, odds so I cry your Ladiships mercy.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Nay let it go on so.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Why then an't please you how d'ye like my Lord? is he not as I told you a sweet conditi∣on'd Gentleman?</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>He begines well.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>And so He'l continue to the end I warrant ye.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>That's more then
+<PB REF="17"/>
+you know Landlady.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>My life on't.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>'Tis a hard venture in my opinion Landlady. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE>Enter Young Carleton, and Footboyes.</STAGE>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Let the Coach wait, and stay you there.</P>
+</SP>
+<SP>
+<SPEAKER>Boyes.</SPEAKER>
+<P>We shall my Lord. <STAGE>Exit Young Carleton.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Boy.</HI></SPEAKER>
+<P><HI>Jack</HI> let thee and I crack a Pint together.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Boy.</HI></SPEAKER>
+<P>I have no money.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Boy.</HI></SPEAKER>
+<P>Hang't, I have, the Lady was generous to me this morning.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Boy.</HI></SPEAKER>
+<P>Would she had been so to me.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Boy.</HI></SPEAKER>
+<P>'Tis all one between thee and I, let's call the Coachman in and see if he will joyne.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Boy.</HI></SPEAKER>
+<P>The more the merrier.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter young Carleton, Madam Moders, and Mistriss King.</STAGE>
+<SP>
+<SPEAKER>Young Carleton.</SPEAKER>
+<P>Deare Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Moders.</SPEAKER>
+<P>Good my Lord do not deceive your self.</P>
+</SP>
+<SP>
+<SPEAKER>Mistriss King.</SPEAKER>
+<P>My Lord an't please your honour, the word Madam grates her eares she sayes, because it is so common.</P>
+</SP>
+<SP>
+<SPEAKER>Young Carleton.</SPEAKER>
+<P>Why then my Princess, for so you are asserted in my thoughts, I will assure you most accom∣plisht Lady.</P>
+</SP>
+<SP>
+<SPEAKER>Mistriss King.</SPEAKER>
+<P>I, this sounds well, how can you find in your heart to deny his Lordship? most accomplisht Lady.</P>
+</SP>
+<SP>
+<SPEAKER>Moders.</SPEAKER>
+<P>My Lord, though young, I do perceive has been train'd up in Complements, they are indeed the Courtiers prayers.</P>
+</SP>
+<SP>
+<SPEAKER>Young Carleton.</SPEAKER>
+<P>Then they should prevaile.</P>
+</SP>
+<SP>
+<SPEAKER>Moders.</SPEAKER>
+<P>With Fooles, but not with such have understanding.</P>
+</SP>
+<SP>
+<SPEAKER>Mistriss King.</SPEAKER>
+<P>Most accomplisht Lady, even for my sake.</P>
+</SP>
+<SP>
+<SPEAKER>Moders.</SPEAKER>
+<P>How will my Credit stand that am a stranger, to be Coach'd out by one, and so soon too, upon so slender an account.</P>
+</SP>
+<SP>
+<SPEAKER>Young Carleton.</SPEAKER>
+<P>My heart shall stand betwixt you and all calum∣ny; it shall return the filth into their face that spits at yours.</P>
+</SP>
+<SP>
+<SPEAKER>Moders.</SPEAKER>
+<P>You speak Nobly, my Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Young Carleton.</SPEAKER>
+<P>My Actions shall second my words most singular Lady.</P>
+</SP>
+<SP>
+<SPEAKER>Mistriss King.</SPEAKER>
+<P>Most accomplisht, most singular <STAGE>aside</STAGE> Lady—well <HI>John</HI> thou deserv'st her.</P>
+</SP>
+<SP>
+<SPEAKER>Moders.</SPEAKER>
+<P>You do so powerfully importune me, my Lord, I have no fence left for my self, especially your honour being oblig'd to all Civilities.</P>
+</SP>
+<SP>
+<SPEAKER>Young Carleton.</SPEAKER>
+<P>Count me a Tartar, most horrid Villain if I infringe, or trespass in the least upon your
+<PB REF="17"/>
+virtue.</P>
+</SP>
+<SP>
+<SPEAKER>Mistriss King.</SPEAKER>
+<P>Is it granted? most accomplisht, most singular Lady.</P>
+</SP>
+<SP>
+<SPEAKER>Moders.</SPEAKER>
+<P>For your sake Landlady, you see I can deny nothing that's virtuous and civil, as you say my Lord is.</P>
+</SP>
+<SP>
+<SPEAKER>Mistriss King.</SPEAKER>
+<P>As the innocent Babe, most accomplisht, and most singular Lady.</P>
+</SP>
+<SP>
+<SPEAKER>Young Carleton.</SPEAKER>
+<P>Will you vouchsafe your hand most gracious Lady.</P>
+</SP>
+<SP>
+<SPEAKER>Mistriss King.</SPEAKER>
+<P>Most gracious Lady, that's <STAGE>Yo. Carleton takes Moders by the hand.</STAGE> another.</P>
+</SP>
+<SP>
+<SPEAKER>Young Carleton.</SPEAKER>
+<P>To me this honour is receiv'd above rules of compa∣rison unexpressible. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE><HI>Enter Old</HI> Mr. <HI>Carleton, and his Wife, and</HI> Mr. <HI>George Carleton their Eldest Son.</HI></STAGE>
+<SP>
+<SPEAKER><HI>Old</HI> Mr. <HI>Carlet.</HI></SPEAKER>
+<P>George you are privy to your brothers secrets, how does he find the Ladies pulse to beat? has he hopes of her.</P>
+</SP>
+<SP>
+<SPEAKER>Mr <HI>George Carlet.</HI></SPEAKER>
+<P>Doubtless Sir he has.</P>
+</SP>
+<SP>
+<SPEAKER><HI>Old</HI> Mr. <HI>Carlet.</HI></SPEAKER>
+<P>He bussels strangely do'st think her worth his charge and toyle?</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>George Carlet.</HI></SPEAKER>
+<P>If he were not assur'd of that (as I believe he is) he would not certainly pursue with so much eagerness his suit, that's my beliefe Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Carlet.</HI></SPEAKER>
+<P>So it is mine, <HI>George</HI> thy brother is no fool.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>George Carlet.</HI></SPEAKER>
+<P>That the Town knowes, and if he should miscarry 'twould be strange, I know not what the power of love may do.</P>
+</SP>
+<SP>
+<SPEAKER><HI>Old</HI> Mr. <HI>Carlet.</HI></SPEAKER>
+<P>Dost think she is the person that he speakes her?</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>George Carlet.</HI></SPEAKER>
+<P>Seriously Sir her breeding and her habit does denote her a person of no small re∣pute and quality, they say she speakes the Languages.</P>
+</SP>
+<SP>
+<SPEAKER><HI>Old</HI> Mr. <HI>Carlet.</HI></SPEAKER>
+<P>Believe me that's rare in a Woman.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>George Carlet.</HI></SPEAKER>
+<P>I'me in a manner a stranger to her person, (for she is very shy, and takes state on her) but so I've heard Sir.</P>
+</SP>
+<SP>
+<SPEAKER><HI>Old</HI> Mr. <HI>Carlet.</HI></SPEAKER>
+<P>Perhaps by some that do not understand her.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>George Carlet.</HI></SPEAKER>
+<P>I know not that Sir.</P>
+</SP>
+<SP>
+<SPEAKER><HI>Old</HI> Mr. <HI>Carlet.</HI></SPEAKER>
+<P>Gib∣berish you know startles the ignorant</P>
+</SP>
+<SP>
+<SPEAKER><HI>Old</HI> Mrs <HI>Carlet.</HI></SPEAKER>
+<P>Let her be what she will I'le see her.</P>
+</SP>
+<SP>
+<SPEAKER><HI>Old</HI> Mr. <HI>Carlet.</HI></SPEAKER>
+<P>I prithee do, and what then?</P>
+</SP>
+<SP>
+<SPEAKER><HI>Old</HI> mrs. <HI>Carlet.</HI></SPEAKER>
+<P>Marry I'le know what she is and from whence she came.</P>
+</SP>
+<SP>
+<SPEAKER><HI>Old</HI> mr. <HI>Carlet.</HI></SPEAKER>
+<P>Do so, 'twill appear well in thee, I'le not be seen in't.</P>
+</SP>
+<SP>
+<SPEAKER><HI>Old</HI> mrs. <HI>Carlet.</HI></SPEAKER>
+<P>And know what she has too I'le warrant you before my Son shall Bed her.</P>
+</SP>
+<SP>
+<SPEAKER>mr. <HI>George.</HI></SPEAKER>
+<P>My Sister <HI>King</HI> and my Brother (as I am inform'd)
+<PB REF="18"/>
+can saaisfie you in that point forsooth.</P>
+</SP>
+<SP>
+<SPEAKER><HI>Old</HI> mrs. <HI>Carlet.</HI></SPEAKER>
+<P>And so they shall, I'le thither presently. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE>Enter Madam Moders, mr. King and mrs. King.</STAGE>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Good now, be not so importunate, I'le not see 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>Why how comes this d'ye see, I thought that all had been right and sure d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>mrs. <HI>King.</HI></SPEAKER>
+<P>What has he done that has displeas'd you most accomplisht, most singular and most gracious Lady?</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I'le not be blown upon by every person he brings with him, become the Town talk, have my Credit stale, and buz'd i'th eares of every idle fellow.</P>
+</SP>
+<SP>
+<SPEAKER>mrs, <HI>King.</HI></SPEAKER>
+<P>Indeed la if you will believe me, most accomplisht, most singular and most gracious Lady as his Lordship calls you; there is no body with him but his Lady mother and a Banquet of Sweet-meates.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>My Lord (though in himself a nobler person) had never been admitted to my present but for your mighty importunities; I love to be retir'd, not to be shewn like to a piece of <HI>Dutch</HI>-work, newly brought over to all sorts of people; pray let my Lord know where his error lies.</P>
+</SP>
+<SP>
+<SPEAKER>mr. <HI>King.</HI></SPEAKER>
+<P>And reason good d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>mrs. <HI>King.</HI></SPEAKER>
+<P>If we durst be so bold chuck, but his Lady mother waites most accomplisht, most singular and most gracious Lady.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I cry you mercy and excuse me to her.</P>
+</SP>
+<STAGE>mr. King and his Wife go off and bring Young Carleton and his mother in, the sence of his gross error did transport me.</STAGE>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>This is my mother and your servant Lady.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Your Lordship has oblig'd my service to her, your faith∣full servant Lady. <STAGE>Salute.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Will you vouchsafe to grace this <STAGE>A Banquet is set out.</STAGE> homely present with your acceptance Lady?</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>My Lord you know I am no Chaplaine, nor needes there a preludiam to a Banquet.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>My meaning is most preci∣cious Lady you'd add a sweetness to the meates by tasting them.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Coming from you my Lord compos'd of sweetness they need no more addition.</P>
+</SP>
+<SP>
+<SPEAKER>mrs. <HI>Carlet.</HI></SPEAKER>
+<P>Words are but wind, you seem to be a Gentlewoman, pray what are you?</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>More then I seem.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Carlet.</HI></SPEAKER>
+<P>Where were you born?</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>At <HI>Billinsgate.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Oh, dear Lady.</P>
+</SP>
+<SP>
+<PB REF="18"/>
+<SPEAKER>Mod.</SPEAKER>
+<P>Why, should I tell her I was born at <HI>Rome</HI> what's she the neerer.</P>
+</SP>
+<SP>
+<SPEAKER>mrs. <HI>Carlet.</HI></SPEAKER>
+<P>Have you an estate,</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I hope I have.</P>
+</SP>
+<SP>
+<SPEAKER>mrs. <HI>Carlet.</HI></SPEAKER>
+<P>Where lies it pray.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Where you shall ne∣ver find it Lady,—why thus inquisitive.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Carlet.</HI></SPEAKER>
+<P>Have you the <HI>Languages,</HI> as they say you have?</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Let your Son try me.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Oh most precious Lady I am a stranger to the most of them.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>So am I to your Mothers scrutiny, I could giv't a worse Title, but hereafter if you intend to stock up precious time, pray spare your Visits, for they will be fruitless.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Oh mother your too indulgence has undone <STAGE>Exit.</STAGE> me, I'me lost for ever, all my hopes are shipwrackt.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Carlet.</HI></SPEAKER>
+<P>Why so Child?</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>She has prohibited me the sight of her, which is as precious to me as my Being.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Carleton.</HI></SPEAKER>
+<P>'Tis very strange, let her be ne're so high in Birth and breeding, methinks she should not blame the Parents care, for that will be, and must be.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>That's the point I must in∣sist upon; and that no more obstruction may happen to my happi∣ness, my Sister will informe my Father &amp; your self the state of her affaires, which may be mine.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Carlet.</HI></SPEAKER>
+<P>Do so and you shall find me Instrumental for thy advancement.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>And dear Sister prithee use all thy wit and interest with her.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Do ye doubt it brother <HI>John,</HI> no Lord but when she's present. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE>Enter two Drawers, and Cellerman to take away the Voyders.</STAGE>
+<SP>
+<SPEAKER>1 <HI>Drawer.</HI></SPEAKER>
+<P>They have not carry'd away all I see.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerman.</SPEAKER>
+<P>No, they have left the Voyders, and something more.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Drawer.</HI></SPEAKER>
+<P>What do you do here, get you to your Garrison the Celler.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerman.</SPEAKER>
+<P>Prithee prate not, this is my Garrison or any other place where I am safe, <STAGE><HI>They scramble for</HI>—</STAGE> nay if you fall to scrambling I am for you.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Drawer.</HI></SPEAKER>
+<P>These will spoile thy drinking.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerman.</SPEAKER>
+<P>My drinking Jack Sprat, I could box thee sirrah.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Drawer.</HI></SPEAKER>
+<P>No, I dare say you wrong him, he's no drinker.</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>Who I? never in my life thou know'st it.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Drawer.</HI></SPEAKER>
+<P>The very stem oth' Celler now and then besots thee, Brother does it not?</P>
+</SP>
+<SP>
+<SPEAKER>Cellerm.</SPEAKER>
+<P>That may be, for the Wine fumes and flyes into a mans head most plaguely— but now stand off— let me speak the
+<PB REF="19"/>
+sense of the Poet to the Auditory.</P>
+<Q><L>I'm not the Person that I seem'd to be,</L>
+<L>Although a Cellerman, I am not he. <STAGE>Exeunt.</STAGE></L></Q>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<HEAD>Actus Quintus,</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Scaena Prima.</HEAD>
+<STAGE>Enter Madam Moders alone.</STAGE>
+<SP>
+<SPEAKER>Moders.</SPEAKER>
+<L>GLory depends on Conquest, I have brought</L>
+<L>(After so many Tryals of my Wit,)</L>
+<L>My amorous Lord, and his averse Allyes</L>
+<L>Upon their knees to supplicate my love;</L>
+<L>This very minute I expect his Lordship</L>
+<L>To hurry me into the Armes of Hymen.</L>
+<L>For that's their drift I know, let their pretence</L>
+<L>Be what it will; and i'le imbrace it. <STAGE>Enter young Carleton.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Young Carleton.</SPEAKER>
+<P>My dearest Lady are you ready.</P>
+</SP>
+<SP>
+<SPEAKER>Moders.</SPEAKER>
+<P>You see I am, but for what end my Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Young Carleton.</SPEAKER>
+<P>To heare the Musick.</P>
+</SP>
+<SP>
+<SPEAKER>Moders.</SPEAKER>
+<P>I have reason to love it my Lord.</P>
+</SP>
+<SP>
+<SPEAKER>Young Carleton.</SPEAKER>
+<P>You are the Empresse of it. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE><HI>Enter</HI> Mr. <HI>King and his Wife.</HI></STAGE>
+<SP>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>Well they are gone d' yee see, and blessings follow both of 'em d' yee see.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>I, now you say so Chuck, but the time has been.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>What has the time been honey? you know d' yee see, 'twas my care at first d' yee see to preserve her here d'yee see.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>I but you never meant her for my Brother <HI>John,</HI> and that my Father takes unkindly Chuck.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>Who not I sweet heart? I never meant any man else d'yee see, as I am here d'yee see, why you know I love my Brother <HI>John</HI> d'yee see, with all my heart d'yee see, I only did expresse my care of him, being but a young man d'yee see, and I knew not how things stood d'yee see, which it seemes you knew better d'yee see.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. King.</SPEAKER>
+<P>Well chuck, what an honour will it be to my Father in his age to have a Prince, or Princesse to his Grandchild.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>How's that sweet heart?</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Nay, I say no more Windows have eares. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE><PB REF="19"/><HI>Enter Young Carleton, his Brother George, Madam Moders, and several others attended upon by Drawers.</HI></STAGE>
+<SP>
+<SPEAKER>1 <HI>Gent.</HI></SPEAKER>
+<P>A Wedding and no Musick.</P>
+</SP>
+<SP>
+<SPEAKER>Draw.</SPEAKER>
+<P>They are i'th house Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Prithee let's have'em; and now most gracious Lady as you have given spirit to my Clay, and made my soul to caper in its Cottage by this blest Conjunction; know I'me still your servant.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>My Lord I think all Complements ridiculous after this Ceremony. <STAGE>Enter Musick.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>George Carlet.</SPEAKER>
+<P>Come here's a good divertion, what Songs have you?</P>
+</SP>
+<SP>
+<SPEAKER>Fidler.</SPEAKER>
+<P>A hundred and fifty, two hundred if need be, I furnish all the Faires and markets with 'em; I keep a Poet in pay on purpose Gentlemen, which is no shall charge to me you must think, 'tis true the Poet is a prety wit, but what's wit or good lines, nothing, unless well Humour'd and well Sung, I sing 'em all my self, though the lines be never so bad I make 'em twang, which sets off a Poet mainly you know.</P>
+</SP>
+<SP>
+<SPEAKER>George Carleton.</SPEAKER>
+<P>Pox take you for a puppy, leave praising your self and let us hear a Song.</P>
+</SP>
+<SP>
+<SPEAKER>Fidler.</SPEAKER>
+<P>What Song will you have Gentlemen?</P>
+</SP>
+<SP>
+<SPEAKER>Omnes.</SPEAKER>
+<P>Any, any.</P>
+</SP>
+<SP>
+<SPEAKER>Fidler.</SPEAKER>
+<P>What say you to that of the love between a Kitchin Wench and a Chimney Swifter.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Sirrah d'ye know where you are.</P>
+</SP>
+<SP>
+<SPEAKER>Fidler.</SPEAKER>
+<P>I cry you mercy Sir, I'le fit you with a rare one. <STAGE>Sings.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Gent.</HI></SPEAKER>
+<P>Hold your howling and behang'd, what a mouth he makes, how he grates the words and tears the sense?</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Gent.</HI></SPEAKER>
+<P>He's good for nothing; canst thou tumble?</P>
+</SP>
+<SP>
+<SPEAKER>Fidler.</SPEAKER>
+<P>Tumble? I don't understand ye Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Come, come, a Dance or two, and so good Night Mr. Fidler.</P>
+</SP>
+<SP>
+<SPEAKER>George Carlet.</SPEAKER>
+<P>'Tis pitty to <STAGE>They play, the company dance.</STAGE> keep thee too long from thy happiness.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>There, are you pleas'd?</P>
+</SP>
+<SP>
+<SPEAKER>Fidler.</SPEAKER>
+<P>Very nobly, we thank your Honour. <STAGE>Exeunt Musick.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Now Gentlemen I must crave your pardon, Lady your hand. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Omnes.</SPEAKER>
+<P>A good Night to you Both. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE><PB REF="20"/><HI>Enter two or three Clerks.</HI></STAGE>
+<SP>
+<SPEAKER>1 <HI>Clerk.</HI></SPEAKER>
+<P>Newes, newes, newes, Boyes.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Clerk.</HI></SPEAKER>
+<P>What Newes, what newes?</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Clerk.</HI></SPEAKER>
+<P>Wonderfull, strange and true newes, newly Printed and newly come forth.</P>
+</SP>
+<SP>
+<SPEAKER>3 <HI>Clerk.</HI></SPEAKER>
+<P>Of the downfall of <HI>Grantham</HI> Steeple; the miraculous discovery of old Braziel by a Ship-Carpenter at <HI>Namptwich,</HI> or the horrid murder of <HI>Tom Thumb,</HI> some such paltry stuffe.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Clerk.</HI></SPEAKER>
+<P>You are wide of the matter: Mr. <HI>John Carleton</HI> is married.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Clerk.</HI></SPEAKER>
+<P>Prithee to whom?</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Clerk.</HI></SPEAKER>
+<P>To no less then a Princess, a <HI>German</HI> Princess believe me.</P>
+</SP>
+<SP>
+<SPEAKER>3 <HI>Clerk.</HI></SPEAKER>
+<P>Why then it must be no more Mr. <HI>John Carleton,</HI> but my Lord <HI>John Carleton.</HI></P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Clerk.</HI></SPEAKER>
+<P>Pough, I don't believe it.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Clerk.</HI></SPEAKER>
+<P>Thou art an in∣credulous Coxcomb, I tell thee they keep their Court and State at <HI>Durham</HI> House 'ith <HI>Strand,</HI> there you may see his Lordship if you have a mind to't.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Clerk.</HI></SPEAKER>
+<P>If I thought he would not take too much State upon him, I'd put my Holy-day Habit on, and take a day to visit him.</P>
+</SP>
+<SP>
+<SPEAKER>3 <HI>Clerk.</HI></SPEAKER>
+<P>Set thy time and we'l go with thee.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Clerk.</HI></SPEAKER>
+<P>Two dayes hence.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Clerk.</HI></SPEAKER>
+<P>Agree'd, agree'd. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE><HI>Enter</HI> Mr. <HI>King, and his Wife.</HI></STAGE>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>What happy Instruments have we been Chuck in this bu∣siness, they talk of giving hundreds of pounds to others, and I'me sure we deserve thousands.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King.</HI></SPEAKER>
+<P>That's very rightly said d'ye see, but for my part d'ye see, I look not for a penny d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Introth Chuck if thou dost not, I do, there's the short and the long on't, my Father's gone to see if she will settle her Estate upon my Brother <HI>John.</HI></P>
+</SP>
+<SP>
+<SPEAKER>mr. <HI>King.</HI></SPEAKER>
+<P>And a great deal of reason there is in't, d'ye see Sweet-heart, for he has been at a vast charge d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Her Estate will make amends for all, and though he is a false Lord now, her Estate will make him currant; money will buy Honour at any time Chuck.</P>
+</SP>
+<SP>
+<SPEAKER>mr. <HI>King.</HI></SPEAKER>
+<P>I if, it hit right, but there are so many cheates abroad d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Why I hope thou wavering faith'd man thou dost not think the Princess my Sister one?</P>
+</SP>
+<SP>
+<SPEAKER>mr. <HI>King.</HI></SPEAKER>
+<P>If she be such a person, and have such an Estate d'ye see, my Brother may bless the time he ever see us d'ye see, but if she be not the person and has no Estate, why then 'tis a meer cheat d'ye see, and we shall
+<PB REF="20"/>
+suffer in our credit cruelly d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Lord help thy simple head; I warrant thee man. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE><HI>Enter Old Carleton, and</HI> mr. <HI>John Carleton.</HI></STAGE>
+<SP>
+<SPEAKER>Old Carlet.</SPEAKER>
+<P>Unfortunate boy, thou art undone for ever.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Bless me, Sir, you do amaze me wonderfully.</P>
+</SP>
+<SP>
+<SPEAKER>Old Carlet.</SPEAKER>
+<P>After thy loss of time, thy vast expences in riotous Banquettings, perpetual Visits, what hast thou purchas'd?</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>A reward above my merit Sir; a virtuous Princess of high Endowments, and of ample fortunes, rich in her self, her parts speak her a Dowre, sufficient for a person of my quality had she no other Riches to adorne her.</P>
+</SP>
+<SP>
+<SPEAKER>Old Carlet.</SPEAKER>
+<P>A very Puss∣cat, a subtle Carrion, and a cursed cheat.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>With par∣don, Sir, I partly do imagine the cause of this your sudden discom∣posure, you prest her in my absence (like a Father) to settle her Estate on me, which she unwilling to consent to, hath rais'd this storme within your quiet Bosome.</P>
+</SP>
+<SP>
+<SPEAKER>Old Carlet.</SPEAKER>
+<P>An Estate, where lies it? at the Brick-hills, foolish boy; she is not worth a groat, but what thou hast out of thy prodigal affection given her, her Jewels are but counterfeit, and she a base imposture.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Good Father let not your passion so deceive your reason, she cannot be so Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Old Carlet.</SPEAKER>
+<P>Boy, she's a Strumpet, a vagrant, a wandring Baggage that has two Husbands beside thy self; a paltry Shooma∣ker is one of them, this I'le make out.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>You have thrown Daggers to my heart Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Old Carlet.</SPEAKER>
+<P>Be not troubl'd Boy, I'le hamper her, I warrant thee, come along with me. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE>Enter madam Moders alone.</STAGE>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>I do expect a storme, and suddenly, by my bad dreames; which tell me I must wade through mud and Water; signifying troubles dangerous ones: yet I shall pass them all, cleer as a sheet that has been whiten'd by the whitsters hand.</P>
+</SP>
+<STAGE>Enter Old Carleton, Young Carleton, Constable and others.</STAGE>
+<SP>
+<SPEAKER>Old Carlet.</SPEAKER>
+<P>That's the Strumpet.</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Who do you han∣dle, you unreveren'd Raskalls? why Father, Husband, what do you mean?</P>
+</SP>
+<SP>
+<SPEAKER>Old Carlet.</SPEAKER>
+<P>To hang you Whore for having of two Husbands</P>
+</SP>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<P>Is that all? Ha, ha, ha.</P>
+</SP>
+<SP>
+<SPEAKER>Yo. Carlet.</SPEAKER>
+<P>Sure she is innocent, her courage speaks her so.</P>
+</SP>
+<SP>
+<SPEAKER>Old Carlet.</SPEAKER>
+<P>Away with her Mr. Constable. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE><HI>Enter</HI> Mr. <HI>King and his Wife.</HI></STAGE>
+<SP>
+<SPEAKER>Mrs. <HI>King.</HI></SPEAKER>
+<P>Oh Chuck, Chuck thou hast defil'd our Nest, and
+<PB REF="21"/>
+thrown a speck upon our Family; the Princess is a Whore, a double Whore, she has two Husbands: has your early rising come to this?</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>King</HI></SPEAKER>
+<P>Why honey 'tis true, I took her for a civil Gentlewoman, and so I entertain'd her d'ye see; now you took her for a Princess d'ye see, and there is the mistake d'ye see: alas I would not have done such a thing d'ye see for a thousand pound d'ye see; nay and more too as poor a man as I am d'ye see.</P>
+</SP>
+<SP>
+<SPEAKER>mrs. <HI>King.</HI></SPEAKER>
+<P>I wish it from my heart thou had'st been sick a Bed chuck when thou did'st what thou did'st; but 'tis no matter, I hope to see her hang'd.</P>
+</SP>
+<SP>
+<SPEAKER>mr. <HI>King.</HI></SPEAKER>
+<P>Why that will make amends for all d'ye see. <STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE>Enter two Gentlemen as from the Sessions-house</STAGE>
+<SP>
+<SPEAKER>1 <HI>Gent.</HI></SPEAKER>
+<P>I wisht I had had your place Sir, you sat neer the Bench.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Gent.</HI></SPEAKER>
+<P>Introth I was weary on't, I did not like the <HI>Scaene.</HI></P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Gent.</HI></SPEAKER>
+<P>How does the Princess carry her self I pray Sir?</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Gent.</HI></SPEAKER>
+<P>I understand you not Sir, unless you mean a Princess that derives her Title from the powdering Tub.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Gent.</HI></SPEAKER>
+<P>Your pardon Sir, I meane the person now is at her Tryal.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Gent.</HI></SPEAKER>
+<P>You may assure your self she wanted not Confidence, I might say impudence.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Gent.</HI></SPEAKER>
+<P>They say her Husband is a hopefull Gentleman.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Gent.</HI></SPEAKER>
+<P>A sweet lad, my heart earnes for him; a man well bred of a good Family, and in a hansome way, thus to be catcht argues a weakness some where; a gross oversight; a pituous shallow conception.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Gent.</HI></SPEAKER>
+<P>How do you think 'twill go with him Sir.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Gent.</HI></SPEAKER>
+<P>Not with him Sir, 'twill rather go against him, the Evidence is <STAGE>A noise within.</STAGE> defective:—</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Gent.</HI></SPEAKER>
+<P>Hark,—I dare say she's quit.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Gent.</HI></SPEAKER>
+<P>A hard fate has fol∣low'd thee friend <HI>Carleton.</HI></P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Gent.</HI></SPEAKER>
+<P>I pitty the Gentleman though a stranger to me: this business was not manag'd well I fear, but there's away to bring't about again if she be the same person.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Gent.</HI></SPEAKER>
+<P>I believe <STAGE>Enter madam Moders &amp; seve∣ral others after her.</STAGE> so Sir,—bless my eye sight, here's the beast will none spit at her, how she stares &amp; gloates like old <HI>Grimalkin,</HI> or mother <HI>Gurtons</HI> Cat 'ith Colehole.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Gent.</HI></SPEAKER>
+<P>Is that she Sir?</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Gent.</HI></SPEAKER>
+<P>Yes 'tis she Sir, for want of a better.</P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Gent.</HI></SPEAKER>
+<P>Your servant Sir.</P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Gent.</HI></SPEAKER>
+<P>I'me yours Sir. <STAGE>Exeunt severally.</STAGE></P>
+</SP>
+<STAGE>Enter Moders alone, applying her self to the Auditory.</STAGE>
+<SP>
+<SPEAKER>Mod.</SPEAKER>
+<L>I've past one Tryal; but it is my fear</L>
+<L>I shall receive a rigid sentence here;</L>
+<L>You think me a bold Cheat, put case 'twere so,</L>
+<L>Which of you are not? now you'd swear I know;</L>
+<L>But do not least that you deserve to be</L>
+<L>Censur'd worse then you yet can censure me.</L>
+<L>The Worlds a Cheat, and we that move in it</L>
+<L>In our degrees do exercise our Wit:</L>
+<L>And better 'tis to get a glorious Name</L>
+<L>However got; then live by common Fame.</L>
+</SP>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="21"/>
+</DIV3>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

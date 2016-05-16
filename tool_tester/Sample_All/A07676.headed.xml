@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="2">A lytle and bryefe treatyse, called the defence of women and especially of Englyshe women, made agaynst the Schole howse of women.</TITLE><AUTHOR>More, Edward, 1537?-1620.</AUTHOR></TITLESTMT><EXTENT>Approx. 48 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2004-08 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A07676</IDNO>
+
+
+<IDNO TYPE="stc">STC 18067</IDNO>
+
+<IDNO TYPE="stc">ESTC S110037</IDNO>
+
+<IDNO TYPE="eebo citation">99845657</IDNO>
+
+<IDNO TYPE="proquest">99845657</IDNO>
+
+<IDNO TYPE="vid">10571</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A07676)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 10571)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1475-1640 ; 438:01)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="2">A lytle and bryefe treatyse, called the defence of women and especially of Englyshe women, made agaynst the Schole howse of women.</TITLE><AUTHOR>More, Edward, 1537?-1620.</AUTHOR></TITLESTMT><EXTENT>[24] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>[Imprinted at London :</PUBPLACE>
+<PUBLISHER>In Paules Churche yearde at the sygne of the Swane by Iohn Kynge],</PUBLISHER>
+<DATE>Anno Domini. M.D.LX. [1560]</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>In verse.</NOTE><NOTE>A reply to "The schole house of women", which is sometimes attributed to Edward Gosynhyll.</NOTE><NOTE>Printer's name and address from colophon. Variant: colophon has "Iohn h Kynge".</NOTE><NOTE>Signatures: A-C⁴.</NOTE><NOTE>Reproduction of a photostat of the original in the Henry E. Huntington Library and Art Gallery.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Schole house of women --  Controversial literature --  Early works to 1800.</TERM><TERM>Women --  Poetry --  Early works to 1800.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2004-02</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2004-03</DATE><RESPSTMT><RESP>Apex CoVantage</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2004-05</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2004-05</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2004-07</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A07676">
+<STC T="S">18067</STC>
+<BIBNO T="umi">99845657</BIBNO>
+<VID>10571</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>¶ A Lytle and bryefe treatyse, called the defence of women, and especially of Englyshe women, made agaynst the Schole howse of women.</P>
+<Q><L>Yf the turtle doue</L>
+<L>Be true in loue</L>
+<L>Uoyde of reason, than,</L>
+<L>What shame is it,</L>
+<L>yf man hath wyt,</L>
+<L>And hateth a Woman?</L></Q>
+<P>¶ Anno Domini.</P>
+<P>M. D. LX.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<HEAD>¶ To hys synguler and especyall frende mayster Wyllyam Page, Secretary to Syr Phillip hobdy, Edward More sendeth gretyng.</HEAD>
+<P>CAllyng to mynde the saynge of Salust, that they lede theyr lyfe lyke beasts which passe theyr tyme in ydlenes. I could not chuse (for as much as I hade a lytle vacant tyme from studye) but attempte some thyng wherwith I might be busyed▪ &amp; when I coulde not in a pretye space bethinke nor deuyse what lytle worke I might occupie my selfe with, that might be corres∣pondent and agreable both vnto my small leysure and tyme, &amp; also vnto the place wherin I was at that present season (for I was in London) at last a booke inteteled the Schole howse of women cam vnto my handes, wherin I had wel hoped to haue redde some notable gestes and actes of women (for so semed the false &amp; forged tytle therof to promyse (but when I had well per∣vsed and ouer redde the same, I found the cleane contrary. For much againste my expectation I myght vewe and see theryn di∣uers &amp; sundry reprochfull thyngis spoken agaynste women, not only (as I thought (vndeserued on theyr partes, but also moost beastiall lyke on hys behalfe which wrote the same. What crea∣ture comme and borne of a woman wold so spytefully wryte a∣gaynste them? what learned man can iudge well of hym? what woman that knoweth hym, can fynde in her harte to loue hym? And fynally what good and honest reader once reading the same wil haue any further desyre or delyght to peruse it. Of a vyper I think hym to be borne, whose nature is to knowe a sunder hys dames belly before he cōmeth forth, wheray she dyeth. But per∣chaunce he in lykewyse, to auoyde ydlenes, toke that hys worke in hand, truly better had it bene for hym (as Erasmus sayth) to haue bene ydle then euyll occupyed. And as in takyng vpon hym that lewde enterp<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>yce he semed to playe a founde and folysh parte: so in lykewyse in hiding of hys name, he only de<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>lared his wyt, which if he had expressed, no lesse wolde women wonder at
+<PB REF="2"/>
+hym then the smal byrdes at the Owle, no lesse wolde they hate hym then the Ap<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/> the snayle, no lesse wold they abhorre hym thē the lysard the serpent, and fynally no lesse wolde they iudge of hym then of Nero which caused hys mothers wombe to be ryp∣ped (she lyuyng) to see the place where he laye in, I then for the seruēt affection which I bare to women was desyrous to wryte in theyr defence, but fyrst I beganne to consulte with my selfe weyther it were best so to doe or no, &amp; I perceyued that many &amp; iust causes dyd prouoke me to wryte herein, &amp; agayne diuers did allure me to hold my peace, for as my god wyll and affection to women the symplicitie, innocēcie and vngiltynes of womē, the∣sche wyng of y<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>lenes, and the verite of the matter &amp; cause exhor∣ted me: so on y<SUP>e</SUP> other syde dyd my lack of wytt, learnyng and age allure me to the contrary which were moost mete and requisite in thys behalfe affirmyng it to be a matter more mete &amp; decent for a marryed man to entreate &amp; wryte of, then for a bachyler or prynkokes but of twenty yeares of age or lytle more. And more mete in dede I thought it also for a marryed man, who in defen dyng of women myght partly gratyfye hys owne wyfe, whose honest behauyor sobernes wytt and true loue theryn semyng to be apparant, myght redoune, &amp; sounde not a lyttle to hys owne honestie, &amp; also wolde be a greate encrease of loue betwene them although they skant loued before. Now when I saw none such ready to take paynes and trauayle theryn I lyke blinde bayard quite &amp; clene forgettyng y<SUP>e</SUP> impediments in me afore named (that is to say) lack of wytt, learnyng, &amp; age, whych, were most requy∣syte &amp; nedefull for thys purpose, ra<GAP DESC="illegible" RESP="apex" EXTENT="2 letters" DISP="••"/>ye and vnaduysedlye tooke thys enterpryce in hande (wherof I repente me not at all) And bycause that I knew nor was acquaynted wyth no Ladye nor worshypfull Gētle woman in the Courte, or els where to whom I myght dedycate y<SUP>e</SUP> same as a thynge for the argumente sake. (although not for the clerklyke handlyng therof) moost <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>e<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>e and apte for theyre worshippes to beholde and looke on, you <GAP DESC="illegible" RESP="apex" EXTENT="1 span" DISP="〈…〉"/>en <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> to mynde of all men moost worthy of thys simple gyf<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>o, no<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/> o<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>ly for that that you are an especiall fauorer of women, but also <GAP DESC="illegible" RESP="apex" EXTENT="2 letters" DISP="••"/>∣cause
+<PB REF="3"/>
+you haue shewed and declared your selfe alwayes to be a synguler patrone and defender of my symple studye. So nowe in lyke wyse hauyng no mystrust at all in you, but that as in ty∣mes past, so you wyll also accepte and take in good worth thys my small present and gyfte, as a testymonyall of my good wyll vnto you, beyng not otherwyse able to declare the same, for lack and wante of worldlye wealth. Thus desyryng you to take so much paynes at your moost conuenyent leasure as to correcte &amp; amende al such fautes as you wal fynde theryn, which although that the worke be but small, yet the numbre of them tho be exce∣dyng great I dare well affirme, I commit you to the tuystion of the blessed Trinytye, whome I besech all wayes to preserue and kepe you hole in soule and bodye to hys wyll and pleasure and <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> your owne hartes desyre, Frō Hambleden the xx. day of Iulye. Anno domini M. D. L. U. II.</P>
+<CLOSER><SIGNED>quod. E. M.</SIGNED></CLOSER>
+<TRAILER>Finis.</TRAILER>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="3"/>
+<HEAD>¶ Edwarde More to hym that wrothe the booke called the Schole howfe of women.</HEAD>
+<LG>
+<L>IF thy name were knowen, that wrytest in thys sorte,</L>
+<L>By womenkind vnnaturally, gyuyng euil reporte,</L>
+<L>(Whom al men ought both yong &amp; old, defend with all theyr might,</L>
+<L>Considering what they do deserue, of euery lyuing wyght</L>
+<L>As in there trauayle taken, sometymes with losse of lyfe,</L>
+<L>To brig such wretches to this world, which make not only strife</L>
+<L>But beyng come to perfyte age, can skant gyue &amp; a forde,</L>
+<L>Unto theyr dāmes y<SUP>t</SUP> <GAP DESC="illegible" RESP="apex" EXTENT="2 letters" DISP="••"/>ue thē such, so much as one good word.)</L>
+<L>ywys thou shulde exiled be, from women more and lesse,</L>
+<L>And not without iust cause, thou must thy selfe confesse,</L>
+<L>Onles as in thy booke, so now thou lyst to lye,</L>
+<L>Where are nothinges but rayling iestes of the pore femynye.</L>
+<L>Thy booke intytled is the Scholehouse of women,</L>
+<L>A<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>ed<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>ous thyng for them to reade, not pleasant vnto men:</L>
+<L>The style therof declareth no lesse, but that thou art right sage,</L>
+<L>And lyued hast so longe perdye, that now thou dotest for age,</L>
+<L>Lesse meruayle then it is, that if thy othe be spent.</L>
+<L>And of eche one reiected arte and hated as the lent:</L>
+<L>Though thy melancoly, thou canst not els assuage,</L>
+<L>No kynde of way but only thus, on women for to rage.</L>
+<L>Pean to be a folysh worke, thou dost testyfye</L>
+<L>Whych lyke a learned poet, by the fygure onomatopei,</L>
+<L>Trāsformed thou hast into pecock, as proude of hys longe tayle,</L>
+<L>Marck I pray the well, how much there thou doest fayle,</L>
+<L>Pean is more lyke in sounde in our mother tonge</L>
+<L>To pehen then pecock, whose tayle is not so longe,</L>
+<L>Nor set with sundry colors, nor of so pleasaunt hewe,</L>
+<L>That she doth boast &amp; brag theryn, is not thys ryght kewe?</L>
+<L>All men that learned be, allowe the in no case,</L>
+<L>All women eke that wytty be haue cause to curse thy face</L>
+<L>All maydens that vyrgynytye, do couet styll to kepe,</L>
+<L>Through thy accusacyons, haue now iust cause to wepe</L>
+<L><PB REF="4"/>
+All yongmen that intende, to lyue in Uenus lawe</L>
+<L>I meane in matrymony, hauyng of god the awe</L>
+<L>May well deryde &amp; mock thy folyw &amp; lewde pranck</L>
+<L>Wherin, I dare be bold to say, thou had more payne then thank</L>
+<L>In married men such feare there is, and such contynuallawe</L>
+<L>That moost of them beleue ywys they be of moyses lawe</L>
+<L>And fynaly to conclude, the beste and eke the wourst,</L>
+<L>For thys thy foolysh entrepryse, may hold the well accurst.</L>
+<L>Repent therfore repent I say, acknowledge ones thy fact,</L>
+<L>Recant I rede the, &amp; confesse, thy lewde &amp; synfull act,</L>
+<L>Which doth not hurte to one, but all of eche degree</L>
+<L>Haue cause to b<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>nd theyre browes therat, as oft<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> as they it see</L>
+<L>Although to call it in agayne, it be now past thy hand</L>
+<L>yet to recant ease thou shalte fynd, I wyl thou vnderstand</L>
+<L>For yf that Iudas perdan had asked by and by</L>
+<L>Of god he had obtayued it, as scriptures testifye</L>
+<L>Now to conclude and make an end, I wyll apply my wytt</L>
+<L>In writing for good women all as is moost meete and fitt.</L>
+</LG>
+<TRAILER>¶ Finis.</TRAILER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="4"/>
+<HEAD>¶ Here begynneth the booke called the Defence of Women,</HEAD>
+<BYLINE>made by Edwarde More.</BYLINE>
+<LG>
+<L>VEnus vnto the for help, good lady I do cal,</L>
+<L>For thou wert wōt to graūt request, vnto thy seruaūts al,</L>
+<L>Euen as thou dyddest help alwayes, Aeneas thyne owne chylde,</L>
+<L>Apeasing the god Iupiter, with countenaūce so mylde,</L>
+<L>That though that Iuno to turmēt hym, on Iupiter dyd prease,</L>
+<L>Yet for the loue he bare to the, dyd cause the wyndes to cease,</L>
+<L>I pray the pray the muses all, to helpe my memorye,</L>
+<L>That I may haue ensamples good, in defence of femynye,</L>
+<L>Them to defend of dyuers thynges as slaunders many fold,</L>
+<L>I haue taken vppon me, as a Champyan bold,</L>
+<L>Replye that lyst agaynst me I wyll them well Assure</L>
+<L>To spende my tyme in theyr defence, whyse my lyfe shall indu<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/></L>
+<L>Although I want the grauytye, of Cato that was sage,</L>
+<L>Which hard it is to fynde, in any of myne age,</L>
+<L>And Ciceros eloquence is very hard to fynde</L>
+<L>In a curtyer truly, accordyng to my mynde</L>
+<L>Senecaes breife sentences, although that I do wante</L>
+<L>Within Curtius style kepe me can I skant</L>
+<L>yet Salust south in wrything trewth, I trust I shall attayne</L>
+<L>And as directly as I can, declare my matter playne,</L>
+<L>Fyrst I wyl make it manyfest that women beare much blame</L>
+<L>And men are more infaut, deseruyng styll the same,</L>
+<L>As the litle cobwep taketh the small flye,</L>
+<L>The swallowe fleyng through easely passyng by</L>
+<L>And as the pore &amp; nedy man hanged is sometyme</L>
+<L>When the rycher skapeth, for a greater cryme,</L>
+<L>So doth the sely woman of eche degree and sorte</L>
+<L>Runne in slaunder vnde<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>erued, by meanes of mens reporte</L>
+<L>Wherby thys proue<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>be sheweth playne no lesse true then olde</L>
+<L>That thei moost ofte that w<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>rst may, the candle vse to holde</L>
+<L>This to be true, what better profe then by Eue may be brought</L>
+<L>Which dyd Adam attempt, to do that thynge was noughe</L>
+<L><PB REF="5"/>
+Dyd not the deuyll endeuor, to reclayme her to hys fy<GAP DESC="illegible" RESP="apex" EXTENT="2 letters" DISP="••"/>e</L>
+<L>Bycause he knew her feblenes, not able to resyst</L>
+<L>What was y<SUP>e</SUP> deuel? man or woman I wold some good deuyne</L>
+<L>Wold take the paynes thys questyon to vs once to defyne</L>
+<L>Aman, I thynke in dede, of Lucy<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>e<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>s owne trayne</L>
+<L>For of a woman dyuell, I neuer red certayne</L>
+<L>Whan Lucyfer fyrst fill into the pyt of hell</L>
+<L>At gods appoyntment for hys pryde therin styll to dwell</L>
+<L>There fell with hym a numbre moe of men, whose sodeyne fall</L>
+<L>All women yet remaynyng here, may rue the tyme and all</L>
+<L>Had not the serpent tempted Eue, who cold <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>s sermyse?</L>
+<L>So shamfull acte to bryng her forth of ioyfull paradyse</L>
+<L>And besydes all thys, when she delyuered had</L>
+<L>To Adam the forbidden fruyte, to taste &amp; hym had bad</L>
+<L>She knew then no deceyt, I dare for her appose,</L>
+<L>And Adam then to tast therof, I thynk sure myght haue chose,</L>
+<L>For she reherst the word, addyng no whyt more</L>
+<L>To that the synfull serpent, had to her told before:</L>
+<L>And yf that he to Adam fyrst, had cum, no dowt he myght</L>
+<L>Haue tempted hym a <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>well as Eue thys thyng declareth it ryght</L>
+<L>Predestinate she was therto, to withstand it, not knowing how</L>
+<L>All Chrysten men ought to lament therfore I make abowe</L>
+<L>And not to cast it in her teeth, and on her thus to iest,</L>
+<L>A foule byrde it is perdye defyleth his owne nest</L>
+<L>Wherfore cam he to Eue? I haue tolde you before</L>
+<L>Her lacke of strenght &amp; nothyng els, was caus<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/> of her forlore,</L>
+<L>yf lack of strength bew<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>y, wyt, in women be detecte</L>
+<L>At lyeth not in them, these sayd thyng to correcte</L>
+<L>Nature fourmeth solks accordyng is to gods wyll,</L>
+<L>In god it lyed and wan els then to make or spyll.</L>
+<L>But Adam beyng ruler of see and eke of lande</L>
+<L>That Eue to hym was subiect, it may well now be skand</L>
+<L>And hauyng strenght sufficient, wanting no wght but grace</L>
+<L>So wolde offende our sauyour Christ to lese that ioyfull place</L>
+<L>Wherin he fell no woe, wherin dyd nothyng mys</L>
+<L><PB REF="5"/>
+To lede hys lyfe in heauenly ioye, who can saye well by thys</L>
+<L>And yet men wyll transpose the faute to seely Eue</L>
+<L>But no man that the trouth doth rede, wyl them I thynk beleue</L>
+<L>Wherfore I trust I haue, declared here at large</L>
+<L>That fawth cōmytted by the men, are layde to womens charge</L>
+<L>Consydre now theyre ponishement appoynted by our lord</L>
+<L>To helpe my saynges somewhat, no dout it wyl acccorde</L>
+<L>With daunger of theyre lyues, theyr children they do beare</L>
+<L>Theyres ouerthrouges in labor, hys meruell to heare</L>
+<L>And after they be borne what dilygence they wse</L>
+<L>To bryng them vp in fearing god; no labour they refuse,</L>
+<L>And we do dayly see suffyciently exprest</L>
+<L>How nurses often wake when most men take theyr rest.</L>
+<L>Wolde Iesus haue bene borne, of Mary vyrgyn myldee</L>
+<L>And humbled hym selfe to her as a louyng chylde</L>
+<L>Onles that they were innocent and as the do pretende</L>
+<L>Styffe stowt nor arrogant, nor ready to offende</L>
+<L>Alas may I saye than, that any Christen man</L>
+<L>Shuld wryte such thynges by women that synce y<SUP>e</SUP> world began</L>
+<L>I dare well saye, they neuer dyd, nor yet so much as thought</L>
+<L>How much to blame are men to saye, that women be so nought</L>
+<L>And them thus to vpbrayde, with theyr barre passyng loue,</L>
+<L>with wāton eyes &amp; sugred lippes wher <GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/> they moue</L>
+<L>with all theyr myght &amp; mayne, to follow wanton wyll</L>
+<L>Wherin our poet doth recyte, they haue neuer theyre fyll</L>
+<L>How farre from all the truth, how lyke it soundes a lye</L>
+<L>By reasons moe them one or two, thus may all men it trye,</L>
+<L>The hoter that the contrey is the proner to offende</L>
+<L>And to venery, more lyke to condiscente,</L>
+<L>The people are, and as I haue ofte rede</L>
+<L>Where wyues are ryfest, there, a man may best be spede.</L>
+<L>And on the other partye the colder that is.</L>
+<L>The lesse desyre and appetyte they haue to do amysse</L>
+<L>And besydes all thys, the fayrer that they be,</L>
+<L>To more resorte of men there is, them to beholde and see</L>
+<L><PB REF="6"/>
+The more resort of men in daunger son<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>r runne</L>
+<L>What dayly drystes do men deuyse? vntyll they haue thē wunne</L>
+<L>wyth Rome make I comparison if I may be so bolde</L>
+<L>And England do affirme to be then it farre passing colde,</L>
+<L>Wherby I meane in dede that Romaynes are more bent</L>
+<L>Then Englysh women be to such thynges to consent</L>
+<L>Lesse wander they abrode, wherby the byting ayre</L>
+<L>Can theyr bewty in no point dyminish and appayre</L>
+<L>Which of sundry wayes, the next way is of all</L>
+<L>As I haue shewed a lytle before, customers to call</L>
+<L>Where our Englysh women do spare themselfes no whyt</L>
+<L>But vp and doune the fyeldes to and fro do flyt</L>
+<L>The Ladyes to the Court do dayly take theyr traydes</L>
+<L>Besydes a trayne of seruyng men, accumpannied wyth maydes</L>
+<L>That be the wether foule, or be the wether fayre</L>
+<L>To wether being open theire bewty must appayre</L>
+<L>wherby a man may iudge that of the people twayne</L>
+<L>In Englysh women to be more chast, farre then the Romaine</L>
+<L>This <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>l<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>o I do note and thinke to be moost true</L>
+<L>That most of al by yelosy daunger doth ensue</L>
+<L>To men (in min<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/> opynion) no people vse it more</L>
+<L>In lookyng st<GAP DESC="illegible" RESP="apex" EXTENT="1 span" DISP="〈…〉"/> vnto theyre wyues, as I haue told before</L>
+<L>Wherby it fareth thus with them, to be a prouerbe ryfe</L>
+<L>To iudge the romayne harl<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>t, better then the wyfe</L>
+<L>which vse not so frequent in England wherby</L>
+<L>we Englyshmen do well auoyde that perlous yoperdye</L>
+<L>Now o<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/> Romaynes haue I redde▪ innumerable good</L>
+<L>As tyrff of all, of Lucres that cam of noble blood</L>
+<L>when Tarq<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>yn the proude, desyred her company</L>
+<L>Lyuy wyll the same affyrme and testifye,</L>
+<L>Thys Tar<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>uyn) whome I named) dyd prese to do that dede</L>
+<L>which caused her and also hym not very well to spede</L>
+<L>Fyrst wyth fayre wordes began he Lucr<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>s to entrete</L>
+<L>And when they could not take affecte, then he began th threte</L>
+<L>with his naked sword, to take away her lyfe,</L>
+<L><PB REF="6"/>
+Alas good Brtitus where wert thou? to succor then thy wyfe</L>
+<L>And fynally agaynst her wyll Tarquyn lay her by</L>
+<L>The cryme is deedly for a kyng to do such vylany</L>
+<L>which when by hym was dun, away and he was gonne</L>
+<L>She sendeth for her husband and kindred eche one</L>
+<L>And bearyng in her hand, with her a naked knyfe</L>
+<L>In presence of them all, she ended there her lyfe</L>
+<L>But before she dyed as Lyuye doth reporte</L>
+<L>with a heuy hart (god wot) spake after such a sorte</L>
+<L>O my husband deare why do I lyue thys daye</L>
+<L>Syth that (but not wyllyngly) I haue the now betraye</L>
+<L>And most against my harte the godes do know right well</L>
+<L>That feare of death and nothing els, was cause now that I fell</L>
+<L>Tarquin the proud hath rauyshed me thys nyght</L>
+<L>wherwith she wept full pyteously, her teares distilling bright</L>
+<L>From her eyes, and sodeinly, dyd thrust into her harte</L>
+<L>The knyfe, so ended she her lyfe, in dedly woe and smarte</L>
+<L>Alas, what hart so hard, as is the merble stone</L>
+<L>yf he had sene thys dolefull syght, wolde not haue made gre<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>te mone</L>
+<L>For her, who lyeng ded as white as any lylly</L>
+<L>whose cruell death dyd playnly she wand for her testyfy</L>
+<L>That she was boyde from vice, not giltie of that gylt</L>
+<L>And yet in satysfaction her hart blud there she spylt</L>
+<L>Lucres of Cu<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>hay<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>e also is come vnto my mynde</L>
+<L>which to Curylans shewed her selfe so kynde</L>
+<L>That beyng but a straynger borne and her deperted froe</L>
+<L>Dyed for very sorow, the story telleth soe,</L>
+<L>why loued she an other, alas, syth she was wedde</L>
+<L>Marryed she was against her wyll she had as leue ben dedde</L>
+<L>As hym to husband take, but that she might not chuse</L>
+<L>For ather frendes cōmaundement she durst hym not refuse</L>
+<L>So that not only she, but tother of her sorte</L>
+<L>Are to be lamented much, as boyde, of all cumforte</L>
+<L>For of these twayne they must do one, w<SUP>t</SUP> god eyther nedes glose,</L>
+<L>Orels if god they please, theyr parentes strayt way lose,</L>
+<L><PB REF="7"/>
+<GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> appy be they I say then, whose choyse to chuse is free</L>
+<L>For though they haue but lytle, no dought they shal agree</L>
+<L>What saye ye nowe to Ouyds wyfe, which banyshed to bee</L>
+<L>Desyred much, &amp; leaue al thinges in Rome where she was free</L>
+<L>With her husbande to haue gonne, to take such parte as he</L>
+<L>What fayth there is in womankynde, a blynde man may wel see</L>
+<L>Sulanna also and Iudith with dyuers others moe</L>
+<L>Out of scriptures colde I bring, but nede requyreth not soe,</L>
+<L>For of forrayne examples these are ynough to dewe</L>
+<L>yet shall I one recite whiche also is moost trewe</L>
+<L>A kyng there was y<SUP>t</SUP> in y<SUP>e</SUP> warres, had taken a greuous wounde</L>
+<L>Hys surgens had assured hym, it wold neuer be sounde</L>
+<L>Onles that all the nenom, that therin dyd lye hydde</L>
+<L>were sucked out by mans mouth the king sayd God forbydde</L>
+<L>The Quene y<SUP>t</SUP> hearing, hold her pease vntyll that it was nyght</L>
+<L>When the kyng was sounder a slepe, y<SUP>t</SUP> heare him blow she might</L>
+<L>Arose a<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/> softly as she coulde, and so by suchyng ofte</L>
+<L>Had gotte the <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>enom clene forth, that done, with clothes softe</L>
+<L>She dressed hym <GAP DESC="illegible" RESP="apex" EXTENT="2 letters" DISP="••"/>ll handsomly, and wrapt it vp agayne</L>
+<L>And helede hym with medycens so that he felth no payne</L>
+<L>what dylygence wolde man requyre? what seruyce of hys wyfe</L>
+<L>What pledge of loue wolde he els haue? then to saue hys lyfe</L>
+<L>wyth hassarde of her owne whiche she ought moost defende</L>
+<L>Let men therfore remembre this, &amp; theyr euyl tonges amende</L>
+<L>The doughter two of Ioth, that lay theyre father by</L>
+<L>Dyd in a good intend the world to multyply</L>
+<L>And many thynges we reade permitted were by gode</L>
+<L>In the olde Testament and in the newe forbode</L>
+<L>For if the brother spared had the syster in those dayes</L>
+<L>The world could not haue ben in crest I think no kind of wayes</L>
+<L>To cōme now to our cūtrey womē, why shuld men in thē dought</L>
+<L>And saye they be replete wyth vyce synce stranngers be without</L>
+<L>Although that I haue authors none, but all that I endight</L>
+<L>Long synce in author olde, I haue them redde full ryght</L>
+<L>Whych beyng but payngans horne, I herein so much trust</L>
+<L><PB REF="7"/>
+That I beleue assuredly they wryt nothyng but iust</L>
+<L>And I my selfe but lyttle more then. xx. yeares of age</L>
+<L>An Englysh man borne also, by nature nothyng sage</L>
+<L>Onles I shuld declyne from all my progeny</L>
+<L>Whose myrth theyre mery worke, wyll show and testyfye</L>
+<L>Syth my mother tongue I dyd well vnderstande</L>
+<L>I had no maner of delight in storyes of thys lande</L>
+<L>Whych beyng true in dede, no meruayle thys at all</L>
+<L>Though that my cuntrey womēs actes, to mynde I can not call</L>
+<L>yet hath there bene within my tyme for nede I colde them name</L>
+<L>That for the loue they bare to men, refused no kynde of blame,</L>
+<L>Thyr husbandes whylest in pryson lay, trāsgressors of y<SUP>e</SUP> lawe</L>
+<L>Deseruyng in beath for theyre offence, and beyng styll in awe</L>
+<L>Haue presed to the prese, of the thych through and trust</L>
+<L>As gree <GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/>chylde as they myght goe therein you may me trust</L>
+<L>And neuer ceased vntyll they cam vnto the rulers face</L>
+<L>And meekely knelyng on theyr knees, obteyned had theyr grace</L>
+<L>And set theyr husbandes free agayne who had none other hop<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/></L>
+<L>To ende theyr lyues no kynde of waye but only by the rope</L>
+<L>And in the tyme that Bullayne was, besegede wyth our hostes</L>
+<L>I know yet certayne that do lyue, that went out of our costes</L>
+<L>Left theyr frendes &amp; kynsfolke elie to Bullayne toke theyr way</L>
+<L>Unto theyr husbandes &amp; their louers, skant restyng night or day</L>
+<L>Untyl they had accumplished theyr yourney with great paine</L>
+<L>where w<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>e one foūd her husbād wel. iiii. foūd their louers slaine</L>
+<L>what heauy, hartes had they, that founde theyr louers dedde?</L>
+<L>Smal ioye I thynke they wold haue had, another strayt to wed</L>
+<L>what teares were shede by them? what syghinge from the hart?</L>
+<L>what sodayne sorow, heuynes, anguish, gryef, &amp; smarte?</L>
+<L>Suffred those pore soules no pen can wryte, nor yet tōgue well expres</L>
+<L>Nor hart can thynke nor wyt deuyse, the some of theyr distresse,</L>
+<L>As warre is counted pleasaunt to them not tryeng the same</L>
+<L>So many thynk it but a sporte, to beare a louers name</L>
+<L>A louer to be named an easy thynge perdye</L>
+<L>And yf they loue vnfaynedly, what loue is they shall see</L>
+<L><PB REF="8"/>
+Unto the burning <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>euer compare it I may well,</L>
+<L>what ease there is therin, the sych therof can tell</L>
+<L>Of these two thinges if that the choyse offree were to me</L>
+<L>And that of them they one I must chuse no remede</L>
+<L>To be syc<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>e with loue or els the plage to haue</L>
+<L>The plage I wold fyrst chuse of b<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>th so god me saue</L>
+<L>The one within a weeke relesseth all the payne</L>
+<L>The other in the harte tyll death doth styll remayne</L>
+<L>Although a louer might, accumplish nestores yeares</L>
+<L>which liued three hundred winter long, in authors as appreares</L>
+<L>Of loue yet dyuers time shuld fele the woe and smart</L>
+<L>Thought more <GAP DESC="illegible" RESP="apex" EXTENT="1 span" DISP="〈…〉"/>uye then the <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>edde lyeth at the louers hart</L>
+<L>As I my selfe may wel assyrme, which tryed haue the same</L>
+<L>And so may m<GAP DESC="illegible" RESP="apex" EXTENT="2 letters" DISP="••"/> as well as I, that couht it now no game,</L>
+<L>These thinges well wayed then yf men of stomock stout</L>
+<L>Say loue to intollerabl<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/> I put you out of dout</L>
+<L>Great <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>e<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>uale it ys I promise you that womens fe<GAP DESC="illegible" RESP="apex" EXTENT="1 span" DISP="〈…〉"/></L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> able to <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>eare out so well, their do<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>efull hea<GAP DESC="illegible" RESP="apex" EXTENT="4 letters" DISP="••••"/>es</L>
+<L>Alas their tendreharies were oft lyke for to brast</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> that teares of water sault di<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>illed from them <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/></L>
+<L>yet some besydes theyr selfes with loue are oft certaine</L>
+<L>Of them (more pyty ys) with vs th<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>re d<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>re<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/> <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/></L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 span" DISP="〈…〉"/> there is perchaunce <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>hat will of me enquire</L>
+<L>Meruayling much that any man with loue is set a fire</L>
+<L>And women with the same may or can take <GAP DESC="illegible" RESP="apex" EXTENT="2 letters" DISP="••"/>at<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/></L>
+<L>Thinking it to be a thing which chaunceth very rat<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/></L>
+<L>For if that men and women loue, why do they disagree</L>
+<L>In consentyng eche to other thys daunger they may <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/></L>
+<L>This may be aunswered diuers▪ wayes, and first of al by this</L>
+<L>That not one man what degre, so euer that he is</L>
+<L>To l<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>u<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/> a<GAP DESC="illegible" RESP="apex" EXTENT="2 letters" DISP="••"/>ynde of women, nor yet one woman can</L>
+<L>Fy<GAP DESC="illegible" RESP="apex" EXTENT="1 span" DISP="〈…〉"/> in her hart (I dare well say) to fansy euer<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/> man</L>
+<L>what auayleth it then how may he flee that payne,</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> he loue that woman well that loueth hym not a<GAP DESC="illegible" RESP="apex" EXTENT="1 span" DISP="〈…〉"/></L>
+<L>And on the other parte of a womans chaunce be so</L>
+<L><PB REF="8"/>
+Now may we then in lyke wy<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>e scape hys pay<GAP DESC="illegible" RESP="apex" EXTENT="1 span" DISP="〈…〉"/> and ded<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>y wo<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/></L>
+<L>Agayne if men presume to farre, aboue theyr owne degree</L>
+<L>yf that they loue and can not spede, how can they then it <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>lee</L>
+<L>But men there be and not a fewe which do presen<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>e to loue</L>
+<L>And meaning nothing els but maydens myndes to moue</L>
+<L>To loue agayne to the e<GAP DESC="illegible" RESP="apex" EXTENT="2 letters" DISP="••"/>ent theyr purpose to obtayne</L>
+<L>which when they haue, do draw away, and leue to loue agayne</L>
+<L>Thus with sundry dryftes are, maydes and wyues deceaue<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/></L>
+<L>And ofte of theyre virgynite by men, maydes are bereued</L>
+<L>which being lostand gonne, what great losse can be</L>
+<L>what better thing haue maydens now, then theyre virginite</L>
+<L>whiche causeth thē to wayle &amp; wepe as haue they cause to iu<GAP DESC="illegible" RESP="apex" EXTENT="2 letters" DISP="••"/></L>
+<L>and though y<SUP>e</SUP> other meane good faith, doth make thē to mi<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>trust</L>
+<L>Of lyke handling of a wydow. I can declare right well</L>
+<L>Betwene Dydo &amp; Ieneas, as Uyrgyll doth it tell</L>
+<L>A<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>neas Tro<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>e beyng won, and all the towne was breut</L>
+<L>Fled vnto the see, with troyans by consent</L>
+<L>Councell▪ helpe and a<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>d of Uenus the g<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>ddes</L>
+<L>Of loue that was &amp; hys mother as Poetetes do express<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/></L>
+<L>Take shipping for to sayle vnto a land</L>
+<L>which prophelies did shew before shuld come into hys hand</L>
+<L>He so long laye vpon the see, his vytaill being spent</L>
+<L>Arryued in good Dydoes land whiche when she hard she went</L>
+<L>Unto him to her that was, a straunger as I rede</L>
+<L>And dyd obeysaunce, vnto hym, and home with her dyd lede</L>
+<L>As one that all nobilitie dyd very much regarde</L>
+<L>He wanted no good cheare y wis, no cost for hym was sparde</L>
+<L>Contin<GAP DESC="illegible" RESP="apex" EXTENT="1 span" DISP="〈…〉"/> <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>e wyth all hys men in her courte certayne dayes</L>
+<L>An <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> them selfes well as Poet Uyrgyll sayes</L>
+<L>Required Ieneas Dydoes loue which when she graunted had</L>
+<L>And <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>itayl<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>s to his ships be carried that she bad</L>
+<L>Aen<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>a<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/> away sayled, skant byddyng her far well</L>
+<L>Nor for his <GAP DESC="illegible" RESP="apex" EXTENT="1 span" DISP="〈…〉"/>tertainement thanked her oue dell,</L>
+<L>At leste wyse c<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>m no more at her, nor yet vnto her sent</L>
+<L>which moued gentle Dydo much, &amp; made her <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>eartrelent</L>
+<L><PB REF="9"/>
+<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>emembryng that her bene<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>yt<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>es vppon hym so beshowed</L>
+<L>Mere not regarded, but for them cruelte was showed</L>
+<L>And that <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>e<GAP DESC="illegible" RESP="apex" EXTENT="2 letters" DISP="••"/>eas noble was, she thought hym to be iust</L>
+<L>And well the wyst that now she had put her whole trust</L>
+<L>In one that her deceaued had, no meruayle was it than</L>
+<L>Though neuer after that she durst credyt any man</L>
+<L>That Englyshmē <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> maydes also, haue playde y<SUP>e</SUP> selfe same feat</L>
+<L>I shall declare vnto you here, but fy<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/> on all de<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>eat</L>
+<L>Of Englyshmen vppon a thyne, there were in Scotlande three,</L>
+<L>whiche taken were as prysoners in pryson put perdee,</L>
+<L>And there were lyke to lye, the ordre of that lande</L>
+<L>To abyde ny remedy, ye may well vnderstande</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>▪ t<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>ey had theyr rasisons <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>ayed which how it might arise,</L>
+<L>without strendes, the sel<GAP DESC="illegible" RESP="apex" EXTENT="2 letters" DISP="••"/>s but poore, they cold not weldeuyse,</L>
+<L>Untyll at last that one of them, more crafty then the rest</L>
+<L>Had tolde his fellowes to be donne, what he thought was best</L>
+<L>That is to wyt that one of thē which was the handsomes man</L>
+<L>Shuld fayne hym <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> <GAP DESC="illegible" RESP="apex" EXTENT="1 span" DISP="〈…〉"/>ding sycke, in y<SUP>e</SUP> best wyse that he can</L>
+<L>Of wha<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/> <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>yfease thynke yee of layned loue y wys▪</L>
+<L>which to be true, no dout at aly, ye may percyue by thys</L>
+<L>The <GAP DESC="illegible" RESP="apex" EXTENT="2 letters" DISP="••"/>aler had a doughter, that was excedyng fayre</L>
+<L>Unto these Englysh men wolde diuers tymes repayre</L>
+<L>And <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> myth them of many thynges at last one of the three</L>
+<L>Whose lot it was and chaunce the dyssembler to now to be</L>
+<L>(The other twayne with drawing them as was agreed before)</L>
+<L>Uppon y<SUP>e</SUP> <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>aylers Doughter looked, &amp; syghed wondrous sore,</L>
+<L>And causyng her to syt hym by, (as was hys owne reporte)</L>
+<L>with <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> herte and cos<GAP DESC="illegible" RESP="apex" EXTENT="3 letters" DISP="•••"/>enaunce, spake to her in thys sorte</L>
+<L>A wold I had in syelde bene<GAP DESC="illegible" RESP="apex" EXTENT="2 letters" DISP="••"/>ayen, but fortune wolde not so,</L>
+<L>But that I shulde yet lenger lyue in dedly payne and wo</L>
+<L>All my cuntrymen, that euer prysoners were,</L>
+<L>Dyd nener so vnguo yet hart with them, I know wellbere</L>
+<L>For besydes that impris<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>nment is odyous to the <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>re</L>
+<L>There is a thyng whiche more then that doth dayly turmēt me,</L>
+<L>In so much that I therwith in lyfe coulde not remayne</L>
+<L><PB REF="9"/>
+Onles that one thyng now and then restored my lyfe agayne,</L>
+<L>My meanyng and intent hereby, I wold fayne that you knewe</L>
+<L>I wyll my selfe declare yt playne, yf that you wylbe trewe</L>
+<L>And swere vnto me by your fayth, you wyl it not dysclose</L>
+<L>But secretely within your brest, you shall the same repose,</L>
+<L>She sware vnto hym by and by, that honest if it weare</L>
+<L>No liuing creature on the earth▪ by her therof shuld heare,</L>
+<L>No dought (sayde he) I put in you, but credyt do your othe</L>
+<L>Beyng bolde to tell you that, before which I was lothe,</L>
+<L>When I do prison fyrst, amonges the rest was brought</L>
+<L>For my harde handlyng here, tooke exceding thought</L>
+<L>But when I called to mynde, for what cause here wely</L>
+<L>They had as iust a cause, to mourne, me though, as I</L>
+<L>It chaunced not longe after, that, as we three sate here</L>
+<L>Your bewtie brighter then the sonne, vnto me dyd appere</L>
+<L>Reuolyng I then in my mynde, my harde and cruell fate</L>
+<L>On fortune could not chuse but rayle, for chaūging myne estate</L>
+<L>In my natyue countrey, of gentles come and borne</L>
+<L>Here I lye replete with woe, as one that is forlorne</L>
+<L>Besydes all thys, your loue, so perced hath my harte</L>
+<L>That remedyles I wayle and wepe, and dudble all my smarte</L>
+<L>And sythes I am now bonde, and lede thys carefull lyfe</L>
+<L>Only may I wysh you, to be my lawfull wyfe,</L>
+<L>Desyre (I wolde) and eke beseche of loue,</L>
+<L>Onles I knew assuredly I shuld you nothing moue,</L>
+<L>Being in this case, which if that I were free</L>
+<L>your loue vnto an Englyshe man, you wolde not graunt perdee</L>
+<L>But graunt that you colde loue, me onles I were a large</L>
+<L>How shulde I able be, of your to take the charge?</L>
+<L>But if that I conueyed were, strayte out of thys lande</L>
+<L>And safe in my countrey were, I wyll ye vnderstande</L>
+<L>And kyng were of the same, none on the earth but you</L>
+<L>Shulde be the crowned Quene therof, to god I make a vou,</L>
+<L>What auayleth thys my talke? to what purpose speake I thys?</L>
+<L>Sith I know ryght well of you, that I shall mys,</L>
+<L>But yet I can not chuse, my harte doth cause me so</L>
+<L><PB REF="10"/>
+Or els opprest w<SUP>t</SUP> carkes and cares I think wold breake in to</L>
+<L>Now you haue herd my case, consyder well the same</L>
+<L>Could you loue an Englysh man, or do you hate the name,</L>
+<L>In south be you assured, that if you can me fauor</L>
+<L>And vnto husband take, I lyst not now to glauor</L>
+<L>And euen as I loue you, so to loue me agayne</L>
+<L>you shall diminish all my grief, sorow, thought and payne,</L>
+<L>I shall you not forget, whilon that I lyue</L>
+<L>Onles I speake euen as I think, neuer may I thryue</L>
+<L>Therwith he wepyng fast, the teares distillyng fro</L>
+<L>Hys eyes, gaue her a Iudas kysse, alas why dyd he so?</L>
+<L>When she had herd hym speake, the wordes exprest before</L>
+<L>Thynkyng no lesse in dede but that he longed sore</L>
+<L>And doted in her loue, hauyng no mystrust</L>
+<L>But thought by hys perplexitie that he was very iust</L>
+<L>Her tendre hart then melted to see hym in that case</L>
+<L>Wept and sobbed woundrous sore, that for a certen space,</L>
+<L>She cold not speake one word, for sheddyng teares so fast</L>
+<L>Her hart she thought immediatly, wold verely haue <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>rast</L>
+<L>When she had cesed her wepyng, and thagony was past</L>
+<L>Pausyng with her selfe a while, sayd vnto hym at last</L>
+<L>where y<SUP>t</SUP> you wysh your chaūce had bene, before this to be slaine</L>
+<L>No cause there is ywys, that dye you shuld so fayne,</L>
+<L>And that your dobble improsoment, you lay vnto my charge</L>
+<L>yt lyeth in my pouer to set you now at large,</L>
+<L>For whither you loue your contrey, and set but lyght by me,</L>
+<L>Or whyther you loue vs both a lyke, I can now set you free</L>
+<L>And in accusing me, to hate the Englysh name,</L>
+<L>Without a tryall of the same, in dede you are to blame,</L>
+<L>To aunswere you therfore, as dyrectly as I can</L>
+<L>I had rather marry you, then a Scottysh man</L>
+<L>And plyght me here your troth, for so I thinke it best</L>
+<L>And I shall do the some, and graunt you your request</L>
+<L>Leade me with you home, &amp; there do you me wed</L>
+<L>According to your Englysh lawes, to bourd and eke to bed</L>
+<L>Money for our charges ynough I shall prepare,</L>
+<L><PB REF="10"/>
+And for your sake the residue, shall the better fare,</L>
+<L>He swore vnto her othes ryfe, that all thinges shuld be so</L>
+<L>well sayd she to morrow night, we foure, away wyll go</L>
+<L>So when the nyght appoynted cam, the <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>ayler toke hys rest</L>
+<L>Hys Doughter tooke of money, as much as she thought best</L>
+<L>The keyes she stale away that lay vnder his hedde</L>
+<L>The prison gate then openyng, away them three she ledde</L>
+<L>which when they were escaped theyr peryll and theyr payne,</L>
+<L>As crafty kaytyfes worthy death, dyd send her back agayne,</L>
+<L>ye moderators of the scoles, ye iudges of the bench</L>
+<L>was not this a heynous cryme, to vse a louing wench</L>
+<L>Who for very loue of one, dyd make them also free</L>
+<L>And well contented was, with hym away to flee</L>
+<L>Leuyng countree father, mother, brother kyf and kyn</L>
+<L>But when she was betrayed, what sorow was she in?</L>
+<L>Fyrst, what was her fathers gryef? the prisoners beyng lost,</L>
+<L>What sorow to his harte? and to his purse what coste?</L>
+<L>And when he knew hys doughter to be ledde waye,</L>
+<L>In what a traunce was he? no man I think can saye</L>
+<L>Hys wyfe and eke his sonne, and all the wenches kyn</L>
+<L>Lamented much and dyd bewayle, her foolysh parte therin</L>
+<L>And the sely wench, was in worst case of all</L>
+<L>Not knowing for her life on her what shuld be fall</L>
+<L>Wh<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>rfore she went not home agayne for feare as I do gesse</L>
+<L>But ledde her lyfe tyll death dyd come, in wofull heauynes,</L>
+<L>Thus may ye se exprest, the nature here of men,</L>
+<L>And yet they wyll affirme women worse then them</L>
+<L>Uyrgyll once appoynted to haue layen a woman by</L>
+<L>Perswaded her therto, there was no remedy</L>
+<L>And when that she perceyued, that he wold haue no nay.</L>
+<L>So that you come this night (saith she) I wyl your mid obay,</L>
+<L>I my selfe do lye (quod she, in a chaumbre hye</L>
+<L>And my husband lieth beneth, in a chambre bye</L>
+<L>wherfore I can not well deuyse, how in you may be brought</L>
+<L>No kynde of way but only thus, which now I haue be thought</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> wyll let doune a basket, by a corde perdee,</L>
+<L><PB REF="11"/>
+By meanes whereof you sitting in, shalbe drawen vp to mee<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/></L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>yrgyll trusting so, his purpose to obtayne</L>
+<L>According as it was a greed, at night he cam agayne,</L>
+<L>Where he founde the basket by a lyne let downe in dede</L>
+<L>And quyckly leping in trusted well to spede</L>
+<L>When knowledge that she had, aboue, that Uyrgyll was therin</L>
+<L>She plucked hym halfe way vp, that donne to make a pyn</L>
+<L>Of woode or some lyke thing, she put her selfe in vre</L>
+<L>Wherunto she tyed the rope for flydyng made it sure,</L>
+<L>So that Uyrgyll when no way, escape knew how he myght</L>
+<L>Of force he was constrayned there to tarry all the nyght</L>
+<L>Untyll the next morninge, that it was brode lyght daye</L>
+<L>Where when that he es<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>yed was, al folkes at hym had playe</L>
+<L>Thus it is ryght euydent and manifestly she wede</L>
+<L>That women are ryght honest, and men are very lewede</L>
+<L>As touching the apparayll now, which women vse to weare</L>
+<L>Theyr verdyngalles and cassockes, the perting of their heaee</L>
+<L>Wherwith that they waxe proude our Pote sayth sure,</L>
+<L>At home lyke dyuelles they be, abrode lyke aungelles pure,</L>
+<L>These thinges lowfull to be, and tolerable toe,</L>
+<L>By reasons good and probable, I shal it strayt wayes shoe</L>
+<L>A woman hauing nothing but at her husbandes hande</L>
+<L>That he thus maynteneth her it may now welbe skande</L>
+<L>Who is then in moost fau<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>t? who ought to beare the blame?</L>
+<L>Not she that weareth them, but he that byeth the same,</L>
+<L>Tollerable not withstanding, that such apparayle is</L>
+<L>What harme lyed hydde therein, I wolde fayne knowe but this</L>
+<L>First, to a cassocke (I am <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/>) lesse cloth they do allowe</L>
+<L>Then to agonne or frocke, wherfore consyder now?</L>
+<L>More profyt is it farre, lesse cost also perdye</L>
+<L>Honest therfore his, it can none other be,</L>
+<L>For Tully in his Offices, she weth by wordes exprest</L>
+<L>That nothing can be profitable, onles it be honest,</L>
+<L>To the parting of theyr heare and showing of the same,</L>
+<L>yf men do the lyke thyng, why beare they then no blame?</L>
+<L>In combing of theyr berdes, in strokyng them full ofte.</L>
+<L><PB REF="11"/>
+In wassyng them with wassyng balies, in lookyng all alofte</L>
+<L>In plaitting of them diuers wayes, in byndyng thē in bandes</L>
+<L>Wherein their hole delyght alwayes, consystes and standes</L>
+<L>No meruayle then though women lerning it of men</L>
+<L>Do combe and plat theyr heare, &amp; dresse it nowe and then</L>
+<L>yet women be dispraysed where men are moost in faute</L>
+<L>Exāples such to gyue theyr wyues, which they acōpt so naught</L>
+<L>yf a precher shulde vs teach, drunkennes to shun,</L>
+<L>And hedlong to that vyce, he hym sel<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>e shuld run,</L>
+<L>Who were in most fault who were most worthy blame,</L>
+<L>He that herde the sermone, or he that preced the same,</L>
+<L>As touchīg now theyr verdingalles, which do men much offēde</L>
+<L>I deferre them not tyll now as hard for to defende</L>
+<L>For as men in thother thinges haue bene in greatest cryme,</L>
+<L>So can I not holde them excused, at thys present tyme,</L>
+<L>Who fyrst inuented vardingalles it must be called to mynde</L>
+<L>And by whom also they were made, we must in lykewyse fynde</L>
+<L>Taylers (as I gesse) were the fyrst founders then</L>
+<L>What kynde of people be they women or els men</L>
+<L>The most of all our fashyous of garmentes whiche we vse,</L>
+<L>Of what so euer sorte they be playne or els dyffuse,</L>
+<L>Straungers them inuent, of straungers them we lerne</L>
+<L>As by our Spanysh hose &amp; shoes, a man may well dyscerne,</L>
+<L>The french gownes &amp; the Duche, which women vse to were</L>
+<L>And also theyre french hoodes, theym broddyng of theyr heare,</L>
+<L>From Fraunce &amp; Flaūders fet were, by merchandes of our lande</L>
+<L>They tought their wiues to were y<SUP>t</SUP> sawe it may be vnderstāde</L>
+<L>For women trauaill not to see the countreyes farre,</L>
+<L>For although they wolde, theyr husbandes yet wold thē therof quite barre</L>
+<L>But if there be anoueltye chaūced in Almayne,</L>
+<L>Fraunce, Flaunders, Italy, Portyngale, or Spayne,</L>
+<L>Or any other regyons where men haue ledde theyre lyues</L>
+<L>At theyre cōmyng home, they declare it to theyre wyues,</L>
+<L>And some for lacke of newes, some thinges they do deuyse</L>
+<L>Accompting it a shame, there be some so precyse,</L>
+<L>To know nothing al all and so long tyme to spende</L>
+<L><PB REF="12"/>
+Wherfore to bringes home nouelties, they alwayes do entend</L>
+<L>And tollerable itys (the south to say) in those</L>
+<L>That a yoyrney vnto Rome, vnto themselfes haue chose,</L>
+<L>For thei that come from th<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>nce, as one doth specyfye</L>
+<L>May tell a lye or twayne, by Romes authoritie,</L>
+<L>what pride can the pore verdyngalles increase in women kynde</L>
+<L>The stuf that goeth to the same, is easy for to fynde</L>
+<L>As <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>ustian or buckram, lystes and eke redde cloth</L>
+<L>A costly thing I promise you that men shuld be so wroth</L>
+<L>Suppose, they be of veluet sylk or cloth of gold</L>
+<L>what wyttyman is he? ther with fynd fault that wold</L>
+<L>Although for money often times there is debat &amp; strife</L>
+<L>And for the same many a man in time hath lost hys lyfe</L>
+<L>Yet money is not euyll, nor ought to beare no blame</L>
+<L>The only fawt remainth in them, that do mysuse the sa<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>nt,</L>
+<L>So garmentes, I affirme, what so euerthat they be,</L>
+<L>Are decent for all wemenkinde, regarding theyre degre</L>
+<L>As sone may a man, in a begger fynd,</L>
+<L>As proude an <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>art as in a lorde which groweth out of kind</L>
+<L>The prouerbe semeth contrary to iudge pryde in the lord</L>
+<L>For èuyl doth a lordes hart and a beggers purse accord</L>
+<L>where excessyue talke is layd to womens charge,</L>
+<L>And that men cast it in theyr teeth, theyr tōgues to run at large</L>
+<L>Graunt it so to be, as it is not verely</L>
+<L>But that they be thus staundred alas what remedy</L>
+<L>yet were it but a small fault, in authors syd we <GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>ynde</L>
+<L>True to be and credyble, wordes to be but winde,</L>
+<L>Theyr tonges I think offended haue, on earth no lyuing man</L>
+<L>And if thei had, forthat that men, neyther will nor can,</L>
+<L>With them once beare, how farre they run a<GAP DESC="illegible" RESP="apex" EXTENT="2 letters" DISP="••"/>raye</L>
+<L>ye shal perceyue if that ye note, sain<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>t Peter who doth saye,</L>
+<L>ye men bere with your wyfes whiche weker vesselles be,</L>
+<L>But yet the weke the burden bere, as ye may herby see</L>
+<L>Many husbandes all the day, sytting at the wyne,</L>
+<L>At night comyng relyng home as dronken as are swyne,</L>
+<L>Theyr wyses therof ashamed be, and thē strayt way exhort</L>
+<L><PB REF="12"/>
+At home to tarry and be merry to flee all such resort</L>
+<L>wherwith the men waxe angry, theire wyfes be so bold</L>
+<L>And if they speake a lytle loud, men say strait away they skold</L>
+<L>wherfore I meruaile much and so do moe then I</L>
+<L>That women beare so great a blame, &amp; no cause to be why</L>
+<L>And fynally to conclude, I haue the greater ruth</L>
+<L>That innocētes shuld slaūdred be, but time shall trye the truth.</L>
+</LG>
+<TRAILER>¶ Finis.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="author to book">
+<HEAD>¶ The Author to his Booke</HEAD>
+<LG>
+<L>GOE for thou lytle booke, looke with a smilyng cheare</L>
+<L>To women shalt thou well come be, therof thou nedest not feare</L>
+<L>yf it be thy chaunce, our English Courte to see,</L>
+<L>Then vnto our ladyes there, I great them well by the,</L>
+<L>Or if it be thy pleasure, in London to remayne</L>
+<L>Be haue thy selfe so honestly, that none do the disdayne</L>
+<L>Or whither best it lyketh, the in the wyld cuntree</L>
+<L>To dwell or euery where a sui<GAP DESC="illegible" RESP="apex" EXTENT="1 span" DISP="〈…〉"/> to be,</L>
+<L>To maidens, wydowes, wyues of euery degree</L>
+<L>Obedient be and be vnto them commaunded haue thou me,</L>
+<L>Of any man do happen in contrey or in toune</L>
+<L>For prasing women kind, on the to cast a froune,</L>
+<L>Thus mayst thou aunswere well, that all that thou hast sayd</L>
+<L>Are so true and manifest thei can not be denayed,</L>
+<L>Some agayne perchaunce wyll fynd fault with thy style</L>
+<L>As rough rude and barbarous, nedyng the smitthes fyle</L>
+<L>Tell them that neyther age, nor wyt that is in me</L>
+<L>Can make a booke more eloquent then this which no wtheys<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>,</L>
+<L>Good wyll was it enforced me, to wryte this lytle booke</L>
+<L>Let the readers then therof, on the meanyng looke,</L>
+<L>With myndes indifferent, let them the same well vewe,</L>
+<L>Then shall they well pereyue &amp; see, that I haue written trewe</L>
+<L>whych yf they shall deny<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>, theyr errour wyll appeare,</L>
+<L>For Leuy Uyrgyll, Ouyd, will witnes with me beare,</L>
+<L>Of thother thinges which are, in thys treatyse showen</L>
+<L><PB REF="13"/>
+Some of them haue I harde, the other haue I knowe<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/></L>
+<L>The resydue by reason debated haue I well,</L>
+<L>As I do gesse at least wyse, that learned be can tell,</L>
+<L>yf any thing vndicent or rude be <GAP DESC="illegible" RESP="apex" EXTENT="1 word" DISP="〈◊〉"/> my rym<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>,</L>
+<L>Let them impute the same, to bryefnes of the tyme,</L>
+<L>yf flattery alleged be &amp; layde vnto my charge</L>
+<L>That to please womenkynde I haue written so large</L>
+<L>In the disprayse of men, which I ought not haue dun</L>
+<L>For that I am a man, and into daunger run</L>
+<L>Perhaps I am, yet let men note well this one thinge</L>
+<L>That they that I haue named haue bene of vicious lyuinge</L>
+<L>As Adam and Aeneas wyth the three Englysh men</L>
+<L>That in Scotland prysouers were, let vs merke well then</L>
+<L>The actes of all these fyue; for which I haue them blamed</L>
+<L>In Oxforde in Cambridge, I thinke not one that named</L>
+<L>Myght be whych coulde by reason good defende</L>
+<L>Or they<GAP DESC="illegible" RESP="apex" EXTENT="2 letters" DISP="••"/> lewde pagentes played so much as ones cōmende,</L>
+<L>For soner may a man by sophystry wellproue,</L>
+<L>The mouse and the O<GAP DESC="illegible" RESP="apex" EXTENT="2 letters" DISP="••"/>phant very well to loue,</L>
+<L>Betwene foxes and gese perpetuall amyte</L>
+<L>To wo<GAP DESC="illegible" RESP="apex" EXTENT="1 letter" DISP="•"/>es and the lambes, vnfaynede frendes to be</L>
+<L>Then theyre deceytes to womenkinde before by me exprest,</L>
+<L>May by any learned man be proued to be honest</L>
+<L>I do not therfore repent my selfe, that I haue on me take</L>
+<L>Thys lyght and easy enterprise for all good womens sake</L>
+<L>Although I know assuredly that diuers wyl euyl talke</L>
+<L>I am nothing <GAP DESC="illegible" RESP="apex" EXTENT="1 span" DISP="〈…〉"/>ayde ther with, syth god on earth dyd walke</L>
+<L>And coulde not please nor satisfye all men no kynde of waye</L>
+<L>Shall I then looke to do that thing that god cold not do, naye</L>
+<L>Wherfore though goodmen do it prayse, &amp; euyll do discōmende</L>
+<L>It forceth not (the truth to saye) and thus I make an ende.</L>
+</LG>
+<TRAILER>¶ FINIS.</TRAILER>
+</DIV1>
+<DIV1 TYPE="colophon">
+<P>¶ Imprinted at London, in Paules Churche yearde at the Sygne of the Swane by Iohn h Kynge.</P>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>
+

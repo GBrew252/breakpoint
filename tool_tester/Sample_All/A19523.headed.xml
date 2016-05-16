@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="2">A short treatise declaringe the detestable wickednesse, of magicall sciences as necromancie. coniurations of spirites, curiouse astrologie and such lyke. Made by Francis Coxe:</TITLE><AUTHOR>Coxe, Francis, fl. 1560.</AUTHOR></TITLESTMT><EXTENT>Approx. 30 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2007-10 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A19523</IDNO>
+
+
+<IDNO TYPE="stc">STC 5950</IDNO>
+
+<IDNO TYPE="stc">ESTC S105100</IDNO>
+
+<IDNO TYPE="eebo citation">99840830</IDNO>
+
+<IDNO TYPE="proquest">99840830</IDNO>
+
+<IDNO TYPE="vid">5368</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A19523)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 5368)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1475-1640 ; 210:13)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="2">A short treatise declaringe the detestable wickednesse, of magicall sciences as necromancie. coniurations of spirites, curiouse astrologie and such lyke. Made by Francis Coxe:</TITLE><AUTHOR>Coxe, Francis, fl. 1560.</AUTHOR></TITLESTMT><EXTENT>[32] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>[London :</PUBPLACE>
+<PUBLISHER>Printed by Ihon Alde,</PUBLISHER>
+<DATE>[1561]]</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Imprint from F.S. Ferguson report of colophon; publication date from STC.</NOTE><NOTE>Signatures: A-B.</NOTE><NOTE>The last leaf is blank.</NOTE><NOTE>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</NOTE><NOTE>Lacking B1, B7,8.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Magic --  Controversial literature.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2006-08</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2006-09</DATE><RESPSTMT><RESP>Apex CoVantage</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2006-10</DATE><RESPSTMT><RESP>Jason Colman</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2006-10</DATE><RESPSTMT><RESP>Jason Colman</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2007-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A19523">
+<STC T="S">5950</STC>
+<BIBNO T="umi">99840830</BIBNO>
+<VID>5368</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<PB REF="2" MS="y"/>
+<PB REF="2" MS="y"/>
+<PB REF="3"/>
+<P><PB REF="3"/>
+¶ A short treatise declaringe the detestable wickednesse, of magicall sciences, as Necro∣mancie. Coniurations of spi∣rites, Curiouse Astrologie and suche lyke. (:)</P>
+<P>Made by Francis Coxe,</P>
+<EPIGRAPH>
+<Q><BIBL>Esaia. <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>.</BIBL>
+Babell is fallen, it is fallen, and all: images of her hath he brokē vnto y<SUP>•</SUP> groi</Q>
+</EPIGRAPH>
+<EPIGRAPH>
+<Q><BIBL>Esaia. <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>.</BIBL>
+Thy filthines shalbe discouered, and t<GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/> shame shalbe sene. Stande now amon thyne enchaunters, and in the multitu<GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/> of thy sothsayers, &amp;c. Let now the Astr<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>logers, the starre gasers, and Prognosticatours, stande vp, end saue thee frō these thinges, &amp;c.</Q>
+</EPIGRAPH>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="4"/>
+<HEAD>¶ I. C.</HEAD>
+<LG>
+<L>FLe from the wrath that is to come</L>
+<L>You filthye adders broode,</L>
+<L>I cast that you perishe in your sinnes</L>
+<L>As giltie of your bloode.</L>
+</LG>
+<LG>
+<L>The wrath of God is kinde lid</L>
+<L>All suche to consume quite,</L>
+<L>That in the filthye soppes or dregges</L>
+<L>Of Egipt do delight</L>
+</LG>
+<LG>
+<L>Repent therfore I saye to you</L>
+<L>For mercye call betyme</L>
+<L>And learn to hate the stinkinge mud</L>
+<L>Uvhere wallow nune but swyne.</L>
+</LG>
+<LG>
+<L>Here maye you reade the wofull ende</L>
+<L>Of suche as wont to vse</L>
+<L>Those wicked artes that God abhorres</L>
+<L>In tyme suche then refuse.</L>
+</LG>
+<TRAILER>¶ Finis.</TRAILER>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="4"/>
+<HEAD>I. P.</HEAD>
+<LG>
+<L>YOu wicked rout of sorcerers</L>
+<L>For shame, your lyues amende</L>
+<L>Lest god doth pour such plages on you</L>
+<L>As neuer shall haue ende</L>
+</LG>
+<LG>
+<L>All suche he doth right sore abhor</L>
+<L>As scripture telth vs playne</L>
+<L>Repent therfore, and learns to hate</L>
+<L>These wicked artes, moste vayne.</L>
+</LG>
+<LG>
+<L>Let his sweet rod example be</L>
+<L>Of late, you saw did fall</L>
+<L>Into suche as profest the lyke</L>
+<L>Whome God now home doth call.</L>
+</LG>
+<LG>
+<L>Bring forth new frute, &amp; sob youre sinnes</L>
+<L>Lest dubble, ire doth light</L>
+<L>On you that do refuse Gods grace</L>
+<L>When haue the same you might.</L>
+</LG>
+<TRAILER>¶ Finis.</TRAILER>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="5"/>
+<HEAD>¶ To the good and gentle Reader.</HEAD>
+<P>ALthough, I lacke such eloquēce and learning, as is to be required in him, which should compile any work to y<SUP>•</SUP> prayse, or dispraise of a thig, yet for y<SUP>•</SUP> I haue my selfe ben an offender in these moste detestable sciences, against whome I haue compiled this worke, as Astrolo∣gie, Netroniancie, &amp; suche like: I thought it my parte, for. ij. causes principall, the∣same to do. Wherof the one is, y<SUP>•</SUP> I woulde it shoulde openly be knowen, howe wicked an offendor I haue ben, bothe towardes God, and the lawes of my prince, y<SUP>•</SUP> therby I might geue an occasion too all men, too laude and prayse God for his bountiful gif¦tes of grace, that when I deserued his eter¦nall ire: yet he by his gentle and sweet rod of correction, woulde call me agayne too y<SUP>•</SUP> state of saluation, from which I was fallē. And also, to blesse this God of merci, which hath apointed such a mercifull gouernor to rule and rayne ouer vs. Who as she is se∣uere to punish the obstinate and stubburne male factors, so vseth she clementie too the
+<PB REF="5"/>
+penitent trangresiors: whereof I of late sufficiently tasted, at what time I stode be∣fore her graces moste honorable counsayll to receiue determinate sentēce for my wic∣ked offences. The seconde cause of this my labor is: that I woulde deterre and feare away, all suche as yet do, or hereafter may by the craftines of Sathan be procu∣red to the lyke. Wherfore gentle reader, I moste haretly besech thee to take it in good parte whiche thinge, if thou shalt do: I haue my desire, who wis∣sheth thee the eternal peace of God.</P>
+<CLOSER><SIGNED>Francis Coxe.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="treatise">
+<PB REF="6"/>
+<HEAD>¶ In honore sanctissime Trinitatis.</HEAD>
+<P>AMongest other the Godly, hol∣some and profitable sayinges of the deuine Philosopher Plato: I call too my remembraunce this one, as moste ne∣cessarie for all Christians to be had in me∣morie, whiche is this. Non solum nobi∣nati sumus, sed ortus nostri partim pa∣tria sibi vendicat, partim parentes, partim amici (that is to saye) we are not born only for our selues, like brute beastes, to seke y<SUP>•</SUP> satisfiinge of our owne desire or lust: but of our birth (sayeth he) our contrye chalēgeth a parte, our parentes likewise, yea, &amp; oure frendes also. Wherefore to enioye any good, godly, or profitable thinges, or to re∣serue any benefit or gift, by the meanes of other, or through our owne trauels and di∣ligent labor (if the same by anye meanes maye seme to sounde to the glorie of God, the profit of our cōtry, parentes &amp; frendes) in withholdinge or keping backe the same, we shal not only trāsgresse y<SUP>•</SUP> cōmaūdmēts of almighty God, which comaūdeth vs to do as we wolde be don vnto: but also, if it shalbe well perceiued &amp; diligently marked of such as are wise &amp; lerned: we shal be foūd manifest robbers &amp; spoilers of y<SUP>•</SUP> high maie
+<PB REF="6"/>
+stie of God, which hath imparted his bene∣fites so liberalli vnto vs for y<SUP>•</SUP> setting forth of his glorie &amp; finally show our selues vnnatu¦rall, both to our cōtry, parēts &amp; frēdes, he∣wraieng our great ingratitude, not onely towards God: but also toward our cōtries. Amōgst (therfore) y<SUP>•</SUP> inestimable heapes of wickednes, sinne &amp; dānation, foreseinge y<SUP>•</SUP> proclinitie or redines of mē, how apt &amp; pro∣ne thei are to euel, &amp; also seinge very many to erre &amp; go astray, especially by one mea∣nes, wherby they detrude thē selues, euen doune to y<SUP>•</SUP> botōles lake of vnspekeable of∣fences, &amp; for so much as I my self haue beit, in y<SUP>•</SUP> like disceiued, yea &amp; had almost vtterli perished, had not y<SUP>•</SUP> almighty power of god by his ōnipotētie and gifts of grace called me back through most sweet &amp; gentle cha∣stisemēt. And also seing &amp; wel perceiuing y<SUP>•</SUP> craftines of wicked Sathā, who (as S. Pe¦ter testefieth) goeth about lyke a rorig Liō, seking whom he may deuour. To cause all toūges to land his eternal maiestie, which hath so renouated or regenerated me frō y<SUP>•</SUP> state of endles death, into the which I was almost slipt, to shew my self myndful ther∣fore of my loue &amp; duety towardes my cōtry and frendes, to whome next God and my prince I am moste chiefly bounden, and to
+<PB REF="7"/>
+aduoyde the filthy vice of ingratitude, then the which nothing cā wel be more odious: I thought it my part manifestly to declare and open the wickednes of those artes and sciences, which hath of late time to y<SUP>•</SUP> pro∣uocation of Gods wrath and almightie dis∣pleasure, ben had in suche estimation, yea, rather veneration, that without it y<SUP>•</SUP> whole state of men (except a few) would do in ma∣ner nothing, yea, it grew into suche credit with men, that not onely they iudged the course of naturall thinges therby to be go∣uerned, but also that parte which god hath and doth reserue to him selfe, and his deter¦mination, as the mynde of man, and suche like. Nay they seassed not here, but so blin∣ded and bewytched the wittes of men, that scant durst thei credit God him self, if it se∣med that their blinded prophesies any time woulde make contradiction. How wel this appeared in the yeare of oure Lorde God, 1559. at what time our most noble souerain began her Imperial gouernement &amp; raign ouer vs, all men maye iudge, and easelye perceiue. For although it was well knowē vnto all mē, what loue and godly zeale, her most royal maiestie had and did bear to the trew prophetes of God, his afflicted flock &amp;
+<PB REF="7"/>
+woorde of the crosse, yet did the people so wauer, the whole realm was so troubled &amp; so moued with the blinde enigmatical and deuelish prophestes of that heauen gaser Nostravamus, in such sort, that euen those whiche in their heartes coulde haue wis∣shed the glory of God and his worde moste florishing to be established: were broughte into suche an extreme coldenes of faythe, y<SUP>•</SUP> they doubted God hadde forgotten hys promise, yea, they hong so choysly betwéne the heauenly fountayne of hope, &amp; the bot∣tomlesse pytte of vtter desperation: that in doubt it was to which they woulde adhere or stick, so great was thinfectiō of this pes∣tilēciall poysoned lying prophesies. Of all poysons moste difficulte to auoyde by mea nes of the sweete and pleasaunte myxture therof, wherfore it may be called dulce ve∣nenū. Aswete and delicious poyson: but as the prouerbe sayeth, sweete meats haths sower sauce, so is this sweetnes tempered, with an euerlastinge bitternes or gall:</P>
+<P>For in these sciences Arologie, Geomācis, Necromancie and such like infinite, con∣tayned vnder the general name of Magick but especially Necromancy, of which here chiefly I purpose to speake, is one thinge
+<PB REF="8"/>
+<GAP DESC="duplicate" EXTENT="1 page" DISP="〈1 page duplicate〉"/>
+<PB REF="8"/>
+<GAP DESC="duplicate" EXTENT="1 page" DISP="〈1 page duplicate〉"/>
+<PB REF="9"/>
+promised: but an other performed, for why lest they seke ryches: they finde beggerye, for hope of good reporte: they haue euel fa∣me &amp; open shame, for health: diseases and grief, for quyet myndes: wandring wittes. Of Christians: they becomme infideles, <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>urninge the temple of y<SUP>•</SUP> holy Ghoste into <GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>agoge of Sathan. Therfore deare cō∣trymen, flee frome these mooste wicked and damnable sciences of diuination, ma∣nifestly prohibited, by the sacred Scriptu∣res and eternall woorde of God, lette the loue of him, whiche for thy sake sweate bothe water and bloudde, and had his flesh rent vpon a crosse, cause thee to withdraw thy mynde from the snares of vtter des∣payre. But if that maye not preuayle with thee: let the feare of reuenge, at least wise abate thy corage therin, and learne this lesson. Felix quē faciunt aliena peri∣cula cautum. Happye and fortunate are thei, whome other mens harmes, do cause to be ware.</P>
+<P>The God of Godds who suffereth no good deed tobe vnrewarded, no wicked offence vnpunisshed (whiche hathe said heauen and earth shall perish, but his word shall en∣dure) hath not only manifestly in diuers &amp;
+<PB REF="9"/>
+sundry places of the scriptures forbidē the vse and exercise of suche curious sciences: but also hath appointed sharp punishment to the vsers thereof, that is no lesse then death.</P>
+<P>This godly and wholsom law was in tyme past executed within this realme, by the terrour whereof, many were feared from these practises, But now whilest this lawe for lacke of execution hath lyen a slepe, and thoffendors nothinge punished: it was in suche sorte encreased, that it was made a berye handycrafte, so that manye lyued therby, yea, &amp; thought they did as honestly gette and gather their substaunce: as he, whiche dayly swet for the same.</P>
+<P>The people were growen vnto suche a folly, that scant wolde thei ryde or go anye iorney: onelesse thei cōsultide, either with these blynde prophetes, or at the least with their prophecies, whiche yearly to no litle hurt, bothe in the fayth of Christ, &amp; wealth of the realme, were without all shame de∣uulgid.</P>
+<P>What hurt it did in the faith before I haue shewed, what damage it procurid to y<SUP>•</SUP> com∣mun wealth, mai easly be iudged, for what
+<PB REF="10"/>
+with their comminacions of warres, and dearth, they so tickled the myndes of vnsa∣tiable niggards, that without al neede, euē a middest the plentye: we liued yet in pen∣<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>urie. Wel, to my purpose, I promised to open the wicked and blasphemous secretes of these deuelish sciences. And although I bende my selfe wholy to write agaynste y<SUP>•</SUP> superstitious and hellishe practises of Ne∣cromancie, I do not exempte the curious parte of Astrologie, frome the number of them: whose vtter deuastation and cōfoū∣ding before God, I most earnestly desire &amp; wishe, for this I am able to iustifie, &amp; haue the like in my selfe experimented, that of a truthe it is Malorum esca, the very bayte or trayne to fer greater mischeues. Neuer was there any that coulde yet holde hym selfe content with the simple knowledge of Astrologie: but wolde wade furder in those sciences of prediction, hauing this as <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> grounde worke to ser hygher matters. I neede not here to speake any more of it, for who list to reade the commendable worke of fulce, vttered too the same intent, shall finde of what force it is. But this I knowe that what euer is conteyned within their bokes, whiche they esteme, as principall
+<PB REF="10"/>
+rules and pillers of their knowledge to be nothing els but meare fables, and toyes, &amp; that in them there is no truth at all. Expe∣rience therin haue I had diuers and sondry kyndes, not by the iudgement of one or .ij. but a number, yea, euen of the chefest and mooste experte, amongest whome I shall recyte the iudgement of one, &amp; forme of his calculation. The question was moued for stolen goddes, the houre was by an instru∣ment exactly takē, the Astrologer draweth the fourme of y<SUP>•</SUP> .xij. houses, &amp; so calculateth for the time, which had, he domineth, now in his forsayde calculation moued w<SUP>t</SUP> talke, and forgetting hym selfe (as he afterward confessed) where he shoulde haue subtrac¦ted: he added, and by that meanes placed y<SUP>•</SUP> signe that shoulde haue ben ascendinge: in the .vii. house, and so contrarely, that signe whiche shoulde haue ben in the .vij. house placed he in the firste, wherby all his work was turned vpsidedoun, &amp; as we properly terme it, the carte set before the horse, yet he not finding this his great errour, gaue iudgement, that it shoulde be had agayne, so fell it out, that it was recouered. Wher∣vppon maye easly be gathered, that if he had calculated right, according to the rules
+<PB REF="11"/>
+of arte, he shoulde haue quite missed the cus¦shion.</P>
+<P>O how certayn a science is this trow ye, and of how good a grounde? Yet will they presume to enter in iudgements of the se∣crete motions of men, whiche God hath re¦serued to his owne proper knowledge. I wolde suche did remember this disticon of wise Cato.</P>
+<P>Mitto arcana dei celūq{que} inquirere quid fit?</P>
+<P>Cū sis mortalis que sunt mortalia cures. He teacheth them wherein to be accupied, and not to medle with y<SUP>•</SUP> misteries of God. Yea, this he sayeth more vnto them, euē in the same boke folowing thus.</P>
+<P>Quid deus intendat, noli perquirere sorte</P>
+<P>Quid statuat de te, sine te deliberet ipse; These are the presumptious imps of Sa∣than, which cā not yet be cōtēt here to seke out according to y<SUP>•</SUP> hardnes of their hearts, (as Paul to the Romains the .ij. Chapter te∣stifieth) sease not to heap vnto them selues; wrath, against the day of wrath. For y<SUP>•</SUP> star¦res &amp; skyes are not sufficiēt for their future prediction: but they muste adioyne there∣vnto moste detestable partes or societye with spirites. Which thing, when they go about, &amp; wolde haue any thing broughte to
+<PB REF="11"/>
+effect, they do it by one of these .ij. meanes: either besides the horrible &amp; greuous blas∣phemies, thei commit in their cōiuratiōs, thei must fall to some cōpositiō w<SUP>t</SUP> y<SUP>•</SUP> deuell, that is too promise him for his seruice, he wil abstayn frō wynes, or some certayne meates, or drinkes. As I my self knew a Priest, not farre frō a toun, called Bridge∣water, whcih as it is wel knowē in the con∣trye, was a great magiciā, in all his lyfe time, after he once begā these practises, he neuer wolde eat bread, but in stede thereof did eat always chese, which thing as he cō∣fessed diuers times, he did because it was so cōcluded betwene him &amp; the spirit, which serued hī, for at what time he did eat bread: he should no lōger lyue. Yea, he wolde not blusshe to say y<SUP>•</SUP> after a few years he should dye, &amp; that the deuel for his payns y<SUP>•</SUP> he toke with him, should haue in recōpēce his soul. O moste miserable mā &amp; wretched creatur that wolde in hope of any earthly treasure: forsake his Lord, &amp; God, which had so ten∣derly bought him. These are thei, of whom Paul speaketh in his .vi. &amp; .x. chapters to the Hebrews, these are thei y<SUP>•</SUP> crucifie Christs agayn vnto them selues, and therfore it is impossible, they should be reuewed agayne by repentaunce.</P>
+<P><PB REF="12"/>
+The seconde waye, whiche is as euel as the firste, or rather worse: is thus. For whē the spirite is once come before the circle, he forthe with demaundeth the exsorciste a sa∣crifice, whiche moste commenlye is a pece of waxe cōsecrated, or hallowed after their owne order (For they haue certayn bokes, called bokes of consecration) or els it is a chickē, a lapwing, or some liuinge creatur, whiche when he hath receyued: then doeth he fulfill the mynd of the exsorcist, for one∣les he hath it, he will neither doe, neither speake any thinge. Of this testefieth bacon in his boke of Necromancie, where he tel∣leth also this storie. After so long tyme tra¦ueled in these sciences, at last ioyned hym selfe with a Turke, whiche was moste ex∣cellētly sene therin, and longe conferring together: they wente aboute too call a certayn she deuell, named Egippia, which spirite wolde by no meanes make theym aunswer to any their demaunds, where∣vppon Bacon, whiche knewe that no∣thinge coulde be done withoute sacrifice: cruseth the Turke to be baptised, and after the baptisme, they both entred the circle &amp; called the spirite, whiche when she came: for all their conuirations she woulde not</P>
+<GAP DESC="missing" EXTENT="1 page" DISP="〈1 page missing〉"/>
+<P><PB REF="12"/>
+God of his iustice cā neither leaue y<SUP>•</SUP> work∣maister, neither yet him that seketh to any suche for helpe, vnpunished. For as wel de¦serueth he execution that seketh to theym: as they them selues.</P>
+<P>Example of this: we haue in the firste boke of Samuel. called communly the first boke of the Kinges, in the .xxviij. Chapiter. For after y<SUP>•</SUP> Saule went once to wytches &amp; sorcerers to learn his state: God gaue him vp quite into vtter ruin. If then he were so precise with his owne peculier people, that the spared not their kinge and annointed: what will he do vnto vs? How muche more thinke ye will he execute his righteous iud¦gementes on vs, that are but the braūches of the wylde Olyue tree, grafted in by his mercye and grace?</P>
+<P>I can not se how they maye excuse them selues of cryme by Goddes woorde, that either seke too them or procure theym too worke, for bothe, by the scripture deserue lyke payne, and punishement. Yea, the Deuell hym selfe is of that condicion, that he will not suffer them longe to reyg<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/> that vse him as an instrument for their ne∣cessities.
+<PB REF="13"/>
+I remembre a very notable historie writtē in Frosarte; but the tyme is so long since I read it, I wel remēbre not the place, but who so listeth to loke in y<SUP>•</SUP> tables of his bo∣ke: maye easly finde it, where he writeth of Orthō a spirite. Theffect is this, a prieste &amp; a certayn gentleman, falling at variaūce, and the gentleman seming styll too perse∣uer in his purpose: the priest to abate hys corage, and to make him yeelde: sendeth vnto him the foresayde spirite Orthon, to molest and trouble hym, whiche comming about the quyet tyme of the night, whē all things are moste styllest: he clappeth the wyndowes and dores, as though he wolde haue toren them to peeces. The gentlemā, regardeth it not, the next night he doth ly∣kewise, but a great deale more fearsly, in so muche that it seemed he wolde haue en∣tred the gentlemans bed chaumbre, wher∣withall his spirites moued: soddenly asked who was there. The spirite aunswereth, &amp; telleth his name, &amp; sheweth hym frō whom he was sent, and to what ende as is afore∣sayde. Well sayeth the gentle man, wilt thou be contētid to serue me, and leaue thy maister the priest? He aunswereth yea, and so they concluded. The office of this spirite
+<PB REF="13"/>
+was to bring hym newes oute of all places of the worlde what was done, within the space of .xxiiij. houres, whiche thing he did.</P>
+<P>After a whyle, this gentleman beinge very desirouse to se his new man (for as yet though he hearde him, he neuer sawe hym) requested him earnestly that he mighte see hym, whiche thinge at the laste he graun∣ted (and sayeth) when ye arise in the mor∣ninge, the firste straunge thinge you se, af∣ter you be vp: the same is I, so he departed. In the morninge the gentleman arisinge and casting on hys nighte goune, he might se three russhes stande vprighte, and moue informe, as though they daunced the haye, but this pleased him not, wherfore at night when he came to him agayne, he chalen∣geth the spirite with the breache of hys promise, whiche he coulde in no wise a byde, for though he be neuer so vntrewe, &amp; deceitfull: yet may ye not charge him ther∣with. And therfore asketh his maister what straunge thinge he sawe? he aūswered no∣thinge but .ij. or .iij. russhes driuē vp &amp; doun with a wynde.</P>
+<P>The same quod Orthen was I. Naye sayeth his maister, I woulde se the more neare thy shappe, whiche after earnest re∣quest
+<PB REF="14"/>
+he graunted, and sayeth, the firste ly∣uing thinge that ye se out of youre gallery in the morninge in youre courte: the same am I.</P>
+<P>The morninge comming he goeth vntoo his gallery, whiche loketh into his courte, and beholde, there he sawe the mōsteroust sowe and leane, that coulde be, wherupon moued with the sight, caused dogges to be set at her, and so he bayted her, but imme∣diatly he falleth sicke, and so from tyme to tyme, pyneth awaye.</P>
+<P>A worthy seruaunte too serue a noble man, full well he rewarded hys maister in the ende. Neither was it any otherwais but as they are wonte all to do.</P>
+<P>For thys is no new or rare thinge amongest those that vse societie with De∣uelles, for all haue the like ende, though not after one forme, yet to one effecte. Bakons ende was muche after the lyke sorte, for hauinge a greadye desire vntoo meate: he coulde cause nothinge to enter the stomack, wherefore thus miserablye he sterued to death.</P>
+<P>Cornelius Agrippa, of whome all the
+<PB REF="14"/>
+worlde speaketh, whose woorkes remayne vnto this daye, of whose ende are diuerse opinions, some rumors haue ben, that whā he rode abrode, he had alwayes a blacke dogge, waytinge vpon him, whiche dogge one day in iourneinge: caryed hym awaye body and soule, some say that the sworde se¦perate his headde from the bodye, soo that hys ende is vncertayne and moste like it is that he endid after some straunge sorte, that the trueth therof is no more manifest.</P>
+<P>Fabiane in hys Cronicles, the seuenth parte. and where he writeth of Carolus the eyghte, speaketh of a certayne mayde, ex¦perte in these sciences, called La pucelle de dieu, that is too saye: the mayde of God, who by her knowledge caused the French∣men marueylouslye too preuayle in their marciall affaires, as more copiously doeth in the alleged place appeare.</P>
+<P>But almightye God, whiche for<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> <GAP DESC="illegible" EXTENT="3 letters" DISP="•••"/>∣son suffereth suche sorcerye and dyuelishe wayes too prospere and raygne, too the correction of sinners: lastely too showe hys power, and that no good Christen menne shoulde falle intoo anye erroure:
+<PB REF="15"/>
+he sheweth the clearnes of suche misticall thinges, and so he did in this, for she by a knight Burgonion was taken, and after sent to Roane in Normandye, too the duke of Somerset, and there brente, for her de merites.</P>
+<P>Sainct Dunstane (of whom Bale in his boke intituled the actes of the English vo∣taries writeth sufficiently, beinge one of this sorte and facultie, after diuers &amp; son∣dry prodigeous signes in the element sene: departed this lyfe, a swarme of deuels cō∣uaying away hys corps.</P>
+<P>Ihon Grecian, that coniuringe Pope, after he had doon many deuelish thinges, as testifieth Martin{us} Carsulanus &amp; Plati∣na in vitis Pontificum: was of the deuell (as he was dooinge his feates in a forest) strangled to death.</P>
+<P>What maye we saye of Stansholde of late time, whiche was experte in these sciē∣ces, whiche for robbinge of a colledge, in the vniuersitie of Oxforde, was hanged at the townes ende for his demerites. Many haue ended their lyues after these &amp; suche lyke sortes, of whome if I shoulde write: it wolde conteyne an infinite volume, and that is most horrible, where thou seest one
+<PB REF="15"/>
+repent: a numbre are soo soddenly taken, that they haue no tyme of repentaunce.</P>
+<P>Wherefore I saye to suche of that sorte, repent and amēde your lyues, you Adders brode, and learne by hym that hath felt the smarte, to fle from greater mischeues too come, for euen now is the axe put vnto the rote of the tree, therefore deferre no tyme. And now<GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/> th<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>e that hereafter shalbe moued by the prouocation of the deuell, ei∣ther to practice the lyke, or to seke for coun¦sayll or aduice of them that do vse and prac¦tise these blasphemous sciences: knowe ye, that euen as the good corne is with the fan purged from the chaffe: so all those be sepa¦rated from the elect and chosen of God, as in the former parte of my treatice, I she∣wed by thexample of kynge Saule.</P>
+<P>God him selfe hath promised in his most holy and sacred scriptures no lesse to do, &amp; also for the punishment of suche, hathe by his owne decre, in the .xx. of Leuiticus ap∣pointed sharpe correction, sayinge. And if a man or woman haue a spirite of diuina∣tion or sothsaying in them: they shall dye the death, they shall stone them to deathe, their bloudde shalbe vpon them.</P>
+<P>A moste worthy punishemente for suche
+<PB REF="16"/>
+rebellious traitours. For if we iudge him worthy of death that euel reporteth of an earthely prince: what shall we saye by him that blasphemeth the kynge of all kinges, his Lorde and onely sauiour? They can not saye that ignoraunce is y cause of their euel disposed lyfe, for God hath manifestly forbidden the vse therof, not in one, or two places: but in sondrye.</P>
+<P>Thus he sayeth Deuteronomie the .xviii. when thou shalt come into the lande, which the Lorde thy God geueth thee: thou shalte not lerne to do after the abhominations of those nations, let none be founde amonge you that maketh his sonne or his dough∣ter to go through the fyre, or that vseth wytheraft, or a regarder of times, or mar∣ker of the fleinge of foules, or a sorcerer, or a charmer, or y<SUP>•</SUP> counsayleth with spirites, or a soothsayer, or that asketh counsayll at the dead. For all that do suche thinges, are abominatiō vnto the Lorde. &amp;c.</P>
+<P>Lo, here he not onely forbiddeth the vse: but commaundeth that those, whiche wilbe his people, and of his flocke: shall not seke helpe at the sorcerers handes. Rede the. xxx of the prophet Isaiah, and ther shal ye find,
+<PB REF="16"/>
+how he reproueth the chyldren of Israell for sekinge too the Egiptians for helpe, who were counted experte in deuelishe ar∣tes. Ieremiah in hys .x. Chapiter sayeth: Heare the worde of the Lord that he spea∣keth vnto you: O house of Israell.</P>
+<P>Thus sayeth the Lorde, learne not the waye of the Heathen, and be not a fearde for the signes of heauen, thought the Hea∣then be afrayde of suche, for the customes of the people are vanitie. O how directé are the lawes of the Lord? how playne are his pathes? how swete are thei to them that fulfille them, for it preserueth them from endles deathe and payne.</P>
+<P>If we do embrace and folowe theym, we shall not only be sure here in this world to lyue withoute dredde or feare, safe from oure enemies, both boddely, and ghostely: but after this lyfe, we shalbe crouned with the croune of euerlastinge ioye, and felici∣tie.</P>
+<P>Where as the contrarie, and suche as will take no admonission, but lyue inordina∣tely, shalbe condemned to euerlasting ter∣rour, whose tormentes, no tonge is able to expresse.</P>
+<P><PB REF="17"/>
+This God of mercye hathe offred hys grace, wherfore refuse it not, but with all humble heartes embrace it, beseching him so to strengthen you with his holy spirite, that this lyfe endid, we maye heare thys confortable sayinge of oure Sauioure: Come ye blessed chil¦dren of my Father, possesse ye the kyngedome, pre∣pared for you, frō the beginning of the worlde. Too the which Father, Sōne, and holy Spi∣rite, be eternall lau∣des, prayses, empire, and glorie, worldes without ende.</P>
+<CLOSER>AMEN.</CLOSER>
+<TRAILER>¶Finis.</TRAILER>
+<PB REF="17"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

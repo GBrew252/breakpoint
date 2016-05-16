@@ -1,0 +1,5963 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">Latine songs with their English, and poems by Henry Bold ... ; collected and perfected by Captain William Bold.</TITLE><TITLE TYPE="alt" I2="0">Carmina et poemata. English &amp; Latin</TITLE><AUTHOR>Bold, Henry, 1627-1683.</AUTHOR></TITLESTMT><EXTENT>Approx. 174 KB of XML-encoded text transcribed from 95 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2004-11 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A28578</IDNO>
+
+
+<IDNO TYPE="stc">Wing B3471</IDNO>
+
+<IDNO TYPE="stc">ESTC R18326</IDNO>
+
+<IDNO TYPE="eebo citation">12212563</IDNO>
+
+<IDNO TYPE="oclc">ocm 12212563</IDNO>
+
+<IDNO TYPE="vid">56336</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A28578)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 56336)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 127:9)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">Latine songs with their English, and poems by Henry Bold ... ; collected and perfected by Captain William Bold.</TITLE><TITLE TYPE="alt" I2="0">Carmina et poemata. English &amp; Latin</TITLE><AUTHOR>Bold, Henry, 1627-1683.</AUTHOR><AUTHOR>Bold, William.</AUTHOR></TITLESTMT><EXTENT>[12], 164 [i.e. 176] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for John Eglesfield ...,</PUBLISHER>
+<DATE>1685.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Includes the ballad, Chevy Chase, and Suckling's poem, Why so pale and wan fond lover? with Latin versions by Bold. Cf. DNB.</NOTE><NOTE>Reproduction of original in Folger Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2004-02</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2004-03</DATE><RESPSTMT><RESP>SPi Global</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2004-07</DATE><RESPSTMT><RESP>Rachel Losh</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2004-07</DATE><RESPSTMT><RESP>Rachel Losh</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2004-10</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A28578">
+<STC T="W">B3471</STC>
+<BIBNO T="oclc">12212563</BIBNO>
+<VID>56336</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>Latine Songs, With their ENGLISH: AND POEMS.</P>
+<P>By <HI>HENRY BOLD,</HI> Formerly of N. Coll. in <HI>Oxon,</HI> after∣wards of the Examiners Office in Chancery.</P>
+<P>Collected and perfected by Captain <HI>WILLIAM BOLD.</HI></P>
+<Q><BIBL>Hor. 2. L. 2. Ep. 11.</BIBL>
+<L>Singula de nobis, Anni predantur euntes,</L>
+<L>Eripûere Jocos, Venerem, Convivia, Ludum,</L>
+<L>Tendunt extorquere Poemata: Quid faciam vis?</L></Q>
+<P>LONDON, Printed for <HI>John Eglesfield</HI> Bookseller at the <HI>Marigold</HI> near <HI>Salsbury Court</HI> in <HI>Fleet-street.</HI> MDCLXXXV.</P>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>EPISTLE TO THE READER.</HEAD>
+<OPENER><SALUTE>Benevolous Reader,</SALUTE></OPENER>
+<P>IN the Revolution of this little Volume, you will encounter se∣veral intervening Causes of observation, and other accidents of such nature in these times that may move thee even to admiration; as First, That these Papers have layn so long Conceal'd before their appearance in Puqlick they being of such value, so much desired and Ex∣pected, by all Ingenious men of all degrees, Especially, those who had a knowledg of the Author, which scruple thus I answere. First, That the Author Composed many of these
+
+
+<PB REF="3"/>
+things to gratify the Commands of his Superiours, or the Request of his Friends or Acquaintance, as <HI>Chevy-Chace</HI> for the <HI>R.R.</HI> the Bishop of <HI>Lon∣don;</HI> and some for other Honoable Per∣sons, &amp; some for his own humor, or his Fa∣miliar Friends, and these he distributed according as they were related in the first fair Corrected Copy, and left nothing in his own Custody but indigested, foul, torn, scattering Papers, and those in such disorder, that, after they came to my hands, (though kept together with all the care could be improv'd, yet) of some Songs it may be one <HI>Canton</HI> came to my hand as this day, and peradventure (five Months after) I might be so fortunate as to get the rest, or most part of it together, and some utterly disjointed till reduced as they now are (I hope) not very lamely by my weak Genius. Another obstacle my
+
+
+<PB REF="3"/>
+unacquainted and stranger Interest with many who were of his Intimacy, so that I could not retrive many whole Copies that I have only heard of, but never get the posession of them, Therefore it is desired of all Gen∣tlemen who have any of the Authors Latine Songs or Verses which are not found in this Impression, that they will be pleased to bring or send Copies of them to Mr. <HI>John Eglesfield</HI> Book∣seller, at the Sign of the <HI>Marigold</HI> in <HI>Fleet-Street London,</HI> whereby to incourage another Edition, and it shall be received as a great Favour and Civility by the Publisher, and a worthy gratitude to the memory of the Deceased Author. Some again, were very hardly recovered out of the hands of an illiterate welch Cook wench, who had designed to sacrifice them to the hoary Hen on the Spit, in which service two of these (the one begining <HI>Absit
+
+
+<PB REF="4"/>
+maetus phantasticus,</HI> and another begining, <HI>Schismaticis ex omnibus</HI>) lost all their English Tongue. A∣nother attractive of Admiration is, that you find a thing of this nature and valew, (a work never seen Printed in <HI>England,</HI> or (that I ever heard of) in any part of the World beside before this) should pass the Press without the Patronage of some worthy Maecenas. To which I answer, that among some of the Authors Papers, I found a preparative Dedication (provided he had lived to Print them himself;) to a Person of Quality, who was a most Constant Countenancer of the Authors Muse, while he was living. To this Person I did address my self. And desired, that, for his dead Friends sake he would be pleased to accept it, but he return'd me with this modest Complement, <HI>Detur Digniori,</HI> now since I had no pretentions to Intitle
+
+
+<PB REF="4"/>
+this Book mine own I sought no farther into the Catologue of mine own Friends: Thus (kind Reader) thou seest it comes to thy hands in a blew Coat without a Badg, I hope thou wilt use it more Favourably then to reject it before thou knowest what it is, but as thou findest it let it suffer, without straining thy Judgement or Censure.</P>
+<CLOSER>Farewell.</CLOSER>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="5"/>
+<HEAD>To my Worthy Friend Captain <HI>William Bold,</HI> on his Col∣lection of his Brothers Latine <HI>Songs,</HI> &amp;c.</HEAD>
+<L>HEaring y'had undertaken to Collect</L>
+<L>These scatter'd Papers, which none could Expect,</L>
+<L>Should e're in bulk have view'd the World again</L>
+<L>But like their Author in the Grave remain,</L>
+<L>And wrapt in Flannel under Earth have lain.</L>
+<L>A Task so difficult, I durst believe,</L>
+<L>(But his own Genius,) none could e're retrive,</L>
+<L>Yet those have seen them loose, in their first birth,</L>
+<L>Doe know they've nothing lost of native worth.</L>
+<L>Therefore I could not choose but entertain</L>
+<L>With Joyful welcome this your generous vain,</L>
+<L>That raises <HI>Harry</HI> from the dead again.</L>
+<L>'Twas such a kindness to forlorne thoughts,</L>
+<L>(Past Expectation) none could e're have brought's,</L>
+<L>But such industrious studdies yours have been,</L>
+<L>You have in this reviv'd both us and him.</L>
+<L>When Songs &amp; Verse, that in their kind were good</L>
+<L>By times &amp; fashions, as condemned stood,</L>
+<L>For want of polite Phrase, and modern guise</L>
+<L>Scarce 'scap'd the Execution, or th' Assize.</L>
+<L>Your Brother took them home, and by his Care,</L>
+<L>Nurs'd them so well, that still they living are,</L>
+<L>
+
+<PB REF="5"/>He taught them speak so Elegant and true,</L>
+<L>Their language Carries them the World quite through,</L>
+<L>His Charity in that was great, but now</L>
+<L>We all receive the benefit from you.</L>
+<L>Like Pilgrims, singly he abroad them sent,</L>
+<L>But you have brought them into one Convent.</L>
+<L>Where cloyster'd by your care they now shall live,</L>
+<L>And when y'are dead your memories revive.</L>
+<L>Your Brothers, as their Founder and Instructer,</L>
+<L>Yours, as their <HI>Quaestor</HI> and Chief Benefactor.</L>
+<L>As pious works do speak their Founders stories,</L>
+<L>These sheets are fixt your Monumental Glories.</L>
+<CLOSER><SIGNED>G. H. hosp. Gray▪</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="6"/>
+<HEAD>TO CAPT. <HI>WILLIAM BOLD</HI> ON HIS Collections▪ &amp;c,</HEAD>
+<L>FUll of faint hopes, and fears the World hath been,</L>
+<L>That these sweet measures, were no sooner seen</L>
+<L>In publick sheets, which so long lost have lain</L>
+<L>In private hands disperst, and void of name,</L>
+<L>Like Embrions which are stifl'd e're their birth</L>
+<L>Are only pitty'd and return'd to Earth,</L>
+<L>Of fostring neither capable or worth.</L>
+<L>And these loose Papers a like fortune had,</L>
+<L>If by your Care and Industry not made</L>
+<L>A Ripe and full grown birth; which sure must be</L>
+<L>Of e'ry spritely wit the Nursery,</L>
+<L>The Bosom friend, and welcome pocket Guest,</L>
+<L>Of all Ingenious Company a Feast;</L>
+<L>Who is't that would his fancies recreate</L>
+<L>With an old Song, by time worne out of date,</L>
+<L>Yet 'cause he Loves the Humor, or the Tune,</L>
+<L>Would not be laught at by the boys o'th' Town,</L>
+<L>
+
+<PB REF="6"/>Here, he may find a Remedy at hand,</L>
+<L>And please himself, when few can understand</L>
+<L>How neately he doth put the change upon</L>
+<L>Old <HI>Chevy-Chase,</HI> or new, <HI>Nay prithee John.</HI></L>
+<L>Being thus provided of quaint Phrase in Ryme,</L>
+<L>Youth may improve their knowledg, mirth &amp; time</L>
+<L>If riper years will have a Round or Catch,</L>
+<L>Here's that which will their frolick humor match,</L>
+<L>If frail conceit lye couch'd in any place,</L>
+<L>Here's language gives it modesty and grace.</L>
+<L>How basely then, had these rich lines been left</L>
+<L>An Embrio, of form and life bereft.</L>
+<L>Had you not found a means to bring to light,</L>
+<L>What had been swallow'd in e'rlasting night.</L>
+<L>For, <HI>Harry,</HI> careless of what he had done,</L>
+<L>At's Friends request, to's Friend he left alone</L>
+<L>And thought it was his Friends, and not his own.</L>
+<L>Never reserving Copy well Corrected,</L>
+<L>But some few scatter'd notions quite neglected,</L>
+<L>VVithout concern, or thought of such a miss</L>
+<L>H'has sent for Copies to that Friend of his,</L>
+<L>Distant an hundred miles, so to retrive</L>
+<L>Forgotten lines which he did make and give,</L>
+<L>So that you surely found them halt and lame,</L>
+<L>Some torn in wretched Rags and tatters came,</L>
+<L>Some wanting Digits, some had lost a Foot,</L>
+<L>But by your care and skill, you holp'd them to't;</L>
+<L>
+
+<PB REF="7"/>And we ackowledg your Labours have been great,</L>
+<L>Of such lame limbs to make a Corps compleat,</L>
+<L>And now, devoting these your studies thus,</L>
+<L>In raising these, you raise both him and us.</L>
+<CLOSER><SIGNED><HI>M. B.</HI> Oxon.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 LANG="eng" TYPE="version">
+<PB REF="7"/>
+<PB N="2" REF="8"/>
+<HEAD>SONGS AND POEMS.</HEAD>
+<DIV2 N="1" TYPE="song">
+<HEAD><HI>SONG</HI> I.</HEAD>
+<LG>
+<L>GOod your Worship, cast your Eye</L>
+<L>Upon a Souldiers misery,</L>
+<L>And let not these lean Cheeks (I pray)</L>
+<L>Your Bounty from a Souldier fray.</L>
+<L>But like a noble Friend,</L>
+<L>Some Silver lend,</L>
+<L>And <HI>Jove</HI> shall pay you in the End.</L>
+<L>And I will pray to Fate</L>
+<L>To make you Fortunate</L>
+<L>In Heavenly and in Earthly State.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>I never was wont to beg (Good Sir)</L>
+<L>Which makes me Blush to keep this Stir,</L>
+<L>I never went from place to place,</L>
+<L>For to make known my woful Case:</L>
+<L>
+
+<PB N="4" REF="9"/>Oh I am none of those,</L>
+<L>A Roguing goes,</L>
+<L>And Maundring shew their Drunken-Blows,</L>
+<L>Which they have only got,</L>
+<L>By banging of the Pot,</L>
+<L>And Quarelling to pay the Shot.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>But I who Limp thus Wars have seen,</L>
+<L>And in brave Battles have I been;</L>
+<L>Still where the Cannons Us'd to Roar,</L>
+<L>My proper Sphear was Evermore.</L>
+<L>Once at a Barricado,</L>
+<L>In Bravado</L>
+<L>Tossing of the Hand-Granado,</L>
+<L>Death was very near,</L>
+<L>For it took away mine Ear,</L>
+<L>And yet (thank God) Ch'am here, Ch'am here.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>I have at least a dozen times</L>
+<L>Been blown up by these Roguish mines,</L>
+<L>Thrice through the head I have been shot</L>
+<L>My Brains have boyl'd up like a Pot,</L>
+<L>And being left for Dead</L>
+<L>When all were Fled,</L>
+<L>They sent me back again to Bed.</L>
+<L>Those dangers I have past</L>
+<L>From First to Last</L>
+<L>Would make your Worship sore agast.</L>
+</LG>
+<LG N="5">
+<PB N="6" REF="10"/>
+<HEAD>V.</HEAD>
+<L>At push of Pike I lost this Eye,</L>
+<L>At <HI>Bergen</HI> Seig I broke my Thigh:</L>
+<L>At <HI>Brussels,</HI> (though a very Lad)</L>
+<L>I laid about as I were Mad.</L>
+<L>Oh little would you Ween</L>
+<L>That I have been</L>
+<L>Such an old Souldier of the Queen;</L>
+<L>But if Sr. <HI>Francis Vere</HI></L>
+<L>Were living now and here</L>
+<L>He'd tell you how I Slash'd them there.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>The <HI>Zealanders</HI> my Fury know,</L>
+<L>Lost with them have Chang'd a blow,</L>
+<L>From whence we led a Warlike dance</L>
+<L>Out of <HI>Spain</HI> and into <HI>France,</HI></L>
+<L>Where we have spent a Flood</L>
+<L>Of very noble Blood,</L>
+<L>And did but very little Good;</L>
+<L>And now I am come Home</L>
+<L>With Rags about my Bum,</L>
+<L>To beg of you for this small Sum.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>And now my case you Understand,</L>
+<L>Good Sir lend me your helping Hand:</L>
+<L>A little thing would pleasure me,</L>
+<L>To keep in Ure your Charity,</L>
+<L>
+
+<PB N="8" REF="11"/>Oh! 'tis not bread and cheese</L>
+<L>Or Barly leese</L>
+<L>Or any such like Scraps as these</L>
+<L>That I do ask of you,</L>
+<L>But Shillings one or two,</L>
+<L>Therefore your purse-strings straight undo.</L>
+</LG>
+</DIV2>
+<DIV2 N="2" TYPE="song">
+<HEAD><HI>SONG</HI> II.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>DAme Fortune if thou want'st a guide,</L>
+<L>I'le tell thee how thou maist divide,</L>
+<L>Distribute unto each his due,</L>
+<L>Justice is Blind and so are you.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>To the Usurer this doom impart,</L>
+<L>May's Scrivener break, and then his Heart▪</L>
+<L>His Debtors unto beggary fall,</L>
+<L>Or what's as bad turn Courtiers all.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Unto Tradesmen that sell too dear,</L>
+<L>A long vacation all the Year!</L>
+<L>Revenge us thus on their deceits,</L>
+<L>And send them Wives, light, as their Weights.</L>
+</LG>
+<LG N="4">
+<PB N="10" REF="12"/>
+<HEAD>IV.</HEAD>
+<L>And lest the Players should grow poor,</L>
+<L>Send them Aglaura's more and more,</L>
+<L>Unto the Puritans more Ears,</L>
+<L>Then <HI>Ceres</HI> in her Garland wears.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>But Fortune how canst recompence,</L>
+<L>The French mens daily insolence?</L>
+<L>For them I know no greater pain,</L>
+<L>Then to be sent to <HI>France</HI> again.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>To the Physician (if you please)</L>
+<L>Send him another new disease,</L>
+<L>And give to Scholars (if thou canst do't)</L>
+<L>A Benefice without a suit.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>To Court Lords great Monopolies,</L>
+<L>And to their Wives Communities,</L>
+<L>So Fortune shalt thou please them all,</L>
+<L>When Lords do rise and Ladies fall.</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>Unto the Lawyers (I beseech)</L>
+<L>As much for silence as for speech▪</L>
+<L>To Ladies Ushers strength of Back</L>
+<L>And to my self a cup of Sack.</L>
+</LG>
+</DIV2>
+<DIV2 N="3" TYPE="song">
+<PB N="12" REF="13"/>
+<HEAD><HI>SONG</HI> III.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>SIT thee down by me (mine own) Joy</L>
+<L>Thou'lt quite kill me should'st thou prove Coy,</L>
+<L>Should'st be Coy, and have none of me,</L>
+<L>Where should I have such another Lass as thee.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>I've been at Wake, and I've been at Fair,</L>
+<L>Yet saw not one, with thee to Compare.</L>
+<L>Long have I sought, but ne're could I find,</L>
+<L>One like to thee, if thou prove kind.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Thou shalt have gay things to make the fine,</L>
+<L>Thou shalt have all things if thou'lt be mine;</L>
+<L>Thy head with the choicest Flowers shall be crown'd,</L>
+<L>And thy pink-petty-coat shall be Laced round.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>We'l go early to the brook side,</L>
+<L>To catch Fishes as they do glide;</L>
+<L>And ev'ry Fish thy Captive shall be,</L>
+<L>Thou catching them as thou hast caught me.</L>
+</LG>
+<LG N="5">
+<PB N="14" REF="14"/>
+<HEAD>V.</HEAD>
+<L>When the scrip's full then what shall we do?</L>
+<L>But gang to the little house on the hill brow.</L>
+<L>There will we sit and eat up our Fish,</L>
+<L>But sure 'tis thy self must make the best dish.</L>
+</LG>
+<LG N="6">
+<HEAD>VI</HEAD>
+<L>Come let me kiss thy cherry lips, and trace</L>
+<L>All o're the wonders of thy sweet face;</L>
+<L>Thy breasts, that so white, and roundly do rise,</L>
+<L>Thy ruddy-Cheeks, and thy black Eyes.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>I'le ly by thee, all the cold night,</L>
+<L>Thou shalt have all things for thy delight.</L>
+<L>Thou shalt have any thing, thou shalt have me,</L>
+<L>Sure I have some thing, that will please thee.</L>
+</LG>
+</DIV2>
+<DIV2 N="4" TYPE="song">
+<HEAD><HI>SONG</HI> IV.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>MY dearest Mistress, hath an heart,</L>
+<L>Kind, as those soft looks she gave me;</L>
+<L>When with her resistless arts,</L>
+<L>And her Eyes she did inslave me.</L>
+<L>
+
+<PB N="16" REF="15"/>But her Constancy's so weak,</L>
+<L>She's so wild and apt to wander,</L>
+<L>That my Jealous heart will break,</L>
+<L>If that we live one Day asunder.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Melting Joys about her move,</L>
+<L>Killing Charms, and wounding blisses,</L>
+<L>She can arm herself with love,</L>
+<L>And her lips can Charm with kisses,</L>
+<L>Angels listen when she speaks,</L>
+<L>She's my delight and mankinds wonder,</L>
+<L>Yet my Jealous heart she breaks,</L>
+<L>If that we lye one night asunder.</L>
+</LG>
+</DIV2>
+<DIV2 N="5" TYPE="song">
+<HEAD><HI>SONG</HI> V.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>DIana, Penelope, Lucrece,</L>
+<L>Were sullen, and Idle Queans,</L>
+<L>There is ne're a Countess or Dutchess,</L>
+<L>Like one that will use the means:</L>
+<L>They give their minds unto't,</L>
+<L>And ply you, Tooth and Nail,</L>
+<L>And when you set in't they'l do't</L>
+<L>As Devil were in their Tail.</L>
+</LG>
+<LG N="2">
+<PB N="18" REF="16"/>
+<HEAD>II.</HEAD>
+<L>They look for no tedious-Woing,</L>
+<L>or whispering this and that,</L>
+<L>without any further-a-Doing,</L>
+<L>They know what you would be at▪</L>
+<L>To Dead-Lifts they'l not fail,</L>
+<L>And handle your matter so,</L>
+<L>But wy-he. They'l wag the tail,</L>
+<L>And buckle unto your bow.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Then Pox o'that pittiful Sinner,</L>
+<L>That whines at a Ladyes dore,</L>
+<L>Hee'l find less of pleasantness in her,</L>
+<L>Then in a <HI>Whetston-Whore:</HI></L>
+<L>There you must cring, and crouch,</L>
+<L>To purchas a kiss o'th Hand,</L>
+<L>When here, you may take a touch,</L>
+<L>She's ever at your Command.</L>
+</LG>
+</DIV2>
+<DIV2 N="6" TYPE="song">
+<HEAD><HI>SONG.</HI> VI.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>BY the Charms of his <HI>Phillis,</HI> lead with vigorous power,</L>
+<L>The Shepheard arriv'd, and rush'd in at the dore.</L>
+<L>
+
+<PB N="20" REF="17"/>All his hopes, and his fears, were Confirm'd by this Chance,</L>
+<L>For he found her at work with herself in a Trance.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>On her back she was laid, with her legs spread a sunder,</L>
+<L>Nor had she omitted the Pillow laid under:</L>
+<L>With only her hand, and her fancy opprest,</L>
+<L>She panted and heav'd, you may guess at the rest.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Before he cou'ld come to succor her Flame,</L>
+<L>The Nymph was so quick, she had plaid out her Game:</L>
+<L>With that she lookt up, and saw him in the place,</L>
+<L>Oh wretched! she cry'd, how comes this to pass?</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>'Tis the fate of our Sex to lye under this Curse,</L>
+<L>If we lye not with yours, we do what is Worse,</L>
+<L>We languish in Love, look Pale, and Wan,</L>
+<L>Whilst this is the Vertue, resists thee oh Man.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>With that the bold Shepherd began to draw near,</L>
+<L>And the Nymph started back, with her usual fear.</L>
+<L>
+
+<PB N="22" REF="18"/>He closely persu'd, oh! gently she Cry'd,</L>
+<L>Oh! Fool that I was, that so long I Deny'd.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>She gave him her hand which she sealed with a Kiss,</L>
+<L>And swore 'till that minute she never knew bliss</L>
+<L>She smil'd, then Laugh'd out, and about him still hung,</L>
+<L>And cry'd (my dear <HI>Damon</HI>) I hope you han't done.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>The Shepherd then rallying to charge her again,</L>
+<L>With a courage as feirce as at first he began,</L>
+<L>By ill sate awaked, and then found it was all</L>
+<L>But a Dream, though he look'd upon it as a call.</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>To the Nimph he ador'd, away straight he Ran,</L>
+<L>And before an hower past, what he Fancy'd got done,</L>
+<L>From that time he swore, he'd believe Revela∣tion</L>
+<L>Since to him it had prov'd the best Baud in the Nation.</L>
+</LG>
+</DIV2>
+<DIV2 N="7" TYPE="song">
+<PB N="24" REF="19"/>
+<HEAD><HI>SONG.</HI> VII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>WHy dost thou say I am forsworne,</L>
+<L>'Cause thine I vow'd to be?</L>
+<L>Thou se'st it is already morn,</L>
+<L>And 'twas last night I promis'd thee,</L>
+<L>That fond Impossibility.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>And I have lov'd thee much and long,</L>
+<L>A tedious twelve houres space,</L>
+<L>I should do other Beauties wrong,</L>
+<L>And rob thee of a fresh imbrace,</L>
+<L>Should I still dote upon thy Face▪</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Not but all Joyes in thy brown hair,</L>
+<L>By others may be found:</L>
+<L>But I must have the black and Faire▪</L>
+<L>So for treasures some do sound,</L>
+<L>In altogether unknown Ground▪</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>But if, when I have rang'd my Round,</L>
+<L>Thou prov'st the pleasant'st she,</L>
+<L>With spoyles of other beauties Crown'd,</L>
+<L>I laden will return to thee,</L>
+<L>Even sated with variety▪</L>
+</LG>
+</DIV2>
+<DIV2 N="7" TYPE="song">
+<PB N="26" REF="20"/>
+<HEAD>Another of the same. CANT. VII.</HEAD>
+<LG>
+<L>CVR me perjurum dicis esse,</L>
+<L>Cùm tuum me devovi?</L>
+<L>Auroram vides nunc adesse,</L>
+<L>Hesternâ nocte id promovi,</L>
+<L>Quod impossibile jam novi.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Non bis sex horoe tibi laetae,</L>
+<L>Quàm diu vis amarem?</L>
+<L>Caeterae viderentur Spretae,</L>
+<L>Novi amplexu deprivarem,</L>
+<L>Si te Constanter honorarem.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>In te fatebo admiranda</L>
+<L>Satis reperiuntur,</L>
+<L>Sed Alba Nigra sunt scrutanda,</L>
+<L>Terrae infossae evolvuntur,</L>
+<L>Hin<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> Mineralia Effodiuntur.</L>
+</LG>
+<LG N="4">
+<PB N="27" REF="20"/>
+<HEAD>IV.</HEAD>
+<L>Cùm sim per Circulum vagatus,</L>
+<L>Si tu sis magis grata,</L>
+<L>Minorum Spoliis Coronatus,</L>
+<L>Anima redit onerata,</L>
+<L>Copiâ suavi satiata.</L>
+</LG>
+</DIV2>
+<DIV2 N="8" TYPE="song">
+<PB N="28" REF="21"/>
+<HEAD><HI>SONG.</HI> VIII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>WErt thou far fairer than thou art,</L>
+<L>Which lies not in the power of art;</L>
+<L>Or had'st thou in thine Eyes more darts,</L>
+<L>Than ever <HI>Cupid</HI> shot at Hearts,</L>
+<L>Yet if they were not throw'n at me,</L>
+<L>I would not cast one thought on thee.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>I'de rather marry a disease,</L>
+<L>Than court a thing cannot please,</L>
+<L>She that will cherish my Desires,</L>
+<L>Must feed my Flames with equal Fires!</L>
+<L>What sweetness is there in a kiss,</L>
+<L>To him that doubts the Heart's not his?</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>I love thee not 'cause thou art Fair,</L>
+<L>Softer than Down, sweeter than Air,</L>
+<L>Nor for these <HI>Cupids</HI> that do Lye,</L>
+<L>In every Corner of thine Eye.</L>
+<L>But would'st thou know what it may be,</L>
+<L>'Tis I love you, 'cause you love me.</L>
+</LG>
+</DIV2>
+<DIV2 N="9" TYPE="song">
+<PB N="30" REF="22"/>
+<HEAD><HI>SONG.</HI> IX.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>SWeet! let me now this evening dye!</L>
+<L>Oh smile not to prevent it,</L>
+<L>But use this oppertunity,</L>
+<L>Lest that we both repent it;</L>
+<L>Frown quickly then, and break my Heart,</L>
+<L>That so my way of Dying</L>
+<L>May, (though my life be ful of smart,)</L>
+<L>Be worth the World's Envying.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Some striving knowledg to refine,</L>
+<L>Consume themselves with thinking</L>
+<L>Others who freindship seal in Wine,</L>
+<L>Are kindly kill'd by Drinking,</L>
+<L>And some are Wreck'd on the <HI>Indian</HI> Coast,</L>
+<L>Thither by gain invited,</L>
+<L>Others in smoke of Battel lost,</L>
+<L>Whom Drums not Lutes Delighted.</L>
+</LG>
+<LG N="3">
+<HEAD>III</HEAD>
+<L>Alas! how poorly these Depart!</L>
+<L>Their Graves still unattended,</L>
+<L>Who Dye not with a broken Heart,</L>
+<L>Are not in love Commended.</L>
+<L>
+
+<PB N="32" REF="23"/>His memory is ever sweet,</L>
+<L>All praise and pitty moveing,</L>
+<L>Who bravely at his mistress Feet,</L>
+<L>Can Dye with over Loving.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>And now thou frown'st and now I Dye,</L>
+<L>My Corps by lovers Follow'd,</L>
+<L>Which straight shall by Dead lovers Lye,</L>
+<L>For that ground's only Hallow'd.</L>
+<L>If Priests take't ill I have a Grave,</L>
+<L>My Death not well approving,</L>
+<L>The Poets mine Estate shall have,</L>
+<L>To teach the art of Loving.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Then every where they'le ring the Bells,</L>
+<L>For thy poor youth Departed,</L>
+<L>Who every other else Excells</L>
+<L>That is not broken Hearted:</L>
+<L>Virgins on me their Flowers shall strew,</L>
+<L>But if thy teares Fall near them,</L>
+<L>They'le so excell in scent, and shew,</L>
+<L>Thy self will shortly wear them.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Such Flowers how much will <HI>Flora</HI> Prise,</L>
+<L>Which near a Lover growing,</L>
+<L>Will watered be by Mistres Eyes,</L>
+<L>With Pitty overflowing?</L>
+<L>
+
+<PB N="34" REF="24"/>A Grave thus deckt will (though thou art,</L>
+<L>Yet fearful to come nigh me,)</L>
+<L>Invite thee straight to break thine Heart,</L>
+<L>And ly down boldly by me.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>Then every where the Bells shall Ring,</L>
+<L>Whilst all to black is Turning,</L>
+<L>And every where all Quires shall Sing,</L>
+<L>As natures self were Mourning.</L>
+<L>Yet we hereafter shall be Found,</L>
+<L>By Destinyes night Placeing,</L>
+<L>Making (like Flowers) love under Ground,</L>
+<L>Whose Roots are still Embracing.</L>
+</LG>
+</DIV2>
+<DIV2 N="10" TYPE="song">
+<HEAD><HI>SONG</HI> X.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>Prethee be blith! sit not so Sadly,</L>
+<L>Troth! this dull-humour makes thee look Badly,</L>
+<L>Lov'st thou thy Friend, take this Canary,</L>
+<L>Sweet Dispositions seldom should Vary,</L>
+<L>Poor Soul! alas!</L>
+<L>He wants his Glass;</L>
+<L>Here is it</L>
+<L>That Sharpes the wit,</L>
+<L>And makes us Cheary.</L>
+</LG>
+<LG N="2">
+<PB N="36" REF="25"/>
+<HEAD>II.</HEAD>
+<L>One ounce of Myrth's worth ten of moaning,</L>
+<L>There's little joy or pleasure in groaning,</L>
+<L>Hast thou spent all the Cash in thy Pocket?</L>
+<L>Or hast a Member not well in Socket?</L>
+<L>Thoughts of this kind</L>
+<L>Put out of mind!</L>
+<L>Dost not ken,</L>
+<L>Gentlemen</L>
+<L>Must Bouze and Smoak it?</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>'Tis to the King! take off the Bowl-full,</L>
+<L>And be thou rather Drunken than Dolefull.</L>
+<L>From a good Health let's never be shrinking,</L>
+<L>We do not purpose pay it with thinking.</L>
+<L>Pox on this Vein!</L>
+<L>Let's quaff amain!</L>
+<L>Let not Wine</L>
+<L>Fall and pine</L>
+<L>For want of Drinking.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>If Melancholly make aparition,</L>
+<L>Oh! let the Vintner be thy Physician.</L>
+<L>If thou perceive a troublesome motion,</L>
+<L>Take off thy Sack, for that's the best Potion.</L>
+<L>
+
+<PB N="38" REF="26"/>And when th'art in,</L>
+<L>Ne're fear thy skin!</L>
+<L>Rather than</L>
+<L>Want a dram,</L>
+<L>Gives an whole Ocean.</L>
+</LG>
+</DIV2>
+<DIV2 N="11" TYPE="song">
+<HEAD><HI>SONG</HI> XI.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>FOrtune is blind</L>
+<L>And Beau<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>y unkind,</L>
+<L>The Devil take them both!</L>
+<L>One is a Witch,</L>
+<L>And t'other's a Bitch,</L>
+<L>In neither's Faith or Troth:</L>
+<L>There's hazard in hap,</L>
+<L>Deceit in a Lap,</L>
+<L>But no fraud in a Brimmer;</L>
+<L>If truth in the bottom Lye,</L>
+<L>Thence to redeem her,</L>
+<L>We'll drain a whole Ocean dry.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Honour's a Toy,</L>
+<L>For Fools a Decoy,</L>
+<L>Beset with care and fear;</L>
+<L>And that (I wuss)</L>
+<L>Kills many a Puss</L>
+<L>Before her clymacht year:</L>
+<L>
+
+<PB N="40" REF="27"/>But Freedom and Mirth,</L>
+<L>Create a new Birth,</L>
+<L>While Sack's the <HI>Aqua Vitae</HI></L>
+<L>That Vigour and Spirit gives</L>
+<L>Liquor Almighty!</L>
+<L>Whereby the poor Mortal lives.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Let us be blyth</L>
+<L>In spight of Death's Sythe!</L>
+<L>And with an Heart and half</L>
+<L>Drink to our Friends,</L>
+<L>And think of no ends,</L>
+<L>But keep us sound and safe;</L>
+<L>While Healths do go round</L>
+<L>No Malady's found,</L>
+<L>The Maw sick in the Morning,</L>
+<L>For want of it's wonted strain,</L>
+<L>Is as a warning,</L>
+<L>To double it over again.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Let us maintain</L>
+<L>Our Traffique with <HI>Spain</HI></L>
+<L>And both the <HI>Indies</HI> slight;</L>
+<L>Give us their Wines,</L>
+<L>Let them keep theit Mines,</L>
+<L>We'l pardon Eighty Eight;</L>
+<L>
+
+<PB N="42" REF="28"/>There's more certain Wealth</L>
+<L>Secur'd from stealth</L>
+<L>In one Pipe of Canary,</L>
+<L>Than in an unfortunate Isle:</L>
+<L>Let us be wary,</L>
+<L>We do not our selves beguile.</L>
+</LG>
+</DIV2>
+<DIV2 N="12" TYPE="song">
+<HEAD><HI>SONG</HI> XII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>LOve is a Bauble;</L>
+<L>No man is able</L>
+<L>To say, it is <HI>This,</HI> or 'tis <HI>That:</HI></L>
+<L>An idle Passion,</L>
+<L>Of such a fashion,</L>
+<L>'Tis like I cannot tell what.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Fair in the Cradle,</L>
+<L>Foul in the Saddle,</L>
+<L>Always too cold, or too hot;</L>
+<L>An errant Lyar,</L>
+<L>Fed by desire;</L>
+<L>It is, and yet it is not.</L>
+</LG>
+<LG N="3">
+<PB N="44" REF="29"/>
+<HEAD>III.</HEAD>
+<L>Love is a Fellow</L>
+<L>Clad all in yellow,</L>
+<L>The Canker-worm of the mind;</L>
+<L>A privy mischief,</L>
+<L>And such a sly Thief,</L>
+<L>No man knows where him to find.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Love is a Wonder;</L>
+<L>'Tis <HI>here,</HI> and 'tis <HI>yonder,</HI></L>
+<L>'Tis common to all men, we know;</L>
+<L>A very Cheater,</L>
+<L>Ev'ry ones better;</L>
+<L>Then hang him, and let him go.</L>
+</LG>
+</DIV2>
+<DIV2 N="13" TYPE="song">
+<HEAD><HI>SONG</HI> XIII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>I Love my Love, she not me,</L>
+<L>Because I am so poor:</L>
+<L>But, poor or rich, she hath my heart,</L>
+<L>And shall have evermore.</L>
+</LG>
+<LG N="2">
+<PB N="46" REF="30"/>
+<HEAD>II.</HEAD>
+<L>I went unto my true Loves Gate,</L>
+<L>And knocked at the Ring;</L>
+<L>So ready was my own, her self,</L>
+<L>To rise, and let me in.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>I looked in my true Loves face,</L>
+<L><GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/> she seem'd but wan;</L>
+<L>I took <GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/> in mine arms so wide,</L>
+<L>And carry'd her to bed agen.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Where all the fore-part of the night</L>
+<L>Together close we lay,</L>
+<L>And all the latter-part of the night</L>
+<L>She slept in mine arms till day.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>But cursed be that little <HI>Tirry-Cock</HI></L>
+<L>That crow'd in the morning so soon;</L>
+<L>I thought it had been the dawning of the day,</L>
+<L>When 'twas but the light of the Moon.</L>
+</LG>
+<LG N="6">
+<PB N="48" REF="31"/>
+<HEAD>VI.</HEAD>
+<L>Then up I rose, and donn'd my Cloaths,</L>
+<L>And walk'd it over the Plain;</L>
+<L>Wishing my self on my true Loves Bed,</L>
+<L>And her in mine arms again.</L>
+</LG>
+</DIV2>
+<DIV2 N="14" TYPE="song">
+<HEAD><HI>SONG</HI> XIV.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>I Am a cunning Constable,</L>
+<L>And a bag of Warrants I have here,</L>
+<L>To press sufficient Men, and able,</L>
+<L>At <HI>Horn-Castle</HI> to appear;</L>
+<L>But now-a-days they're grown so cunning,</L>
+<L>That hearing of this Martial strife,</L>
+<L>They all away from hence are running;</L>
+<L>Where I miss the Man, I'll press the Wife.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Ho! who's at home? Lo! here am I!</L>
+<L>Good morrow, Neighbour. <HI>Welcom, Sir.</HI></L>
+<L>Where is your Husband? <HI>Why truly</HI></L>
+<L>He's gone abroad, a Journey far.</L>
+<L>Do you not know when he comes back?</L>
+<L>See how these Cowards fly for life!</L>
+<L>
+
+<PB N="50" REF="32"/>The King for Souldiers must not lack;</L>
+<L>If I miss the Man, I'll take the Wife.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Shew me by what Authority</L>
+<L>You do it? Pray, Sir, let me know.</L>
+<L>It is sufficient for to see,</L>
+<L>The Warrant hangs in bag below.</L>
+<L>Then pull it out, if it be strong,</L>
+<L>With you I will not stand at strife.</L>
+<L>My Warrant is as broad as long;</L>
+<L>If I miss the Man, I'll press the Wife.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Now you have prest me, and are gone,</L>
+<L>Please you, but let me know your name,</L>
+<L>That when my Husband he comes home,</L>
+<L>I may declare to him the same.</L>
+<L>My name is Captain <HI>Ward,</HI> I say,</L>
+<L>I ne'r fear'd man in all my life:</L>
+<L>The King for Souldiers must not stay;</L>
+<L>Missing the Man, I'll press the Wife.</L>
+</LG>
+</DIV2>
+<DIV2 N="15" TYPE="song">
+<PB N="52" REF="33"/>
+<HEAD>SONG XV.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>COme, dear heart, and let us dally</L>
+<L>Underneath the shady Tree:</L>
+<L>Why should'st thou stand shall I? shall I?</L>
+<L>When there's no man here to see?</L>
+</LG>
+<LG N="2">
+<HEAD>II</HEAD>
+<L>He was full of amorous sporting,</L>
+<L>Being in a lusty Vein:</L>
+<L>She took it for his way of Courting,</L>
+<L>And gave him kiss for kiss again.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Ah! ah! ah! thou wilt undo me,</L>
+<L>Oh! so vile and rude you are:</L>
+<L>Yet I cannot choose but love thee,</L>
+<L>'Cause thou cam'st to me so far.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Love to me was but a stranger,</L>
+<L>Fearing lest I might be slain:</L>
+<L>But now, I see there is no danger,</L>
+<L>Come and kiss me once again.</L>
+</LG>
+<LG N="5">
+<PB N="54" REF="34"/>
+<HEAD>V.</HEAD>
+<L>Her Shoes were of the <HI>Spanish</HI> fashion,</L>
+<L>Her Stockins of that Countrey Silk,</L>
+<L>The like there were not in the Nation;</L>
+<L>Her Smock was whiter than the Milk.</L>
+</LG>
+</DIV2>
+<DIV2 N="16" TYPE="song">
+<HEAD>SONG XVI.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>THere was a <HI>London</HI> Gentlewoman</L>
+<L>That lov'd a Countrey man, a;</L>
+<L>And she did desire his company</L>
+<L>A little now and than, a. <HI>Fa, la,</HI> &amp;c.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>This man he was a Hemp-dresser,</L>
+<L>And dressing was his Trade, a;</L>
+<L>And he doth kiss the Mistress, Sir,</L>
+<L>And now and then the Maid, a. <HI>Fa, la,</HI> &amp;c.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>He took up her Petty-coat,</L>
+<L>And would take up her Smock, a;</L>
+<L>And went unto the Parlor-door,</L>
+<L>That he her Hemp might knock, a. <HI>Fa, la,</HI> &amp;c.</L>
+</LG>
+<LG N="4">
+<PB N="56" REF="35"/>
+<HEAD>IV.</HEAD>
+<L>He held up his Boitle then,</L>
+<L>And she set down the Block, a;</L>
+<L>And there he fell to work indeed,</L>
+<L>With knick a knack, knick a knack, knock, a. <HI>Fa, la,</HI> &amp;c.</L>
+</LG>
+</DIV2>
+<DIV2 N="17" TYPE="song">
+<HEAD>SONG XVII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>SItting beyond a River-side,</L>
+<L><HI>Parthenia</HI> thus to <HI>Cloe</HI> cry'd,</L>
+<L>While from the fair Nymphs eyes apace</L>
+<L>Another stream o'r-clouds her beauteous Face,</L>
+<L>Happy Nymph is she that can</L>
+<L>So little trust to faithless man.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Oft the perfideous things would cry,</L>
+<L>They love, they bleed, they burn, they die:</L>
+<L>But if they're absent half a day,</L>
+<L>Nay, if they stay but one poor hour away,</L>
+<L>No more they die, no more complain,</L>
+<L>But, like unconstant Wretches, live again.</L>
+</LG>
+</DIV2>
+<DIV2 N="18" TYPE="song">
+<PB N="58" REF="36"/>
+<HEAD>SONG XVIII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>WOuld God it were Holy-day,</L>
+<L>Hey derry down, down derry;</L>
+<L>That with my Love I might go play,</L>
+<L>With oh! my heart is merry:</L>
+<L>My whole delight</L>
+<L>Is in her sight:</L>
+<L>Would God I had her Company, her Company,</L>
+<L>Hey down down, derry derry down.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>My Love is fine, my Love is fair,</L>
+<L><HI>Hey derry down,</HI> &amp;c.</L>
+<L>No Maid may well with her compare</L>
+<L>In <HI>Kent</HI> or <HI>Canterbury;</HI></L>
+<L>From her my Love</L>
+<L>Shall ne'r remove:</L>
+<L><HI>Would God I had,</HI> &amp;c.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>To see her laugh, to see her smile,</L>
+<L><HI>Hey derry down,</HI> &amp;c.</L>
+<L>Doth all my sorrows quite beguile,</L>
+<L>And makes my heart full merry;</L>
+<L>
+
+<PB N="60" REF="37"/>No grief doth grow</L>
+<L>Where she doth go:</L>
+<L><HI>Would God I had,</HI> &amp;c.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>When I do meet her on the Green,</L>
+<L><HI>Aey derry down,</HI> &amp;c.</L>
+<L>Methinks she looks like Beauties Queen,</L>
+<L>Which makes my heart full merry;</L>
+<L>Then I her greet</L>
+<L>With kisses sweet:</L>
+<L><HI>Would God I had,</HI> &amp;c.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>My Love comes not of churlish kind,</L>
+<L><HI>Hey derry down,</HI> &amp;c.</L>
+<L>But bears a loving courteous mind,</L>
+<L>Which makes my heart full merry;</L>
+<L>She is not coy,</L>
+<L>She is my Joy:</L>
+<L><HI>Would God I had,</HI> &amp;c.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Till <HI>Sunday</HI> comes, farewell, my Dear,</L>
+<L><HI>Hey derry down,</HI> &amp;c.</L>
+<L>When we do meet, we'll make good Cheer,</L>
+<L>And then we will be merry.</L>
+<L>
+
+<PB N="62" REF="38"/>If thou love me,</L>
+<L>I will love Thee,</L>
+<L>And still delight thy Company, thy Company,</L>
+<L>Hey down down, derry derry down.</L>
+</LG>
+</DIV2>
+<DIV2 N="19" TYPE="song">
+<HEAD>SONG XIX.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>A Pretty Jest I will you tell,</L>
+<L>O'th' guelding of the Devil of Hell.</L>
+<L>There was a Baker of <HI>Mansfield</HI> Town,</L>
+<L>To <HI>Nottingham</HI> Market he was bound;</L>
+<L>And riding under a Willow there,</L>
+<L>The Baker sung with a lusty cheer.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>The Baker's Horse was plump and sound,</L>
+<L>And worth, in judgment, full five pound;</L>
+<L>His skin was smooth, his flesh was fat,</L>
+<L>His Master was well pleas'd thereat,</L>
+<L>And therefore sings so merrily,</L>
+<L>As he was riding on the way.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>But as he rode over the Hill,</L>
+<L>There meeting with the Devil of Hell</L>
+<L>Oh Baker, Baker! then cry'd he,</L>
+<L>How came thy Horse so fat to be?</L>
+<L>These be the words the Baker did say</L>
+<L>Because his Stones are cut away.</L>
+</LG>
+<LG N="4">
+<PB N="64" REF="39"/>
+<HEAD>IV.</HEAD>
+<L>Then, quoth the Devil, if it be so,</L>
+<L>Thou shalt gueld me before thou go:</L>
+<L>First, tie thy Horse to yonder Tree,</L>
+<L>And be thou ready to gueld me.</L>
+<L>The Baker had a knife for th' nones,</L>
+<L>Wherewith to cut out th'Devils stones.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>The Baker, as it came to pass,</L>
+<L>In hast alighted from his Horse;</L>
+<L>And as the Devil on's back did lay,</L>
+<L>The Baker cut his Stones away;</L>
+<L>Which put the Devil to great pain,</L>
+<L>And made him to cry out amain.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Oh! quoth the Devil, beshrew thy heart!</L>
+<L>Thou dost not feel how I do smart;</L>
+<L>And for the Deed that thou hast done,</L>
+<L>I will revenged be agen;</L>
+<L>And underneath this Green-wood-Tree</L>
+<L>Next Market-day I will gueld thee.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>The Baker then but little said,</L>
+<L>But at his heart was sore afraid,</L>
+<L>And longer there he would not stay,</L>
+<L>But he rode home another way,</L>
+<L>And coming to his Wife, did tell</L>
+<L>How he had guelt the Devil of Hell.</L>
+</LG>
+<LG N="8">
+<PB N="66" REF="40"/>
+<HEAD>VIII.</HEAD>
+<L>Moreover, to his Wife he told</L>
+<L>A thing which made her heart full cold:</L>
+<L>A grievous word as he did say,</L>
+<L>That he'd gueld me next Market-day:</L>
+<L>To whom quoth Goodwife, without doubt,</L>
+<L>I'd rather both your eyes were out.</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>For then all people far and near</L>
+<L>That knows thee will both mock and jeer,</L>
+<L>And good Wives they will sooff and brawl,</L>
+<L>And stoneless Guelding will thee call:</L>
+<L>Then hold content, and be thou wise,</L>
+<L>And I'll some pretty trick devise.</L>
+</LG>
+<LG N="10">
+<HEAD>X.</HEAD>
+<L>I'll make the Devil change his Note,</L>
+<L>Do thou but lend to me thy Coat,</L>
+<L>Thy Hose and Doublet eke also,</L>
+<L>And I like to thy self will go,</L>
+<L>And warrant thee next Market-day</L>
+<L>To fright the Devil quite away.</L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>The Bakers Wife thus being drest,</L>
+<L>With Market-Bread upon her Beast,</L>
+<L>She goes to <HI>N<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>tti<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>ham</HI> brave Town,</L>
+<L>To sell her Bread, both white and brown;</L>
+<L>And as she rode over the Hill,</L>
+<L>She met there with two Devils of Hell.</L>
+</LG>
+<LG N="12">
+<PB N="68" REF="41"/>
+<HEAD>XII.</HEAD>
+<L>A little Devil and another,</L>
+<L>As they played both together:</L>
+<L>Oh! quoth one of them, right fain,</L>
+<L>Here comes the Baker on amain;</L>
+<L>And be thou well, or be thou wo,</L>
+<L>I will gueld thee before thou go.</L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>The Bakers Wife to th' Devil did say,</L>
+<L>Sir, I was guelded yesterday.</L>
+<L>Oh! quoth the Devil, I mean to see,</L>
+<L>Pulling her Coats up to the knee:</L>
+<L>So looking upward from the ground,</L>
+<L>Oh! there he spy'd a terrible wound.</L>
+</LG>
+<LG N="14">
+<HEAD>XIV.</HEAD>
+<L>Ah! quoth the Devil, now I see</L>
+<L>He was not cunning guelded thee;</L>
+<L>For when he had cut out thy Stones,</L>
+<L>He should have closed up the wounds:</L>
+<L>But if thou'lt stay a little space,</L>
+<L>I'll fetch some Salve to cure the place.</L>
+</LG>
+<LG N="15">
+<HEAD>XV.</HEAD>
+<L>He had gone but a little way,</L>
+<L>When up her Belly creept a Flea:</L>
+<L>The little Devil seeing that,</L>
+<L>He with his paw did giv't a pat:</L>
+<L>Which made the Goodwife for to start,</L>
+<L>And out she let a rowzing Fart.</L>
+</LG>
+<LG N="16">
+<PB N="70" REF="42"/>
+<HEAD>XVI.</HEAD>
+<L>O! quoth the Devil, thy life's not long,</L>
+<L>Thy breath it smells so wondrous strong;</L>
+<L>Then go thy way, and make thy will,</L>
+<L>This wound is past all humane skill:</L>
+<L>Be gone, be gone, make no delay,</L>
+<L>For here no longer shalt thou stay.</L>
+</LG>
+<LG N="17">
+<HEAD>XVII.</HEAD>
+<L>The Goodwife at this News was glad,</L>
+<L>And left the Devil almost mad;</L>
+<L>And when she to her Husband came,</L>
+<L>She gladly told to him the same,</L>
+<L>How she had couzen'd the Devil of Hell,</L>
+<L>So for to make a Jest full well.</L>
+</LG>
+</DIV2>
+<DIV2 N="20" TYPE="song">
+<HEAD><HI>SONG</HI> XX.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>YOu Rural Goddesses,</L>
+<L>That Woods and Fields possess,</L>
+<L>Assist me with your skill,</L>
+<L>That may direct my Quill</L>
+<L>More jocundly to express</L>
+<L>The mirth and delight,</L>
+<L>Both morning and night,</L>
+<L>On Mountain, or in Dale,</L>
+<L>Of them who choose</L>
+<L>This Trade to use,</L>
+<L>
+
+<PB N="72" REF="43"/>And through cold Dews</L>
+<L>Do never refuse</L>
+<L>To carry the Milking Pail.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>The bravest Lasses gay,</L>
+<L>Live not so merry as they;</L>
+<L>In honest civil sort</L>
+<L>They make each other sport,</L>
+<L>As they trudge on the way:</L>
+<L>Come fair or foul weather,</L>
+<L>They're fearful of neither,</L>
+<L>Their Courages never quail:</L>
+<L>In wet and dry,</L>
+<L>Though winds be high,</L>
+<L>And dark the Sky,</L>
+<L>They ne'r deny</L>
+<L>To carry the Milking Pail.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Their hearts are free from care;</L>
+<L>They never do despair,</L>
+<L>Whatever do befal,</L>
+<L>They bravely bear out all,</L>
+<L>And Fortunes frowns out-dare.</L>
+<L>They pleasantly sing</L>
+<L>To welcom the Spring,</L>
+<L>'Gainst Heav'n they never rail.</L>
+<L>If Grass will grow,</L>
+<L>Their thanks they shew,</L>
+<L>And Frost or Snow,</L>
+<L>They merrily go</L>
+<L>Along with the Milking Pail.</L>
+</LG>
+<LG N="4">
+<PB N="74" REF="44"/>
+<HEAD>IV.</HEAD>
+<L>Base idleness they do scorn,</L>
+<L>They rise very early i'th' morn,</L>
+<L>And walk into the Fields,</L>
+<L>Where pretty Birds do yield</L>
+<L>Brave Musick on ev'ry Thorn:</L>
+<L>The Linnet and Thrush</L>
+<L>Do sing on each Bush,</L>
+<L>And the dulcid Nightingale</L>
+<L>Her Note doth strain,</L>
+<L>In a jocund vain</L>
+<L>To entertain</L>
+<L>That worthy Train</L>
+<L>Which carry the Milking Pail.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Their labour doth health preserve,</L>
+<L>No Doctors rules they observe,</L>
+<L>While others too nice</L>
+<L>In taking their advice,</L>
+<L>Look always as if they would starve:</L>
+<L>Their meat is digested,</L>
+<L>They ne'r are molested,</L>
+<L>No sickness doth them assail;</L>
+<L>Their time is spent</L>
+<L>In merriment,</L>
+<L>While Limbs are lent</L>
+<L>They are content,</L>
+<L>To carry the Milking Pail.</L>
+</LG>
+<LG N="6">
+<PB N="76" REF="45"/>
+<HEAD>VI.</HEAD>
+<L>Those Lasses nice and strange,</L>
+<L>That keep shops in the <HI>Change,</HI></L>
+<L>Sit pricking of Clouts,</L>
+<L>And giving of flouts,</L>
+<L>They seldom abroad do range:</L>
+<L>Then comes the Green-sickness,</L>
+<L>And changeth their likeness,</L>
+<L>All this is for want of good sale;</L>
+<L>But 'tis not so,</L>
+<L>As proof doth show,</L>
+<L>By them that go</L>
+<L>In Frost and Snow</L>
+<L>To carry the Milking Pail.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>If they any Sweethearts have</L>
+<L>That do their affections crave,</L>
+<L>Their priviledge is this,</L>
+<L>Which many others miss,</L>
+<L>They can give them welcom brave:</L>
+<L>With them they walk,</L>
+<L>And pleasantly talk,</L>
+<L>With a Bottle of Wine or Ale;</L>
+<L>The gentle Cow</L>
+<L>Doth them allow,</L>
+<L>As they know how,</L>
+<L>God speed the Plough,</L>
+<L>And bless the Milking Pail.</L>
+</LG>
+<LG N="8">
+<PB N="78" REF="46"/>
+<HEAD>VIII.</HEAD>
+<L>Upon the first of <HI>May,</HI></L>
+<L>With Garland fresh and gay,</L>
+<L>With Mirth and Musick sweet,</L>
+<L>For such a season meet,</L>
+<L>They pass their time away:</L>
+<L>They dance away sorrow,</L>
+<L>And all the day thorow</L>
+<L>Their legs do never fail;</L>
+<L>Yet they nimbly</L>
+<L>Their feet do ply,</L>
+<L>And bravely try</L>
+<L>The Victory,</L>
+<L>In honour o'th' Milking Pail.</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>If any think that I</L>
+<L>Do practice Flattery,</L>
+<L>In seeking thus to raise</L>
+<L>The merry Milk-maids praise,</L>
+<L>I'll to them thus reply,</L>
+<L>It is their Desert</L>
+<L>Inviteth my Art</L>
+<L>To study this pleasant Tale,</L>
+<L>In their defence,</L>
+<L>Whose Innocence</L>
+<L>And Providence</L>
+<L>Gets honest Pence</L>
+<L>Out of the Milking Pail.</L>
+</LG>
+</DIV2>
+<DIV2 N="21" TYPE="song">
+<PB N="80" REF="47"/>
+<HEAD><HI>SONG</HI> XXI. CHEVY-CHASE. By Order of the Bishop of <HI>London.</HI></HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>GOD prosper long our Noble King,</L>
+<L>our lives and safeties all,</L>
+<L>A woful hunting once there did</L>
+<L>in <HI>Chevy-Chase</HI> befal.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>To drive the Deer with Hound &amp; Horn</L>
+<L>Earl <HI>Piercy</HI> took his way;</L>
+<L>The child may rue that is unborn</L>
+<L>the hunting of that day.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>The stout Earl of <HI>Northumberland</HI></L>
+<L>a vow to God did make,</L>
+<L>His pleasure in the <HI>Scottish</HI> Woods</L>
+<L>three Summers days to take.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>The chiefest Harts in <HI>Chevy-Case</HI></L>
+<L>to kill and bear away;</L>
+<L>These tidings to Earl <HI>Douglas</HI> came,</L>
+<L>in <HI>Scotland,</HI> where he lay.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Who sent Earl <HI>Piercy</HI> present word,</L>
+<L>he would prevent his Sport:</L>
+<L>The <HI>English</HI> Earl, not fearing this,</L>
+<L>did to the Woods resort.</L>
+</LG>
+<LG N="6">
+<PB N="82" REF="48"/>
+<HEAD>VI.</HEAD>
+<L>With fifteen hundred Bowe-men bold,</L>
+<L>all chosen men of might,</L>
+<L>Who knew full well in time of need</L>
+<L>to aim their Shafts aright.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>The gallant Grey-hounds swiftly ran,</L>
+<L>to chase the fallow Deer;</L>
+<L>On <HI>Monday</HI> they began to hunt,</L>
+<L>when day-light did appear.</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>And long before high-noon they had</L>
+<L>an hundred fat Bucks slain:</L>
+<L>Then having din'd, the Drovers went</L>
+<L>to rouze them up again.</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>The Bowe-men mustred on the Hills,</L>
+<L>well able to endure;</L>
+<L>Their back-sides all with special care</L>
+<L>that day were guarded sure.</L>
+</LG>
+<LG N="10">
+<HEAD>X.</HEAD>
+<L>The Hounds ran swiftly through the Woods,</L>
+<L>the nimble Deer to take;</L>
+<L>And with their cries the hills and dales</L>
+<L>an Eccho shrill did make.</L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>Lord <HI>Piercy</HI> to the Quarry went,</L>
+<L>to view the tender Deer:</L>
+<L>Quoth he, Earl <HI>Douglas</HI> promised</L>
+<L>this day to meet me here.</L>
+</LG>
+<LG N="12">
+<PB N="84" REF="49"/>
+<HEAD>XII.</HEAD>
+<L>But if I thought he would not come,</L>
+<L>no longer would I stay.</L>
+<L>With that a brave young Gentleman</L>
+<L>thus to the Earl did say.</L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>Lo, yonder doth Earl <HI>Douglas</HI> come,</L>
+<L>his men in Armour bright,</L>
+<L>Full twenty hundred <HI>Scotish</HI> Spears,</L>
+<L>all marching in our sight.</L>
+</LG>
+<LG N="14">
+<HEAD>XIV.</HEAD>
+<L>All men of pleasant <HI>Tividale,</HI></L>
+<L>fast by the River <HI>Tweed.</HI></L>
+<L>Then cease your sport, E. <HI>Piercy</HI> said,</L>
+<L>and take your Bowes with speed.</L>
+</LG>
+<LG N="15">
+<HEAD>XV.</HEAD>
+<L>And now with me, my Countrey-men,</L>
+<L>your courage forth advance;</L>
+<L>For never was there Champion yet</L>
+<L>in <HI>Scotland</HI> or in <HI>France,</HI></L>
+</LG>
+<LG N="16">
+<HEAD>XVI.</HEAD>
+<L>That ever did on Horse-back come,</L>
+<L>but if my hap it were,</L>
+<L>I durst encounter man for man,</L>
+<L>with him to break a Spear.</L>
+</LG>
+<LG N="17">
+<HEAD>XVII.</HEAD>
+<L>Earl <HI>Douglas</HI> on a milk-white Steed,</L>
+<L>most like a Baron bold,</L>
+<L>Rode foremost of the Company,</L>
+<L>whose Armour shone like Gold.</L>
+</LG>
+<LG N="18">
+<PB N="86" REF="50"/>
+<HEAD>XVIII.</HEAD>
+<L>Shew me, he said, whose men you be</L>
+<L>that hunt so boldly here,</L>
+<L>That without my consent do chase</L>
+<L>and kill my fallow Deer.</L>
+</LG>
+<LG N="19">
+<HEAD>XIXI.</HEAD>
+<L>The man that first did answer make</L>
+<L>was Noble <HI>Piercy,</HI> he,</L>
+<L>Who said, We list not to declare,</L>
+<L>Nor shew whose men we be.</L>
+</LG>
+<LG N="20">
+<HEAD>XX.</HEAD>
+<L>Yet we will spend our dearest blood,</L>
+<L>the chiefest Harts to slay.</L>
+<L>Then <HI>Douglas</HI> swore a solemn Oath,</L>
+<L>and thus in rage did say;</L>
+</LG>
+<LG N="21">
+<HEAD>XXI.</HEAD>
+<L>E'r thus I will out-braved be,</L>
+<L>one of us two shall die:</L>
+<L>I know thee well, an Earl thou art,</L>
+<L>Lord <HI>Piercy,</HI> so am I.</L>
+</LG>
+<LG N="22">
+<HEAD>XXII.</HEAD>
+<L>But, trust me <HI>Piercy,</HI> pity it were,</L>
+<L>and great offence, to kill</L>
+<L>Any of these our harmless men,</L>
+<L>for they have done no ill.</L>
+</LG>
+<LG N="23">
+<HEAD>XXIII.</HEAD>
+<L>Let thou and I the Battle try,</L>
+<L>and set our men aside:</L>
+<L>Accurst be he, Lord <HI>Piercy</HI> said,</L>
+<L>by whom it is deny'd.</L>
+</LG>
+<LG N="24">
+<PB N="88" REF="51"/>
+<HEAD>XXIV.</HEAD>
+<L>Then stept a gallant 'Squire forth,</L>
+<L><HI>Witherington</HI> was his name,</L>
+<L>Who said, he would not have it told</L>
+<L>to <HI>Henry</HI> our King, for shame,</L>
+</LG>
+<LG N="25">
+<HEAD>XXV.</HEAD>
+<L>That e'r my Captain fought on foot,</L>
+<L>and I stood looking on:</L>
+<L>You be two Earls, said <HI>Witherington,</HI></L>
+<L>and I a'Squire alone.</L>
+</LG>
+<LG N="26">
+<HEAD>XXVI.</HEAD>
+<L>I'll do the best that do I may,</L>
+<L>while I have power to stand;</L>
+<L>While I have pow'r to weild my Sword</L>
+<L>I'll fight with heart and hand.</L>
+</LG>
+<LG N="27">
+<HEAD>XXVII.</HEAD>
+<L>Our <HI>English</HI> Archers bent their Bowes,</L>
+<L>their hearts were good and true;</L>
+<L>At the first flight of Arrows sent,</L>
+<L>full threescore <HI>Scots</HI> they slew.</L>
+</LG>
+<LG N="28">
+<HEAD>XXVIII.</HEAD>
+<L>To drive the Deer with hound &amp; horn</L>
+<L>Earl <HI>Douglas</HI> bad the bent;</L>
+<L>A Captain mov'd with mickle pride,</L>
+<L>the Spears to shivers sent.</L>
+</LG>
+<LG N="29">
+<HEAD>XXIX.</HEAD>
+<L>They clos'd full fast on ev'ry side,</L>
+<L>no slackness there was found,</L>
+<L>And many a gallant Gentleman</L>
+<L>lay gasping on the ground.</L>
+</LG>
+<LG N="30">
+<PB N="90" REF="52"/>
+<HEAD>XXX.</HEAD>
+<L>O Christ! it was great grief to see,</L>
+<L>and likewise for to hear,</L>
+<L>The cries of men lying in their gore,</L>
+<L>and scattered here and there.</L>
+</LG>
+<LG N="31">
+<HEAD>XXXI.</HEAD>
+<L>At last these two stout Earls did meet,</L>
+<L>like Captains of great might;</L>
+<L>Like Lions mov'd they laid on load,</L>
+<L>and made a cruel fight.</L>
+</LG>
+<LG N="32">
+<HEAD>XXXII.</HEAD>
+<L>They fought until they both did sweat</L>
+<L>with Swords of tempered steel,</L>
+<L>Until the blood, like drops of Rain,</L>
+<L>they trickling down did feel.</L>
+</LG>
+<LG N="33">
+<HEAD>XXXIII.</HEAD>
+<L>Yield thee, Lord <HI>Piercy, Douglas</HI> said,</L>
+<L>in faith I will thee bring</L>
+<L>Where thou shalt high advanced be</L>
+<L>by <HI>James</HI> our <HI>Scotish</HI> King.</L>
+</LG>
+<LG N="34">
+<HEAD>XXXIV.</HEAD>
+<L>Thy Ransom I will freely give,</L>
+<L>and thus report of thee,</L>
+<L>Thou art the most couragious Knight</L>
+<L>that ever I did see.</L>
+</LG>
+<LG N="35">
+<HEAD>XXXV.</HEAD>
+<L>No, <HI>Douglas,</HI> quoth Earl <HI>Piercy</HI> then,</L>
+<L>thy proffer I do scorn;</L>
+<L>I will not yield to any <HI>Scot</HI></L>
+<L>that ever yet was born.</L>
+</LG>
+<LG N="36">
+<PB N="92" REF="53"/>
+<HEAD>XXXVI.</HEAD>
+<L>With that there came an Arrow keen</L>
+<L>out of an <HI>English</HI> Bowe,</L>
+<L>Which struck Earl <HI>Douglas</HI> to the heart,</L>
+<L>a deep and deadly blow.</L>
+</LG>
+<LG N="37">
+<HEAD>XXXVII.</HEAD>
+<L>Who never spoke more words than these</L>
+<L>fight on my merry men all;</L>
+<L>For why my life is at an end,</L>
+<L>Lord <HI>Piercy</HI> sees my fall.</L>
+</LG>
+<LG N="38">
+<HEAD>XXXVIII.</HEAD>
+<L>Then leaving life, Earl <HI>Piercy</HI> took</L>
+<L>the dead man by the hand,</L>
+<L>And said, Earl <HI>Douglas,</HI> for thy life</L>
+<L>would I had lost my land.</L>
+</LG>
+<LG N="39">
+<HEAD>XXXIX</HEAD>
+<L>O Christ! my very heart doth bleed</L>
+<L>with sorrow for thy sake;</L>
+<L>For sure a more renowned Knight</L>
+<L>Such mischance did ever take.</L>
+</LG>
+<LG N="40">
+<HEAD>XL.</HEAD>
+<L>A Knight amongst the <HI>Scots</HI> there was,</L>
+<L>which saw Earl <HI>Douglas</HI> die,</L>
+<L>And in his wrath did vow revenge</L>
+<L>upon the Earl <HI>Piercy.</HI></L>
+</LG>
+<LG N="41">
+<HEAD>XLI.</HEAD>
+<L>Sir <HI>Hugh Montgomery</HI> was he call'd,</L>
+<L>who with a Spear most bright,</L>
+<L>Well mounted on a gallant Steed,</L>
+<L>ran fiercely through the fight:</L>
+</LG>
+<LG N="42">
+<PB N="94" REF="54"/>
+<HEAD>XLII.</HEAD>
+<L>And past the <HI>English</HI> Archers all,</L>
+<L>without all dread or fear,</L>
+<L>And through Earl <HI>Piercy</HI>'s body then</L>
+<L>he thrust his hateful Spear,</L>
+</LG>
+<LG N="43">
+<HEAD>XLIII.</HEAD>
+<L>With such a vehement force &amp; might</L>
+<L>he did his body gore,</L>
+<L>The Spear went through the other side</L>
+<L>a large Cloth-yard and more.</L>
+</LG>
+<LG N="44">
+<HEAD>XLIV.</HEAD>
+<L>So thus did both these Nobles die,</L>
+<L>whose courage none could stain.</L>
+<L>An <HI>English</HI> Archer then perceiv'd</L>
+<L>the Noble Earl was slain:</L>
+</LG>
+<LG N="45">
+<HEAD>XLV.</HEAD>
+<L>He had a Bowe bent in his hand,</L>
+<L>made of a trusty Tree;</L>
+<L>An Arrow of a Cloth-yard long</L>
+<L>up to the head drew he:</L>
+</LG>
+<LG N="46">
+<HEAD>XLVI.</HEAD>
+<L>Against Sir <HI>Hugh Montgomery</HI></L>
+<L>so right his shaft he set,</L>
+<L>The grey-goose-wing that was thereon</L>
+<L>in his heart blood was wet.</L>
+</LG>
+<LG N="47">
+<HEAD>XLVII.</HEAD>
+<L>This fight did last from break of day,</L>
+<L>till setting of the Sun;</L>
+<L>For when they rung the evening Bell,</L>
+<L>the battle scarce was done.</L>
+</LG>
+<LG N="48">
+<PB N="96" REF="55"/>
+<HEAD>XLVIII.</HEAD>
+<L>With the Earl <HI>Piercy</HI> there was slain</L>
+<L>Sir <HI>John</HI> of <HI>Ogerton,</HI></L>
+<L>Sir <HI>Robert Ratcliff,</HI> and Sir <HI>John,</HI></L>
+<L>Sir <HI>James</HI> that bold Baron.</L>
+</LG>
+<LG N="49">
+<HEAD>XLIX.</HEAD>
+<L>And with Sir <HI>George</HI> and good Sir <HI>James</HI></L>
+<L>both Knights of good account,</L>
+<L>Good Sir <HI>Ralph Rabby</HI> there was slain,</L>
+<L>whose prowess did surmount.</L>
+</LG>
+<LG N="50">
+<HEAD>L.</HEAD>
+<L>For <HI>Witherington</HI> needs must I wail,</L>
+<L>as one in doleful dumps;</L>
+<L>For when his legs were smitten off,</L>
+<L>he fought upon his stumps.</L>
+</LG>
+<LG N="51">
+<HEAD>LI.</HEAD>
+<L>And with Earl <HI>Douglas</HI> there was slain</L>
+<L>Sir <HI>Hugh Montgomery,</HI></L>
+<L>Sir <HI>Charles Currel,</HI> that from the field</L>
+<L>one foot would never flie.</L>
+</LG>
+<LG N="52">
+<HEAD>LII.</HEAD>
+<L>Sir <HI>Charles Murrel</HI> of <HI>Ratcliff</HI> too,</L>
+<L>his Sisters Son was he;</L>
+<L>Sir <HI>David Lamb</HI> so well esteem'd,</L>
+<L>Yet saved could not be.</L>
+</LG>
+<LG N="53">
+<HEAD>LIII.</HEAD>
+<L>And the Lord <HI>Markwel</HI> in likewise</L>
+<L>did with Earl <HI>Douglas</HI> die:</L>
+<L>Of twenty hundred <HI>Scotish</HI> Spears,</L>
+<L>scarce fifty five did fly.</L>
+</LG>
+<LG N="54">
+<PB N="98" REF="56"/>
+<HEAD>LIV</HEAD>
+<L>Of fifteen hundred English men,</L>
+<L>went home but fifty three,</L>
+<L>The rest were slain in <HI>Chevy-Chase</HI></L>
+<L>under the Green-Wood tree.</L>
+</LG>
+<LG N="55">
+<HEAD>LV.</HEAD>
+<L>Next day did many widdows come,</L>
+<L>their Husbands to bewail,</L>
+<L>They washt their wounds in brinish tears,</L>
+<L>but all would not prevail.</L>
+</LG>
+<LG N="56">
+<HEAD>LVI.</HEAD>
+<L>Their bodies bath'd in purple blood,</L>
+<L>they bore with them away,</L>
+<L>They kist them dead a thousand times,</L>
+<L>when they were clad in clay.</L>
+</LG>
+<LG N="57">
+<HEAD>LVII.</HEAD>
+<L>This news was brought to <HI>Edenburg,</HI></L>
+<L>Where Scotlands King did reign,</L>
+<L>That brave Earl <HI>Dowglas</HI> suddenly,</L>
+<L>was with an Arrow slain,</L>
+</LG>
+<LG N="58">
+<HEAD>LVIII.</HEAD>
+<L>O heavy news King <HI>James</HI> did say,</L>
+<L>Scotland can witness be,</L>
+<L>I have not any Captain more,</L>
+<L>of such account as he.</L>
+</LG>
+<LG N="59">
+<HEAD>LIX.</HEAD>
+<L>Like tidings to King <HI>Henry</HI> came,</L>
+<L>within as short a space,</L>
+<L>That <HI>Peircy</HI> of <HI>Northumberland,</HI></L>
+<L>was slain in <HI>Chevy-Chase.</HI></L>
+</LG>
+<LG N="60">
+<PB N="100" REF="57"/>
+<HEAD>LX.</HEAD>
+<L>Now God be with him said our King,</L>
+<L>sith't will no better be,</L>
+<L>I trust I have within my Realm,</L>
+<L>five hundred as good as he.</L>
+</LG>
+<LG N="61">
+<HEAD>LXI.</HEAD>
+<L>Yet shall not Scot nor Scotland say,</L>
+<L>but I will vengeance take,</L>
+<L>And be revenged on them all,</L>
+<L>for brave Earl <HI>Pircies</HI> sake.</L>
+</LG>
+<LG N="62">
+<HEAD>LXII.</HEAD>
+<L>This vow full well the K. perform'd,</L>
+<L>after an <HI>Humble Down,</HI></L>
+<L>In one day fifty Knights were slain</L>
+<L>with Lords of great renown.</L>
+</LG>
+<LG N="63">
+<HEAD>LXIII.</HEAD>
+<L>And of the rest of small account</L>
+<L>did many hundreds dye,</L>
+<L>Thus ended the hunting of <HI>Chevy-Chase</HI></L>
+<L>made by the Earl <HI>Piercy.</HI></L>
+</LG>
+<LG N="64">
+<HEAD>LXIV.</HEAD>
+<L>God save the King and bless the Land</L>
+<L>in plenty, joy, and Peace,</L>
+<L>And grant henceforth that foul debate,</L>
+<L>'twixt Noble men may cease.</L>
+</LG>
+</DIV2>
+<DIV2 N="22" TYPE="song">
+<PB N="102" REF="58"/>
+<HEAD><HI>SONG</HI> XXII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>SIR <HI>Francis,</HI> Sir <HI>Francis</HI> his own Son,</L>
+<L>Sir <HI>William,</HI> Sir <HI>Thomas,</HI> and all did run,</L>
+<L>Then came my Lord of <HI>Southhampton,</HI></L>
+<L>And shew'd himself a gallant Man.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Then came the Chamberlain with his Staff,</L>
+<L>And all the People 'gan to Laugh,</L>
+<L>At length the Queen began to speak,</L>
+<L>You'r welcome home Sir <HI>Francis Drake.</HI></L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Ye Nobles all of Brittish Blood,</L>
+<L>Why Sayle ye not o're the Ocean Flood?</L>
+<L>In truth you are not worth Filberd,</L>
+<L>Compared to Sir <HI>Humphry Gilberd.</HI></L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>For he went out on a Rainy day,</L>
+<L>To <HI>New-found-land</HI> he took his way,</L>
+<L>Most Rare and Comely to be seen,</L>
+<L>But never came back, (God save the Queen.</L>
+</LG>
+</DIV2>
+<DIV2 N="23" TYPE="song">
+<PB N="104" REF="59"/>
+<HEAD>SONG XXIII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>I'Le tell you all, both great and small,</L>
+<L>I tell you all truly,</L>
+<L>That we have cause, and very great cause,</L>
+<L>For to Lament and Cry,</L>
+<L>Fy, Oh! fy, oh! fy, oh! fy!</L>
+<L>Fy on thee Cruel Death!</L>
+<L>For thou hast ta'ne away from us!</L>
+<L>Our Queen <HI>Elizabeth.</HI></L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Thou mayst have taken other folks,</L>
+<L>That better might be mist,</L>
+<L>And have let our Queen alone,</L>
+<L>Who lov'd no Popish Priest,</L>
+<L>In Peace she rul'd all this Land,</L>
+<L>Beholding unto no Man,</L>
+<L>And did the Pope of <HI>Rome</HI> withstand,</L>
+<L>And yet was but a Woman.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>A Woman said I? nay that is more,</L>
+<L>Then any one can tell,</L>
+<L>So fair she was, so chast she was,</L>
+<L>That no one knew it well,</L>
+<L>With that, from <HI>France</HI> came <HI>Monsier</HI> o're,</L>
+<L>A purpose for to woe her,</L>
+<L>Yet still she liv'd, and Dy'd a Maid,</L>
+<L>Do what they could unto her.</L>
+</LG>
+<LG N="4">
+<PB N="106" REF="60"/>
+<HEAD>IV.</HEAD>
+<L>She never acted any ill thing,</L>
+<L>That made her Conscience prick her,</L>
+<L>Nor never would submit to him,</L>
+<L>That called is Christs Vicar,</L>
+<L>But rather chose couragiously,</L>
+<L>To Fight under Christs Banner</L>
+<L>'Gainst <HI>Pope</HI> and <HI>Turk</HI> and King of <HI>Spain,</HI></L>
+<L>And all that durst withstand her.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>But if that I had <HI>Argus</HI> Eyes,</L>
+<L>They were to few to weep,</L>
+<L>For our Queen <HI>Elizabeth,</HI></L>
+<L>That now is fal'n a sleep,</L>
+<L>A sleep indeed where she shall rest,</L>
+<L>Until the day of Doom,</L>
+<L>And then shall rise unto the shame</L>
+<L>Of the great Pope of <HI>Rome.</HI></L>
+</LG>
+</DIV2>
+<DIV2 N="24" TYPE="song">
+<HEAD>SONG XXIV. An Ode.</HEAD>
+<LG>
+<L>UNder 500 Kings three Kingdoms groan,</L>
+<L>Go <HI>Finch</HI> dissolve them <HI>Charles</HI> is in the Throne,</L>
+<L>And by th'Grace of God will Reign alone.</L>
+</LG>
+<LG N="2">
+<PB N="108" REF="61"/>
+<HEAD>II.</HEAD>
+<L>What will the Commons have? The Royal line,</L>
+<L>Heaven doth dispose of. 'Tis not theirs or mine,</L>
+<L>But his by whom Kings Rule, and are Divine.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>I represent the King of Kings who gave</L>
+<L>The Crown, the Sword, the Scepter that I have,</L>
+<L>I am Gods Servant, not the Peoples slave.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Their Frantick Votes, and mad Resolves <HI>I</HI> hate,</L>
+<L>I know a better way to heal the State,</L>
+<L>Then to Sin rashly and Repent too late.</L>
+</LG>
+</DIV2>
+<DIV2 N="25" TYPE="song">
+<HEAD>SONG XXV.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>GReat Alexanders Horse, <HI>Bucephalus</HI> by name,</L>
+<L>Brave Writers have inrol'd, within the books of fame,</L>
+<L>But Poor <HI>Will Pickerings</HI> Mare,</L>
+<L>So far she did excel,</L>
+<L>She never run the Race,</L>
+<L>But she bore away the Bell.</L>
+<L>But for Tyhe, whyhee, hrk, prp, for Caper and Career,</L>
+<L>All <HI>Holland</HI> could not shew</L>
+<L>You such another Mare.</L>
+</LG>
+<LG N="2">
+<PB N="110" REF="62"/>
+<HEAD>II</HEAD>
+<L>But now the News is come,</L>
+<L>His bonny Mare is Dead,</L>
+<L>Whereat he stampts and swears,</L>
+<L>He had rather ha' lost his head,</L>
+<L>But for Tyhee, <HI>&amp;c.</HI></L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Her foremost shoos she gave,</L>
+<L>Unto some Popish Fool,</L>
+<L>To carry him to <HI>Rome,</HI></L>
+<L>For a Pardon for his Soul</L>
+<L>But for Tyhee, <HI>&amp;c.</HI></L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Her hinder shoos that had</L>
+<L>Plaid many a Jadish trick</L>
+<L>She gave unto curst Wives,</L>
+<L>Their Husbands us'd to kick.</L>
+<L>But for Tyhee, <HI>&amp;c,</HI></L>
+</LG>
+</DIV2>
+<DIV2 N="26" TYPE="song">
+<HEAD><HI>SONG</HI> XXVI.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>FRom the faire <HI>Lavinian</HI> shoar,</L>
+<L>I your Market come to store</L>
+<L>Muse not that so far off I dwell,</L>
+<L>And come here my ware to sell,</L>
+<L>Such is the sacred hunger of Gold!</L>
+<L>Then come to my Pack</L>
+<L>While I cry</L>
+<L>What do ye lack,</L>
+<L>Or what d'ye buy!</L>
+<L>For here it is to be sold.</L>
+</LG>
+<LG N="2">
+<PB N="112" REF="63"/>
+<HEAD>II.</HEAD>
+<L>Though thy Father thee before,</L>
+<L>Neither armes, or Scutcheon bore,</L>
+<L>Or thy Gentry been as young,</L>
+<L>As the Rose that's newly blown;</L>
+<L>Canst thou find in thine heart to part with thy Gold!</L>
+</LG>
+<LG>
+<L>Then come to me (Lad)</L>
+<L>Thou shalt have,</L>
+<L>What thy Dad</L>
+<L>Yet never gave,</L>
+<L>For Heraldry's to be sold.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Madam for your wrinckled face,</L>
+<L>Heres Complexion it to grace.</L>
+<L>Which if your earnest be but small</L>
+<L>It takes away the vertues all.</L>
+<L>But if your Palmes are anoynted with Gold</L>
+<L>Then you shall seem</L>
+<L>Like a Queen</L>
+<L>of fiftteen,</L>
+<L>Though you are threescore years old.</L>
+</LG>
+</DIV2>
+<DIV2 N="27" TYPE="song">
+<PB N="114" REF="64"/>
+<HEAD><HI>SONG</HI> XXVII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>THou art not fair for all thy red and white,</L>
+<L>Nor all those Rosy Ornaments in thee,</L>
+<L>Thou art not sweet, nor made for mere delight,</L>
+<L>Nor sweet nor fair unless thou pity me,</L>
+<L>I will not, I will not sooth thy fancies, thou shalt prove</L>
+<L>So ill a Creature, no Man thee shall love.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Neither Love thou me, nor think thou to allure,</L>
+<L>My thoughts with beauty were it more divine,</L>
+<L>Thy smiles, and kisses I cannot indure,</L>
+<L>I'le not be wrapt up in those Eyes of thine,</L>
+<L>Now shew, now shew it, if thou art a Woman right,</L>
+<L>Embrace and Kiss, and love me in despight.</L>
+</LG>
+</DIV2>
+<DIV2 N="28" TYPE="song">
+<HEAD><HI>SONG.</HI> XXVIII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>WHY so pale and wand fond Lover?</L>
+<L>Prethee why so pale?</L>
+<L>If looking well thou canst not move her,</L>
+<L>Will looking ill prevail?</L>
+<L>Prethee why so pale?</L>
+</LG>
+<LG N="2">
+<PB N="116" REF="65" MS="y"/>
+<HEAD>II.</HEAD>
+<L>Why so dull and mute, young Sinner?</L>
+<L>Prethee why so mute?</L>
+<L>If speaking well thou canst not win her,</L>
+<L>Can saying nothing doe't,</L>
+<L>Prethee why so mute?</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Quit, quit, for shame? this will not move her</L>
+<L>This cannot take her,</L>
+<L>If of her self she will not Love,</L>
+<L>Nothing can make her,</L>
+<L>The Devil take her.</L>
+</LG>
+</DIV2>
+<DIV2 N="29" TYPE="song">
+<HEAD><HI>SONG</HI> XXIX.</HEAD>
+<L>IF any so wise is,</L>
+<L>That sack he despises.</L>
+<L>Let him drink his small bere &amp; be sober</L>
+<L>While we drink Sack and sing,</L>
+<L>As if it were spring,</L>
+<L>He shall droop like the trees in October.</L>
+<L>Be sure over night,</L>
+<L>If this dog do you bit,</L>
+<L>You take it henceforth for a warning.</L>
+<L>soon as out of bed,</L>
+<L>To settle your head,</L>
+<L>Take an hair of his tail in the morning.</L>
+<L>
+
+<PB N="118" REF="66"/>Then be not so silly,</L>
+<L>To follow old <HI>Lilly,</HI></L>
+<L>For ther's nothing but sack that can tune us.</L>
+<L>Let his <HI>nè assuescas,</HI></L>
+<L>Be put in his Cap-Case,</L>
+<L>And sing <HI>bibito vinum jejunus.</HI></L>
+</DIV2>
+<DIV2 N="30" TYPE="song">
+<HEAD><HI>SONG</HI> XXX.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>COme Boyes fill us a Bumper,</L>
+<L>Wee'l make the Nation roar,</L>
+<L>She's grown sick of a Rumper,</L>
+<L>That stick's on the old score,</L>
+<L>Pox a Phanaticks wee'l rout 'em,</L>
+<L>They do thirst for our blood.</L>
+<L>We'le raise our taxes without'em,</L>
+<L>And Drink for the Nations good.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Charge the Pottles and Gallons,</L>
+<L>And bring the Hoggshead in.</L>
+<L>We'l begin with a tall one,</L>
+<L>And Rummers to our King.</L>
+<L>Round a round with a fresh one,</L>
+<L>Let no man balke his Wine,</L>
+<L>We'l drink to the next in Succession,</L>
+<L>And keep in the right line.</L>
+</LG>
+</DIV2>
+<DIV2 N="31" TYPE="song">
+<PB N="120" REF="67"/>
+<HEAD><HI>SONG</HI> XXXI.</HEAD>
+<STAGE>Dialogue.</STAGE>
+<SP>
+<SPEAKER>Strephon.</SPEAKER>
+<L>COme my <HI>Daphne!</HI> come away!</L>
+<L>We do wast the Christal day:</L>
+</SP>
+<SP>
+<SPEAKER>Daphne.</SPEAKER>
+<L>'Tis <HI>Strephon</HI> call's, what would my love?</L>
+</SP>
+<SP>
+<SPEAKER>Strephon.</SPEAKER>
+<L>Come follow to the myrtle Grove,</L>
+<L>Where <HI>Venus</HI> shall prepare,</L>
+<L>Fresh Chaplets for thine hair.</L>
+</SP>
+<SP>
+<SPEAKER>Daphne.</SPEAKER>
+<L>Were I shut up within a tree,</L>
+<L>I'd rend my bark to follow thee.</L>
+</SP>
+<SP>
+<SPEAKER>Strephon.</SPEAKER>
+<L>My Shepardess make hast,</L>
+<L>The Minutes slide too fast.</L>
+<L>In those Cooler shades will I,</L>
+<L>Blind as <HI>Cupid</HI> kiss thine eye,</L>
+<L>
+
+<PB N="122" REF="68"/>In thy bosome then I'le stray,</L>
+<L>In such warm Snow who will not lose his way.</L>
+<STAGE>Chorus.</STAGE>
+<L>We'l laugh and leave this world behind,</L>
+<L>And God's themselves that see,</L>
+<L>Shall Envy thee and me,</L>
+<L>But never know such Joyes,</L>
+<L>When they Embrace a Deity.</L>
+</SP>
+</DIV2>
+<DIV2 N="32" TYPE="song">
+<HEAD><HI>SONG</HI> XXXII.</HEAD>
+<LG>
+<L>OH the merry <HI>Christ-Church</HI> Bells,</L>
+<L>One, two, three four, five, six,</L>
+<L>They are so woundy great,</L>
+<L>So wondrous sweet</L>
+<L>And they trowl so merrily, merrily.</L>
+</LG>
+<LG>
+<L>Oh the first and second Bell</L>
+<L>That every day at four and ten</L>
+<L>Cries come come, come come, come to Prayers,</L>
+<L>And the Verger troops before the Dean.</L>
+</LG>
+<LG N="3">
+<PB N="124" REF="69"/>
+<HEAD>III.</HEAD>
+<L>Tingle, Tingle, Ting, goes the small bell at nine</L>
+<L>To call the Beerers home,</L>
+<L>But there's never a man</L>
+<L>Will leave his can,</L>
+<L>Till he hears the mighty <HI>Tom.</HI></L>
+</LG>
+</DIV2>
+<DIV2 N="33" TYPE="song">
+<HEAD>SONG XXXIII.</HEAD>
+<L>CAst away care and merrily sing,</L>
+<L>There is a time for every thing,</L>
+<L>He that playes at his work,</L>
+<L>And works at his play,</L>
+<L>Neither keepes working nor holyday;</L>
+<L>Set business aside and let us be merry,</L>
+<L>And drown these sad thoughts in Canary and Sherry</L>
+</DIV2>
+<DIV2 N="34" TYPE="song">
+<HEAD>SONG XXXIV.</HEAD>
+<L>FYE nay prethee <HI>John</HI></L>
+<L>Do not quarel Man,</L>
+<L>Let's be Merry and drink about</L>
+<L>You'r a Rogue! you cheated me,</L>
+<L>I'le prov't before this Company,</L>
+<L>I care not a farthing Sr. for all you are so stout:</L>
+<L>Sr. you lye I scorn the word,</L>
+<L>From any man that wears a sword,</L>
+<L>For all you huff I care not a turd,</L>
+<L>Or who cares for you?</L>
+</DIV2>
+<DIV2 N="35" TYPE="song">
+<PB N="126" REF="70"/>
+<HEAD>SONG XXXV.</HEAD>
+<L>THE name of Lord</L>
+<L>Shall be abhord,</L>
+<L>For every mans a brother,</L>
+<L>No reason that</L>
+<L>In Church or State,</L>
+<L>One man should rule another.</L>
+<L>When we have thrown,</L>
+<L>The Bishops down,</L>
+<L>And leveld each degree.</L>
+<L>The Sisters soon</L>
+<L>Shall be our own,</L>
+<L>And Hey then up go we.</L>
+</DIV2>
+<DIV2 N="36" TYPE="song">
+<PB N="128" REF="71"/>
+<HEAD>SONG. XXXVI.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>SInce all the Features of Love that adorn thee</L>
+<L>And thy Curious face must fail,</L>
+<L>And those that were thine admirers shall scorn thee,</L>
+<L>Beauty less pleasant is the frail;</L>
+<L>Thy blooming sweets will soon decay,</L>
+<L>And ne're reflourish to a second May:</L>
+<L>The lease thou hadst of Grace and Hue,</L>
+<L>Nature will never, never more renew.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Now that thy Beautyes, are ripen'd to Harvest,</L>
+<L>And all the Fruits of love in their prime,</L>
+<L>And midst of plentiful Dainties thou starvest,</L>
+<L>And do'st refuse the presents of time;</L>
+<L>In one free Kiss, thy self resign,</L>
+<L>And I will render my Soul up to thine:</L>
+<L>Thus (Fairest) shall we two make one,</L>
+<L>Contracted by a Mistique Union.</L>
+</LG>
+</DIV2>
+<DIV2 N="37" TYPE="song">
+<PB N="117" REF="71"/>
+<HEAD>SONG XXXVII. Dear Friend.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>THE King and the Prelates,</L>
+<L>Will Cudgel the Zealots,</L>
+<L>With Crosier, and Scepter,</L>
+<L>Good Master <HI>Praeceptor.</HI></L>
+<L>And send them to whence came their Bible,</L>
+<L>Those wights in the <HI>Gate-House</HI></L>
+<L>(As <HI>Berkenhead</HI> Ga't us)</L>
+<L>Who thought to besquiter ye</L>
+<L>With the old Presbytery,</L>
+<L>Will hang ere't be long, 'tis possible.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>They'l serve to help Squire</L>
+<L><HI>Dun,</HI> out of the mire.</L>
+<L>VVho be'gan as a Friend</L>
+<L>To bring to an end,</L>
+<L>Both Covenant and Covenanters,</L>
+<L>He has but two wayes</L>
+<L>(As his VVorship now says)</L>
+<L>For those that come after</L>
+<L>To Hang, or cross Water,</L>
+<L>To Plant or Transplant, our Supplanters.</L>
+</LG>
+<LG N="3">
+<PB N="130" REF="72"/>
+<HEAD>III.</HEAD>
+<L>I hop'd from your letter,</L>
+<L>To have had a better</L>
+<L>Account of the man,</L>
+<L>That again and again,</L>
+<L>Does hit us in the teeth from the Pulpit,</L>
+<L>Since Pelf from the Bore</L>
+<L>Can make me no more</L>
+<L>A man of the Law</L>
+<L>Then was <HI>Jack Straw,</HI></L>
+<L>Qui legem ac Jura revulsit.</L>
+<L>A recruit must quicken the dull wit.</L>
+</LG>
+</DIV2>
+<DIV2 N="38" TYPE="song">
+<HEAD><HI>SONG</HI> XXXVIII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>MY Dearest sweet ly down by me,</L>
+<L>With thine Enamell'd ckeek to mine,</L>
+<L>While I my Soul breath into thee,</L>
+<L>And every kiss returns me thine.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Our Bodies we'l in Pleasures lull,</L>
+<L>And active Dalliances prove;</L>
+<L>For why? th' face is not more full,</L>
+<L>Of Beauty than I am of Love.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>My willing Armes and Thighs shall clip,</L>
+<L>And Ivy-like thy limbs entwine,</L>
+<L>
+
+<PB N="131" REF="72"/>When from thy Balsom-mouth I'le sip</L>
+<L>A sure restoring Medicine.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>And in the Respites of our sport,</L>
+<L>Thou shalt be-pearl thy Diamond Eye</L>
+<L>Cause Nature made her sweet so short,</L>
+<L>And shame me to a fresh supply.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>My busy hand and lips shall rove,</L>
+<L>O're all the sweets thy beauties wear</L>
+<L>And in thine Hony-suckle-grove,</L>
+<L>I'le distill what I gather'd there,</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Thy bold, and thy provoking touch,</L>
+<L>Shall Loves Alimbeck so apply,</L>
+<L>And shew thy Chymick skill is such,</L>
+<L>That I must melt in Love and Dy.</L>
+</LG>
+<LG N="7">
+<HEAD>VII</HEAD>
+<L>And being thus bereft of breath,</L>
+<L>Lovers shall at my Tomb appear,</L>
+<L>Wishing themselves no worse a Death,</L>
+<L>Nor better life, then I had here.</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>Ladies shall sighing drop a Tear,</L>
+<L>As with pure Love and Pity mov'd,</L>
+<L>That such a constant Servant (here,)</L>
+<L>Should dy because he over Lov'd.</L>
+</LG>
+</DIV2>
+<DIV2 N="39" TYPE="poem">
+<PB N="120" REF="73"/>
+<HEAD><HI>POEM</HI> XXXIX. On the Market in St. <HI>Pauls</HI> Church-Yard, set up by <HI>Tichborn,</HI> and Removed by Sir <HI>Rich. Browne</HI> Kt. and B. Lord Mayor of <HI>London.</HI></HEAD>
+<HEAD TYPE="sub">Sacer hic locus est, procul hinc procul ite prophani.</HEAD>
+<L>THe House of Prayer was made a Den of Thieves,</L>
+<L>Heavens forgive us! lets amend our Lives!</L>
+<L>A Scourge befal that Mony-changing Crew,</L>
+<L>Where neither God, nor <HI>Caesar</HI> has his due!</L>
+<L>Defiling sacred ground with Market stuff,</L>
+<L>As if the Streets had not been broad enough,</L>
+<L>To make a Burial-Place, a place of Trade,</L>
+<L>It is a kind of Living by the Dead,</L>
+<L>Me thinks the grave should open, &amp; the sprights,</L>
+<L>Of such as sin'd by measure &amp; by Weights,</L>
+<L>Should fright these Sons of Traffick from their bound</L>
+<L>Who with unhallow'd feet profan'd their ground,</L>
+<L>Tis well their Spirits are laid: <HI>Tichburn's a Guest,</HI></L>
+<L>Like an ill Conscience, ner'e would let them rest,</L>
+<L>What could we hope for, when we could not have,</L>
+<L>Quiet, within a solitary grave?</L>
+<L>
+
+<PB N="121" REF="73"/>But oh! how just is Heaven! his doom is red,</L>
+<L>No place among the Living, or the Dead;</L>
+<L>Perch with thy Brethren in Iniquity!</L>
+<L>A just Reward for all thy Simony!</L>
+<L>Whilst Pious <HI>Browne</HI> deserves our thanks at least,</L>
+<L>That when we are dead, our bones shall be at Rest.</L>
+</DIV2>
+<DIV2 N="40" TYPE="song">
+<HEAD>SONG XL.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>LEt's wet the whistle of the Muse,</L>
+<L>That sings the praise of every Juice,</L>
+<L>This House affords for Mortals use,</L>
+<L>Which no Body can Deny.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Heres Ale of <HI>Hull</HI> which 'tis well known</L>
+<L>Kept King and Keyser out of Town,</L>
+<L>Now in, will never hurt the Crown,</L>
+<L><HI>Which no body,</HI> &amp;c.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Here's <HI>Lambeth</HI> Ale to cool the Maw,</L>
+<L>And Beer as Spruce as e're you saw,</L>
+<L>But Mum as good as Man can draw,</L>
+<L><HI>Which no,</HI> &amp;c.</L>
+</LG>
+<LG N="4">
+<PB N="134" REF="74"/>
+<HEAD>IV.</HEAD>
+<L>If Reins be loose as some mens Lives,</L>
+<L>Whereat the Purling Female grieves,</L>
+<L>Here's stitch-back that will please your Wives,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Here's Cyder too, you little wot,</L>
+<L>How oft 'twill make you go to pot,</L>
+<L>Tis Red-streak all or it is not,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Here's Scholar that has dost his Gown,</L>
+<L>And donn'd his Cloak &amp; came to Town,</L>
+<L>Till all's up drink his Colledg down,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>Here's <HI>North</HI>-down, which in many a Case,</L>
+<L>Pulls all the Bloud into the face,</L>
+<L>Which blushing is a sign of Grace,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>If belly full of Ale doth grow,</L>
+<L>And Women runs in head, you know,</L>
+<L>Old <HI>Pharoh</HI> will not let you go,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>Here's that by some bold Brandy hight,</L>
+<L>Which <HI>Dutch men</HI> use in Case of fright,</L>
+<L>Will make a Coward for to fight,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="10">
+<PB N="135" REF="74"/>
+<HEAD>X.</HEAD>
+<L>Here's China Ale surpasseth far,</L>
+<L>What munden vents at Temple Bar,</L>
+<L>Tis good for Lords and Ladies ware,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>Here's of Epsam will not fox</L>
+<L>You, more then whats drawn out of Cocks</L>
+<L>Of <HI>Middleton,</HI> yet cures th'Pox,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="22">
+<HEAD>XXII:</HEAD>
+<L>For ease of heart here's that will do't,</L>
+<L>A Liquor you may have to boot,</L>
+<L>Invites you or the Devil to't,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>For Bottle Ale though it be windy,</L>
+<L>Whereof I cannot choose but mind yee,</L>
+<L>I would not have it left behind yee,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="14">
+<HEAD>XIV.</HEAD>
+<L>Take Scurvy Grass or Raddish Ale,</L>
+<L>Twill make you like an Horse to stale,</L>
+<L>And cures whatsoever you Ail,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="15">
+<HEAD>XV.</HEAD>
+<L>For County Ales as that of Chess,</L>
+<L>Or of <HI>Darby</HI> you'l confess,</L>
+<L>The more you drink, you'l need the less,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="16">
+<PB N="124" REF="75"/>
+<HEAD>XVI.</HEAD>
+<L>But one thing must be thought upon,</L>
+<L>For mornings draught when all is done</L>
+<L>A Pot of Purle for <HI>Harrison,</HI></L>
+<L>Which no body can deny.</L>
+</LG>
+</DIV2>
+<DIV2 N="41" TYPE="song">
+<HEAD><HI>SONG</HI> XLI.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>LEts sing as one may say the Fate</L>
+<L>Of those that meddle with this and that,</L>
+<L>And more then comes to their shares do prate,</L>
+<L>Which no body can deny.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Such who their Wine and Coffee Sip,</L>
+<L>And let fall words 'twixt Cup and Lip,</L>
+<L>To scandal of good fellowship,</L>
+<L><HI>Which no body,</HI> &amp;c.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Those Clubbers who when met &amp; sate,</L>
+<L>Where every Seat is Chair of State,</L>
+<L>As if they only knew whats what.</L>
+<L><HI>VVhich,</HI> &amp;c.</L>
+</LG>
+<LG N="4">
+<PB N="125" REF="75"/>
+<HEAD>IV</HEAD>
+<L>Dam me says one, were I so and so,</L>
+<L>Or as the King I know what I know,</L>
+<L>The Devil too wood with the <HI>French</HI> should go,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Would the King Comission grant</L>
+<L>To me, were <HI>Lewis John</HI> of Gant,</L>
+<L>I'de beat him or know why I shant,</L>
+<L><HI>Which no,</HI> &amp;c,</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>I'de undertake bring scores to ten</L>
+<L>Of mine at hours-warning-men,</L>
+<L>To make <HI>France</HI> tremble once again▪</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>The Claret takes, yet e're he drinks,</L>
+<L>Cries Pox o'th' <HI>French-man,</HI> but me thinks</L>
+<L>It must go round to my brothe-</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>He's the only Citizen of Sence,</L>
+<L>And Liberty is his pretence,</L>
+<L>And has enough of Conscience,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>The Bully that next to him sate,</L>
+<L>With a green Livery in his Hat,</L>
+<L>Cry'd what a plague would the <HI>French</HI> be at,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="10">
+<PB N="138" REF="76"/>
+<HEAD>X.</HEAD>
+<L>Zounds had the King without Offence,</L>
+<L>Been Rul'd by me, you'd seen long since,</L>
+<L>Chastisement for their Insolence,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>They take our Ships, do what they please,</L>
+<L>VVere ever play'd such Pranks as these,</L>
+<L>As if we were not Lord o'th' Seas,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="12">
+<HEAD>XII.</HEAD>
+<L>I told the King on't th'ther day.</L>
+<L>And how th' Intreagues o'th' matter lay,</L>
+<L>But Princes will have their one way,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>The next Man that did widen throat</L>
+<L>Was wight in half pil'd Velvet Coat,</L>
+<L>But he and that not worth a Groat,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="14">
+<HEAD>XIV.</HEAD>
+<L>VVho being planted next the Dore,</L>
+<L>(Pox on him for a Son of Whore)</L>
+<L>Inveighs against the Embassador,</L>
+</LG>
+<LG N="15">
+<HEAD>XV</HEAD>
+<L>Had the King (quoth he) put me upon't,</L>
+<L>You should have found how I had don't,</L>
+<L>But now you see what is come on't,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="16">
+<PB N="139" REF="76"/>
+<HEAD>XVI.</HEAD>
+<L>Quoth he if such an Act had stood,</L>
+<L>That was design'd for publick good,</L>
+<L>'Thad pass'd more then is understood,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="17">
+<HEAD>XVII.</HEAD>
+<L>But now forsooth our strictest Laws,</L>
+<L>Are 'gainst the Friends o'th' good old Cause,</L>
+<L>And if one hangs the other draws,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="18">
+<HEAD>XVIII.</HEAD>
+<L>But had <HI>I</HI> but so worthy been,</L>
+<L>To sit in place that some are in,</L>
+<L>I better had advis'd therein,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="19">
+<HEAD>XIX.</HEAD>
+<L>I am one that firm doth stand</L>
+<L>For Manefactures of the Land,</L>
+<L>Then Cyder takes in, out of hand,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="20">
+<HEAD>XX.</HEAD>
+<L>This English Wine (quoth he) &amp; Ale,</L>
+<L>Our Fathers drank before the Sale</L>
+<L>Of Sack on Pothecaries Stall,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="21">
+<HEAD>XXI.</HEAD>
+<L>These Outlandish drinks quoth he,</L>
+<L>The <HI>French,</HI> and <HI>Spanish</HI> Foppery,</L>
+<L>They tast too much of Popery,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="22">
+<PB N="128" REF="77"/>
+<HEAD>XXII.</HEAD>
+<L>And having thus their Verdicts spent,</L>
+<L>Concerning King and Parliament,</L>
+<L>They Scandalize a Government,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="23">
+<HEAD>XXIII.</HEAD>
+<L>An Hierarchy by such a Prince,</L>
+<L>As may be said without offence,</L>
+<L>None e're could boast more Excellence,</L>
+<L><HI>Which,</HI> &amp;c.</L>
+</LG>
+<LG N="24">
+<HEAD>XXIV.</HEAD>
+<L>God bless the King, the Queen &amp; Peers,</L>
+<L>Our Parliament and Overseres,</L>
+<L>And rid us of such Mutineers,</L>
+<L>Which no body can deny.</L>
+</LG>
+</DIV2>
+<DIV2 N="42" TYPE="sonnet">
+<HEAD>SONNET XLII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>REproach me not heretofore,</L>
+<L>I only freedome did adore,</L>
+<L>And bragg'd that none tho kind and fair,</L>
+<L>My loss of heart could er'e repair</L>
+<L>Since I most willingly do yield</L>
+<L>To <HI>Cloris</HI> beauty all the feild</L>
+</LG>
+<LG N="2">
+<PB N="129" REF="77"/>
+<HEAD>II.</HEAD>
+<L>With greater joy I now resign,</L>
+<L>My freedome then thou yet keep'st thine.</L>
+<L>And am resolv'd constant to prove</L>
+<L>Though thy neglect transcend my love.</L>
+<L>Strange charmes they are that make me burn,</L>
+<L>VVithout the hope of a return.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Thine eyes the greatest heart out braves,</L>
+<L>And at once pleases and enslaves,</L>
+<L>Thou wouldst not sure else see in them,</L>
+<L>An Act which now thou dost Condemn.</L>
+<L>Who then shall that assault abide,</L>
+<L>When fate doth strike on either side.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Thy Charming voice is much more free,</L>
+<L>Then after it thy hearers be.</L>
+<L>Nay thy voice is so firm and Clear</L>
+<L>That it inspires love through the Ear.</L>
+<L>VVho then can hope for a defence,</L>
+<L>Since thou hast chrams for every sence.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>I must confess a while I strove</L>
+<L>With reasons to resist my love.</L>
+<L>As Saints sometimes 'gainst death do pray,</L>
+<L>Though't be to heaven the only way.</L>
+<L>'Tis <HI>Cloris</HI> only hath the skill,</L>
+<L>To make me blest against my will.</L>
+</LG>
+<LG N="6">
+<PB N="142" REF="78" MS="y"/>
+<HEAD>VI.</HEAD>
+<L>Nor will I so much as indure,</L>
+<L>To think inconstancy a Cure.</L>
+<L>For were I to that sin but bent,</L>
+<L>Here would it prove my punishment.</L>
+<L>Where to adore I must Confess,</L>
+<L>Is better then elswhere success.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>To see thee and not be in love</L>
+<L>A wonder like thy self would prove.</L>
+<L>Thy charmes by vertue and by Art,</L>
+<L>Do each of them deserve an Heart,</L>
+<L>So that my sorrow is not small,</L>
+<L>I have but one to pay them all.</L>
+</LG>
+</DIV2>
+<DIV2 N="63" TYPE="poem">
+<HEAD>POEM LXIII. The new Year. To the ever Honored Mrs. <HI>M. H.</HI></HEAD>
+<OPENER><SALUTE>Madam</SALUTE></OPENER>
+<LG>
+<L>WHen I perceive the lease bund tenants prove,</L>
+<L>Their <HI>vn-mal'd</HI> Foules, fit Emblems of their love.</L>
+<L>(Which they Coop up, like the Tyth-Pig I mean,</L>
+<L>Not to approve in fat, but keep them lean.)</L>
+<L>
+
+<PB N="143" REF="78"/>I fear, when I with Annual Tribute come</L>
+<L>(A single offering, not an Hecatombe.)</L>
+<L>And starvling verses on your Alter lay,</L>
+<L>In lieu of what the <HI>Indyes</HI> cannot pay;</L>
+<L>That in a just dislike, as of that Crew,</L>
+<L>You will conclude that I'me ill guisted too.</L>
+<L>But I assume the Complement they make.,</L>
+<L>—<HI>Madam,</HI> I wish 'twere better for your sake</L>
+<L>But as it is—</L>
+</LG>
+<LG>
+<L>Live long and Happy! that your Age may be,</L>
+<L>As a Continual lasting Jubilee!</L>
+<L>And be it made the business of your life,</L>
+<L>To prove the Joyes of a Beloved Wife.</L>
+<L>Yet never know the same! and may all those,</L>
+<L>Sorrows Contriv'd for you, befall your Foes!</L>
+<L>And let your Marriage Computation run,</L>
+<L>With even Feet, for every year a Sun,</L>
+<L>And what we do in other Children call,</L>
+<L>A Dutious-Love, in them be Naturall!</L>
+<L>Last having left a fair posterity,</L>
+<L>To stock the Earth, ascend unto the Skye!</L>
+<L>Where you shall reap the Joyes of Heavens store,</L>
+<L>When years shall cease, and time shall be no more.</L>
+</LG>
+</DIV2>
+<DIV2 N="44" TYPE="song">
+<PB N="132" REF="79"/>
+<HEAD>SONG XLIV: Mock.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>FUll twenty times over and twenty to that,</L>
+<L>I musing have wondred what tis you'd be at,</L>
+<L>You pine and look pale like the liquors that's flat.</L>
+<L>For he's a cold Drinker,</L>
+<L>That now will turn skinker.</L>
+<L>Since thus runs the play,</L>
+<L>Since thus runs the play,</L>
+<L>If you sit up all night you are ready next day,</L>
+<L>Since thus runs the play,</L>
+<L>If you sit up all night you are ready next day.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>There's a Pipe ready Broach'd that would not be shut,</L>
+<L>With Legions of bottles prepar'd for the gut,</L>
+<L>If you give but your mind to't you'l swallow a But.</L>
+<L>Then stand not so dully</L>
+<L>But laver the Gully,</L>
+<L>VVith beer-bowl in fist,</L>
+<L>VVith beer-bowl in fist,</L>
+<L>If you charge him but well you may hit whom you ist.</L>
+<L>VVith beer-bowl in fist,</L>
+</LG>
+<LG N="3">
+<PB N="133" REF="79"/>
+<HEAD>III.</HEAD>
+<L>Some idle Companions when with them you sit,</L>
+<L>Will talk and fly high as if they had all the wit</L>
+<L>But alas it appears there the Devil a bit.</L>
+<L>Their Bisket Jests after</L>
+<L>They've steept in their laughter,</L>
+<L>VVith their pipes being broke,</L>
+<L>VVith their pipes being broke.</L>
+<L>And their Tobacco once out, they will vanish in smoak</L>
+<L>VVith their pipes <HI>&amp;c.</HI></L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Some stately proud high Boys will rant it &amp; call</L>
+<L>As if they would tipple the devil and all,</L>
+<L>But stand to them stiffly they will easily fall.</L>
+<L>Then to it nere fear them</L>
+<L>Set foot and come near them</L>
+<L>By drinking about,</L>
+<L>By drinking about.</L>
+<L>Be their heads ne're so empty they can ne're hold it out,</L>
+<L>By drinking about,</L>
+<L>Be there heads ne're so empty they can nere hold it out.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Some Punyes whose Cheekes are with blushes o're laid</L>
+<L>To fuddle a gallon will not be afraid,</L>
+<L>Put them to't and but tell them they drink like a maid</L>
+<L>Then cry but have at it,</L>
+<L>Lads will you be at it.</L>
+<L>If e're they refuse,</L>
+<L>If e're they refuse,</L>
+<L>To water as thou dost or I let them chuse,</L>
+<L>If e're they refuse</L>
+<L>To water as thou dost or I let them chuse.</L>
+</LG>
+</DIV2>
+<DIV2 N="45" TYPE="song">
+<PB N="134" REF="80"/>
+<HEAD><HI>SONG</HI> XLV. Mock.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>GOod Gaffer stand a loofe</L>
+<L>With your tinder-box hoof,</L>
+<L>That strikes fire at each stroak</L>
+<L>VVith a fume that choake</L>
+<L>One sooner then the vapour of matc<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/></L>
+<L>Your stamps and your shrugs,</L>
+<L>Your claps and your hugs,</L>
+<L>Your salute with a stroak,</L>
+<L>That would fell down an Oak;</L>
+<L>VVith Zounds Rogue how dost,</L>
+<L>And such clouted accost.</L>
+<L>You may keep for the Clods and the Thatch,</L>
+<L>You'r a Creature below us to bondage accurst,</L>
+<L>When the beasts vnto <HI>Adam</HI> were subjected first.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Titles are but a sign,</L>
+<L>To that which is within</L>
+<L>To let you Clounes know,</L>
+<L>What duty you owe,</L>
+<L>To their vertue and birth that do bear them,</L>
+<L>Else would you gape wider</L>
+<L>On the Horse then the Rider,</L>
+<L>
+
+<PB N="135" REF="80"/>With admiration adore</L>
+<L><HI>Dick</HI> the Constable more.</L>
+<L>VVhen with state he doth sit,</L>
+<L>VVith Rug gown and no wit.</L>
+<L>Then Robes or the nobles that wear them,</L>
+<L>A tough back's the best Herauld you peasants can have,</L>
+<L>And the heigth of your title a lusty stout Knave.</L>
+<L>No clothes can controule,</L>
+<L>A Gentlemans Soul</L>
+<L>But still hee'l appear,</L>
+<L>All glorious and Clear.</L>
+<L>Through the Clouds of blew breeches and patching.</L>
+<L>VVhile you though daub'd o're,</L>
+<L>VVith that you adore,</L>
+<L>Gold lace cannot hide</L>
+<L>Or change your inside,</L>
+<L>But that we may know</L>
+<L>Though glittering go,</L>
+<L>You've a Soule that is scarce worth the thatch∣ing.</L>
+<L>A lord though in rags still looks like the Law,</L>
+<L>VVrit in worme eaten bookes that strikes terrour and Awe.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>VVe all are but dust</L>
+<L>Yet differ we must.</L>
+<L>For if you can say</L>
+<L>Bacon broth and sowr whey</L>
+<L>
+
+<PB N="136" REF="81"/>With which the Veins of you Bores swolne be,</L>
+<L>Is the same or as good</L>
+<L>As that generous Bloud,</L>
+<L>Which flows from the Springs</L>
+<L>Of Princes and Kings,</L>
+<L>The way to be forgot,</L>
+<L>Were to be Valiant and stout,</L>
+<L>Since our deeds Live no longer then we,</L>
+<L>Our Children the Gout and our Acres inherit,</L>
+<L>And why not what's our own too, our Titles and Merit.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Then in your thatch sit</L>
+<L>And drink Ale as 'tis fit,</L>
+<L>And if you aspire,</L>
+<L>Be it but to drink higher,</L>
+<L>Call for sack and let State things alone,</L>
+<L>Or if you do look</L>
+<L>Into a News Book,</L>
+<L>Be it but to advise</L>
+<L>How your Rents may arise,</L>
+<L>And new Cesses and Rates,</L>
+<L>To Genteelize your Estates,</L>
+<L>And inable you by being undone,</L>
+<L>So may you gain Honour while your no Cares afford</L>
+<L>You leasure to tipple, and be as drunk's a Lord.</L>
+</LG>
+</DIV2>
+<DIV2 N="45" TYPE="song">
+<PB N="137" REF="81"/>
+<HEAD><HI>SONG</HI> XLV.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>PRethee Friend leave of thy thinking,</L>
+<L>Cast thy Cares of Love away;</L>
+<L>Sorrows still are drown'd in Drinking,</L>
+<L>Do not longer then delay;</L>
+<L><HI>Bacchus</HI> Sweares it is his will,</L>
+<L>That we should be drinking still.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Do but View this Glass of Clarret,</L>
+<L>How invitingly it looks,</L>
+<L>Drink it quickly, or you'l marr it,</L>
+<L>Pox of Fighting, and of Books,</L>
+<L>Fill us then good store of VVine,</L>
+<L>And hang him up that doth repine.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Call the drawer bid him fill it</L>
+<L>Full, as ever it can hold,</L>
+<L>Oh take heed you do not spill it,</L>
+<L>'Tis more precious far then Gold,</L>
+<L>Take it off, and then you'l prove,</L>
+<L>That Drinkings better sport then Love.</L>
+</LG>
+</DIV2>
+<DIV2 N="46" TYPE="song">
+<PB N="138" REF="82"/>
+<HEAD>SONG XLVI. Mock.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>PRethee Friend leave of thy Drinking,</L>
+<L>Cast thy Cups of Wine away,</L>
+<L>Do not Muse, but let's be thinking</L>
+<L>To get Whores, without delay.</L>
+<L><HI>Venus</HI> Swears it is her Will,</L>
+<L>That, we should be wenching still.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Do but view these pretty Lasses,</L>
+<L>How invitingly they sit,</L>
+<L>Tempting us to mind their Faces,</L>
+<L>And to please their Appetit,</L>
+<L>Then in kind Embraces prove,</L>
+<L>Women only worth your Love.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Call the Baw'd, and bid her fetch us,</L>
+<L>Fresh young Wenches in a main;</L>
+<L>Whilst betwixt each bout, we stretch us</L>
+<L>Kiss, and then go to't again,</L>
+<L>So when Natures sport is spent,</L>
+<L>Drinking then may yield content.</L>
+</LG>
+</DIV2>
+<DIV2 N="47" TYPE="song">
+<PB N="139" REF="82"/>
+<HEAD><HI>SONG</HI> XLVII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>FIre Fire,</L>
+<L>Loe! Here I burn in Such desire,</L>
+<L>That all the Tears that I can strain</L>
+<L>Out of my Empty Love sick brain,</L>
+<L>Cannot asswage my scorching pain,</L>
+<L>Come <HI>Humber, Trent,</HI> and silver Thames,</L>
+<L>Dread Ocean hast with your Streams,</L>
+<L>And if you cannot quench my Fire,</L>
+<L>Drown both me and my desire.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Fire Fire,</L>
+<L>There is no help for my desire,</L>
+<L>See how the Rivers backward fly,</L>
+<L>The Ocean doth its Tides deny,</L>
+<L>For fear my heart should drink them dry.</L>
+<L>Come Heavenly showers, come powring down,</L>
+<L>Come, you that once the World did drown,</L>
+<L>And if you cannot quench my Fire,</L>
+<L>O drown both me, and my desire.</L>
+</LG>
+</DIV2>
+<DIV2 N="47" TYPE="song">
+<PB N="140" REF="83"/>
+<HEAD><HI>SONG</HI> XLVII. Mock.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>FIre Fire,</L>
+<L>Is there no help for thy desire?</L>
+<L>Are Tears all spent? is <HI>Humber</HI> low?</L>
+<L>Doth <HI>Trent,</HI> stand still? doth Thames not flow?</L>
+<L>And does the Ocean backward go?</L>
+<L>Though all these can't thy Feaver Cure,</L>
+<L>Yet Tyburn is a Cooler lure,</L>
+<L>And since thou can'st not quench thy Fire,</L>
+<L>Go hang thy self, and thy desire.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Fire Fire,</L>
+<L>Here's one left for thy desire,</L>
+<L>Since that the Rainbow in the Skye,</L>
+<L>Is bent a deluge to deny,</L>
+<L>As loth for thee a God should Lye.</L>
+<L>Let gentle Rope come dangling down,</L>
+<L>One born to hang shall never drown,</L>
+<L>And since thou can'st not quench the Fire,</L>
+<L>Go hang thy self, and thy desire.</L>
+</LG>
+</DIV2>
+<DIV2 N="49" TYPE="song">
+<PB N="141" REF="83"/>
+<HEAD><HI>SONG</HI> XLIX.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>LOve! let me have my Mistress such</L>
+<L>(If I must need have one,</L>
+<L>Whose mettal will indure the touch,</L>
+<L>Whose touch will try the stone!</L>
+<L>Let her have sence I ask no more</L>
+<L>A Womans reason I abhor!</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Her noon like Eyes should shine as clear;</L>
+<L>And be so fixt on mine,</L>
+<L>The Salamander babe there,</L>
+<L>Should kindle and entwine,</L>
+<L>Then look me dead, that men may swear</L>
+<L>There is no Basilisk but her.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>If th' upper manna-lips distill,</L>
+<L>The sweets of every food,</L>
+<L>To sauce the Appetite (not fill)</L>
+<L>The Lover <HI>Limbeck</HI>'s good:</L>
+<L>To relish which▪ let Love invent,</L>
+<L>Away to crane his Instrument.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>The shrillows of the Siren noise,</L>
+<L>Should charm an <HI>Adders</HI> Ear;</L>
+<L>And where she Eccho'd all to voice,</L>
+<L>I'de be in Love with her▪</L>
+<L>
+
+<PB N="142" REF="84"/>To be Clamaeleon'd who would Care,</L>
+<L>So he might Juncat on such Air.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>I'de have her panther in her breath;</L>
+<L>And <HI>Phaenix</HI> in her breast,</L>
+<L>The vallies that are underneath,</L>
+<L>The Spicery of the East.</L>
+<L>I'de have her without much ado,</L>
+<L>But lo! I'de have her naked too:</L>
+<L>In spight of Fate, thus would I lye</L>
+<L>Mandrake to all Eternity.</L>
+</LG>
+</DIV2>
+<DIV2 N="49" TYPE="song">
+<HEAD>SONG XLIX.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L><HI>CLoris</HI> forbear a while,</L>
+<L>do not o'rejoy me,</L>
+<L>Urge not another smile</L>
+<L>Lest it destroy me</L>
+<L>That beauty pleases most,</L>
+<L>And is best taking,</L>
+<L>Which soon is won, soon lost</L>
+<L>Kind, yet forsaking:</L>
+<L>I Love a coming Lady faith! I do!</L>
+<L>But now and then, I'de have her scornful too.</L>
+</LG>
+<LG N="2">
+<PB N="143" REF="84"/>
+<HEAD>II.</HEAD>
+<L>O're cloud those Eyes of thine,</L>
+<L>Bo-peepe thy Features,</L>
+<L>Warm with an April shine,</L>
+<L>Scortch not thy Creatures,</L>
+<L>Still to display thy ware,</L>
+<L>Still to be fooling,</L>
+<L>Argues how rude you are,</L>
+<L>In <HI>Cupids</HI> Schooling,</L>
+<L>Disdains begets a suit, scorn draws us nigh,</L>
+<L>'Tis 'Cause I would, and cannot, make me try.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Fairst, I'de have thee Wise,</L>
+<L>When Gallants view thee,</L>
+<L>And Court, do thou dispise;</L>
+<L>Fast moves an Appetite;</L>
+<L>Fly, they'l persue thee;</L>
+<L>Fast moves an Appetite,</L>
+<L>Makes hunger greater,</L>
+<L>Who's stinted of Delights,</L>
+<L>Falls to't the better,</L>
+<L>Be kind and Coy by turns, be smooth &amp; rough▪</L>
+<L>And buckle now and then, and that's enough.</L>
+</LG>
+</DIV2>
+<DIV2 N="50" TYPE="song">
+<PB N="144" REF="85"/>
+<HEAD>SONG L.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>COme, come, away!</L>
+<L>No delay,</L>
+<L>To our wished delight!</L>
+<L>Sweet quickly hast, unto the greedy Lover!</L>
+<L>Throw, throw aside</L>
+<L>What may hide,</L>
+<L>The inquisitive sight!</L>
+<L>I'le be the only veil that shall the Cover,</L>
+<L>And we,</L>
+<L>Will both agree,</L>
+<L>And then shall see</L>
+<L>How we the time abuse,</L>
+<L>To trifle it away, with Empty wishes;</L>
+<L>Fond dreames,</L>
+<L>Are Childish Themes,</L>
+<L>Wherein the Creams</L>
+<L>O'th' sport, we always loose,</L>
+<L>Ad do neglect the sweeter after Kisses</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Come do not frown!</L>
+<L>Lay thee down!</L>
+<L>'Tis a thing must be done,</L>
+<L>Take of thy hand-good faith! 'tis wondrous pretty?</L>
+<L>Oh! what a quoyle?</L>
+<L>And a spoyle!</L>
+<L>E're this fort could be won,</L>
+<L>Nay, though thou sqeak, or cry I dare not pity.</L>
+<L>And now,</L>
+<L>I'le shew thee how</L>
+<L>
+
+<PB N="145" REF="85"/>Thy Dad did do,</L>
+<L>And score up wealthy Sums</L>
+<L>Of Kisses, on thy lips to highten Pleasures:</L>
+<L>Again!</L>
+<L>I can't refrain,</L>
+<L>I fear no pain,</L>
+<L>Oh now it comes, it comes!</L>
+<L>'Tis all, thine own, thou shalt have standing Measure.</L>
+</LG>
+<DIV3 TYPE="part">
+<HEAD>On a Servant Maid who satisfied her Amours with a Mastiff Dog.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>OUt! out! you Bitch! what it's the Devil you ail?</L>
+<L>How to a four-ledg Creature turn your tayle</L>
+<L>Strange Death of Female-mongers sure in town,</L>
+<L>When Mauger law Woman to beast lyes down</L>
+<L>And takes a nasty Cur those legs between,</L>
+<L>Where many a Christian had or ought to have been.</L>
+<L>Oh! what an age we live in, when alack,</L>
+<L>There's found a gill, that could not find her Jack,</L>
+<L>So that Sans fear of God in hugger mugger,</L>
+<L>The Femal must seduce the Male to bugger,</L>
+<L>Spight of Dame <HI>Shipton</HI> we have Men enough,</L>
+<L>Nor are they all bewitch'd, but Woman proo<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>,</L>
+<L>
+
+<PB N="146" REF="86"/>The maid o'th' holder forth first gave this hint,</L>
+<L>Or furor Cunni or the Devil was in't,</L>
+<L>Or was't for that two-leg'd-lawful Creature,</L>
+<L>I'th' Execution of the deed of Nature,</L>
+<L>Made that Sport was so sweet to be so short▪</L>
+<L>(And little thanks is con'nd dame nature for't,)</L>
+<L>That thou playd'st this Dog trick &amp; wouldst be Lym'd</L>
+<L>Ev'n for that Cause, thou mightst as well be Brim'd</L>
+<L>But lets suppose each wight is not so stayward,</L>
+<L>As Wallace was (of Yore) or yet blind Bayard,</L>
+<L>Yet one would think, that in this knack of love,</L>
+<L>Each Member should be fit as hand and glove.</L>
+<L>And that a Porters Pego may be as stiff,</L>
+<L>Dispraise to none as Utensill of Mastiff,</L>
+<L>Ev'ry Dog has his day, but this I wot,</L>
+<L>Before his Brethren's, came in, went to Pot.</L>
+<L>Like will to like as in old Writ we find,</L>
+<L>And why not Dog as well as Cat to kind.</L>
+<L>But what's the issue come on't, but all</L>
+<L>Bigenerous and Paternatural?</L>
+<L>Of such a kind of Breed as this I guess</L>
+<L><HI>Luellins</HI> was in his Men miracles,</L>
+<L>Where <HI>Aries</HI> head and face as said Man <HI>Daniel,</HI></L>
+<L>Was not unlike to that of Dog call'd Spaniel,</L>
+<L>But how the <HI>Mulier formosa superné,</HI></L>
+<L>Shall the definit, that will concern yee,</L>
+<L>Yet for Examples sake <HI>Serini</HI>'s Monster,</L>
+<L>Births of this or that nature can't miscenter.</L>
+<L>
+
+<PB N="147" REF="86"/>New-gate's black Dog, or Pistols Island Cur,</L>
+<L>Was probably this Sires Progenitor,</L>
+<L>But be they this or that or be they neither</L>
+<L>Dead and alive it seem'd they hang'd together.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 N="51" TYPE="song">
+<HEAD><HI>SONG</HI> LI.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>I Came, and look'd, and lik'd lov'd,</L>
+<L>And Frolick't in her Eye,</L>
+<L>While, fair <HI>Florilla,</HI> approv'd</L>
+<L>The harmless Courtesy:</L>
+<L>When, though my hopes were drown'd love blaz'd</L>
+<L>And set on fire my heart,</L>
+<L>While I still gaz'd</L>
+<L>On that, which caus'd my smart,</L>
+<L>Nor could my Tongue,</L>
+<L>Declare the wrong,</L>
+<L>Whereby, I sadly know,</L>
+<L>No pain above,</L>
+<L>The grief, they prove,</L>
+<L>Who fall in Love,</L>
+<L>And dare not say! they do.</L>
+</LG>
+<LG N="2">
+<PB N="148" REF="87"/>
+<HEAD>II.</HEAD>
+<L>What priviledg takes the nicer she?</L>
+<L>To me the thing's all one,</L>
+<L>Whether, of softer wax she be,</L>
+<L>Or of the Parian stone:</L>
+<L>The sport's the same, then tell me why,</L>
+<L>Fancy, should be so rude,</L>
+<L>For to deny</L>
+<L>What is, perhaps as good,</L>
+<L>From her that lends,</L>
+<L>And freely spends,</L>
+<L>What nature to her sent</L>
+<L>As from that dame,</L>
+<L>That counts it shame,</L>
+<L>To play the Game,</L>
+<L>Which lost, she may Repent.</L>
+</LG>
+<DIV3 TYPE="part">
+<HEAD>On a Barber who became a great Master of Musick</HEAD>
+<LG>
+<HEAD>f.</HEAD>
+<L>IN former time 't hath been upbrayded thus,</L>
+<L>That Barbers Musick was most Barbarous,</L>
+<L>For that the Cittern was confin'd unto</L>
+<L>The Ladies fall, or <HI>John</HI> come kiss me now,</L>
+<L>
+
+<PB N="149" REF="87"/>Green sleeves and Pudding Pyes, the Punks de∣light,</L>
+<L>Winning of <HI>Bolloigne, Essex</HI>'s last good night.</L>
+<L>But, since reduc'd to this Conformity,</L>
+<L>And Company became Society,</L>
+<L>Each Barber writes himself (in strictest Rules)</L>
+<L>Master, or Bachelor i'th' Musick Schools,</L>
+<L>How they the meer Musitians do out-go,</L>
+<L>These one, but they have two strings to their Bow,</L>
+<L>Barber-Musitians! who are excellent.</L>
+<L>As well at Chest, (as the Case) Instrument,</L>
+<L>Henceforth each Steward shall invite his guest</L>
+<L>Unto the Barbers and Musitians Feast.</L>
+<L>Where sit ye merry, whilst we Joy to see</L>
+<L>Art thus embrac'd by Ingenuity.</L>
+</LG>
+</DIV3>
+<DIV3 TYPE="part">
+<HEAD>A Round.</HEAD>
+<LG>
+<L>COme smooth off your Liquor!</L>
+<L>It makes the VVit quicker,</L>
+<L>And he, that his water refuses,</L>
+<L>VVhilst we laugh and sing,</L>
+<L>And quaff healths to the King;</L>
+<L>Shall ne're have a Bout with the Muses.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>The next to the Queen,</L>
+<L>Hold it up let's be seen;</L>
+<L>
+
+<PB N="150" REF="88"/>For we came to laugh and be merry,</L>
+<L>Call the Drawer with VVine,</L>
+<L>And cry this is mine,</L>
+<L>Be it Claret, Canary or Sherry.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>To the Duke swallow Franker,</L>
+<L>Since we have the Spanker,</L>
+<L>VVee'l e'ry man drink out an od peice,</L>
+<L>He that fails of his whole one,</L>
+<L>VVere he greater then <HI>Solon</HI>;</L>
+<L>Shall have all the rest in his Codpiece.</L>
+</LG>
+</DIV3>
+<DIV3 TYPE="part">
+<HEAD>On the Act of the Rump against Titles of Honour given by the King.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>DRaw the VVine,</L>
+<L>Fill the Bowl,</L>
+<L>Ne're repine</L>
+<L>Or Condole</L>
+<L>At the usage the States lay upon us▪</L>
+<L>Though they trample us down,</L>
+<L>Under foot, from a Crown,</L>
+<L>If we but hold up,</L>
+<L>For a Penliful Cup,</L>
+<L>VVe'l forgive all the mischief they've done us.</L>
+<L>Let our Honours</L>
+<L>And our Mannors,</L>
+<L>
+
+<PB N="151" REF="88"/>Be Confiscate to their Powers,</L>
+<L>If we Sack</L>
+<L>May not lack,</L>
+<L>The whole VVorld shall be ours,</L>
+<L>And while their kindness, this fair boon affords,</L>
+<L>Tho we cannot spend, we'l be as drunk as Lords.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Then about</L>
+<L>Give the Glass,</L>
+<L>Suck it out!</L>
+<L>Let it pass!</L>
+<L>And who tipples as long as he's able,</L>
+<L>Tho' he's shrunk from Sir <HI>John,</HI></L>
+<L>To poor <HI>Jack</HI> all is one,</L>
+<L>Let his Lady take snuff,</L>
+<L>If he but drink enough,</L>
+<L>VVe'l Instal him Knt. of the round table,</L>
+<L>Other Titles,</L>
+<L>Are but Trifles,</L>
+<L>Not deserving our thinking,</L>
+<L>Hence we'l make</L>
+<L>Lawes, to take</L>
+<L>Our degrees, from good drinking.</L>
+<L>Honour's a Pageant, we disclaim the thing?</L>
+<L>VVho'd be a Knt. where <HI>Charles</HI> is not a King?</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Drink away,</L>
+<L>Have at all,</L>
+<L>VVhile we stay</L>
+<L>Let us call,</L>
+<L>
+
+<PB N="152" REF="89"/>And, as <HI>Lilburn</HI> would have us, be Freemen,</L>
+<L>And who tope out their time,</L>
+<L>Till the midnight shall shine,</L>
+<L>Their Mistresses, they</L>
+<L>Shall be Ladies of the May,</L>
+<L>And themselves, of the bottles, the Yeomen?</L>
+<L>The Commanders,</L>
+<L>That were Ranters,</L>
+<L>Shall Comence, now, to be Hectors,</L>
+<L>And be still</L>
+<L>As Gentile</L>
+<L>As the Kingdoms Protectors,</L>
+<L>And bear, (dispite of State or <HI>Heraulds</HI> Rules)</L>
+<L>I'th' Pockets, Argent in their Faces Gules.</L>
+</LG>
+</DIV3>
+<DIV3 TYPE="part">
+<HEAD>At General <HI>Monk</HI>'s coming to <HI>London.</HI></HEAD>
+<LG>
+<L>NOw <HI>Lambert</HI>'s sunk,</L>
+<L>And mighty <HI>Monk</HI></L>
+<L>Succeeds the Tyrannous <HI>Cromwel,</HI></L>
+<L>And <HI>Arthurs</HI> Court,</L>
+<L>'Cause time is short,</L>
+<L>Do rage like Devils from Hell.</L>
+<L>Let's mark the Fate,</L>
+<L>And Course of State,</L>
+<L>
+
+<PB N="153" REF="89"/>VVho rises, while t'other is sinking,</L>
+<L>And believe, when this is past,</L>
+<L>'Twill be our turn at last;</L>
+<L>By the good Old Cause of Drinking.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>First <HI>Sa' fleum Nol,</HI></L>
+<L>He swallow'd all,</L>
+<L>His smeller, show'd he lov'd it,</L>
+<L>But <HI>Dick</HI> his Son,</L>
+<L>As he were none,</L>
+<L>Gave't off, and had reprov'd it,</L>
+<L>But that his Foes,</L>
+<L>Made bridge of's nose,</L>
+<L>And cry'd him down for a Protector,</L>
+<L>Proving him, to be a fool,</L>
+<L>That would undertake to Rule,</L>
+<L>And not fight and drink like Hector.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>The Graecian lad,</L>
+<L>He drank like mad,</L>
+<L>Minding no work above it;</L>
+<L>And (<HI>Sans</HI> question)</L>
+<L>Kill'd <HI>Ephestion,</HI></L>
+<L>Cause he'd not approve it,</L>
+<L>He got Command</L>
+<L>VVhere God had Land,</L>
+<L>And like a right maudlin Younker,</L>
+<L>VVhen he tippl'd all, and wept,</L>
+<L>He lay'd him down and slept,</L>
+<L>Having no more VVorlds to Conquer.</L>
+</LG>
+<LG N="4">
+<PB N="154" REF="90"/>
+<HEAD>IV.</HEAD>
+<L>Rump Parliament,</L>
+<L>VVould needs invent</L>
+<L>An Oath of Abjuration,</L>
+<L>But Obedience,</L>
+<L>And Alegiance,</L>
+<L>Now are all in Fashion;</L>
+<L>Then here's a bowl,</L>
+<L>VVith Heart and Soul</L>
+<L>To <HI>Charles,</HI> and say amen to't,</L>
+<L>Tho they brought the Father down</L>
+<L>From a triple Kingdom Crown,</L>
+<L>VVe'l drink the Son up agen to't.</L>
+</LG>
+</DIV3>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB N="155" REF="90"/>
+<HEAD>New-Years-Day, To my Dear Friend <HI>W. M.</HI> <ABBR>Esq</ABBR>:</HEAD>
+<L>THough 'mongst the numerous throng I'm hither come,</L>
+<L>With one poor Item, 'tis my total sum,</L>
+<L>A Poets stock (tho no great matter 'tis,)</L>
+<L>Is all that one can wish, and such is this.</L>
+<L>Health that's the Joy of Life, and Soul of Mirth,</L>
+<L>Bane of Dispair, and Comfort of our birth,</L>
+<L>May't with your Years, as clearly last and rise,</L>
+<L>As 'twas e're winds had blasted Paradice▪</L>
+<L>Wealth! the support of Pleasure and the Crown</L>
+<L>Of Worldly hope! the Glory and Renown,</L>
+<L>Of Fortunes white Boys, the fond beggers grutch,</L>
+<L>Envy'd of only those deserve not much,</L>
+<L>May this (and each) year, yeild to my Lov'd <HI>Moyle,</HI></L>
+<L>As a perpetual Triumph and a spoile!</L>
+<L>Now, as who not enjoy, or covet more,</L>
+<L>Are but their Riches Goalers, and still poor,</L>
+<L>May the same equal temper, the same Fire,</L>
+<L>(That never Flag too low, nor can mount higher,)</L>
+<L>
+
+<PB N="156" REF="91"/>Enflame your Breast; whereto be ever sent,</L>
+<L>That Which all seek (but find not) true content</L>
+<L>May all your Aims atchieve their purpos'd end,</L>
+<L>And never find what 'tis to want a Friend.</L>
+<L>Unless the Kinder Heavens had me assign'd</L>
+<L>As much of Power to serve you, as of mind,</L>
+<L>Then need you wish no more, for't should be known,</L>
+<L>'How far I prize your Fortunes 'bove mine own,</L>
+<L><GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>Mongst other gifts, I'le give you this gift too,</L>
+<L>I ne're found Friend, so much a Friend as you.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>New Year, to <HI>W. M.</HI> <ABBR>Esq</ABBR></HEAD>
+<L>NOw when the honest Tenant gladly brings</L>
+<L>His Eunuch't Gift, (to shew that love hath Wings)</L>
+<L>Prompted by his Customs, (by nature) so,</L>
+<L>My half hatch't Muse becomes penfeather'd too,</L>
+<L>For (tho I'm but at will and can't renew,</L>
+<L>Yet,) during Life I hold mine all from you,</L>
+<L>You (my best Genius) whose Indulgent Care</L>
+<L>Confirms me, there's none other Tutelar:</L>
+<L>My Glory and my Comfort, All in All,</L>
+<L>A narure truly supernatural.</L>
+<L>Had <HI>Plutarch</HI> liv'd, and known you half so well,</L>
+<L>Y'had puzled him t'have found your Parallel.</L>
+<L>
+
+<PB N="157" REF="91"/>May Heaven forestall your asking with such Bliss</L>
+<L>As neither you, nor I should dare to wish.</L>
+<L>Quiet in State and mind oh may you prove</L>
+<L>Content in all things, as your Ladies love.</L>
+<L>And may your mutual Embraces bind</L>
+<L>Not only bodies but each others mind,</L>
+<L>Which never any Power may untye,</L>
+<L>Untill that either one, or both shall dye.</L>
+<L>May both your Sons be like you in th' Extreme,</L>
+<L>And then I'le swear none e're shall be like them,</L>
+<L>May you still have your Will, and ne're want Powers,</L>
+<L>And I ne're be my self but when I'm <HI>Yours.</HI></L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>On one <HI>Grace C.</HI> an Insatiate Whore.</HEAD>
+<L>GO shameful Model of a Cursed Whore!</L>
+<L>Damn'd by Creation ever to be poor!</L>
+<L>Tho' Cloth'd in Indian Silk, or what may be,</L>
+<L>Consumed on thy matchless Venery.</L>
+<L>Thou Eldest Daughter to the Prince of Night,</L>
+<L>That can'st out-ly thy Father at first Sight.</L>
+<L>Out-Scoff an Ishmaelite and attempt more,</L>
+<L>Than all our Wicked Age hath done before.</L>
+<L>
+
+<PB N="158" REF="92"/>Nay where the Devil ends, thou can'st begin,</L>
+<L>And teach both him and us, new ways to sin;</L>
+<L>Making us to conclude that all bad Crimes</L>
+<L>Are but thy peices Coppy'd by the times.</L>
+<L>Surely thou wert born a Whore from the Womb</L>
+<L>Of some Rank Baud, Unsavory's a Tomb.</L>
+<L>That Carted from all Parishes did sell</L>
+<L>Forbidden Fruit in the high way to Hell.</L>
+<L>If 'twere not Sin to Curse, would they might have</L>
+<L>Thee in Esteem, as an insatiate Grave!</L>
+<L>And when with old age and diseases crost,</L>
+<L>(The patient Grissel of thy Nose being lost)</L>
+<L>Let every Hospital grudg and repine,</L>
+<L>To give thee one poor plaister for thy Groyne.</L>
+<L>And ne're let any Man bemone the Case</L>
+<L>That ever knew thee in the State of <HI>Grace Cook</HI></L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB N="159" REF="92"/>
+<HEAD>On the Death of the late Tyrannical V∣surper, <HI>Oliver Cromwel.</HI></HEAD>
+<L>GOne with a Vengeance! had he twenty lives</L>
+<L>He needs must go (they say) the Devil drives.</L>
+<L>Nor went he hence away, like Lamb so mild</L>
+<L>Or Falstaff-wise, like any Chrisome-Child.</L>
+<L>In <HI>Arthur</HI>'s Bosom, he's not hush, yet dy'd</L>
+<L>Just as he did, at turning of the Tide;</L>
+<L>But with it such wind, the Sails did swell,</L>
+<L><HI>Charon</HI> ne're made a quicker pass to Hell.</L>
+<L>Now, as there must be wonder to pretend</L>
+<L>Every notorious Birth, or dismal end,</L>
+<L>Just as when Hotspurs Grannams Cat (of Yore)</L>
+<L>Did Kitten, or when <HI>Pokins</HI> lost a Bore,</L>
+<L>So when this prodigy of Nature fell,</L>
+<L>Her self seem'd half unhing'd, Tempest foretell</L>
+<L>Direful Events, <HI>Boreas</HI> was out of Breath,</L>
+<L>Till by his Soul inspir'd at his Death.</L>
+<L>Then full of this same blustring Sir, he throws</L>
+<L>Down sturdy Oakes and Elms, to kiss his Toes.</L>
+<L>Himself was heart of Oak, so now they strive</L>
+<L>To simpath with him, dead as when alive.</L>
+<L>Trees now, as Men, like Trees reverted stood,</L>
+<L>You'd think the Devil had been gon to wood.</L>
+<L>All things were Topsy-turvy, thus he fell,</L>
+<L>The wrath of Heaven, and the prey of Hell.</L>
+</DIV1>
+<DIV1 LANG="lat" TYPE="version">
+<PB N="3" REF="8"/>
+<HEAD>CARMINA ET POEMATA.</HEAD>
+<DIV2 N="1" TYPE="song">
+<HEAD>CANT. I.</HEAD>
+<LG>
+<L>MIserescas Domine!</L>
+<L>Commilitis Inediae!</L>
+<L>Nec Fauces etsi macescant,</L>
+<L>Benignitatem terreant!</L>
+<L>At des Benevolus,</L>
+<L>De tuis opibus,</L>
+<L>Quod Deus est redditurus:</L>
+<L>Erit{que} in precibus,</L>
+<L>Vt sis Beatulus,</L>
+<L>Terrenis, ac Caelestibus.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Petere non soleo,</L>
+<L>Quapropter, nunc Erubeo!</L>
+<L>Hu<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> illuc non obambulo.</L>
+<L><GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/> status sim Pr<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>eco:</L>
+<L>
+
+<PB N="5" REF="9"/>Non sum de Vilibus,</L>
+<L>Istis Erronibus,</L>
+<L>Cicatrices Jactantibus,</L>
+<L>Quae dantur cominùs</L>
+<L>In Bacchanalibus,</L>
+<L>De symbolo pugnantibus.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>A<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> ego, mancus bellavi,</L>
+<L>A<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> Praeliis interfui:</L>
+<L>Bombardis intonantibus,</L>
+<L>Sum us{que} Versatissimus.</L>
+<L>Semèl in Aggere,</L>
+<L>Vt sit intrepide,</L>
+<L>Misso, palmario Fulmine,</L>
+<L>Mors, mihi assuit,</L>
+<L>N<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>m Aurem rapuit;</L>
+<L>At heic sum, Deo Gratia sit.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Bis s<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>xies, ad minimum,</L>
+<L>Cuniculi<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>s E<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>la<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>s sum,</L>
+<L>Fixus{que} ter per Cranium,</L>
+<L><GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/> ebullarit Cerebrum;</L>
+<L>Ac semianimus,</L>
+<L>Fugatis aliis,</L>
+<L>Locatus sum in Lectis,</L>
+<L>In-dies subegi,</L>
+<L>Tantum periculi▪</L>
+<L>Q<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>antum terr<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ri sit Tibi▪</L>
+</LG>
+<LG N="5">
+<PB N="7" REF="10"/>
+<HEAD>V.</HEAD>
+<L>Lanciendo, lumen amisi,</L>
+<L>Bergen obsessâ, Crus fregi:</L>
+<L>Bruxellae, adhuc Juvenis</L>
+<L>Dimicui, par Amentis.</L>
+<L>Ah Credes minimè</L>
+<L>Me Vnquàm fuisse</L>
+<L>De veteranis Reginae;</L>
+<L>Sin Verum Dominum,</L>
+<L>Mors redderet Vivum,</L>
+<L>Probaret me Pugnaculum.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Furorem Nôrunt <HI>Zelandi,</HI></L>
+<L>Quibuscum saepe cer<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>avi,</L>
+<L>Vnde Saltamus Pyrrhicam,</L>
+<L>Per <HI>Hispanos,</HI> in <HI>Galliam.</HI></L>
+<L>Quà sanguis Nobilis,</L>
+<L>Adinstar fluminis,</L>
+<L>Effluxit pro vilissimis,</L>
+<L>At nunc sum reversus,</L>
+<L>Laceratis vestibus,</L>
+<L>Summulam te rogaturus.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>Res hasce cùm intelligas,</L>
+<L>Juvantem Manum praeheas,</L>
+<L>Placebit mihi minimum,</L>
+<L>Vt Praestes te munificum:</L>
+<L>
+
+<PB N="9" REF="11"/>Non Panem, Caseum,</L>
+<L>Potum hordeaceum,</L>
+<L>Nec de Carne frustulum,</L>
+<L>Abs te esslagito,</L>
+<L>Sed solidos duo.</L>
+<L>Idcircò Bursam solvito.</L>
+</LG>
+</DIV2>
+<DIV2 N="2" TYPE="song">
+<HEAD>CANT. II.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>S<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> Duce (sor<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>) indig<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>as,</L>
+<L>Instruam te ut dividas.</L>
+<L>S<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>um Cui{que} tribue,</L>
+<L>Caecutis par Justitiae.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L><GAP DESC="illegible" EXTENT="1 line" DISP="〈1 line〉"/></L>
+<L><GAP DESC="illegible" EXTENT="1 line" DISP="〈1 line〉"/></L>
+<L><GAP DESC="illegible" EXTENT="1 line" DISP="〈1 line〉"/></L>
+<L><GAP DESC="illegible" EXTENT="1 line" DISP="〈1 line〉"/></L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L><GAP DESC="illegible" EXTENT="1 line" DISP="〈1 line〉"/></L>
+<L><GAP DESC="illegible" EXTENT="1 line" DISP="〈1 line〉"/></L>
+<L><GAP DESC="illegible" EXTENT="1 line" DISP="〈1 line〉"/></L>
+<L><GAP DESC="illegible" EXTENT="1 line" DISP="〈1 line〉"/></L>
+</LG>
+<LG N="4">
+<PB N="11" REF="12"/>
+<HEAD>IV.</HEAD>
+<L>Et nè vilescat Histrio,</L>
+<L>Aglauras plures addito,</L>
+<L>Tot aures da Fanaticis,</L>
+<L>Quot sunt aristae Cereris!</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Et quali poenâ rependas,</L>
+<L>Gallorum insolentias?</L>
+<L>Tam gravem novi non aliam,</L>
+<L>Quàm transmitti in <HI>Galliam.</HI></L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>(Si placet) &amp; ad medicum,</L>
+<L>Mittas morbum novitium,</L>
+<L>(Si potes) des Scholaribus,</L>
+<L>Vicariam, sine Litibus.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>Magnates sint monopolae!</L>
+<L><GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>xores &amp; Publicolae!</L>
+<L>Sic sors placebis omnibus,</L>
+<L>Eis Altis, His Jacentibus.</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>Et quantum das Causidico,</L>
+<L>Da tantum pro silentio,</L>
+<L>Vim Dorsi praeambulonibus,</L>
+<L>Ac mihi vinum Potibus.</L>
+</LG>
+</DIV2>
+<DIV2 N="3" TYPE="song">
+<PB N="13" REF="13"/>
+<HEAD>CANT. III.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>MIhi sis Assedo (melleum Cor,)</L>
+<L>Si Dura fias, Emorior▪</L>
+<L>Si Dura, nolis me Conjugem,</L>
+<L>Vbinàm habeam tui parem?</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Nundinis, ac Feriis, interfui,</L>
+<L>At tibi similem non vidi▪</L>
+<L>Diù quaesivi non inventam,</L>
+<L>Vspiàm talem amiculam.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Vt sis Ornata, nil aberit,</L>
+<L>Modò mea sis, omne aderit;</L>
+<L>Caput tuum sertis, Coronabitur,</L>
+<L>Inst<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ta{que} vestis Circabitur.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Ma<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>è; praeter ripas, pendeat Hamus,</L>
+<L>Pis<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>es prolapsos, capturus;</L>
+<L>Quilibet èqueis capietur a te,</L>
+<L>Haud secùs quàm cepisti me.</L>
+</LG>
+<LG N="5">
+<PB N="15" REF="14"/>
+<HEAD>V.</HEAD>
+<L>Impletâ Perâ, quid agemus?</L>
+<L>Domum cis montem qùin visemus,</L>
+<L>Vbi erit mihi Comedo,</L>
+<L>At ipsa eris pro Epúlo.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Vt basiem labra Cerasina,</L>
+<L>Oris vestigan<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> miracula;</L>
+<L>Mammarum, Candidos globulos,</L>
+<L>Rubras Genas, nigròs{que} oculos.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>Tecum ut ut, pernoctabo,</L>
+<L>Omnia erunt pro delicio.</L>
+<L>En tibi Quodlibet, etiam me,</L>
+<L>Scilicet Aliquid juvans te.</L>
+</LG>
+</DIV2>
+<DIV2 N="4" TYPE="song">
+<HEAD>CANT. IV.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>COR est meo Corculo,</L>
+<L>Gratum, sicut cilium dedit.</L>
+<L>Quando Amatorio,</L>
+<L>Oculis{que} me subegit.</L>
+<L>
+
+<PB N="17" REF="15"/>At adeò est mutabilis</L>
+<L>Levis, aptà{que} vagari,</L>
+<L>Vt Cardia foret fragilis,</L>
+<L>Ab illa Diem separari.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Hanc Circumdant Gaudia,</L>
+<L>Beatitudo, incantatio,</L>
+<L>Flammillis armat Lumina,</L>
+<L>Labra Capit Suaviatio,</L>
+<L>Loquens Angelos tenet,</L>
+<L>Lux mea est, &amp; admiranda,</L>
+<L>At Cor suspicax Franget,</L>
+<L>A me si noctem seperanda.</L>
+</LG>
+</DIV2>
+<DIV2 N="5" TYPE="song">
+<HEAD>CANT. V.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>PEnelope, Phoebe, Lucretia,</L>
+<L>Ponantur in vilibus:</L>
+<L>Cedant Comitissa, Ducissa,</L>
+<L>Opus-operantibus:</L>
+<L>Huic operam faciles,</L>
+<L>Dente-unge, obnixe dant</L>
+<L>Fututuris Agiles,</L>
+<L>Vt Succubae, se praestant.</L>
+</LG>
+<LG N="2">
+<PB N="19" REF="16"/>
+<HEAD>II.</HEAD>
+<L>Procacitas quaevis abesto,</L>
+<L>Loquaces aufugiunt,</L>
+<L>Molestia nulla subesto!</L>
+<L>Quid voltis intelligunt.</L>
+<L>Vltroneam opem dant,</L>
+<L>Quum vestra Res agitur,</L>
+<L>Rem Rei subministrant,</L>
+<L>Rerúm{que} satagitur.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Procus iste depereat malè</L>
+<L>Ad fores Amiculae!</L>
+<L>Cui suavium, non aequale</L>
+<L>Whetston-Meretriculae!</L>
+<L>Illic blandiendum est,</L>
+<L>Dare manibus Basium,</L>
+<L>Dum hic, nil agendum est,</L>
+<L>Quin Prostat ad libitum.</L>
+</LG>
+</DIV2>
+<DIV2 N="6" TYPE="song">
+<HEAD>CANT VI.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>INeante Phyllide nolens volens,</L>
+<L><GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>n Pastor adivit per ostia movens.</L>
+<L>
+
+<PB N="21" REF="17"/>Quo casu, Timores, &amp; spes, sunt rati,</L>
+<L>Cùm vidit, hanc mastrupantem in Ecstasi.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Supina, jacet Extensis Cruribus,</L>
+<L>Pulvinó{que} posito sub natibus,</L>
+<L>Phantasiae, manús{que} victa operâ,</L>
+<L>Tremuít{que} movít{que}-scitis Caetera.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Citiùs quàm opilio, ignis aderat,</L>
+<L>Nympha actuaria opus egerat,</L>
+<L>Suspiciens, ibidem, cùm illum vidit,</L>
+<L>Me miseram! dixit, hoc quomodo fit?</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Mulierum est fatum, hoc ferre mali,</L>
+<L>Vestrum velle, nolle, pejora pati.</L>
+<L>Languentes amore, pallemus, ploramus,</L>
+<L>Dum, <HI>(viz▪)</HI> hâc virtute, tibi nos obstamus.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Audax Pastor protinus appropinquat,</L>
+<L>Ac solito metu <HI>Nympha</HI> avolat.</L>
+<L>
+
+<PB N="23" REF="18"/>Insequente illo, Oh! ait submissè,</L>
+<L>Oh! stultam me! Citiùs non dedisse.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Manum illi praebuit osculatam,</L>
+<L>Jurans se non priùs esse beatam,</L>
+<L>Subrisu Cachinnat amplectens illum,</L>
+<L>Dixit{que} spero te non peracturum.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>Secundò Pastorculus Congressurus,</L>
+<L>Vigore, quo primò est fututurus,</L>
+<L>Malum! expergenti, quid? insomnium?</L>
+<L>Etiam si par vocationi visum.</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>Nympham perdilectam statim adiit,</L>
+<L>Horario quod priùs fictum finiit,</L>
+<L>Jurans Captum fore se Revelatione,</L>
+<L>Scilicet Lenâ optimâ in Natione.</L>
+</LG>
+</DIV2>
+<DIV2 N="7" TYPE="song">
+<PB N="25" REF="19"/>
+<HEAD>CANT VII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>CVRfore dicis perjurum,</L>
+<L>Tuum voventem me?</L>
+<L>Diescit ecce Jamdudum,</L>
+<L>Ac promittebam vesperè,</L>
+<L>Hoc vanum Impossibile.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Multum diú{que} amabam,</L>
+<L>(Diei spatium,)</L>
+<L>Aliis ferrem Injuriam,</L>
+<L>Ac Impedirem coitum,</L>
+<L>Adamans te perpetuùm.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Sed tamen Crines nigelli,</L>
+<L>Perplaceant aliis,</L>
+<L>Atri, mihi, ac Pul<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>helli<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>▪</L>
+<L>Sic fodiunt, pro copiis,</L>
+<L>Terris prorsus incognitis▪</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>At Circum cùm vagavero,</L>
+<L>Si Bellam proestes te,</L>
+<L>Spoliis onustus adero,</L>
+<L>Gaudens ad te revertere,</L>
+<L>Satiatus varietate.</L>
+</LG>
+</DIV2>
+<DIV2 N="8" TYPE="song">
+<PB N="29" REF="21"/>
+<HEAD>CANT. VIII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>SI praefuisses formulâ</L>
+<L>Cui Cessit Artis Normula,</L>
+<L>Aut si fuisses oculis</L>
+<L>Telis Armata Corculis,</L>
+<L>Si non Emissa sint ad me,</L>
+<L>Nequaquam decurabo te.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Mallem me morbo jungere,</L>
+<L>Quàm Pervicacem petere:</L>
+<L>Ignes quae nostros nutriet,</L>
+<L>Flammas Flammis suppeditet:</L>
+<L>Quid mellis est in Osculo,</L>
+<L>Quùm fidei nil in Corculo?</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Non Amo te pro decore,</L>
+<L>Parem Plumae, parem Aurae,</L>
+<L>Nec non pro Cupidinibus,</L>
+<L>Innatis in Luminibus.</L>
+<L>At causam si vis noscere,</L>
+<L>Amo te quòd Amâsti me.</L>
+</LG>
+</DIV2>
+<DIV2 N="9" TYPE="song">
+<PB N="31" REF="22"/>
+<HEAD>CANT. IX.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>MEL meum! Moriar vesperì!</L>
+<L>Vel risu non obstante!</L>
+<L>Sed jam Cedamus Tempori,</L>
+<L>Nemine adversante!</L>
+<L>Tum Fronte caperata sis,</L>
+<L>Vt modus pereundi,</L>
+<L>Etiamsi vitae quàm gravis,</L>
+<L>Sit Emulatio Mundi.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Quidam ut artes Calleant,</L>
+<L>Tabescunt meditando,</L>
+<L>Alii, quos vina glutinant,</L>
+<L>Vanescunt e potando:</L>
+<L>Alii cis Indos naufragi,</L>
+<L>Quos Lucrum invitabat,</L>
+<L>Alii in bello sunt Caesi,</L>
+<L>Quos Lyra non Juvabat.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Quàm miserè emigrant hi!</L>
+<L>Exequiis priuati!</L>
+<L>Cordolio demortui</L>
+<L>Amori magis grati:</L>
+<L>
+
+<PB N="33" REF="23"/>Redolet ejus memoria,</L>
+<L>Omnium Complexum movens,</L>
+<L>Presentè qui Amiculâ,</L>
+<L>Pessum ea<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> Demoriens.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Te Caperante, morior,</L>
+<L>F<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>nantibus Amasiis,</L>
+<L>Juxta quos intumulabor,</L>
+<L>His Bus<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>is Consecratis,</L>
+<L>Si grave sacerdotibus,</L>
+<L>Mortem non probaturis,</L>
+<L>Legatum dedam vatibus,</L>
+<L>Am<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>res ed<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>cturis.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Campanae detur sonitus,</L>
+<L>Pro Juvene Defuncto,</L>
+<L>Qui pr<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>eest aliis omnibus,</L>
+<L>Cum cord<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> non disjuncto,</L>
+<L>Sternar Virgineis Floribus,</L>
+<L>Si vero Lachrimâris,</L>
+<L>Proecellent sic Odoribus</L>
+<L>Vt ipsis te ornâris.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Flores Flor<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> quanti ducet,</L>
+<L>Prope procum Crescentes,</L>
+<L>Amicula quos imbuet,</L>
+<L>Per Lachrimas Fluentes?</L>
+<L>
+
+<PB N="35" REF="24"/>Tale sepul<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>r<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>m (quamvis sis,</L>
+<L>Adhuc nolens adire)</L>
+<L>Movebit te fraetis fibris,</L>
+<L>Audenter Deperire.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>Tum Campanae resonabunt,</L>
+<L>Omni re nigricante,</L>
+<L>Omnes{que} Chori cantabunt,</L>
+<L>Naturâ lachr<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>mante;</L>
+<L>At olim apparebimus,</L>
+<L>A fatis, sic locati</L>
+<L>Vt flores, genialibus,</L>
+<L>Radicibus ligati.</L>
+</LG>
+</DIV2>
+<DIV2 N="10" TYPE="song">
+<HEAD>CANT. X.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>HIlaris esto! nè maestus sis!</L>
+<L>Gravis hic humor os parit triste,</L>
+<L>Amabò bibas hoc generosum,</L>
+<L>Non decet quenquam esse morosum.</L>
+<L>Vae misero!</L>
+<L>(Dempto mero!)</L>
+<L>Facit nos,</L>
+<L>Disertos</L>
+<L>Vinum Jo<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>osum.</L>
+</LG>
+<LG N="2">
+<PB N="37" REF="25"/>
+<HEAD>II.</HEAD>
+<L>Vncia salis stat decem doloris,</L>
+<L>Parùm fert gaudii quicquid maeroris,</L>
+<L>Si exhausisti totum Argentum,</L>
+<L>Aut male sartum si tibi, membrum.</L>
+<L>Curas istas,</L>
+<L>Rejicias,</L>
+<L>Omnibus,</L>
+<L>Gentibus,</L>
+<L>Nunc est bibendum.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Vive le Roy! ebibas totum!</L>
+<L>Potiùs quàm tristem facias te potum.</L>
+<L>Bonam salutem non fugiamus,</L>
+<L>Mentem vexare non designamus,</L>
+<L>Vae tristibus!</L>
+<L>Bibonibus,</L>
+<L>Fit Vinum</L>
+<L>Marcidum</L>
+<L>Nisi bibamus.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Si Bilis-atra predominetur,</L>
+<L>Oenopola pro medico detur.</L>
+<L>Si concepisti turbidum motum,</L>
+<L>Vinum sumas ut optimum potum.</L>
+<L>
+
+<PB N="39" REF="26"/>Cúm{que} ineàs</L>
+<L>Nil timeas</L>
+<L>Si non dat</L>
+<L>Tibi sat</L>
+<L>Da Mare totum.</L>
+</LG>
+</DIV2>
+<DIV2 N="11" TYPE="song">
+<HEAD>CANT. XI.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>SOrs sine visu,</L>
+<L>Formá{que} Risu</L>
+<L>Sint pro Daemone!</L>
+<L>Haec malefica,</L>
+<L>Ita venefica,</L>
+<L>Fallax utra{que}</L>
+<L>Sors mera est Fors,</L>
+<L>Sinús{que} vecors,</L>
+<L>Sed fraus nulla; tu toto</L>
+<L>In Fundo si veritas sit</L>
+<L>Potu Epoto,</L>
+<L>Oceanus ficcus fit.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Honor est lusus,</L>
+<L>Stultis illusus</L>
+<L>Curâ Catenatâ</L>
+<L>Hàc{que} (ut fatur)</L>
+<L>Catus necatur,</L>
+<L>Morte non paratà:</L>
+<L>
+
+<PB N="41" REF="27"/>Dum vero Graecamur,</L>
+<L>Non Renovamur</L>
+<L>Nam, Aqua vitae, vinum,</L>
+<L>Vires, spiritús{que} dat,</L>
+<L>Id{que} dicunum,</L>
+<L>A morte nos Elevat.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Jam simus laeti,</L>
+<L>Spretâ vi lethi,</L>
+<L>Cordatissime!</L>
+<L>Vt Combibones</L>
+<L>(Non ut Gnathones)</L>
+<L>Saxti-tectique:</L>
+<L>Dum Poculoe Spument,</L>
+<L>Morbi absument:</L>
+<L>Ac, manè, Corpus Onustum,</L>
+<L>Prae alienatione,</L>
+<L>Acuit Gustum,</L>
+<L>Pro Iteratione.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Perstet, quotannis,</L>
+<L>Merx cum Hispanis</L>
+<L>India sit sola!</L>
+<L>Vinum, praebeant!</L>
+<L>Aurum teneant!</L>
+<L>Absit spinola</L>
+<L>
+
+<PB N="43" REF="28"/>Sunt opes, pro certo,</L>
+<L>Magis à furto,</L>
+<L>In vini potione,</L>
+<L>Quam Terra Incognitâ</L>
+<L>Pro cautione</L>
+<L>Ne nobis fit subdola.</L>
+</LG>
+</DIV2>
+<DIV2 N="12" TYPE="song">
+<HEAD>CANT. XII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>AMor est Pegma;</L>
+<L>Meru<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> Aenigma,</L>
+<L>Quid sit nemo detegat:</L>
+<L>Vejana Passio,</L>
+<L>Cui nulla ratio,</L>
+<L>Parem natura negat.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Cunis, formosus;</L>
+<L>Sellâ C<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>nosus,</L>
+<L>Calor, aut frigiditas;</L>
+<L>Furens Libido,</L>
+<L>Dict<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> Cup<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>do,</L>
+<L>Est, &amp; non est entitas.</L>
+</LG>
+<LG N="3">
+<PB N="45" REF="29"/>
+<HEAD>III.</HEAD>
+<L>Amor amasius,</L>
+<L>Totus silaceus,</L>
+<L>Est Eruca animi;</L>
+<L>Deditus malis</L>
+<L>Ac praedo, qualis,</L>
+<L>Non inventus ullibi.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Hîc &amp; ubi{que}</L>
+<L>Compar utri{que}</L>
+<L>Ad stuporem agitat:</L>
+<L>Nullus deterior,</L>
+<L>Quovis superior,</L>
+<L>In malam rem abeat.</L>
+</LG>
+</DIV2>
+<DIV2 N="13" TYPE="song">
+<HEAD><HI>CANT.</HI> XIII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>AMicam Amo, non redamet,</L>
+<L>Inopiae gratiâ;</L>
+<L>Vtcun{que} siet cor habet,</L>
+<L>Etiam in secula.</L>
+</LG>
+<LG N="2">
+<PB N="47" REF="30"/>
+<HEAD>II.</HEAD>
+<L>Adibam Charae Posticum,</L>
+<L>Pulsatum anuulum;</L>
+<L>Assurgit ipsa acturum</L>
+<L>Vt intrem clanculum.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Inspexi faciem Amantis,</L>
+<L>Vt visam pallidam;</L>
+<L>Exetnsis caepi brachiis,</L>
+<L>Portare ad lectulam.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Vbi per noctem mediam</L>
+<L>Imus concubitum;</L>
+<L>Ac ibi pernoctaveram</L>
+<L>Vs{que} ad diluculum.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Vae autem tibi <HI>Gallule,</HI></L>
+<L>Prae gallicinio;</L>
+<L>Nocti-lucam putabam esse,</L>
+<L>Pro conticinio.</L>
+</LG>
+<LG N="6">
+<PB N="49" REF="31"/>
+<HEAD>VI.</HEAD>
+<L>Indutis ergo vestibus,</L>
+<L>Planum obambulo;</L>
+<L>Optans illam amplexibus,</L>
+<L>Ac me in lectulo.</L>
+</LG>
+</DIV2>
+<DIV2 N="14" TYPE="song">
+<HEAD><HI>CANT.</HI> XIV.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>AStutus Constabularius,</L>
+<L>Mandata gero in tergore,</L>
+<L>Cincturos evocaturus,</L>
+<L><HI>Cornu-Castello</HI> affore:</L>
+<L>At hodiè adeò sapiunt,</L>
+<L>Audità lite Bellicâ,</L>
+<L>Omnes abhinc profugiant;</L>
+<L>Virum supplebit Foemina.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Ecquisnam domi? En ego!</L>
+<L>Salve. <HI>Sis salvus, Domine.</HI></L>
+<L>Vbinam Vir est? <HI>Haud nego,</HI></L>
+<L>Procul abest in itinere.</L>
+<L>N<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>m es ignara reditùs?</L>
+<L>Vt fugiunt pro tutamine!</L>
+<L>
+
+<PB N="51" REF="32"/>Non egeat Rex Militibus;</L>
+<L>Viros supplebunt Foeminae.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Haec quo Guaranto factitas,</L>
+<L>Ambò dicas, Domine?</L>
+<L>Sufficiat ut videas,</L>
+<L>Quod pendet Abdomine,</L>
+<L>Educas, si vim habeat,</L>
+<L>Tecum nolam certamina.</L>
+<L>Pro ratione, voluntas stat;</L>
+<L>Virum supplebit Foemina.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Compressâ me, ituro te,</L>
+<L>Si placet, reddas nomina,</L>
+<L>Sic ut reverso conjuge,</L>
+<L>Illi declarem omnia.</L>
+<L><HI>Ward</HI> ducor Capitaneus;</L>
+<L>Sat notus pro magnanime:</L>
+<L>Non egeat Rex milibus;</L>
+<L>Viros supplebunt Foeminae.</L>
+</LG>
+</DIV2>
+<DIV2 N="15" TYPE="song">
+<PB N="53" REF="33"/>
+<HEAD>CANT. <HI>XV.</HI></HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>ADsis (Chara) jam Ludamus,</L>
+<L>Subter fagi tegmine,</L>
+<L>Quorsum dicis hinc Eamus,</L>
+<L>In praesenti nemine.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Hic tum prae Amore demens,</L>
+<L>Id quod vocas effudit,</L>
+<L>Modo pro Amore teneus</L>
+<L>Haec, par pari retulit.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Ah! Ah! me vis spoliare,</L>
+<L>Cùm tàm Inurbanus,</L>
+<L>Nequeo tamèn non Amare,</L>
+<L>Quòd Perlongè his adsis▪</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Amor erat Alienus,</L>
+<L>Trucidandi gratiâ,</L>
+<L>Verùm cum fit tàm Amaeus,</L>
+<L>Oscula haec itera.</L>
+</LG>
+<LG N="5">
+<PB N="55" REF="34"/>
+<HEAD>V.</HEAD>
+<L>Calceis se Hispania Natis,</L>
+<L>Nec non soceis Induit;</L>
+<L>Cruribí{que} serecatis,</L>
+<L>Lac supparus praefuit.</L>
+</LG>
+</DIV2>
+<DIV2 N="16" TYPE="song">
+<HEAD>CANT. XVI.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L><HI>LOndini</HI> erat Herilla,</L>
+<L>Quae Rusticum amavit,</L>
+<L>Consuetudinem &amp; illa</L>
+<L>Non nunquam exoptavit. <HI>Fa, la,</HI> &amp;c.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Erat hic Cumabaceus,</L>
+<L>Quo nomine vocatur;</L>
+<L>Et Dominam ut amasius,</L>
+<L>Et Servam osculatur. <HI>Fa, la,</HI> &amp;c.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Tunicam hic sustulit,</L>
+<L>Subuculam tacturus,</L>
+<L>Se ad conclave contulit,</L>
+<L>Camabum pulsaturus. <HI>Fa, la,</HI> &amp;c.</L>
+</LG>
+<LG N="4">
+<PB N="57" REF="35"/>
+<HEAD>IV.</HEAD>
+<L>Malleolum hic obtulit,</L>
+<L>Haec Truncum allocavit;</L>
+<L>Hic ad pulsandum appulit,</L>
+<L>Et ictus iteravit. <HI>Fa, la,</HI> &amp;c.</L>
+</LG>
+</DIV2>
+<DIV2 N="17" TYPE="song">
+<HEAD>CANT. <HI>XVII.</HI></HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>DVm juxta Ripam assidet,</L>
+<L><HI>Parthenia Cloen</HI> sic monet,</L>
+<L>Vt, ut, ab ejus lumine</L>
+<L>Majus defluxit flumen flumine:</L>
+<L>Faelix est Nympha, utpote</L>
+<L>Illaesa, ab infido homine.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Falsiloqui saepe dicunt,</L>
+<L>Quod amant, ardent, pereunt;</L>
+<L>Sin dialis absentia,</L>
+<L>Detur, vel hora vix praeteritâ,</L>
+<L>Haud deferunt, haud obeunt,</L>
+<L>At inconstantes redivivi sunt.</L>
+</LG>
+</DIV2>
+<DIV2 N="18" TYPE="song">
+<PB N="59" REF="36"/>
+<HEAD>CANT. <HI>XVIII.</HI></HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>AH! veniat dies Festiva,</L>
+<L>Fa, la, la, la. Fa, la.</L>
+<L>Vt mecum ludat Amica,</L>
+<L>Nam meus est contristata:</L>
+<L>Absunt à me</L>
+<L>Deliciae:</L>
+<L>Privato hâc à Comite, à Comite,</L>
+<L>Fa, la, la, la. Fa, la.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Pulchella est Amicula,</L>
+<L>Fa, la, <HI>&amp;c.</HI></L>
+<L>Prae quâ, non talis Foemina</L>
+<L><HI>Kantiô</HI> vel <HI>Cantuariâ;</HI></L>
+<L>Zelo us{que}</L>
+<L>Prosequar Te:</L>
+<L><HI>O sis mihi pro Comite,</HI> &amp;c.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Quando subrident labia,</L>
+<L><HI>Fa, la,</HI> &amp;c.</L>
+<L>Statim aufugiunt tristia,</L>
+<L>Cordi{que} subeunt gaudia;</L>
+<L>
+
+<PB N="61" REF="37"/>Absunt curae</L>
+<L>Praesente Te:</L>
+<L>O sis mihi pro Comite, <HI>&amp;c.</HI></L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>In Plano cum sis ovia,</L>
+<L><HI>Fa, la,</HI> &amp;c.</L>
+<L>Par <HI>Veneris</HI> mihi visa,</L>
+<L>Mentem exhilarata;</L>
+<L>Tunc properè</L>
+<L>Oscular Te:</L>
+<L>O sis mihi Comite, <HI>&amp;c.</HI></L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Non es de gente barbara,</L>
+<L>Fa, la, <HI>&amp;c.</HI></L>
+<L>Puella sed benevola,</L>
+<L>Corculum hilarata;</L>
+<L>Non taedit me,</L>
+<L>Amiculae,</L>
+<L>Exultantem in Comite, <HI>&amp;c.</HI></L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Jam valeas Animula,</L>
+<L>Fa, la, <HI>&amp;c.</HI></L>
+<L>Vs{que} ad diem sis <HI>Sola,</HI></L>
+<L>Tunc mecum sociata▪</L>
+<L>
+
+<PB N="63" REF="38"/>Sin ames me,</L>
+<L>Amabo Te,</L>
+<L>Exoptans te pro Comite, pro Comite,</L>
+<L>Fa, la, la, la, fa, la, la.</L>
+</LG>
+</DIV2>
+<DIV2 N="19" TYPE="song">
+<HEAD>CANT. <HI>XIX.</HI></HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>HOc erit vobis Joculo,</L>
+<L>De castrante Diabolo,</L>
+<L><HI>Mansfieldiae</HI> Panificus</L>
+<L><HI>Notinghamam</HI> aditurus,</L>
+<L>Equisessor sub Arbore,</L>
+<L>Cantabat evax! evohe!</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Pistoris equus viguit</L>
+<L>Et quin{que} pondo valuit;</L>
+<L>In cute planus, carne plenus,</L>
+<L>Et aspectu quam amaenus,</L>
+<L>Canti{que} Pistor (nemine</L>
+<L>Obstante) in itinere.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>At super Montem properans,</L>
+<L>Inferno diti obvians;</L>
+<L>Heus Pistor! ait Diabolus,</L>
+<L>Quo modo pinguet Equulus?</L>
+<L>A quo haec verba facta sunt,</L>
+<L>Testes illi deficiunt.</L>
+</LG>
+<LG N="4">
+<PB N="65" REF="39"/>
+<HEAD>IV.</HEAD>
+<L>Tùm Daemon ait, Sic stante re,</L>
+<L>Statim Eunuchi zabis me;</L>
+<L>Equum affigens salici,</L>
+<L>Accinctus esto operi.</L>
+<L>Erant Pistori smilia,</L>
+<L>Emasculandi gratiâ.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Panifex ut evenerat,</L>
+<L>Ex Equo desilierat,</L>
+<L>Et Satanas supinatus,</L>
+<L>Est à Pistore castratus,</L>
+<L>Quo constictatus dolore,</L>
+<L>Multo boavit clamore.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Ah! pereas, ait Diabolus,</L>
+<L>Haud percipis cruciatus;</L>
+<L>Ac eo quod Castraris Me,</L>
+<L>Vindicta us{que} sequar Te;</L>
+<L>Et hic sub fugi <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>egmine,</L>
+<L>Propediem evirabere.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>Tunc Panifex obmutuit,</L>
+<L>Panice vero timuit;</L>
+<L>Diutius stare noluit,</L>
+<L>Se{que} alio Domum contulit,</L>
+<L>Et Vxori narraverat,</L>
+<L>Quod Daemona castraverat.</L>
+</LG>
+<LG N="8">
+<PB N="67" REF="40"/>
+<HEAD>VIII.</HEAD>
+<L>Necnon Vxori dixerat,</L>
+<L>Quod ei cordi fuerat;</L>
+<L>Sermonem scilicet durum,</L>
+<L>Se sorti me execturum:</L>
+<L>Cui Vxor proculdubio,</L>
+<L>Mallem te abs{que} oculo.</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>Vltro citrò{que} populo,</L>
+<L>Vulgabitur pro joculo,</L>
+<L>Matronae etiam jocabunt,</L>
+<L>Ao te spadonem vocabunt:</L>
+<L>Tunc age, &amp; sis contentus,</L>
+<L>Erit{que} lusus inventus.</L>
+</LG>
+<LG N="10">
+<HEAD>X.</HEAD>
+<L>Mutabit Dis sententiam,</L>
+<L>Des mutuo mihi Tunicam,</L>
+<L>Bravas, Vestem, cum Galero,</L>
+<L>Ac tibi similisero,</L>
+<L>Erisq, foro proximo,</L>
+<L>Securus à Diabolo.</L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>In modum hunc convestita,</L>
+<L>Pistrix cum re foraria,</L>
+<L>It <HI>Nottinghamium</HI> oppidum,</L>
+<L>Vtrum{que} Panem venditum;</L>
+<L>Ac Montanâ in semitâ,</L>
+<L>Diabolis fit obvia.</L>
+</LG>
+<LG N="12">
+<PB N="69" REF="41"/>
+<HEAD>XII.</HEAD>
+<L>Duobus putà ditibus,</L>
+<L>Inter se colludentibus:</L>
+<L>Vnus è queis ait liberè,</L>
+<L>En Pistor venit properè,</L>
+<L>Sis tristis, aut sis hilaris,</L>
+<L>Statim à me castraberis.</L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>Tum Pistrix, O Diabole,</L>
+<L>Castrabar ego pridiè:</L>
+<L>Vt videam, ait Diabolus,</L>
+<L>Prensis ad genu Vestibus;</L>
+<L>Suspiciens{que} ab humo,</L>
+<L>En vulnus grave à culo.</L>
+</LG>
+<LG N="14">
+<HEAD>XIV.</HEAD>
+<L>Ah, Dis ait, tui castrator,</L>
+<L>Iners erat Operator;</L>
+<L>Nàm ex testiculato te,</L>
+<L>Debebat cutem suere;</L>
+<L>Hîc maneas modo paululum,</L>
+<L>Ac petam pro te pharmacum.</L>
+</LG>
+<LG N="15">
+<HEAD>XV.</HEAD>
+<L>Procul abhinc non aberat,</L>
+<L>Quin ventrem Pulex scanderat;</L>
+<L>Quem quando Daemon viderat,</L>
+<L>Et ungula tetigerat,</L>
+<L>Id Faeminae fit trepidum,</L>
+<L>Prae quo emisit crepitum.</L>
+</LG>
+<LG N="16">
+<PB N="71" REF="42"/>
+<HEAD>XVI.</HEAD>
+<L>Dis ait, En mors est prevalens,</L>
+<L>Halitus &amp; grave olens;</L>
+<L>Da si quid est donabile,</L>
+<L>Hoc non est medicabile.</L>
+<L>Hinc, hinc, nil moroe dabitur,</L>
+<L>Haud ultra crastinabitur.</L>
+</LG>
+<LG N="17">
+<HEAD>XVII.</HEAD>
+<L>Hoc novi cordi fuerat,</L>
+<L>Ditem{que} in sanum fugerat,</L>
+<L>Ac domum quando venerat,</L>
+<L>Id viro notum fecerat,</L>
+<L>Se illusam Diabolo,</L>
+<L>Vt postea siet joculo.</L>
+</LG>
+</DIV2>
+<DIV2 N="20" TYPE="song">
+<HEAD>CANT. XX.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>RVrales vos Deoe,</L>
+<L>Queis Agri sunt curae,</L>
+<L>Caeptis aspirate,</L>
+<L>Mihi{que} afflate</L>
+<L>Jucundus dicere</L>
+<L>Quot cupidines,</L>
+<L>Noctes &amp; dies,</L>
+<L>In Monte ac Valle,</L>
+<L>Sunt illis quae</L>
+<L>Lactariae,</L>
+<L>
+
+<PB N="73" REF="43"/>Rorariae</L>
+<L>Quam hilare</L>
+<L>Transvehunt Mulctrale.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Formosae Puellae,</L>
+<L>Non adeo sunt bellae,</L>
+<L>Honesto in modo,</L>
+<L>Alterno pro Joco,</L>
+<L>Ludunt in itinere:</L>
+<L>Sit Aether serenus,</L>
+<L>Aut nubibus plenus,</L>
+<L>Animis elatoe;</L>
+<L>Hae ambulant,</L>
+<L>Dum venti flant,</L>
+<L>Et nimbos dant,</L>
+<L>Nunquam negant</L>
+<L>Transvehere Mulctrale.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Curae non molestant</L>
+<L>Nec unquam desperant,</L>
+<L>Quaecun{que} accidunt,</L>
+<L>Magnanime ferunt,</L>
+<L>Adversa{que} tolerant:</L>
+<L>Dulce resonant,</L>
+<L>Ver concelebrant,</L>
+<L>De Coelo nil ma le:</L>
+<L>Si res crescunt,</L>
+<L>Grates agunt,</L>
+<L>Dum nives sunt,</L>
+<L>Non contemnunt,</L>
+<L>Transvehere Mulctrale.</L>
+</LG>
+<LG N="4">
+<PB N="75" REF="44"/>
+<HEAD>IV.</HEAD>
+<L>Otium est odio,</L>
+<L>Surgant matutino,</L>
+<L>Campestres coeunt,</L>
+<L>Dum aves recinunt,</L>
+<L>Quocun{que} in Spineto:</L>
+<L>Acanthis, Turdus,</L>
+<L>Dumis omnibus,</L>
+<L>Luscinia &amp; pulchra,</L>
+<L>Resonorant,</L>
+<L>Dum cantitant,</L>
+<L>Vt gaudeant,</L>
+<L>Quae ambulant</L>
+<L>Circuitum cum Multra.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Sudand o sanae sunt,</L>
+<L>Nec Medice vivunt,</L>
+<L>Dum nimium molles</L>
+<L>Necnon consultrices,</L>
+<L>Continuo macescunt:</L>
+<L>Cibi digeruntur,</L>
+<L>Nunquam consternuntur,</L>
+<L>Nec se habent male:</L>
+<L>At senescunt</L>
+<L>Ac loetaesunt,</L>
+<L>Dum res sinunt</L>
+<L>Non contemnunt</L>
+<L>Transvehere Mulctrale.</L>
+</LG>
+<LG N="6">
+<PB N="77" REF="45"/>
+<HEAD>VI.</HEAD>
+<L>Nugiparae Foeminae,</L>
+<L>In Emporio sitoe,</L>
+<L>Hae lina consuunt,</L>
+<L>Et jocos faciunt,</L>
+<L>Non foris ituroe;</L>
+<L>Tunc icteris subit,</L>
+<L>Vnde forma fugit,</L>
+<L>Pro malignitate:</L>
+<L>Non oegrotant,</L>
+<L>Vt approbant,</L>
+<L>Quoe ambulant</L>
+<L>Vt exponant</L>
+<L>Ostiatim Mulctrale.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>Si Procos habeant,</L>
+<L>Illas qui postulant,</L>
+<L>Cum privilegio,</L>
+<L>Aliis incognito,</L>
+<L>Placentes ministrant:</L>
+<L>Foras ambulando,</L>
+<L>Inter se jocando,</L>
+<L>Sat Vini aut Aloe;</L>
+<L>Oxygala dant</L>
+<L>Vt combibant,</L>
+<L>Vti norant;</L>
+<L>Benè Cedant,</L>
+<L>Et Vomer &amp; Mulctrale.</L>
+</LG>
+<LG N="8">
+<PB N="79" REF="46"/>
+<HEAD>VIII.</HEAD>
+<L>Ad <HI>Maii</HI> Calendas,</L>
+<L>Sertis Coronatas,</L>
+<L>Dilectant Musicoe,</L>
+<L>Tempestivissimoe</L>
+<L>Traducunt ut horulas:</L>
+<L>Curas abigunt,</L>
+<L>Luci saliunt,</L>
+<L>Nec fallit crurale;</L>
+<L>Ast agiles</L>
+<L>Sunt pedestres,</L>
+<L>Vt indies</L>
+<L>Sint Victrices,</L>
+<L>Transvehere Mulctrale.</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>Si quis putaret me</L>
+<L>Gnathonem fuisse,</L>
+<L>Navando operam</L>
+<L>Vt illas Efferam:</L>
+<L>Hoc dicam aut simile,</L>
+<L>Benè meruere</L>
+<L>Musam{que} movere</L>
+<L>Ad hoc qualequale,</L>
+<L>Vt defensas,</L>
+<L>Conservem has,</L>
+<L>Inoffensas,</L>
+<L>Queis expensas</L>
+<L>Contribuit Mulctrale.</L>
+</LG>
+</DIV2>
+<DIV2 N="29" TYPE="song">
+<PB N="81" REF="47"/>
+<HEAD>CANT. <HI>XXIX.</HI> Lucus Chevinus, <HI>Jussu Episcopi</HI> Londinensis.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>VIvat Rex noster nobilis,</L>
+<L>Omnis in tuto sit,</L>
+<L>Venatus, olim flebilis,</L>
+<L><HI>Chevino Luco</HI> fit.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Cane, feras ut abigat,</L>
+<L><HI>Percaeus</HI> abiit,</L>
+<L>Vel embruo elugeat,</L>
+<L>Quod hodiè accidit.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Comes ille <HI>Northumbriae,</HI></L>
+<L>Votum vovit Deo,</L>
+<L>Lusus, in sylvis <HI>Scotiae</HI></L>
+<L>Habere triduo.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>E primis Cervis <HI>Cheviae,</HI></L>
+<L>Caesos abripere,</L>
+<L><HI>Duglasium,</HI> hae notitiae,</L>
+<L>Adibant properè.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Qui ore tenus delegat,</L>
+<L>Se Ludum perdere,</L>
+<L>At <HI>Percaeus</HI> non haesitat</L>
+<L>Ad sylvas tendere.</L>
+</LG>
+<LG N="4">
+<PB N="83" REF="48"/>
+<HEAD>IV.</HEAD>
+<L>Quin genis ter telìferis,</L>
+<L>Virtutis bellicoe</L>
+<L>Qui nôrunt, rebus arduis,</L>
+<L>Sagittas mittere.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>Curritur a Venatico,</L>
+<L>Damas propellere,</L>
+<L>Die Lunae diluculo,</L>
+<L>Ad rem accingunt se.</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>Centúm{que} Cervi sunt Caesi,</L>
+<L>Ante meridiem,</L>
+<L>Tunc redeunt, Cibis impleti</L>
+<L>Ad venationem.</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>De monte sagittarii</L>
+<L>Apti militiae,</L>
+<L>Prodiêrunt Armarii,</L>
+<L>Hodiè a Tergore.</L>
+</LG>
+<LG N="10">
+<HEAD>X.</HEAD>
+<L>Per sylvas celerant Canes,</L>
+<L>Vt Cervos capiant;</L>
+<L>Ac simul montes, &amp; valles</L>
+<L>Latrata resonant.</L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>Foedinam comes adiit,</L>
+<L>Ferinam visere,</L>
+<L><HI>Duglas</HI> minatus est (inquit)</L>
+<L>Hic mecum affore.</L>
+</LG>
+<LG N="12">
+<PB N="85" REF="49"/>
+<HEAD>XII.</HEAD>
+<L>Congressum autem desperans,</L>
+<L>Mora non dabitur,</L>
+<L>Quo dicto, Tyro Elegans,</L>
+<L>Illum alloquitur.</L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>En! En <HI>Duglasius</HI> eminus!</L>
+<L>Armis cum splendidis,</L>
+<L>Bis mille cum militibus,</L>
+<L>Visui obviis.</L>
+</LG>
+<LG N="14">
+<HEAD>XIV.</HEAD>
+<L>Cunctis de valle Tiviae,</L>
+<L>Ad Ripas Tuaesis,</L>
+<L>Ludos (ait) intermittite,</L>
+<L>Arcubus habitis.</L>
+</LG>
+<LG N="15">
+<HEAD>XV.</HEAD>
+<L>Et vobis, nunc, O nostratis,</L>
+<L>Tollatur animus;</L>
+<L>Haùd praestò fuit Athletes,</L>
+<L><HI>Gallus</HI> vel <HI>Scoticus.</HI></L>
+</LG>
+<LG N="16">
+<HEAD>XVI.</HEAD>
+<L>Mihi, Equestris Obvius</L>
+<L>Quin postulante re,</L>
+<L>Eocum vellem Cominùs,</L>
+<L>Vi, hasti-ludere.</L>
+</LG>
+<LG N="17">
+<HEAD>XVII.</HEAD>
+<L>Equisessor <HI>Duglasius,</HI></L>
+<L>Audax ille Baro,</L>
+<L>Praefuit aliis omnibus,</L>
+<L>Aurato Clipeo.</L>
+</LG>
+<LG N="18">
+<PB N="87" REF="50"/>
+<HEAD>XVIII.</HEAD>
+<L>Cujates (ait) ostendite,</L>
+<L>Hic ausi pellere,</L>
+<L>Ac, me invito, impetè</L>
+<L>Feras Occidere.</L>
+</LG>
+<LG N="19">
+<HEAD>XIX.</HEAD>
+<L>Qui primus verbum ededit,</L>
+<L><HI>Percaeus</HI> nomine,</L>
+<L>Qui sumus (ait) non libuit,</L>
+<L>Vobis ostendere.</L>
+</LG>
+<LG N="20">
+<HEAD>XX.</HEAD>
+<L>At sanguinem absumemus,</L>
+<L>Servos distruere;</L>
+<L>Juravit, tunc <HI>Duglasius,</HI></L>
+<L>Dixitque temere.</L>
+</LG>
+<LG N="21">
+<HEAD>XXI.</HEAD>
+<L>E nobis perect unus,</L>
+<L>Antequam devincar,</L>
+<L>Tu comes es, bene notus,</L>
+<L>Egò{que} tui par.</L>
+</LG>
+<LG N="22">
+<HEAD>XXII.</HEAD>
+<L>At (si qua fides) est scelus,</L>
+<L>(miserum!) perdere</L>
+<L>Vllos, de his insontibus,</L>
+<L>Immunes scelere.</L>
+</LG>
+<LG N="23">
+<HEAD>XXIII.</HEAD>
+<L>Nosmet pugnemus cominus,</L>
+<L>Viris absentibus,</L>
+<L>Depereat (iniquit) Percaeus,</L>
+<L>Huic adversarius.</L>
+</LG>
+<LG N="24">
+<PB N="89" REF="51"/>
+<HEAD>XXIV.</HEAD>
+<L>Tunc Armiger exiluit,</L>
+<L><HI>Witherington</HI> nomine,</L>
+<L>Regem (ait) scire noluit</L>
+<L>Hoc, prae dedecore.</L>
+</LG>
+<LG N="25">
+<HEAD>XXV.</HEAD>
+<L>Quod dux, pugnaverat, Pede</L>
+<L>Me stante obitèr,</L>
+<L>Vos duo estis comites</L>
+<L>Ego (ait) Armiger.</L>
+</LG>
+<LG N="26">
+<HEAD>XXVI.</HEAD>
+<L>Obnixè omne faciam</L>
+<L>Dum stare dabitur,</L>
+<L>Ac dum vibrare machaeram</L>
+<L>A me pugnabitur.</L>
+</LG>
+<LG N="27">
+<HEAD>XXVII.</HEAD>
+<L>Angligeni tendunt Arcus,</L>
+<L>Quàm Cordatissimj.</L>
+<L>Decies sex a missilibus,</L>
+<L>Caeduntur Scotici.</L>
+</LG>
+<LG N="28">
+<HEAD>XXVIII.</HEAD>
+<L>Adversus feras sectantes,</L>
+<L>Misit <HI>Duglasius</HI></L>
+<L>Torvum ducem, Dimicantes,</L>
+<L>Tractis hastilibus.</L>
+</LG>
+<LG N="29">
+<HEAD>XXIX.</HEAD>
+<L>Incincti sunt celeritèr,</L>
+<L>Parum Pigritiae;</L>
+<L>Multùs{que} jacet Belliger</L>
+<L>Inanis animae.</L>
+</LG>
+<LG N="30">
+<PB N="91" REF="52"/>
+<HEAD>XXX.</HEAD>
+<L>Pol! Dolor erat visere,</L>
+<L>Ac etiam audire,</L>
+<L>Viros plangentes undique,</L>
+<L>Perfusos sanguine.</L>
+</LG>
+<LG N="31">
+<HEAD>XXXI.</HEAD>
+<L>Comites tandèm Coibant,</L>
+<L>Multo magnanime.</L>
+<L>Instar Leonum feribant,</L>
+<L>Truci Certamine.</L>
+</LG>
+<LG N="32">
+<HEAD>XXXII.</HEAD>
+<L>Pugnârunt vel in sudare</L>
+<L>Districtis ensibus,</L>
+<L>Ac maduerunt Cruore</L>
+<L>Aequè ac imbribus.</L>
+</LG>
+<LG N="33">
+<HEAD>XXXIII.</HEAD>
+<L>Vt dedas (ait) Duglasius</L>
+<L>Te ducam subito,</L>
+<L>Vbi eris praepositus,</L>
+<L>A Rege Jacobo.</L>
+</LG>
+<LG N="34">
+<HEAD>XXXIV.</HEAD>
+<L>Proh gratis redimam captum,</L>
+<L>Et celebrabo te,</L>
+<L>Equitem quàm magnificum</L>
+<L>Et sive compare.</L>
+</LG>
+<LG N="35">
+<HEAD>XXXV.</HEAD>
+<L>Cui Percaeus ait minime!</L>
+<L>Quod offers, respuo</L>
+<L>Nollem unquam me dedere</L>
+<L>Viventi Scotico!</L>
+</LG>
+<LG N="36">
+<PB N="93" REF="53"/>
+<HEAD>XXXVI.</HEAD>
+<L>Tunc est emissus calamus,</L>
+<L>Ab arcu Anglico,</L>
+<L>Quo fixus est Duglasius,</L>
+<L>Heu! tenus cerculo.</L>
+</LG>
+<LG N="37">
+<HEAD>XXXVII.</HEAD>
+<L>Qui verba haec emurmurat</L>
+<L>Viri Contendite!</L>
+<L>Quid ni mors mea propinquat</L>
+<L>Spectante comite.</L>
+</LG>
+<LG N="38">
+<HEAD>XXXVIII.</HEAD>
+<L>Tum Percaeus Examini,</L>
+<L>Manum it prendere,</L>
+<L>Dicens causa Duglasij,</L>
+<L>Se terras perdere.</L>
+</LG>
+<LG N="39">
+<HEAD>XXXIX.</HEAD>
+<L>Vel cor (ait) fundit sanguinem,</L>
+<L>Prae tui gratiâ,</L>
+<L>Nàm nunquam talem equitem,</L>
+<L>Non novit noxia.</L>
+</LG>
+<LG N="40">
+<HEAD>XL.</HEAD>
+<L>Miles decernens Scoticus,</L>
+<L>Duglasium emorj,</L>
+<L>In Percaeum mortem ejus</L>
+<L>Devovit ulcisi.</L>
+</LG>
+<LG N="41">
+<HEAD>XLI.</HEAD>
+<L>Hugo de monte gomeri,</L>
+<L>Hasta cum splendidâ,</L>
+<L>Movit decursu celeri</L>
+<L>Ferox per Agmina.</L>
+</LG>
+<LG N="42">
+<PB N="95" REF="54"/>
+<HEAD>XLII.</HEAD>
+<L>Praeteriens sagitarios</L>
+<L>Anglos impavidè,</L>
+<L>Percaejos Ventriculos</L>
+<L>Foravit Cuspide.</L>
+</LG>
+<LG N="43">
+<HEAD>XLIII.</HEAD>
+<L>Tanta cum violentiâ</L>
+<L>Fodit Corpuscula,</L>
+<L>Plus tres pedes per ilia</L>
+<L>Transivit hastula.</L>
+</LG>
+<LG N="44">
+<HEAD>XLIV.</HEAD>
+<L>Sic Ceciderunt Comites,</L>
+<L>Quâm invictissimì,</L>
+<L>Quùm sagitario subdit res</L>
+<L>Percaeum occidi.</L>
+</LG>
+<LG N="45">
+<HEAD>XLV.</HEAD>
+<L>Arcum intensum dexterâ,</L>
+<L>Factum insignitèr,</L>
+<L>Tres pedes longâ spiculâ,</L>
+<L>Implevit fortiter.</L>
+</LG>
+<LG N="46">
+<HEAD>XLVI.</HEAD>
+<L>Hugonem Gomerj, versus,</L>
+<L>Sic telum statuit,</L>
+<L>Vel Anserinus calamus,</L>
+<L>In corde maduit.</L>
+</LG>
+<LG N="47">
+<HEAD>XLVII.</HEAD>
+<L>Ad vesperam ab' Aurorâ,</L>
+<L>Duravit praelium,</L>
+<L>Octavo sc<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>li<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>et horâ,</L>
+<L>Vix est prae<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>eri<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>um.</L>
+</LG>
+<LG N="48">
+<PB N="97" REF="55"/>
+<HEAD>XLVIII.</HEAD>
+<L>Cum <HI>Percaeio</HI> est peremptus,</L>
+<L>Dominus <HI>Ogerton</HI></L>
+<L>Johannes Ratcliffe, Robertus,</L>
+<L>Et <HI>Jacobus</HI> Baron.</L>
+</LG>
+<LG N="49">
+<HEAD>XLIX.</HEAD>
+<L><HI>Jacobus,</HI> &amp; <HI>Georgius,</HI></L>
+<L>Equestris ordinis,</L>
+<L><HI>Radulphus Raby</HI> Dominus,</L>
+<L>Periit magnanimis.</L>
+</LG>
+<LG N="50">
+<HEAD>L.</HEAD>
+<L>Pro <HI>With'rington</HI> sit genitus,</L>
+<L>Ac si in tristibus,</L>
+<L>Qui pugnavit de Genibus</L>
+<L>Truncatis Cruribus.</L>
+</LG>
+<LG N="51">
+<HEAD>LI.</HEAD>
+<L>Perierunt cum <HI>Duglasio,</HI></L>
+<L>Hugo Gomericus,</L>
+<L><HI>Carolus Currell</HI> a Campo</L>
+<L>Nunquam discessurus.</L>
+</LG>
+<LG N="52">
+<HEAD>LII.</HEAD>
+<L>De <HI>Ratcliffe Murrell Carolus,</HI></L>
+<L>Nepos a Sorore.</L>
+<L><HI>David Lamb</HI> bene habitus</L>
+<L>Exangui Corpore.</L>
+</LG>
+<LG N="53">
+<HEAD>LIII.</HEAD>
+<L>Ac etiam <HI>Markwell</HI> Dominus,</L>
+<L>Deditus est neci,</L>
+<L>Vix e duobus millibus,</L>
+<L>Fugerunt Sexdeni.</L>
+</LG>
+<LG N="54">
+<PB N="99" REF="56"/>
+<HEAD>LIV.</HEAD>
+<L>Etèr quingenis <HI>Anglicis,</HI></L>
+<L>Vix tot abiêre,</L>
+<L>In <HI>Luco Casis</HI> caeteris,</L>
+<L>Sub fagi tegmine.</L>
+</LG>
+<LG N="55">
+<HEAD>LV.</HEAD>
+<L>A plurimis cras viduis</L>
+<L>Lugetur miserè,</L>
+<L>Vulnera lota lacrymis,</L>
+<L>Nec praevaluere.</L>
+</LG>
+<LG N="56">
+<HEAD>LVI.</HEAD>
+<L>Cruentata Corpuscula,</L>
+<L>Secum abstulere,</L>
+<L>Milliès dederunt oscula,</L>
+<L>Defanetis funere.</L>
+</LG>
+<LG N="57">
+<HEAD>LVII.</HEAD>
+<L>Fertur apud <HI>Edinburgham,</HI></L>
+<L>Regnante <HI>Jacobo,</HI></L>
+<L><HI>Duglasium</HI> subitò Caesum</L>
+<L>Fuisse Joculo.</L>
+</LG>
+<LG N="58">
+<HEAD>LVIII.</HEAD>
+<L>O Lamentabile dixit,</L>
+<L><HI>Scotia</HI> sit testis,</L>
+<L>Haud alius Dux superfuit,</L>
+<L>Aequalis ordinis.</L>
+</LG>
+<LG N="59">
+<HEAD>LIX.</HEAD>
+<L><HI>Henrico</HI> tradidit Fama,</L>
+<L>Pari intervallo:</L>
+<L><HI>Perceium</HI> de <HI>Northumbriâ,</HI></L>
+<L>Occisum in <HI>Luco.</HI></L>
+</LG>
+<LG N="60">
+<PB N="101" REF="57"/>
+<HEAD>LX.</HEAD>
+<L>Quum Rex Edixit valeat?</L>
+<L>Rebus sic stantibus,</L>
+<L>Spero quod Regnum abundat,</L>
+<L>Quingenis talibus.</L>
+</LG>
+<LG N="61">
+<HEAD>LXI.</HEAD>
+<L>Ast sentient me ulciscentem</L>
+<L><HI>Scoti</HI> &amp; <HI>Scotia,</HI></L>
+<L>Ac vindictam inferentem</L>
+<L><HI>Percei</HI> Gratia.</L>
+</LG>
+<LG N="62">
+<HEAD>LXII.</HEAD>
+<L>Quod est a Rege praestitum,</L>
+<L>Caesis in montibus,</L>
+<L>Quinquies denis Militum,</L>
+<L>Nec non Baronibus,</L>
+</LG>
+<LG N="63">
+<HEAD>LXIII.</HEAD>
+<L>Ac de plebe perierunt</L>
+<L>Centeni plurimi,</L>
+<L>Venatum sic finierunt</L>
+<L><HI>Percaei</HI> Domini.</L>
+</LG>
+<LG N="64">
+<HEAD>LXIV.</HEAD>
+<L>Sit Rex &amp; Grex beatulus</L>
+<L>Pace, &amp; Copiâ,</L>
+<L>Ac absit a magnatibus,</L>
+<L>Malevolentia.</L>
+</LG>
+</DIV2>
+<DIV2 N="22" TYPE="song">
+<PB N="103" REF="58"/>
+<HEAD>CANT. XXII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>A Francisco Franciscus,</L>
+<L><HI>Thomas</HI> ruit, &amp; <HI>Gulielmus,</HI></L>
+<L><HI>Hamptoniensis</HI> adiit,</L>
+<L>Ac Trossulum se praestitit.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Affuit Camerarius,</L>
+<L>Plebem{que} cepit cachynus,</L>
+<L>Regina tandem effatur,</L>
+<L>Benè <HI>Dracus Revertatur.</HI></L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Heroes vos Britanii,</L>
+<L>Cùr non estis Transmarini?</L>
+<L>Merhercle nauci facio vos,</L>
+<L><HI>Humphrido Gilberd</HI> collatos.</L>
+</LG>
+<LG N="4">
+<HEAD>IV,</HEAD>
+<L>Nam Atrâ die abijt,</L>
+<L>Terram ignotam petijt,</L>
+<L>Bellus gratùs{que} aspectu,</L>
+<L>Non plus? (vivat Regina) heu.</L>
+</LG>
+</DIV2>
+<DIV2 N="23" TYPE="song">
+<PB N="105" REF="59"/>
+<HEAD>CANT. XXIII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>VObis magnis-parvis Dicam,</L>
+<L>Et sum veridicus,</L>
+<L>Offerri causam maximam,</L>
+<L>Esse in tristibus,</L>
+<L>Vae tibi mors! malum tibi!</L>
+<L>(Proh mortem tetricam!)</L>
+<L>Tu enim nobis dempsisti,</L>
+<L>Reginam <HI>Elizam.</HI></L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Poteras plures capere,</L>
+<L>Citra Injuriam,</L>
+<L>Reginam{que} non rapere,</L>
+<L>Anti-sacri-colam!</L>
+<L>Quietè gentem haec Rexit,</L>
+<L>Nulli{que} devincta,</L>
+<L>Papam{que} <HI>Romae</HI> despexit</L>
+<L>Et tandem Faemella?</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Ah! Ah! quid dixi Faemella?</L>
+<L>De hoc fama silet,</L>
+<L>Adeo fuit casta-Bella,</L>
+<L>Vt nemini liquet.</L>
+<L>En Dux <HI>Andinus</HI> adiit,</L>
+<L>Illam petiturus,</L>
+<L>Virgo vixit &amp; obiit,</L>
+<L>Haec nihilominus.</L>
+</LG>
+<LG N="4">
+<PB N="107" REF="60"/>
+<HEAD>IV.</HEAD>
+<L>Nec mali quid haec effecit,</L>
+<L>Conscientiae stimulo;</L>
+<L>Nec semet ipsam subjecit,</L>
+<L>Christi-vicario,</L>
+<L>At maluit magnanimis,</L>
+<L>Sub Christi vexellis,</L>
+<L>Pugnare, cum <HI>Papâ, Turcis,</HI></L>
+<L>Ac multis alijs.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Sin mihi <HI>Argi</HI> oculi,</L>
+<L>Deessent Lachrymae,</L>
+<L><HI>Elizabethae</HI> fletui,</L>
+<L>Nuper demortuae,</L>
+<L>De nata hic obdormiet,</L>
+<L>Die novissimo,</L>
+<L>Et tunc expergefaciet,</L>
+<L>Papâ propudio.</L>
+</LG>
+</DIV2>
+<DIV2 N="24" TYPE="song">
+<HEAD>CANT. XXIV. Odis.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>EN! tria Regnagemunt centum sub quin{que} Tyrannis</L>
+<L>I <HI>Finch,</HI> solvantur <HI>Carolus</HI> supereminet omnes,</L>
+<L>At{que} volente Deo, solus regnabit in Aulâ.</L>
+</LG>
+<LG N="2">
+<PB N="109" REF="61"/>
+<HEAD>II.</HEAD>
+<L>Quid sibi vult Populus? Regnandi sacra potestas,</L>
+<L>Nos penes, aut alios non est sed cura Deorum,</L>
+<L>Quorum permissu, Reges Dominantur in Orbe.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Praesto vicem Regis Regum, qui sceptra, Coronam</L>
+<L>Et Gladium tribuit, nobis insignia Regni,</L>
+<L>Non ego sum populi servus, sed numine Fungor.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Non consulta probo, quid enim nisi vota supersunt,</L>
+<L>Novi ego faciant ad publica comoda gentis,</L>
+<L>Non peccare prius; post ut sit causa doloris.</L>
+</LG>
+</DIV2>
+<DIV2 N="25" TYPE="song">
+<HEAD>CANT. XXV.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>ALexandri equum, Dictum Bucephalum,</L>
+<L>Scriptores meminêrunt, in libris Heroum,</L>
+<L>At <HI>Pickering</HI> equa, tantò excelluit,</L>
+<L>A Carcere missa, semper prevaluit,</L>
+<L>Et pro Tyhe, whyhee, hrk, prp,</L>
+<L>Saltu &amp; Cursurá,</L>
+<L>Non est inter <HI>Hollandos,</HI></L>
+<L>Talis equila:</L>
+</LG>
+<LG N="2">
+<PB N="111" REF="62"/>
+<HEAD>II.</HEAD>
+<L>At Rumor, nunc subit,</L>
+<L>Equae praemortuae,</L>
+<L>Qua propter jurat malle</L>
+<L>Se caput perdere, &amp; pro Tyhee▪ <HI>&amp;c.</HI></L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Priores calceos,</L>
+<L>Dedit papistico,</L>
+<L>Pro veniâ animae,</L>
+<L>Romam profecturo &amp; pro Tyhee, <HI>&amp;c.</HI></L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Posteros Calceos,</L>
+<L>Qui malè gesserant,</L>
+<L>Dedit uxoribus,</L>
+<L>Quae viros calcitant &amp; pro Tyhee, <HI>&amp;c.</HI></L>
+</LG>
+</DIV2>
+<DIV2 N="24" TYPE="song">
+<HEAD>CANT. XXIV.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>A <HI>Litore</HI> Lavinio,</L>
+<L>Huic intersum Emporio,</L>
+<L>Patet scite me istic degere,</L>
+<L>Et merces his sum vendere,</L>
+<L>Auri sacra fames ita habet se,</L>
+<L>Ergo venite</L>
+<L>Antè me,</L>
+<L>Placet ne!</L>
+<L>Haec emere?</L>
+<L>Quae habe<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> vendere?</L>
+</LG>
+<LG N="2">
+<PB N="113" REF="63"/>
+<HEAD>II.</HEAD>
+<L>Esti vester proavus,</L>
+<L>Esset armorum ignorus,</L>
+<L>Esses ve terrae filius,</L>
+<L>Novus at Alabastrus,</L>
+<L>Aurum modo sit Communicabile,</L>
+<L>Adsis, habebis,</L>
+<L>Proemia, Trophea,</L>
+<L>Atavis incognita,</L>
+<L>Genus est mercabile.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Quid tibi vis Heronia?</L>
+<L>Fucus est in manticâ,</L>
+<L>Album vel Rubrum habeas,</L>
+<L>Faciem ut delinias,</L>
+<L>Aurum modo tangam pro munere,</L>
+<L>Per videre, Reginae? ter quin{que} amas natae,</L>
+<L>Sex-decem preteritae.</L>
+</LG>
+</DIV2>
+<DIV2 N="27" TYPE="song">
+<PB N="115" REF="64"/>
+<HEAD><HI>SONG</HI> XXVII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>NON es Pulchella, vario prae Colore</L>
+<L>Prae Cunctis roseis Ornamentis in Te,</L>
+<L>Faeda nec facta merâ de Dulcedine,</L>
+<L>Insuavis vilis si non Ames me:</L>
+<L>Nolo te adulari, probabis</L>
+<L>Informem formam, sine Gaudiis.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Nec Ama, nec puta, mentem allicere,</L>
+<L>Cum formâ, Etsi magis divinâ;</L>
+<L>Risus &amp; Oscula, nolo admittere,</L>
+<L>Non Circumcingar intra Brachia</L>
+<L>Ostendas si Faeminei sexûs sis</L>
+<L>Cupidines <HI>&amp;</HI> des ingratiis.</L>
+</LG>
+</DIV2>
+<DIV2 N="28" TYPE="song">
+<HEAD>CANT. XXVIII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>CVR palleas Amasie?</L>
+<L>Cur quaeso palleas?</L>
+<L>Si non rubente facie,</L>
+<L>Squallente valeas?</L>
+<L>Cur quaeso palleas?</L>
+</LG>
+<LG N="2">
+<PB N="117" REF="65"/>
+<HEAD>II.</HEAD>
+<L>Cur stupias mi suavio,</L>
+<L>Cur quaeso taceas?</L>
+<L>Si praestes nil eloquio,</L>
+<L>Silentio valeas?</L>
+<L>Cur quaeso taceas.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Hinc hinc! (ah pudet) nil ag<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>▪</L>
+<L>Hoc non movebit,</L>
+<L>Suapte si non redamet,</L>
+<L>Nil prevalebit,</L>
+<L>Daemon habebit.</L>
+</LG>
+</DIV2>
+<DIV2 N="29" TYPE="song">
+<HEAD><HI>CANT</HI> XXIX.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>SI quis adeò sapiat,</L>
+<L>Vt vinum non capiat,</L>
+<L>Par sobrietatis alumno;</L>
+<L>Is nobis falerno,</L>
+<L>Loetis{que} ut verno,</L>
+<L>Marcebit ut arbor in Autumno,</L>
+<L>Verum pridianis,</L>
+<L>Si mordiat canis,</L>
+<L>Haec sit in futurum Cautela,</L>
+<L>Vt diluculo,</L>
+<L>Pro Capitulo,</L>
+<L>Caudae pilum sumat pro medela.</L>
+<L>
+
+<PB N="119" REF="66"/>Nec adeo desipias,</L>
+<L>Quin Lilium rejicias,</L>
+<L>Nam vinis sarti tecti sumus;</L>
+<L>Ejus nè assuescas,</L>
+<L>Nequàm ediscascas,</L>
+<L>Ver<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>m bibito vinum Jejunus.</L>
+</LG>
+</DIV2>
+<DIV2 N="30" TYPE="song">
+<HEAD><HI>CANT.</HI> XXX.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>PAteram proebe spumantem,</L>
+<L>Applaudet Natio,</L>
+<L>Aegre fert Rebellantem,</L>
+<L>Cui vetus suasio,</L>
+<L>Fanaticos obligemus,</L>
+<L>Qui sitiunt sanguinem,</L>
+<L>Censuram nos faciemus,</L>
+<L>Bibentes super unguem.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Gomer detur &amp; semis,</L>
+<L>Et cadus ponatur,</L>
+<L>Salus Regis imprimis,</L>
+<L>In Cyatho bibatur.</L>
+<L>Circum-circa novetur,</L>
+<L>Vinum nemo neget,</L>
+<L>Successioni potetur,</L>
+<L>Et series recta sit.</L>
+</LG>
+</DIV2>
+<DIV2 N="31" TYPE="song">
+<PB N="121" REF="67"/>
+<HEAD><HI>CANT.</HI> XXXI.</HEAD>
+<STAGE>Dialogus.</STAGE>
+<SP>
+<SPEAKER>Strephon.</SPEAKER>
+<L>ADsis <HI>Daphne</HI>! propera!</L>
+<L>Transit dies lucida.</L>
+</SP>
+<SP>
+<SPEAKER>Daphne.</SPEAKER>
+<L>Accit <HI>Strephon,</HI> quid mecum vis?</L>
+</SP>
+<SP>
+<SPEAKER>Strephon.</SPEAKER>
+<L>Vt myrteo luco intersis,</L>
+<L>Quùm instruet venus,</L>
+<L>Laureas pro crinibus,</L>
+</SP>
+<SP>
+<SPEAKER>Daphne.</SPEAKER>
+<L>Inclusa si in Arbore,</L>
+<L>Excorticarer sequi te,</L>
+</SP>
+<SP>
+<SPEAKER>Strephon.</SPEAKER>
+<L>Mea nympha celera,</L>
+<L>Aufugiunt momenta,</L>
+<L>Caecus, ut amor in umbris,</L>
+<L>Os libabo basiis,</L>
+<L>
+
+<PB N="123" REF="68"/>In finu tunc errabitur,</L>
+<L>Hâc in nive quis non vagabitur.</L>
+<STAGE>Chorus.</STAGE>
+<L>Laeti nos mundum mittemus,</L>
+<L>Quo viso, ipsi Dii,</L>
+<L>Nobis-met invisi,</L>
+<L>Talis lusus orbi,</L>
+<L>Cum deas sunt circumplexi.</L>
+</SP>
+</DIV2>
+<DIV2 N="32" TYPE="song">
+<HEAD><HI>CANT.</HI> XXXII.</HEAD>
+<LG>
+<L>EDis Christi Campanulae,</L>
+<L>Bis, tres, in numero,</L>
+<L>Magnificae,</L>
+<L>Dulcisonae,</L>
+<L>Pulsant{que} hilarè hilarè!</L>
+</LG>
+<LG>
+<L>Prima &amp; prima a primâ;</L>
+<L>Horâ quartâ &amp; decimâ,</L>
+<L>Ait adsis, adsis, precibus,</L>
+<L>Ambulante Vergifero,</L>
+<L>Tintinnuit horâ tintinnabulum,</L>
+<L>Vt redeat domum.</L>
+</LG>
+<LG>
+<PB N="125" REF="69"/>
+<L>At combibo,</L>
+<L>manet intro,</L>
+<L>Dum <HI>Thomas</HI> det sonum,</L>
+<L>Ac nemo sat,</L>
+<L>Sibi putat,</L>
+<L>Nisi <HI>Thomas</HI> edit Bom.</L>
+</LG>
+</DIV2>
+<DIV2 N="33" TYPE="song">
+<HEAD><HI>CANT</HI> XXXIII.</HEAD>
+<L>QVis{que} ponat curas! loetus{que} cantet!</L>
+<L>Dat opportunum rei cuìlibet,</L>
+<L>In rebus qui ludit, ludis non vacat,</L>
+<L>Festum aut profestum male observat,</L>
+<L>Sat negotiorum simus hilari,</L>
+<L>In vino dolores &amp; sint obruti.</L>
+</DIV2>
+<DIV2 N="34" TYPE="song">
+<HEAD><HI>CANT</HI> XXXIV.</HEAD>
+<L>PHy, phy, <HI>Johannes,</HI></L>
+<L>Ne (nùnc) litiges,</L>
+<L>Laetemur, &amp; Combibamus!</L>
+<L>Scelus! defraudasti me,</L>
+<L>Constabit coram Agmine,</L>
+<L>Non mihi assis est etsi sis tumidus,</L>
+<L>Mentiris sperno verbum,</L>
+<L>Aut quemvis gladiatorium,</L>
+<L>Non hujus duco gloriosum,</L>
+<L>Vel quis estimat <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>e!</L>
+</DIV2>
+<DIV2 N="35" TYPE="song">
+<PB N="127" REF="70"/>
+<HEAD><HI>CANT.</HI> XXXV.</HEAD>
+<L>EST Odio</L>
+<L>Nomen Baro,</L>
+<L>Nam quilibet est frater,</L>
+<L>Res est mala,</L>
+<L>In publica,</L>
+<L>Si quis praedominatur.</L>
+<L>Sint nihili</L>
+<L>Episcopi,</L>
+<L>Paritas dabitur,</L>
+<L>Sororibus</L>
+<L>prostentibus</L>
+<L>In altum tollimur.</L>
+</DIV2>
+<DIV2 N="51" TYPE="song">
+<PB N="160" REF="93"/>
+<HEAD>CANT. LI.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>ABsit metus phantasticus:</L>
+<L>Futuri mali nescius!</L>
+<L>Erebeo, fuge, vultu,</L>
+<L>Terrente, nos ab amplexu!</L>
+<L>Quanto Crescemus amore,</L>
+<L>Vmbris absentibus, &amp; te?</L>
+</LG>
+<LG N="2">
+<HEAD>II</HEAD>
+<L>Nè Gemas, sistens lachrymas</L>
+<L>Est nefas quod non audeas,</L>
+<L>Si Crimen voluptatibus,</L>
+<L>Portae{que} praesit Cerberus,</L>
+<L>Nemo potest, non intrare,</L>
+<L>Quem nolunt dii absolvere.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Prostrata Chara ad pedes</L>
+<L>Vanescunt citò lemures</L>
+<L>Porta patenti Abyssi,</L>
+<L>Ad aditum Paradisi,</L>
+<L>Dum prospectantes Angeli</L>
+<L>Quoerunt quid sumus acturi.</L>
+</LG>
+</DIV2>
+<DIV2 N="52" TYPE="song">
+<PB N="161" REF="93"/>
+<HEAD>CANT. LII.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>SChismaticis ex omnibus,</L>
+<L>Motis, vi Gallo-Belgicâ,</L>
+<L>Nullus, evertit sic cultus,</L>
+<L>Aut lacerat specimina,</L>
+<L>Vt binis pileis Buccatus,</L>
+<L>Cui Zelus est Emensuratus,</L>
+<L>Secundum faucium hiatus.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Iste quem soror adorat,</L>
+<L>Acta, ducens, Caelestia,</L>
+<L>Qui flante spiritu, boat,</L>
+<L>Ac deflet, re fortuitâ,</L>
+<L>Imò mugit, rudit, latrat,</L>
+<L>An talis Clericus erat,</L>
+<L>Qui linguas arcae, proferat!</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Proselytos, more apum,</L>
+<L>Terre clangit dulci-sono,</L>
+<L>Compressat sudariolum,</L>
+<L>Mungens Calvinum e naso:</L>
+<L>Motum obtrudit, motui,</L>
+<L>Ac impare cum simili,</L>
+<L>Constat Octavo usui.</L>
+</LG>
+<LG N="4">
+<PB N="162" REF="94"/>
+<HEAD>IV.</HEAD>
+<L>Monarchia dum sanguinat,</L>
+<L>Fidelis &amp; Perfidia,</L>
+<L>Tuaesin Thamesis meat,</L>
+<L>Flammant ut Pharus, Pulpita</L>
+<L>Dum vitulos Plebs erigi</L>
+<L>Ac laudum nemo metuit,</L>
+<L>Biblio-Cometes emergit.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Qu am primum Regem hic nudat</L>
+<L>Terrâ, ac Privigio:</L>
+<L>Et icto Hero, astù dat,</L>
+<L>Glaudium maligno socio</L>
+<L>Caecutiens autem decernat</L>
+<L>Quo Lanio, Capram alligat,</L>
+<L>Vt servus interficiat.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Tunc Jugum Anglia persen,</L>
+<L>Mariano, multò gravius,</L>
+<L>Vel Concio plures perdidit</L>
+<L>Quà m Bonneri fasciculus:</L>
+<L>Zelo-canis. Pulmone Boreae,</L>
+<L>Certavit docuit, &amp; notoriè</L>
+<L>Regem occidit, sacrum Gloriae.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>Ob Regem senatum pugnavit,</L>
+<L>Ac si perflaret Borea-notus,</L>
+<L>Praeceptum sacrè violavit,</L>
+<L>Mactavit, &amp; est ore lotus;</L>
+<L>
+
+<PB N="163" REF="94"/>Amnestia illum, non mutat</L>
+<L>Nec Clemens, qui obliterat,</L>
+<L>Aethiopem candificat.</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>Rebellaturus evocat</L>
+<L>Sacro-sanctos, in Copiis,</L>
+<L>Insontes este eboat</L>
+<L>Sufflat, adeste gladiis;</L>
+<L>Sic insolenter est elatus,</L>
+<L>Invictos, ejus deos ratus,</L>
+<L>Nummos, putà &amp; comitatus.</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>Magistratus vilipendit,</L>
+<L><GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/> Reges</L>
+<L>Non <GAP DESC="illegible" EXTENT="1 span" DISP="〈…〉"/> contendit</L>
+<L>Vsque mortuis lanea teges,</L>
+<L>Barbatum goff, Primatem,</L>
+<L>Vilifaciens Potestatem</L>
+<L>Dagonis ut debilitatem.</L>
+</LG>
+<LG N="10">
+<HEAD>X.</HEAD>
+<L>Au! pleno ore blaterat</L>
+<L>Fratres! este Romifugi!</L>
+<L>Sic lites, domi excitat</L>
+<L>Imbellis, timens emori</L>
+<L>Quam valeat <HI>Carolus</HI> Regnare</L>
+<L>Zelantes si transiret mare</L>
+<L>Apud hispanos predicare.</L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>Stellarum ordo figitur,</L>
+<L>Lis nulla est Caelestibus,</L>
+<L>
+
+<PB N="164" REF="95"/>An medium est derigitur</L>
+<L>Confusis &amp; Conformibus</L>
+<L>Divisa nequit gens constare</L>
+<L>Malum est praecipia Tauris dare</L>
+<L>Pejus Pueros, cultis nugare.</L>
+</LG>
+<LG N="12">
+<HEAD>XII.</HEAD>
+<L>Mallem me missae reddere,</L>
+<L>Aut uti Tremulorum Phrasi,</L>
+<L>Me asinum, Papam premere,</L>
+<L>Mihi ut vaccae, lac extrahi.</L>
+<L>Quam cedere SMEC-legibus,</L>
+<L>Bonae causae effectibus,</L>
+<L>Cu vulturinis unguibus.</L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>Agmina nempe schismatum</L>
+<L>Ecclesia tulit Scotica,</L>
+<L>Tinctura est vestis sectarum,</L>
+<L>Caerula Aquilonica:</L>
+<L>Et quinam isti Enthei,</L>
+<L>Knipperdolingiae Fidei,</L>
+<L>Ni Faedorati, rancidi.</L>
+</LG>
+<LG N="14">
+<HEAD>XIV.</HEAD>
+<L>At omnes Regem diligunt,</L>
+<L>Ipsos{que} insontes gloriantur,</L>
+<L>Nullae Res adeo vilescunt,</L>
+<L>Vt non praetextu speciantur.</L>
+<L>Haec, tamen fari audeo,</L>
+<L>Non parem Caballario,</L>
+<L>Nec comparem Presbitero.</L>
+</LG>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="95"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

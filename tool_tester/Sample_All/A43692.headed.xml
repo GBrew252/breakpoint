@@ -1,0 +1,4212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">Grammatical drollery consisting of poems &amp; songs wherein the rules of the nouns &amp; verbs in the accendence are pleasantly made easy, for the benefit of any that delight in a tract of this nature / by W. Hickes.</TITLE><AUTHOR>Hickes, William, fl. 1671.</AUTHOR></TITLESTMT><EXTENT>Approx. 173 KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2009-10 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A43692</IDNO>
+
+
+<IDNO TYPE="stc">Wing H1887</IDNO>
+
+<IDNO TYPE="stc">ESTC R34461</IDNO>
+
+<IDNO TYPE="eebo citation">14445002</IDNO>
+
+<IDNO TYPE="oclc">ocm 14445002</IDNO>
+
+<IDNO TYPE="vid">102357</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A43692)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 102357)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 1060:14)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">Grammatical drollery consisting of poems &amp; songs wherein the rules of the nouns &amp; verbs in the accendence are pleasantly made easy, for the benefit of any that delight in a tract of this nature / by W. Hickes.</TITLE><AUTHOR>Hickes, William, fl. 1671.</AUTHOR></TITLESTMT><EXTENT>[2], 117 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for Tho. Fox ...,</PUBLISHER>
+<DATE>1682.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>In verse.</NOTE><NOTE>Reproduction of original in the Bodleian Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>English language --  Grammar --  Early works to 1800.</TERM><TERM>Humorous poetry, English --  Early works to 1800.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2008-10</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2008-12</DATE><RESPSTMT><RESP>SPi Global</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2009-01</DATE><RESPSTMT><RESP>John Pas</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2009-01</DATE><RESPSTMT><RESP>John Pas</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2009-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A43692">
+<STC T="W">H1887</STC>
+<BIBNO T="oclc">14445002</BIBNO>
+<VID>102357</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<PB REF="2" MS="y"/>
+<PB REF="2" MS="y"/>
+<PB REF="3"/>
+<PB REF="3" MS="y"/>
+<P>GRAMMATICAL Drollery, Consisting of POEMS &amp; SONGS.</P>
+<P>Wherein the RULES of the <HI>NOƲNS</HI> &amp; <HI>VERBS</HI> IN THE ACCEDENCE Are pleasantly made Easie, FOR THE Benefit of any that delight in a Tract of this Nature.</P>
+<P>By <HI>W. H.</HI><ADD>ickes</ADD></P>
+<P><HI>LONDON:</HI> Printed for <HI>Tho. Fox,</HI> and are to be sold at the <GAP DESC="illegible" RESP="uom" EXTENT="1 word" DISP="〈◊〉"/> and at the Star in <HI>Westminster-hall.</HI> 1682</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB REF="4"/>
+<PB N="1" REF="4"/>
+<HEAD>GRAMMATICAL Drollery.</HEAD>
+<DIV2 TYPE="poem">
+<HEAD>The Adverbs Quarrel.</HEAD>
+<LG>
+<L><SEG REND="decorInit">T</SEG>He Adverbs had a Quarrel, as they say:</L>
+<L>Says <HI>ubi,</HI> Where? in what place, I pray?</L>
+<L>Says <HI>ibi,</HI> There; and in that very place</L>
+<L>Where <HI>u</HI> and <HI>i</HI> by <HI>u</HI> receiv'd disgrace.</L>
+<L>Then Mr. <HI>hic</HI> did plainly say, 'twas here:</L>
+<L>Yes, yes, says <HI>istic,</HI> in that very place; 'twas there.</L>
+<L>One askt whe'r 'twas within doors or without:</L>
+<L>Says <HI>intus,</HI> 'Twas within doors, without doubt.</L>
+<L>No, no, says <HI>foris,</HI> I'm certain 'twas abroad,</L>
+<L>Where some o'th' Adverbs were severely claw'd.</L>
+<L>Then one did ask 'em, when began the Fray:</L>
+<L>My troth, says honest <HI>hodie,</HI> 'twas to day.</L>
+<L>Says <HI>cras,</HI> I fear 'twill last to morrow too,</L>
+<L>There are such adverse Adverbs in the Crew.</L>
+<L>Alas, says <HI>perindi<GAP DESC="illegible" RESP="uom" EXTENT="1 letter" DISP="•"/>,</HI> (without laughter)</L>
+<L>I fear 'twill last until the day after.</L>
+<L><PB N="2" REF="5"/>Says <HI>heri,</HI> Yesterday I heard something on't.</L>
+<L>Say <HI>olim,</HI> In times past 'twas their wont.</L>
+<L>Says <HI>aliquando,</HI> Sometimes now and then</L>
+<L>Such Jars happen 'mongst such kind of men.</L>
+<L>And 'twas of late so, says <HI>nuper</HI> then,</L>
+<L>And may, says <HI>mox</HI> be by and by agen.</L>
+<L>Says <HI>statim,</HI> Presently, for ought I know.</L>
+<L>Says <HI>cito,</HI> Quickly let's prepare to go.</L>
+<L><HI>Repente</HI> cries, We suddenly must depart;</L>
+<L>And <HI>subito</HI> therein did take his part.</L>
+<L><HI>Ocyus</HI> said, We quick must hast away:</L>
+<L>Yes, says <HI>jam</HI> and <HI>modo,</HI> just now we say.</L>
+<L>But <HI>alias</HI> for another time did plead.</L>
+<L>Says <HI>forsan,</HI> Perhaps you'll repent the deed.</L>
+<L>Says <HI>lente,</HI> Hast makes wast, go slowly on;</L>
+<L>We've a weighty matter to think upon.</L>
+<L>Says <HI>quamdiu</HI> then, How long shall we stay?</L>
+<L><HI>Diu</HI> says, A long while, make no hast away.</L>
+<L><HI>Quotidie,</HI> day by day, ill News doth hear.</L>
+<L>I'll stay, says <HI>donec,</HI> till the coast be clear.</L>
+<L><HI>Ʋnde</HI> askt from whence comes all this prate?</L>
+<L>From hence, says <HI>hinc;</HI> we're all unfortunate.</L>
+<L><HI>Illinc</HI> said, From thence, <HI>istinc,</HI> from that place</L>
+<L>Where you and I a Mistriss had in chace.</L>
+<L>Whither shall we flie, says <HI>quo?</HI> Hither, says <HI>huc.</HI></L>
+<L><HI>Illuc</HI> says, Thither, or you'll have ill luck.</L>
+<L>Yes, says <HI>istuc,</HI> to that place. Says <HI>alio,</HI></L>
+<L>To another, or I shall fail you, ho.</L>
+<L>This Jarring then did breed such a puther,</L>
+<L><HI>Aliquo</HI> bids go to some place or other.</L>
+<L>Which way, says <HI>qua?</HI> let us well advise.</L>
+<L>Says <HI>illac,</HI> That way take, or y'are not wise.</L>
+<L>Faith, says <HI>quacunque,</HI> which way soere you go,</L>
+<L>You'll be beset on all sides with the Foe.</L>
+<L><PB N="3" REF="5"/>How to behave my self, says <HI>qualiter,</HI></L>
+<L>I know not; but am resolv'd to rail at her</L>
+<L>Has been the cause on't. Says poor <HI>primum,</HI></L>
+<L>First I'll to th' trees, and then I'll climb 'um</L>
+<L>To be out of danger, I'm so perplext.</L>
+<L>Says <HI>Inde,</HI> Then be sure I'll be the next</L>
+<L>To follow ye. After, says <HI>deinde,</HI></L>
+<L>I'll follow too, knew I where to find ye.</L>
+<L>Lastly, says <HI>denique,</HI> Let's go together,</L>
+<L>In regard we're all Birds of a Feather.</L>
+<L>And then came in a very scurvy <HI>cur,</HI></L>
+<L>Askt 'em why they then made such a stir?</L>
+<L>Then all did call him <HI>cur,</HI> which made him cry,</L>
+<L>And why <HI>cur,</HI> says he? because <HI>cur</HI> is why.</L>
+<L>Says <HI>quare,</HI> Wherefore do ye jar?</L>
+<L>I fear you'll hear (alas) too much of War.</L>
+<L><HI>Quorsum</HI> then did ask 'em to what end</L>
+<L>They quarrelled, and whither did it tend?</L>
+<L>Says <HI>heus,</HI> Heark ye: so said <HI>ehodum</HI> too,</L>
+<L>What's the cause ye make so much ado?</L>
+<L>Truly, says <HI>profecto,</HI> y'are all to blame.</L>
+<L>Indeed, says <HI>sane,</HI> I do say the same.</L>
+<L>Says <HI>minime,</HI> You must in no wise jar</L>
+<L><HI>Nequaquam,</HI> by no means, lest't prove a War.</L>
+<L>I would to God, says <HI>utinam,</HI> you were</L>
+<L>As good friends as when ye came here.</L>
+<L><HI>Sodes</HI> and <HI>amabo,</HI> of all loves did entreat;</L>
+<L>And <HI>eia</HI> said, Go to, unless you'll all be beat.</L>
+<L>Says <HI>age,</HI> Well, <HI>una</HI> together with me,</L>
+<L>Will try if we can make 'em all agree.</L>
+<L>Now's the time, says <HI>nunc,</HI> or else never;</L>
+<L>Not onely now, says <HI>non modo,</HI> but ever.</L>
+<L>'Tis always good, says <HI>semper,</HI> to be quiet,</L>
+<L>Else you'll surely get but little by it.</L>
+<L><PB N="4" REF="6"/><HI>Seorsim</HI> doth advise to go apart</L>
+<L>One after another, lest they all do smart.</L>
+<L>Yes, says <HI>imo:</HI> and <HI>potius</HI> said, he had rather</L>
+<L>Go one by one, than go altogether.</L>
+<L>Poor <HI>fere</HI> said, he almost fear'd to go;</L>
+<L>And <HI>hand</HI> was scarcely brought unto it too.</L>
+<L>Then <HI>ecce</HI> he came in, and's Brother <HI>en,</HI></L>
+<L>Saying (behold) here's none but jangling men.</L>
+<L>Perhaps, says <HI>forte,</HI> and <HI>fortuito,</HI></L>
+<L>You may repent it, yea, and rue it too.</L>
+<L>So also said their Brother, good <HI>fortassis,</HI></L>
+<L>And call'd 'em all a Crew of drunken Asses.</L>
+<L><HI>Veluti</HI> and <HI>sicut</HI> said, They act as 'twere</L>
+<L>Like mad men as they go every where.</L>
+<L>And <HI>sic</HI> likewise did say the very same,</L>
+<L>And so fell sick, to see all out of frame.</L>
+<L>One askt how <HI>sic</HI> did: was told, So, so.</L>
+<L>That's <HI>sic: sic,</HI> says he? then he's ill I know.</L>
+<L><HI>Quasi</HI> said, Although they were to blame,</L>
+<L>Something might be done their Brains to tame.</L>
+<L>Says <HI>quomodo,</HI> But how can it be done?</L>
+<L>Says <HI>bene,</HI> Well, let each take a Gun</L>
+<L>And force 'em to't. <HI>Recte</HI> said, 'twas rightly spoke:</L>
+<L><HI>Optime</HI> said, 'twas best way not provoke.</L>
+<L><HI>Fortiter</HI> then strongly spoke, saying, Let us</L>
+<L>Quickly prevent 'em, lest they beset us.</L>
+<L>This made <HI>fortius</HI> more valiant to declare;</L>
+<L>And <HI>fortissime</HI> most valiant to prepare</L>
+<L>'Gainst any assault that might attack 'em:</L>
+<L>Which made the major part begin to back 'um.</L>
+<L>And <HI>docte</HI> being learn'd, then began</L>
+<L>To give the Character of every man.</L>
+<L>But <HI>male</HI> then being of an evil mind,</L>
+<L>Did joyn with <HI>pessime,</HI> the worst inclin'd</L>
+<L><PB N="5" REF="6"/>To peace of any: Which <HI>sicut</HI> hearing,</L>
+<L>Said, 'twas like as a War appearing.</L>
+<L>And so said <HI>ceu,</HI> As <HI>sicut,</HI> so say I:</L>
+<L>So says <HI>tanquam, velut,</HI> and all that fry.</L>
+<L>Says <HI>multum,</HI> nay, it much doth grieve me;</L>
+<L>And <HI>plurimum,</HI> very much believe me.</L>
+<L>But <HI>parum</HI> little cared for what they said;</L>
+<L>And <HI>minimum</HI> the least of all in dread.</L>
+<L>And <HI>magis</HI> more than all the rest let fly</L>
+<L>Likewise at <HI>tam,</HI> but <HI>maxime</HI> especially.</L>
+<L><HI>Paululum</HI> a little while did weep</L>
+<L>To see his Brethren laid by War to sleep.</L>
+<L><HI>Minus</HI> was less griev'd than all the rest,</L>
+<L>Which <HI>prope</HI> that was nigh, could not digest.</L>
+<L><HI>Valde</HI> greatly did bemoan their fate,</L>
+<L>And told 'em, they'd be all unfortunate.</L>
+<L><HI>Nimium</HI> said, they were too much inclin'd</L>
+<L>To mischief, and bid 'em change their mind.</L>
+<L><HI>Propius</HI> and <HI>proxime</HI> came near'st of all</L>
+<L>To make an end of this inhumane Brawl.</L>
+<L>And <HI>admodum</HI> did very much desire</L>
+<L>To put an end to this Intestine Fire.</L>
+<L>Then <HI>satis</HI> came, and cry'd, Enough, enough,</L>
+<L>We may ere long have cause to make proof</L>
+<L>Of your undaunted Courages: till then</L>
+<L>Let's all shake hands, and be friends agen.</L>
+<L>Then <HI>num</HI> and <HI>nunquid,</HI> both together</L>
+<L>Came to 'em, and did ask 'em whether</L>
+<L>They resolv'd to agree: <HI>belissime</HI></L>
+<L>Most fairly spoke, said, Yes, come kiss ye me,</L>
+<L>I'll begin: I'll second you then, says <HI>tunc,</HI></L>
+<L>And for this, to night I'll make ye drunk,</L>
+<L>And declare, though you were lately Madverbs,</L>
+<L>Y'are now become agen sober Adverbs.</L>
+<L><PB N="6" REF="7"/>And <HI>affatim</HI> abundantly did spend</L>
+<L>To make 'em quiet: They all call'd him friend</L>
+<L>While there: but being gone, said <HI>affatim</HI></L>
+<L>Was a kind fool, and did laugh at him.</L>
+<L>Which <HI>vix</HI> could scarce put up, being his friend;</L>
+<L>But at the last he did: and there's an end.</L>
+</LG>
+<LG>
+<HEAD>The POSTSCRIPT.</HEAD>
+<L>And being all asate i'th' Adverbs Hall,</L>
+<L><HI>Doctissime,</HI> the most learn'd of all,</L>
+<L>Did make a <HI>Preposition</HI> to invite</L>
+<L>All the <HI>Conjunctions</HI> thither that night,</L>
+<L>To joyn together in this Harmonie.</L>
+<L>They all cry'd out aloud, So let it be.</L>
+<L>And eke the <HI>Interjections,</HI> if 't should chance</L>
+<L>A sudden passion too far advance,</L>
+<L>They may asswage it (as 'tis often seen)</L>
+<L>By casting in some moderate words between.</L>
+<L>Then all with one accord agen did cry,</L>
+<L><HI>Doctissime,</HI> that spake so learnedly,</L>
+<L>Shall be our Chair-man, let's mount him high.</L>
+<L>They were so very drunk, the Neighbours say,</L>
+<L>They fell asleep i'th' Hall, and there they lay.</L>
+<L>By which I find, that four o'th' parts of Speech</L>
+<L>Were drunk that night, to soder up the Breach.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="7" REF="7"/>
+<HEAD>The Battle of the Verbs.</HEAD>
+<L>THe Quarrel of the Adverbs being known,</L>
+<L>The Verbs were much concerned every one,</L>
+<L>And in a fury 'gan to take't to heart,</L>
+<L>'Cause every one would take his servants part:</L>
+<L>For to the Verbs they are servants all,</L>
+<L>And obedient to their Masters call.</L>
+<L>For without them they neither dare nor can</L>
+<L>Speak Sence or Reason unto any man.</L>
+<L>Just like those Nouns called Adjectives,</L>
+<L>Who truckle still unto their Substantives.</L>
+<L>Then <HI>impero</HI> their great Commander, he</L>
+<L>Who was the chiefest in Authoritie,</L>
+<L>Commanded <HI>jubeo</HI> for to summon all</L>
+<L>The Verbs together, both great and small,</L>
+<L>With all their Arms that they ere did use</L>
+<L>On such a day at a Rendezvouze.</L>
+<L><HI>Colligo</HI> gathers them; and <HI>duco</HI> being made</L>
+<L>Their Captain, them to th' Fight doth lead.</L>
+<L><HI>Incipio</HI> doth begin the Battle, and</L>
+<L>Valiant <HI>pugno</HI> fights him hand to hand.</L>
+<L><HI>Clango</HI> commands the Trumpet then sound out;</L>
+<L>But <HI>clamo</HI> he cries all the field about,</L>
+<L>Poor <HI>timeo</HI> is afraid, and <HI>fugio</HI> shuns</L>
+<L>The Battle, <HI>sequor</HI> follows, <HI>curro</HI> runs;</L>
+<L><HI>Cedo</HI> gives ground; which made bold <HI>juro</HI> swear,</L>
+<L>And often call'd for <HI>vocito</HI> to hast the rear.</L>
+<L><HI>Juvo,</HI> though long, at last doth bring him aid;</L>
+<L>Yet <HI>amo</HI>'s being in love, made him afraid.</L>
+<L><PB N="8" REF="8"/>He then bid <HI>doceo</HI> teach him how to weild</L>
+<L>His sword: <HI>Lego</HI> said, 'twas read to him i'th' field.</L>
+<L>And I, says <HI>audio,</HI> then did hear the same.</L>
+<L>Troth, says <HI>accuso,</HI> then he's much to blame.</L>
+<L><HI>Induo</HI> was bid to put his Armour on;</L>
+<L>And <HI>incito</HI> to stir up, was wrought upon.</L>
+<L>Immediately poor <HI>jugulo's</HI> Throat was cut;</L>
+<L>Says <HI>instigo,</HI> he egg'd me on to do't.</L>
+<L><HI>Lacco</HI> lay hid behind a Quickset-hedge;</L>
+<L>Which <HI>video</HI> seeing, set his Teeth an edge</L>
+<L>To make complaint. Says <HI>haurio,</HI> You will draw</L>
+<L>An odium on your self: which when <HI>cerno</HI> saw,</L>
+<L>He bid <HI>lacesso</HI> not provoke too much;</L>
+<L>'Twou'd put, says <HI>pono,</HI> courage in a Dutch</L>
+<L>Man in the next Line. <HI>Liveo</HI> then was beat</L>
+<L>Quite black and blue, by <HI>retro</HI>'s back-retreat.</L>
+<L>And <HI>salio</HI> then over the Ditch would leap;</L>
+<L>But <HI>aio</HI> said, it was too broad and deep.</L>
+<L><HI>Dimico</HI> in skirmish, got two wounds that bled;</L>
+<L>And at his feet poor <HI>morior</HI> soon lay dead.</L>
+<L><HI>Sepelio</HI> buried him, <HI>fodio</HI> dig'd his Grave,</L>
+<L>And honest <HI>scribo</HI> writ his Epitaph.</L>
+<L>Which stir'd up <HI>excito</HI> to fight agen;</L>
+<L>And <HI>voco</HI> call'd him valiantest of men.</L>
+<L>Bless me, says <HI>beo,</HI> how valiantly he fought!</L>
+<L>And <HI>jubilo</HI> for very joy did shout.</L>
+<L><HI>Caedo,</HI> whoere he met, did beat 'em all;</L>
+<L>And at the last he made poor <HI>cado</HI> fall.</L>
+<L><HI>Candeo</HI> then 'gan to look white with fear;</L>
+<L>But <HI>horreo</HI> dreaded nothing, as I hear.</L>
+<L><HI>Amplector</HI> says, I do embrace the Fight;</L>
+<L>And <HI>aperio</HI> did open to the left and right.</L>
+<L><HI>Altercor</HI> 'gan to wrangle with them all;</L>
+<L>Which made <HI>arcesso</HI> presently go to call</L>
+<L><PB N="9" REF="8"/><HI>Augeo,</HI> who did rather increase than stop</L>
+<L>This Jarring; that it stir'd honest <HI>cieo</HI> up</L>
+<L>To speak to <HI>vulgo,</HI> that he would publish round</L>
+<L>The field, that the Enemy then gave ground.</L>
+<L>This made <HI>fremo</HI> roar, and <HI>furo</HI> to be mad</L>
+<L>To follow them. But <HI>hortor</HI> did exhort that they▪</L>
+<L>Should not do't: yet <HI>propero</HI> did hast away.</L>
+<L><HI>Increpo</HI> began to blame him much indeed,</L>
+<L>And <HI>jurgo</HI> chid him soundly for that deed.</L>
+<L>Then <HI>blatero</HI> 'gan to babble like an Ass,</L>
+<L>That <HI>calco</HI> kickt him as by'im he did pass.</L>
+<L>Then <HI>cogo</HI> swore he'd force 'em for to fight;</L>
+<L>And <HI>cito</HI> summon'd them all that very night.</L>
+<L><HI>Lugeo</HI> did mourn, and pray'd there might be peace;</L>
+<L>And <HI>cudo</HI> coin'd a Lye to make 'em cease</L>
+<L>Fighting: which made mad <HI>execror</HI> to curse.</L>
+<L><HI>Ejulo</HI> and <HI>ploro</HI> too did wail, fearing 'twou'd be worse.</L>
+<L><HI>Duro</HI> said that he'd endure unto the end,</L>
+<L>But <HI>damno</HI> condemn'd him for it, like a friend.</L>
+<L><HI>Fingo</HI> did feign a Lye that he might be gone;</L>
+<L>But <HI>censeo</HI> censur'd him for it, and every one</L>
+<L>Besides. <HI>Hio</HI> began to gape for breath, they say,</L>
+<L>And <HI>halo</HI> wanted breath that very day.</L>
+<L><HI>Macto</HI> began to kill without remorse,</L>
+<L>And <HI>paro</HI> did prepare to meet his Force.</L>
+<L>Then <HI>paveo</HI> dreaded this might mischief bring;</L>
+<L>And <HI>pendo</HI> and <HI>pendeo</HI> did weigh every thing</L>
+<L>In the Ballance of Justice: Says <HI>oleo,</HI> I smell</L>
+<L>There's Traytors amongst us; says <HI>tumeo,</HI> I swell</L>
+<L>With grief to think on't; and so did <HI>turgeo</HI> too;</L>
+<L>Says <HI>suspicio,</HI> I suspect it as well as you,</L>
+<L>And blam'd <HI>vitupero</HI> much, that was the cause on't:</L>
+<L>Then <HI>volo</HI> he was forc't to flie upon't.</L>
+<L><PB N="10" REF="9"/><HI>Nego</HI> deny'd that he had any hand in it:</L>
+<L>Says <HI>scrutor,</HI> I'll search it out within this minit.</L>
+<L><HI>Trunco</HI> then did mangle all came near him,</L>
+<L>And <HI>trudo</HI> thrust so strong, that all did fear him.</L>
+<L><HI>Temno</HI> did despise all danger that might come,</L>
+<L>And <HI>vibro</HI> brandisht out his Sword, and lookt grum</L>
+<L>Upon 'em all. <HI>Vito</HI> to avoid this storm,</L>
+<L>Hid himself in a hollow Tree, (poor worm!)</L>
+<L>And <HI>viso</HI> likew<GAP DESC="illegible" RESP="uom" EXTENT="1 letter" DISP="•"/>se went to visit him there.</L>
+<L>At last <HI>vulgo</HI> publisht abroad where they were.</L>
+<L><HI>Rogo</HI> and <HI>peto</HI> askt pardon for their fault,</L>
+<L>Because they fear'd they might be brought</L>
+<L>To punishment. And <HI>quatio</HI> 'gan to shake;</L>
+<L><HI>Ʋlciscor</HI> swore that he revenge would take:</L>
+<L>Which made <HI>ululo</HI> howl for very grief,</L>
+<L>Until that <HI>venio</HI> did come to his relief.</L>
+<L><HI>Vindico</HI> did challenge any there to fight,</L>
+<L>Which <HI>renuo</HI> did refuse at the first sight.</L>
+<L><HI>Propago</HI> did think the Fight for to prolong;</L>
+<L>And <HI>probro</HI> being then among the throng,</L>
+<L>Did approve what he had said. And <HI>pateo</HI> he</L>
+<L>Lay open to these slanders, which made him flee.</L>
+<L><HI>Repo</HI> did creep from thence into a Wood;</L>
+<L>Which <HI>veto</HI> forbid, saying, 'twoud do no good.</L>
+<L><HI>Dormio</HI> then told 'em he must sleep a while:</L>
+<L>Yes, yes, says <HI>cumbo,</HI> lie down on that Pile</L>
+<L>Of Bavins. Says <HI>exu<GAP DESC="illegible" RESP="uom" EXTENT="1 letter" DISP="•"/>,</HI> Then put off too</L>
+<L>Your Arms; 'Tis best, says <HI>facio,</HI> so to do.</L>
+<L>Says <HI>cupio,</HI> Then faith now I covet drink:</L>
+<L>I believe't, says <HI>credo;</HI> but where's the Chink</L>
+<L>Must purchase it? Says <HI>do,</HI> I give it him.</L>
+<L>Come then, says <HI>pleo,</HI> fill it to the brim.</L>
+<L>Bold <HI>scindo</HI> then was cut into the brain,</L>
+<L>And <HI>fluo</HI> swore the bloud flow'd out amain.</L>
+<L><PB N="11" REF="9"/>Says <HI>frico,</HI> Rub his temples well, be sure,</L>
+<L>And I, says <HI>precor,</HI> will pray for his cure.</L>
+<L>Which made poor <HI>horreo</HI> then to dread the Fight;</L>
+<L>And <HI>gaudio</HI> did rejoyce when out of sight.</L>
+<L><HI>Gemo</HI> began to groan, being wounded sore:</L>
+<L>Says <HI>bibo,</HI> Let him drink a little more</L>
+<L>O'th' Cordial. But <HI>mutio</HI> muttering by,</L>
+<L><HI>Frango</HI> did break his head immediately.</L>
+<L><HI>Foveo</HI> did cherish all this bleeding Crew,</L>
+<L>And <HI>nutrio</HI> he nourisht some of them too.</L>
+<L><HI>Foeteo</HI> did stink for fear, when he did see</L>
+<L><HI>Ferio</HI> strike down another. And <HI>fugo</HI> he</L>
+<L>As well as his Brother <HI>fugio,</HI> flies. And <HI>flo,</HI></L>
+<L>With fighting long, began to puff and blow</L>
+<L><HI>Fleo</HI> did weep extreamly for to see</L>
+<L><HI>Flagito</HI> to beg for's life so earnestly.</L>
+<L>I must confess that <HI>fateor</HI> got renown;</L>
+<L>And <HI>fatigo</HI> was weary too with looking on.</L>
+<L><HI>Fido</HI> did trust too much unto his broken blade,</L>
+<L>Which made <HI>festino</HI> hasten unto his aid.</L>
+<L><HI>Fallo</HI> did deceive 'em all: for when he found</L>
+<L>The Bullets hiss, he fell upon the ground,</L>
+<L>That honest <HI>cogito</HI> did think him dead;</L>
+<L><HI>Experior</HI> too did try to rub his head.</L>
+<L><HI>Doleo</HI> griev'd that Death should thus oretake him;</L>
+<L>Yet <HI>expergiscor</HI> did at last awake him.</L>
+<L><HI>Exerceo</HI> then did exercise his Crew;</L>
+<L>But he like <HI>desero</HI> did forsake him too.</L>
+<L><HI>Festo</HI> stood to it, <HI>advenio</HI> then comes to him;</L>
+<L>Which when <HI>obsecro</HI> saw, he then did woo him</L>
+<L>To invade bold <HI>ingruo:</HI> But <HI>scandeo</HI> he</L>
+<L>Did climb for safety on an Oaken-tree.</L>
+<L>Then <HI>simulo</HI> did counterfeit a wound or two;</L>
+<L><HI>Singultio</HI> likewise sobs to see him so.</L>
+<L><PB N="12" REF="10"/><HI>Ario</HI> being dry, did wish his inside wetter;</L>
+<L>No matter, says <HI>ardeo,</HI> you'll burn the better.</L>
+<L>I was betray'd, says <HI>prodo,</HI> to this dismal day;</L>
+<L>Yet <HI>prurio</HI>'s fingers itcht to fight, they say.</L>
+<L><HI>Pungo</HI> was prickt toth' heart, when upon him</L>
+<L><HI>Premo</HI> did press; yet <HI>vinco</HI> overcome him.</L>
+<L><HI>Meo</HI> unto the Battle hast doth make,</L>
+<L>But <HI>desino</HI> doth the Field forsake.</L>
+<L><HI>Spiro</HI> to breathe, doth forbear to smite;</L>
+<L>But crafty <HI>evito</HI> doth escape the Fight.</L>
+<L><HI>Miror</HI> in wonder standing much amaz'd,</L>
+<L>And faint <HI>aspicio</HI> on the Battle gaz'd.</L>
+<L><HI>Supero</HI> did overcome whoere he met;</L>
+<L>And <HI>gratulor</HI> did the valiant Hero greet.</L>
+<L><HI>Spero</HI> did hope well; <HI>sperno</HI> despis'd all flight,</L>
+<L>Though <HI>redeo</HI> returned wounded from the Fight.</L>
+<L><HI>Stringo</HI> did strain himself to overcome</L>
+<L>Bold <HI>pulso,</HI> who quickly struck him down.</L>
+<L>Then <HI>tono</HI> thundred in with might and main</L>
+<L>To help <HI>succurro,</HI> which was almost slain.</L>
+<L><HI>Ferreo</HI> waxt hot by all these great Alarms,</L>
+<L>And <HI>fido</HI> trusts more to his feet than arms.</L>
+<L><HI>Dimitto</HI> sent a Bullet then so right,</L>
+<L>The Powder scorcht poor <HI>ustulo</HI> that night.</L>
+<L><HI>Luxo</HI> then put his arm quite out of joynt,</L>
+<L>That <HI>ungo</HI> was forc'd at last it to anoint.</L>
+<L><HI>Erro</HI> mistook the place, and wander'd up and down,</L>
+<L>And <HI>equito</HI> after him rod from Town to Town.</L>
+<L><HI>Corusco</HI>'s arms glister'd in the fight that day,</L>
+<L>And <HI>mico</HI>'s shin'd likewise, as some do say.</L>
+<L><HI>Metuo</HI> did fear to meet too, as I hear,</L>
+<L>Yet at last with <HI>misceo</HI> mingled in the rear:</L>
+<L>And <HI>occulo</HI> did hide himself behind a Tree,</L>
+<L>Which <HI>monstro</HI> shew'd to all the companie.</L>
+<L><PB N="13" REF="10"/>Sad <HI>verto</HI> turn'd from one side to the other,</L>
+<L>And <HI>muto</HI> chang'd too, as if he were his Brother.</L>
+<L><HI>Nuo</HI> did nod his head at some were there,</L>
+<L>That <HI>neco</HI> almost kill'd him when he came neer.</L>
+<L>But <HI>mulceo</HI> did asswage his fury then,</L>
+<L>And <HI>paco</HI> striv'd to appease all these men.</L>
+<L>Though <HI>congruo</HI> advis'd them to agree,</L>
+<L>And allur'd <HI>Lacio</HI> of his party to be,</L>
+<L>Yet <HI>cingo</HI> girds his Sword about him then,</L>
+<L>And <HI>jungo</HI> joyns with other marshal men.</L>
+<L><HI>Ausculto</HI> hearkens what they meant to do;</L>
+<L><HI>Emo</HI> buys Armour to defend him too.</L>
+<L><HI>Titubo</HI> did stumble by his too much hast,</L>
+<L><HI>Vacillo</HI> stagger'd too, they strook so fast.</L>
+<L><HI>Laedo</HI> was hurt, and's Brother <HI>noceo</HI> too;</L>
+<L>And <HI>tueor</HI> defends himself with much ado.</L>
+<L><HI>Tego</HI> was cover'd with a gallant Shield,</L>
+<L>Yet being beat by <HI>verbero,</HI> made him yield.</L>
+<L><HI>Plango</HI> did much lament his grievous chance,</L>
+<L>'Cause <HI>ico</HI> smote him with his direful Lance.</L>
+<L><HI>Ruo</HI> did rush into that furious Fight,</L>
+<L>Which did, they say, poor <HI>terreo</HI> much affright.</L>
+<L><HI>Sarcio</HI> did patch his Armour, 'twas so old;</L>
+<L>And <HI>demo</HI> took't away, he was so bold.</L>
+<L><HI>Languio</HI> did languish 'cause his wounds were deep;</L>
+<L>And <HI>serpo</HI> from the Battle soon did creep.</L>
+<L>Bold <HI>voveo</HI> vow'd that he'd have Armour on;</L>
+<L>Which <HI>obliviscor</HI> forgot, till all was done.</L>
+<L><HI>Palleo</HI> lookt very pale, and wou'd a fled; but</L>
+<L>Undaunted <HI>teneo</HI> soundly held him to't.</L>
+<L><HI>Findo</HI> did cleave his Enemies scull that day;</L>
+<L>Yet <HI>medeor</HI> made a shift to heal't, they say.</L>
+<L><HI>Formido</HI> did dread to come into the Fight,</L>
+<L>And <HI>culpo</HI> blam'd him for't, they say, that night.</L>
+<L><PB N="14" REF="11"/><HI>Voco</HI> did call on <HI>vado</HI> to go on;</L>
+<L>Poor <HI>labo</HI> faints, when <HI>jaceo</HI> cast him down:</L>
+<L>But <HI>recupero</HI> recover'd incontinent;</L>
+<L>For <HI>spero</HI> gave him hope, being almost spent.</L>
+<L>As I live, says <HI>vivo, statuo</HI> did appoint</L>
+<L>Me Ensigne, in regard I first did win't.</L>
+<L><HI>Nosco</HI> said, he knew it; <HI>mentior</HI> swore he ly'd;</L>
+<L>Then <HI>acuo</HI> whets his sword that hung by's side.</L>
+<L>Peace, peace, says <HI>taceo; sudo</HI> sweat for fear,</L>
+<L>And <HI>surgo</HI> rose and fled into the rear.</L>
+<L><HI>Singultio</HI> then began to sob, they say,</L>
+<L>Because <HI>provoco</HI> challeng'd him that day.</L>
+<L><HI>Cubo</HI> fell down, and <HI>capio</HI> did him take</L>
+<L>Up agen, when he could hardly speak.</L>
+<L><HI>Frendeo</HI> then did gnash with's teeth so hard,</L>
+<L>It drove away poor <HI>pello</HI> from the Guard.</L>
+<L>Come, says <HI>invenio,</HI> I do clearly find</L>
+<L><HI>Maneo</HI> did well to tarry still behind:</L>
+<L>For <HI>incendo</HI> here has set us all on fire;</L>
+<L>And I'll begin, says <HI>inchoo</HI> to retire.</L>
+<L><HI>Oro</HI> prays heartily that it may succeed;</L>
+<L>Says <HI>indico,</HI> I'll shew you a way with speed.</L>
+<L><HI>Consulo</HI>'s counsel they did not dispise;</L>
+<L><HI>Condono</HI> said, he'd pardon his Enemies.</L>
+<L><HI>Fascino</HI> thought he was bewitcht he swore;</L>
+<L>But <HI>patio</HI> said, that he had suffered more</L>
+<L>Than all. <HI>Impertio</HI> did impart to 'em all;</L>
+<L>And I command, says <HI>mando,</HI> great and small.</L>
+<L><HI>Obedio</HI> vow'd that he'd the first obey,</L>
+<L>And <HI>Moneo</HI> did admonish the same way.</L>
+<L>Says <HI>Narro,</HI> I will tell it round the field;</L>
+<L><HI>Nolo,</HI> though unwilling, yet at last doth yield.</L>
+<L>And <HI>volo</HI> was as willing, I do protest;</L>
+<L>But <HI>malo</HI> was more willing than all the rest.</L>
+<L><PB N="15" REF="11"/>I have a mind, says <HI>habeo,</HI> for to joyn</L>
+<L>With all this Crew. Says <HI>rego,</HI> And I'll resigne</L>
+<L>My Rule. <HI>Sto</HI> was at a stand, and gaz'd about;</L>
+<L>And <HI>certo</HI> striv'd to draw this Rabble-rout</L>
+<L>To some Agreement. At last <HI>loquor</HI>'s Speech</L>
+<L>Did by degrees soder up the Breach.</L>
+<L>Tho <HI>praedico</HI> did preach before in vain,</L>
+<L>And <HI>suadeo</HI> did perswade with might and main,</L>
+<L>And <HI>fungo</HI> did discharge his duty right,</L>
+<L>And he with <HI>unio</HI> caus'd them all unite,</L>
+<L>And <HI>dico</HI> said, 'Twas best from War to cease,</L>
+<L>And <HI>sancio</HI> he establish did a Peace,</L>
+<L>And <HI>solvo</HI> paid 'em for their service done,</L>
+<L>And <HI>jurgo</HI> chid those from fight did run,</L>
+<L><HI>Finio</HI> the Battle ends: yet most do say,</L>
+<L>Though <HI>jacto</HI> brag'd, yet <HI>vinco</HI> won the day.</L>
+<L><HI>Numero</HI> did number all then were slain,</L>
+<L>And <HI>opto</HI> wisht't might nere be so again.</L>
+<L><HI>Parco</HI> was very glad that he was spar'd;</L>
+<L>And <HI>partio</HI> did divide the spoil was shar'd.</L>
+<L><HI>Irascor</HI> was angry, and began to fret,</L>
+<L>'Cause <HI>adsum</HI> was not present when they met.</L>
+<L>I was, says <HI>eram,</HI> and am glad to see</L>
+<L>A Reconciliation so like to be.</L>
+<L>Then <HI>salto</HI> danc'd, and <HI>ludo</HI> 'gan to play</L>
+<L>On's Instrument for joy of that happy day.</L>
+<L>We had better, says <HI>lavo,</HI> wash our Throats than cut 'em:</L>
+<L>And <HI>tundo</HI> knockt for Liquor; which was brought 'm.</L>
+<L>Yet <HI>turgeo</HI> and <HI>tumeo</HI> 'gan to swell,</L>
+<L>'Cause <HI>placeor</HI> was not pleased very well.</L>
+<L>Says <HI>veto, Jove</HI> forbid that we agen</L>
+<L>Should fight: To which they all did cry, <HI>Amen.</HI></L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="16" REF="12"/>
+<HEAD>The Concords.</HEAD>
+<L>THe Interjections living so near the Concords,</L>
+<L>Were, as I'm told, the onely strong Cords</L>
+<L>To tye 'em up from War; came in I find</L>
+<L>In some vehement passion of the mind,</L>
+<L>And affection also: and before they went,</L>
+<L>Brought in the three Concords to that intent.</L>
+<L>The first was Nominative case and Verb,</L>
+<L>Who striv'd their unbridled passions to curb,</L>
+<L>By saying, Yet we ne'r did disagree,</L>
+<L>But liv'd in love, concord, and harmonie</L>
+<L>In affections; and so I hope will ye:</L>
+<L>For we in Case Number and Person still agree.</L>
+<L>Then the Substantive, who was substantial,</L>
+<L>Came with's Adjective at the very first call,</L>
+<L>Who said, that in Case Gender and Number they</L>
+<L>Did never disagree, nor disobey</L>
+<L>Their Superiours, and were each a sure friend,</L>
+<L>As <HI>amicus certus</HI> can tell, to the end,</L>
+<L>In any doubtful matter whatsoere,</L>
+<L>Witness in <HI>re incerta cernitur.</HI></L>
+<L>So we hope in this brangling matter,</L>
+<L>To bring't so to pass all Feuds may scatter</L>
+<L>Like the dust before the wind. And then</L>
+<L>Came in the Relative with's Antecedent, when</L>
+<L>The other two were endeavouring to compose</L>
+<L>That great difference where ev'ry one were foes.</L>
+<L>The Relative said, I've Relations there:</L>
+<L>And I, says the Antecedent, shou'd a come here</L>
+<L>Before the Relative; but I'm glad he's there.</L>
+<L><PB N="17" REF="12"/>Then 'twas related to the Relative, how</L>
+<L>It did begin. Says the Antecedent, Now</L>
+<L>We will endeavour to make 'em all agree,</L>
+<L>And adde one Concord more to th'other three.</L>
+<L>Then they both being together,</L>
+<L>Did very seriously ask 'em whether</L>
+<L>They'd adde another Concord to th' three before:</L>
+<L>If so, then you must never quarrel more.</L>
+<L>To which they did concord, <HI>cum tota mente,</HI></L>
+<L>With a large Huzza, <HI>Nemini Contradicente.</HI></L>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>The Conjunctions.</HEAD>
+<L>WHen the Adverbs Quarrel began to cease,</L>
+<L>The Conjunctions striv'd to make a Peace,</L>
+<L>With the help of the Prepositions,</L>
+<L>And their Neighbours the Interjections.</L>
+<L>Which being done, the Conjunctions they</L>
+<L>Striv'd to prevent such another day:</L>
+<L>And by a Conjunction did all agree</L>
+<L>For the future to live in amitie.</L>
+<L>And so did joyn some sentences and words</L>
+<L>Together, and what their Store-house affords,</L>
+<L>To give some reason that they ought no more</L>
+<L>To quarrel as others did heretofore.</L>
+<L>Says <HI>et,</HI> And I will joyn w'ye in the same.</L>
+<L>Says <HI>quae,</HI> And I; or else I were to blame.</L>
+<L>Says <HI>quoque</HI> also, I'll stick by ye still.</L>
+<L>Says <HI>ac</HI> and <HI>atque,</HI> And also 'twas their will.</L>
+<L>Says <HI>nec,</HI> Neither I nor my Brother <HI>neque;</HI></L>
+<L>We'll break our necks ere we'll forsake ye.</L>
+<L><PB N="18" REF="13"/>And these coupled themselves then for that end,</L>
+<L>That they might still be each others friend.</L>
+<L>Though the Disjunctives did at first disjoyn</L>
+<L>From the last, yet now to quietness incline.</L>
+<L>And <HI>aut,</HI> to excuse himself, said, 'Twas either</L>
+<L><HI>Ve, vel, seu, sive,</HI> or he knew not whether</L>
+<L>That did disjoyn 'em; but now all do desire</L>
+<L>To stick close unt'ye to quench the fire.</L>
+<L>But then the Discretives, that were discreeter</L>
+<L>Than the other, did say, It was meeter</L>
+<L>For all to be friends. Says <HI>quidem</HI> Truly</L>
+<L>I've often known Disjunctives much unruly.</L>
+<L>But <HI>sed</HI> and <HI>autem, vero, at,</HI> and <HI>ast,</HI></L>
+<L>Thought themselves the Buts, they'd shoot at last.</L>
+<L>The Causals then resolv'd next to speak,</L>
+<L>And thought they'd cause enough their mind to break:</L>
+<L>For says <HI>nam, namque, enim,</HI> and <HI>etenim,</HI></L>
+<L>That some o'th' Adverbs then did threaten 'em;</L>
+<L>But know not what for. Says <HI>quia,</HI> 'Twas because</L>
+<L>(And so said <HI>quoniam</HI>) some had broke the Laws.</L>
+<L>Says <HI>ut,</HI> That may be: And <HI>quod</HI> said That was so.</L>
+<L>Says <HI>quum,</HI> Sith that I no Tony am;</L>
+<L>And so said <HI>quando,</HI> that was set for <HI>quoniam.</HI></L>
+<L>Says the Conditionals, On this condition</L>
+<L>You'll never more have any division;</L>
+<L>We'll speak for ye. Says <HI>si,</HI> If I do</L>
+<L>Believe their ifs and ands agen, let me rue</L>
+<L>It. Says <HI>sin,</HI> But if they should first begin,</L>
+<L>Then at their door I'm sure does lie the sin.</L>
+<L>Says <HI>modo,</HI> So that they'll but let us alone;</L>
+<L>And so said <HI>dum,</HI> and <HI>dummodo,</HI> and every one,</L>
+<L>We'll never differ more. Says <HI>dum,</HI> They told me then,</L>
+<L>That I should marry <HI>Dido, Carthage</HI> Queen;</L>
+<L><PB N="19" REF="13"/>But 'twas by the very consent of some</L>
+<L>O'th' Gerunds. To make it up, <HI>di, do, dum.</HI></L>
+<L>The Exceptives then some Exceptions made,</L>
+<L>As <HI>ni,</HI> and <HI>nisi,</HI> being both of one Trade,</L>
+<L>Said, Except they leave off thus to abuse us,</L>
+<L>We can't endure long to be us'd thus.</L>
+<L>Then says <HI>alioquin,</HI> and <HI>praeterquam,</HI></L>
+<L>Except that they do this, we mean to firk 'um.</L>
+<L>Then says <HI>quin,</HI> But I neither except that,</L>
+<L>Or any thing that's otherwise, that's flat.</L>
+<L>The Interogatives then were took to task,</L>
+<L>And were resolv'd some Questions to ask.</L>
+<L>And first, says <HI>ne, an, utrum,</HI> whether</L>
+<L>You do intend to speak altogether,</L>
+<L>Or singly? Nay, says <HI>necne,</HI> Whether or no:</L>
+<L>And so says <HI>anne:</HI> Says <HI>nonne,</HI> Is't not so?</L>
+<L>The Illatives then were for bringing in</L>
+<L>Some novel Custom, that had long been</L>
+<L>Out of use. Says <HI>ergo,</HI> Therefore: <HI>ideo,</HI></L>
+<L><HI>Igitur, itaque,</HI> and <HI>proin,</HI> bid ye, ho,</L>
+<L>To bring in nothing that was against Law.</L>
+<L>Says <HI>quare,</HI> Wherefore should they do't? thy're raw</L>
+<L>That do desire it. Then the Adversatives,</L>
+<L>Who had been very adverse all their lives,</L>
+<L>And were against every thing that's good,</L>
+<L>Now did no more desire to deal in blood:</L>
+<L>For says <HI>etsi, quanquam, quamvis,</HI> and <HI>licet,</HI></L>
+<L>Although we hated Peace, yet now we prize it.</L>
+<L>And before 'em all, says <HI>esto,</HI> Be it so:</L>
+<L>And so shall all the rest say 'fore we go.</L>
+<L>The Redditives then said, That they'd restore</L>
+<L>Whatere they had unjustly gotten; nay, more</L>
+<L>To be quiet. Says <HI>attamen</HI> and <HI>tamen,</HI></L>
+<L>Notwithstanding that many does blame men</L>
+<L><PB N="20" REF="14"/>For their wickedness: Yet the Electives say,</L>
+<L>With <HI>quam,</HI> How glad are we to see this day!</L>
+<L>The Diminutives also did confess,</L>
+<L>That they endeavour'd to make all things less</L>
+<L>Than they were, thereby to have quietness.</L>
+<L>Says <HI>saltem</HI> at least, and so says honest <HI>vel,</HI></L>
+<L>They were glad to see all things now so well.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>The Prepositions.</HEAD>
+<L>A Preposition most commonly is set</L>
+<L>Before other parts i'th' Grammar-Alphabet.</L>
+<L>Then why the Adverbs and Conjunctions should be</L>
+<L>Set before it, a wonder is to me:</L>
+<L>For he in Apposition can do much,</L>
+<L>And in Opposition too has a touch.</L>
+<L>For he to's Father, if he please, can say,</L>
+<L><HI>Ad Patrem;</HI> and when he has done, go his way.</L>
+<L>Likewise in opposition is very bold</L>
+<L>With the rest of's Brethren, as I've been told.</L>
+<L>And then for composition, none can be</L>
+<L>So great an Artist in that Trade as he,</L>
+<L>As <HI>indoctus,</HI> though unlearn'd, said to me.</L>
+<L>'Twas he that great composition made</L>
+<L>To th' Adverbs, when they that great quarrel had;</L>
+<L>And privately was the cause, they say,</L>
+<L>That the Verbs themselves fought no more that day:</L>
+<L>And call'd to all of them that were his Crew,</L>
+<L>That they in that thing should joyn with him too.</L>
+<L>And first, says <HI>ad,</HI> I'll adde to any thing</L>
+<L>Which may indeed peace and quietness bring.</L>
+<L><PB N="21" REF="14"/>And I will be, says <HI>apud,</HI> at the same;</L>
+<L>And they that do it not, are much to blame.</L>
+<L>Then were <HI>adversus,</HI> and's Brother <HI>adversum,</HI></L>
+<L>Against fighting too: but said, There were some</L>
+<L>That delighted in't, and they could rehearse 'um.</L>
+<L>Yes, says <HI>cis</HI> and <HI>citra</HI> on this side the street,</L>
+<L>Many often about it together did meet.</L>
+<L>Yes, says <HI>trans,</HI> on the further side too;</L>
+<L>But they at my request, themselves withdrew.</L>
+<L>Then says <HI>circa, circiter,</HI> and <HI>circum,</HI></L>
+<L>About that time we were us'd to jerk 'um</L>
+<L>For it. I was, says <HI>contra,</HI> on t'other part,</L>
+<L>And did contrary them in all their Art.</L>
+<L>As I went, says <HI>erga,</HI> towards 'em too,</L>
+<L>I forc'd 'em to peace, do all they could do.</L>
+<L>And <HI>versus</HI> towards 'em went, as I have heard,</L>
+<L>And took the untoward and pluck'd 'em by the beard.</L>
+<L>I was, says <HI>extra,</HI> without when 'twas done:</L>
+<L>And I, says <HI>intra,</HI> within when 'twas begun.</L>
+<L>I was just then, says <HI>inter,</HI> between ye both,</L>
+<L>And was much troubled to see 'em all in wrath.</L>
+<L>And I was then, says <HI>infra,</HI> beneath ye all,</L>
+<L>Yet not so far as to be out of call.</L>
+<L>I was, says <HI>pone,</HI> behind; ye cou'd not see</L>
+<L>Me at all: I stood behind a Tree.</L>
+<L>And I was also, says <HI>prope,</HI> nigh to,</L>
+<L>Yet was seeing for a place to flie to.</L>
+<L>But I was, says <HI>supra,</HI> above ye all,</L>
+<L>I mean, i'th' Room which is above the Hall.</L>
+<L>And I was, says <HI>ultra,</HI> beyond the rest,</L>
+<L>To sleep in a whole skin I thought it best.</L>
+<L>And I, says <HI>per,</HI> by too; but through my desire</L>
+<L>For peace, did endeavour to quench the fire.</L>
+<L><PB N="22" REF="15"/>I was then, says <HI>secus,</HI> by or nigh to,</L>
+<L>But I'll assure ye had no mind to die too.</L>
+<L>Says <HI>juxta,</HI> And besides I was nigh to, and</L>
+<L><HI>Ob,</HI> For some reasons, which you'll understand.</L>
+<L>I had it, says <HI>penes,</HI> in my power either</L>
+<L>To set 'em by the Ears together,</L>
+<L>Or to make peace; truth is, I car'd not whether.</L>
+<L>Says <HI>praeter,</HI> Besides, or except I had been there,</L>
+<L>Great mischief wou'd a been done, I dare swear:</L>
+<L>For I being <HI>praetor,</HI> that's Lord-Mayor, you know,</L>
+<L>Kept 'em in aw, and brought 'em all to my bow.</L>
+<L>Last, says <HI>secundum,</HI> According to what you've said,</L>
+<L>Your will with me shall always be obey'd.</L>
+<L>Then the Propositions broke up their Court,</L>
+<L>And all to their own Stations did resort.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>The Interjections.</HEAD>
+<L>AN Interjection is a part, I find,</L>
+<L>Which concerns a sudden passion o'th' mind:</L>
+<L>But 'tis under an imperfect voice, I hear,</L>
+<L>(That is to say, within their proper Sphere.)</L>
+<L>Some are so merry, they're to mirth inclin'd:</L>
+<L>Says <HI>evax, vah,</HI> hey brave! We'll not be confin'd:</L>
+<L>Can they want any thing that are merry?</L>
+<L>Come, Boy, fill us a lusty Cup of Sherry.</L>
+<L>Some are with sorrow attended, still they say,</L>
+<L>As <HI>heu,</HI> Alas! and says <HI>hui,</HI> Welladay!</L>
+<L>Some are possest with dread; says <HI>atat,</HI> Out alas,</L>
+<L>What shall we do, being brought to this pass?</L>
+<L>Some are of marvelling too; which argues change:</L>
+<L>And all do cry still with <HI>papae,</HI> O strange!</L>
+<L><PB N="23" REF="15"/>Some are of shunning, and all back will run,</L>
+<L>And boldly say with <GAP DESC="illegible" RESP="uom" EXTENT="1 word" DISP="〈◊〉"/> <HI>avant,</HI> Be gone.</L>
+<L>And of pratling <GAP DESC="illegible" RESP="uom" EXTENT="1 span" DISP="〈…〉"/> says <HI>euge,</HI> Well done.</L>
+<L>And some of <GAP DESC="illegible" RESP="uom" EXTENT="1 span" DISP="〈…〉"/> '<GAP DESC="illegible" RESP="uom" EXTENT="1 letter" DISP="•"/>is very true,</L>
+<L>Who all do cry <GAP DESC="illegible" RESP="uom" EXTENT="1 span" DISP="〈…〉"/> hoop, whoo!</L>
+<L>And so<GAP DESC="illegible" RESP="uom" EXTENT="1+ letters" DISP="•…"/> <GAP DESC="illegible" RESP="uom" EXTENT="1 span" DISP="〈…〉"/> and oft cry Foh;</L>
+<L>And with <GAP DESC="illegible" RESP="uom" EXTENT="1 span" DISP="〈…〉"/> <HI>proh,</HI> cry Oh:</L>
+<L>As <HI>ô preceptor<GAP DESC="illegible" RESP="uom" EXTENT="1+ letters" DISP="•…"/> <GAP DESC="illegible" RESP="uom" EXTENT="1 span" DISP="〈…〉"/> <GAP DESC="illegible" RESP="uom" EXTENT="1 letter" DISP="•"/>ras?</HI></L>
+<L>O, Master, why <GAP DESC="illegible" RESP="uom" EXTENT="1 span" DISP="〈…〉"/> me? Alas, alas!</L>
+<L>And <HI>proh <GAP DESC="illegible" RESP="uom" EXTENT="1 span" DISP="〈…〉"/> Fidem!</HI></L>
+<L>O the Faith o<GAP DESC="illegible" RESP="uom" EXTENT="1 letter" DISP="•"/> <GAP DESC="illegible" RESP="uom" EXTENT="1 span" DISP="〈…〉"/> to guide 'em!</L>
+<L>And some <GAP DESC="illegible" RESP="uom" EXTENT="1 span" DISP="〈…〉"/> delight, I see;</L>
+<L>And all say lik<GAP DESC="illegible" RESP="uom" EXTENT="1 letter" DISP="•"/> <GAP DESC="illegible" RESP="uom" EXTENT="1 span" DISP="〈…〉"/> <HI>vae,</HI> Wo t'ye.</L>
+<L>And all the <GAP DESC="illegible" RESP="uom" EXTENT="1 span" DISP="〈…〉"/> therein,</L>
+<L>Saying, Woe <GAP DESC="illegible" RESP="uom" EXTENT="1 span" DISP="〈…〉"/> that shall quarrel agen,</L>
+<L>And wish they may go all down quick to th' Pit:</L>
+<L>Then says all the rest. <HI>Amen,</HI> So be it.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>The Gerunds.</HEAD>
+<L>THere be also belonging to th' Infinitive Mood</L>
+<L>Of Verbs, certain Voices (to be understood)</L>
+<L>Call'd Gerunds, having all their endings in</L>
+<L><HI>Di, do, dum;</HI> and so of long time have bin:</L>
+<L>As <HI>amandi,</HI> of loving. 'Tis very true,</L>
+<L>A man die of loving, 'tis nothing new.</L>
+<L><HI>Amando,</HI> in loving, is brought to's end.</L>
+<L>I saw a man do much in that to's friend.</L>
+<L><HI>Amandum,</HI> to love; that's more than all the rest.</L>
+<L>When a man is dumb, how can's mind be exprest?</L>
+<L>And as <HI>di, do, dum,</HI> all their endings are,</L>
+<L>And when they do die, they're dumb, I'll swear:</L>
+<L><PB N="24" REF="16"/>For after death, there's few speak any where,</L>
+<L>As I've been told by some o'th' Neighbours there.</L>
+<L>For those <HI>di do</HI> endings bring 'em to their ends;</L>
+<L>And therefore enemies to 'em, and not friends.</L>
+<L>And when they do die, as being Gerunds,</L>
+<L>Then Mr. Death does send 'em of his Errands.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>The Supines.</HEAD>
+<L>THere do also belong unto Verbs, two</L>
+<L>Supines; and that they may have their due,</L>
+<L>One ending in <HI>um,</HI> which is call'd the first,</L>
+<L>But the other in <HI>u,</HI> which is much the worst.</L>
+<L>The first is of the Active Regiment,</L>
+<L>And clearly to love and loving is bent:</L>
+<L>And where-ever he goes, says <HI>eo amatum,</HI></L>
+<L>I go to love, and not to cheat 'um.</L>
+<L>But that in <HI>u</HI> is rugged, harsh, severe,</L>
+<L>And very hard to be loved any where,</L>
+<L>As <HI>difficilis amatu</HI> told us there.</L>
+<L>They both are descended from one <HI>Su Pine,</HI></L>
+<L>Who was their Mother, and born under th'Line.</L>
+<L>And likewise she her self came from the Loins</L>
+<L>Of him that was the Prince o'th' Isle of <HI>Pines.</HI></L>
+<L>They're both of different temper, yet Brothers</L>
+<L>As if they'd been descended from two Mothers.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="25" REF="16"/>
+<HEAD>The Conjugations.</HEAD>
+<L>THe Verbs have onely four Conjugations;</L>
+<L>Which are known in this manner, in all Nations:</L>
+<L>And they are Feminines all, as I hear;</L>
+<L>And by that time you know it, you'll say 'tis clear.</L>
+<L>First, by their names, as <HI>amare, amaris;</HI></L>
+<L>That is, one Mrs. <HI>Mary</HI> was Lady Mayoress.</L>
+<L>And indeed they love well three of the four,</L>
+<L>But the other they hate for evermore.</L>
+<L>And the reason why they love the first, second, &amp; fourth,</L>
+<L>Is, because they think 'em of very much worth;</L>
+<L>Because they're pronounc'd long in the middle</L>
+<L>Syllable in the next line: and let the third go fiddle:</L>
+<L>For he in the middle is found to be but short,</L>
+<L>And so by consequence makes them no sport.</L>
+<L>And being Conjugations, they are wedded</L>
+<L>To the other three, but will ne'r be bedded</L>
+<L>To the third; and I certainly know this,</L>
+<L>As long as his name is <HI>legere, legeris.</HI></L>
+<L>Thus you've heard the meaning of all the four</L>
+<L>Conjugations; what need I say any more?</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>The Persons.</HEAD>
+<L>THere are among the Verbs, Persons also,</L>
+<L>And very great Persons too, you must know.</L>
+<L><PB N="26" REF="17"/>Their Numbers are great too, nay more than one:</L>
+<L>For there's two numbers of 'em which are known.</L>
+<L>And seeing the numbers of 'em are so great,</L>
+<L>We'll appoint <HI>numero</HI> them to repeat:</L>
+<L>Of which persons there is but onely three</L>
+<L>That are singular men; which I'll make known t'ye.</L>
+<L>That's the most Princely <HI>Impero, Mando,</HI></L>
+<L>And <HI>Jubeo;</HI> which command as much as men can do.</L>
+<L>Other three there are plurally addicted,</L>
+<L>And are for more than one naturally affected;</L>
+<L>Which is the cause that they do never marry,</L>
+<L>But Misses numberless 'bout with 'em carry.</L>
+<L>The Servants to the first, are <HI>ego, tu, ille;</HI></L>
+<L>Which is as much as to say, I, thou, he,</L>
+<L>Will domineer over all the Country.</L>
+<L>And the Servants o'th' last are in number the same,</L>
+<L>But not o'th' same number, yet as much fame;</L>
+<L>And they are call'd <HI>nos, vos, illi,</HI> they say;</L>
+<L>That is to be interpreted, we, ye, they,</L>
+<L>We'll all be drunk as often as we may.</L>
+<L>Then <HI>ego amo,</HI> I love; <HI>tu amas,</HI> thou lovest;</L>
+<L><HI>Ille amat,</HI> he loveth: Now which loves best?</L>
+<L>The other which is called <HI>nos amamus,</HI></L>
+<L>We love; for which I hope you won't blame us.</L>
+<L><HI>Vos amatis,</HI> ye love; why shou'd ye not?</L>
+<L><HI>Illi amant,</HI> they love; Love's all their lot.</L>
+<L>It had been well if all the Verbs had been so,</L>
+<L>Then we shou'd have had no fighting you know.</L>
+<L>Thus have you heard the Persons and Numbers too:</L>
+<L>So that I think I've nothing more to do.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="27" REF="17"/>
+<HEAD>The Pronouns courting a Mistriss.</HEAD>
+<L>A Pronoun is a fellow much like to a Noun,</L>
+<L>And thinks himself the bravest man in Town;</L>
+<L>And still in Poetry will be versing,</L>
+<L>But's chief business is shewing and rehearsing.</L>
+<L>A very pretty, witty, and buxom Maid</L>
+<L>They'd lately got among 'em, as 'tis said:</L>
+<L>And every one did think himself better</L>
+<L>Than the rest; and so did strive to get her.</L>
+<L>Says <HI>ego,</HI> I am chief of all the rest,</L>
+<L>And therefore think I do deserve her best.</L>
+<L>Says <HI>tu,</HI> Thou have her! what, 'cause y'are Foreman</L>
+<L>O'th' Jury? Yet she knows y'are but a poor man.</L>
+<L>But here's one call'd <HI>sui,</HI> of himself can say</L>
+<L>In's own behalf, more than any of they.</L>
+<L>Says <HI>ille,</HI> He to my knowledge cannot break</L>
+<L>His mind: for I ne'r yet heard him speak.</L>
+<L>But here's one Mr. <HI>ipse,</HI> the man will be,</L>
+<L>Because sh'as long known him, <HI>ipse,</HI> he.</L>
+<L>Though <HI>ipse</HI> be the very man you speak of,</L>
+<L>Yet I say <HI>iste</HI> the match will break off,</L>
+<L>'Cause he's an Hermaphrodite, both he and she,</L>
+<L>So not fit for that Ladies companie.</L>
+<L>Says <HI>hic,</HI> Though <HI>iste</HI> this and that do say,</L>
+<L>Yet I <HI>hic,</HI> this man, will have her away.</L>
+<L>How, says <HI>iste,</HI> is that the man must do't?</L>
+<L>There's one Mr. <HI>meus</HI> will hold him to't:</L>
+<L>For she is, says <HI>meus,</HI> mine; therefore I,</L>
+<L>Before I'll lose her, am resolv'd to die.</L>
+<L><PB N="28" REF="18"/>Then says <HI>tuus,</HI> Thine she shall be for me;</L>
+<L>For I'm resolv'd not to fight for any she.</L>
+<L>Says <HI>noster,</HI> Ours she is, and ours shall be:</L>
+<L>She is, says <HI>vester,</HI> yours, if you and I agree:</L>
+<L>For you know that whatsoever is yours,</L>
+<L>If I participate therein, 'tis ours.</L>
+<L>And then began too Monsieur <HI>nostras,</HI></L>
+<L>Who in his Country-Language was boistrous</L>
+<L>To get her from the two last, saying, She is</L>
+<L>Of our Country. Says <HI>vestras,</HI> And so 'tis:</L>
+<L>For your Country is our Country, and so</L>
+<L>Our Country is your Country all do know,</L>
+<L>And so belongs unto us both; let's go</L>
+<L>And take her. Says <HI>cujas</HI> that was lurking by,</L>
+<L>You both lay claim to her as yours; but I</L>
+<L>Lay claim to her, not onely as of my</L>
+<L>Country, but of my Sect too, certainly.</L>
+<L>So took her from them all, saying, Know,</L>
+<L>Who dares resist, is my perpetual foe;</L>
+<L>And they for fear, it seems, did let her go.</L>
+<L>Then up the Court rose, and did march in <HI>May</HI></L>
+<L>Unto their own homes, which is much, you'll say.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>The Participles.</HEAD>
+<L>A Participle doth participate</L>
+<L>With Noun and Verb in all degrees and state:</L>
+<L>With the Noun, in Gender, Case, Declension;</L>
+<L>With the Verb, in Tense and Signification.</L>
+<L>And yet to make the wonder the bigger,</L>
+<L>Takes part with both in number and figure.</L>
+<L><PB N="29" REF="18"/>There are of Participles but four kinds,</L>
+<L>Which scarce do know one anothers minds:</L>
+<L>For they never are together at one time;</L>
+<L>Which to offer to do, wou'd be a Crime.</L>
+<L>The Present, Preter, Future in <HI>rus</HI> and <HI>dus:</HI></L>
+<L>How, two Futures! that's preposterous.</L>
+<L>O, Sir, 'tis most certain; and I say yes:</L>
+<L>For is not the next year future to this?</L>
+<L>And the third year also future to that?</L>
+<L>So now you see there's two futures, that's flat.</L>
+<L>The present hath two ends to lodge at, <HI>ans</HI></L>
+<L>And <HI>ens;</HI> and the Landlord to th' first is <HI>amans</HI></L>
+<L>Loving: for we know that a mans loving is</L>
+<L>The cause of his great sorrow or bliss.</L>
+<L>And as before-said, the second is call'd <HI>ens,</HI></L>
+<L>Whose Masters name is Monsieur <HI>docens:</HI></L>
+<L>Who is teaching of 'em all perpetually;</L>
+<L>But those that are not present, by and by:</L>
+<L>But chiefly the present time is his aim,</L>
+<L>And every day will be to him the same.</L>
+<L>The second is <HI>praeter,</HI> who likewise has three ends</L>
+<L>In English, as d, t, n, who are his friends;</L>
+<L>As loved, taught, slain. He has also</L>
+<L>Three ends of Latin too, which we also know,</L>
+<L>As <HI>tus, sus, xus;</HI> as <HI>amatus, visus, nexus;</HI></L>
+<L>Who when we are construing, does always vex us.</L>
+<L>And another dull dead word, in <HI>uus,</HI></L>
+<L>Which is Mr. <HI>Morio<GAP DESC="illegible" RESP="uom" EXTENT="1 letter" DISP="•"/></HI>'s Son, <HI>mortuus:</HI></L>
+<L>He hates the present Tense; for he's for nought</L>
+<L>But that which is past, which he has dearly bought</L>
+<L>By vindicating that which he will ne'r see,</L>
+<L>And so to himself is a great Enemie.</L>
+<L>But that in <HI>rus,</HI> which is a Country-man,</L>
+<L>Has an active voice (though looking wan)</L>
+<L><PB N="30" REF="19"/>By being about to love <HI>Amaturus</HI> Daughter;</L>
+<L>That is, if not now, he'll do't hereafter.</L>
+<L>But that in <HI>dus</HI> doth suffer very much more</L>
+<L>Than all the other three that were before:</L>
+<L>For he scorns to love, being often moved</L>
+<L>To it; but with <HI>amandus,</HI> to be beloved:</L>
+<L>For a man does love to be belov'd sometimes;</L>
+<L>That is, when young Ladies are in their primes.</L>
+<L>And as they were all to Nouns and Verbs alli'd,</L>
+<L>So in their distinct seasons, were to them a Guide.</L>
+<L>They all were glad the Verbs a Peace had made;</L>
+<L>For when they heard on't first, were all afraid:</L>
+<L>And to the Concords for that agreement</L>
+<L>Which they had made, they in their seasons went</L>
+<L>To give 'em thanks; and then their Healths did tipple:</L>
+<L>Which was then done by every Participle.</L>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB N="31" REF="19"/>
+<HEAD>POEMS and SONGS.</HEAD>
+<DIV2 TYPE="poem">
+<HEAD>A Mock-Song to Beauty.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>MY Love is a pretty Lass</L>
+<L>As any's in all the Town;</L>
+<L>Her Face doth shine like Brass,</L>
+<L>And her Skin of a Tawny-brown.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Her Hair's of a lovely red,</L>
+<L>With Horsegirt-Ribbands tied,</L>
+<L>And hangs about her head</L>
+<L>Like Daglocks beautified.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Her Forehead is low and rough,</L>
+<L>Just like a pleated Gown;</L>
+<L>Her Ears are large and tough,</L>
+<L>And always are hanging down.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Her Eyes are sunk full low</L>
+<L>Into her pretty head;</L>
+<L>From whence a Cream doth flow</L>
+<L>That over her face doth spread.</L>
+</LG>
+<LG N="5">
+<PB N="32" REF="20"/>
+<HEAD>5.</HEAD>
+<L>The one of her Eyes is large,</L>
+<L>The other is very small;</L>
+<L>Her Mouth it is like a Barge,</L>
+<L>For length and breadth and all.</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>Her Nose of a Scarlet hue,</L>
+<L>Well set with Jems about,</L>
+<L>And all do appear in view</L>
+<L>To adorn her delicate Snout.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>Though her Nose and Chin did jar,</L>
+<L>Yet now they are perfect friends;</L>
+<L>And though at distance were,</L>
+<L>Now touch at both the ends.</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>Her Teeth they are black and blue,</L>
+<L>Her Tongue than the Cows more neat;</L>
+<L>Her Lips of a silver hue,</L>
+<L>And thatcht with Hair compleat.</L>
+</LG>
+<LG N="9">
+<HEAD>9.</HEAD>
+<L>Her Neck it is thick and short,</L>
+<L>Just like our brindled Cow;</L>
+<L>And when she sings for sport,</L>
+<L>She grunts like our old Sow.</L>
+</LG>
+<LG N="10">
+<HEAD>10.</HEAD>
+<L>Her Shoulders and Arms are strong,</L>
+<L>And both of a lusty growth;</L>
+<L>To which her Hands do belong,</L>
+<L>That are Shoulders of Mutton both.</L>
+</LG>
+<LG N="11">
+<HEAD>11.</HEAD>
+<L>Her Back it is high and plump,</L>
+<L>That some have her Credit defil'd,</L>
+<L>By saying, that above her Rump</L>
+<L>She always did seem with Child.</L>
+</LG>
+<LG N="12">
+<PB N="33" REF="20"/>
+<HEAD>12.</HEAD>
+<L>There's never a Girl in Town</L>
+<L>Of her Breasts can make such brags;</L>
+<L>For they still are dangling down</L>
+<L>Like half-fill'd Pudding-bags.</L>
+</LG>
+<LG N="13">
+<HEAD>13.</HEAD>
+<L>Of her Hanches she often boasts,</L>
+<L>Because they are very fair;</L>
+<L>Her Thighs are two Windmil-posts,</L>
+<L>So they'd need for the weight they bear.</L>
+</LG>
+<LG N="14">
+<HEAD>14.</HEAD>
+<L>Her Legs are lovely and great,</L>
+<L>Which doth her Credit maintain;</L>
+<L>And therefore must needs be neat,</L>
+<L>Being born in <HI>Crooked-lane.</HI></L>
+</LG>
+<LG N="15">
+<HEAD>15.</HEAD>
+<L>And now for her pretty Feet,</L>
+<L>They can her Arms display;</L>
+<L>But to see how her Heels do meet,</L>
+<L>Now her Toes are worn away.</L>
+</LG>
+<LG N="16">
+<HEAD>16.</HEAD>
+<L>Having heard the parts of my Dame,</L>
+<L>I now do conclude my Droll;</L>
+<L>And having no Toes, her name</L>
+<L>Is call'd Stump-footed <HI>Moll.</HI></L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>In praise of the Taylors trade.</HEAD>
+<LG>
+<L>THe Taylors Trade is antient, all we know;</L>
+<L>For in the first of times they learnt to sow,</L>
+<L>And made them Breeches then, and Aprons too:</L>
+<L>But was not worth a fig, to what 'tis now.</L>
+<L><PB N="34" REF="21"/><HI>Threadneedle-street</HI> likewise to all is known</L>
+<L>To be the antient'st Street in <HI>London</HI>-Town.</L>
+<L>The Cross-leg'd Signe was there the first set up,</L>
+<L>And likewise there was first a Taylors shop.</L>
+<L>Their Arms are antient too, and well them fits;</L>
+<L>Which is three Rampant Lice and a Cluster of Nits:</L>
+<L>Which Coat of Arms, with something else, hath made</L>
+<L>More Gentlemen of that, than any Trade.</L>
+<L>And now I do believe you'd know the cause;</L>
+<L>Have patience, and I'll tell you how it was:</L>
+<L>An antient Gentleman that was decay'd,</L>
+<L>(Who once had been a rich and ruffling Blade)</L>
+<L>Brought's Doublet to mend to a Taylors house,</L>
+<L>On which were creeping many a lusty Louse;</L>
+<L>But one more large and rampant than the rest,</L>
+<L>Which made the Taylor think he was the best</L>
+<L>And chief of all that sharp Back-biting Crew;</L>
+<L>Which he took up, and cut him just in two</L>
+<L>With his new Shears, and gave his Wife one half</L>
+<L>To eat, and th'other half did eat himself.</L>
+<L>And from that time did verily think that he</L>
+<L>Was a Gentleman, and of antiquitie,</L>
+<L>Because that Louse he knew had suckt before</L>
+<L>Of the antient Gentlemans blood such store.</L>
+<L>And's Wife likewise did verily think she was</L>
+<L>A Gentlewoman too for that very cause:</L>
+<L>And so did write themselves, do all we cou'd,</L>
+<L>Because they eat so much o'th' gentile bloud.</L>
+<L>Nay, his man did say he was half a Gentleman,</L>
+<L>Having lickt the Shears that cut the Louse in twain.</L>
+<L>Then he drank hard, which you know doth make us</L>
+<L>Gentlemen all that are friends to <HI>Bacchus:</HI></L>
+<L>And when others would leave half i'th' Cup,</L>
+<L>Yet he would always wind his Bottoms up.</L>
+<L><PB N="35" REF="21"/>Nay, those which drank not, he would say were dull,</L>
+<L>And tell 'em still, 'twas but a Thimble-full,</L>
+<L>He could not drink to mend his Bloud, I'm sure;</L>
+<L>You know his Bloud was good enough before.</L>
+<L>When other Gentlemen would say they were</L>
+<L>Gentlemen of such and such a Shire,</L>
+<L>Yet he excels them all in spight of their Ears;</L>
+<L>Theirs came from one, his from a pair of Shears.</L>
+<L>And whereas other men did call the Court</L>
+<L>Behind their house, a Backside; he, in sport,</L>
+<L>Commands them all to call't a Yard: for he knew</L>
+<L>His Wife would be well-pleas'd with that name too:</L>
+<L>And please her he must in all his discourse,</L>
+<L>Because the <HI>grey Mare</HI> was known the <HI>better Horse.</HI></L>
+<L>And likewise knew it did belong to's Trade;</L>
+<L>Without a Yard, no measure could be made.</L>
+<L>Some say, by Surgery too he was grown rich:</L>
+<L>For never man did better cure a Stitch.</L>
+<L>Your Lawyers likewise much a Taylor praise,</L>
+<L>Saying, 'tis an excellent Trade now-a-days;</L>
+<L>Nay, best for a Lawyer in all the Land,</L>
+<L>'Cause he has still so many Suits in hand.</L>
+<L>One askt him why he marri'd a Northern woman?</L>
+<L>He told him, in their Trade 'twas very common,</L>
+<L>Because their Needle still to th' North doth tend;</L>
+<L>And as their Needle guides, so they must bend.</L>
+<L>He hath a Goose too, that flutters still so high,</L>
+<L>And is so proud, that it presses all't comes nigh:</L>
+<L>And 'tis a Goose that ne'r had more than one</L>
+<L>Wing at all (when that's off, he'll have none.)</L>
+<L>Other Geese do swim, but these, Pox rot 'um,</L>
+<L>Do still i'th' water sink down to th' bottom.</L>
+<L>Besides his Yard, he hath another Measure</L>
+<L>Which he doth clip and alter at his pleasure.</L>
+<L><PB N="36" REF="22"/>The Barbers Trade is not so gentile as it,</L>
+<L>Because they stand, but Taylors always sit</L>
+<L>Still at their work: which was the cause, I think,</L>
+<L>A fellow said (when he was got in drink)</L>
+<L>That a Taylors feet stunk the worst of any</L>
+<L>Trade whatsoever; (although there be many)</L>
+<L>And reasons gave us why they were so strong,</L>
+<L>Because they're under his breech all day long.</L>
+<L>A Taylor sent the other day (I know him)</L>
+<L>Unto a man for ten pounds he did owe him.</L>
+<L>What makes thy Master send thus every day?</L>
+<L>I hope he does not think I'm running away?</L>
+<L>No, Sir, though you are not, I'll tell you true,</L>
+<L>Yet he must do't within a day or two.</L>
+<L>A Taylor once was bid to make a Gown;</L>
+<L>And who d'ye think 'twas for? 'twas for the Moon:</L>
+<L>And as he tri'd it still (as all men say)</L>
+<L>It was too big or little every day.</L>
+<L>The Taylor then was not in fault, you see;</L>
+<L>But 'twas indeed the Moon's inconstancie.</L>
+<L>How can't be otherways, being stuft with Lunacie,</L>
+<L>And commonly light-headed used to be?</L>
+<L>There is a Proverb which has been of old,</L>
+<L>And many men have likewise been so bold,</L>
+<L>To the discredit of the Taylors Trade,</L>
+<L><HI>Nine Taylors goes to make up a man,</HI> they said.</L>
+<L>But for their credit I'll unriddle it t'ye:</L>
+<L>A Draper once fell into povertie,</L>
+<L>Nine Taylors joyn'd their Purses together then,</L>
+<L>To set him up, and make him a man agen:</L>
+<L>Which made him vow, nay bound it with some Oaths,</L>
+<L>That none but Taylors hereafter should make his Cloths.</L>
+</LG>
+<LG>
+<PB N="37" REF="22"/>
+<HEAD>The POSTSCRIPT.</HEAD>
+<L>Thus have you heard the Taylor o're and o're,</L>
+<L>And more I think than ere you heard before;</L>
+<L>And when he works, doth still fit on's breech,</L>
+<L>But yet to all he still went thorow stitch.</L>
+<L>And though some Taylors take delight in cupping,</L>
+<L>Yet <HI>Breadstreet</HI> is their best place to set up in.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>A SONG,</HEAD>
+<OPENER><HI>To the Tune of</HI> Well, well, 'tis true, That I'm fallen in love, and 'tis with you.</OPENER>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>Go, go, you Slut,</L>
+<L>That day and night art cramming of thy Gut</L>
+<L>This sad and pinching year:</L>
+<L>How can this mean Estate of mine</L>
+<L>Supply that Gulphlike Paunch of thine,</L>
+<L>Now every thing's so dear?</L>
+<L>Remember once, you Jade, at <HI>Islington</HI></L>
+<L>You eat, besides of Bread and Cheese, a dozen Cakes alone</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Once we did go</L>
+<L>Abroad into the Fields to walk, you know;</L>
+<L>And then, forsooth, you cri'd,</L>
+<L>You were so faint for want of Meat,</L>
+<L>And must have something then to eat,</L>
+<L>Or else you should have di'd.</L>
+<L>Yet thou didst eat, when we came out a door,</L>
+<L>A Pidgeon-pye the crust and all, but half an hour before.</L>
+</LG>
+<LG N="3">
+<PB N="38" REF="23"/>
+<HEAD>3.</HEAD>
+<L>Nay, more, you Swine:</L>
+<L>When I invited once some Friends of mine,</L>
+<L>You presently did fall</L>
+<L>Upon the Meat was on the Spit,</L>
+<L>And ere that we could eat a bit,</L>
+<L>Thou hadst devour'd it all.</L>
+<L>Retrench this gormandizing trade, you Whore,</L>
+<L>Or else I vow by mighty <HI>Jove,</HI> I'll turn thee out a door.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>A Song on a Lady and her Chamber-Maid.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>A Chamber-Maid was got with Child;</L>
+<L>For which her Lady did call her Whore,</L>
+<L>And said that sh'ad her house defil'd,</L>
+<L>And vow'd she'd turn her out a door.</L>
+<L>Who got the Child, says she, you Jade?</L>
+<L>Your Husband, and please you, Madam.</L>
+<L>Why where, you Whore? Forsooth, she said,</L>
+<L>In the Trucklebed a Hadham.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Why where was I? I'll know the truth:</L>
+<L>Come tell me, or else I'll make ye.</L>
+<L>In the high bed fast asleep, forsooth,</L>
+<L>And I was afraid to wake ye.</L>
+<L>Why did you not cry out, you Drab,</L>
+<L>When first you saw he begun it?</L>
+<L>Truly, forsooth, I was never a Blab</L>
+<L>Of my Tongue: Wou'd you a done it?</L>
+</LG>
+<LG N="3">
+<PB N="39" REF="23"/>
+<HEAD>3.</HEAD>
+<L>And besides, forsooth, you know</L>
+<L>That I your humour know too well,</L>
+<L>That if you're suddenly wakt, you'll throw</L>
+<L>And tear like to a Fiend of Hell.</L>
+<L>Nay, you'll cry out with loud Alarms,</L>
+<L>And fling what your fingers touches,</L>
+<L>That I'd rather be in my Masters Arms,</L>
+<L>Than ever to come in your Clutches.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Why did you not then sooner go,</L>
+<L>You errant Quean, before 'twas known?</L>
+<L>Truly, Madam, 'tis even so,</L>
+<L>Because that you had none a your own.</L>
+<L>And indeed, Madam, the truth to tell,</L>
+<L>I think I well did plot it,</L>
+<L>Imagining you would use it well</L>
+<L>For his dear sake that got it.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>A Song called the Hasty Wedding.</HEAD>
+<OPENER><HI>The Tune is the</HI> Gunfleet.</OPENER>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>I'm in love, says <HI>Noll:</HI> Indeed, says <HI>Doll!</HI></L>
+<L>But prethee say with who?</L>
+<L>I fear, says he: Come speak, says she:</L>
+<L>Why then it is with you.</L>
+<L>You jest, says <HI>Doll!</HI> Good faith, says <HI>Noll,</HI></L>
+<L>You do me wrong, my <HI>Dolly.</HI></L>
+<L>But men, says she, to flattery be</L>
+<L>Too much addicted, <HI>Nolly.</HI></L>
+</LG>
+<LG N="2">
+<PB N="40" REF="24"/>
+<HEAD>2.</HEAD>
+<L>I vow, says <HI>Noll,</HI> I love thee, <HI>Doll:</HI></L>
+<L>But pray, Sir, tell me where?</L>
+<L>At my heart, says he: At your heart, says she!</L>
+<L>And do you love me there?</L>
+<L>'Tis true, says <HI>Noll:</HI> But you, says <HI>Doll,</HI></L>
+<L>Do love another better.</L>
+<L>Who is't, says he? Why <HI>Nan,</HI> says she;</L>
+<L>You t'other day did treat her.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Fie, fie, says <HI>Noll!</HI> Why, why, says <HI>Doll?</HI></L>
+<L>Why <HI>Nan</HI> did come to me,</L>
+<L>And pray'd me write that very night</L>
+<L>To her Sweet-heart <HI>Humfrey.</HI></L>
+<L>What then, says <HI>Doll?</HI> Why then, says <HI>Noll,</HI></L>
+<L>I gave her a pint of Wine, <HI>Doll.</HI></L>
+<L>What else, says she? Why Cakes, says he,</L>
+<L>And yet no Miss of mine, <HI>Doll.</HI></L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>But yet, says <HI>Doll,</HI> my Father, <HI>Noll,</HI></L>
+<L>Does say y'are poor of late.</L>
+<L>How! poor, says he! Yes, poor, says she,</L>
+<L>And must not be my Mate.</L>
+<L>I have, says <HI>Noll:</HI> What hast, says <HI>Doll?</HI></L>
+<L>Why I have a House and Land, <HI>Doll.</HI></L>
+<L>Where is't, says she? Why 'tis, says he,</L>
+<L>At the lower end o'th' <HI>Strand, Doll.</HI></L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>What Goods, says <HI>Doll?</HI> All sorts, says <HI>Noll,</HI></L>
+<L>That in a house is common.</L>
+<L>Indeed, says she! And fit, says he,</L>
+<L>For any honest woman.</L>
+<L><PB N="41" REF="24"/>How, how, says <HI>Doll!</HI> Good faith, says <HI>Noll,</HI></L>
+<L>'Tis true; and all are my own:</L>
+<L>And a Feather-bed, with Curtains red,</L>
+<L>For thee and I to lie on.</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>Then 'tis, says <HI>Doll,</HI> a Match, my <HI>Noll,</HI></L>
+<L>Let Father and Mother chide.</L>
+<L>Is't done, says he? 'Tis done, says she;</L>
+<L>And I will be thy Bride.</L>
+<L>Let's kiss, says <HI>Noll:</HI> Content, says <HI>Doll;</HI></L>
+<L>And there's another for ye.</L>
+<L>When wed we, says he? To morrow, says she.</L>
+<L>We will no longer tarric.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>Come then, says <HI>Noll,</HI> we'll go, my <HI>Doll,</HI></L>
+<L>And see the house before;</L>
+<L>And then, says he: What then, says she?</L>
+<L>Thou't find I am not poor.</L>
+<L>Agreed, says <HI>Doll;</HI> and—And when, says <HI>Noll,</HI></L>
+<L>To morrow we are wedded,</L>
+<L>Thy Parents shall, and Kindred all,</L>
+<L>Then come and see us bedded.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD><HI>Iter Orientale:</HI> or, a Voyage from <HI>London</HI> to <HI>Chipping-Unger</HI> in <HI>Essex;</HI> performed by some Gentlemen in <HI>August 1674.</HI></HEAD>
+<LG>
+<L>HEnceforth I never more will hunger</L>
+<L>To ride again to <HI>Chipping-Ʋnger</HI></L>
+<L>In <HI>Essex</HI> County, as I hear,</L>
+<L>And month of <HI>August</HI> every year.</L>
+<L><PB N="42" REF="25"/>Not but we had a gallant Feast,</L>
+<L>And Meat most delicately drest,</L>
+<L>As Turky, Pig, Goose; and the chief</L>
+<L>Was an excellent piece of Beef,</L>
+<L>So large, it made the Spit to bend,</L>
+<L>And a yard distance from either end;</L>
+<L>And when't came up, there were two able</L>
+<L>Men to bring it to the Table:</L>
+<L>With Pullets, Capons, and on my word,</L>
+<L>All that time o'th' year cou'd afford.</L>
+<L>And then we did excel in Drink</L>
+<L>Of several sorts. Stay, let me think.</L>
+<L>And first we had good humming Beer,</L>
+<L>The best, I think, in all the Shire:</L>
+<L>And store of Nappy Ale likewise,</L>
+<L>Which quickly did our brains surprize:</L>
+<L>But then of Wine we had such store,</L>
+<L>I thought one house could hold no more.</L>
+<L>The Tables fill'd with Bottles were,</L>
+<L>We scarce cou'd set Tobacco there;</L>
+<L>That one to ask was then so bold,</L>
+<L>Whether the Bottles were to be sold?</L>
+<L>And yet to make up more variety,</L>
+<L>Of Friends there was a brave society,</L>
+<L>So truly merry and so free,</L>
+<L>I was ne'r in better Companie.</L>
+<L>Handsome, witty, and good humour too;</L>
+<L>Faith, and that's much in so great a Crew,</L>
+<L>That every thing there spoke or done,</L>
+<L>Was Object of Mirth to every one:</L>
+<L>And all resolv'd there to be merry;</L>
+<L>But alas, poor Captain, he was weary,</L>
+<L>And gauled was so much, that he</L>
+<L>Cou'd find no part of's Rump was free.</L>
+<L><PB N="43" REF="25"/>This being so, you'll ask me then,</L>
+<L>Why I'll no more to <HI>Ʋnger</HI> agen:</L>
+<L>Which to unriddle, I will not fail;</L>
+<L>But now comes out a doleful Tale</L>
+<L>That ever yet was heard before,</L>
+<L>His Buttocks being so vilely tore.</L>
+<L>The Horse whereon he then did ride,</L>
+<L>Wore Whalebone-Bodies on either side:</L>
+<L>For the Spur had made the Ribs appear,</L>
+<L>As if you had Glass-windows there.</L>
+<L>And then he had so sweet a trot,</L>
+<L>By that time I two miles had got,</L>
+<L>As if it were for the very nonce:</L>
+<L>For it dislocated all my bones.</L>
+<L>And then his trotting was so high,</L>
+<L>He'd mount me up; then by and by</L>
+<L>Wou'd let me down with such a jolt,</L>
+<L>I had much ado to keep my holt.</L>
+<L>He once did lift me up so high;</L>
+<L>(But here you'll think I tell a lye)</L>
+<L>Far be't from me; I'm not so given:</L>
+<L>For I heard the Angels sing in Heaven.</L>
+<L>You may think I hyperbolize,</L>
+<L>But I hope you do not think 'em lyes:</L>
+<L>For at that time I did bestraddle</L>
+<L>Such a fashion'd uncouth Saddle:</L>
+<L>For such a one it chanc'd to be,</L>
+<L>From which, good Lord, deliver me</L>
+<L>From such another: For allagree</L>
+<L>'Twas made of Deal-boards certainlie;</L>
+<L>But some a better name did give it,</L>
+<L>Saying, 'twas Wainscot; you may believe it:</L>
+<L>And I began to think so too.</L>
+<L>It was so hard, I swear to you,</L>
+<L><PB N="44" REF="26"/>I thought't had lain in water or mud</L>
+<L>That turns all things to stone that's wood:</L>
+<L>For I did find a rising bump</L>
+<L>O'th' top, which often hit my Rump;</L>
+<L>And went to cut it, but on my life,</L>
+<L>It soon turn'd the edge of my Knife.</L>
+<L>I hope you think, when on't I rid,</L>
+<L>A pleasant Saddle I bestrid.</L>
+<L>In Stirrup-leathers I was blest,</L>
+<L>'Cause they were like to all the rest:</L>
+<L>For they in pieces were so plenty,</L>
+<L>I think in number almost twenty;</L>
+<L>They were so patcht in knots and bumps,</L>
+<L>And other risings just like lumps,</L>
+<L>That I protest I broke my knuckle</L>
+<L>To draw the Leather through the Buckle.</L>
+<L>The Buckles and Stirrups were with rust</L>
+<L>So eat, that all that saw 'em, must</L>
+<L>Seek for a Faith to believe that ere</L>
+<L>They were iron, so unlike they were.</L>
+<L>Yet I believe that I am able</L>
+<L>To prove, that the straps o'th' Saddle</L>
+<L>Had once been Leather, when I had found</L>
+<L>Two or three holes both round and sound.</L>
+<L>And for my Girts, I do protest,</L>
+<L>I cannot tell whether 'tis best</L>
+<L>To call 'em so: for one I found</L>
+<L>Not square, but excellently round;</L>
+<L>Which makes me think that it was made</L>
+<L>Just when the Roundheads drove their trade,</L>
+<L>For its antiquity and make.</L>
+<L>But for the other, if I may speak</L>
+<L>My mind freely, the breadth's about</L>
+<L>A quarter and nail, I dare avow't;</L>
+<L><PB N="45" REF="26"/>By which you see they were not brothers,</L>
+<L>Being so unlike one another.</L>
+<L>And for the Bridle, this I'll say,</L>
+<L>'Twas onely for a Lord-Mayors-day</L>
+<L>For an Alderman to ride upon,</L>
+<L>If then he cou'd get such a one.</L>
+<L>Being thus accommodated, I</L>
+<L>Did ride by th' Coach triumphantly,</L>
+<L>Unto the credit then of all</L>
+<L>My Dames that rode there, both great and small.</L>
+<L>But now comes out the saddest Tale,</L>
+<L>Which my poor Rump does still bewail:</L>
+<L>For never Rump was served so,</L>
+<L>When they to <HI>Ʋnger</HI> ere did go.</L>
+<L>I'd rather to endure a whipping,</L>
+<L>Than ride again to <HI>Ʋnger-Chipping:</HI></L>
+<L>I'm sure I shou'd have lesser whales</L>
+<L>Than I had then upon my Tail.</L>
+<L>And well they may <HI>Chipping</HI> call it;</L>
+<L>For't chipt my Nock, and did so maul it</L>
+<L>In many Chips and corner'd cuts,</L>
+<L>I cou'd not help it for my Guts:</L>
+<L>So gaul'd it was in many places,</L>
+<L>That I was forc'd make many faces</L>
+<L>(Whensoever I got it drest)</L>
+<L>And yet no Painter, I protest.</L>
+<L>Sometimes 'twou'd itch, and then I'd scrat;</L>
+<L>Then turn a this side, and then a that:</L>
+<L>Sometimes 'twou'd smart, then must I</L>
+<L>Not sit at all, but stand or lie.</L>
+<L>Some seeing me lean a one side, sware</L>
+<L>That I was whispering to the Chair.</L>
+<L>Others askt me why I pensive sate,</L>
+<L>Saying, 'twas so with me but a late.</L>
+<L><PB N="46" REF="27"/>Nay, I heard one whisper through a Gap,</L>
+<L>That certainly I had got a Clap.</L>
+<L>And when I kneel'd against a Chair,</L>
+<L>They'd ask me if I were at Prayer.</L>
+<L>And when for ease I on my Belly lay,</L>
+<L>Sure you're asham'd to shew your face, they'd say.</L>
+<L>And when that I came through a Town</L>
+<L>From <HI>Ʋnger,</HI> says a Country Clown,</L>
+<L>Like Crookbackt <HI>Richard</HI> I did ride,</L>
+<L>When I turn'd my Rump up a one side.</L>
+<L>And at another Town, a fellow sware</L>
+<L>I was like the Bunchbackt Taylor there.</L>
+<L>And when to ease my Nock I lay</L>
+<L>On the Horse-neck, then they say,</L>
+<L>(When I was in that pitiful case)</L>
+<L>Sure that man's a running a Race.</L>
+<L>And as through <HI>Stratford-Bow</HI> I came,</L>
+<L>Says one, How d'ye, Sir? are you lame,</L>
+<L>Or are you gaul'd, and is it sore?</L>
+<L>Ah, friend, thought I, than all before,</L>
+<L>Thou speakest truest: He bid me pick</L>
+<L>From off a Tree an Elder-stick,</L>
+<L>And put into my Pocket; and swore</L>
+<L>That at that time 'twou'd gaul no more.</L>
+<L>Troth, friend, thought I, I'm o'thy mind:</L>
+<L>For I am so much gaul'd behind,</L>
+<L>There's no place free, it is so tore,</L>
+<L>How cou'd it then gaul any more?</L>
+<L>Thus you may see my desperate case</L>
+<L>Being so, to jeer me to my face.</L>
+<L>Then I do every man advise</L>
+<L>Not to ride as I did, if he be wise:</L>
+<L>Which to prevent, let him never paddle,</L>
+<L>As I did then, on such a Saddle.</L>
+<L><PB N="47" REF="27"/>Perhaps you'll ask why I did not look</L>
+<L>Before I leapt: I swear upon a book</L>
+<L>I cou'd not help it; the horse was sent</L>
+<L>(As 'twere to me in complement)</L>
+<L>And left him at my Lodging-door,</L>
+<L>When all the rest were gone before:</L>
+<L>So <HI>Hobsons</HI> choice was left to me,</L>
+<L>Either this or none, most certainlie.</L>
+<L>Then every one began to say,</L>
+<L>They did not pity me that day:</L>
+<L>For had I gallopt as I ought,</L>
+<L>I had to the Town more Leather brought;</L>
+<L>But I, forsooth, must often tarry</L>
+<L>For my Dog <HI>Tango,</HI> that was weary.</L>
+<L>Sure I think it was good nature</L>
+<L>Not to leave a poor dumb Creature</L>
+<L>In a strange place: for I'll swear</L>
+<L>He ne'r did speak as I did hear;</L>
+<L>And being dumb, how cou'd he then</L>
+<L>Beg relief from Country-men?</L>
+<L>For some an 'um are like a Hog,</L>
+<L>To respect him no more than a Dog;</L>
+<L>Unless that he at <HI>Barking</HI> had bin</L>
+<L>In <HI>Essex</HI> too, with some of his Kin,</L>
+<L>Who might relieve him for's barkings sake,</L>
+<L>Although poor thing he cou'd not speak:</L>
+<L>For Barking was his Dialect; and how</L>
+<L>Can <HI>Essex</HI>-men understand Baw waw?</L>
+<L>So <HI>Tango</HI> might be starved in</L>
+<L>A Country where he ne'r had bin.</L>
+<L>His feet were surbated, and he sick;</L>
+<L>Which toucht poor <HI>Tango</HI> to the quick.</L>
+<L>Thus have you heard most certainly,</L>
+<L>The Story of my Dog and I.</L>
+<L><PB N="48" REF="28"/>I now must speak of two Comrades</L>
+<L>Which furnisht were with arrant Jades,</L>
+<L>As we our self was furnished,</L>
+<L>Except the Saddle on which I rid.</L>
+<L>The young mans horse came from a Butcher,</L>
+<L>Who kickt when he did not touch her.</L>
+<L>His horse was raw, and lean, and tall,</L>
+<L>He lookt like <HI>Alexander</HI> on's Bucephal.</L>
+<L>I cannot say he lost much Leather,</L>
+<L>Yet brought home less than he carri'd thither.</L>
+<L>And's Comrade too that with him went</L>
+<L>Home, did confess his Rump was rent.</L>
+<L>Their Rumps were bad, but mine was worse,</L>
+<L>That we all may say, God a mercy Horse.</L>
+</LG>
+<LG>
+<HEAD>The POSTSCRIPT.</HEAD>
+<L>Thus have you heard our <HI>Iter Orientale,</HI></L>
+<L>Which to us three was very male;</L>
+<L>But I the worst of all that Jovial Crew:</L>
+<L>So <HI>iterum, atque iterum,</HI> I bid ye adieu.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>A new Song.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>I Once for a fancy, did love pretty <HI>Nancy,</HI></L>
+<L>Till <HI>Jenny</HI> came into the place;</L>
+<L>Who when I did see, there's no man cou'd be</L>
+<L>Ever so took with a face.</L>
+</LG>
+<LG N="2">
+<PB N="49" REF="28"/>
+<HEAD>2.</HEAD>
+<L>But when at a Ball I saw pretty <HI>Mall,</HI></L>
+<L>Methoughts she tript it so fine,</L>
+<L>I felt such a smart, that I us'd all my art</L>
+<L>By presents to make her mine.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>This lasted a day, until at a Play</L>
+<L>I saw my beautiful <HI>Jone;</HI></L>
+<L>Which made me to think I was just at the brink</L>
+<L>Of marriage with her or none.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>This humour did last until I did cast</L>
+<L>My eyes on my pretty fine <HI>Kate;</HI></L>
+<L>My heart was so caught, that I verily thought</L>
+<L>She should have been my Mate.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>But after a while, I seeing the smile</L>
+<L>Of my dear bonny sweet <HI>Betty;</HI></L>
+<L>Which made me to start, that I thought in my heart</L>
+<L>That none cou'd ere be so pretty.</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>But being a Guest at a Wedding-feast,</L>
+<L>I there sweet <HI>Susan</HI> espide;</L>
+<L>And truth for to tell, I likt her so well,</L>
+<L>I thought to a made her my Bride.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>But after a day, at a place where I lay,</L>
+<L>I chanc'd fair <HI>Nelly</HI> to see;</L>
+<L>That I never was so in love with a Lass,</L>
+<L>She was so airy and free.</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>But yet for all this, I soon left that Miss,</L>
+<L>When I heard sweet <HI>Abigail</HI>'s voice;</L>
+<L>She tril'd it so well, I then 'gan to smell</L>
+<L>That here I should make my choice.</L>
+</LG>
+<LG N="9">
+<PB N="50" REF="29"/>
+<HEAD>9.</HEAD>
+<L>And this did remain for a day or twain,</L>
+<L>Till I heard fair <HI>Dolly</HI> to play</L>
+<L>So well on the Lute, I then 'gan my sute</L>
+<L>For marriage with her the next day.</L>
+</LG>
+<LG N="10">
+<HEAD>10.</HEAD>
+<L>Fair <HI>Hester</HI> at last had my heart so fast,</L>
+<L>I resolv'd to make her my own;</L>
+<L>But a little after I handsomely left her,</L>
+<L>For my humour of love was gone.</L>
+</LG>
+<LG N="11">
+<HEAD>11.</HEAD>
+<L>Yet I never will grieve, for I still do believe</L>
+<L>I've a Mistriss yet to come;</L>
+<L>Or else I must say, I'm in love ev'ry day;</L>
+<L>But I cannot tell with whom.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>A new SONG.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>LEt's strive to improve our Talent of Love,</L>
+<L>'Tis that which can give us content;</L>
+<L>We'll banish those fears that usher in cares,</L>
+<L>And give to our Pleasures a vent.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>And when we begin to be stupid within,</L>
+<L>We'll march to the Tavern amain:</L>
+<L>For a cup of good Sack will supply what we lack,</L>
+<L>And restore us to Pleasures again.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>For Sorrow and Care does but bring in despair,</L>
+<L>And makes us like Drones to sit;</L>
+<L>But <HI>Cupid</HI> and <HI>Bacchus</HI> will every day make us</L>
+<L>Masters of Pleasure and Wit.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="51" REF="29"/>
+<HEAD>A new SONG.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>PRethee, <HI>Caelia,</HI> tell me why</L>
+<L>Thou'st been so strange of late?</L>
+<L>What Object now has took thy eye,</L>
+<L>That I am thus so soon laid by,</L>
+<L>As one that's out of date?</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Thou knowst my kindness still was such,</L>
+<L>As none cou'd ere be more.</L>
+<L>And which is now in Gallants much,</L>
+<L>I in my promise still kept touch,</L>
+<L>Which no man did before.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Is it because thou lov'st to range</L>
+<L>And take thy swing about?</L>
+<L>If it be so, methinks 'tis strange</L>
+<L>That any one a friend should change</L>
+<L>For one o'th' common Rout.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Or else dost think my Fortune lean,</L>
+<L>And cannot entertain</L>
+<L>Thee in a handsome Miss-like mean?</L>
+<L>(Though I confess 'tis often seen)</L>
+<L>Faith, <HI>Caelia,</HI> this is vain.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>But if't be Pride, then <HI>Caelia,</HI> know</L>
+<L>I gave thee thy renown,</L>
+<L>And made thy Infant-fortunes grow,</L>
+<L>When thou were't in esteem so low,</L>
+<L>Thy name was scarcely known.</L>
+</LG>
+<LG N="6">
+<PB N="52" REF="30"/>
+<HEAD>6.</HEAD>
+<L>Had not my Pen advanc'd thy fame,</L>
+<L>and gave it wings to flye,</L>
+<L>Thoud'st been as one without a name,</L>
+<L>And in thy Reputation lame</L>
+<L>To every vulgar eye.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>Then, <HI>Celia,</HI> since I've made thee great,</L>
+<L>I'll take thee down agen,</L>
+<L>And make thy Glories so retreat,</L>
+<L>That all shall take thee for a Cheat,</L>
+<L>And where's poor <HI>Celia</HI> then?</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>Thus art thou brought, by foolish pride,</L>
+<L>Into this low estate;</L>
+<L>Hadst thou been kind, thou hadst me ti'd</L>
+<L>To make thee at the last my Bride:</L>
+<L>But, <HI>Celia,</HI> now't's too late.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>A new Song:</HEAD>
+<OPENER>The Tune is, Mr. <HI>Staggins</HI> his Minuit which he made for the Ball at <HI>Whitehal, 1673.</HI></OPENER>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>GOne is my Dearest, she I so admired;</L>
+<L>Never was man so dejected before:</L>
+<L>She so much Beauty had, all hearts she fired;</L>
+<L>No one cou'd ever be Mistriss of more.</L>
+<L>But when her charming Eyes</L>
+<L>Once let their glances flie,</L>
+<L><PB N="53" REF="30"/>None cou'd withstand 'em, but all fell in love.</L>
+<L>Nay, some did think she was</L>
+<L>Clad in that humane dress,</L>
+<L>And by the Gods sent down from above.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>And though so fair she was, never did woman</L>
+<L>Wear so much modesty still in her face;</L>
+<L>And of so great a Wit, that it was common</L>
+<L>Still to deliver her words with a grace.</L>
+<L>But when her Lute she took,</L>
+<L>She on't so sweetly strook,</L>
+<L>Never did Mortals such harmony hear;</L>
+<L>We thought the Heavenly Quire</L>
+<L>All met and fixt in her,</L>
+<L>And then did wish our selves nothing but ear.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Then welcome Sadness, and farewel all Pleasure,</L>
+<L>Nothing is left for me now but despair;</L>
+<L>And of the Gods I beg some little leisure</L>
+<L>Onely to shed on her Grave a sad tear;</L>
+<L>And there deplore the fate</L>
+<L>Of my dear peerless Mate.</L>
+<L>That after-ages may give her her due,</L>
+<L>Also I beg to have</L>
+<L>This Motto on my Grave,</L>
+<L><HI>Never, O never died Lover so true.</HI></L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="54" REF="31"/>
+<HEAD>A new SONG.</HEAD>
+<OPENER>The Tune is, The Duke of <HI>Lorains</HI> March.</OPENER>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>ROuse up, Boys; Ease destroys</L>
+<L>Every martial wight:</L>
+<L>Then arm apace, the Foes increase,</L>
+<L>And all prepar'd to fight.</L>
+<L>Tantarara, tantarara,</L>
+<L>The Trumpets sound amain;</L>
+<L>Then let's away to win the day,</L>
+<L>That every one may honour gain.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>It is decreed, Delay does breed</L>
+<L>Danger still in War;</L>
+<L>Then let us go to meet the Foe,</L>
+<L>Before they advance too far.</L>
+<L>Dub a dub a dub, Dub a dub a dub;</L>
+<L>The Drums a Charge do beat:</L>
+<L>Then let us fight from morn till night,</L>
+<L>Until we make 'em all retreat.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>And all that can, must charge i'th' Van,</L>
+<L>Until you've broke their Rank;</L>
+<L>If'twill not do, then you must go</L>
+<L>And charge 'em in the Flank.</L>
+<L>And then you must be sure, Boys,</L>
+<L>To charge 'em in the Rear,</L>
+<L>Until they flie; then you must cry,</L>
+<L>Away they run, they run for fear.</L>
+</LG>
+<LG N="4">
+<PB N="55" REF="31"/>
+<HEAD>4.</HEAD>
+<L>When that is done, and Field is won,</L>
+<L>The Plunder is your own;</L>
+<L>The Spoils in War, most lawful are,</L>
+<L>To every man 'tis known.</L>
+<L>And then you may with freedom, Boys,</L>
+<L>Drink and take your ease;</L>
+<L>Or with a Miss to court and kiss,</L>
+<L>As you your fancy mean to please.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>A SONG.</HEAD>
+<HEAD TYPE="sub">To which, the two last Verses were lately added.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>NO scornful Beauty ere shall boast</L>
+<L>She made me love in vain;</L>
+<L>Those men are fools, who once are crost,</L>
+<L>If ere they love again.</L>
+<L>To whine and pine, I never can,</L>
+<L>And tell you I must die;</L>
+<L>It is so much beneath a man,</L>
+<L>I'll never do't, not I.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Perhaps some puling fool may weep,</L>
+<L>And court her with a Tear;</L>
+<L>And at her footstool cringe and creep,</L>
+<L>And idolize her there.</L>
+<L>Such Coxcombs do deserve to be</L>
+<L>Inslav'd by women still.</L>
+<L>My Soul's too great for any she,</L>
+<L>To captivate my will.</L>
+</LG>
+<LG N="3">
+<PB N="56" REF="32"/>
+<HEAD>3.</HEAD>
+<L>Would men be rul'd by me, we'd make</L>
+<L>Those scornful things recant,</L>
+<L>And should from us their measures take,</L>
+<L>What we are pleas'd to grant:</L>
+<L>For why should we be subject thus</L>
+<L>To things so much below us?</L>
+<L>Preeminence belongs to us,</L>
+<L>'Tis they do duty owe us.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>A Song call'd, My Mistriss is all the Genders.</HEAD>
+<OPENER>The Tune, <HI>Shackle de Hay.</HI></OPENER>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>ANd first she's counted Masculine,</L>
+<L>Because she's a <HI>Virago,</HI></L>
+<L>And born at th' Indies under th' Line,</L>
+<L>At the Island call'd <HI>Tobago;</HI></L>
+<L>Where she has deceiv'd full many a man,</L>
+<L>That they from her have quiv'ring ran,</L>
+<L>As if they had an Ago.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Another call'd her Feminine,</L>
+<L>And swore she of that Sex is,</L>
+<L>'Cause in her book they'd interline,</L>
+<L>They never use Indexes:</L>
+<L>For turn unto what place you will,</L>
+<L>You'll always find it open still,</L>
+<L>Which never man perplexes.</L>
+</LG>
+<LG N="3">
+<PB N="57" REF="32"/>
+<HEAD>3.</HEAD>
+<L>Then I heard another say,</L>
+<L>He thought she was a Neuter,</L>
+<L>Because there came the other day</L>
+<L>A Pupil and a Tutor:</L>
+<L>But unto neither she'd incline,</L>
+<L>But unto both would singly joyn,</L>
+<L>That so they might recruit her.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Then I thought her the Common of Two,</L>
+<L>From the Couple last was there, Sir,</L>
+<L>And to her Parents gave their due,</L>
+<L>As <HI>hic &amp; haec</HI> did swear, Sir.</L>
+<L>But if that she be common to two,</L>
+<L>She'll ne'r be true to me nor you;</L>
+<L>And therefore have a care, Sir.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>Then I thought her the Common of Three,</L>
+<L><HI>Hic, haec, &amp; hoc</HI> being with her;</L>
+<L>And <HI>foelix,</HI> O happy was he</L>
+<L>Did catch 'em altogether.</L>
+<L>And if that she be common to three,</L>
+<L>She'll ne'r be true to you nor me,</L>
+<L>Nor constant unto either.</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>Then I thought, and so wou'd you,</L>
+<L>She was of the Doubtful Gender;</L>
+<L>For <HI>hic vel haec,</HI> and <HI>dies</HI> too,</L>
+<L>Did day by day attend her.</L>
+<L>And o'th' Doubtful Gender if she be,</L>
+<L>She'll doubtful be to you and me,</L>
+<L>Although we do befriend her.</L>
+</LG>
+<LG N="7">
+<PB N="58" REF="33"/>
+<HEAD>7.</HEAD>
+<L>And after we had scan'd her faults,</L>
+<L>We found her much <HI>obsceanea;</HI></L>
+<L>And set a period to our thoughts,</L>
+<L>To call her <HI>Epicaena,</HI></L>
+<L>Both he and she, Hermaphrodite;</L>
+<L>And <HI>Aquila</HI> did say she was right,</L>
+<L>And call'd her pocky Queana.</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>Thus have I shew'd my Mistriss t'ye,</L>
+<L>Both Feminine, Mas, and Neuter,</L>
+<L>Nay, Common of Two, and Common of Three,</L>
+<L>And Doubtful to her Suiter.</L>
+<L>And <HI>Epicaene</HI> we may her call,</L>
+<L>Because she swears she owns 'em all,</L>
+<L>There's none that can confute her.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>My Mistriss understands all the Cases.</HEAD>
+<OPENER>To the same Tune.</OPENER>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>MY Mistriss she hath Policie,</L>
+<L>There's none can undermine her:</L>
+<L>For underneath her self she'll lie,</L>
+<L>Yet I will not define her.</L>
+<L>She all mens Cases makes her own,</L>
+<L>'Cause she's to all their Cases known;</L>
+<L>And therefore I'll decline her.</L>
+</LG>
+<LG N="2">
+<PB N="59" REF="33"/>
+<HEAD>2.</HEAD>
+<L>And first, she is a Nominative,</L>
+<L>'Cause she declineth Nomen;</L>
+<L>And in the act Hominative,</L>
+<L>Denies not Knights nor Yeomen.</L>
+<L>Nay, she can name 'em all at large,</L>
+<L>That ere sail'd within her Barge,</L>
+<L>Whether they be tall or low men.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Next, I call her Genitive,</L>
+<L>'Cause she's for Procreation;</L>
+<L>And she does use a Lenitive,</L>
+<L>As a help to Generation.</L>
+<L>Nay, she's for getting all she can</L>
+<L>From every stout begetting man,</L>
+<L>The best in all the Nation.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Then a Dative she is known,</L>
+<L>From Do that was her Founder;</L>
+<L>And before you quick falls down</L>
+<L>As flat as any Flounder:</L>
+<L>But whatsoever she doth give,</L>
+<L>She ten times more doth still receive;</L>
+<L>Which seems to me a wonder.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>I then Accusative her call,</L>
+<L>Whenever they neglect her:</L>
+<L>For she will curse and blame 'em all,</L>
+<L>Because they do reject her.</L>
+<L>But when her blaming fit is ore,</L>
+<L>You then may enter Portal-door,</L>
+<L>And calls you her Protector.</L>
+</LG>
+<LG N="6">
+<PB N="60" REF="34"/>
+<HEAD>6.</HEAD>
+<L>Nay, all do call her Vocative,</L>
+<L>Because sh'as a Vocation,</L>
+<L>And has an art provocative,</L>
+<L>To invite 'em to her Station.</L>
+<L>But when they offer to go away,</L>
+<L>Then O she cries, Whoop Holiday,</L>
+<L>Let's use Conglutination.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>Last I call her Ablative,</L>
+<L>Because she's always taking;</L>
+<L>And though her Suiters much do give,</L>
+<L>Yet shell be always raking:</L>
+<L>For in, with, through, for, by, and than,</L>
+<L>Are the signes by which she knows the man</L>
+<L>Must set her Oven a baking.</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>Thus from the first to the Ablative,</L>
+<L>You see she knows the way, Sir:</L>
+<L>For when I met her at <HI>Bablick-hive</HI></L>
+<L>Near <HI>Oxford,</HI> she did say, Sir,</L>
+<L>That she had a Case for every man,</L>
+<L>And put him to't, do what he can,</L>
+<L>And still will hold him play, Sir.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>A new Song,</HEAD>
+<OPENER>to the new Jig-tune.</OPENER>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>MY <HI>Nanny,</HI> quoth he: Why <HI>Janny,</HI> quoth she,</L>
+<L>Your will, Sir?</L>
+<L>I love thee, quoth he: If you love me, quoth she,</L>
+<L>Do so still, Sir.</L>
+<L><PB N="61" REF="34"/>I'd gi' thee, quoth he: Wou'd you gi' me, quoth she,</L>
+<L>But what, Sir?</L>
+<L>Why some Money, quoth he: O some Money, quoth she?</L>
+<L>Let me ha't, Sir.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>I'd ha' thee, quoth he: Wou'd you ha' me, quoth she?</L>
+<L>But where, Sir?</L>
+<L>To my Chamber, quoth he: To your Chamber, quoth she?</L>
+<L>Why there, Sir?</L>
+<L>I'd kiss thee, quoth he: Wou'd you kiss me, quoth she?</L>
+<L>But when, Sir?</L>
+<L>Why now, quoth he: Neither now, quoth she,</L>
+<L>Nor then, Sir.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>I'd hug thee, quoth he: Wou'd you hug me, quoth she?</L>
+<L>How much, Sir?</L>
+<L>Why a little, quoth he: 'Tis a little, quoth she;</L>
+<L>Not a touch, Sir.</L>
+<L>I am fickish, quoth he: are you sickish, quoth she?</L>
+<L>But why, Sir?</L>
+<L>'Cause you slight me, quoth he: Do I slight you, quoth she?</L>
+<L>'Tis a lye, Sir.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>I'm dying, quoth he: O, dying, quoth she!</L>
+<L>Are you sure on't?</L>
+<L>'Tis certain, quoth he: Is't certain, quoth she?</L>
+<L>There's no cure on't.</L>
+<L>Then farewel, quoth he: I and farewel, quoth she,</L>
+<L>My true Love.</L>
+<L>I am going, quoth he: So am I too, quoth she,</L>
+<L>To a new Love.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="62" REF="35"/>
+<HEAD>A Song on the Declensions.</HEAD>
+<OPENER>The Tune, <HI>Shackle de Hay.</HI></OPENER>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>MY Mistriss she is fully known</L>
+<L>To all the five Declensions;</L>
+<L>She'll searce them singly one by one,</L>
+<L>And take their true Dimensions.</L>
+<L>She ne'r declin'd yet any man,</L>
+<L>Yet they'll decline her now and than,</L>
+<L>In spight of her Inventions.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>First, <HI>Musa</HI> is her Mothers name,</L>
+<L>And <HI>haec</HI> does still attend her;</L>
+<L>She is a <HI>hujus</HI> burly Dame,</L>
+<L>Though <HI>huic</HI> be but slender.</L>
+<L>Yet she'll have a <HI>hanc</HI> on every man,</L>
+<L>And put 'em to't, do what they can,</L>
+<L>Unless they do befriend her.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L><HI>Magister</HI> is her Master too,</L>
+<L>And <HI>hic</HI> is still his Man, Sir;</L>
+<L>And <HI>filius</HI> is her Son also.</L>
+<L>And <HI>dominus</HI> is her Grandfire.</L>
+<L>Nay, <HI>lucus, agnus,</HI> and that Lamb-like Crew,</L>
+<L>She'll call 'em <HI>hunc</HI>'s, and <HI>haec</HI>'s 'um too,</L>
+<L>Do all that ere they can, Sir.</L>
+</LG>
+<LG N="4">
+<PB N="63" REF="35"/>
+<HEAD>4.</HEAD>
+<L>Next, she's to <HI>lapis</HI> very kind,</L>
+<L>As honest <HI>hic</HI> has said, Sir:</L>
+<L>For she's to precious stones inclin'd,</L>
+<L>Long before she was wed, Sir.</L>
+<L>Which made her Parents often say,</L>
+<L>That <HI>hic</HI> and <HI>haec</HI> both night and day</L>
+<L>Was forc'd to watch her Bed, Sir.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>She beat poor <HI>manus</HI> with a Cane,</L>
+<L>Though he did often hand her</L>
+<L>From <HI>Whetstones-Park</HI> and <HI>Parkers-lane,</HI></L>
+<L>And was her constant Pander.</L>
+<L>Yet give him <HI>manibusses</HI> when</L>
+<L>That she cou'd get no other men,</L>
+<L>That he cou'd notwithstand her.</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>'Bout Noon she'd with <HI>meridies</HI> dine,</L>
+<L>And sup, and bed him too, Sir.</L>
+<L>She'd make poor <HI>facies</HI> to her incline,</L>
+<L>In spight of all he cou'd do, Sir.</L>
+<L>She day by day would <HI>dies</HI> pledge;</L>
+<L>Which set poor <HI>acies</HI> tooth an edge,</L>
+<L>And often made him spew, Sir.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>Thus have I shew'd her kindness here,</L>
+<L>And all her dear Relations;</L>
+<L>As <HI>musa, lapis, magister,</HI></L>
+<L>And all their antick fashions.</L>
+<L><HI>Meridies, manus,</HI> and <HI>foelix</HI> too,</L>
+<L>Had happy been, had they ne'r knew</L>
+<L>Any of all her Stations.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="64" REF="36"/>
+<HEAD>The COMPARISONS.</HEAD>
+<OPENER><HI>The Tune,</HI> And 'tis the Knave of Clubs bears all the Sway.</OPENER>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>MY Mistriss she loves Dignities;</L>
+<L>For she has taken three Degrees.</L>
+<L>There's no Comparison to be made</L>
+<L>With her in all her subtle Trade:</L>
+<L>For <HI>Audax</HI> boldly said unto her,</L>
+<L>Y'are positively known a Whore.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>And first, I Positive her call,</L>
+<L>'Cause she'll be absolute in all:</L>
+<L>For she is still to <HI>durus</HI> hard,</L>
+<L>And often with sweet <HI>dulcis</HI> jarr'd;</L>
+<L>Which made kind <HI>tristis</HI> very sad,</L>
+<L>To see poor <HI>pauper</HI> us'd so bad.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Next, she is call'd Comparative,</L>
+<L>'Cause she'll compare with any alive</L>
+<L>In all the illiberal Sciences,</L>
+<L>Which she has learned by Degrees.</L>
+<L>Nay, was more hard to <HI>durior,</HI></L>
+<L>Than all the rest o'th' Crew before.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Last, I Superlative her call,</L>
+<L>'Cause she'll be uppermost of all.</L>
+<L><PB N="65" REF="36"/>And yet although she was so high,</L>
+<L>Lov'd underneath her self to lie;</L>
+<L>And us'd <HI>durissimus,</HI> I hear,</L>
+<L>The hard'st of all, when he came there.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>Thus have I t'ye my Mistriss shown,</L>
+<L>How she is positively known;</L>
+<L>And Comparatively too,</L>
+<L>She did outlearn the rest o'th' Crew.</L>
+<L>And of her being Superlative,</L>
+<L>'Cause she'd be highest of all alive.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>Of the Five kinds of Verbs.</HEAD>
+<LG>
+<L>THe Verbs a Battle had of late, they say,</L>
+<L>Which did consist of five Regiments that day.</L>
+<L>The first was call'd the Active; and they were</L>
+<L>The activ'st men of any that were there.</L>
+<L>And <HI>Amo</HI> was their chief Commander then,</L>
+<L>Who said, I love ye, 'cause y'are gallant men.</L>
+<L>And Coronel <HI>Amo,</HI> with his active Crew,</L>
+<L>Did lead the Van, which was indeed their due.</L>
+</LG>
+<LG>
+<L>Next was the Passive, which was thought the best,</L>
+<L>Because they suffered more than all the rest:</L>
+<L>For those that in a Fight do suffer most,</L>
+<L>Are thought the bravest men, though some are lost.</L>
+<L>And noble <HI>Amor</HI> did command in chief</L>
+<L>That gallant Regiment, though to his grief:</L>
+<L>For <HI>Amo</HI> onely says, I love; But I,</L>
+<L><HI>Amor,</HI> am loved, so shall be till I die.</L>
+</LG>
+<LG>
+<L>The next Coronel that appear'd in fight,</L>
+<L>Was known to be an arrant Hypocrite;</L>
+<L><PB N="66" REF="37"/>Which was old Neuter: for he'd sometimes make</L>
+<L>You to believe that he wou'd freely take</L>
+<L>Your part; but twou'd sometimes with <HI>curro</HI> run</L>
+<L>From one side to th' other: but being egg'd on</L>
+<L>To fight, then wou'd he have some slie trick,</L>
+<L>And with <HI>aegroto,</HI> say, I'm very sick:</L>
+<L>And oftentimes wou'd give good words to either;</L>
+<L>When truth to tell, he was indeed for neither.</L>
+<L>And being Neuter, he was new-turn'd out;</L>
+<L>At which the whole Regiment did give a shout.</L>
+</LG>
+<LG>
+<L>Then the Commander of the fourth Regiment,</L>
+<L>Was one they call'd Monsieur Deponent:</L>
+<L>Which was for laying down as soon as chose,</L>
+<L>And was the first that endeavour'd to depose</L>
+<L>Himself from that Command; and was Brother</L>
+<L>To Neuter, they were so like each other.</L>
+<L>He was indeed a Jack in a Box: for he</L>
+<L>Wou'd sometimes Active and then Passive be.</L>
+<L>When Active, then must <HI>loquor verbum</HI> speak</L>
+<L>A word in his behalf, his mind to break:</L>
+<L>But when Passive, and then did suffer most,</L>
+<L>Yet wou'd he still with <HI>glorior</HI> vaunt and boast.</L>
+<L>Nay, their two Regiments did them so handle,</L>
+<L>They both went out like a snuff of Candle.</L>
+</LG>
+<LG>
+<L>The first Regiment was commanded by</L>
+<L>One Communis of th'others Fraternity.</L>
+<L>And though that he did always end in r,</L>
+<L>Just like a Passive, yet would he always car'</L>
+<L>A fair outside to <HI>amo;</HI> and so free,</L>
+<L>As to say to him, <HI>Osculor te,</HI> I kiss thee:</L>
+<L>But when <HI>amor</HI> came, then who but he,</L>
+<L>Saying, <HI>Osculor à te,</HI> I'm kissed of thee.</L>
+<L>Thus to conclude, and the truth to tell,</L>
+<L>Had these three Regiments done their duty well,</L>
+<L><PB N="67" REF="37"/>There had been an end of that mortal Fray</L>
+<L>Much sooner than it was, as many say.</L>
+<L>Then my advice is, shou'd they fight agen,</L>
+<L>To chuse for Coronels some other men.</L>
+<L>And like him, 'tis very Common to protest</L>
+<L>Kindness to one, when we mean nothing less.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>The MOODS.</HEAD>
+<LG>
+<L>THe Battle of the Verbs being fully known,</L>
+<L>And their Regiments describ'd one by one,</L>
+<L>The Moods intend, it seems, to let us know</L>
+<L>The cause o'th' Quarrel, and the manner how.</L>
+<L>The Indicative being the Primier Mood,</L>
+<L>The rest of them then did think it good</L>
+<L>To let him speak, as being Secretory,</L>
+<L>And therefore being fitt'st to tell the story;</L>
+<L>Dear Brethren, says he, I must tell ye,</L>
+<L>They were deceiv'd by <HI>fallo</HI>'s Son, <HI>fefelli,</HI></L>
+<L>Who was employ'd by all the Verbs about it,</L>
+<L>And he deceiv'd 'em, else they had not fought it.</L>
+<L>And the chief cause indeed was, as I hear,</L>
+<L>From some anomalous Verbs that were there;</L>
+<L>Who are Verbs always out of rule, and so</L>
+<L>Not to be rul'd by any man, you know:</L>
+<L>As <HI>possum, volo, nolo, malo,</HI> and</L>
+<L><HI>Edo, fero,</HI> (who then was in command;)</L>
+<L>And's <HI>unde feror</HI> too, and all the rest</L>
+<L>Of that tumultuous Crew, said 'twas best</L>
+<L>To fight it out. Says <HI>possum,</HI> I may or can,</L>
+<L>Nay, am able to fight with any man.</L>
+<L><PB N="68" REF="38"/>Says <HI>volo,</HI> I am willing to side with you,</L>
+<L>And will participate in what you do.</L>
+<L><HI>Nolo</HI> said, He was unwilling to have peace:</L>
+<L>And <HI>malo</HI> was more willing than all these</L>
+<L>To fight. Says <HI>edo,</HI> I'll eat my way through 'um;</L>
+<L>That's the ready way, says one, to undo 'um.</L>
+<L>But <HI>fero</HI> was more fierce than all: for he</L>
+<L>Said, he'd bear or suffer any thing, than flee.</L>
+<L>Says <HI>ferro,</HI> I've born and suffer'd more than all,</L>
+<L>And in your Cause resolve to stand or fall.</L>
+<L>Says <HI>fio,</HI> How came this to be made or done?</L>
+<L>Then all fall on him, every Mothers son.</L>
+<L>So some took one side, and others t'other,</L>
+<L>Until they'd near destroy'd one another.</L>
+</LG>
+<LG>
+<L>This being spoke, they all were at a stand:</L>
+<L>Then says th' Imperative, I do command</L>
+<L>Silence among ye all; and bid ye too,</L>
+<L>Strictly to observe what I shall say or do:</L>
+<L>For he was one that was imperious,</L>
+<L>And never spoke in other manner, but thus:</L>
+<L>Saying, Had I been there, I'd a charg'd 'em all</L>
+<L>To cease from fighting, or have made 'em fall</L>
+<L>By my imperious hand: for let me but say,</L>
+<L><HI>Ama, amato,</HI> love thou, and they all obey;</L>
+<L>Or <HI>pugnate, pugnatote,</HI> fight ye,</L>
+<L>And if ye do well, then I will knight ye.</L>
+<L>Thus my being absent, caus'd the fight that day;</L>
+<L>None knew how to command, nor none to obey.</L>
+</LG>
+<LG>
+<L>He having finisht his discourse, up starts</L>
+<L>The Optative, who wisht that all their hearts</L>
+<L>Had been as his, then th'had not fought that day:</L>
+<L>For he and's Foreman <HI>utinam</HI> ran away.</L>
+<L>And though the Imperative had the greatest command,</L>
+<L>Yet he of Tenses had five to one at hand</L>
+<L><PB N="69" REF="38"/>More than t'other; and was no good House-holder,</L>
+<L>As being so great a wisher and a woulder.</L>
+<L>For all good Prayers he did never want;</L>
+<L>As, I would God, I pray God, and God grant.</L>
+<L>And that there might be no more hatred, he'd say,</L>
+<L><HI>Ʋtinam amem,</HI> God grant I love alway;</L>
+<L>Which is the onely way to keep's in peace.</L>
+<L>And having so spoke, his Speech did cease.</L>
+</LG>
+<LG>
+<L>The Potential then stood up, and to 'em said,</L>
+<L>Next to the Imperative, he'd be obey'd:</L>
+<L>For though he had indeed the chief command,</L>
+<L>Yet he was more mighty both in Goods and Land;</L>
+<L>As may be seen by the Signes at his door,</L>
+<L>When others have but one, yet he has six more;</L>
+<L>As may, can, might, could, would, should, or ought;</L>
+<L>Which unto this Potency has him brought:</L>
+<L>And cou'd say <HI>amem,</HI> I may or can love,</L>
+<L>Or let it alone: for he wou'd still move</L>
+<L>In his own Sphere; and never wou'd quarrel,</L>
+<L>But relieve the needy, and those that are ill:</L>
+<L>Saying, I may or do what I please herein;</L>
+<L>But 'tis best not fight, but sleep in a whole skin.</L>
+</LG>
+<LG>
+<L>The Subjunctive then began to tell his Tale;</L>
+<L>But when he striv'd to do't alone, wou'd fail,</L>
+<L>But must be forc'd to take a Conjunction</L>
+<L>To joyn with him, or not use his Function:</L>
+<L>For the Subjunctive, if the truth were known,</L>
+<L>Is but the Adjectives Bastard: for alone</L>
+<L>They can't stand in Reason or Signification,</L>
+<L>But must have a word joyn'd to keep the sence warm,</L>
+<L>And stick like a Gizzard still under each arm.</L>
+<L>The Subjunctive then at last did declare,</L>
+<L>He wou'd be subject to any thing else but War.</L>
+</LG>
+<LG>
+<PB N="70" REF="39"/>
+<L>The Infinitive then to end the Debate,</L>
+<L>Said, Of all the Verbs he did participate;</L>
+<L>And also he cou'd do, suffer, or be</L>
+<L>What he pleas'd within's own Seigniorie;</L>
+<L>And was inferiour unto none</L>
+<L>Of the Moods, but of himself cou'd stand alone:</L>
+<L>For I can force <HI>amare</HI> to love my Daughter,</L>
+<L>And <HI>amaturum esse,</HI> to love hereafter;</L>
+<L>And <HI>amandum</HI> and <HI>amatum,</HI> to love also;</L>
+<L>And <HI>amatu,</HI> to be belov'd whe'r he will or no.</L>
+<L>And likewise can command <HI>docturum esse,</HI></L>
+<L>To teach hereafter my Daugher <HI>Besse.</HI></L>
+<L>Nay, I cou'd shew you an Infinite more;</L>
+<L>But for brevities sake, I now give ore,</L>
+<L>And do infinitely desire there may be</L>
+<L>No more of fighting, if you'll be rul'd by me,</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>Of the TENSES.</HEAD>
+<LG>
+<L>THe Tenses they being Servants to the Moods,</L>
+<L>They call'd 'em to account about those Feuds.</L>
+<L>The Present Tense did first himself present,</L>
+<L>(And truth to say, he did those times lament)</L>
+<L>He presently then told them all, That they</L>
+<L>Cou'd never think him guilty of that Fray:</L>
+<L>For he vow'd, Had he been present when 'twas done,</L>
+<L>He wou'd have been the first that shou'd a run:</L>
+<L>For who knows better to get out of Bands,</L>
+<L>When Times and Seasons are all in our hands?</L>
+</LG>
+<LG>
+<L>The Preterimperfect Tense did then appear;</L>
+<L>But was imperfect in's relation there:</L>
+<L><PB N="71" REF="39"/>For though his time was not perfectly past,</L>
+<L>He confest that with <HI>amabam</HI> he did love at last;</L>
+<L>But loving not then, they told him 'twas a fault,</L>
+<L>And was the cause that all that trouble was wrought.</L>
+<L>He vow'd he was not there at that same time</L>
+<L>When't began; so not guilty of that crime.</L>
+</LG>
+<LG>
+<L>The Preterperfect Tense then began to plead,</L>
+<L>Protesting himself innocent of that deed:</L>
+<L>For though his time was perfectly past, yet he</L>
+<L>Said, I have lov'd <HI>amavi</HI> ferventlie;</L>
+<L>For he and I do all such Quarrels shun,</L>
+<L>And never heard o'th' Battle, until 'twas done.</L>
+</LG>
+<LG>
+<L>The Preterpluperfect then was call'd in,</L>
+<L>And brought <HI>amaveram</HI> with him, who had bin</L>
+<L>His long and constant friend, who said, Though their time</L>
+<L>Were more than perfectly past, yet that crime</L>
+<L>Cou'd not be laid to their charge, 'cause that they</L>
+<L>Had lov'd one another many a day.</L>
+<L>And will do't still with leave o'th' Future Tense,</L>
+<L>That they got great applause when they went thence.</L>
+</LG>
+<LG>
+<L>The Future Tense at last was called in,</L>
+<L>Who plainly told 'em, If he had guilty bin</L>
+<L>Of such a thing, he deserv'd to be blam'd:</L>
+<L>But yet, say they, methinks y'are not asham'd</L>
+<L>To confess you did not love. No, says he,</L>
+<L>I did not: for that can be no fault in me;</L>
+<L>For an Astrologer told me once at home,</L>
+<L>That my time of loving was not yet come:</L>
+<L>And likewise told me, that <HI>amabo</HI> and I,</L>
+<L>Shall or will love most certainly.</L>
+<L>Then all the Court remov'd, and did pray</L>
+<L>They ne'r might see such another day.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="72" REF="40"/>
+<HEAD>On the Squibs and Crackers thrown on the Lord Mayors day.</HEAD>
+<L>'TWas just the day 'fore twenty ten</L>
+<L>Of dull <HI>October,</HI> being then</L>
+<L>The Lord Mayors show, or eke his day,</L>
+<L>So call'd by th' Vulgar, as they say:</L>
+<L>I speak not of that glorious Crew</L>
+<L>That past us by in open view;</L>
+<L>As first, the Companies several,</L>
+<L>Belonging to each others Hall,</L>
+<L>All clad in black, with half red Tippit,</L>
+<L>Who on their Petitoes did trip it.</L>
+<L>Nor of those Velvet-coats so black,</L>
+<L>With Chains of gold hung on their back;</L>
+<L>Nor of that Teem of Scarlet-Riders,</L>
+<L>Who of the City-wards are Guiders;</L>
+<L>Nor of the Troops and Horses fairness,</L>
+<L>Whose Masters all were clad in Harness,</L>
+<L>Whose Officers Coats bedecked were</L>
+<L>With Gold embroider'd every where;</L>
+<L>Nor the Foot, with Bagpipe, Fife, and Drum,</L>
+<L>Who thither with the rest did come</L>
+<L>For to attend our Soveraign,</L>
+<L>(Whom God preserve with all his Train;)</L>
+<L>Nor of those gallant Princely Coaches,</L>
+<L>To all I gave a <HI>Bonos noches:</HI></L>
+<L>But of those Gallants Treat I do,</L>
+<L>That were Spectators of that Show;</L>
+<L><PB N="73" REF="40"/>Who there were placed in Balconies,</L>
+<L>'Mongst which were many antient Cronies,</L>
+<L>And Ladies young: who all there stood,</L>
+<L>I can't say sit, they wisht they cou'd:</L>
+<L>For in the twinkling of an eye,</L>
+<L>Such Squibs and Crackers then did flie</L>
+<L>In such a horrid fiery fashion,</L>
+<L>It forc'd them all to change their station,</L>
+<L>Lest it should burn their Garments gay,</L>
+<L>Which borrowed were perhaps that day.</L>
+<L>They chiefly flew, like Whirligigs,</L>
+<L>On curled Hair and Perriwigs:</L>
+<L>Nothing escap'd them, they were so set,</L>
+<L>That all was Fish that came to Net.</L>
+<L>A couple came that day to see</L>
+<L>And to be seen, in all their braverie:</L>
+<L>And drest they were most finically,</L>
+<L>That all shou'd note that stood them by.</L>
+<L>In striped Mantua's they were drest,</L>
+<L>Of all colours i'th' Rainbow, I protest.</L>
+<L>And both were in Balcony set,</L>
+<L>Thinking their gayness then so great,</L>
+<L>That none wou'd venture their Squibs to fling</L>
+<L>At them (being as fine as any thing.)</L>
+<L>The Squibs and Cracker-men below</L>
+<L>Observing what they did, and how</L>
+<L>Confident they were that none would throw,</L>
+<L>And being intent about the Show,</L>
+<L>Some ten of them together flung,</L>
+<L>Which did directly light among</L>
+<L>Those which in that Balcony sate,</L>
+<L>Which made them stir, but 'twas too late:</L>
+<L>And 'fore they cou'd remove their station,</L>
+<L>Up came ten more i'the same fashion;</L>
+<L><PB N="74" REF="41"/>Which quickly burnt their curled Hair,</L>
+<L>Their Hoods and Scarfs, and all was there;</L>
+<L>Their Rain-bow-colour'd Cloths, I find,</L>
+<L>Were all burnt both before and behind;</L>
+<L>And left 'em in most woful cases:</L>
+<L>For't scorcht the Patches on their faces.</L>
+<L>They were so claw'd, that one did swear</L>
+<L>They both like Gipsies did appear.</L>
+<L>Though they came in in merry posture,</L>
+<L>Yet when went out, their eyes were moister.</L>
+<L>Though they at fore-door did come in,</L>
+<L>Yet they at back-door went out agin:</L>
+<L>And forc'd were t' go to their old Stallion,</L>
+<L>Being al-a-mode de Taterdemallion.</L>
+<L>Also a Lord; but the Lord knows who</L>
+<L>It was: for it burnt his Breeches too,</L>
+<L>His Velvet-coat, Perriwig, and Hat,</L>
+<L>And also his richly lac'd Cravat.</L>
+<L>Nay, they from Windows scarce cou'd peep,</L>
+<L>But suddenly were forc'd to creep</L>
+<L>Back again, or those Ladies fair</L>
+<L>Were sure to burn their Hoods and Hair.</L>
+<L>No Gowns nor Whisks did then escape:</L>
+<L>For on Petticoats they made a Rape;</L>
+<L>Not on those that were a top alone,</L>
+<L>But below too, they were so sawcy grown.</L>
+<L>Another, it seems, then to secure</L>
+<L>A pretty Lady, did then endure</L>
+<L>A hot Contest: but by his leave,</L>
+<L>It quickly burnt his Half-shirt-sleeve.</L>
+<L>The Author catcht one in's hand a top,</L>
+<L>And flung't in's face that threw it up,</L>
+<L>To keep't from them that were above:</L>
+<L>But by his favour, it burnt his Glove.</L>
+<L><PB N="75" REF="41"/>Last I advise, if any chance to go</L>
+<L>Agen to see the Lord Mayors Show,</L>
+<L>They must not in Balconies stand,</L>
+<L>Or any place that's low at hand;</L>
+<L>But i'th' Garret, or the Leads a top:</L>
+<L>For that's too high to fling 'em up.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>A Song,</HEAD>
+<OPENER>to the Tune of <HI>Thomas</HI> I cannot.</OPENER>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>COme, my <HI>Molly,</HI> let us be jolly,</L>
+<L>Now we are both come hither;</L>
+<L>Thy Mother's from home, and we are alone,</L>
+<L>Then let us be merry together.</L>
+<L>I'll give thee some Rings and Bracelets fine,</L>
+<L>And other Trinkets, if thou wilt be mine.</L>
+<L>In truth, good Sir, I dare not incline;</L>
+<L><HI>My Mother does tell me I munnot, I munnot,</HI></L>
+<L><HI>My Mother does tell me I munnot.</HI></L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Thou sha't have a Gown of the vinest zilk,</L>
+<L>The like was never zeena;</L>
+<L>Thou sha't ha the Cream of all the Milk</L>
+<L>Of the Cows that go on the Greena,</L>
+<L>To make thee some Curds and Cheescakes store,</L>
+<L>And Custards too, all sugar'd ore.</L>
+<L>I pray you, good Sir, now say no more;</L>
+<L><HI>My Mother does tell me I munnot,</HI> &amp;c.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Thy Wastcoat shall be of Scarlet too,</L>
+<L>With Ribonds tyed together:</L>
+<L>Thy Stockins shall be of a <HI>Bow</HI>-died hue,</L>
+<L>And thy shoes of Spanish Leather.</L>
+<L><PB N="76" REF="42"/>And upon each Shoe a silken Knot</L>
+<L>For to set out thy delicate foot.</L>
+<L>In truth, good Sir, I dare not do't;</L>
+<L><HI>My Mother does tell me,</HI> &amp;c.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Thy Petticoat shall be of Sey,</L>
+<L>The best in all the Towna;</L>
+<L>And thou shalt wear it every day,</L>
+<L>And zo thou shalt thy Gowna.</L>
+<L>Thy Smock shall be of <HI>Holland</HI> fine,</L>
+<L>If thou in love with me wo't joyn.</L>
+<L>In truth, good Sir, I dare not combine;</L>
+<L><HI>My Mother does tell me,</HI> &amp;c.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>I'll feof thee in a Copy-hold</L>
+<L>Of Forty pound a yeara;</L>
+<L>And I ha Twonty pound in Gold</L>
+<L>Will serve to make good Cheara.</L>
+<L>O no, you men, I know ye too well,</L>
+<L>But give you an inch, and you'll take an ell,</L>
+<L>And when you have done, you Tales will tell.</L>
+<L><HI>In truth, good Sir, I munnot, I munnot;</HI></L>
+<L><HI>My Mother does tell me I munnot.</HI></L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>Why then, my <HI>Molly,</HI> here I vow</L>
+<L>My Lips shall still be sealed,</L>
+<L>And whatsoever we do now,</L>
+<L>Shall never be revealed.</L>
+<L>With one sweet Kiss we'll seal the same;</L>
+<L>Deny me but this, you are to blame.</L>
+<L>O this Kiss doth so inflame,</L>
+<L><HI>I cannot hold out a minit, a minit;</HI></L>
+<L><HI>I cannot hold out a minit.</HI></L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="77" REF="42"/>
+<HEAD>A SONG.</HEAD>
+<OPENER><HI>The Tune,</HI> My Dame <HI>Joan</HI> hath pawn'd her Kittle.</OPENER>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>CLear up those stormy Brows, and teach</L>
+<L>My weak and wadling Love to go:</L>
+<L>Who makes 'twixt Infant-loves a breach,</L>
+<L>Sure is no stout nor gallant foe.</L>
+<L>Prethee let us prove, that <HI>Cupid</HI> is above</L>
+<L>The firm Votes of immortal Fate:</L>
+<L>Though a Child he be, let Malice see</L>
+<L>That Love is stronger far than Hate.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Then be no longer fondly coy;</L>
+<L>Death's here more welcome than delay.</L>
+<L>Love is a nimble sprightly Boy,</L>
+<L>And hath swift wings, the Poets say.</L>
+<L>Let's lose no time, 'tis a capital crime;</L>
+<L>None sins in Love like him that's slow.</L>
+<L>If I wanton be, pray pardon me;</L>
+<L>Love's a Child, and Children will be so.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>My Senses call me dull, and blame</L>
+<L>My calmness, that thus pleading stands.</L>
+<L>Come, your Mother she did do the same;</L>
+<L>Yield, or I must lay violent hands.</L>
+<L>For shall I spare one, such a Rape hath done,</L>
+<L>And violence on my Soul hath lain?</L>
+<L>And why should she thus ravish me,</L>
+<L>And I not ravish her again?</L>
+</LG>
+<LG N="4">
+<PB N="78" REF="43"/>
+<HEAD>4.</HEAD>
+<L>Why this stir? why this denying?</L>
+<L>This pish, pish, Groper, stand away?</L>
+<L>Why this proud and coy denying,</L>
+<L>'Cause I there my hand did lay?</L>
+<L>I did grope, 'tis true; but in love sure you</L>
+<L>Will count it no offence, I hope.</L>
+<L>If the cause you'll find, know Love is blind;</L>
+<L>And they that cannot see, must grope.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>A Mock-Song to <HI>Come my</HI> Daphne.</HEAD>
+<SP>
+<SPEAKER>Man.</SPEAKER>
+<L>COme, my durty Pug, away;</L>
+<L>What the Pox d'ye mean to say?</L>
+</SP>
+<SP>
+<SPEAKER>Wom.</SPEAKER>
+<L>'Tis <HI>Rowland</HI> calls; what wou'd my Swine?</L>
+</SP>
+<SP>
+<SPEAKER>Man.</SPEAKER>
+<L>Come up, you Whore, 'tis time to dine,</L>
+<L>Where <HI>Vulcan</HI> shall provide</L>
+<L>A Whip to claw your hide.</L>
+</SP>
+<SP>
+<SPEAKER>Wom.</SPEAKER>
+<L>Were I shut up within a Jail,</L>
+<L>'Tis <HI>Rowland</HI> he must be my Bail.</L>
+</SP>
+<SP>
+<SPEAKER>Man.</SPEAKER>
+<L>You lazy Whore, make hast,</L>
+<L>The Meat at fire doth wast.</L>
+<L>In the burning Fountain I</L>
+<L>Must for ever live and die;</L>
+<L>And on thy mangy bosom stray,</L>
+<L>Would fright, would fright,</L>
+<L>Would fright the Devil away.</L>
+<STAGE>Chorus.</STAGE>
+<L>We'll howl and weep, and ne'r give ore,</L>
+<L>Because the Fiends do see, do see</L>
+<L>The cursed glee</L>
+<L>'Twixt thee and me;</L>
+<L>But never will deplore</L>
+<L>My sad, but fatal Destinie.</L>
+</SP>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="79" REF="43"/>
+<HEAD>Another Drunken Mock to <HI>Come my</HI> Daphne.</HEAD>
+<SP>
+<SPEAKER>T.</SPEAKER>
+<L>COme, my Bully-rock, away;</L>
+<L>We do wast this drinking day.</L>
+</SP>
+<SP>
+<SPEAKER>R.</SPEAKER>
+<L>'Tis <HI>Roger</HI> calls: What news, you Sot?</L>
+</SP>
+<SP>
+<SPEAKER>T.</SPEAKER>
+<L>Come see, you Rogue, what I have got:</L>
+<L>For <HI>Bacchus</HI> still provides</L>
+<L>Brisk Wine to stuff our Hides.</L>
+</SP>
+<SP>
+<SPEAKER>R.</SPEAKER>
+<L>Were I shut up in Cellar deep,</L>
+<L>I'd first be drunk before I'd sleep.</L>
+</SP>
+<SP>
+<SPEAKER>T.</SPEAKER>
+<L>Ye lazy Rogue, make hast,</L>
+<L>The Wine will spoil and wast.</L>
+</SP>
+<SP>
+<SPEAKER>R.</SPEAKER>
+<L>With good Sack and Claret I</L>
+<L>Will for ever live and die:</L>
+<L>And from Bung-hole ne'r will stray,</L>
+<L>Till thee and I have suckt it quite away.</L>
+<STAGE>Chorus.</STAGE>
+<L>We'll drink and sleep, and then we'll snore,</L>
+<L>That <HI>Bacchus</HI> he</L>
+<L>May dayly see</L>
+<L>The Bubbing Glee</L>
+<L>'Twixt thee and mee;</L>
+<L>But never will give ore,</L>
+<L>Whilst we good Sack or Claret see.</L>
+</SP>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="80" REF="44"/>
+<HEAD>The Wooing Gallant. A SONG.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>COme hither my dearest, come hither to me,</L>
+<L>And I will be so loving to thee,</L>
+<L>As never was man before.</L>
+<L>Then gi' me thy heart, and thou sha't a mine:</L>
+<L>For if I may be certain of thine,</L>
+<L>I'll never desire no more.</L>
+<L>Then unto my house we'll trip it away,</L>
+<L>And fit and provide for the Wedding-day.</L>
+<L>We'll dance and we'll sing,</L>
+<L>And the Bells shall ring,</L>
+<L>And the Fidlers round about us shall play.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Thy Body with rich Apparel I'll deck,</L>
+<L>And round about thy Ivory Neck</L>
+<L>I'll place a Chain of Pearl,</L>
+<L>So round and so fair, so fine and so neat,</L>
+<L>That every one that chances to see't,</L>
+<L>Will say thou'rt a lovely Girl.</L>
+<L>Then be not so coy, but come away,</L>
+<L>And I'll embrace thee both night and day:</L>
+<L>For I vow and I swear</L>
+<L>Thou shalt be my Dear,</L>
+<L>And merrily we will sing and play.</L>
+</LG>
+<LG N="3">
+<PB N="81" REF="44"/>
+<HEAD>3.</HEAD>
+<L>The Girl she stood off, and smiling said,</L>
+<L>I fear you mean to betray a Maid</L>
+<L>That never did love before:</L>
+<L>For men will dissemble, and cog, and lye,</L>
+<L>And swear they love you faithfully,</L>
+<L>When they have another in store.</L>
+<L>But if that you mean to be faithful and true,</L>
+<L>And that I should be so to you,</L>
+<L>Be loving and kind,</L>
+<L>And change not your mind,</L>
+<L>Or else for evermore adieu.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>Ʋpon the taking down of the Kings Arms at <HI>Ox∣ford,</HI> in the time of the Rump, <HI>viz. 1649.</HI> who instead of plucking down them on the Gate of the Physick-Garden in <HI>Oxford,</HI> they were such ex∣cellent Heralds, that they pluckt down the Earl of <HI>Danby</HI>'s Arms, who was the Founder there.</HEAD>
+<L>IN Sixteen hundred forty nine,</L>
+<L>When Cavaliers were forc'd to dine</L>
+<L>At Duke <HI>Humfrey</HI>'s Table still;</L>
+<L>(But 'twas, poor hearts! against their will)</L>
+<L>A dismal time when Rump did fart ye</L>
+<L>A thousand cracks 'gainst Royal Partie;</L>
+<L>And when Kings Arms were plucking down</L>
+<L>In every City and in Town.</L>
+<L>In <HI>Oxford</HI>-City there's a place</L>
+<L>Call'd Physick-Garden, a little space</L>
+<L><PB N="82" REF="45"/>From Colledge <HI>Magdalen</HI> doth stand,</L>
+<L>Well known to many in this Land.</L>
+<L>From <HI>Maudling</HI>-bridge it stands North-west,</L>
+<L>So that must be from it South-east.</L>
+<L>This is so plain, you cannot miss it,</L>
+<L>That when y'are there, you'll say this is it.</L>
+<L>The Walls that do surround this place,</L>
+<L>And noble Gate which doth it grace,</L>
+<L>And all the Land within the same,</L>
+<L>For evermore will bear the name,</L>
+<L>As being the particular Bount-</L>
+<L>Ty of that noble Northern Count,</L>
+<L>Who to's Prince to th' last did stand by,</L>
+<L>Call'd <HI>Henricus Comes Danby.</HI></L>
+<L>This Gift, I say, was onely his,</L>
+<L>(For which no doubt he is in Bliss)</L>
+<L>Unto the poor University,</L>
+<L>Made so by th' Rump, the more's the pity.</L>
+<L>And first of all this Rumpish Crew</L>
+<L>That then did there appear in view,</L>
+<L>With others that he thither brought</L>
+<L>For to destroy, as then they thought,</L>
+<L>Their Princes Arms, was a Colonel,</L>
+<L>Who indeed was a Preacher, as well</L>
+<L>As Souldier; and so he began</L>
+<L>Then to preach to every man</L>
+<L>His Rumpish Doctrine, and so bid</L>
+<L>Them be valiant: and what they did,</L>
+<L>He wou'd secure both great and small</L>
+<L>By an Ordinance from his Masters all.</L>
+<L>An Ordinance it might be call'd,</L>
+<L>(Which oft the Cavaliers have maul'd)</L>
+<L>By thundring of us out a Town,</L>
+<L>From Post to Pillar up and down.</L>
+<L><PB N="83" REF="45"/>But name of Act it cannot bear,</L>
+<L>Yet 'twas the Cornel's Act, I'll swear.</L>
+<L>And with the Cornel there did go</L>
+<L>His Lieutenant-Colonel also;</L>
+<L>And Major too, and Captains store,</L>
+<L>And Ensigns and Lieutenants more.</L>
+<L>And of the County-Committee</L>
+<L>There were about the number three,</L>
+<L>With others at the Colonels call;</L>
+<L>I think there was the Devil and all.</L>
+<L>But now comes out a pleasant Tale</L>
+<L>(If my memory do not fail)</L>
+<L>Which in <HI>Oxford</HI> is very rife</L>
+<L>In every mouth, and true on my life:</L>
+<L>On the right hand of that brave Gate</L>
+<L>Were Kings Arms plac'd in handsome state,</L>
+<L>And likewise Crown and Garter too,</L>
+<L>As 'bout the Arms they use to do.</L>
+<L>O'th' left hand was the Founders Arms,</L>
+<L>Bold <HI>Danvers,</HI> who with loud Alarms</L>
+<L>The Irish Rebels conquer'd so,</L>
+<L>In little time he had no Foe</L>
+<L>To wreak his Valour on; whose fame</L>
+<L>Was spread abroad, that's very name</L>
+<L>Would scatter all that Kernish Crew;</L>
+<L>But <HI>Danvers</HI> cry, away they flew.</L>
+<L>And before he came from thence,</L>
+<L>Forc'd 'em to own their natural Prince.</L>
+<L>For which important service done,</L>
+<L>(By way of Retaliation)</L>
+<L>King <HI>James</HI> with Title then did greet him</L>
+<L>Of Baron <HI>Danvers;</HI> which did meet him</L>
+<L>'Fore he came to kiss his hand. And's Son</L>
+<L><HI>Charles</HI> the first, for other service done,</L>
+<L><PB N="84" REF="46"/>Did Earl of <HI>Danby</HI> him create,</L>
+<L>And Knight o'th' Garter, (Honours great!)</L>
+<L>Yet none for him too great was thought,</L>
+<L>Who for his Prince so bravely fought:</L>
+<L>So that by this I'd have you note,</L>
+<L>He had the Garter round his Coat,</L>
+<L>And Coronet also: which did make</L>
+<L>Among our Heroes that great mistake,</L>
+<L>Which made for what I do intend,</L>
+<L>(And then I'll draw unto an end.)</L>
+<L>These gallant new-made Gentlemen</L>
+<L>(With the Country-Committee then)</L>
+<L>And others of that new-dub'd Crew,</L>
+<L>When both these Coats they chanc'd to view,</L>
+<L>Like wise men, did with one accord</L>
+<L>Command the Arms of this brave Lord</L>
+<L>To be pull'd down instead o'th' Kings:</L>
+<L>And so they flew, as 'twere with wings,</L>
+<L>For to pull down, as they thought,</L>
+<L>His Majesties most Royal Coat.</L>
+<L>Sure of Senses they were bereft,</L>
+<L>Not to know right hand from the left.</L>
+<L>That they were Scholars, you can't deny,</L>
+<L>'Cause in the University;</L>
+<L>And wonder 'twas what Heraldry then</L>
+<L>Was 'mong our Rumpish Gentlemen.</L>
+<L>Or were they at that time afraid</L>
+<L>To touch that Princely Coat? They laid</L>
+<L>Not violent hands upon it then;</L>
+<L>But I remember the time when</L>
+<L>They durst attack, as well as Crown,</L>
+<L>His sacred Person too, 'tis known.</L>
+<L>Sure Providence did cast a mist</L>
+<L>'Fore the Cor'nels eyes, and all the rest,</L>
+<L><PB N="85" REF="46"/>That they cou'd not see that very day</L>
+<L>('Cause their chief Light's within, they say.)</L>
+<L>If so, then 'twas Prophetick sure,</L>
+<L>That they should onely then obscure,</L>
+<L>And for a time to cloud the Crown,</L>
+<L>But for their lives not pull it down.</L>
+<L>Though th' Officers so little knew,</L>
+<L>And Gentlemen of that great Crew,</L>
+<L>What did belong to Arms; 'tis strange</L>
+<L>The Souldiers that did use to range</L>
+<L>Themselves each day in Rank and File,</L>
+<L>(And many times their Arms recoil.)</L>
+<L>And then the chief word of Command</L>
+<L>Was, Stand to your Arms, to every Band;</L>
+<L>Which they being often us'd to do,</L>
+<L>Made 'em let the Kings Arms stand too.</L>
+<L>Then after this in Merriment,</L>
+<L>They all unto the Tavern went,</L>
+<L>To congratulate each others act,</L>
+<L>And all to own that prudent fact.</L>
+<L>There were some twenty Officers,</L>
+<L>With Committee-men, Friends of theirs;</L>
+<L>So that there were 'bout thirty two</L>
+<L>Of this most <HI>Solomon</HI>-like Crew:</L>
+<L>Who had at last four pints of Sack</L>
+<L>'Mongst them all to strengthen the back.</L>
+<L>And though they wou'd not wench, nor swear,</L>
+<L>Yet you see drink hard when they came there.</L>
+<L>Nay, that they might seem more profuse,</L>
+<L>(Which was indeed their common use)</L>
+<L>In half-pint-pots 'twas still brought up;</L>
+<L>But yet before they'd touch the cup,</L>
+<L>With Hat in hand wou'd Blessing crave,</L>
+<L>Lest poison'd by a Cavalier Knave.</L>
+<L><PB N="86" REF="47"/>And as they thus sate carousing,</L>
+<L>In comes a bold fellow, using</L>
+<L>Great Reverence to that learned Gang,</L>
+<L>Saying, They were better to hang</L>
+<L>Than keep: And having a pint of Sack</L>
+<L>In his hand, he like a mad Hack,</L>
+<L>Drank the Kings health, and then threw</L>
+<L>The Pot among that Spendthrift Crew,</L>
+<L>Saying, Pox take ye all; and then flew</L>
+<L>Down Stairs, without bidding 'em adieu.</L>
+<L>Though they command Kings Arms pull down,</L>
+<L>Yet still hung up some of their own:</L>
+<L>Which did prognosticate, I say,</L>
+<L>Their Arms shou'd first hang up; they, they.</L>
+<L>We were so far from putting down</L>
+<L>Their Arms, we set 'em up in Town.</L>
+<L>Nay, they were so highly grac'd,</L>
+<L>That ore the Kings Arms they were plac'd</L>
+<L>On every Gate about the City;</L>
+<L>Not sooner done, the more's the pity.</L>
+<L>The Rump their Juglings so did handle,</L>
+<L>They all went out like Snuff of Candle.</L>
+<L>And those who bought King or Bishops Lands,</L>
+<L>At the happy Change, had their hands</L>
+<L>Eas'd of all that mighty trouble,</L>
+<L>After they'd brought the Rents to double.</L>
+<L>So may they all be serv'd, that persists</L>
+<L>Not in heart and voice true Royalists:</L>
+<L>And also those that do repine</L>
+<L>At this our Change; which by divine</L>
+<L>Hand was then so brought about,</L>
+<L>To scatter all that cursed Rout</L>
+<L>Who had deserv'd it long before,</L>
+<L>For Cruelty, but Treason more.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="87" REF="47"/>
+<HEAD>A Mock-Song to <HI>Cellamina:</HI></HEAD>
+<OPENER>And to that Tune.</OPENER>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L><HI>MAll,</HI> I ne'r yet knew thy mind;</L>
+<L>Once agen I'll prove thee:</L>
+<L>If thou wilt but be so kind</L>
+<L>To kiss me twice or thrice behind,</L>
+<L>Faith I'll ever love thee.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L><HI>Tom,</HI> I'm ignorant, I vow,</L>
+<L>Which way to come to it;</L>
+<L>But if you the way will show,</L>
+<L>First kiss mine, then I shall know</L>
+<L>The better how to do it.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>We'll draw Cuts then if thou wo't,</L>
+<L>Now within this minnit;</L>
+<L>And when we have drawn the Lot,</L>
+<L>Those that have the shortest Cut,</L>
+<L>They shall then begin it.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Hang your Cuts; do you begin't;</L>
+<L>You're the first did move it:</L>
+<L>And when I see you do't in print,</L>
+<L>Sure you'll think the Devil's in't,</L>
+<L>Should I not approve it.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="88" REF="48"/>
+<HEAD><HI>Iter Occidentale:</HI> or, a Western Voyage from the Old Exchange to the Gridiron near <HI>Charing∣cross</HI> in the <HI>Strand;</HI> and perform'd by five Gentlemen, <HI>Nov. 5. 1673.</HI></HEAD>
+<L>THough Squibs and Crackers thick did flie</L>
+<L>On Lord Mayors day, like Snow in Skie;</L>
+<L>But yet upon <HI>November</HI> Fift,</L>
+<L>There flew of them so great a drift,</L>
+<L>One scarce could pass along the street,</L>
+<L>But spight of teeth we did them meet.</L>
+<L>And now the reason you wou'd hear,</L>
+<L>Why this day's kept so strict each year,</L>
+<L>As being Holiday, and why not,</L>
+<L>In memory of the Powder-plot.</L>
+<L>But let that pass, I now will treat</L>
+<L>The Adventures these half ten did meet:</L>
+<L>And coming into street call'd <HI>Cheap-</HI></L>
+<L><HI>Side</HI> some do adde, we saw a heap</L>
+<L>Of Ribble-rabble met together,</L>
+<L>That threw their Squibs they car'd not whither,</L>
+<L>That we, poor harmless Grigs,</L>
+<L>Cou'd scarcely save our Perriwigs:</L>
+<L>And I had then no more but one;</L>
+<L>Had that been burnt, whoop, all was gone.</L>
+<L>I forc'd was use both hat and hand,</L>
+<L>To save my Wig and little Band.</L>
+<L>Though but through Lane or Corner turn'd,</L>
+<L>We did expect still to be burn'd.</L>
+<L><PB N="89" REF="48"/>Nay, we were forc'd to skip i'th' Gutter,</L>
+<L>But quickly we from thence must flutter:</L>
+<L>For if y'are fixt in any place,</L>
+<L>Hey Boys, says they: then look t' your face.</L>
+<L>So that we still skipt up and down</L>
+<L>Like Morris-dancers in a Town.</L>
+<L>And besides this Rabble-rout,</L>
+<L>We there did see a Rope stretcht out,</L>
+<L>Which was on two Balconies fixt,</L>
+<L>With Bonfires two or three betwixt;</L>
+<L>And then upon that dangling Rope</L>
+<L>We there did see a Rev'rend Pope,</L>
+<L>With Sword by's side, and Crosier too,</L>
+<L>And Trident in his hand also,</L>
+<L>And eke his Pontificial Gown,</L>
+<L>And Miter too, with Triple-Crown</L>
+<L>All made of Cards: And being thus,</L>
+<L>Methoughts it was preposterous</L>
+<L>For Cards made for the hand, not head,</L>
+<L>Or I'm like him in Faith misled.</L>
+<L>But now I think I've found the knack,</L>
+<L>Why they of Cards his Crown did make,</L>
+<L>And on his head Card-miter wore,</L>
+<L>'Cause he a Cardinal was before;</L>
+<L>And his Supremacy arises</L>
+<L>By being the Head o'th' Cardinal Vices.</L>
+<L>But why a Trident in his hand?</L>
+<L>My troth, it puts me to a stand,</L>
+<L>That he should <HI>Neptune</HI>'s Right assume,</L>
+<L>Because 'tis call'd the Sea of <HI>Rome:</HI></L>
+<L>And so we find by this, that he</L>
+<L>Is Lord not o'th' Land alone, but Sea.</L>
+<L>Witness that annual throwing in</L>
+<L>A Ring into the Sea; which long hath bin</L>
+<L><PB N="90" REF="49"/>Continued by the <HI>Venetian</HI> State:</L>
+<L>And when first done, the Pope he sate</L>
+<L>I'th' Bucentaure triumphantlie,</L>
+<L>To wed that State unto the Sea:</L>
+<L>For had he not a Right unto't,</L>
+<L>Why did he at that time then do't?</L>
+<L>But now I think upon it well,</L>
+<L>The Sea of <HI>Rome,</HI> we all can tell,</L>
+<L>Did overflow all <HI>Europe</HI> ore</L>
+<L>In former times; but the <HI>British</HI> shore</L>
+<L>For this hundred and fifty year,</L>
+<L>Has put an ebb to's flowing here.</L>
+<L>Besides all this, as some do say,</L>
+<L>He also had in's hand a Key,</L>
+<L>With Boots and Spurs, as in a fright,</L>
+<L>To ride away that very night:</L>
+<L>And with's Key, it seems, he meant</L>
+<L>To ope the City-gates as he went:</L>
+<L>For's Keys the Gates do ope, we know,</L>
+<L>Of Heaven above, and Hell below.</L>
+<L>But for all that, such was his fate,</L>
+<L>To be that night unfortunate.</L>
+<L>The Squibs so pelted him, he swore</L>
+<L>He'd never come to <HI>England</HI> more,</L>
+<L>If once he got away: and said,</L>
+<L>I now in my own Coyn am paid,</L>
+<L>For using Hereticks so bad,</L>
+<L>When I my Papal power had.</L>
+<L>All those that heard him then to say,</L>
+<L>That he'd from <HI>England</HI> hast away,</L>
+<L>Him answer made in this same dress:</L>
+<L>Good riddance to your Holiness;</L>
+<L>For we will never wholly be</L>
+<L>Addicted to your Roman Sea.</L>
+<L><PB N="91" REF="49"/>Which made him fret and fume the more,</L>
+<L>That we were forc'd to give him ore,</L>
+<L>And left him in that angry vein;</L>
+<L>Anon we'll speak of him again.</L>
+<L>And so from thence we marcht away</L>
+<L>To <HI>Ludgate-street,</HI> there made a stay;</L>
+<L>Where we espied another Object,</L>
+<L>That to the Pope is truest Subject;</L>
+<L>And that's a Cardinal, who there sate</L>
+<L>Triumphantly in Chair of State,</L>
+<L>With all things fine, and all things pat,</L>
+<L>And eke had there his Cardinals Hat,</L>
+<L>Which fixed was upon his head,</L>
+<L>Whose Gown and that were coloured.</L>
+<L>The Rabble there made Applications</L>
+<L>To him still in Squib-like fashions;</L>
+<L>Which he did for an honour take</L>
+<L>Unto all Cardinals for his sake:</L>
+<L>And glad he was to <HI>England</HI> come,</L>
+<L>Saying, He was ne'r so serv'd at <HI>Rome.</HI></L>
+<L>And when in this they grew bolder,</L>
+<L>Then he blest 'em ore the left shoulder,</L>
+<L>Saying, I give my <HI>Benedicite</HI></L>
+<L>Unto all Hereticks; but ye</L>
+<L>Especially shall not miss it,</L>
+<L>For this <HI>November</HI>-visit:</L>
+<L>For I'm the Papal Nuncio here,</L>
+<L>And all is under my Paternal care.</L>
+<L>Nay, Beloved, I will assure ye,</L>
+<L>I can be angry too, yea, in fury;</L>
+<L>But not with any here of you</L>
+<L>That honour me so in publick view.</L>
+<L>And had I known that you'd a gave</L>
+<L>Such honour as to me you have</L>
+<L><PB N="92" REF="50"/>Unto a Cardinal heretofore,</L>
+<L>I had sooner seen the English shore:</L>
+<L>But 'tis not late to come at last,</L>
+<L>Since I so freely of it tast.</L>
+<L>When they had honour'd him so much,</L>
+<L>It seems they'd have another touch;</L>
+<L>And with another Card'nal went</L>
+<L>Round the City in merriment;</L>
+<L>Whose Nose was very long indeed:</L>
+<L>No matter for that. But I'll proceed:</L>
+<L>He Crosier had in's hand, and Cross,</L>
+<L>And on mens shoulders did him toss;</L>
+<L>Which does belong to Popes alone,</L>
+<L>But here to Cardinals 'tis shown.</L>
+<L>He marcht in pomp through every street;</L>
+<L>And every one that did him meet,</L>
+<L>When to adore cou'd not come nigh him,</L>
+<L>Did with their Crackers kindly ply him:</L>
+<L>Which he took kindly, and threw about</L>
+<L>His Arms, still blessing all the Rout.</L>
+<L>At last he fixed was in's Station,</L>
+<L>And all's Brethren i'th' same fashion,</L>
+<L>Fixed were in several places,</L>
+<L>Who boldly there did shew their faces.</L>
+<L>And though they Hereticks did us call,</L>
+<L>Yet coming before the Tribunal</L>
+<L>Of that great Rabble, they quickly found</L>
+<L>That they were Catholicks unsound,</L>
+<L>So Hereticks themselves, and had</L>
+<L>Committed Treason, which was sad.</L>
+<L>Nay, they the occasion were, they say,</L>
+<L>That this was made a Holy-day;</L>
+<L>And so condemn'd them to the Flame,</L>
+<L>Though he with Long-nose smelt the same</L>
+<L><PB N="93" REF="50"/>Long before: and therefore did advise</L>
+<L>Them both to be merry and wise;</L>
+<L>And spoke to th' Pope, that he with's Key</L>
+<L>Shou'd open them the ready way</L>
+<L>To steal from all this Rabble-rout</L>
+<L>As fast as ere they cou'd get out.</L>
+<L>But notwithstanding his advice</L>
+<L>Which he had urg'd unto 'em twice,</L>
+<L>They so infatuated were,</L>
+<L>They thought the Pope cou'd never erre:</L>
+<L>Which makes it certain, the Popes Chair</L>
+<L>Is not infallible every where.</L>
+<L>And after they condemned were,</L>
+<L>I do protest I did not hear</L>
+<L>One word from either that did plead</L>
+<L>In their own defence; 'twas strange indeed!</L>
+<L>Nor did they rail, nor scold, nor cry,</L>
+<L>But took their deaths most patiently.</L>
+<L>Nay, they were so very meek,</L>
+<L>Not one ill word I heard 'em speak;</L>
+<L>But thought those Flames to them a Glory,</L>
+<L>As being those of Purgatory;</L>
+<L>And had no need of Pater-Nosters,</L>
+<L>Or Ave-Maries dirg'd in Cloisters,</L>
+<L>For to fetch their Souls from thence;</L>
+<L>They thought that done when they went hence.</L>
+<L>That Lutherans now must think't a story,</L>
+<L>That say there is no Purgatory.</L>
+<L>And now ye are convinc'd, I hope,</L>
+<L>To have a better love to th' Pope.</L>
+<L>They in that Flame so soon were burn'd,</L>
+<L>That they to ashes quickly turn'd.</L>
+<L>One askt why they were so cruel,</L>
+<L>To adde a flame unto the fewel</L>
+<L><PB N="94" REF="51"/>Of that giddy Multitude,</L>
+<L>That then were so exceeding rude?</L>
+<L>Said, For serving us i'th' same fashion,</L>
+<L>We do't but by retaliation:</L>
+<L>They shew'd the way, we do but follow.</L>
+<L>Then all began to whoop and hallow.</L>
+<L>And then with many Squib-like flashes,</L>
+<L>They took their leave o'th' holy Ashes,</L>
+<L>Saying, Dear Father, we bid adieu</L>
+<L>For evermore to all your Crew.</L>
+<L>Thus have you heard the story true,</L>
+<L>O'th' death of three o'th' seventy two</L>
+<L>Cardinals: if so, then I find</L>
+<L>There's but sixty nine left behind;</L>
+<L>Which is too many by six times ten,</L>
+<L>And three times three, of such kind of men.</L>
+<L>And then we unto <HI>Fleet-street</HI> came,</L>
+<L>Where all the way we saw the flame</L>
+<L>Of numerous Bonfires for to light</L>
+<L>The Pope and's Brothers to th' Grave that night.</L>
+<L>From thence to th' <HI>Strand</HI> we came amain,</L>
+<L>Where we did see so great a Train</L>
+<L>Of Bonfires that were so light,</L>
+<L>We did no Link-boys see that night:</L>
+<L>And they petition'd have, they say,</L>
+<L>That this Gunpowder-treason-day</L>
+<L>May not come oft; for if it did,</L>
+<L>They were undone: which <HI>Jove</HI> forbid.</L>
+<L>For Rumpish Cornels two or three,</L>
+<L>Of Link-boys Hall have all been free;</L>
+<L>Of Majors, and of Captains more,</L>
+<L>And eke Lieutenants greater store;</L>
+<L>Of Ensignes and Cornets many indeed,</L>
+<L>Who had most colour for what they did.</L>
+<L><PB N="95" REF="51"/>Who all, you see, were linkt together</L>
+<L>In that great Hall of wind and weather;</L>
+<L>Who lighted all the Rumpish Gang</L>
+<L>To their Deserts, that is, to hang:</L>
+<L>Better destroy any Corporation</L>
+<L>Than that of Link-boys in this Nation:</L>
+<L>For we in darkness were before,</L>
+<L>And but for them, shou'd now be more,</L>
+<L>'Bout which the Woodmongers and they</L>
+<L>Had hot contest about that day.</L>
+<L>The Link-boys beg'd it might be no more;</L>
+<L>And t'other did desire good store:</L>
+<L>Which did consume their Billets and Faggots,</L>
+<L>Which else wou'd be destroy'd with Maggots;</L>
+<L>They cou'd not vend the smallest heap,</L>
+<L>Because that Coals were then so cheap.</L>
+<L>And though we burn'd and broiled were,</L>
+<L>Throughout the streets every where;</L>
+<L>Yet to th' Gridiron did we go,</L>
+<L>To make the Proverb good, you know,</L>
+<L>Out o'th' Frying-pan into th' Fire:</L>
+<L>But yet, according to our desire,</L>
+<L>We there did find a broiling for us</L>
+<L>(Which quickly drove away our sorrows)</L>
+<L>An excellent Fricacy of Rabbets,</L>
+<L>So finely done and cut in gobbets;</L>
+<L>Good Sawce, with excellent Drink good store:</L>
+<L>In conscience we cou'd ask no more.</L>
+<L>Then home we went to cushy all,</L>
+<L>After this Papal Funeral.</L>
+<L>Dated on <HI>November</HI> Fift, you plainly see,</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="96" REF="52"/>
+<HEAD>A new SONG,</HEAD>
+<OPENER>To the Tune of <HI>The Flatteries of Fate.</HI></OPENER>
+<HEAD TYPE="sub">With the ANSWER.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>I Always resolv'd to be from the Charms</L>
+<L>That Love with his Subtilty ere cou'd invent;</L>
+<L>I laught at his Deity, scorn'd at the Harms</L>
+<L>That he cou'd inflict to abridge my content:</L>
+<L>But now I do find,</L>
+<L>Though the God he be blind,</L>
+<L>The Mark he has hit, and hath changed my mind.</L>
+<L>Though a Child thought he be,</L>
+<L>Yet his Manhood I see:</L>
+<L>For with one poor Shaft he hath conquered me.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>I often before great Beauties did see</L>
+<L>With Charms in their Tongues, and Darts in their eyes,</L>
+<L>Who sought by their Wiles to intoxicate me;</L>
+<L>But never till now they my heart cou'd surprize.</L>
+<L>But now I do see</L>
+<L>That a Slave I must be</L>
+<L>To that which has been a Servant to me:</L>
+<L>For the angry Gods Dart</L>
+<L>Hath so wounded my Heart,</L>
+<L>No Balm that's applied but increaseth my smart.</L>
+</LG>
+<LG N="3">
+<PB N="97" REF="52"/>
+<HEAD>3.</HEAD>
+<L>Thus have you heard our Love in a Maze,</L>
+<L>This call'd a Labyrinth I ne'r could abide,</L>
+<L>Whose turnings and windings are so many ways,</L>
+<L>That none can get out, unless by a Guide.</L>
+<L>But my Guide is so coy,</L>
+<L>Though my Soul I employ</L>
+<L>To lie at her feet, yet my hopes she'll destroy;</L>
+<L>And rather than I</L>
+<L>Will keep touch with her eye</L>
+<L>To lie at her feet, I'm resolved to die.</L>
+</LG>
+<DIV3 TYPE="response">
+<HEAD>The Answer to the last Song.</HEAD>
+<OPENER>And to that Tune.</OPENER>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>I Pity thy Passion, Intoxicate Lover!</L>
+<L>Can <HI>Venus</HI>'s Philtres so prevalent be,</L>
+<L>That thou shouldst in a Phrensie thy weakness discover,</L>
+<L>And part with thy Manhood and Birthright so free?</L>
+<L>Shall a purblind Boy</L>
+<L>Thy Courage destroy,</L>
+<L>And make thee submit like a Slave to a Toy?</L>
+<L>Are a Females Eyes</L>
+<L>Such a notable Prize,</L>
+<L>As to offer thy Life for a Sacrifice?</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>What is she some Angel, thou valuest her so?</L>
+<L>Is a Goddess engrav'd on her heavenly Brow?</L>
+<L>If she's but a woman, then stoop not so low:</L>
+<L>For the woman was made for the man, you must know.</L>
+<L><PB N="98" REF="53"/>Wil<GAP DESC="illegible" RESP="uom" EXTENT="1 letter" DISP="•"/> thou stoop to the checks</L>
+<L>Of the Feminine Sex,</L>
+<L>That dayly does study poor Mortals to vex?</L>
+<L>Our Grandfathers Bride</L>
+<L>Was took from his side,</L>
+<L>As intended to help him, but never to guide.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>But if Reason must yield to effeminate fits,</L>
+<L>If Frenzy must rule, and our Senses be splaid,</L>
+<L>If a man must run mad, and abjure all his wits;</L>
+<L>Then may he thus wretchedly doat on a Maid.</L>
+<L>If a courting I go,</L>
+<L>My pursuit should be so,</L>
+<L>I wou'd seem not to care whe'r I had her or no.</L>
+<L>That's a lawful Trepan;</L>
+<L>And if 't were but began,</L>
+<L>You'll see 'em run whining and cry for a man.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>A SONG. With the ANSWER.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>SInce you will needs my heart possess,</L>
+<L>'Tis just to you, I do confess</L>
+<L>The fault to whom 'tis given:</L>
+<L>It is to change much more inclin'd</L>
+<L>Than Women, or the Sea, or Wind,</L>
+<L>Or ought that's under Heaven.</L>
+</LG>
+<LG N="2">
+<PB N="99" REF="53"/>
+<HEAD>2.</HEAD>
+<L>The fair, the black, the gay, the sad,</L>
+<L>Which often makes me think 'twas mad,</L>
+<L>With one kind look would win it.</L>
+<L>So natural it loves to range,</L>
+<L>That it hath left success for change;</L>
+<L>And what's worse, glories in it.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Often when I am laid to rest,</L>
+<L>It makes me act like one possest:</L>
+<L>For still 'twill keep a puther.</L>
+<L>Though you alone I do esteem,</L>
+<L>Yet 'twill make me in a dream</L>
+<L>Court and enjoy another.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Nor will I hide from you this truth,</L>
+<L>Which has been from my very Youth</L>
+<L>A most egregious Ranger:</L>
+<L>For since from me it often fled,</L>
+<L>With whom it was both born and bred,</L>
+<L>'Twill scarce stay with a Stranger.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>But now, if you are not afraid,</L>
+<L>After these truths which I have said,</L>
+<L>To take this arrant Rover:</L>
+<L>Be not displeas'd, if I protest,</L>
+<L>I think the heart within my breast</L>
+<L>Will prove just such another.</L>
+</LG>
+<DIV3 TYPE="response">
+<PB N="100" REF="54"/>
+<HEAD>The ANSWER.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>SInce, Sir, your heart will then away,</L>
+<L>Let that be gone which will not stay;</L>
+<L>Yet I'll the same be ever:</L>
+<L>With wandring <HI>Drake</HI> you then may range,</L>
+<L>And like unconstant <HI>Proteus</HI> change:</L>
+<L>For my part I will never.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>But yet mistake me not, my mind</L>
+<L>Was never yet to Love inclin'd;</L>
+<L>Much less to any Lover:</L>
+<L>For I resolved am to be</L>
+<L>Still constant to Unconstancie;</L>
+<L>Which you'll by this discover.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Methinks it is a pretty sport</L>
+<L>To see how Rivals do retort,</L>
+<L>And grin upon each other.</L>
+<L>A frown on this man makes him sad;</L>
+<L>On that, doth make him raving mad;</L>
+<L>A smile insnares another.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>'Tis brave to hear such <HI>Gothams</HI> boast,</L>
+<L>And how each other they accost;</L>
+<L>Of which some are for fighting:</L>
+<L>And some in corners do appear,</L>
+<L>A wishing for their Panders there</L>
+<L>And some are for inditing.</L>
+</LG>
+<LG N="5">
+<PB N="101" REF="54"/>
+<HEAD>5.</HEAD>
+<L>This, Sir, 's Loves Paradise, wherein</L>
+<L>Not a few parts have acted bin.</L>
+<L>Since there your heart's a Ranger,</L>
+<L>It shall the honour have to pass,</L>
+<L>And bray there like a very Ass,</L>
+<L>And so shall not a stranger.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>A SONG call'd <HI>Francelia:</HI> With the ANSWER.</HEAD>
+<OPENER>To the Tune of <HI>Augusta.</HI></OPENER>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L><HI>FRancelia</HI>'s heart is still the same,</L>
+<L>Cold and hard as Winters morning,</L>
+<L>Round her Love is ever burning;</L>
+<L>Yet no sighs or tears can ever <HI>Yet no,</HI> &amp;c.</L>
+<L>Warm her Ice, or cool my Fever.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>So much I think and talk of her,</L>
+<L>That every Grove and Stream can name her;</L>
+<L>All the Nimphs and Ecchos blame her.</L>
+<L>If she keeps her cruel fashion, <HI>If she keeps,</HI> &amp;c.</L>
+<L>Onely Death can ease my Passion.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>All the Arts that Lovers have,</L>
+<L>All the Vows and all the Anguish,</L>
+<L>All the looks with which I languish,</L>
+<L>Move not her to any feeling; <HI>Move not,</HI> &amp;c.</L>
+<L>Beauty takes delight in killing.</L>
+</LG>
+<DIV3 TYPE="response">
+<PB N="102" REF="55"/>
+<HEAD>The ANSWER.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L><HI>FRancelia</HI>'s heart is still the same,</L>
+<L>Kind and free to all embraces:</L>
+<L>Though variety of faces</L>
+<L>Dayly court her to obtain her, <HI>Dayly,</HI> &amp;c.</L>
+<L>They can never, never gain her.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>So much she thinks and talks of me,</L>
+<L>That every Room i'th' house proclaims it;</L>
+<L>Nay, the babbling Eccho names it</L>
+<L>By a kind Reverberation, <HI>By a kind,</HI> &amp;c.</L>
+<L>That she's constant in her Passion.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>All the Arts her Lovers use</L>
+<L>In their Presents, Vows, and Treatings,</L>
+<L>Still appear to be but Cheatings.</L>
+<L>Nought she says or does can please 'em, <HI>Nought,</HI> &amp;c.</L>
+<L>Makes 'em wish for death to ease 'em.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>A Song set by Mr. <HI>Staggins.</HI> With the Answer.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>WHy shou'd we ere Beauty fade,</L>
+<L>Slaves to Care and Age be made,</L>
+<L>Since our flying Youth can no more be had?</L>
+<L><PB N="103" REF="55"/>Where Love and Mirth do call, let's go</L>
+<L>And crop new Joys each minute as they grow:</L>
+<L>To morrow's fate there's none can know.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Let's sing and laugh sad thoughts away,</L>
+<L>Mirth shall rule the active day;</L>
+<L>And the night to Raptures of Love we'll pay.</L>
+<L>Thus should Youth in Pleasures reign;</L>
+<L>And Gods that cannot put on Earth again,</L>
+<L>Shall wish for such delights in vain.</L>
+</LG>
+<DIV3 TYPE="response">
+<HEAD>The ANSWER.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>WHy should we ere think of Love?</L>
+<L>Pox upon't, the Gods above</L>
+<L>The Torments on't cou'd ne'r remove.</L>
+<L>But if Lovers we must be,</L>
+<L>God <HI>Bacchus</HI> shall be our Deitie:</L>
+<L>For Wine alone can make us free.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Let's sing and throw Love-thoughts away,</L>
+<L>Which still does make our Health decay,</L>
+<L>And our Wit too often run astray.</L>
+<L>But Wine is so divine a thing,</L>
+<L>Let's all its praises dayly sing,</L>
+<L>Seeing nought but that can pleasure bring.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="104" REF="56"/>
+<HEAD>An excellent SGNG.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>ALas, what shall I do!</L>
+<L>I have taken on me now</L>
+<L>To make a Song, I vow:</L>
+<L>A wo is me!</L>
+<L>I am commanded to't;</L>
+<L>I dare not stand it out,</L>
+<L>Though I'm put to the rout:</L>
+<L>It so must be.</L>
+<L>Thou shalt do't;</L>
+<L>Then stand to't,</L>
+<L>I'll set my Muse afoot,</L>
+<L>With a good chirping Cup.</L>
+<L>There may some hidden Mine</L>
+<L>Spring from the Juice of Wine;</L>
+<L>Then tak't and drink it up.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Pox on't, it will not do;</L>
+<L>I must have t'other two;</L>
+<L>I claim it as my due,</L>
+<L>And must lov't:</L>
+<L>For where the Land is dry,</L>
+<L>The good Husband doth hie</L>
+<L>To bring the water nigh</L>
+<L>To improv't.</L>
+<L>Here's the use of the Juice;</L>
+<L>Open me then the Sluce,</L>
+<L>And die my Wit in grain.</L>
+<L>That Soul's ne'r empty</L>
+<L>That takes it in plenty;</L>
+<L>'Tis the onely Spring of the Brain.</L>
+</LG>
+<LG N="3">
+<PB N="105" REF="56"/>
+<HEAD>3.</HEAD>
+<L>Madam, now you may see</L>
+<L>What Obedience is in me;</L>
+<L>I have done what may be</L>
+<L>For to obey.</L>
+<L>I have set my Muse on foot,</L>
+<L>With the sprightly Grape to boot,</L>
+<L>That commands me do't:</L>
+<L>'Tis they must sway.</L>
+<L>If my Pate, soon or late,</L>
+<L>Shall bring forth some conceit;</L>
+<L>To you my wit I owe.</L>
+<L>If I do fall flat,</L>
+<L>It is, mark you that,</L>
+<L>I'm a Cup too low.</L>
+<L>If I spoke sence enough,</L>
+<L>Or did speak but stuff,</L>
+<L>All is alike to me:</L>
+<L>I'll never pause upon't.</L>
+<L>You were the cause on't;</L>
+<L>And that's my Apologie.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>On a Beautiful Miss.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>I Know I'm no Poet;</L>
+<L>My Song will soon show it:</L>
+<L>But my Sorrows do flow like a Spring.</L>
+<L>Although they do shame me,</L>
+<L>The world cannot blame me,</L>
+<L>That I should thus dolefully sing.</L>
+<L><PB N="106" REF="57"/>My loss is so great,</L>
+<L>And such a Defeat</L>
+<L>No Mortal had ever before:</L>
+<L>For she had every Feature</L>
+<L>Of a beautiful Creature;</L>
+<L>And no man can say any more.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Her Lips, it is true,</L>
+<L>Were of Coventry-blue;</L>
+<L>But her Hair was a fine <HI>Bow</HI>-dye.</L>
+<L>Her Stature was low,</L>
+<L>But her Nose was not so:</L>
+<L>For 'twas O most delicate high.</L>
+<L>Her upper Lip thin,</L>
+<L>Which finely turn'd in,</L>
+<L>And her Teeth were as black as a coal:</L>
+<L>But her under stood out</L>
+<L>To receive from her Snout</L>
+<L>The droppings that came from each hole.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Though some Teeth she wanted,</L>
+<L>The rest were so planted,</L>
+<L>That Nature did shew no neglect:</L>
+<L>What in some she deni'd,</L>
+<L>She in others suppli'd,</L>
+<L>Because there should be no defect.</L>
+<L>'Tis true, we do know</L>
+<L>Sh'ad some gaps below,</L>
+<L>But yet it was plain to be seen</L>
+<L>That her upper Teeth met 'em,</L>
+<L>Nature so well had set 'em,</L>
+<L>Like Tallies they clapt in between.</L>
+</LG>
+<LG N="4">
+<PB N="107" REF="57"/>
+<HEAD>4.</HEAD>
+<L>Thus with a good grace</L>
+<L>They took their due place,</L>
+<L>And they stood hither and thither;</L>
+<L>We plainly may see</L>
+<L>They all did agree,</L>
+<L>And lovingly met together.</L>
+<L>To stand in a row</L>
+<L>Is common, you know;</L>
+<L>But the best and the newest way,</L>
+<L>Is to see, without doubt,</L>
+<L>Teeth stand in and out,</L>
+<L>As if they were dancing the Hay.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>No Needle nor Pin</L>
+<L>Was so sharp as her Chin,</L>
+<L>Which her Nose did so lovingly meet,</L>
+<L>That like Sister and Brother</L>
+<L>They kist one another;</L>
+<L>It was a great pleasure to see't.</L>
+<L>No Globe cou'd be found</L>
+<L>So perfectly round,</L>
+<L>As her Back was, by all that mind her.</L>
+<L>And to give her her due,</L>
+<L>Her Head turn'd like a Skrew</L>
+<L>To study the Globe behind her.</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>Her Breath it was strong,</L>
+<L>Her Legs short and long,</L>
+<L>To make up her perfect shape;</L>
+<L>Her Cheeks were like Lent</L>
+<L>When 'tis almost spent,</L>
+<L>And her Face was as sweet as an Ape.</L>
+<L>Her Skin might be taken</L>
+<L>For a gammon of Bacon;</L>
+<L><PB N="108" REF="58"/>Her Brests, never Trencher so flat;</L>
+<L>So fine was her mouth,</L>
+<L>That it stood North and South;</L>
+<L>And sh'ad delicate Eyes like a Cat.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>I think it is meet</L>
+<L>To speak of her feet,</L>
+<L>And tell you how well they were made;</L>
+<L>I will not deceive ye,</L>
+<L>But if you'll believe me,</L>
+<L>They had the true shape of a Spade,</L>
+<L>So fine and so flat;</L>
+<L>But when she did pat,</L>
+<L>So even a guard she did keep:</L>
+<L>With legs high and low,</L>
+<L>That when she did go,</L>
+<L>You'd think she were playing Bo-peep.</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>But this Narration</L>
+<L>Breeds such molestation</L>
+<L>Within my unfortunate breast,</L>
+<L>I can say no more,</L>
+<L>But must give it ore,</L>
+<L>And leave you to guess at the rest.</L>
+<L>Search all the world round,</L>
+<L>None such can be found,</L>
+<L>So well she pleased my Pallet;</L>
+<L>That I'll pine all my life</L>
+<L>For the loss of my Wife:</L>
+<L>And there is an end of my Ballet.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="109" REF="58"/>
+<HEAD>The Patient Man, and the Scolding Wife.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L><HI>M.</HI> WIfe, come gi' me thy hand now,</L>
+<L>And sit thee down by me;</L>
+<L>There's never a man in the Land now</L>
+<L>Shall be more loving to thee.</L>
+<L><HI>W.</HI> I hate to sit by such a Drone;</L>
+<L>Thou ly'st like a Log in my Bed.</L>
+<L>I had better a lain alone:</L>
+<L>For I still have my Maidenhead.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L><HI>M.</HI> Wife, prethee now leave off thy ranting,</L>
+<L>And let us both agree;</L>
+<L>There's nothing else shall be wanting,</L>
+<L>If thou wo't be ruled by me.</L>
+<L><HI>W.</HI> I will have a Coach and a Man,</L>
+<L>And a Saddle-horse to ride;</L>
+<L>I also will have a Sedan,</L>
+<L>And a Footman to run by my side.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L><HI>M.</HI> Thou sha't have all this, my dear Wife,</L>
+<L>And thou sha't bear the Sway;</L>
+<L>Nay, I'll provide thee good Cheer, Wife,</L>
+<L>'Gainst thou com'st from the Park or a Play.</L>
+<L><HI>W.</HI> I'll have every week a new Gown,</L>
+<L>And a Petticoat died in Grain,</L>
+<L>Of the modishest Silk in the Town;</L>
+<L>And a Page to hold up my Train.</L>
+</LG>
+<LG N="4">
+<PB N="110" REF="59"/>
+<HEAD>4.</HEAD>
+<L><HI>M.</HI> Thou sha't have this too, my sweet Wife,</L>
+<L>If thou't contented be,</L>
+<L>Or any thing else that is meet, Wife,</L>
+<L>If thou wo't be ruled by me.</L>
+<L><HI>W.</HI> I will have a Gallant or two,</L>
+<L>And they shall be handsome men;</L>
+<L>And I'll make you to know your kue,</L>
+<L>When they come in and go out agen.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L><HI>M.</HI> Methinks a couple's too few, Wife;</L>
+<L>Thou sha't have three or four:</L>
+<L>And yet I know thou't be true, Wife,</L>
+<L>Although thou hadst half a score.</L>
+<L><HI>W.</HI> I will have as many as I please,</L>
+<L>In spight of your teeth, you fool;</L>
+<L>And when I have the Pocky disease,</L>
+<L>'Tis you that shall empty my Stool.</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L><HI>M.</HI> Why how now, you brazen-fac'd Harlot!</L>
+<L>I'll make you to change your note;</L>
+<L>And if ever I find that you snarl at</L>
+<L>My actions, I'll bang your Coat.</L>
+<L>Nay, I'll make you to wait, you Flaps,</L>
+<L>At Table till I have din'd;</L>
+<L>And I'll leave you nothing but Scraps,</L>
+<L>Till I find you better inclin'd.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L><HI>W.</HI> Sweet Husband, I now cry <HI>Peccavi;</HI></L>
+<L>You know we women are frail:</L>
+<L>And for the ill words that I gave ye,</L>
+<L>Ask pardon, and hope to prevail.</L>
+<L>For now I will lie at your foot,</L>
+<L>Desiring to kiss your hand;</L>
+<L>Nay, cast off my Gallants to boot,</L>
+<L>And still be at your command.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="111" REF="59"/>
+<HEAD>The Doating Lover.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>WAs ever man so happy as I, Sir!</L>
+<L>My Mistriss has gi'n me a kiss:</L>
+<L>But I full long at her door did lie, Sir,</L>
+<L>Before I cou'd compass this.</L>
+<L>I cring'd, and I bow'd,</L>
+<L>And I sung to my Crowd;</L>
+<L>But never cou'd get it before.</L>
+<L>And if but another I may be allow'd,</L>
+<L>I'd lie there a twelve month more.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Though for a time she did deprive me</L>
+<L>The favour of seeing her face,</L>
+<L>That balmy Kiss did so revive me,</L>
+<L>It made me take heart a grace.</L>
+<L>And if as I see</L>
+<L>Such Vertue there be</L>
+<L>In one poor innocent Kiss,</L>
+<L>I'll give my Estate, whatere be my fate,</L>
+<L>To get such another as this.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>For he that's possest with Riches and Honour,</L>
+<L>May meet with a cruel Dame;</L>
+<L>'Twill signifie nothing until he has won her</L>
+<L>To answer his amorous flame.</L>
+<L>Let him hunt, let him hawk,</L>
+<L>Let him drink, let him talk,</L>
+<L>And strive to forget her disdain:</L>
+<L>He ne'r in his breast will have any rest,</L>
+<L>Until he comes to her again.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="112" REF="60"/>
+<HEAD>A Song on a Wedding.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>NOw that Loves Holiday is come,</L>
+<L>And <HI>Madge</HI> the Maid hath swept the Room,</L>
+<L>And trim'd her Spit and Pot;</L>
+<L>Awake, my merry, my merry Muse, and sing</L>
+<L>The Revels, and that other thing</L>
+<L>That must not be forgot.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>As the gray Morning dawn'd, 'tis sed,</L>
+<L><HI>Clarissa</HI> broke out of her bed,</L>
+<L>Like <HI>Cynthia</HI> in her pride;</L>
+<L>Where all the Maiden-Lights that were</L>
+<L>Compriz'd within our Hemisphere,</L>
+<L>Attended at her side.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>But wot you then, with much ado</L>
+<L>They drest the Bride from top to toe,</L>
+<L>And brought her from her Chamber,</L>
+<L>Deck'd in her Robes and Garments gay,</L>
+<L>More sumptuous than the flow'rs in <HI>May,</HI></L>
+<L>Or Stars inshrin'd in Amber.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>The sparkling Bullies of her Eyes,</L>
+<L>Like two eclipsed Suns did rise</L>
+<L>Beneath her Cristal Brow,</L>
+<L>To shew by those strange accidents,</L>
+<L>Some changeable Events</L>
+<L>Were like to hap below.</L>
+</LG>
+<LG N="5">
+<PB N="113" REF="60"/>
+<HEAD>5.</HEAD>
+<L>Her Cheeks bestreakt with white and red,</L>
+<L>Like pretty Tel-tales of the Bed,</L>
+<L>Presag'd the blustring night</L>
+<L>With his incircling arms and shade,</L>
+<L>Resolv'd to swallow and invade,</L>
+<L>And skreen her Virgin-light.</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>Her Lips, those threads of Scarlet-die,</L>
+<L>Wherein Loves Charms and Quiver lie,</L>
+<L>Legions of Sweets did crown;</L>
+<L>Which smilingly did seem to say,</L>
+<L>O crop me, crop me, whilst you may;</L>
+<L>Anon they're not mine own.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>Her Breasts, those melting Alps of Snow,</L>
+<L>On whose fair hill, in open show,</L>
+<L>The God of Love lay napping,</L>
+<L>Like swelling Buts of lively Wine,</L>
+<L>Upon the Ivory stalls did shine,</L>
+<L>To wait the lucky tapping.</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>Her Waste, that slender Type of man,</L>
+<L>Was but a small and single span;</L>
+<L>Yet I dare safely swear,</L>
+<L>He that whole thousands has in fee,</L>
+<L>Wou'd forfeit all, so he might be</L>
+<L>Lord of the Mannor there.</L>
+</LG>
+<LG N="9">
+<HEAD>9.</HEAD>
+<L>But now, before I pass the Line,</L>
+<L>Pray, Reader, give me leave to dine,</L>
+<L>And pause here in the middle;</L>
+<L>The Bridegroom and the Parson knock,</L>
+<L>With all the Hymeneal flock,</L>
+<L>The Plum-cake and the Fiddle.</L>
+</LG>
+<LG N="10">
+<PB N="114" REF="61"/>
+<HEAD>10.</HEAD>
+<L>Whenas the Priest <HI>Clarissa</HI> sees,</L>
+<L>He star'd as't had bin half his fees</L>
+<L>To gaze upon her face.</L>
+<L>And if the Spirit did not move,</L>
+<L>His Continence was far above</L>
+<L>Each sinner in the place.</L>
+</LG>
+<LG N="11">
+<HEAD>11.</HEAD>
+<L>With mick stir he joyn'd their hands,</L>
+<L>And hamper'd 'em in Marriage-bands</L>
+<L>As fast as fast might be.</L>
+<L>Where still methinks, methinks I hear</L>
+<L>That secret Sigh in every ear,</L>
+<L>O Love, remember me.</L>
+</LG>
+<LG N="12">
+<HEAD>12.</HEAD>
+<L>Which done, the Cook he knockt amain,</L>
+<L>And up the Dishes in a train</L>
+<L>Came smoaking two and two.</L>
+<L>With that they wipt their mouths and sate,</L>
+<L>Some fell to quaffing, some to prate;</L>
+<L>Aye marry, and welcome too.</L>
+</LG>
+<LG N="13">
+<HEAD>13.</HEAD>
+<L>In Pairs they thus impal'd the Meat,</L>
+<L><HI>Roger,</HI> and <HI>Marget,</HI> and <HI>Thomas,</HI> and <HI>Kate,</HI></L>
+<L><HI>Rafe</HI> and <HI>Bess, Andrew</HI> and <HI>Maudlin,</HI></L>
+<L>And <HI>Valentine</HI> eke, with <HI>Sybil</HI> so sweet,</L>
+<L>Whose Cheeks on each side of her Snuffers did meet,</L>
+<L>As round and plump as a Codlin.</L>
+</LG>
+<LG N="14">
+<HEAD>14.</HEAD>
+<L>When at the last they'd fetcht their fees,</L>
+<L>And mir'd their stomach up to th' knees</L>
+<L>In Claret, for and good Chear,</L>
+<L>Then, then began the merry din:</L>
+<L>For 'twas thought they were all on the Pin.</L>
+<L>O what kissing and clipping was there!</L>
+</LG>
+<LG N="15">
+<PB N="115" REF="61"/>
+<HEAD>15.</HEAD>
+<L>But as luck would have't, the Parson said Grace,</L>
+<L>And to frisking and dancing they shuffled apace.</L>
+<L>Each Lad took's Last by the fist;</L>
+<L>Who there did kiss her and turn her, until</L>
+<L>The fat of her face ran down like a Mill;</L>
+<L>He toul'd for the rest of the Grist.</L>
+</LG>
+<LG N="16">
+<HEAD>16.</HEAD>
+<L>In sweat and in dust having wasted the day,</L>
+<L>They enter'd on the last Act of the Play.</L>
+<L>The Bride to her Bed was convey'd;</L>
+<L>Where knee-deep each hand fell down to the ground,</L>
+<L>And in seeking the Garter, much pleasure was found;</L>
+<L>'Twou'd a made a mans arm have stray'd.</L>
+</LG>
+<LG N="17">
+<HEAD>17.</HEAD>
+<L>This Clutter ore, <HI>Clarissa</HI> lay</L>
+<L>Half-bedded, like the peeping day,</L>
+<L>Behind <HI>Olympus</HI> Cap;</L>
+<L>Whilst at her head each twittering Girl</L>
+<L>The fatal Stockin quick did whirl,</L>
+<L>To know the lucky hap.</L>
+</LG>
+<LG N="18">
+<HEAD>18.</HEAD>
+<L>The Bridegroom in at last did ruffle,</L>
+<L>All disappointed in the bustle,</L>
+<L>The Maids had shav'd his Breeches.</L>
+<L>But let him not complain, till then</L>
+<L>In such a storm, I can tell when,</L>
+<L>He sav'd his other Stitches.</L>
+</LG>
+<LG N="19">
+<HEAD>19.</HEAD>
+<L>And now he bounc'd into the Bed,</L>
+<L>Even just as if a man had sed,</L>
+<L>Fair Lady, have at all.</L>
+<L>Where twisted at the hug they lay,</L>
+<L>Like <HI>Venus</HI> and the sprightful Boy:</L>
+<L>O who wou'd fear the fall!</L>
+</LG>
+<LG N="20">
+<PB N="116" REF="62"/>
+<HEAD>20.</HEAD>
+<L>Thus both with Loves sweet Tapers fir'd,</L>
+<L>A thousand balmy Kisses tir'd,</L>
+<L>They cou'd not wait the rest.</L>
+<L>But out the Folk and Candles fled,</L>
+<L>And to't they went; but what they did,</L>
+<L>There lies the Cream o'th' Jest.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>A positive Farewel to Love.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>WHen in the month of <HI>January,</HI></L>
+<L>Ripe Apples grow on Trees;</L>
+<L>When Butter doth in <HI>Fehruary,</HI></L>
+<L>At once both thaw and freeze;</L>
+<L>When Horses flie, Beasts headless walk;</L>
+<L>When Chairs and Stools do move;</L>
+<L>When Mutes as fast as Women talk;</L>
+<L>Then will I fall in love.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>When Cherries in the month of <HI>March</HI></L>
+<L>As ripe are as in <HI>June;</HI></L>
+<L>When men instead of Corn sow Starch;</L>
+<L>When Bears do sing in tune;</L>
+<L>When Fishes on the Trees do chatter;</L>
+<L>When Womens Tongues ne'r move;</L>
+<L>When Men forbear to lie and flatter;</L>
+<L>Then will I fall in love.</L>
+</LG>
+<LG N="3">
+<PB N="117" REF="62"/>
+<HEAD>3.</HEAD>
+<L>If when it rains, the ground be dry;</L>
+<L>Or when 'tis foul, fair weather;</L>
+<L>When Sun and Moon shall in the Sky</L>
+<L>Both meet and dance together;</L>
+<L>When the Heavens fall where th' Earth doth stand,</L>
+<L>And th' Earth doth mount above,</L>
+<L>And I can grasp both in my hand;</L>
+<L>Then will I fall in love.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>A Lover he no Will doth know;</L>
+<L>He cannot speak or stir:</L>
+<L>He is a Child, and cannot go,</L>
+<L>But as he's mov'd by her.</L>
+<L>Whilst I still by my self do move,</L>
+<L>And to my Pleasures bend:</L>
+<L>Then farewel unto shitten Love.</L>
+<L>And so I'll make an end.</L>
+</LG>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="63"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

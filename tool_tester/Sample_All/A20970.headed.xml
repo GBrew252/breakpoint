@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The Merrie historie, of the thrie friers of Ber[wic]ke</TITLE></TITLESTMT><EXTENT>Approx. 31 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2003-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A20970</IDNO>
+
+
+<IDNO TYPE="stc">STC 7349.5</IDNO>
+
+<IDNO TYPE="stc">ESTC S357</IDNO>
+
+<IDNO TYPE="eebo citation">22302602</IDNO>
+
+<IDNO TYPE="oclc">ocm 22302602</IDNO>
+
+<IDNO TYPE="vid">25366</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A20970)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 25366)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1475-1640 ; 1751:13)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The Merrie historie, of the thrie friers of Ber[wic]ke</TITLE><AUTHOR>Dunbar, William, 1460?-1520?</AUTHOR></TITLESTMT><EXTENT>19 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>Printed at Aberdene :</PUBPLACE>
+<PUBLISHER>By Edvvard Raban, for David Melvill,</PUBLISHER>
+<DATE>1622</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>In verse.</NOTE><NOTE>Running title: The three friers of Berwicke.</NOTE><NOTE>Sometimes attributed to William Dunbar--Cf. STC (2nd ed.).</NOTE><NOTE>Signatures: A-B⁴ C².</NOTE><NOTE>Imperfect: stained and torn, with some loss of print.</NOTE><NOTE>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2002-04</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2002-05</DATE><RESPSTMT><RESP>SPi Global</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2002-06</DATE><RESPSTMT><RESP>Judith Siefring</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2002-06</DATE><RESPSTMT><RESP>Judith Siefring</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2002-07</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A20970">
+<STC T="S">7349.5</STC>
+<BIBNO T="oclc">22302602</BIBNO>
+<VID>25366</VID>
+</IDG>
+<TEXT>
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<P>THE MERRIE HISTORIE, OF THE THRIE FRIERS OF BER∣<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/>KE.</P>
+<P>Printed at Aberdene, By Edvvard Raban, For David Melvill, 1622.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="2"/>
+<PB N="3" REF="2"/>
+<HEAD>THE THREE FRIERS OF BERWICKE.</HEAD>
+<L><SEG REND="decorInit">A</SEG>S it befell, and happened in déede,</L>
+<L>Upon a River, which is called Twéede:</L>
+<L>At Twéedes faire Mouth, there standes a Noble Towne,</L>
+<L>Where manie Lordes have béene, of great Renowne:</L>
+<L>And manie a worthie Ladie, fayre of Face:</L>
+<L>And manie a fresh lustie Gallant was:</L>
+<L>Into this Towne, which called is Berwicke,</L>
+<L>Upon the Sea there standeth none it like.</L>
+<L>For it well Walled is about with Stone:</L>
+<L>And double Stankes are casten, manie one.</L>
+<L>And then the Cas<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>le is so strong, and wight:</L>
+<L>With statelie Towers, and Turrets on the hight.</L>
+<L>The Car-Walles closed craftilie: with-all,</L>
+<L>The <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> most subtillie to fall,</L>
+<L><PB REF="3"/><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> they please to draw them up on hight:</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> Folkes by anie kinde of Might</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> winne the same, by Craft, or Subtiltie.</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> within is fayre Artille<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ie.</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> my dayes, where ever I have beene,</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/>, most goodlie, and most well beseene:</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> Towne, the Water, the Castell, and the Land:</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> Ualleyes greene, upon the other hand.</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> gr<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>t Crosse Kirke, and éeke the Maison Dew:</L>
+<L>Th<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> Iacobines, they Friers are of whyte hew.</L>
+<L>The Carmelites, and the Minouries éeke:</L>
+<L>The foure Orders of Friers were not to séeke,</L>
+<L>¶ These Friers were in Berwicks Town once dwelling,</L>
+<L>Where as it hapned in a fayre May Morning,</L>
+<L>That two of the Iacobine Milke-whyte Friers,</L>
+<L>As they were wont, and used manie yeares,</L>
+<L>To walke amongst their Brethren up on Land.</L>
+<L>Those sillie Friers passed foorth from hand.</L>
+<L>Fri<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> Allane was one: Frier Robert the other:</L>
+<L>As Friers fashion is, with Wyves could well gloother.</L>
+<L>Right wonderous well they pleased the Wyves:</L>
+<L>And tolde them fayre Tales, of Holie Sainctes lyves:</L>
+<L>Till Night was at hand, and they should goe home.</L>
+<L>But right tyred, and wet, was Frier Allane.</L>
+<L>For hée was olde, and might not well travell,</L>
+<L>Because hee had some spyce of the Gravell.</L>
+<L>Frier Robert was young, could byde Raine and Winde:</L>
+<L>H<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e bare both their Gownes, yet bode not behinde.</L>
+<L>Yea, bore all their Geare: <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>or hee was full wight.</L>
+<L>By that it drew neare towardes the Night:</L>
+<L>And they were comming to the Towne full neare.</L>
+<L>Frier Allane sayde, Robert, good Brother deare,</L>
+<L>It is so late, I feare the Yate bee closed:</L>
+<L>And wee are tyrde, and wondrous ill disposed</L>
+<L>To <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> out of the Towne: except that wee</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> House this <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/></L>
+<L><PB REF="3"/>¶ So there did dwell a wondrous good Hostl<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>er<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/></L>
+<L>Without Berwicke, in-to a fayre Manniere:</L>
+<L>Simon Lawrell hee called was by name:</L>
+<L>A fayre blythe Wyfe hee had, and comelie Dame:</L>
+<L>But shee was something duike, and dangerous.</L>
+<L>These sillie Friers came then to that Mans House;</L>
+<L>Saluting her: and becked courteouslie:</L>
+<L>And shee to them did answere perfectlie.</L>
+<L>Frier Robert then inquirde for the Good-man?</L>
+<L>And in this wyse shee quicklie answered than:</L>
+<L>Hee went from Home, GOD wots, on Wedn<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>sday,</L>
+<L>In the Countrey, to seeke for Corne and Hay,</L>
+<L>And other thinges, where-of wee stand in neede.</L>
+<L>Frier Allane <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ayde, I pray Great GOD him speede,</L>
+<L>And keepe him safe and sound in his travaile.</L>
+<L>Frier Robert sayde, Dame fill a Stoupe with Aile,</L>
+<L>That wée may drinke: for I am wondrous drye.</L>
+<L>With that the Good-wyfe went full spéedilye,</L>
+<L>And filde the Stoupe, and brought them Bread and Chiese<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>They ate, and dranke, and sate at their owne ease.</L>
+<L>Frier Allane sayde to the Good-wyfe in hye,</L>
+<L>Come hither, Dame, and set you downe mee by,</L>
+<L>And fill once againe the Stoupe, I you pray,</L>
+<L>Before wee goe full well wee will you pay.</L>
+<L>The Friers were blythe, and merrie Tales <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ould tell.</L>
+<L>But even with that they heard their owne Prayer Bell,</L>
+<L>Within the Abbie, and were sore agast,</L>
+<L>For then they knew the Yates were closed fast,</L>
+<L>That they might not from thence-foorth get entrie.</L>
+<L>The Good-wyfe then they prayde for Charitie,</L>
+<L>To graunt them Lodging, on<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>lie for one night.</L>
+<L>But shee to them did aunswere high on hight,</L>
+<L>Mine Husband is from Home, as I you tolde:</L>
+<L>And I, GOD knowes, dare no wayes bee so bolde,</L>
+<L>To harber Friers within the House with mee.</L>
+<L>What would <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> Simo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> ✚ Benedicitie<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> ✚ ✚</L>
+<L><PB REF="4"/><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> I durst never looke intill his Face:</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> Ladie Mari<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> kéepe mée from such a case:</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> of perrill, and from Shame.</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> Frier Allan<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> sayde, Fayre Dame,</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> Gods sake heare mée, what I soone shall say,</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> us out, wée shall bée dead ere day.</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> way is ill, and wée are tyrde, and wet:</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> know) it is so verie late:</L>
+<L>Th<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> closde, that wee can not get in:</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> in no cas<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> wee may win.</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> it doeth behoove us to byde still,</L>
+<L>And put us whollie, Dame, in-to your will.</L>
+<L>¶ The Good-wyfe looked on those Friers tway,</L>
+<L>And at the last unto them did shee say:</L>
+<L>Yee byde not heere, by Him that hath us coft,</L>
+<L>Except yee list to lye up in yonde Loft,</L>
+<L>Which is well wrought even in-to the Halles ende:</L>
+<L>Yee shall finde Straw, and Cloathes I shall you sende.</L>
+<L>If yee list not, then passe your wayes in feire:</L>
+<L>None other wayes will I repaire you hee<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e.</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>er Mayden then shee sendeth up before,</L>
+<L>And <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ade them follow both, and stay no more.</L>
+<L>¶ They were full blythe, and did as shee them kende,</L>
+<L>And up they went, to lodge at the Halles ende.</L>
+<L>Intill a Loft, the Mayde with Corne and Hay,</L>
+<L>Did make their Bedde: and then shee went her way,</L>
+<L>Closing the Trappe: and they remayned still.</L>
+<L>In to that Lo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>t they had not all their will.</L>
+<L>Frier Allane lay downe, as hee best might.</L>
+<L>Frier Robert sayde, I vowde to walke this Night:</L>
+<L>Who wots? perchance some Sportes I may espye.</L>
+<L>Thus in the Loft I let the Friers lye,</L>
+<L>¶ And of the Good-wyfe nowe will I spea<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ore.</L>
+<L>Shee was right glad the Friers were closde ther<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>For shee had made a Tryst that selfe-same Night,</L>
+<L>Frier Iohn her Love his Supper for to dight.</L>
+<L><PB N="7" REF="4"/>And shee would have none other Companye,</L>
+<L>Because Frier Iohn that Night with her should lye:</L>
+<L>Who dwelling was in-to that selfe-same Towne:</L>
+<L>And a Blacke Frier hee was, of great Renowne.</L>
+<L>¶ Hee governed all whole the Abbacie:</L>
+<L>Silver and Golde hee had aboundantlie.</L>
+<L>Hee had a privie Posterne of his owne,</L>
+<L>That hee might ishe, and passe away unknowne</L>
+<L>But thus in Berwickes Towne I leave him still,</L>
+<L>Byding his tyme: and turne againe I will,</L>
+<L>¶ To this fayre Wyfe. Now shée the Fyre <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/></L>
+<L>And throng the fattest Capons on the Spitte:</L>
+<L>And éeke fatte Conies to the Fyre shee say:</L>
+<L>And bade her Mayden, in all haste shee may,</L>
+<L>To flame, and turne, and roast them tenderlye:</L>
+<L>Then to her Chamber is shee gone in hye.</L>
+<L>¶ Shee pulde her Makin, gave it buffets tway</L>
+<L>Upon the Cheeke: and till it can shee say,</L>
+<L>Thou shouldst bee blythe, and gladde at my Request:</L>
+<L>These Mulles of thine are called to a Feast.</L>
+<L>Shee putteth on a Kirtle fyne of Redde:</L>
+<L>A fayre whyte Courtch shee bindes about her Head.</L>
+<L>Her Belt was wrought of Silke, and Silver fyne:</L>
+<L>Embrodred Purse: her Keyes hung clincking syne.</L>
+<L>On everie Finger shee put on Ringes two:</L>
+<L>And was as proude as anie Papingo.</L>
+<L>Shee layde on a Board-cloath of costlie Greene:</L>
+<L>Of Silver-Worke shee was full well fore-séene.</L>
+<L>Then foorth shee came, in-to the Hall, anone,</L>
+<L>And askt her Mayde, if shee heard anie one?</L>
+<L>¶ With that Frier Iohn was knocking at the Yate:</L>
+<L>Whose knocke shée knew, and quicklie him in let.</L>
+<L>Shée well-comde him upon a good manniere.</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> her: and sayde, Mine owne Love deare,</L>
+<L>H<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/>e there a paire of Bottles, good, and fyne:</L>
+<L>They holde a gallon (full) of Gascoin Wyne.</L>
+<L><PB REF="5"/><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> pa<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/> of Partri<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>h, even new slaine:</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> a <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>aund full Bread, of fynest Maine.</L>
+<L>This ha<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e I brought to you, mine onelie Deare:</L>
+<L>That you and I there-with might make good Cheare.</L>
+<L>Since it is so that Simon is from Home,</L>
+<L>I will talke right homelie with you, Madame.</L>
+<L>¶ Shee <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ayeth, Yee are full heartli<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> well-come heere<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>In such a wyse, when that you will appeare.</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ith that shee smyled wondrous love<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>omlie.</L>
+<L>Againe hee thrust her Hand right privilie.</L>
+<L>Thus at their Spor<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e I will them yet leave still,</L>
+<L>Till other tyme: and turne againe I will,</L>
+<L>And tell you of those <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>illie Friers two.</L>
+<L>Were locked in the Loft, amongst the Straw.</L>
+<L>¶ Frier Allane on his Cou<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>h <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ull still did lye.</L>
+<L>Frier Robert had a little jealousye:</L>
+<L>For in his Heart hee had great perceiving:</L>
+<L>And through the Boardes hee mad<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> (with some sharpe thing)</L>
+<L>A little Hole, in such a wyse got hee,</L>
+<L>That all they did below hee could well see:</L>
+<L>Yea, <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>verie worde hee heard which they did say:</L>
+<L>When shee was proude, and wondrous fresh, and gay.</L>
+<L>And what shee wo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>re upon her Head above.</L>
+<L>Shee called him both Lemman, Heart, and Love.</L>
+<L>Full Prelate-lyke hee sate in to the Chaire:</L>
+<L>And shee did round Epistles in his Eare.</L>
+<L>¶ Thus sporte they them, and make great Melodie.</L>
+<L>And when shee saw the Supper was r<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>adie,</L>
+<L>Shee quicklie went, and de<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>kt the Board anone:</L>
+<L>And then the paire of Bottels hath shee tane,</L>
+<L>And set them <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>wne, upon the Board, her by.</L>
+<L>And even with that they heard the Good-man cry:</L>
+<L>Who knocked at the Yate, and shouted fast.</L>
+<L>When they him heard, then were they all agast.</L>
+<L>And good Frier Iohn was something in effray:</L>
+<L>Full soone start up, and would have beene away.</L>
+<L><PB N="9" REF="5"/>But all for nought: hee might no way win out<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>The Good-wyfe spak<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> then with a visage stout,</L>
+<L>Yonde is Simon, tha<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> makes all this deray,</L>
+<L>Whom I might tho<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e had bidden yet away.</L>
+<L>Ile quyte him this, if I live halfe a yeare,</L>
+<L>For troubling us, when wee sho<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ld make good Cheare.</L>
+<L>Because of him wee may not byde together:</L>
+<L>I doe repent at this tyme yee came hither.</L>
+<L>Wee were so well, if hee had bidden away.</L>
+<L>What shall I doe? Alace, Frier Iohn can say.</L>
+<L>The Good-wyfe sayde, I holde it for the best,</L>
+<L>That I you hyde, till hee bee brought to rest,</L>
+<L>In-to yonde Trogh, which <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>tandeth in the Nooke,</L>
+<L>Would holde sixe Bowles of Me<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>le when that shee booke.</L>
+<L>¶ There-under then shee ca<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>sde him creepe in hye,</L>
+<L>Where hee had rowme enough a ease to lye.</L>
+<L>Shee closed him, and then wen<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> on her way?</L>
+<L>And to her Mayden softlie can hee say,</L>
+<L>Take way this Geare, and s<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>aken out the Fyrs:</L>
+<L>Goe, close the Boarde, and take away yonde Chayre.</L>
+<L>Soone, locke up all, with-in the Panterie:</L>
+<L>Both Meate, and Drinke: ha done full speedilie.</L>
+<L>The Comes, Capons, and th<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> wylde Fowles fyne:</L>
+<L>The Maine-shot Bread, the <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ottels with the Wyne.</L>
+<L>Shee lockt up all, and <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ight <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>he House so cleane,</L>
+<L>That no lykenesse of Feast <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ight there bee seene.</L>
+<L>The Good-wyfe then, with-<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ut longer delay,</L>
+<L>Did quicklie put off all her <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>esh Array:</L>
+<L>And then shee went in-to her Bedde anone,</L>
+<L>And let her Husband knòcke with-out, alone.</L>
+<L>UUhen hee with knocking tyred was, <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ryde,</L>
+<L>And went about un-to the o<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>her syde:</L>
+<L>Unto a Window, stoode at her Beddes-head,</L>
+<L>Saying, Alison, awake, for CHRISTES dead.</L>
+<L>When Allison had tholde him long to crye,</L>
+<L>As halfe a-sléepe, shee answearde crabbedlye,</L>
+<L><PB REF="6"/>How? Who is that, that knowes so well my name?</L>
+<L>Goe hence, quod shee, mine Husband is from Home.</L>
+<L>And I will harber heere no Guestes, P<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>rfay:</L>
+<L>Therefore, I pray you, wende on, wende on, your way:</L>
+<L>For at this time yee may not lodged bee.</L>
+<L>Then Simon spake, Deare Wyfe, ken yee not mee?</L>
+<L>I am your Simon, God-man of this Place.</L>
+<L>Are yee that, Simon? my Spouse, shee sayes, Alace!</L>
+<L>Through miss-knowledge I had almost miss-done.</L>
+<L>Who would have thought yee should so late come Home?</L>
+<L>Shee starteth up, and getteth Light in hye,</L>
+<L>And openeth then the Yate full speedilye.</L>
+<L>Shee let him in on the most heartlie wyse,</L>
+<L>And tooke from him th<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> Geare, as was the guyse.</L>
+<L>Hee bade the Mayden <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> on the Fyre,</L>
+<L>And get him <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> shee should have good Hyre.</L>
+<L>¶ The Good-wyfe s<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>de, Sweet Simon yee may trow,</L>
+<L>Heere is no Meate this <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ight that gaines for you.</L>
+<L>At least, Good Dame, g<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e fetch mee Chiese and Bread:</L>
+<L>Goe fill the Stoope, and holde it to mine Head.</L>
+<L>For I am hungrie, wearie, wette, and colde.</L>
+<L>Then up shee rose, (as Reason bade shee should:)</L>
+<L>Covered the Boarde, an<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> set on Bread of Rye:</L>
+<L>A sowst Neats foote, a Sheepes head set shee by.</L>
+<L>Even such colde Meate shee brought to him belyve,</L>
+<L>And filde the Stoupe. <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> Simon waxed blythe.</L>
+<L>Hée ate, and dranke, and <GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/>de, By All-hollow,</L>
+<L>I fare right well, had I b<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> one Good Fellow.</L>
+<L>Dame, drinke with mee, a<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>d eate, I doe you pray.</L>
+<L>The Good-wyfe sayde, Th<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> Devill-a-bitte I may:</L>
+<L>It were more meete now in your Bedde to bee,</L>
+<L>Than heere to sit, desyring Companie.</L>
+<L>¶ Frier Robert sayde unto his Brother deare,</L>
+<L>Alace, I would the Good-man kende us heere.</L>
+<L>Who wots? Perchaunce some better might hee fare.</L>
+<L>For sure it is, mine Heart will aye bee sore,</L>
+<L><PB REF="6"/>If yonde course meate with Simon birnis<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/>,</L>
+<L>While daintie Cheare sta<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>des in the Panterie.</L>
+<L>And with that worde hee coached lowde anone.</L>
+<L>Till Simon heard, and asked, Who is yonde?</L>
+<L>The Good-wyfe sayde, Yonde are your Friers twey.</L>
+<L>Quoth Simon then, Tell mee what Frier<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> are they?</L>
+<L>She sayde, Frier Robert, and sillie olde Allane,</L>
+<L>Who all this day have walked in great paine.</L>
+<L>UUhen they came heere it was so verie late,</L>
+<L>Prayer Bell was rung, and closed was their Yate:</L>
+<L>There-fore above I gave them Harberie.</L>
+<L>The Good-man sayde, So GOD have parte on mee,</L>
+<L>The selfe-same Friers are heartlie well-come hither:</L>
+<L>Goe call them downe, that <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> may drinke together.</L>
+<L>The Good-wyfe sayde, I <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> let them bee:</L>
+<L>They had rather sleepe, nor sit in <GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/>panie.</L>
+<L>Unto the Mayden spake the Good-man than,</L>
+<L>Goe, pray them both to come to mee fr<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> hand.</L>
+<L>The Mayden soone did open the Trappe Doore,</L>
+<L>And sayde, Yee Friers, come down<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> upon the Floore.</L>
+<L>Frier Robert sware, and sayde, By sweete Sainct Iohn,</L>
+<L>The Good-man is even right well-come home.</L>
+<L>Alace, hee had ill travelling this day.</L>
+<L>And wee shall come unto him, yee may say.</L>
+<L>Then suddenlie they start up both anone,</L>
+<L>And downe the Trappe, with right good speede, they came:</L>
+<L>Saluted Simon, as soone as they him see.</L>
+<L>And hee againe did halsse them courteouslie,</L>
+<L>And sayde, Come heere, <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>ne owne poore Brethren deare:</L>
+<L>And sit you downe, even besyde mee, heere:</L>
+<L>For I am now alone, as yee may see:</L>
+<L>Where-fore, I pray you, beare mee companie:</L>
+<L>And take a parte of such Cheare as I have.</L>
+<L>Frier Allane sayde, I pray GOD you to save.</L>
+<L>For heere is enough of GODS Graces goode.</L>
+<L>Then Simon aunswered, Now by the Roode,</L>
+<L><PB REF="7"/><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> Crowne of Golde for mee,</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> Meate, and Drinke amongst us three.</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> sayde, UUhat Meate now would yee have?</L>
+<L>Or els<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> what Drink<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> desire y<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e for to crave?</L>
+<L>For I <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> sundrie Pracktic<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>es well discearnde,</L>
+<L>Beyond<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> t<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> S<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>as, in Pari<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>, which I learnde:</L>
+<L>Th<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> wh<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>h I gladlie proove will for your sake,</L>
+<L>And for our Dames, who did us lodging make.</L>
+<L>Il<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> take in hand, if yée will counsell keepe,</L>
+<L>To c<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>use you see, even hee<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>, before yee sleepe,</L>
+<L>Of the best Meate that is in this Countrie,</L>
+<L>And Gascoin Wyne, if ani<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> that there bee.</L>
+<L>Or if it bee with-in an hun<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>reth myle,</L>
+<L>It shall bee heere, with-in <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>honnie whyle.</L>
+<L>The Good-man had <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/>vell at this Tale,</L>
+<L>And sayde, Deare <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/>, mine Heart will nere bee heale,</L>
+<L>Excep<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> ye<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> try<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> your S<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ill before wee parte,</L>
+<L>Through your Science, Necr<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>mancie, or Arte,</L>
+<L>To make us Sporte. And then the Frier up rose:</L>
+<L>Taking his Booke, un-to the Floore hee goes.</L>
+<L>¶ Hee turnes the Leaves, and reades a little space:</L>
+<L>And to the East hee turnes about his Face.</L>
+<L>Then to the West hee turneth, looking downe.</L>
+<L>And closde the Booke, and sayde an Orasoun.</L>
+<L>But still his Eyes were on the Panterye,</L>
+<L>And on the Trogh, where-in Frier Iohn did lye.</L>
+<L>Then sate hee downe, and <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> abacke his Hoode:</L>
+<L>Moste fearfullie gaping as he<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> were woode.</L>
+<L>UUhiles sate hee still, his Handes abroade fast spreading</L>
+<L>And other whiles up-on his <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>oke was reading.</L>
+<L>And whiles with Handes and Heeles full lowde would clap:</L>
+<L>And other whiles hee would both glowre, and gape.</L>
+<L>Thus did Frier Robert reade the House about:</L>
+<L>Five, or sixe times, so lowlie could hee stoupe,</L>
+<L>When that hee came near<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> ha<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>d the Panterye:</L>
+<L>Where-at our Dame had won<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>er great envye.</L>
+<L><PB N="13" REF="7"/>For in her Heart shee had some perceiving,</L>
+<L>That Frier Robe<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>t knew well her governing.</L>
+<L>Shee saw him give the Panterie such state,</L>
+<L>Untill her-sel<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e shee sayde, (full well I wate)</L>
+<L>I am but shent, the Frier knowes all my thought:</L>
+<L>UUhat shall I doe? <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>lace, what have I wrought!</L>
+<L>If Simon know, it will bee a deare Doing.</L>
+<L>By that the Frier had left his studying:</L>
+<L>Moste furious<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>e hee stampeth on the Floore,</L>
+<L>Then came againe, and sayde, All hayle, my Cure.</L>
+<L>Now is it done, and yee shall have plentie,</L>
+<L>Bread, Meate, and Wyne, the best in this Countri<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>:</L>
+<L>There-fore, faire Dame, get-up full speedilie,</L>
+<L>And goe your wayes, in-to <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> Panterie:</L>
+<L>Soone open it, and see yee bring us fyne</L>
+<L>A paire of Bottles, full of Ga<GAP DESC="illegible" RESP="pdcc" EXTENT="4 letters" DISP="••••"/>m Wyne:</L>
+<L>UUhich holde more than a Gallon, I warrand:</L>
+<L>And bring us éeke the Maine-Bread in the Maund.</L>
+<L>Two roasted Conies, fatte, and hote with-all:</L>
+<L>The Capons éeke to us, Dame, bring yee shall.</L>
+<L>Foure Partriches, I know there is no lesse:</L>
+<L>Of Ploovers, Dame, see that yee bring a messe.</L>
+<L>The Good-wyfe saw Rob made no variance:</L>
+<L>She knew that hee had seene her governance.</L>
+<L>And thought it was no boote for to denye,</L>
+<L>But quicklie went un-to the Panterye:</L>
+<L>Then shee brought foorth, together with her Mayde,</L>
+<L>All that the Frier before un-to her sayde:</L>
+<L>Starting abacke, as shee were in effray:</L>
+<L>Then crost her-selfe, and smyling can shee say,</L>
+<L>Ha, <HI>Benedicitie,</HI> who hath heere beene?</L>
+<L>Or who hath ever such lyke Marvels seene?</L>
+<L>So great a wonder is now hapned heere:</L>
+<L>UUhat shall I say? hee is an holie Frier.</L>
+<L>I finde it sooth <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> all that hee did say:</L>
+<L>Mayde, take all foorth, and on the Boarde it lay.</L>
+<L><PB REF="8"/><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> and Wy<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e, and other good thinges more:</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/>, Capons, as yee have heard before.</L>
+<L>Partriches, Ploovers, to the Board shee brought.</L>
+<L>Frier Rob knew all, and saw there wanted nought:</L>
+<L>But all was sooth, shee brought at his devyse.</L>
+<L>When Simon saw it happened on this wyse,</L>
+<L>Hee had much wonder, and sware by the Moone,</L>
+<L>That Frier Robert full well his déede had doone.</L>
+<L>Thou art, quod hee, a Man of great Science,</L>
+<L>That hast so soone made thus great Purveyance.</L>
+<L>Thou bringest heere, through thy great Subtiltie,</L>
+<L>And by thine Arte, and great Philosophie.</L>
+<L>In full good time it was, that thou came hither.</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> powre out Wyne, <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>d let us drinke together,</L>
+<L>And make good Ch<GAP DESC="illegible" RESP="pdcc" EXTENT="4 letters" DISP="••••"/>, <GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/>er this longsome day:</L>
+<L>For I have <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/>ous wildsome way.</L>
+<L>Now GOD be<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> pr<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ys<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e, heere is sufficiance,</L>
+<L>To serve us all, through your good governance.</L>
+<L>And then anone they dranke all round about:</L>
+<L>Of Gascoin Wyne, the Friers playde still Cup-out.</L>
+<L>They sported them, and made full merrie Cheare,</L>
+<L>And éeke full lowde sang Simon, and the Frier.</L>
+<L>Even an this wyse the darksome Night ore-drave,</L>
+<L>Wanting no-thing that th<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>y could wish to have.</L>
+<L>¶ The Good-man s<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>de to the Good-wyfe in hye,</L>
+<L>Come hither, Dame, an<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>et you downe mee by,</L>
+<L>And take a parte of s<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ch <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> wee have heere,</L>
+<L>But first of all, I pray <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/>, thanke the Frier,</L>
+<L>For his benigne business<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>, <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>nd great cure,</L>
+<L>Which hee hath done to <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> upon the Floore:</L>
+<L>Hee brought fyne Meate, and Wyne aboundantlie,</L>
+<L>The<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e-fore, forsooth, let us right merrie bee.</L>
+<L>But sing, or say, or use what sporte they please,</L>
+<L>Unto our Dame it was but little ease.</L>
+<L>An-other thing shee had into her thought,</L>
+<L>How shee might scape, and not <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>o Shame bee brought,</L>
+<L><PB N="15" REF="8"/>On Frier Robert shee looked grie<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ouslie,</L>
+<L>And thought through him shee should discov<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>red be<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/></L>
+<L>And in her heart shee did despa<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e lyke-wyse,</L>
+<L>That they did e<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>te her Dainties in that gu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>se.</L>
+<L>Yet still shee sate, and durst not make her moane.</L>
+<L>What ever they did, shee let them aye alone.</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ut shee dranke with them in-to companie,</L>
+<L>With f<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>igned cheare, and heart sad and heavie.</L>
+<L>But they were blythe enough, GOD wots, and sang,</L>
+<L>For aye the Wyne was raking them amang.</L>
+<L>Till at the last, that they w<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/> drunke each one,</L>
+<L>Then Simon sayde un-to the Frier anone.</L>
+<L>Forsooth I marvell much ho<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> this can bee,</L>
+<L>In so short time, that yee so suddenlie,</L>
+<L>Hath brought to us such sto<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> of <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>intie Cheare.</L>
+<L>There-of have yee no marve<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> (quod the Frier)</L>
+<L>I have a Page full privie of mine owne,</L>
+<L>When ere I please, will come to mee unknowne,</L>
+<L>And bring to mee such thinges as I would have:</L>
+<L>Looke what I please, I neede it not to crave.</L>
+<L>There-fore bee blythe, and live in patience,</L>
+<L>And trust mee, Sir, Ile doe my diligence,</L>
+<L>If that yee please at this time to have more,</L>
+<L>You shall it have: my lyfe sh<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ll stand there-fore.</L>
+<L>Incontinent that same heer<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> shall yee see:</L>
+<L>If yee protest yee will kee<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> secresie.</L>
+<L>Let no man know that I ca<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> doe such thing.</L>
+<L>The Good-man sware, an<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> sayde, By Heavens King,</L>
+<L>It shall bee kept full secret, <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> for mee.</L>
+<L>But, Brother deare, your <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ervant would I see,</L>
+<L>If it you pleasde, that wee might drinke together:</L>
+<L>For I wot not if yee may aye come hither,</L>
+<L>To have your Friendship, in such case as this.</L>
+<L>The Frier sa<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>de, Sir, a<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> I would faine have Blisse,</L>
+<L>Although yee shoul<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> him se<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>, I you warrand,</L>
+<L>It can-not bee, yee sh<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ll <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>ell understand,</L>
+<L><PB REF="9"/><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> yee may see him in his kinde,</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> yee, a<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/>e, would runne out of your minde.</L>
+<L>Hee is so soule, and uglie for to see,</L>
+<L>I dare not venture for to take on mee</L>
+<L>To bring him hither, even in-to your sight:</L>
+<L>And namelie now, so late with-in the Night.</L>
+<L>Except it bee in such a sorte of wyse,</L>
+<L>Him to trans-forme, or else to dis-a-guyse</L>
+<L>From his owne shape, in-to some other state.</L>
+<L>Then Simon sayde, Let us have no d<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>bate,</L>
+<L>As pleaseth you, that lyke-wyse pleaseth mee.</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ee as hee will, yet faine I would him see.</L>
+<L>In-to what shape would yee hee should appeare?</L>
+<L>Th<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> Good-man sayde, In lykenesse of a Frier,</L>
+<L>In Habite whyte, lyke as your selves are aye:</L>
+<L>For the whyte Sprites doe no man harme, they say.</L>
+<L>¶ Frier Robert sayde, That wayes it may not bee:</L>
+<L>That dare I not gr<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>unt un-to you, truelie,</L>
+<L>That hee appeare in-to our Habite whyte:</L>
+<L>It were un-to our Or<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>er great despyte,</L>
+<L>That anie such un-worthie Wight as hee</L>
+<L>In-to our Habite anie man should see.</L>
+<L>Yet since it pleaseth you, hee shall appeare,</L>
+<L>Yee shall him see in lykenesse of a Frier,</L>
+<L>In Habite gray, which he<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>-usde for to weare:</L>
+<L>In such a wyse, that hee s<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>ll no man d<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>re.</L>
+<L>If you please this, then do<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> as I addyse,</L>
+<L>Holde you full close, and <GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/>ll in anie wy<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e.</L>
+<L>What ever it bee yee eyth<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ee, or heare,</L>
+<L>Speake yee no worde, nor make no kinde of <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>iere,</L>
+<L>But holde you still, till I have done my Cure.</L>
+<L>And yee, Good-man, must stand upon the Floore,</L>
+<L>With hardie Heart, a good Staffe in your Hand<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>Have yee no dread: I shall you aye warran<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/></L>
+<L>¶ Then Simon sayde <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> assent <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> so:</L>
+<L>Then up hee start, and got <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/></L>
+<L><PB N="17" REF="9"/>In-to his Hand: and on the Flo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>re hee star<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>,</L>
+<L>Some-thing affrayde, though stalward was his Heart.</L>
+<L>Un-to the Frier then spake the Good-man soone,</L>
+<L>Now tell mee, Master, what ye<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> would have done?</L>
+<L>¶ No-thing, quod hee, but holde you clos<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>, and still:</L>
+<L>What ever I doe, take yee good héede there-till.</L>
+<L>Neare hand the Doore goe hyde you privilie:</L>
+<L>When I <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>id you stryke, then lay on hardilie.</L>
+<L>Up-on the Necke bee sure to hit him right.</L>
+<L>Ile warrand that (quoth hee) with all my might.</L>
+<L>¶ Thus on the Floore I leave him standing still,</L>
+<L>Hyding him-selfe, and turne againe I will</L>
+<L>To Frier Robert, who tooke his Booke in hye,</L>
+<L>And turned over the Leaves full busilye,</L>
+<L>A full long space. And when hee had done so,</L>
+<L>Towa<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>des the South, with-out speaking wordes moe,</L>
+<L>Hee went apace: and on this wyse spake hee,</L>
+<L>Hay, hoe, Hurls-baigs, ryse, I now conjure thee:</L>
+<L>Stand up, foule F<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ende, and so<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>e to mee appeare,</L>
+<L>In Gray Habite, and likeness<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> of a Frier,</L>
+<L>From out the Trogh, where thou a-long do<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>st lye:</L>
+<L>Stretch foorth thy Limbes, cast off the Stone in hye.</L>
+<L>Now tumble over the Trogh, that wee may see</L>
+<L>Thy forme, and shape, before us openlie.</L>
+<L>With-in this place see that thou no man grieves:</L>
+<L>But draw thine Handes farre in, with-in thy Slieves.</L>
+<L>And pull thy Cowle low downe up-on thy Face,</L>
+<L>And thanke thy God thou gettest so good grace.</L>
+<L>With speede goe packe thee, to thine owne Receate.</L>
+<L>Let this bee done, and make no more debate.</L>
+<L>And as thou passest see thou make no Fray,</L>
+<L>W<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>h anie wight, but swiftlie passe away.</L>
+<L>But I commaund, and charge thee heere before,</L>
+<L>That in this place thou come not anie more.</L>
+<L>¶ Now over the Staire see that thou get good speede.</L>
+<L>For <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> will moe Perils breede.</L>
+<L><PB N="18" REF="10"/><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> that Frier Iohn, who under the Trogh lay,</L>
+<L>Stretche<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> him <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>one: but was in great effray.</L>
+<L>Yet up her rose, it might no better bee,</L>
+<L>And off the Trogh <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> Stone soone tumbled hee.</L>
+<L>All what Fri<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>r Rob had sayde, hee did ere long:</L>
+<L>Towardes the Doore hee <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>owned for to gang,</L>
+<L>UUith heavie chea<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e, and drierie countenance.</L>
+<L>For ne<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> before had hapned him such ch<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/>ce.</L>
+<L>¶ And when Frier Robert <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> him passing by,</L>
+<L>Un-to the Good-man full <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> can hee crye,</L>
+<L>Stryke, Simon, stryke: <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> now is tyme for thee.</L>
+<L>UUith that Simon full fellon Flappes let fli<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>.</L>
+<L>UUith his Burdoun hee hit him on the Necke:</L>
+<L>He<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> was so fierce hee fell quyt<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>re a Secke,</L>
+<L>And brake his Head up-on <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ustard Stone.</L>
+<L>UUith that Frier Iohn <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> over the Staire is gone<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></L>
+<L>In such a wyse, for-sooth, hee mist the Trappe,</L>
+<L>And in a Ditch hee fell, such was his happe,</L>
+<L>Well fourtie foote of de<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>th, under the Staire.</L>
+<L>Yet hee got out, with Cloathing no-thing faire.</L>
+<L>Full drierilie up-on his <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> hée stoode.</L>
+<L>That myrie hole had done him little good.</L>
+<L>Yet over the Wall hee climbe<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> hastilie,</L>
+<L>UUas made all round about, with Stones, full hie.</L>
+<L>And of his scape in Heart hee was full faine.</L>
+<L>I thinke hee should bee l<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>th <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> come againe.</L>
+<L>¶ At last Frier Robert <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> aba<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ke, and saw,</L>
+<L>UUhere the Good-man was ly<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/> wondrous low,</L>
+<L>Up-on the Floore: and bleedin<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> was his Head:</L>
+<L>Hee caught him up, thinking hee had beene dead.</L>
+<L>Frier Robert then th<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ught go<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> stay no more,</L>
+<L>But presentlie tooke Simon to <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/>.</L>
+<L>And when the <GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/>de had well <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/> his Face,</L>
+<L>Hee did revive, with-in a little <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/></L>
+<L>And then Frier Robert asked <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/></L>
+<L>UUhat ayled him to bee so <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span" DISP="〈…〉"/></L>
+<L><PB N="19" REF="10"/>Hee sayde, Yonde Fiende hath made mee in <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/>.</L>
+<L>Let bee, quod Rob, the worst is now away.</L>
+<L>Bee merrie, Man, and see yee mourne no more,</L>
+<L>For yee have stricken him quyte over the Staire.</L>
+<L>I saw him slippe, if I the sooth may tell:</L>
+<L>Under the Staire in-to a Myre hee fell.</L>
+<L>Tush, let him goe, <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ee was a Grace-lesse Guest:</L>
+<L>And bowne yee to your Bedde, <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> holde it best.</L>
+<L>¶ Thus Simons Head up-on <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word" DISP="〈◊〉"/> Stone was broken:</L>
+<L>And éeke Frier Iohn in-to the Myre is loppen.</L>
+<L>Hee wette his Head, and drest his Cloathes full ill.</L>
+<L>And the Good-wyfe could not get halfe her will.</L>
+<L>This is a Feate, which happe<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/> of a Frier.</L>
+<L>The <HI>LORD</HI> helpe us, and <HI>CH<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/>T</HI> His Sonne so deare.</L>
+<TRAILER>Finis.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

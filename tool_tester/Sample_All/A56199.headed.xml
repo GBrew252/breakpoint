@@ -1,0 +1,2551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">Romes master-peece, or, The grand conspiracy of the Pope and his iesuited instruments, to extirpate the Protestant religion, re-establish popery, subvert lawes, liberties, peace, parliaments, by kindling a civill war in Scotland, and all His Majesties realmes, and to poyson the King himselfe in case hee comply not with them in these their execrable designes revealed out of conscience to Andreas ab Habernfeld, by an agent sent from Rome into England, by Cardinall Barbarino, as an assistant to con the Popes late nuncio, to prosecute this most execrable plot, (in which he persisted a principall actor severall yeares) who discovered it to Sir William Boswell His Majesties agent at the Hague, 6 Sept. 1640. he, under an oath of secrecie, to the Arch-bishop of Canterbury (among whose papers it was casually found by Master Pyrnne, May, 31. 1643) who communicated it to the King, as the greatest businesse that ever was put to him / published by authority of Parliament by William Prynne ...</TITLE><AUTHOR>Prynne, William, 1600-1669.</AUTHOR></TITLESTMT><EXTENT>Approx. 146 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2003-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A56199</IDNO>
+
+
+<IDNO TYPE="stc">Wing P4056</IDNO>
+
+<IDNO TYPE="stc">ESTC R7561</IDNO>
+
+<IDNO TYPE="eebo citation">12814996</IDNO>
+
+<IDNO TYPE="oclc">ocm 12814996</IDNO>
+
+<IDNO TYPE="vid">94126</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A56199)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 94126)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 820:29)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">Romes master-peece, or, The grand conspiracy of the Pope and his iesuited instruments, to extirpate the Protestant religion, re-establish popery, subvert lawes, liberties, peace, parliaments, by kindling a civill war in Scotland, and all His Majesties realmes, and to poyson the King himselfe in case hee comply not with them in these their execrable designes revealed out of conscience to Andreas ab Habernfeld, by an agent sent from Rome into England, by Cardinall Barbarino, as an assistant to con the Popes late nuncio, to prosecute this most execrable plot, (in which he persisted a principall actor severall yeares) who discovered it to Sir William Boswell His Majesties agent at the Hague, 6 Sept. 1640. he, under an oath of secrecie, to the Arch-bishop of Canterbury (among whose papers it was casually found by Master Pyrnne, May, 31. 1643) who communicated it to the King, as the greatest businesse that ever was put to him / published by authority of Parliament by William Prynne ...</TITLE><AUTHOR>Prynne, William, 1600-1669.</AUTHOR><AUTHOR>Habervešl z Habernfeldu, Ondřej.</AUTHOR><AUTHOR>Boswell, William, Sir, d. 1649.</AUTHOR><AUTHOR>Laud, William, 1573-1645.</AUTHOR></TITLESTMT><EDITIONSTMT><EDITION>The second edition.</EDITION></EDITIONSTMT><EXTENT>[6], 36, [1] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>Printed at London :</PUBPLACE>
+<PUBLISHER>For Michael Sparke, Senior,</PUBLISHER>
+<DATE>1644.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Reproduction of original in Huntington Library.</NOTE><NOTE>William Laud was the Archbishop of Canterbury. cf. DNB.</NOTE><NOTE>Published also in 1678 under title: The grand designs of the Papists.</NOTE><NOTE>Includes letters of Ondřej Habervešl z Habernfeldu and Sir William Boswell.</NOTE><NOTE>Part of letter and text in Latin and English.</NOTE><NOTE>Errata: p. [6]</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Charles --  I, --  King of England, 1600-1649.</TERM><TERM>Catholic Church --  Great Britain --  Controversial literature.</TERM><TERM>Great Britain --  History --  Civil War, 1642-1649.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2002-03</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2002-05</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2002-07</DATE><RESPSTMT><RESP>Sara Gothard</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2002-09</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Rekeyed and resubmitted</ITEM></CHANGE><CHANGE><DATE>2002-10</DATE><RESPSTMT><RESP>Rina Kor</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2002-10</DATE><RESPSTMT><RESP>Rina Kor</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2002-12</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A56199">
+<STC T="W">P4056</STC>
+<BIBNO T="oclc">12814996</BIBNO>
+<VID>94126</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>ROMES
+MASTER-PEECE:
+<HI>OR,</HI>
+The Grand Conspiracy of the Pope
+and his Iesuited Instruments, to extirpate the Pro∣testant
+Religion, re-establish Popery, subvert Lawes, Liber∣ties,
+Peace, Parliaments, by kindling a Civill War in <HI>Scotland,</HI>
+and all his Majesties Realmes, and to poyson the King himselfe
+in case hee comply not with them in these their
+execrable Designes.</P>
+<P>Revealed out of Con<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>cience to <HI>Andreas ab Habernfeld,</HI> by an A∣gent
+sent from <HI>Rome</HI> into <HI>England,</HI> by <HI>Cardinall Barbarino,</HI> as an Assistant to <HI>Con</HI> the
+Popes late <HI>Nuncio,</HI> to prosecute this most Execrable Plot, (in which he persisted a
+principall Actor severall yeares) who discovered it to Sir <HI>William Boswell</HI> his
+Majesties Agent at the <HI>Hague, 6 Sept.</HI> 1640. He, under an Oath of Secre∣sie,
+to the <HI>Arch-bishop of Canterbury</HI> (among whose Papers it
+was casually found by Master <HI>Prynne, May,</HI> 31. 1643.)
+who communicated it to the King, <HI>As the
+greatest businesse that ever was
+put to him.</HI></P>
+<P>Published by Authority of Parliament.
+By <HI>William Prynne,</HI> of Lincolnes Inne, Esquire.</P>
+<Q><BIBL>1 <HI>COR.</HI> 4. 5. </BIBL>The Lord will bring to light the hidden things of Darknesse, and will make manifest the counsels of the hearts, and then shall every man have praise of God.</Q>
+<P>It is Ordered by the Committee of the House of Commons in Parliament concerning
+Printing, this first day of <HI>August,</HI> 1643. that this Book, Intituled, <HI>Romes Master-Peece,</HI>
+be forthwith Printed by <HI>Michael Spark,</HI> Senior.
+Iohn White.</P>
+<P>The second Edition.</P>
+<P>Printed at London for <HI>Michael Sparke,</HI> Senior. 1644.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>TO
+The Right Honourable
+ROBERT Earle of WARWICK,
+Baron of LEEZE,
+AND
+LORD ADMIRALL of all the
+Parliaments Sea Forces.</HEAD>
+<OPENER><SALUTE>Right Honourable,</SALUTE></OPENER>
+<P><SEG REND="decorInit">Y</SEG>Our eminent zealous Sincerity, and incomparable Activity
+both by <HI>Sea</HI> and <HI>Land</HI> in defence of our undermined, endan∣gered
+<HI>Protestant Religion, Lawes, Liberties, Parlia∣ment,
+Nation,</HI> against the many late <HI>secret Plots,</HI> and
+<HI>open Hostilities</HI> of <HI>Antichristian Romish Vipers,</HI> who
+for sundry yeares together, have desperately conspired, and
+most vigorously prosecuted their utter <HI>extirpation,</HI> and now almost accom∣plished
+this their <HI>infernall Designe,</HI> unlesse Gods infinite mercy (which
+hath never hitherto beene wanting to us in times of greatest extremity) mi∣raculously
+disappoint it; hath induced me to dedicate this <HI>Master-p<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ece</HI> of
+the <HI>Romanists,</HI> and <HI>Jesuites Iniquity,</HI> to your most <HI>Noble Patronage.</HI></P>
+<P>Wherein your Lordship may summarily behold the <HI>most horrid conspi∣racy</HI>
+against our <HI>Reformed Religion,</HI> and the very life of the <HI>King our So∣veraigne</HI>
+in case he comply not with them (as now alas He doth overmuch in
+all things) that ever was discovered to the world: and clearly descry, who
+have beene the <HI>reall originall Contrivers,</HI> Fomenters of all those late
+bloody civill warres, which have suddenly transformed our peaceable, plea∣sant
+delectable Edens of <HI>England, Ireland, Scotland,</HI> into most desolate ru∣full
+<HI>Acheldamaes,</HI> yea <HI>Golgothaes,</HI> to the just amazement of our selves,
+and astonishme<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>t of all our <HI>Neighbour Nations:</HI> who now more lament
+our present <HI>Infelicity,</HI> then ever their envied our pristine <HI>Tranquility.</HI></P>
+<P><PB REF="3"/>
+It was an admirable act of <HI>Divine Providence,</HI> that a <HI>principall Actor</HI>
+in this Conspiracy, sent from <HI>Rome</HI> to promote it, should out of remorse of
+conscience prove the first <HI>Revealer</HI> of it to Sir <HI>William Boswell:</HI> But it
+was a <HI>farre more wonderfull hand of God;</HI> that after this <HI>Plot</HI> had been
+long concealed from publique knowledge by <HI>Canterbury,</HI> who smothered it;
+hee should unexpectedly rayse <HI>Me</HI> up from my forraigne <HI>Close Prison</HI> of
+<HI>Mount-Orgueil Castle in Jersey,</HI> (where <HI>Canterbury</HI> and his <HI>Confe∣derates</HI>
+had intombed me sundry yeares, as<NOTE N="*" PLACE="marg">Psal. 31. 12. Psal. 88. 4, 5.</NOTE> <HI>a dead man out of minde,</HI>
+whom they remembred no more, reputing me <HI>among the number of those
+that go down into the pit, and as one quite cut off by their hands,</HI> ne∣ver
+likely to rise up again till the generall Resurrection;) and not only re∣duce
+me with <HI>Honour</HI> and <HI>Triumph</HI> to my <HI>Native Countrey,</HI> restore me to
+my former liberty, and <HI>Profession</HI> by the <HI>Parliaments</HI> impartiall Iustice; and
+make my former and my fellow <HI>Sufferers</HI> unjust <HI>Censures,</HI> the ruine of the
+<HI>S<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>archamber, Highcommission, and Prelates,</HI> who censured us; but like∣wise,
+beyond all expectation, send this <HI>Archprelate</HI> (though the Kings chief
+Favourite) a Prisoner to the <HI>Tower of London,</HI> to which I was first of all
+committed by his malice; and employ me to search his <HI>Papers</HI> there, where he
+had formerly twice searched mine by his Instruments, and therehy make Me
+both the <HI>Discoverer</HI> and <HI>Publisher</HI> of this second <HI>Gunpowder Plot</HI> to the
+world, after a long concealment of it, (and that in a time most seasonable;)
+which otherwise, in all probability, had never come to light.<NOTE N="a" PLACE="marg">Rom. 11. 33.</NOTE> <HI>O the depth
+of the Riches both of the wisdome and knowledge of God! how un∣searchable
+are his Judgments, and his wayes past finding out!</HI></P>
+<P><HI>This adorable</HI> strange Providence <HI>of the</HI><NOTE N="b" PLACE="marg">Dan. 2. 22, 23.</NOTE> God of Heaven, (who revea∣leth
+the deep and secret things, and knoweth what is in the darknesse, and
+makes known unto us the Kings matter,) <HI>as it should ascertaine us, of his</HI>
+future Protection <HI>of our</HI> Church and State <HI>against these</HI> Romish Con∣spirators,
+<HI>whose trayterous</HI> Designes <HI>hee hath formerly most admirably dis∣covered,
+and frustrated from time to time; So it should adde much dignity
+and acceptation to this</HI> Discovory, <HI>and enlarge our gratulations to God
+for it.</HI></P>
+<P>To his Blessing I shall in my Prayers recommend this <HI>Master-Piece,</HI> to∣gether
+with your <HI>Lordships</HI> Person, and all your <HI>Heroick Endeavours</HI> for
+our <HI>Religions,</HI> our <HI>Republikes</HI> security, and for ever remaine</P>
+<CLOSER><SIGNED>Your Lordships most
+affectionate Servant
+<HI>William Prynne.</HI></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="3"/>
+<P>SInce the first Publishing in Print of the ensuing <HI>Plot</HI> and <HI>Letters</HI> by <HI>Authority</HI>
+and <HI>Directions</HI> from the House of <HI>Commons,</HI> which imployed me in this service;
+I have been credibly informed by some <HI>Friends,</HI> that many <HI>inoredulous,</HI> over-<HI>su∣spitious
+Malignants</HI> (who think there is as much <HI>falshood, dishonesty</HI> in <HI>others;</HI>
+as in themselves) have questioned the <HI>Truth</HI> of the ensuing <HI>Plot, Letters, Papers;</HI>
+and <HI>confidently,</HI> if not <HI>impudently, averred</HI> them <HI>to be meere Fictions,</HI> without any
+sha∣dow, proofe, reason, ground at all, but their own malicious <HI>misbeliefe.</HI></P>
+<P>But to satisfie all the world in this Particular, and these slanderous <HI>Infidels</HI> too, if not
+<HI><GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>rodigiously obstinate:</HI> I doe here attest upon the <HI>faith</HI> and <HI>honour of a Christian;</HI></P>
+<P>First, that I found all these ensuing <HI>Letters, Papers</HI> in the <HI>Archbishop of Canterburies
+Chamber</HI> in the <HI>Tower</HI> of <HI>London</HI> under his own custody, when I was unexpectedly
+employed by the <HI>Close Committee,</HI> in that <HI>undesired</HI> service of searching it, which the
+<HI>Archbishop</HI> himself, his Servants, the Gentlemen and Souldiers, who then accompanied
+me, with those who employed me, can witnesse, and have already oft attested.</P>
+<P>Secondly, that they were all <HI>Originals,</HI> no<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> <HI>Copies,</HI> under the <HI>severall hands</HI> and <HI>Seals</HI>
+of Sir <HI>William Boswell,</HI> Knight (the Kings own <HI>Leger Embassador</HI> at <HI>Hague</HI> in the <HI>N<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>∣therlands;)
+Andreas ab Habernfeld,</HI> (a Noble <HI>Bohemian,</HI> Physitian to the <HI>Queen of
+Bohemia;</HI> a man of known sincerity and untainted reputation:) The <HI>Archbishop
+of Canterbury</HI> (who must be the sole forger of the <HI>Plot,</HI> and <HI>Letters,</HI> if fained;) and
+of the <HI>King</HI> himself: As the <HI>Letters, Papers</HI> themselves (o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>t viewed by divers of the
+<HI>Lords, Commons,</HI> and other persons of <HI>quality</HI> for their satisfaction, all now remai∣ning
+in the Custody of a <HI>Committee of the House of Commons,</HI> where any incredulous
+<HI>Thomas,</HI> who dares trust his own senses, may view them at his leasure) will evidence
+to all who know their <HI>Hands</HI> or <HI>Seales.</HI></P>
+<P>Thirdly, that the <HI>Archbishop</HI> himselfe, and his <HI>Servants,</HI> have confessed the <HI>verity,
+reality</HI> of the <HI>Plot</HI> and <HI>Papers</HI> to divers who repaired to them for their own resolu∣tion
+therein; and the <HI>Archbishop</HI> in his late <HI>Petition</HI> to the <HI>Lords</HI> in <HI>Parliament</HI> for
+restitution of these <HI>Papers,</HI> hath againe fully acknowledged their reality.</P>
+<P>Fourthly, (which puts all out of question) had these <HI>Letters, Papers</HI> been <HI>Forgeries,</HI>
+or <HI>Impostures,</HI> not reall <HI>verities,</HI> his Majesty himselfe, or the <HI>Oxford Mercury</HI> for him;
+at least the <HI>Archbishop,</HI> Sir <HI>William Boswell, Andreas ab Habernfeld,</HI> or some of their
+Instruments, being all living, and the Presses open; would long ere this have detected
+this forgery, and disclaimed these Papers and Letters in Print: which neither of them
+have done in seven Months space; whereas each of them on the contrary (as I am
+informed) have avouched these severall Letters, Papers to be genuine, and their own.</P>
+<P>Finally, it had been a strange <HI>over-sight,</HI> yea <HI>madnesse</HI> in my self, and a great <HI>dishonour</HI>
+to, a most <HI>impolitique devise</HI> in the <HI>Parliament,</HI> to publish forged <HI>Letters</HI> in these emi∣nent
+living <HI>Persons</HI> names; who want neither <HI>will, meanes,</HI> nor <HI>power</HI> immediately
+to detect, refute, and manifest such a grosse <HI>Imposture</HI> to all the world, to the <HI>eternall
+infamy</HI> of the <HI>Publishers.</HI> Let Malignants and Papists then, with all others, who have
+any sparks of <HI>Honesty,</HI> or <HI>Policy,</HI> remaining in them, henceforth rest assured of the <HI>verity,
+reality,</HI> of this <HI>Plot,</HI> these <HI>Papers,</HI> though they have formerly doubted of them; else
+let them perish in their <HI>groundlesse Infidelity;</HI> who will neither believe the King,
+<PB REF="4"/>
+the <HI>Archbishop,</HI> Sir <HI>William Boswell,</HI> nor <HI>Hab<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>rnfeld,</HI> under their <HI>Hands</HI>
+and <HI>Seales;</HI> nor yet the <HI>Parliament,</HI> nor <HI>Discoverer</HI> of them (by an admirable
+unexpected Divine Providence) who abhorres all fictions, frauds, Impostures whatsoever, and <HI>can doe
+nothing against the truth,</HI><NOTE PLACE="marg"><GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> C<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>r. 13. 8.</NOTE> <HI>but for the truth.</HI></P>
+<P>I shall only adde this to the Premises; that the multitude of his Majesties royall
+<HI>Letters of Grace,</HI> and <HI>Discharges</HI> of <HI>Popish Recusants, Priests, Iesuits,</HI> together with his <HI>Marriage-Articles, Oathes, Letter to the Pope,</HI> and other evidences lately published
+in <HI>The Popish Royall Favourite, the late horrid Rebellion in Ireland,</HI> the <HI>Rebels</HI> seising
+of the <HI>Goods, Estates,</HI> and <HI>Persons of all the English Protestans there to the Kings
+use;</HI> and their bloody massacre by blood-thirsty Papists,<NOTE N="a" PLACE="marg">See the Acts of the General Assembly of the <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ebels at <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ilkenny, Anno</HI> 164<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>. printed at <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ondon Marc<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/></HI> 6. 1643. T<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e Myste<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>y of lniquity, <HI>p. 32. 33. &amp;c.</HI></NOTE> <HI>For the exaltation of the
+holy Roman Catholike Church, and the advancement of his Maiesties service,</HI> &amp;c.
+And that by vertue <HI>of his Majesties speciall Commission under the Great Seale of</HI> Scot∣land,
+and <HI>Letters</HI> of direction sent therewith, <HI>for the <HI>effecting of this great Work;</HI></HI>
+which Commission, together with the Arguments evidencing the reality thereof,
+you may read at large in the <HI>Mystery of iniquity</HI> newly published, pag. 34. to 42. his
+Majesties Articles of Pacification with those Rebels, ratified under the <HI>Great Seale
+of England,</HI> wherein he cals these bloody Rebels, his <HI>Roman Catholike Subjects,</HI> and
+<HI>good Subiects</HI> in some copies; and gives them Authority <HI>to persecute his Protestant
+Subiects</HI> in Irelands, with license <HI>to send such Agents to his Majesty from time to time</HI>
+as they shall think fit; accepting a grant of <HI>thirty thousand eight hundred pound</HI> from
+them, and making their base <HI>Irish money currant in England</HI> by a speciall Proclama∣tion;
+his sending for the Souldiers sent by the Parliament into <HI>Ireland</HI> to subdue the
+Rebels, and for Irish Rebels too, into <HI>England,</HI> and that <HI>By his Maiesties speciall
+Commission and Authority;</HI> (as<NOTE N="b" PLACE="marg">The 48 week ending <HI>Decem,</HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>. <HI>p.</HI> 681. 685.</NOTE> <HI>Mercurius Aulicus</HI> informs us twice together)
+and <HI>administring an Oath to every Officer and Souldier that shall be transported,</HI> To <HI>the
+utmost of his power, and hazard of his life to fight against the Forces now under the con∣duct
+of the Earle of Essex, and against all other Forces whatsoever that are or sha<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>l be
+raised under what pretence soever, contrary to his Majesties Command or Authority▪</HI>
+in defence of our Protestant Religion, Lawes, Liberties. All these particulars laid
+together, will infallibly demonstrate the reality of this designe, and how farre it
+hath prevailed even with the King himselfe; whose heart and person (now wholly
+captivated and stolne away from the Parliament and Kingdome by these Conspi∣rators)
+the good God rescue out of their Traytorly hands, and restore unto us in
+d<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e season: which shall be the prayer of the Publishe<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> of this Plot,</P>
+<SIGNED>William Prynne.</SIGNED>
+</DIV1>
+<DIV1 TYPE="errata">
+<HEAD>Errata.</HEAD>
+<P>COurteous Reader, I pray correct these Presse-errours, which during my absence at <HI>St. Albanes,</HI> have,
+through the Printers oversight escaped the Presse in this Edition.</P>
+<P><HI>Page</HI> 4. l. 1. r. suffer, <HI>p.</HI> 7. l. 20. na<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>ragio, <HI>p.</HI> 9. l. 29. them, and most, <HI>p.</HI> 15. l. 6. quam, <HI>p.</HI> 28. l. 3. not brooke,
+l. 27. his zeale, 1. 29. <HI>strong,</HI> strang, <HI>p.</HI> 29. l. 33. Chaplaine, <HI>p.</HI> 31. l. 10. men, these, l. 15. yet come into the Kings
+<HI>p,</HI> 34. l. 29. his destiny, l. 40. reasonable, l. 46. <HI>dele</HI> as, <HI>p.</HI> 35. l▪ 26. conspired.</P>
+<P>In the Margin. p. 22. l. 18. small r. <HI>female.</HI></P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="introduction">
+<PB N="1" REF="4"/>
+<HEAD>ROMES
+MASTER-PEECE.</HEAD>
+<P><SEG REND="decorInit">I</SEG>F there be any professing the Protestant Religion within the Kings
+Dominions, or elsewhere, who are yet so wilfully blinded as not to
+discern, so so<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>tishly incredulous as not to believe, any reall long-prosecuted
+conspiracy, by former secret practises, and the present
+warres to extirpate the Protestant Religion, re-establish Popery,
+and inthrall the people in all three Kingdomes, notwithstanding
+all visible effects, and transparent Demonstrations of it, lively set forth in the late <HI>De∣claration
+of the Lords and Commons, concerning the Rise and Progresse of the Grand Re∣bellion,</HI>
+with other <HI>Remonstrances</HI> of that nature, most visibly appearing in the late
+<HI>Articles of Pacification,</HI> made by his <HI>Majesties Authority and approbation</HI> with <HI>the
+Irish Rebels,</HI> contrary to divers Acts <HI>of Parliament</HI> passed by the King this present
+<HI>Session:</HI> Let them now advisedly fixe their Eyes, <HI>Minds,</HI> upon the ensuing <HI>Letters</HI> and
+<HI>Discoveries,</HI> (seised on by Master <HI>Prynne,</HI> in the <HI>Archbishops Chamber</HI> in the
+<HI>Tower, May</HI> 31. 1643. by Warrant from the <HI>Close Committee,</HI> to search his Papers there,
+being unexpectedly commanded on that service) and then they must needs acknow∣ledge
+it an indubitable verity; Since Sir <HI>William Boswell,</HI> the Archbishop himselfe,
+if not his Majesty, and those who revealed this Plot, were perswaded of its reality
+upon the first <HI>Dis<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>overy,</HI> before it brake forth openly in <HI>Ireland,</HI> and <HI>England.</HI></P>
+<P>Who and what the Authour of this <HI>Discovery</HI> was; who the chiefe active instru∣ments
+in the Plot; when, and where they assembled; in what vigorous manner they
+daily prosecuted it; how effectually they proceeded in it; how difficult it is to dis∣solve
+or counter-work it, without speciall diligence, the Relation it selfe will best dis∣cover.
+Whose verity if any question, these Reasons will inforce beliefe:</P>
+<P>First, That the Discoverer was a chiefe Actor in this Plot, sent hither from <HI>Rome</HI>
+by <HI>Cardinall Barbarino;</HI> to assist <HI>Con</HI> the Popes Legate in the pursute of it, and privy
+to all the particulars therein discovered.</P>
+<P>Secondly, That the horrour and reality of the conspiracy so troubled his con∣science,
+as it ingaged him to disclose it, yea to renounce that bloody Church and
+Religion, which contrived it; though bred up in, preferred by it, and promised
+greater advancements for his deligence in this designe.</P>
+<P>Thirdly, That he discovered it under an Oath of Secrecy, and offered to confirme
+every particular by solemne Oath.</P>
+<P><PB N="2" REF="5"/>
+Fourthly, That hee discovers the persons principally imployed in this Plot, the
+places and times of their secret conventions; their manner and diligence in the
+purs<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ite of it, with all other circumstance<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> so punctually, as leaves no place for
+doubt.</P>
+<P>Fifthly, The principall Conspirators nominated by him are notoriously known to
+be fit instruments for such a wicked design.</P>
+<P>Sixthly, Many particulars therein have immediate relation to the King and Arch∣bishop,
+to whom he imparted this Discovery, and it had been an impudent boldnesse
+and irrationall, frentick act, to reveale any thing for truth to the King and Bishop,
+which they could disprove on their own knowledge.</P>
+<P>Seventhly, Sir <HI>William Boswell,</HI> and the Archbishop, if not the King himselfe, were
+fully satisfied, that it was reall and most important.</P>
+<P>Eightly, Some particulars are ratified by the Arch-bishops testimony, in the Me∣morials
+of his own life, written with his own hand some yeares before; and others
+so apparent, that most intelligent men in Court and City, were acquainted with
+them whiles they were acting, though ignorant of the plot.</P>
+<P>Finally, The late sad effects of this Conspiracy in all three Kingdomes, in prose∣cution
+of this design, compared with it, are such a convincing evidence of its rea∣lity;
+and Gods admirable hand of Providence in bringing this concealed plot so sea∣sonably
+to light, (by an instrument unexpectedly raised from the grave of Exile and
+imprisonment, to search the Arch-bishops papers, in the Tower, who had there seised
+his in former times, and shut him up close prisoner in a Forraine Dungeon) such a
+testimony from Heaven super-added to the premises, that hee who deemes it an
+<HI>imposture,</HI> may well be reputed an <HI>Infidell,</HI> if not a <HI>Monster of incredulity.</HI></P>
+<P>The first overture and larger Relation of the plot it selfe were both writ in <HI>Latin,</HI>
+as they are here Printed, and faithfully translated word for word, as neare as the Dia∣lect
+will permit. All which premised, the Letters and plot here follow in order.</P>
+</DIV1>
+<DIV1 TYPE="part">
+<HEAD>Sir Williams Boswels first Letter to the Arch-bishop concer∣ning the Plot.</HEAD>
+<OPENER><SALUTE>May it please your Grace,</SALUTE></OPENER>
+<P>THe offers (whereof your Grace will finde a Copy) here inclosed towards
+a further and more particular discovery, were first made unto me at the se∣cond
+hand, and in speech, by a friend of good quality and worth in this
+place; But soone after (as soone as they could be put into Order) were
+avowed by the principall party; and delivered me in writing by both together: Up∣on
+promise, and Oath, which I was required to give, and gave accordingly, not to
+reveale the same to any other man living but your Grace; and by your Graces hand,
+unto his Majesty.</P>
+<P>In like manner they have tyed themselves not to declare these things unto any o∣ther,
+but my selfe; untill they should know, how his Majesty and your Grace
+<PB N="3" REF="5"/>
+would dispose thereof. The Principall giving me withall to know, That hee puts
+himselfe, and this secret into your Graces power, as well because it concernes your
+Grace so nearely after his Majesty: As that he knowes your wisdome to guide the
+same aright: And is assured of your Graces fidelity to his Majesties Person, to our
+State, and to our Church.</P>
+<P>First, Your Grace is humbly, and earnestly prayed, To signifie his Majesties plea∣sure
+(with all possible speed) together with your Graces disposition herein, and pur∣pose
+to carry all with silence, from all, but his Majesty untill due time.</P>
+<P>Secondly, When your Grace shall think fit to shew these things unto his Majesty▪
+To doe it immediately; not trusting to Letters; nor permitting any other person to
+be by, or in hearing: And to entreat and counsell his Majesty as in a case of Consci∣ence
+to keep the same wholly, and solely in his own bosome, from the knowledge of
+all other creatures living but your Grace; untill the businesse shall be cleare, and suffi∣ciently
+in his Majesties and your Graces hands to effect.</P>
+<P>Thirdly, Not to enqure or demand the names of the parties from whom these
+overtures doe come, or any further discoveries and advertisements in pursute of them
+which shall come hereafter, untill due satisfaction shall be given in every part of them.
+Nor to bewray unto any person but his Majesty, in any measure or kinde, that any
+thing of this nature, or of any great importance is come from me.</P>
+<P>For as I may believe these overtures are verifiable in the way they will be layed;
+and that the parties will not shrink: So I may accompt, That if never so little a
+glimpse, or shadow of these informations shall appeare by his Majesties, or your
+Graces speech or carriage, unto others, the meanes whereby the businesse may bee
+brought best unto tryall, will bee utterly disappointed: And the parties who have
+in Conscience towards God, and devotion to his Majesty; affection to your Grace,
+and compassion of our Countrey, disclosed these things, will runne a present and ex∣treame
+hazard of their persons, and lives, So easily it will be conjectured (upon the
+least occasion given upon his Majesties or your Graces parts) who is the discoverer?
+By what meanes, and how he knowes so much of these things; And where he is?
+These are the points, which together with the offers, they have pressed me especially
+to represent most seriously unto your Grace.</P>
+<P>For my own particular, having most humbly craved pardon of any errour or o∣missions,
+that have befalne me in the mesnaging of this businesse, I doe beseech your
+Grace to let me know;</P>
+<P>First, Whether, and in what order I shall proceed hereafter with the parties?</P>
+<P>Secondly, What points of these offers I shall chiefly, and first put them to enlarge
+and cleare?</P>
+<P>Thirdly, What other points and enquiries I shall propose unto them? And in
+what manner?</P>
+<P><PB N="4" REF="6"/>
+Fourthly, How farre further I shall suffer my selfe to heare and know these things▪</P>
+<P>Fifthly, Whether I shall not rather take the parties answers, and discoveries sealed
+up by themselves, and having likewise put my owne seale upon them, without que∣stioning
+or seeing what they containe, so to transmit them to his Majesty or your
+Grace?</P>
+<P>Sixthly, Whether I may not insinuate upon some faire occasion, That there will
+be a due Regard held of them, and their service, by his Majesty and your Grace:
+When all particulars undertaken in these generall offers, and necessary for perfecting
+the discovery and work intended, shall be effectually delivered to his Majesty on
+your Grace?</P>
+<P>Upon these heads, and such others as his Majesty or your Grace shall think pro∣per
+in the businesse, I must with all humility beseech your Grace to furnish me with
+instructions, and warrant for my proceedings, under his Majesties hand with your
+Graces attestation, as by his Majesties goodnesse, and Royall disposition is usuall in
+like cases.</P>
+<P>May it please your Grace to entertaine a Cypher with me upon this occasion, I
+have sent the Counterpart of one here inclosed: In the vacant spaces whereof your
+Grace may insert such names more, with numbers to them, as you think requisite.</P>
+<P>If these overtures happily sort with his Majesties and your Graces minde, and shall
+accordingly prove effectuall in their operation, I shall think my selfe a most happy
+man, to have had my oblation in so pious a work for my most gratious Soveraign
+and Master: More particularly, in that your Grace under his Majesty shall be, <HI>Opifex
+rerum &amp; mundi melioris origo.</HI> Which I shall incessantly begge in my prayers at his
+hands, who is the giver of all good things, And will never forsake, or <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>aile them,
+who doe not first faile, and fall from him: The God of mercy and Peace. With
+which I remaine evermore.</P>
+<P>I have not dared to trust this businesse
+(without a Cypher) but by a sure hand,
+for which▪ I have sent this bearer, my
+Secretary, Expresse, but he knoweth
+nothing of the contents hereof.</P>
+<CLOSER><SIGNED>Your Graces Most dutifull and obliged servant. <HI>William Boswell.</HI></SIGNED>
+<DATELINE>Hagh in Holland, <DATE>9. Sept. 1640. Sti. loci.</DATE></DATELINE>
+<POSTSCRIPT>
+<HEAD>Sir <HI>William Boswels</HI> indorsement.</HEAD>
+<P>For your Grace. <HI>The Arch-bishops indorsement with his own hand.</HI></P>
+<P>Rece. Sept. 10. 1640. Sir William Boswell about the Plot against the King, &amp;c.</P>
+</POSTSCRIPT></CLOSER>
+</DIV1>
+<DIV1 TYPE="letter">
+<PB N="5" REF="6"/>
+<HEAD>Andreas ab Habernfeld his Letter to the Archbishop concerning
+the Plot revealed to him.</HEAD>
+<LETTER>
+<DIV2 LANG="lat" TYPE="version">
+<OPENER><SALUTE>Illustrissime ac reverendissime
+Domine,</SALUTE></OPENER>
+<P>COncutiuntur omnes sensus mei,
+quoties p<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>aesens negotium mecum
+revolvo, nec intellectus sufficit, quaenam
+aura tam horrenda attulerit, ut per me
+apricum videant. Praeter spem enim bo∣nus
+i<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>te vir mihi innotuit, qui cum me
+discurrentem de turbis istis Scoticis au∣disset;
+ignorare me, inquit, nervum Rei,
+superficialia esse ista quae vulgo spargun∣tur:
+Ab ista hora indies mihi fiebat fa∣miliarior;
+qui dexteritate mea agnita,
+pleno pectore cordis sui onera, in sinum
+meum effudit; deposuisse se gravamen
+conscientiae, quo premebatur, ratus▪
+Hinc Factiones Jesuitarum, quibus totus
+terrenus intentatur orbis, mihi enarravit;
+depastasque ipsorum per virus, Bohemi∣am
+&amp; Germaniam ut adspicerem, osten∣dit,
+sauciam utramque partem vulnere
+irreparabili; Eandem Pestem per Angliae
+Scotiaeque repere Regna, cujus materi∣am,
+scripto adjacenti revelatam, me edo∣cuit:
+quibus auditis, viscera mea convel∣lebantur,
+tremebant horrore artus; Tot
+animarum millibus infestam paratam
+esse voraginem: verbis conscientiam mo∣ventibus,
+animum hominis accendi;
+vix horam unam, monita coxerat, ab∣dita
+omnia aperuit, liberumque dedit,
+<PB N="6" REF="7"/>
+agerem, ut iis, quorum interest, inno<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+tescerent. Non tardanum cum re∣bus
+censui: Ea ipsa hora Dominum
+Bosuelium Residentem Regium Hagae
+Comitum, adii, juramento silenti<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+mihi obstricto, Rem communicavi▪
+ponderaret ista ad trutinam, monui▪
+neque differret ei quin ageret, ut peri∣clitantibus
+succurratur propere. Is u<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+virum honestum condecet, officii me∣mor,
+propiusque introspecto negotio,
+monita recusare non quievit, quinimo
+egit è vestigio ut expressus expedire∣tur.
+Retulitque iterum quam acceptis∣simum
+Regi, Tuaeque Reverentiae fuisse
+oblatum; de quo ex corde gavisi su∣mus,
+judicavimusque ac tutum, fa∣vorabile
+sese interposuisse in hoc Ne∣gotio
+NUMEN, quo servaremini.</P>
+<P>Ut vero rerum enarratarum confirme∣tur
+veritas, studio primaria nonnulla
+conjurationis capita sunt praeterita, ut
+nortitia <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>orum ab circumventa conjura∣tionis
+societate extorqueatur.</P>
+<P>Promovebitur res cito tutoque i<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+actum si cautè procedetur Bruxellis;
+Meo consilio, observandum esse eam die<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+qua fasciculi literarum expediuntur, qu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+sub titulo, Al Monsignor Strario Archi∣diacono
+di Cambray, una operta ligati
+Praefecto Tabellionum traduntur, ab ip∣so
+talis fasciculus tacite poterit repeti,
+inutilis tamen erit, quia omnes inc<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>usae
+Characteristicè scriptae sunt; Alter quo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+que fasciculus hebdomadatim Roma ve∣niens,
+qui sub inscriptione, Al illustrissi∣mo
+Signor Conte Rossetti, pro tempore
+Legato, adportatur, non negligendu<GAP DESC="illegible" RESP="tech" EXTENT="4 letters" DISP="••••"/>
+similiter Charactere eodem conscrip∣tae
+includuntur literae; ut intelligantur,
+Reda consulendus erit: supra nomi∣nata
+dies expeditionis Aedibus Redae
+<PB N="7" REF="7"/>
+adcumulata congreg<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>tio, circum∣venietur,
+quo succedent<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>, Tuae Re∣verentiae
+erit Negotium disponere.
+Detecto tandem per Dei gratiam,
+intestino hoste, omnis amaritudo a∣nimorum
+qua ab utraque parte causata
+est, aboleatur, oblivioni tradatur,
+deleatur &amp; consopiatur, utrique parti
+Infidiare hostis, ita Rex, amicusque
+Regis, &amp; Regnum utrumque Discri∣mini
+vicinum servabitur, eripietur im∣minenti
+periculo.</P>
+<P>Haec penes etiam Reverentia <GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/>
+i<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>junctum sibi habeat, si alias con∣sultum
+sibi optime volet, <HI>ne Pursi∣vantibus
+suis nimium fidat, vivunt
+enim eorum nonnulli sub stipendio partis
+Pontificiae.</HI> Quot scopuli, quot <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>cillae
+quotque infensae obsultant T<SUP>•</SUP>. R<SUP>•</SUP>.
+Charibdes, quàm periculoso mari
+agitatur vita T. R. Cymbula nau∣fragio
+proxima, ipse judicet, p<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>llenda
+ad portum prora properè.</P>
+<P>Haec omnia tuae Reverentiae in au∣rem;
+scio enim juramento filenti<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>
+obligatam, ideo aperto nomine, prae∣sentibus
+Reverentiae tuae innotescere
+volui, mansu<GAP DESC="illegible" RESP="tech" EXTENT="3 letters" DISP="•••"/>.</P>
+<CLOSER><DATELINE>Hagae Comitum <DATE>Sept. 14. <HI>S. N.</HI> 1640.</DATE></DATELINE>
+<SIGNED>Observantissimus &amp; officiosissimus <HI>Andreas ab Habernfeld.</HI></SIGNED></CLOSER>
+</DIV2>
+<DIV2 LANG="eng" TYPE="version">
+<OPENER><SALUTE>Most Illustrious and most Re∣verend
+Lord,</SALUTE></OPENER>
+<P>AL my senses are shaken together as of∣ten
+as I revolve the present businesse,
+neither doth my understanding suffice (to
+conceive) what wind hath brought such
+horrid things, that they should see the Sun∣shine
+by me: for besides expectation this good
+man became known unto me, who whē he had
+heard me discoursing of these Scottish stirs,
+said that I knew not the nerve of the business,
+that those things which are commonly scat∣tered
+abroad are superficial: From that hour
+he every day became more familiar to me;
+who acknowledging my dexterity herein, with
+a full brest powred forth the burdens of his
+heart into my besome, supposing that he had
+discharged a burden of conscience where∣with
+he was pressed. Hence he related to me
+the Factions of the Iesuites, with which the
+whole earthly world was assaulted; and
+shewed, that I might behold how through
+their poyson, Bohemia &amp; Germany were de∣voured,
+&amp; both of them maimed with an ir∣reparable
+wound; that the same Plague did
+creep through the Realmes of England and
+Scotland, the matter wherof revealed in the
+adjacent writing, he discovered to me: which
+things having heard<NOTE N="*" PLACE="marg">If a stranger were thus af∣fected at the hearing of this Plot, how should we our selves be sensi∣ble thereof?</NOTE> my bowels were con∣tracted
+together, my loyns trembled with hor∣rour,
+that a pernicious gulf should be prepared
+for so many thousands of soules: with words
+moving the conscience, I inflamed the minde
+of the man: he had scarce one hour concocted
+my admonitions, but he disclosed all the se∣crets
+<PB N="6" REF="7"/>
+and he gave free liberty that I should
+treat with those whom it concerned, that they
+might be informed hereof. I thought no delay
+was to be made about the things: The same
+houre I went to Master Boswell the Kings
+Leger at the Hage, who being tied with an
+oath of secrecie to me, I communicated the
+businesse to him, I admonished him to weigh
+these things by the ballance, neither to defer,
+but act, that those who were in danger might
+be speedily succoured: He, as becomes an ho∣nest
+man, mindfull of his duty, and having
+nearer looked into the businesse, refused not
+to obey the monitions: moreover, he forthwith
+caused that an expresse should be dispatched;
+and sent word back again what a most accep∣table
+oblation this had been to the King and
+your Grace; for which we rejoyced from the
+heart, and we judged, that a safe and fa∣vourable
+Deity had interposed it selfe in this
+businesse, whereby you might be preserved.</P>
+<P>Now that the verity of the things related
+might be confirmed, some principall heads
+of the conspiracy were purposely pret<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>rmit∣ted,
+that the knowledge of them might bee
+ext<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>rted from the circumvented society of
+the conspirators.</P>
+<P>Now the things will be speedily and safely
+promoted into act, if they be warily proceeded
+in at Bruxels. By my advise, that day should
+be observed wherin the Packet of Letters are
+dispatched, which under the title of, To
+Monsieur Strario Archdeacon of Cambray,
+tied with one cover are delivered to the post∣master,
+such a packet may be secretly brought
+back from him, yet it will be unprofitable, be∣cause
+all the inclosed Letters are written
+Characteristically. Likewise another Packet
+comming weekly frō Rome, which is brought
+under this subscription, To the most illustri∣ous
+Lord Count Rossetti, Legat for the time;
+these are not to be neglected: to whom like∣wise
+Letters writ in the same Character are
+included. That they may be understood, Reade
+is to be consulted with. The forenamed day
+of dispatch shal be expected: In Reades house
+<PB N="7" REF="7"/>
+an accumulated congregation may be cir∣cumvented;
+which succeeding, it will be
+your Graces part to order the businesse.
+The intestine enemy being at length de∣tected
+by Gods grace, all bitternesse of
+minde which is caused on either side may
+be abolished, delivered to oblivion, deleted
+and quieted, the enemy be invaded on
+both parts: thus the King and the Kings
+friend, and both Kingdomes neere to dan∣ger,
+shall be preserved, delivered from im∣minent
+danger.</P>
+<P>Your Grace likewise may have this injun∣ction
+by you, if you desire to have the best
+advise given you by others, <HI>that you trust
+not overmuch to your Pursevant<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>, for
+some of them live under the stipend of
+the popish party.</HI> How many Rocks, how
+many Scillaes, how many displeased Cha∣ribdes
+appear before your Grace, in what a
+dangerous sea the Cockbote of your Gra∣ces
+life, next to shipwrack, is t<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ssed, your
+selfe may judge, the fore deck<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> of the Ship
+is speedily to be driven to the harbour.</P>
+<P>All these things (I whisper) into your
+Graces eare, for I know it bound with an
+oath of secresie, therefore by open name,
+I would by these presents become known
+to your Grace,</P>
+<CLOSER><DATELINE>Hage <DATE>14. Sept. <HI>S. N.</HI> 1640.</DATE></DATELINE>
+<SIGNED>Your Graces most observant and most officious
+<HI>Andrew Habernfeld.</HI></SIGNED></CLOSER>
+</DIV2>
+</LETTER>
+<P>Andreas ab Habernfeld, a Noble Bohemian, Dr. of Physick to the
+Queen of Bohemia, his indorsement hereon.</P>
+<P>Illusstrisimo ac Reverendissimo Dom. Domino G<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>lielmo Archiepiscopo
+Cantuariensi, Primati &amp; Metropolitano totius Regni Angliae Dom. meo.</P>
+<P>The Archbishops indorsment with his own hand.</P>
+<P>Rece. <HI>Octob. 14. 1640. Andreas ab Harbenfed.</HI> </P>
+<P>His Letters sent by Sir <HI>W. Bos∣well</HI>
+about the discovery of the treason. I conceive by the English Latin
+herein, that he m<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>st needs be an Englishman with a concealed and changed
+name. And yet it may be this kind of Latin may relate to the Italian. Or
+else he lived some good time in <HI>England.</HI> The declaration of this treason I
+have by His Majesties speciall command sent to Sir <HI>W. Boswell,</HI> that he may
+there see what proofe can be made of any particulars.</P>
+</DIV1>
+<DIV1 TYPE="part">
+<PB N="8" REF="8"/>
+<HEAD>The generall Overture and Discovery
+of the Plot, sent with Sir William Boswels
+first Letter.</HEAD>
+<DIV2 LANG="eng" TYPE="version">
+<HEAD>The Kings Majesty, and Lord
+Archbishop of Canterbury, are to be
+secretly informed by Letters.</HEAD>
+<P>1. THat the Kings Majesty and
+the Lord Archbishop are
+both of them in great dan∣of
+their live<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>.</P>
+<P>2. That the whole Commonwealth
+i<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> by this means endangered, unlesse
+the mischiefe be speedily prevented.</P>
+<P>3. That these Scottish troubles are
+raised to the end, that under this pre∣text,
+the King and Archbishop might
+be destroyed.</P>
+<P>4. That there is a meanes to be pre∣scribed,
+whereby both of them in this
+case may be preserved, and this tumult
+speedily composed.</P>
+<P>5. That<NOTE N="*" PLACE="marg">The <HI>Je<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>uits</HI> pl<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ts are never en∣ded till they ob∣taine their desired ends in all things.</NOTE> although these Scottish tu∣mults
+be speedily cōposed, yet that the
+King is endangered, and that there are
+many waies, by which destruction is
+plotted to the King &amp; L. Archbishop.</P>
+<P>6. That a certaine society hath con∣spired,
+which attempts the death of
+the King, and L. Archbishop, and Con∣vulssion
+of the whole Realme.</P>
+<P>7. That the same society every week
+deposits with the President of the so∣ciety,
+what intelligence every of them
+hath purchased in eight daies search,
+and then confer all into one packet,
+which is weekly sent to the<NOTE N="*" PLACE="marg">The Pope and Cardi∣n<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ll <GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/></NOTE> Director
+of the businesse.</P>
+<P><PB N="9" REF="8"/>8. That all the confederates in the
+said conspiracy may verily be named
+by the poll. But because they may be
+made knowne by other meanes, it is
+thought meet to defer it till hereafter.</P>
+<P>9. That there is a ready meanes,
+whereby the villany may be discove∣red
+in one moment, the chiefe conspi∣rators
+circumvented, and the primary
+members of the conju<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ation, appre∣hended
+in the very act.</P>
+<P>10. <HI>That very</HI> many about the King,<NOTE PLACE="marg">His Maje∣sty and the Realme may be soone be∣trayed by such false attendants.</NOTE>
+who are accounted most faithfull and in∣timate,
+to whom likewise the more secret
+things are instrusted, <HI>ARE TRAY∣TORS
+TO THE KING,</HI> cor∣rupted
+with a forraigne Pension, who
+communicate all secrets of greater or
+lesser moment to a forraigne power.</P>
+<P>These and other most secret things,
+which shall be necessary to be known
+for the security of the King, may be re∣vealed,
+if these things shall be accepta∣ble
+to the Lord Archbishop.</P>
+<P>In the mean time, if his Royall Ma∣jesty
+and the L. Archbishop desire to
+consult well to themselvas, they shall
+keep these things, onely superficially
+communicated unto them, most secret∣ly▪
+under deep silence, not communi∣cating
+them so much as to those whom
+they judge most faithful to them, be∣fore
+they shall receive by name, in
+whom they may confide; for else they
+are safe on no side.</P>
+<P>Likewise they may be assured, that
+whatsoever things, are here proposed,
+are no figments, nor fables, nor vaine
+dreams, but such reall verities, which
+may be demonstrated in every small
+tittle. For those who thrust them∣selves
+into this businesse are such men,
+who mind no gaine, but the very zeal
+of Christian charity suffers them not
+to conceale these things: yet both from
+his Majesty and the Lord Archbishop
+<PB N="10" REF="9"/>
+some small examplar of gratitude will
+be expected.</P>
+<P>All these Premisses have been com∣municated
+under good faith, and the
+Sacrament of an oath to Mr. Leger
+Embassadour of the King of Great
+Brittain, at the Hague; <HI>that he
+should not immediately trust, or
+communicate these things to any
+mortall, besides the King and the
+L. Archbishop of</HI> Canterbury.</P>
+<CLOSER><SIGNED>Subscribed, &amp;c. Present, &amp;c.</SIGNED>
+<DATELINE>Hague, Com. <DATE>6 Sept. 1640. in the stile of the place.</DATE></DATELINE></CLOSER>
+</DIV2>
+<DIV2 LANG="lat" TYPE="version">
+<HEAD>Regiae Majestati, &amp; Dom.
+Archiepiscopo Cantuariensi
+in<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>inuandum per litteras.</HEAD>
+<P>1. REgiam Majestatem &amp; Dom.
+Archiepiscopium, u<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>rumque
+in magno discimi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e vitae con∣stitutum.</P>
+<P>2. Totam Rempublicam hoc nomine
+periclitari, nisi properè occurratur
+malo.</P>
+<P>3. Turbas istas Scoticas in <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>um finem
+esse concitatas; ut sub isto praetextu
+Rex, &amp; Dominus Archiepiscopus peri∣meretur.</P>
+<P>4. Dari medium, quo utrique hac in
+parte bene consuli, &amp; tumultus iste cito
+componi, possit.</P>
+<P>5. Compositis etiam turbis istis Sco∣ticis,
+nihilo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> minus periclitari Regem:
+esse plurima media quibus Regi, &amp; Do∣mino
+Archiepiscopo machinatur exi∣tium.</P>
+<P>6. Conspirasse certam societatem quae
+Regi &amp; Dom. Archiepiscopo molitur
+necem, totuisque Regni convulsionem.</P>
+<P>7. Eandem societatem singulis septi∣manis,
+explorationis octiduae suum
+quemque quod nundinatus est, ad
+Presidem Societatis deponere, &amp; in
+unum fasciculum conferre: qui Heb∣domadatim
+ad directorem negotii expe∣ditur.</P>
+<P><PB N="9" REF="8"/>8. Nominari quiden posse omnes per
+capita dictae conspirationis conjuratos:
+At quia alio medio inno<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>escent, differre in
+posterum pl<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>cuit.</P>
+<P>9. Medium esse in promptu, quo uno
+momento detegi poterit scelus: Conspira∣tores
+praecipui circumveniri, membraque
+primaria conjurationis in ipso actu ap∣prehendi.</P>
+<P>10. Astantes Regi plurimos, qui pro
+fidelissimis &amp; intimis censentur, quibus
+etiam secretiora fiduntur, <HI>proditores
+Regis esse,</HI> peregri<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>â pensione corruptos,
+qui secreta quaeque majoris, vel exigui
+momenti ad ext<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ram Potestatem defe∣runt.</P>
+<P>11. Haec &amp; alia secretissima, quae scitu
+ad securitatem Regis erunt necessaria:
+quòd si haec accepta Dom. Archiepiscopo
+fuerint, revelari poterunt.</P>
+<P>12. Interim si Regia Majestas sua
+&amp; Dominus Archiepiscopus bene sibi
+consultum volunt, haec superficialiter
+quidèm tantum ipsis communicata, sub
+profundo silentio, &amp; secretissimè serva∣bunt,
+ne quidem iis, quos sibi fide∣lissimos
+judicant, communicaturi, ante∣quam
+de nomine acceperint, quibus fiden∣dum
+sit: Ab nullo enim latere ali<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>s tuti
+sunt.</P>
+<P>Sint etiam certi quicquid hic
+proponitur; nulla figmenta, nec fa∣bulas,
+aut inania somnia esse; sed in
+rei veritate ita constituta, quae o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>∣nibus
+momentis demonstrari poterunt:
+Qui enim se immiscent huic negotio,
+viri honesti sunt: quibus nullus quae∣stus
+in animo; sed ipse Christianae
+charitatis fervor ista facere non sinit:
+Ab utroque tamen, suae Majestati
+tum Domino Archiepiscopo, gra∣titudinis
+<PB N="10" REF="9"/>
+exemplar tale quale expecta∣bitur.</P>
+<P>Haec omnia antecedentia
+sub bona fide &amp; juramenti Sa∣cramento,
+Dom. Residenti Regis
+magnae Britanniae, Hagae Comitum
+communicata esse ne ulli morta∣lium,
+praeter Regem, &amp; Dom.
+Archiepiscopum Cantuariensem im∣mediate
+ista fideret, vel communi
+caret.</P>
+<CLOSER><SIGNED>Subscripta, &amp;c. Presentes, &amp;c.</SIGNED>
+<DATELINE>Hagae Com<SUP>tum</SUP>. <DATE>6 Sept. 1640. St. loci.</DATE></DATELINE></CLOSER>
+</DIV2>
+<DIV2 TYPE="section">
+<P>Detectio &amp;c. offerenda Ser<SUP>••</SUP>. Regiae Majestati Brittaniae &amp; Dom.</P>
+<P>Archiepiscopo Cantuariensi, &amp;c. 6. Sept. 1640.</P>
+<P>The Archbishops own indorsment. <HI>Rece. Sept.</HI> 10. 1640.</P>
+<P>The Plot against the King.</P>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="letter">
+<HEAD>The Archbishop of Canterburies Letter to the
+King concerning the Plot: with the Kings directions in
+the Margin, written with His own hand.<NOTE PLACE="marg">I beseech Your Majesty read these Letters a<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> they are endor∣sed by figures, 1, 2, 3, &amp;c.</NOTE></HEAD>
+<LETTER>
+<OPENER><SALUTE>May it please your Majesty,</SALUTE></OPENER>
+<P><SEG REND="decorInit">A</SEG>S great as the Secret is which comes herewith, yet I choose ra∣ther
+<HI>to send it in this silent covert way,</HI><NOTE PLACE="marg">Ye had reason so to doe.</NOTE> and I hope safe, then to
+come thither, and bring it my selfe. First, because I am no
+way able to make haste enough with it. Secondly, because
+should I come at this time, and antedate the meeting <HI>Septemb.</HI>
+24. there would be more jealousie of the businesse, and more
+enquiry after it: especially, if I being once there, should re∣turne
+againe before that day, as I must if this be followed, as is
+most fit.</P>
+<P>The danger it seemes is imminent, and laid by God knowes whom, but to be exe∣cuted
+by them which are very neere about you. (For the great honour which I have
+to be in danger with you, or for you, I passe not, so your sacred Person and the State
+may be safe.)<NOTE PLACE="marg">It is an unanswe∣rable Dilemma.</NOTE> Now, may it please your Majesty, This information is either true, or
+there is some mistake in it: If it be true, the persons which make the discovery will
+deserve thankes and reward; If there should be any mistake in it, your Majesty can
+lose nothing but a little silence.</P>
+<P><PB N="11" REF="9"/>
+The businesse (if it be) is exteam foul.<NOTE PLACE="marg">I c<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ncur totally with you in opi∣nion, assuring you that no body doth, or shall know of this bu∣sinesse, and to shew my care to conceale it, I received this but this after∣noon, and now I make this dispatch before I sleepe. Herewith I send his warrant, as you advise, which indeed I judge to bee the better way.</NOTE> The discovery thus by Gods providence
+offered, seems fair. I doe hereby humbly beg it upon my knees of your Majestie,
+that you will conceale this businesse from every creature, and his name that sends
+this to me. And I send his Letters to me to your Majestie, that you may see his
+sence both of the businesse and the secrecy. And such Instructions as you thinke
+fit to give him, I beseech you let them be in your own hand for his warrant, with∣out
+imparting them to any. And if your Majestie leave it to his discretion to fol∣low
+it there in the best way he can, that in your own hand will be instruction and
+warrant enough for him. And if you please to return it herewith presently to me, I
+will send an expresse away with it presently.</P>
+<P>In the mean time I have by this expresse returned him this answer,<NOTE PLACE="marg">I like your an∣swer extreame well, and doe promise not to deceive your confidence, nor make you break your word.</NOTE> That I think
+he shall doe well to hold on the Treatie with these men with all care and secrecie,
+and drive on to the discovery so soon as the businesse is ripe for it, that he may as∣sure
+himselfe and them, they shall not want reward, if they do the service. That
+for my part he shall be sure of secrecy, and that I am most confident that your Ma∣jesty
+will not impart it to any. That he have a speciall eye to the eighth and ninth
+Proposition.</P>
+<P>Sir, for Gods sake, and your own safety,<NOTE PLACE="marg">I have sent all back. I thinke these Apostyles will bee warrant enough for you to proceed, especially when I expressly command you to doe so.</NOTE> secrecie in this businesse:
+And I beseech you send me back this Letter, and all that comes with
+it, speedily and secretly, and trust not your own pockets with them.
+I shall not eat nor sleep in quiet till I receive them. And so soon as
+I have them again, and your Majesties warrant to proceed, no dili∣gence
+shall be wanting in me to help on the discoverie.</P>
+<P>This is the greatest businesse that ever was put to me.<NOTE PLACE="marg">In this I am as far from con∣demning your judgement as su∣specting your fidelitie. <HI>C. R.</HI></NOTE> And if I have herein pro∣posed
+or done any thing amisse, I most humbly crave your Majesties pardon. But
+I am willing to hope I have not herein erred in judgement, and in fidelity I ne∣ver
+will.</P>
+<P>These letters came to me on Thursday, Septemb. 10. at night, and I sent these
+away according to the date hereof, being extreamly wearied with writing
+this Let∣ter,
+copying out these other which come with this, and dispaching my Letters
+back to him that sent these, all in my own hand. Once again secrecy for Gods sake,
+and your own. To his most blessed protection I commend your Majestie and all
+your Affairs: and am</P>
+<CLOSER><DATELINE><NOTE N="*" PLACE="marg">The Kings hand and date.</NOTE>
+Yorke 13. Lambeth <DATE>Septemb. 11. 1640.</DATE></DATELINE>
+<SIGNED>Your Majesties most humble faithfull servant, W. Cant.</SIGNED>
+<POSTSCRIPT>
+<P><NOTE N="*" PLACE="marg">The Archbi∣shops Postscript</NOTE> As
+I had ended these, whether with the labour or indignation, or both,
+I fell into an extream faint sweat; I pray God keep me from a
+Fever, of which three are down in my Family at <HI>Croyden.</HI></P>
+</POSTSCRIPT></CLOSER>
+</LETTER>
+<P>These Letters came late to me, the expresse being beaten back by the winde.</P>
+<P>The Archbishops indorcement with his own hand. Received from the King Sept.
+16. 1640, For your sacred Majestie. Yours Apostyled. The Kings Answer
+to the Plot against him, &amp;c.</P>
+</DIV1>
+<DIV1 TYPE="letter">
+<PB N="12" REF="10"/>
+<HEAD>Sir William Boswels second Letter to the Archbishop.</HEAD>
+<LETTER>
+<OPENER><SALUTE>May it please your Grace,</SALUTE></OPENER>
+<P>THis evening late I have received your Graces dispatch, with the enclosed
+from his Majestie, by my Secretary <HI>Oueart,</HI> and shall give due account with
+all possible speed of the same, according to his Majesties and your Graces
+commands, praying heartily that my endeavours, which shall be most faith∣full,
+may also prove effectuall, to his Majesties and your Graces content, with which
+I do most humbly take leave, being alwayes</P>
+<CLOSER><DATELINE>Hagh. <DATE>24. Sept. 1640. S. Angel<SUP>•</SUP>.</DATE></DATELINE>
+<SIGNED>Your Graces most dutifull and humblest servant,
+William Boswell.</SIGNED></CLOSER>
+</LETTER>
+<P>The Archbishops indorcement. Received Sept. 30. 1640▪ Sir <HI>William Boswell</HI> his
+acknowledgement that he hath received the Kings directions and my Letters.</P>
+</DIV1>
+<DIV1 TYPE="letter">
+<HEAD>Sir William Boswels third Letter to the Archbishop, sent with
+the larger discovery of the Plot.</HEAD>
+<LETTER>
+<OPENER><SALUTE>May it please your Grace,</SALUTE></OPENER>
+<P>VPon receipt of his Majesties Commands, with your Graces Letters of 9. and
+18. Sept▪ last. I dealt with the party to make good his offers formerly put
+in my hand, and transmitted to your Grace: This he hopes to have done,
+by the inclosed, so far as will be needfull for his Majesties satisfaction; yet
+if any more particular explanation or discovery shall be required by his Majestie
+or your Grace, <HI>He hath promised to adde thereunto, whatsoever he can remember and
+knowes of truth. And for better assurance and verification of his integrity, he profes∣seth
+himselfe ready (if required) to make</HI><NOTE N="*" PLACE="marg">A very good Argument of truth and rea∣lity.</NOTE> <HI>oath of what he hath already declared, or
+shall hereafter declare in the businesse.</HI></P>
+<P>His name he conjures me still to conceale: though he thinks his Majestie and
+your Grace, by the Character he gives of himselfe, will easily imagine <HI>who he is,
+having been known so</HI><NOTE N="*" PLACE="marg">Therefore a man of note and imploy∣ment.</NOTE> <HI>generally through Court and City, as he was for three or foure
+yeers, in the quality and imployment he acknowledgeth</HI> (by his Declaration inclosed)
+<HI>himselfe to have held.</HI></P>
+<P>Hereupon he doth also redouble his most humble and earnest suit unto his Ma∣jestie
+and your Grace, to be most secret and circumspect in the businesse, that he
+may not be suspected to have discovered, or had a hand in the same.</P>
+<P>I shall here humbly beseech your Grace to let me know what I may further doe
+for his Majesties service, or for your Graces particular behoof; that I may ac∣cordingly
+endeavour to approve my selfe, as I am</P>
+<CLOSER><DATELINE>Hagh. <DATE>15. Octob. 1460.</DATE></DATELINE>
+<SIGNED>Your Graces most dutifull and obliged servant,
+<HI>William Boswell.</HI></SIGNED></CLOSER>
+</LETTER>
+<P>The Archbishops indorcement. Received Octob. 14. 1640. Sir <HI>William Boswell</HI> in prosecution of the great businesse. If any thing come to him in Cyphers, to send
+it to him.</P>
+</DIV1>
+<DIV1 TYPE="letter">
+<PB N="13" REF="10"/>
+<HEAD>The large particular Discovery of the Plot and Treason
+against the King, Kingdom, and Protestant Religion;
+and to raise the Scottish Wars.</HEAD>
+<LETTER>
+<DIV2 LANG="lat" TYPE="version">
+<OPENER><SALUTE>Illustrissime ac Reverendissime
+Domine.</SALUTE></OPENER>
+<P>ACcepta suae Regiae Majestati
+simulac Reverentiae Tuae, su∣isse
+offerta nostra lubentes, &amp;
+ex animo percepimus. Adesse
+vobis benignitat<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>m Numinis, hoc
+unicum nobis Index est, quo stimu∣lus
+datu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>, ut tantò alacrius, liberali∣usque,
+illa quibus vitae discrimen utri∣usque,
+statusque Regni Angliae, tum
+Scotiae, eximiae Majestatis sede de<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ur∣batio
+intendatur, effundamus, dete∣gamus.
+Ne autem ambagibus super∣fluis,
+dilatetur Oratio, nonnulla, quae
+tantum ad rem necessaria praemitte∣mus.</P>
+<P>Sciant primò, bonum istum vi∣rum
+per quem sequentia deteguntur,
+in pulvere isto Pontificio esse natum
+&amp; educatum, qui in dignitatibus
+Ecclesiasticis aetates consump<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>it; Tan∣dem
+praesentis Negotii expeditio∣ni,
+par invent<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>, Consilio &amp; man∣dato
+<HI>D<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>mini Card<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>nalis Barbarini,</HI>
+ad auxilium Domino Cuneo adjun∣ctus
+est: penes quem in officio ita
+diligens ac sedulus inventus, ut
+spes magnae promotionis ipsi data
+fuerit: ipse vero, boni Spiritus du∣ctus
+instinctu▪ ut <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>t dulcia promissa
+contempsit; agnitisque Religionis
+Pontificiae vanitatibus; (quarum
+alias defensor fuerat severissimus) ma∣litia
+etiam sub vexillo Papali mili∣tantium
+notata, gravari Conscien∣tiam
+<PB N="14" REF="11"/>
+suam senserat; quod onus ut
+deponeret; ad Orthodoxam Reli∣gionem
+animum convertit: Mox
+ut Conscientiam <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>uam exoneraret,
+machinatum in tot innocentes A∣nimas
+scelus, revelandum censuit,
+levamen se percepturum, si in si∣num
+amici talia effundat. Quo fa∣cto
+ab eodem amico serio conmo∣nitus,
+verae conversionis, Charitis∣que
+exemplar ostenderet; libera<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>et
+ab imminenti discrimine, inno∣centes
+tot Animas; In cujus mo∣nita
+lubens consenserat, calamo∣que
+sequentia excipiendum dederat,
+ex quibus Articuli non ita pri∣dem
+tuae Reverentiae oblati, lucu∣lenter
+explicari &amp; demonstrari po∣terunt.</P>
+<P>1 Ante omnia, ut Cardo rei re∣cipiatur,
+sci<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ndum est, omnes istas,
+quibus tota Christianitas hodie con∣cutitur,
+factiones, exoriri, ab Je∣suitica
+ista Chamea Sobole, cujus
+quatuor per orb<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>m luxuriant or∣dines.</P>
+<P>Primi Ordinis sunt Ecclesiastici,
+quorum Religionis promotoria, est
+c<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>rar<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>.</P>
+<P>Secundi Ordi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>is sunt Politici, quo∣rum
+officium est, statum Regnorum,
+Rerumque publicarum, quo quomodo
+intentare, turbare, reformare.</P>
+<P>Tertii Ordinis sunt S<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>ulares, quo∣rum
+proprium est, Regibus, Principi∣busque,
+ad officia sese obtrudere, insi∣nuare,
+immiscere se rebus forensibus;
+emptionibus, venditionibusque, &amp;
+quae civilia sunt occupari.</P>
+<P>Quarti Ordinis Exploratores sunt,
+sortis inferioris homines, qui ser∣vitiis
+Magnatum, Principum, Ba∣ronum,
+Nobilium, Civium, sese
+sub nittunt, animis dominorum im∣posituri.</P>
+<P><PB N="15" REF="11"/>
+II.
+Tot ordinum societatem, Regnum
+Anglicanum alit: Vix enim tota Hispa∣nia,
+Gallia, &amp; Italia tantam multitudi∣nem,
+Jesuitarum, quantam unicum
+Londinum, exhibere posset: Ubi plus
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>uam 50 Scoti Jesuitae reperiuntur. Ibi
+sedem iniquitatis, dicta societas sibi ele∣git,
+Conspiravitque in Regem, Regique
+fidelissimos, inprimis vero Dominum
+Archiepiscopum Cantuariensem, etiam
+in regnum utrumque.</P>
+<P>III.
+Certo certius enim est; Determi∣<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>asse
+societatem nominatam, reforma∣<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ione
+universali Regnum Angliae tum
+Scotiae adficere; Determinatio ergò
+finis, in<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ert necessario determinationem
+mediorum ad finem.</P>
+<P>IIII.
+Ad promovendum ergo susceptum
+scelus, Titulo, <HI>Congregationis Fidei pro∣pagandae,</HI>
+dicta societas sese insignivit:
+quae <HI>Caput Collegii Pontificem Roma∣num,
+substitutum</HI> &amp; executorem, <HI>Cardi∣<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>alem
+Barbarinum,</HI> agnoscit.</P>
+<P>V.
+Patronus Societatis primarius Londi∣<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>i,
+est Legatus Pontificius, qui curam
+negotii gerit; <HI>in cujus sinum, saex illa
+proditorum omnia explorata, hebdo∣madatim
+deponit:</HI> Impetrata autem est
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>es<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>da Legationis istius Londini, Ponti∣fici<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+Romani nomine, qua mediante, Car∣dinali
+Barbarino, agere in Regem Reg∣<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>umque
+tanto tutius faciliusque liceret,
+Nullus enim alias, tam libere ambire
+Regem posset, quam ille qui Pontificia
+Auctoritate palliatus sit.</P>
+<P>VI.
+Fungebatur tùm temporis, <HI>Officio</HI>
+Legati Pontificii, Dominus Cuneus
+Conjura<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ae societatis instrumentum
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>niversale, &amp; serius negotii promotor;
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ujus secreta, ut &amp; aliorum explorato∣rum
+<PB N="16" REF="12"/>
+om<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ium, prae<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>eus vir bonus, com∣municator
+horum, excipiebat, expedie<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>batque
+quo res postulabat,</P>
+<P>Adoriebatur <HI>Cuneus,</HI> primaria Reg∣ni
+Capita, nihilque intentatum sivi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>,
+quomodo singula corrumperet &amp; ad
+partem Pontificiam inclinaret; var<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>
+incitamentis plurimos alliciebat, <HI>Etiam
+Regem ipsum donationibus picturarum,
+A<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>tiquitatum, Idolorum, aliarumque
+vantitatum Româ allatarum, deludendum
+quaer<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>bat, quae tamen apud Regem nihil
+prof<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>erant.</HI></P>
+<P><HI>Familiaritate inita cum Rege,</HI> roga∣tur
+saepius <HI>Hantocurti,</HI> etiam <HI>Londini,</HI>
+Palatini causam ageret, interponeret∣que
+autoritatem suam, intercession<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+Lega<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>o Coloniensi persu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>deret, ut pala∣tinus
+in conditiones, proximis Comitii<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+de pace acturis, insereretur, quod
+quidem pollicitus est; contrarium vero
+praestitit; scripsit quidem.<NOTE N="*" PLACE="marg">Jesuites know well how to e∣quivocate thus.</NOTE> <HI>Regatum
+se de talibus <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>b Rege fuisse, non consulere
+tamen, ut consentiatur,</HI><NOTE N="*" PLACE="marg">If Popes must not favour pro∣<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>stant Princes, its a miracle that they should favor them, or harbour any of their agents now neer them.</NOTE> <HI>ne ab Hispani<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+fortasse dicatur, Pontificem Romanum
+Principi Haeretico patrocinatum fuisse.</HI></P>
+<P>Subolfecit interim <HI>Cun<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>us,</HI><NOTE N="*" PLACE="marg">The papacy of <HI>Cant.</HI> and this other world is of greater value then an Italian Cardinalship.</NOTE> ab do∣mino
+A<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>chiepiscopo Regi fidelissimo,
+totum animu<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/> Regium esse pendulum<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+Omnem se motu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>um lapidem, nervos∣que
+adplicaturum statuerat, ut ad par∣tem
+suam lucrari p<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ssit: Paratum <GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>
+habere medium certò confisu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>; <HI>Man∣datum
+enim hab▪ bat, Pileum Cardinalem,
+nomine Pontificis Romani, domino Archie∣piscopo
+offerret, lactaretque pollicitis etiam
+sublimioribus,</HI> ut animum si <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>cerum
+corrumperet: Commoda tamen occa∣sio
+nunquam dabatur, qua domino
+Archiepiscopo sele in<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>inuare posse<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+(quaerebat enim Scorpius ovum)
+<PB N="17" REF="12"/>
+Per <HI>Comitem &amp; Comitissam Arondelianā,</HI>
+etiam per <HI>Secretarium Windibankum;</HI>
+liber accessus impetrari debeat. Quo∣rum
+omnium intercessionibus neglectis,
+societatem vel familiaritatem Cunei,
+peste pejus fugiebat; Persuadebatur
+etiam ab aliis non infimis, ipsi bene
+notis, nec tamen conmovebatur.</P>
+<P>VII.
+Quaerebatur &amp; alius qui ad facinus
+detestandum accessum impediebat, <HI>Se∣cretarius
+Cook;</HI> erat is o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>or Jesuitarum
+infensissimus, quibus aditum ad Regem
+intercipiebat, excipebat plurimos pro
+meritis, in illorum factiones sedulo
+i<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>quirebat; quo nomine incitamentum
+omne, vi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> magneticam ad partem
+Pontificiam spirans, erat apud ipsum
+inefficax, nihil enim tam carum erat,
+quod ipsum ad pravum inclinasset:
+Hinc, Conjurationis Patronis exosus
+factus; pe<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>iclitabatur de officio ut
+exueretur, laborabatur per triennium,
+quod ultimo impetratum.</P>
+<P>Mansit nihilominus ab parte Regis,
+nodus solutu difficilis; Dominus Ar∣chiepiscopus
+enim constantia sua, sicuti
+durissimum sese interposuit saxum.</P>
+<P>Laborasse se incassum, ab parte do∣mini
+Archiepiscopi Cuneus cum intel∣lexisset,
+efferbuit m<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>litia ipsius, totiusque
+Societatis; mox <GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> parari caeperunt,
+quibus dominus Archiepiscopus una
+cum Rega caperetur.</P>
+<P>In regem quoque (cujus gratia totum
+istud disponitur Negotium) à quo
+quia nihil quod promovendae Religioni
+Papisticae inserviret speratur, (impri∣mis
+verò, <HI>Cum animum suum aperuerit,
+se ejus opinionis esse, quemvis in Re∣ligione
+sua dummodo vir probus
+<PB N="18" REF="13"/>
+&amp; pius sit, Salvari p<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>sse) sententia
+lata est.</HI></P>
+<P>VIII.
+Ad perpetrandum susceptum facinus,
+executio criminalis VVestmonaste<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>i,
+per scripta nonualla Puritanorum cau∣sata,
+primi incendii ansam dedit, quae
+res ab Papistis apud Puritanos in tan∣tum
+ex<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>cerbabatur, exaggerabaturque,
+ut si inulta maneret, Religioni ipsis du∣ceretur;
+cujus incendii, subsequens tan∣dem
+liber precum, flammas auxit.</P>
+<P>IX.
+In isto fervore expeditus furit ad Sco∣tos
+ab parte pontificia Comes quidam
+Scotus <HI>Maxfi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ld,</HI> ni fallor nomine, cum
+quo, duo alii Comites Scoti Papistae,
+correspondebant. Is commovere debe∣bat
+plebem, injuriamque refricare ut
+animos accenderet, ad arma precipita∣ret,
+quibus noxius libertatis Scoticae
+perimeretur Turbator.</P>
+<P><HI>X.
+Ibi una opera paratus in Casses Regi,
+eo enim directum esse praesens negoti∣um
+ut Anglorum complurimi sese ad∣glutinarent
+Scotis;</HI> Rex armis maneret
+inferior, qui ab Papistis auxilia petere
+cogeretur, quae tamen non impetraret,
+nisi in conditiones descenderet, quibus
+libertatem Vniversalem exercitii Religi∣onis
+Pontifi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>iae, permitteret; it a enim
+res Papistarum ad nutum succederent,
+Quo consensu si difficiliorem sese exhi∣buerit,
+remedium erit in promptu: A∣dolescente
+enim cum primum Regio
+filio, (qui à teneris, ut parti Pontificiae
+adsuescat educatur) de Rege actum est:
+<PB N="19" REF="13"/>
+Nux quippe Indica acutissimo veneno
+referta in societate servatur (quam <HI>Cu∣neus</HI>
+tum temporis gloriabundus mihi
+oftentabat) quo Regi exemplo Patris,
+parabatur Pharmacum.</P>
+<P>XI.
+In ista Commotione Scotica <HI>Mar∣quesse
+d' Hamelton</HI> saepius Regis nomine
+ad Scotos ablegatur, regiam auctorita∣tem
+interponere<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>, quâ aestus animorum
+mitigaretur, sine fructu tamen, reque
+infecta toties reversu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>. <HI>Ipsius Concio∣nator
+tum temporis nos adiit, qui cum</HI>
+Cuneo <HI>secretè nonnulla Communicavit;</HI>
+Interrogatus a me, joco; <HI>Num etiam
+Iudaei, cum Samaritanis convenirent?</HI>
+Ad quae <HI>Cuneus</HI> respondit, <HI>Vtinam omnes
+ministri tales, ut ipse, essent;</HI> conjiciatur
+hinc quidcunque.</P>
+<P>XII.
+<HI>Rebus sic stantibus, ab</HI> Cardinali
+Richelieu, <HI>Dominus</HI> Thomas Cam<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ra∣rius,
+<HI>Sacellanus &amp; Eleemosinarius ipsi∣us,
+natione Scotus,</HI> Londinum <HI>adpu∣lit;</HI>
+Qui Colleg<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>o Societatis conjuratae
+adsidere debebat, rem{que} seriò agere, <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ihil
+intentatum relinquere, quo primus ex∣asperaretur
+servor. Quo officio honora∣rium
+Episcopatus, erat ipsi pollicitum.
+Cohabitabat &amp; Societati per quatuor
+Menses, nec prius discedendum licebat,
+donec rebus ex voto cedentibus, cum bonis
+novis redux fieri possit.</P>
+<P>XIII.
+Cavalliero <HI>To<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ias Mathei</HI> Sacerdos
+Jesuita, ordinis politicorum, è capiti∣bus
+primariis homo vigilantissimus,
+cui nunquam tam charum cubile, quo
+<PB N="20" REF="14"/>
+caput reclinet; ad sellam tantum, hor<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>∣una,
+at que altera, somno corpus reficit;
+nec diei nec nocti, machinamētis parcit,
+vir summè noxius &amp; ipsa Regis, Reg∣nique
+Angliae Pestis, homo impudentis∣simus,
+qui per omnia convivia, epulas∣que,
+vocatus vel non vocatus, volitat;
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>unquam quietus, <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>emper in actione,
+mo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>uq<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e perpetuo; singulis Conver∣sationibus
+Superiorum immiscuit, ur∣get
+familiarè colloquis, ut animos
+hominum expiscaretur; Quic quid in∣de
+ad partes Conjuratorum commodi
+vel incommodi concernere advertit,
+Legato Pontificio communicat, Secre∣tioria,
+ipse ad Pontificem vel Cardina∣lem
+Ba<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ba<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>inum perscribit. In summa,
+cuivis societati sese adglutinat, nullum
+ve<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>bum effari potest, quod ipse non
+arripiat &amp; ad partes suas accommodet.
+Quicquid interea temporis expiscatus,
+in catalogum redigit, &amp; quavis Aestate
+ad Consistorium generale Jesuitarum
+Politico<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ū quod in Provincia Wallen∣si
+secretò concurrit, hospes acceptus
+de<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ert. Ibi tacitè consilia cuduntu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> quae
+ad convulsionem status Ecclesiastici,
+turn Politici, Regni utriusque sunt
+aptissima.</P>
+<P>XIIII.
+Capitaneus <HI>Reda</HI> Scotus, habitans
+in platea Longaker, prope tabernam
+Angeli, Jesuita saecularis, quiob dete∣standum
+officium praestitum (quo mi∣nistrum
+quendam Ecclesiae, incitamen∣tis
+dulcibus ad religionem Papisticam,
+tota cum familia ipsius perverterat,
+filia ipsius in uxorem ducta) pro repen∣sa
+obtinuit reditus vel vectigal Butirace∣um,
+quod rustici sibi praestare tenen∣tur,
+adquisitum ipsi ab rege, per non∣nullos
+Societatis praecipuos; cui sti∣mulus
+nunquam deficit, quo in officio
+<PB N="21" REF="14"/>
+constans de<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ineatur. In ipsius ae<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ibus
+Rei totius peragitur Negotium, ubi So∣cietas
+quae in Regem &amp; dominum Ar∣chiepiscopum,
+regnumque utrumque
+conjuravit, plerumque diebus singulis
+concurrit; Die vero expeditionis tabel∣larii,
+quae ordinariè est dies veneris,
+tanto frequentiores, tum enim omnes
+exploratores conveniunt, quae quisque
+ea hebdomada expiscatus est, in com∣mune
+conferunt; qui ut extra suspitio∣nem
+sint, secreta sua per <HI>Tobiam Ma∣thei</HI>
+vel ipsum <HI>Redam,</HI> ad Legatum Pon∣tificium,
+amandant; ipse, fasciculum
+compactum quem ab exploratoribus
+nundinatus est, Romam transmittit.</P>
+<P>Apud eundem <HI>Redam</HI> deponuntur
+literae <HI>Roma</HI> illatae, sub titulis &amp; nomi∣nibus
+fictis, quae per ipsum singulis ad
+quos spectant traduntur, illorum enim
+omnium &amp; singulorum nomina ipsi sunt
+cognita.</P>
+<P>Eadem ipsa occasione adferuntur
+etiam literae, sub coperta Patris <HI>Philippi</HI>
+(ipso tamen rerum nescio) a quo
+conjuratis dstribuuntur.</P>
+<P>Habetur in illis ipsis aedibus Sacellum
+publicum; cui Jesuita ordinarius con∣secrat,
+ibidemque habitat. In dicto
+Sacello missae celebrantur quotidie à
+Jesuitis▪ Baptism<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>que liberis domesticis
+&amp; nonnullorum conjuratorum inser∣vitur.</P>
+<P>Qui in nominatis aedibus concur∣runt,
+Rhodis vel Equis, frequenter
+habitu Politico, magnoque Comitatu,
+quo palliantur ne innotescant, Jesuitae
+tamen sunt, &amp; membra societatis
+conjurata.</P>
+<P><PB N="22" REF="15"/>
+XV.
+Hoc caetu contribuitur ab omnibu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+Papistis Angliae, ne quidquam ad pro∣movendum
+susceptum negotium de<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>∣ciat.
+In quem fiscum, unica vidua pro∣prietaria
+olim aedium quas modo Secre∣tarius
+<HI>Windebanck</HI> inhabitat, ante trien∣nium
+defuncta 40000 librarum Angli∣carum,
+contulit; sic &amp; alii etiam citra∣vires faciunt, modo ad optatum finem▪
+promoveatur negotium.</P>
+<P>XVI.
+Praeternominatas Eedes, etiam pe<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+alia loca secretiora fiunt conventicula,
+de quibus ne inter se quidem fidunt,
+met<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> ne dispatentur. Convocantur pri∣mo
+ad certa diversoria singuli (alter
+alterius inscius) hinc per exploratores
+ad locum ubi convenire debent, singuli
+deducuntur, ignari alias ubi conventuri
+sint, ne forte insperato obruantur.</P>
+<P>XVII.
+Comitissa'd Arondel, strenua Ponti∣ficiae
+Religionis propugnatrix, ad Re∣formationem
+universalem omnes ner∣vos
+intendit, quicquid ad aulam regis▪
+secretè vel apertè verbis vel factis geri∣tur,
+Legato Pontificio infinuat, cum
+quo ad minimum ter de die, modo in
+Aedibus Arondelianis, jàm ad aulam
+vel Tarthalae cum ipso congreditur;
+Ex ungue talia vix exugit.</P>
+<P>Ipse C<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>mes vocatus jam à triennio
+hoc anno ire debebat Romam, acturu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+ibi dubio procul de seriis Negotium
+concernentibus.</P>
+<P><PB N="23" REF="15"/>Donis dictionibusque suis, Jesuitae missis
+invigilant.</P>
+<P>Grinwici, impensis Comitis, Schola
+foeminea sustentatur; quaealias Monaste∣rium
+Monialium est; Adultae enim inibi
+Juvenculae, hic inde per extera transmari∣na
+monasteria, emittuntur.</P>
+<P>18. Dominus <HI>Porter,</HI> Cubicularius Re∣gius,
+Pontificiae Religioni addictissimus;
+Regis infensus hostis, Is ipsius secretissi∣ma
+quaeque, Legato Pontificio aperit,
+quamvis rarissi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e cum ipso conveniat;
+Uxor tant<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> saepiùs, quae ab marito infor∣mata,
+Legato secreta confidit: In omni∣bus
+suis actionibus Tobiae Mathei nihil
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>dit; effari non potest qualiter negotio
+invigilet.</P>
+<P>Filii ipsius in Religione Pontificia o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>∣culte
+informantur, aperte Reformatam
+profitentur. Major natu offic<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>um Patris
+suscepturus, sub Rege suturo; Alteri, si
+negotium bene successerit, pileus Cardina∣lis
+paratus est.</P>
+<P>Ante triennium ablegari debebat di∣ctus
+Dominus Portera Rege Marochum;
+prohibitus fuit ab societate, ne moram pa∣teretur
+Negotium.</P>
+<P>Patronus est Jesuitarum, quibus ad exer∣citium
+Religionis, Sacella, domi, forisque
+subministrat.</P>
+<P>19. Secretarius Windebank, Papista
+acerrimus, Regi omnium infidelissimus
+qui non solum secretissima etiam quaeque
+Regia prodit &amp; revelat, sed etiam consilia
+quibus optime Negotio consuleretur,
+communicat. Ipse ad minimum ter in
+hebdomada, per nocturna conventicula
+cum legato conversatur; injungitque quae
+scitu digna cogitat: cujus causa, aedes vici∣nas
+Legati Domo conduxit, quem saepius
+per portam horti adit, hac enim vicinita∣te,
+facilitatur congressus.</P>
+<P><PB N="24" REF="16"/>Dictus Secretari<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/> ad partem societa∣tis
+conjuratae, muneribus emptus est, qui∣bus
+sustentatur, ut magis seriò officium
+peragat.</P>
+<P>Filium suum expressè Romam misit,
+qui Romano Pontisici sese insinuare de∣bebat.</P>
+<P>20 Cavalliero Digbi, Cavalliero Win∣ter,
+Dominus Mountague Junior, qui Ro∣mae
+fuit, Mi-lord Sterling; Congnatus
+Comitis d'Arundel, Eques: Comitissa
+de Neuport, Duciffa Buckingham, &amp; ple∣rique
+alii qui in Conditionem, hanc jura∣runt,
+omnes in opere sunt vigilantissi<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>i.
+Horum alii, Aulicorum; alii Politico∣rum
+officiorum spe inescantur: Alii ad
+sexdecim pileos Cardinales vacantes at∣tendunt,
+qui ideo ab aliquot annia otiosi
+detinent u<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>, ut spem vanam expectantibu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+imponant.</P>
+<P>21 Praeses nominatae societatis erat Mi
+lord Gage, Sacerdos Jesuita, ante trien∣nium
+defunctus: Habebat is palatium,
+lascivis picturis exornatum, quae propha∣nitatem
+in aedibus mentiebantur, pallia∣batur
+vero illis Monasterium, quo qua∣draginta
+Moniales sustentabantur, tanto
+Palatio occultatae; Situm est in Platea
+Reginae; quam statua Regina aurea deco∣rat.
+Istam plateam totam Jesuitae secul<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>res
+emerunt, redegeruntque in quadratum, ubi
+tacitè Collegium Jesuiticum extruit<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>, eâ
+spe, ut quamprimum reformatione uni∣versali
+Incepta, apertè elaborar<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> possit.</P>
+<P>Legatus Pontificius triplici Charactere
+five cifra utitur: Uno, quo, cum omni∣bus
+Nunciis communicae: Altero cum
+solo Cardinale Barbarino: Tertio, quo
+secretioria nonnulla communicanda uc∣culta<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>.</P>
+<P>Quaecunqu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> per hebdomadam ab socie∣tate
+aut aliis exploratoribus excepit, illa
+uno fasciculo consarcinat, sub inscripti∣one,
+<PB N="25" REF="16"/>
+Al Monsignior Stravio Archidiacono
+de Cambray, dedicat, a quo tandem pro∣moventur
+Romam.</P>
+<P>His ita constitutis, <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>i singula ad truti∣nam
+ponantur, sati<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>fiet in specie, omnibus
+articulis propositis.</P>
+<DIV3 TYPE="section">
+<HEAD>QUIBUS.</HEAD>
+<P>1. COnjuratio in Regem &amp; Dominum
+Archiepiscopum detegitur; Media
+quibus exitium utrique minatur, demon∣stra<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>tur.</P>
+<P>2. Pericula Regno utrique imminentia re∣censentur.</P>
+<P>3. Exortus incendii illius Scotici &amp; pro∣gressus
+ennarratur.</P>
+<P>4. Media quibus tu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>bae istae Scoticae sedari
+possint, suggeruntur; postquam enim resci∣verint
+Scoti, à quibus &amp; in quem finema∣nimi
+ipsorum accendantur, consulent sibi
+propere; neque utriusque partis vires suc∣cumbere
+sinent; ne medius sese interp<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>at
+qui utramque quaerit.</P>
+<P>5. Quo ense Regis petatur jugulum, etiam
+turbis istis sopitis, Cun<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>i Confessio, ocu∣lataque
+demonstratio, do<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>et.</P>
+<P>6. Locus Congr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>gationis in aedibus Capi∣tanei
+Redae nominatur.</P>
+<P>7. Dies expeditionis octiduae per Redam
+&amp; Legatum injungitur.</P>
+<P><PB N="26" REF="17"/>
+8. Q<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>o modo nomina conjuratorum in∣notescere
+possint.</P>
+<P>9. Ubi tota ista Congregatio possit cir∣cumveniri.</P>
+<P>10. Infideles nonnulli ab parte Regis prae∣cipuorum
+de nomine notificantu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>, plures,
+quorum nomina non occurrunt, habitati∣ones
+tamen notae sunt; de nomine facile
+ab Reda extorqueri poterunt.</P>
+<P>Si cau<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>è in his procedetur, nervus to∣tius
+negotii in apricum prodibit, ita Sa∣gitta
+piaevisa, effugietur periculum, quod
+ut succedat prospere, Creator omnipo∣tens
+faxit,</P>
+</DIV3>
+</DIV2>
+<DIV2 LANG="eng" TYPE="version">
+<OPENER><SALUTE>Most illustrious and Reve∣rend
+Lord.</SALUTE></OPENER>
+<P>WE have willingly and cordi∣ally
+perceived, that our offers
+have been acceptable both
+to his <HI>Royall Majestie,</HI> and
+likewise to your <HI>Grace.</HI> This is the only
+Index to us, That the blessing of God is
+present with you, whereby a spur is gi∣ven,
+that wee should so much the more
+cheerfully and freely utter and detect
+those things whereby the hazard of both
+your lives, the subversion of the Realme
+and State both of <HI>England</HI> and <HI>Scot∣land,</HI>
+the tumbling down of his Excellent
+Majesty from his Throne, is intended.
+Now least the Discourse should be enlar∣ged
+with superfluous circumstances, we
+will onely premise some things which are
+meerly necessary to the businesse.</P>
+<P>They may first of all know, that this
+<NOTE N="*" PLACE="marg">The qua∣lity of the discovere<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> &amp; meane<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> inducing him to re∣veale this plot.</NOTE> good man, by whom the ensuing things
+are detected, was borne and bred in the
+Popish Religion, who spent many yeeres
+in Ecclesiasticall dignities, At length be∣ing
+found fit for the expedition of the pre∣sent
+Designe, by the counsell and man∣date
+of the Lord Cardinall <HI>Barbarino,</HI> he
+was adjoyned to the assistance of Master
+<HI>Cuneus</HI> (<NOTE N="*" PLACE="marg">The Popes Nuncio then in England.</NOTE> <HI>Cun</HI>) by whom he was found
+so diligent and sedulous in his Office, that
+hope of great promotion was given to
+him. Yet he, led by the instinct of the good
+Spirit, hath, howsoever it be, contemned
+sweet promises, &amp; having known the va∣nities
+of the Pontifician Religiō (of which
+he had sometime been a most severe de∣fender)
+having <HI>likewise noted the ma∣lice
+of those who fight under the Po∣pish
+<PB N="14" REF="11"/>
+banner, felt his Conscience to be
+burdned; which burden that he might
+ease himself of, he converted his mind
+to the Orthodox Religion.</HI> Soon af∣ter,
+that he might exonerate his Consci∣ence,
+he thought <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>it, that a desperate Trea∣son,
+machinated against so many soules,
+was to be revealed, and that he should
+receive ease if he vented such things in∣to
+the bosome of a friend: which done, he
+was seriously admonished by the said
+friend, that he should shew an example of
+his conversion and charity, and free
+so many innocent soules from imminent
+danger. To whose monitions hee wil∣lingly
+consented, and delivered the
+following things to be put in writing, out
+of which the Articles not long since ten∣dered
+to your Grace, may be cleerly ex∣plicated
+and demonstrated.</P>
+<P>1 First of all,<NOTE PLACE="marg">Four sorts of Jesuits.</NOTE> that the hinge of the
+businesse may be rightly discerned, it is
+to be known, that all those factions with
+which all Christendome is at this day
+shaken, do arise from the Iesuiticall off∣spring
+of <HI>Cham,</HI> of which four orders
+abound thorowout the world.</P>
+<P>Of the first Order are Ecclesiasticks,
+whose office it is to take care of things
+promoting Religion.</P>
+<P>Of the second Order are Politicians,
+whose office it is by any means to shake,
+trouble, reforme the state of Kingdomes
+and Republikes.</P>
+<P>Of the third Order are Seculars, whose
+property it is to obtr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>de themselves into
+Offices with Kings and Princes, to in∣sinuate
+and immix themselves in Court
+businesses, bargains and sales, and to be
+busied in civill affairs.</P>
+<P>Of the fourth Order are Intelligencers
+(<HI>or spies</HI>) men of inferiour condition,
+who submit themselves to the<NOTE N="*" PLACE="marg">A good caveat to Nobles &amp; Gentle∣men to beware they en∣tertaine not a Jesu∣it or Ro∣mish spie in their houses in stead of a servant.</NOTE> services of
+great men, Princes, Barons, Noblemen,
+Citizens, to deceive (<HI>or corrupt</HI>) the
+mindes of their masters.</P>
+<P><PB N="15" REF="11"/>2. A Society of so many Orders, <HI>the</HI>
+<NOTE N="*" PLACE="marg">We had need look about, when so many active Traytors are harboured among us, even perchance at this present,</NOTE> <HI>Kingdome of</HI> England <HI>nourisheth: for scarce all</HI> Spain, France, <HI>and</HI> Italy, <HI>can
+yeeld so great a multitude of Jesuites,
+as</HI> London <HI>alone; where are found more
+then 50 Scottish Jesuites.</HI> There the
+said society hath elected to it selfe a seat of
+iniquity, and hath c<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>nspired against the
+King, and the most faithfull to the King,
+especially the Lord Archbishop of <HI>Can∣terbury,</HI>
+and likewise against both king∣domes.</P>
+<P>3. For it is more certaine then cer∣tainty
+it self,<NOTE PLACE="marg">Therfore both Kindoms need look to them∣selves.</NOTE> that the forenamed society
+hath determined to effect an universall
+reformation of the Kingdome of <HI>Eng∣land</HI>
+and <HI>Scotland. Therefore the deter∣mination
+of the end, necessarily infers a de∣termination
+of means to the end.</HI></P>
+<P>4. <HI>Therefore to promote the undertaken
+Villany,</HI><NOTE PLACE="marg">Strange that such a society should be erect∣ed under the Defender of the faith.</NOTE> <HI>the said society dubbed it selfe
+with the Title of,</HI> The Congregation of
+propagating the Faith; <HI>which acknow∣ledgeth</HI>
+the Pope of Rome the Head of
+the Colledge, and <HI>Cardinall</HI> Barbarino
+his substitute and Executor.</P>
+<P>5. <HI>The</HI> chief Patron of the society
+at <HI>London,</HI><NOTE PLACE="marg">A strange world when a Popes Legate shall be openly harboured so neere the King and Court, and have fr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ccesse to both with∣out controule.</NOTE> is the Popes Legat, who
+takes <HI>care of the businesse; into whose
+bosome, these dregs of Traytors weekly
+deposite all their Intelligences.</HI> Now the
+residence of this Legation, was obtai∣ned
+at <HI>London,</HI> in the name of the <HI>Roman</HI>
+Ponti<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e, by whose mediation it might
+be lawfull for Cardinall <HI>Barbarino,</HI> to
+work so much the more easily &amp; safely
+upon the King and kingdom.<NOTE PLACE="marg">If the King truly hate the Pope, it will make his In∣struments lesse effectuall, if they come in his name.</NOTE> <HI>For none
+else could so freely circumvent the King,
+as he who should be palliated with the</HI>
+Popes <HI>Authority.</HI></P>
+<P>6. Master <HI>Cuneus</HI> did at that time
+enjoy the Office of the <HI>Popes Legat,</HI><NOTE PLACE="marg">Popes Instru∣ments are ever very active.</NOTE> an
+Vniversall Instrument of the conjured
+society, and a serious Promoter of the
+businesse, whose secrets, as likewise those
+of all the other Intelligencers, the present
+<PB N="16" REF="12"/>
+goodman, the Communicator of all these
+things, did receive and expedite whither
+the businesse required.</P>
+<P>Cuneus <HI>set upon the chief men of the
+Kingdom,</HI><NOTE PLACE="marg">Strange it was that the chiefe men should not set themselves against him &amp; his, to send thē packing hence; especially that the King him∣selfe did it not when he thus tempted &amp; as∣saulted him.</NOTE> <HI>and left nothing unattempted,
+by what means he might corrupt them all,
+and in<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>line them to the pontifician party:
+he inticed many with various incitements,</HI>
+yea, he sought to delude the King him∣selfe
+with gifts of Pictures, antiquities,
+Idols, and of other vanities brought
+from <HI>Rome,</HI> which yet would preva<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>le
+nothing with the King.</P>
+<P>Having entred familiarity with
+the King,<NOTE PLACE="marg">That a Popes <HI>Legat</HI> should be so familiar with the King, and the King make much of him in steed of ba∣nishing him, is a riddle.</NOTE> he is often requested at Hampton
+Court, likewise at <HI>London, to undertake
+the cause of the</HI> Palatine, <HI>and that he
+would interpose his Authority, and by his
+intercession perswade the</HI> Legat <HI>of</HI> Colen,
+<HI>that the</HI> Palatine <HI>in the next Diet to treat
+of peace, might be inserted into the Con∣ditions;
+which verily he promised, but
+performed the contrary. He writ indeed,
+that he had been so desired by the King con∣cerning
+such things,</HI> yet he advised not
+that they should be consented to, lest
+peradventure it might be said by the
+<HI>Spaniard,</HI> that the Pope of ROME had
+patronized an hereticall Prince.</P>
+<P><HI>In the meane time,</HI> Cuneus smelling
+<NOTE N="*" PLACE="marg">The Archb. therefore, &amp; he, had some fami∣liarity, and ac∣quaintance at first.</NOTE> from the Archbish. most trusty to the
+King, that the Kings mind was wholy
+pen<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ulous (or doubtfull.) Resolved,
+That he would move every stone, and
+apply his forces, that he might gaine
+him to his party: <HI>Certainly confiding,
+that he had a meanes prepared.</HI> For he had
+a command to<NOTE N="*" PLACE="marg">This offer ap∣pears under the Archbishops own hand in the Journall of his life.</NOTE> offer a Cardinalls Cap
+to the Lord Archbishop in the name of
+the Pope of ROME, and that hee
+should allure him also with higher
+promises, that hee might corrupt his
+sincere minde. <HI>Yet a fitting occasion was
+never given, whereby he might insinuate
+himselfe into the Lord</HI> Archbishop (<HI>for
+the Scorpion sought an Egge: Free
+<PB N="17" REF="12"/>
+accesse was to be impetrated by the Earl
+and Countesse of</HI> Arundel, <HI>likewise by</HI>
+Secretary Windebanke: <HI>The intercessi∣on
+of all which being neglected, he did
+flie the company or familiarity of</HI> Cuneus,
+<HI>worse then the plague:</HI><NOTE PLACE="marg">But he kept not him from the Court.</NOTE> <HI>He was likewise
+perswaded by others of no mean rank,
+well known to him, neither yet was he
+moved.</HI></P>
+<P>7. Another also was assayed,<NOTE PLACE="marg">Jesuites are both diligent and able to re∣move their greatest oppo∣sites at Court from out of place and fa∣vour too.</NOTE> who hindred
+accesse to the detestable wickednesse, <HI>Se∣cretary
+Cook,</HI> he was a most bitter hater
+of the <HI>Jesuites,</HI> from whom he intercepted
+accesse to the King, he entertained many
+(of them) according to their deserts, he
+diligently inquired into their factions;
+by which means every incitement, breath∣thing
+a magneticall <HI>(attractive)</HI> power
+to the Popish party, was ineffectuall with
+him; for nothing was so dear unto him,
+that might incline him to wickednesse.
+Hereupon being made odi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>us to the Pa∣trons
+of the Conspiracy▪ he was endange∣red
+to be discharged from his Office;<NOTE N="*" PLACE="marg">It is admirable this faction should be so powerfully predominant as to displace the greatest and faithfullest Officers.</NOTE> it
+was laboured for three yeers space, and at
+last obtained.</P>
+<P>Yet notwithstanding there remained
+on the Kings part a knot hard to be un∣tied,
+for the Lord Archbishop by his con∣stancy,
+interposed himselfe as a most hard rock.</P>
+<P>When <HI>Cuneus</HI> had understood from the
+Lord Archbishops part,<NOTE PLACE="marg">Iesuites wil be sure to move hell, when they cannot prevail with Heaven.</NOTE> that he had
+laboured in vain, his malice and the whole
+Societies waxed boyling hot: soon after
+ambushes began to be prepared, wherwith
+the Lord Archbishop together with the
+King should be taken.</P>
+<P><HI>Likewise a sentence is passed against the
+King (for whose sake all this businesse is
+disposed) because nothing is hoped from
+him,</HI><NOTE PLACE="marg">Jesuites cannot indure neuters. If a man may be saved in any Religiō, he may safely imbrace any and cleave close to none.</NOTE> <HI>which might seem to promote the
+Popish religion (but especially</HI> when he
+had opened his minde, that he was of
+this opinion, that every one might be
+<PB N="18" REF="13"/>
+saved in his own religion, so as he be
+an honest and pious man.)</P>
+<P>8. To perpetrate the Treason undertaken,
+the criminall<NOTE N="*" PLACE="marg">The Bishops ty<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>nny against Puritans the best advantage, and greatest ad∣vancement of popes designes.</NOTE> Execution at <HI>VVestminster,</HI>
+caused by some writings of <HI>Puritans,</HI> gave
+occasion of the first fire: which thing was
+so much exasperated &amp; exaggerated by
+the <HI>Papists</HI> to the <HI>Puritans,</HI> that if it re∣mained
+unrevenged, it would be thought a
+blemish to their Religion; The flames of
+which fire, the subsequent Book of<NOTE N="*" PLACE="marg">He means the Scottish Prayer book; the alter∣ations whereof frō the <HI>English,</HI> were found in the Originall copy, under the Archbishops own hand, whē his chamber was searched. The Jesuits love to fish when the Bi∣shops trouble the streames with their innovations and Popish Ceremonies▪ The <HI>Iesuits</HI> the plotters &amp; chief directors of the Scotish war.</NOTE> <HI>Pray∣ers</HI>
+increases.</P>
+<P>9. In this heat, a certain Scotish Earl,
+called <HI>Maxfield,</HI> if I mistake not, was
+expedited to the <HI>Scots</HI> by the Popish par∣ty;
+with whom two other Scotish Earls,
+Papists, held correspondency: he ought
+to stir up the people to Commotion, and
+rub over the injury afresh, that he might
+enflame their minds, precipitate them
+to Arms, by which the hurtfull di∣sturber
+of the Scotish Liberty might be slain.</P>
+<P>10. <HI>There, by one labour, snares are
+prepared for the King; for this purpose
+the present businesse was so ordered, that
+very many of the</HI> English <HI>should adhere
+to the</HI> Scots; That the King should
+remaine inferiour in Armes, who (<HI>ther∣upon</HI>)
+should be compelled to crave
+assistance from the Papists; which yet
+he should not obtaine, unlesse he would
+descend unto<NOTE N="*" PLACE="marg">The King tied to conditions by papists befor they aided him</NOTE> conditions, by which he
+should permit<NOTE N="*" PLACE="marg">Now practis∣ed in <HI>Oxford, Wales,</HI> and the Northern parts, by open toleration.</NOTE> Universall liberty of
+the exercise of the Popish Religion;
+for so the affairs of the Papists would
+succeed according to their desire. To
+which consent, if he should shew him∣self
+more difficult, there should be a pre∣sent
+remedy at hand: For the Kings Son
+growing now very fast to his youthfull
+age (who is<NOTE N="*" PLACE="marg">The more shame &amp; pity, and a caveat for the Parliament henceforth to look to it.</NOTE> educated from his ten∣der
+age, that hee might accustome
+himselfe to the Popish party) the
+King is to bee dispatched: For an
+<PB N="19" REF="13"/>
+<NOTE N="*" PLACE="marg">The King thē must needs be in great danger amongst Papists now.</NOTE> Indian Nut stuffed with most
+sharp poyson, is kept in the Society (which
+<HI>Cuneus</HI> at that time shewed often to me
+in<NOTE N="*" PLACE="marg">Jesuites make but a vaunt of poysoning Kings.</NOTE> a boasting manner) wherein a poy∣son
+was prepared for the King; after
+the example of his<NOTE N="*" PLACE="marg">The Jesuites it seems know very well King <HI>Iames</HI> was poy∣soned, belike by some of their Instruments:</NOTE> Father.</P>
+<P>11. <HI>In this Scottish Commotion, the</HI>
+Marquesse <HI>of</HI> Hamelton, <HI>often dispatched
+to the Scots in the Names of the King, to
+interpose the royall Authority, whereby
+the heat of minds might be mitigated,
+returned notwithstanding as often with∣out
+fruit, and without ending the busi∣nesse:</HI>
+His Chaplaine at that time re∣paired
+to us, who<NOTE N="*" PLACE="marg">It seems some Noblemens Chaplains are but the Popes and Jesuites intelligencers, if not their confederates.</NOTE> communicated
+some things secretly with <HI>Cuneus. Be∣ing
+demanded of me injest,</HI> Whether also
+the Jewes agreed with the Samaritans?
+Cuneus <HI>thereunto answered; would to
+God all Ministers were such as he: what
+you will, may be hence conjectured.</HI></P>
+<P>12. <HI>Things standing thus,</HI><NOTE PLACE="marg">All forraigne popish States contribute their best assist∣ance to reduce <HI>England</HI> to <HI>Rome.</HI></NOTE> <HI>there arri∣ved
+at</HI> London <HI>from</HI> Cardinall Riche∣lieu,
+Mr. Thomas Chamberlaine,
+<HI>his Chaplain and Almoner,</HI> a Scot <HI>by
+Nation,</HI> who ought to assist the Col∣ledge
+of the confederate Society, and
+seriously to set forward the busi∣nesse,
+to leave nothing unattempted,
+whereby the first heat might be exaspe∣rated.
+<HI>For which service he was pro∣mised
+the</HI> reward of a<NOTE N="*" PLACE="marg">A meet guer∣don for such a service.</NOTE><NOTE N="*" PLACE="marg">Jesuites will not give over acting, till they accomplish their designes.</NOTE> Bishopricke,
+He cohabited with the Society, foure
+moneths space; neither was it lawfull
+for him first to depart, untill things
+succeeding according to his wish, he
+might be able to return back again with
+good newes.</P>
+<P>13. Sir <HI>Toby Matthew</HI> a Iesuited
+Priest,<NOTE PLACE="marg">Bishops Sons oftentimes the Popes greatest Agents.</NOTE> of the order of politicians, a most
+vigilant man of the chief heads, to whom
+a bed was never so dear, that he would rest
+his head theron, refreshing his body with
+<PB N="20" REF="14"/>
+sleep in a chair for an houre or two,<NOTE PLACE="marg">His industrious activity should shame our slothfulnesse.</NOTE> neither
+day nor night spared his machinations; a
+man principally noxious, and himselfe the
+Plague of the King and Kingdom of
+England; a most impudent man, who
+flies to all banquets, and feasts, called or
+not called; never quiet, alwaies in action
+&amp; perpetuall motion; thrusting himselfe
+into all conversations of Superiours; he
+urgeth conferences familiarly, that he
+may fish out the minds of men; what
+ever he observeth thence, which may bring
+any commodity or discommodity to the
+part of the conspirators, he communicates
+to the <HI>Popes Legat;</HI> the more secret
+things he himself writes to the Pope, or to
+<HI>Cardinall Barbarino.</HI><NOTE PLACE="marg">The protestants want of such mutuall corres∣pondency, and intelligence is a great weakning to their cause. Let them learn Wisedome by their Enemies.</NOTE> In sum, he ad∣joines
+himself to any mans company, no
+word can be spoken, that he will not lay
+hold on, and accommodate to his party.
+In the mean time, whatever he hath fished
+out, he reduceth into a Catalogue, and
+every summer carrieth it to the generall
+Consistory of the <HI>Jesuites</HI> politicks,
+which secretly meets together in the Province
+of<NOTE N="*" PLACE="marg">A fit place for their intelli∣gence and cor∣respondency with <HI>Ireland,</HI> lying in the midst between both.</NOTE> Wales, where he is an acceptable
+guest. There Councells are secretly ham∣mered
+which are most meet for the convul∣sion
+of the Ecclesiastick, and politick estate
+of both Kingdoms.</P>
+<P>14. <HI>Capiaine Read</HI> a Scot,<NOTE PLACE="marg">The Jesuites now make good use of all Nations and Instruments.</NOTE> dwelling
+in Longacre-streete, <HI>ne<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>r the</HI> Angell
+Taverne, a secular <HI>Jesuite,</HI> who for his
+detestable office performed (wherby he had
+perverted a certain Minister of the
+Church, with secret incitements to the
+Popish religion, with all his family,
+taking his Daughter to Wife) for a<NOTE N="*" PLACE="marg">O that such Romish sedu∣cers should ob∣taine such power and re∣wards for be∣ing seducing Instruments.</NOTE> re∣compence
+obtained a rent or impost upon
+butter, which the Country people are
+bound to render to him, procured for him
+from the King, by some chief men of the
+Society, who never want a spur, wherby
+he may be constantly detained in his Office:
+<PB N="21" REF="14"/>
+In his house the businesse of the whole
+Plot is concluded,<NOTE PLACE="marg">The Jesuites it seems are very powerfull at Court.</NOTE> where the Society
+which hath conspired against the King,
+the Lord <HI>Archbishop</HI> &amp; both <HI>Kingdoms</HI>
+meet together, for the most part every
+day: but on the day of the <HI>Carrier<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/></HI>
+(or <HI>Posts</HI>) dispatch, which is ordinarily
+<HI>Friday,</HI> they meet in greater numbers; for
+then all the Intelligencers assemble, and
+confer in common, what things every of
+them hath fished out that Week; who that
+they may be without suspi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ion,<NOTE PLACE="marg">The Popes weekly intelli∣gence at <HI>Rome,</HI> from hence, can produce no good to <HI>Eng∣land.</HI></NOTE> send their
+secrets by <HI>Toby Matthew,</HI> or <HI>Read</HI>
+himselfe, to the Popes Legat; he trans∣mits
+the compacted pacquet, which he
+hath purchased from the Intelligencers, to
+<HI>Rome.</HI></P>
+<P>With the same <HI>Read,</HI><NOTE PLACE="marg">Jesuites know how to conceal thei<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> Names and Lodgings▪</NOTE> the Letters
+brought from <HI>Rome</HI> are deposited, un∣der
+faired Titles and Names, who by him
+are delivered to al, to whom they appertain:
+For all and every of their Names are known
+to him.</P>
+<P>Vpon the very same occasion,<NOTE PLACE="marg">There are more Popish Chappels in and about <HI>Lon∣don,</HI> then are commonly known.</NOTE> Letters
+also are brought hither under the covert
+of <HI>Father Philip;</HI>(he notwithstanding
+being ignorant of things) from whom
+they are distributed to the Conspira∣tors.</P>
+<P>There is in that very <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>use a publik
+Chappell, wherin an ordinary <HI>Jesuite</HI>
+con<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ecrates, and dwels there. In the said
+Chappell Masses are daily celebrated by
+the <HI>Jesuites,</HI> and it serves for the baptizing
+of the Children of the House, and of some
+of the Conspirators.</P>
+<P>Those who assemble in the forenamed
+house,<NOTE PLACE="marg">Jesuites can counterfeit any habit, or part, to delude the vulgar.</NOTE> come frequently in Coaches or on
+Horse back in Lay-mens habit, and with
+a great Train, wherwith they are diguised,
+that they may not be known, yet they are
+<HI>Jesuites,</HI> and conjured members of the
+Society.</P>
+<P><PB N="22" REF="15"/>. All the Papists of <HI>ENGLAND</HI>
+contribute to this Assembly,<NOTE PLACE="marg">Papists large contributions to undermine our Religion, should make us liberall to de∣fend it.</NOTE> lest any
+thing should be wanting to promote the
+undertaken Designe. Vpon whose trea∣sury,
+one Widdow, owner of the Houses,
+wherein Secretary <HI>Windebanke</HI> now
+dwelleth, dead above three Yeares since,
+bestowed fourty thousand <HI>English</HI> pounds,
+so likewise others contribute above their
+abilities, so as the businesse may be pro∣moted
+unto its desired end.</P>
+<P>16. Besides the foresaid Houses,<NOTE PLACE="marg">Jesuites are as wise as Serpents though not so innocent as Doves.</NOTE> there
+are Conventicles also kept in other more
+secret places, of which verily they con∣fide
+not even among themselves, for fear
+lest they should be discovered. First,
+every of them are called to certain <HI>Innes,</HI>
+(one not knowing of the other;) hence
+they are severally led by Spies to the place
+where they ought to meet, otherwise igno∣rant
+where they ought to assemble, lest
+peradventure they should be surprised at
+unawares.</P>
+<P>17. <HI>The Countesse of Arundel,</HI><NOTE PLACE="marg">The Jesuits learne of the Serpent to se∣duce men by small instru∣ments to their ruine.</NOTE> a
+strenuous She-Champion of the Popish
+<HI>Religion,</HI> bends all her Nerves to the
+Vniversall Reformation; whatsoever
+she hears at the Kings Court, that is done
+secretly or openly, in words or deeds, she
+presently imparts to the <HI>Popes Legat,</HI><NOTE PLACE="marg">Her voyage to <HI>Rome</HI> to visit the Pope, made her frequently to visit his legat.</NOTE>
+with whom she meets thrice a day▪
+some∣times in <HI>Arundel</HI><GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> House, now at the
+Court, or at <HI>Tarthal▪</HI> He scarce sucks
+such things by the Claw.</P>
+<P>The Earl himselfe called now about
+three years since,<NOTE PLACE="marg">The Countesse belike was his forerunner thi∣ther.</NOTE> this year ought to go to
+<HI>Rome,</HI> without doubt to consult there
+of serious things, concerning the De∣signe.
+<PB N="23" REF="15"/>
+with gifts and speeches, the Iesuites watch
+diligently to their Masses.<NOTE PLACE="marg">No wonder the Earls debts be so great. A School of Nunnes.</NOTE></P>
+<P>At Greenwich at the Earles costs, a femi∣nine
+School is maintained, which otherwise is
+a Monastery of Nunnes; for the young Girls
+therein, are sent forth hither and thither into
+forraine Mon<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>steries beyond the Seas.</P>
+<P>Master Porter of the Kings Bed-chamber,<NOTE PLACE="marg">Is not the King in great danger who hath such a person in his Bed-chamber, now keeper of the great Seal?</NOTE>
+most addicted to the Popish religion, is a bitter
+enemy of the King, he reveales all his greatest
+secrets to the Popes Legat;
+although he very
+rarely meets with him, yes his wife meets him
+so much the oftner, who being informed by her
+husband, conveyes secrets to the Lega<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>. In
+all his actions he is nothing inferiour to Toby
+Matthew; it cannot be uttered▪ how diligently
+he watcheth on the businesse.</P>
+<P>His sonnes are secretly instructed in the
+Popish Religion;<NOTE PLACE="marg">Both King and Prince have Iesuiticall a∣gents in their Bed-chambers.</NOTE> openly, they professe the Re∣formed.
+The eldest is now to receive his Fa∣thers
+Office, under the King which shall be.
+A Cardinals hat is provided for the other, if
+the Designe shall succeed well.</P>
+<P>Above three yeares past the said Master
+Porter,<NOTE PLACE="marg">All businesses and imploy∣ments must be set aside to pro∣mote this plot.</NOTE> was to be sent away by the King to
+Maroco: but he was prohibited by the Socie∣ty,
+lest the businesse should suffer delay there∣by.</P>
+<P>He is a Patron of the Iesuites, for whom,
+for the exercise of Religion, he provides Chap∣pels
+both at home and abroad.</P>
+<P>Secretary Windebanke,<NOTE PLACE="marg">A Iesuiticall Secretary, his flight and Ar∣ticles in Parlia∣ment, con∣firme all this and more.</NOTE> a most fierce Papist,
+is the most unfaithfull to the King of all men,
+who not onely betraies and reveales even the
+Kings greatest secrets, but likewise commu∣nicates
+Counsels by which the designe may be
+best advanced. He at least thrice every week
+converseth with the Legat in Nocturnal con∣venticles,
+and reveales those things which
+he thinkes fit to be knowne; for which end,
+he hired a house neare to the Legates house,
+whom he often resorts to through the Garden
+doore, for by this vicinity, the meeting is faci∣litated.</P>
+<P><PB N="24" REF="16"/>The said Secretary is bribed with gifts to
+the party of that coniured Society,<NOTE PLACE="marg">Papists spare no cost.</NOTE> by whom
+he is sustained, that he may the more seriously
+execute his Office.</P>
+<P>He sent his Sonne expresly to Rome, who
+ought to insinuate himselfe into the Roman
+Pontif.</P>
+<P>Sir Digby,<NOTE PLACE="marg">The other Conspirators names.</NOTE> Sir Winter, Master Mounta∣gue
+the younger, who hath been at Rome; my
+Lord Sterling, a Cosen of the Earle of Arun∣dels,
+a Knight, the Countesse of Newport, the
+Dutchesse of Buckingham; and many others
+who have sworne into this conspiracy, are all
+most vigilant in the designe. Some of those
+are inticed with the hope of Court, others of
+Politicall Offices; Others attend to the six∣teene
+Cardinals Caps that are vacant; which
+are therefore detained idle for some yeares,
+that they may impose a vaine hope on th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>se
+who expect them.</P>
+<P>The President of the aforesaid Society was
+my Lord Gage, a Iesuite Priest, dead above
+three yeares since. He had a Palace adorned
+with lascivious pictures,<NOTE PLACE="marg">A <GAP DESC="illegible" RESP="tech" EXTENT="3 letters" DISP="•••"/>cover for such a dish.</NOTE> which counterfeited
+prophanenesse in the house, but with them was
+palliated a Monastery, wherin forty Nunnes
+were maintained, hid in so great a Palace,
+It is situated in Queenes-street, which the
+statue of a Golden Queene adornes. The secu∣lar
+Iesuites have bought all this street,<NOTE PLACE="marg">It seemes their purses were strong, &amp; their hopes great.</NOTE> and
+have reduced it into a guadrangle, where a
+Iesuiticall Colledge is tacitly built, with this
+hope, that it might be openly finished, as soone
+as the universall reformation was begunne.</P>
+<P>The Popes Legat useth a threefold Cha∣racter
+or Cipher;<NOTE PLACE="marg">His Maiesty perchance hath learnt to write Characters from him, as appeares by some of his late intercep∣ted Letters.</NOTE> One wherewith he commu∣nicates
+with all Nuncioes; Another, with
+Cardinall Barbaraino onely: A third, where∣with
+he covers some greater secrets to bee
+communicated.</P>
+<P>What soever things he either receiveth from
+the Society or other spies, those he packes up
+together in one bundle, dedicated under this
+<PB N="25" REF="16"/>
+Inscription: To Mounsieur Stravio Arch∣deacon
+of Cambray: from whom at last they
+are promoted to Rome.</P>
+<P>These things being thus ordered, if every
+thing be laid to the bullance, it will satisfie <GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/>
+speciall, all the Articles pr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>pounded.</P>
+<DIV3 TYPE="section">
+<HEAD>WHEREIN.</HEAD>
+<P>1. THE Conspiracy against the King and
+Lord Arch-bishop is detected, and the
+meanes whereby ruine is threatned to both,
+demonstrated.</P>
+<P>2. The imminent dangers to both Kingdomes
+are rehearsed.</P>
+<P>3. The rise and progresse of that Scottish <GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>re
+is related.</P>
+<P>4. Meanes wherby these Scottish troubles
+may be appeased, are suggested: for after the
+Scots shall know by whom and to what end
+their minds are incensed, they wil speedily look
+to themselves, neither will they suffer the for∣ces
+of both parts to be subdued,<NOTE PLACE="marg">A good <GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> for <HI>England</HI> now.</NOTE> lest a middle party interpose, which seekes (the ruine) of
+both.</P>
+<P>5. With what sword the Kings throat is as∣saulted,
+even when these stirs shall be ended,
+Cunens his confession; and a visible demon∣stration,
+sheweth.</P>
+<P>6. The place of the Assembly in the house of
+Captaine Read is nominated.</P>
+<P>7. The day of the eight dayes dispatch by
+Read and the Legate is prescribed.</P>
+<PB N="26" REF="17"/>
+<P>8. How the names of the Conspirators may
+be knowne.</P>
+<P>9. Where this whole Congregation may be
+circumvented.</P>
+<P>10. Some of the Principall unfaithfull ones of
+the Kings party are notified by name; many
+of whose names occur not, yet their h<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>bitati∣ons
+are knowne; their names may be easily
+extorted from Read.</P>
+<P>If these things be warily proceeded in, the
+strength of the whole businesse will be brought
+to light; so the arrow being foreseene, the
+danger shall be avoyded; which that it may
+prosperously succeed, the Omnipotent Crea∣tor
+grant.</P>
+</DIV3>
+</DIV2>
+</LETTER>
+<P>The Arch-Bishops indorsement with his ow<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e hand.</P>
+<P>Rece. Octob. 14. 1640.</P>
+<P>The Narration of the great Treason, concerning which he pro∣mised
+to Sir <HI>William Boswell,</HI> to discover against the King
+and State.</P>
+</DIV1>
+<DIV1 TYPE="part">
+<PB N="27" REF="17"/>
+<HEAD>A further evidence and confirmation of some
+things in the Relation concerning the Archbishop
+of Canterbury.</HEAD>
+<P>THe Relation of this horrid plot by a chiefe Actor in it, (with which the
+Arch-Prelate acquainted the King, not many daies before this Parliament
+began) lay concealed among the Arch-bishops papers, without any prose∣cution
+of the conspirators (for ought appeares) who are since dispersed in
+part by the Parliament, but neither dissolved nor taken off this plot, but become
+more active in its prosecution, putting forth their last and utmost endeavours in all
+places, to accomplish this their designe, which they have almost brought to maturity
+to our shame and grief, by new raysed civill wars both in <HI>Ireland</HI> and <HI>England.</HI></P>
+<P>Two things in this plot, which concerne the Arch-bishop, may perchance seem
+strange to different sorts of men.</P>
+<P>First; <HI>That the Popes Legat should presume to tempt the Archbishop with the offer of
+a Cardinals cap;</HI> and some friends of his will perchance affirme, that certainely no
+such proffer was ever made unto him: but to put this out of question, the Bishop
+himselfe under his owne hand, among other memorials, in the <HI>Iourn<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ll of his life</HI>
+(then found by Mr. <HI>Prynne</HI> in his pocket) hath these two remarkable <HI>memorandums,
+Anno</HI> 1633. August 4. <HI>Sunday, newes came to Court of the Lord Arch-bishop of Can∣terburys
+death, and the King resolved presently to give it me. That very morning at
+Greenenwich there came one to me</HI> SERIOUSLY, and THAT AVOWED
+<NOTE N="*" PLACE="marg">This must needs be the Legat, or one imployed from him.</NOTE> ABILITY TO PERFORME IT, and OFFERED ME TO BE
+A CARDINALL. <HI>I went presently</HI> TO THE KING and ACQUAIN∣TED
+HIM BOTH WITH THE THING AND PERSON. <HI>Aug.</HI>
+17. (the same moneth) <HI>Saturday I had</HI> A SERIOUS OFFER MADE
+ME AGAINE TO BE A CARDINALL; <HI>I was th<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/> fr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>m Court, but so
+soone as I came thither (which was Wednesday August</HI> 21.) I ACQUAINTED
+HIS MAJESTY WITH IT. <HI>But my answer againe was, that somewhat dwelt
+within me that would not suffer that</HI> TILL ROME <HI>were other then it is:</HI> so that
+by his owne Notes it appeares, a <HI>Cardinals Cap was twice proffer'd him very seriously,</HI>
+and that he <HI>acquainted the King with it;</HI> not by way of complaint to crave justice
+against the party who durst presume to tempt him with such a forraigne dignity,
+to be the <HI>Popes sworn instrument;</HI> but, by way of advice, and <HI>to sound His Majesties
+opinion hereof▪</HI> as his answer imports. Neither did he absolutely di<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>claime the dignity
+it selfe, as if he might in no case accept it, but conditionally, <HI>Till Rome should be other
+<PB N="28" REF="18"/>
+then it is</HI> now, and then he would not refuse it. Indeed the Arch-bishop in his<NOTE N="*" PLACE="marg">Page 171.</NOTE> <HI>Re∣ply
+to Fisher,</HI> challengeth this title (<HI>Putriarch of another world</HI>) as his due, being given
+to his predecessor <HI>Anselm,</HI> and therefore could brook<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> any <HI>other Pope</HI> (in point of
+<HI>Soveraignty</HI>) to Lord it over him here; and this made him refuse the <HI>Cardinalls</HI> Gap<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+But had he resisted the <HI>Legats</HI> landing or conti<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>nance here, which he never did for
+ought appeares, but entertained some familiarity with him at first, though they after∣wards
+grew more strange; or peremptorily refused the first offer with indignation,
+thrust out the <HI>Legate</HI> or <HI>offerer</HI> of it by head and shoulders, prosecuted him (as he
+did poore innocent <HI>Puritans</HI>) upon the Statute of 23<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> <HI>Eliz. c. 1. as a Traytor, for at∣tempting
+to seduce him from his Alegiancy, and subject him to the See of</HI> Rome; or
+brought him publikely into the <HI>Star-Chamber</HI> or <HI>High-Commission,</HI> as he did some
+others for lesser pretended crimes and scandals, hee had discharged the part of a
+<HI>good zealous Prelate and Protestant;</HI> but here was no such proceeding in this case:
+the very parties that tendred this <HI>Cap,</HI> presuming some good inclination in him to
+accept it, and good affection to the <HI>Romish Church,</HI> which<NOTE N="*" PLACE="marg">Conference with <HI>Fisher,</HI> neere the end.</NOTE> <HI>he maintaines to be a true
+Church, wherein men are and may be saved;</HI> and the second proffer of the <HI>Cap</HI> fol∣lowing
+so soone at the heeles of the first, intimates; that the first was in such sort en∣tertained
+by him, as rather <HI>incouraged</HI> then <HI>discouraged</HI> the party to make the se∣cond;
+and his second consultation with the King concerning it, insinuates, that
+the <HI>King rather inclined to, then against it,</HI> or at leastwise <HI>left it arbitrary to him
+to accept or reject it as he best liked.</HI> As for his lukewarme severity in prosecuting
+Papists, it appeares most lively by his <HI>Epistle to the King</HI> before his <HI>Conference</HI> with
+the <HI>Iesuite Fisher,</HI> where hee useth these speeches of his <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>arriage towards them;
+<HI>God forbid that I should perswade a persecution in any kind, or practise it in the least</HI>
+(against Priests and Jesuites.) <HI>For to my remembrance I have not given him or his so
+much as crosse language.</HI> Therefore he is no great enemy to them: the edge of <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>eale
+being wholly bent against Puritans whom hee prosecuted even to strong Cities,
+Countries withall manner of Tortures.</P>
+<P>The second thing which may seeme strange to others, disaffected to him▪ is this;
+<HI>that the</HI> Popes Legat <HI>and</HI> Jesuites <HI>should ever <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ate, or conspire his death, unlesse he were
+an utter Enemy to all Popery, Papists and the Church of</HI> Rome; which admits an
+easie answer: The truth is, the Bishop being very pragmaticall and wilfull in his
+courses, could not well brooke pragmaticall, peremptory <HI>Iesuits,</HI> who in Popish King∣domes
+are in perpetuall enmity with all other orders, and they with them; they ha∣ving
+beene oft banished out of<NOTE N="*" PLACE="marg">See the Ge∣nerall Hist. of <HI>France</HI> in the life of H. 3. &amp; 4.</NOTE> France and other Realmes by the <HI>Sorbonists, Domi∣nicans</HI>
+and other orders, no Protestants writing so bitterly against this Popish Or∣der
+as themselves, as some of their Priests, <HI>Dominicans,</HI> and other Friers
+have done: yea the Priests and Jesuites in<NOTE N="*" PLACE="marg">See the <HI>Eng∣lish</HI> Pope.</NOTE> England <HI>were lately at great variance,
+and persecuted, and writ against one another with much violence;</HI> This same then is
+no good argument that the <HI>Arch-bi.</HI> held no correspondence with Priests and other
+Orders, can beare no good affection to the <HI>Church of Rome,</HI> in whose <HI>superstitious
+Ceremonies</HI> he outstripped most Priests themselves. VVhat correspondency he held
+with <HI>Franciscus de Sancta Clara, with other</HI> Priests, and Doctor <HI>Smith</HI> Bishop of
+<HI>Calcedon,</HI> whom the Jesuits likewise have persecuted, and got excommunicated,
+(though of their owne Church and religion) is at large discovered in a Books in<GAP DESC="illegible" RESP="tech" EXTENT="4 letters" DISP="••••"/>∣led,
+<PB N="29" REF="18"/>
+<HI>The English Pope:</HI> and how well he approved of some Romish doctrines, <HI>Al∣t<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>s</HI>
+and <HI>Massing</HI> rites, is evident by the <HI>Scottish Common-prayer-booke,</HI> then found
+in the <HI>Archbishops</HI> chamber, with all those alterations, wherein it differs from the
+<HI>English,</HI> written with his owne hand in the margin, some of which smell very
+strongly of <HI>Popery;</HI> as namely, his blotting out of these words at the delivery of
+the Bread and Wine in the Sacrament, <HI>Take and eate this in remembrance that Christ
+dyed for thee, and feed on him in thy heart by faith with thankesgiving: Take and drink<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+this in remembrance that Christs blood was shed for thee, &amp;c.</HI> and leaving onely this
+former clause (the better to justifie and imply a<NOTE N="*" PLACE="marg">With which his Speech in Star-chamber agrees, <HI>There it is, Hoc est corpus m<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>um, &amp;c.</HI></NOTE> <HI>corporall</HI> presence of Christ in the
+Sacrament) <HI>The body of our Lord Iesus Christ which was given for thee; The blood
+of our Lord Iesus Christ which was shed for thee, preserve thy body and soule unto ever∣lasting
+life.</HI> And this popish Rubricke therein written with his owne hand. <HI>The
+Presbyter during the time of consecration shall stand</HI> AT THE MIDDLE OF
+THE ALTAR, <HI>where he may with more ease and decency</HI><NOTE N="*" PLACE="marg">To elevate the <HI>Hos<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ia,</HI> as Papists do<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>.</NOTE> USE BOTH HIS
+HANDS, then <HI>he can do if he stand at the North end:</HI> with other particulars of this
+kind. Moreover, in his booke of <HI>Private devotions,</HI> written with his owne hand, he
+hath (after the Romish form) reduced all his prayers to <HI>Ca<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>nicall houres,</HI> (many
+of them for his late good Lord and Master the Duke and <HI>Dutches of Buckingham,</HI>
+and their family; and some against the <HI>Scotch Rebels,</HI> as he stiles them.) And in the
+fore-mentioned <HI>Memorials</HI> of his life, written with his owne hand, there are these
+suspicious passages, among others, besides the offer of the <HI>Cardinals-cap, An. 1631.
+I<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>n.</HI> 21. and 26. <HI>My nearer acquaintance began to settle with Do. S. God blesse us in it.
+I<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>nii 25. D. S. with me at Fulham cum M<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>. &amp;c.</HI> (meant of Dr. <HI>Smith,</HI> the Popish
+Bishop of <HI>Calcedon,</HI> as is conceived) <HI>Iun.</HI> 25. Mr. <HI>Fr. Windebanke my old friend was
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> Secretary of State, which place</HI> I OBTAINED FOR HIM <HI>of my
+gracious Master King Charles:</HI> What an Arch-Papist and conspiratour he was, the
+Plot relates, and his flight into <HI>France</HI><NOTE N="*" PLACE="marg">See the Arti∣cles against him in Parlia∣ment.</NOTE> <HI>for releasing Papists and Iesuits out of prison
+from executions for debts by his owne Warrants, and imprisoning those Officers who
+apprehended them</HI>) confirmes. About this time Dr. <HI>Theodor Price,</HI> Subdean of <HI>West∣minster,</HI>
+a man very intimate with the <HI>Archbishop,</HI> and recommended specially to
+the King by him to be a <HI>Welsh</HI> Bishop (in opposition to the <HI>Earle of Pembroke,</HI> and
+his Chaptain <HI>Griffith Williams,</HI> now an <HI>Irish Prelate;</HI>) soon after <HI>died a reconciled
+Papist, and received extream<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> Vnction from a Priest: Noscitur ex comite.</HI> August 30.
+1634. He hath this memoriall. <HI>Saturday at Oatelands the Queen sent for me, and gave
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> thanks for a businesse with which she trusted me; her promise then, that she would be my
+friend, and that I should have immediate addresse to her, when I had <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ccasion.</HI> All which
+considered, together with his <HI>Chaplaines</HI> licencing divers <HI>popish Bookes,</HI> with their
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>xpunging most passages against <HI>Popery</HI> out of Bookes brought to the Presse, and
+other particulars commonly knowne, will give a true <HI>Character</HI> of his temper, that
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> is another <HI>Ca<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>ander,</HI> or middle man betweene an absolute <HI>Papist,</HI> and a reall <HI>Pro∣testant,</HI>
+who will far sooner hug a popish Priest in his bosome, then take <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> <HI>Puritan</HI> by
+the little finger; an <HI>absolute Papist in all matters of ceremony, pompe, and externall wor∣ship,</HI>
+(in which he was over<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> zealous, even to an open bitter persecution of all consci∣<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>tious
+Ministers, who made scruple of them) <HI>if not halfe an one at least, in Doctrinall
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/>.</HI> How far he was guilty of a conditionall voting the breaking up the last Par∣liament
+before this was called, and for what end it was summoned; this other me∣moriall
+<PB N="30" REF="19"/>
+under his owne hand will attest, <HI>Dec. 5 1639. Thursday, the King declared his
+resolution for a Parliament, in case of the Scottish rebellion: the first movers to it were my</HI>
+L. Deputy of Ireland▪ <HI>my</HI> Lord Marquesse Hamilton, <HI>and my selfe:</HI> And <HI>a Resolution
+voted at the Board to assist the King in extraordinary wayes, if the Parliament
+should prove peevish and Refuse,</HI> &amp;c. But of him sufficient, till his charge (now in prepa∣ration,
+and since transmitted to the Lords) shall come in.</P>
+</DIV1>
+<DIV1 TYPE="part">
+<HEAD>Observations on, and from the relation of this plot.</HEAD>
+<P>FFom the relation of the former Plot by so good a hand, our own three Realms,
+and a<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/> forraigne Protestant States may receive full satisfaction.</P>
+<P>First, that there hath been a most cunning, strong, execrable conspiracie
+long since contrived at <HI>Rome,</HI> and for divers yeeres together most vigorously pursued
+in <HI>England</HI> with all industry, policy, subtilty, engines, by many active, potent con∣federates
+of all sorts, all sexes, to undermine the Protestant Religion, re-establish Po∣pery,
+and alter the very frame of civill government in all the Kings Dominions;
+wherein a most dangerous visible progresse hath been lately made.</P>
+<P>Secondly, That to effect this traiterous designe, they have not onely secretly ere∣cted
+some Monasteries of <HI>Monkes, Nunnes,</HI> in and about <HI>London;</HI> but sent over hither
+whole Regiments of most active subtill <HI>Iesuits,</HI> incorporated into a particular new
+society, whereof the Pope himselfe is head, and <HI>Cardinall Barbarino</HI> his <HI>Vicar:</HI> which
+<HI>Society</HI> was first discovered, and some of them apprehended in th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ir private Col∣ledge
+at <HI>Clerken-well</HI> (together with their bookes of account Reliques, and Massing
+Trinket<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>) about the beginning of the <HI>second Parliament of this King;</HI> yet such power,
+favour, friends, they had then acquired, that their persons were speedily and most in∣directly
+released out of <HI>Newgate</HI> without any prosecution, to prevent that Parlia∣ments
+proceedings against them, which examined this abuse, and illegall release.
+Since which, this <HI>conjured society</HI> increasing in strength and number, secretly replanted
+themselves in <HI>Queens-street</HI> and <HI>Long-acre,</HI> and their purses are now so strong, their
+hopes so elevated, their designes so ripened, as they have there purchased, founded
+a new <HI>magnificent Colledge</HI> of their owne for their habitation, neere the fairest build∣ings
+of Nobles, Knights, and Gentlemen, the more commodiously to seduce them.</P>
+<P>Thirdly, that these <HI>Iesuits</HI> and conspirators hold weekely, constant, uninterrupted
+intelligence with the <HI>Pope and Romish Cardinals;</HI> and have many spies or intelligence<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+of all sorts about <HI>the King, Court, City, Noblemen, Ladies, Gentlemen</HI> of quality, and
+in all quarters of the Kingdome, to promote this their damnable Plot.</P>
+<P>Fourthly, that the <HI>Pope</HI> for divers late yeeres hath had a known <HI>avowed Legat, C<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/></HI>
+by name, openly residing even in <HI>London,</HI> neere the Court, of purpose to reduce the
+<HI>King</HI> and his <HI>Kingdoms</HI> to the obedience of the <HI>Church of Rome;</HI> and the <HI>Queen</HI> at least,
+another <HI>Legor</HI> at Rome trading with the <HI>Pope,</HI> to facilitate the designe, to wit, one
+<HI>Hamilton</HI> a Scot, who receives a pension out of the Exchequer, granted to
+another Protestant of that name, who payeth it over unto him, to palliate the businesse from
+the peoples knowledge; by which meanes there hath been a constant allowed <HI>Neg<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>∣tiation</HI>
+held between <HI>Rome</HI> and <HI>England,</HI> without any open interruption.</P>
+<P><PB N="31" REF="19"/>
+5. That the Popes Legate came over into <HI>England</HI> to effect this project, and kept
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>is residence here in <HI>London,</HI> for the better prosecution thereof by the <HI>Kings own<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+privity and consent.</HI> And whereas by<NOTE N="*" PLACE="marg">Antiq. Eccles. Brit. p. 322. Ead. lib. 1. <HI>and</HI> Fox <HI>Acts and Mon. Vol. 1. edit. ult. p.</HI> 926.</NOTE> <HI>the ancient Law and Custome of the Real<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>et in force, even in times of Popery, no Legat whatsoever coming from</HI> Rome.
+<HI>ought to <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>rosse the Seas, or land in England,</HI> or any <HI>the Kings Dominions, without the Kings own
+Petition, calling and request to the</HI> Pope, and <HI>before hee had taken a <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>olemne Oath or
+Pr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>te<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>station, to bring and attempt nothing in word or deed, to the prejudice of the Rights,
+Priviledges, Laws and Customs of the King and Realm.</HI> This Legat, for ought appears,
+was here admitted without any such cautionary Oath, which would have crossed
+the chiefe end of his <HI>legation,</HI> which was, to prejudice all men, and our Religion too.</P>
+<P>Yea, whereas by<NOTE N="*" PLACE="marg">23. Eliz. c. 1. 35. Eliz. c. 1. 3. Iac. c. 3. 4, 5.</NOTE> the Statutes of the Realm, it is made no lesse <HI>then high Treason
+for any Priests, Iesuits, or others, receiving orders or Authority from the Pope of</HI> Rome, <HI>to
+set footing in</HI> England, <HI>or any the Kings Dominions, to seduce any of his Subjects to Pope∣ry:
+and Popish Recusants</HI> (much lesse then Priests, Jesuits, &amp; Legats) <HI>ought not to remain
+within ten miles of the City of</HI> London, <HI>nor come yet into the King or Princes Courts,
+the better to avoid such trayterous and most dangerous Conspirators, Treasons, and at∣tempts
+as are daily divised and practised by them against the King and Common-weal.</HI>
+Yet notwithstanding, this <HI>Popes Legate,</HI> and his confederates, have not only kept re∣dence
+for divers yeeres, in or neer <HI>London</HI> and the <HI>Court,</HI> and enjoyed free liberty
+(without disturbance, or any prosecution of the Lawes against them) to seduce his
+Majesties Nobles, Courtiers, Servants, Subjects every where, to their griefe and pre∣judice;
+but likewise had familiar accesse to, and conference with, the <HI>King himselfe,</HI>
+(under the name, notion, authority of the <HI>Popes Legat</HI>) by all Arts, Policies, Argu∣ment
+to pervert and draw him, with his three Kingdomes, into a new subjection to
+the Sea of <HI>Rome,</HI> as<NOTE N="*" PLACE="marg"><HI>See</HI> 1. &amp; 2. Phil. &amp; Mary, c. 8.</NOTE> Cardinall <HI>Pool,</HI> the last <HI>Popes Legat</HI> extant in <HI>England</HI> before
+this, in Queen <HI>Maries</HI> raigne, <HI>reconciled her and the Realm to</HI> Rome, <HI>to their intole∣rable
+preiudice.</HI> An act so inconsistent with the Laws of the Realm, with his Ma∣jesties
+many ancient and late <HI>Remonstrances, Oathes, Protestations, to maintaine the
+Protestant Religion, without giving way to any back-sliding to Popery, in such sort as it
+was maintained and professed in the purest times of Q.</HI> Elizabeth, <HI>&amp;c.</HI> as may well amaze
+the world, which ever lookes more at <HI>reall Actions,</HI> then <HI>verball Protestations.</HI></P>
+<P>6. That the Popish party &amp; Conspirators, have lately usurped a soveraign power,
+not only about the Lawes and Magistrates of the Realm (which take no hold of Pa∣pists,<NOTE PLACE="marg">See the Royall Popish Favo∣rite.</NOTE>
+but by the Parliaments late care against them here) but even over the King him∣self;
+who either cannot, or dares not (for feare, perchance, of <HI>poysoning,</HI> or other <HI>assas∣sination</HI>)
+oppose or banish these horrid Conspirators from his Dominions &amp; Court,
+but hath a long time permitted them (by vertue of his <HI>marriage articles,</HI>) to prose∣cute
+this plot without any publike opposition or dislike, by whose powerfull autho∣rity
+and mediation, all persons may easily divine. Alas! what shal become of the <HI>poore
+sheepe,</HI> when the <HI>Shepheard himself,</HI> not only neglects to chase and keep out these <HI>Ro∣mish
+wolves,</HI> but permits them free accesse into, and harbor in the sheepfold, to assault,
+if not devour, not only his flock, but Person too? Either
+Saint<NOTE N="*" PLACE="marg">Ioh. 10. 10. 11, 12, 13.</NOTE> <HI>Iohn</HI> was much mista∣ken
+in the Character of a <HI>good Shepheard,</HI> and prescribing this injunction against such
+seducers,<NOTE N="*" PLACE="marg">2 Ioh. 10. 11.</NOTE> <HI>If there come any unto you, and bring not this doctrine, receive him not into
+your house, neither bid him God speed: for he that biddeth him God speed, is partaker of his
+evill de<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ds▪</HI> And the<NOTE N="*" PLACE="marg">Gratian caus. 23.</NOTE> <HI>Fathers,</HI> the <HI>Canonists</HI> deceived in this Maxime, <HI>Qui non pro∣hibet
+<PB N="32" REF="20"/>
+malum quod potest, jubet:</HI> or else the premises cannot be tolerated or defen∣ded
+by any who professe themselves enemies or opposites to the Pope, Priests, or
+Church of <HI>Rome;</HI> or true <HI>Defend<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>rs</HI> of the <HI>Protestant</HI> reformed <HI>Religion.</HI></P>
+<P>7. That these conspirators are so potent, as to remove from <HI>Court</HI> and <HI>publiqu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> Offices,</HI> all such as dare strenuously oppose their plots, (as the example of Secretary
+<HI>Cooke,</HI> with other Officers lately removed in <HI>Ireland,</HI>
+the <HI>Articles</HI> of <HI>Pacificatio<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/></HI>
+there lately made with the Rebels, evidence) and plant others of their owne party
+and confederacie, both in his Majesties Court, Privie Councell, Closet, Bedchamber
+if not Bed, and about the Prince, to corrupt them: And how those that are th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+invironed with so many industrious potent seducers of all sorts, who have so many
+snares to intrap, so many enticements to withdraw them, both in their Beds, Bed∣chambers,
+Closets, Councels, Courts, where ever they goe or come, should possibl<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+continue long untainted, unseduced, without an omnipotent protection (of which
+none can be assured, who permits or connives at such dangerous temptations) is <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+thing scarce credible in divine or humane reason, if<NOTE N="*" PLACE="marg">Gen. 3.</NOTE> <HI>Adams,</HI><NOTE N="*" PLACE="marg">1 King▪ 11.</NOTE> <HI>Solomons,</HI> and other
+<HI>Apostacies</HI> by such means, be duly pondered. He who sailes in the midst of dan∣gerous
+rocks, may justly feare, and expect <HI>a</HI><NOTE N="*" PLACE="marg">Qui amat pe∣riculum peribit in <GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/>.</NOTE> <HI>wracke.</HI></P>
+<P>8. That the late <HI>Scottish troubles, wars,</HI> were both plotted and raised by thes<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+<HI>Iesuiticall Conspirators,</HI> of purpose to force the King to resort to them and thei<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+Popish party for aid of Men and Money against the <HI>Scots;</HI> and by colour thereof
+to raise an Army of their owne, to gaine the King into their power, and then to wi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+or force him to what conditions they pleased; who must at leastwise promise the<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+an universal toleration of their Religion throughout his Dominions, ere they woul<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+yeeld to assist him. And in case they conquer or prevaile, he must then come ful<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ly
+over to their party, or else be sent packing by them with a <HI>poysoned</HI> Fig to ano∣ther
+world, as his Father (they say) was; (its likely by their instruments or procure∣ment,
+they are so conusant of it, though it might not be examined when complaine<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+of in open Parliament by the Commons, but the Assembly rather dissolved, then <GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/>
+death discussed) and then the Prince, yet young, and well inclined to them already b<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+his education, will soon be made an obedient son of the Church of <HI>Rome.</HI> Thus th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+Relator, a chiefe actor in this pre-plotted Treason, discovers. And if his single test<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>mony
+(though out of an wounded conscience) will not be believed alone, the ensu∣ing
+circumstances will abundantly manifest, the <HI>Scottish wars</HI> to be plotted and di∣rected
+by them; For <HI>Con</HI> the Popes Legate, <HI>Hamilton</HI> the Queenes Agent, mo<GAP DESC="illegible" RESP="tech" EXTENT="2 letters" DISP="••"/>
+of the Iesuites then about <HI>London,</HI> Captain <HI>Read</HI> their Host, the Lord <HI>Sterling
+Chamberlaine,</HI> Cardinall <HI>Richelleiu</HI> his Agent, with other chiefe actors in the plot<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+being all <HI>Scots,</HI> and imploying of <HI>Maxfield,</HI> and he two other active Popish <HI>Sco<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/></HI>
+Lards, in raising these tumults; the Earle of <HI>Arundel</HI> (another principall mem∣ber
+of this conspiracie, being by their procurement made Generall of the firs<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+Army against the <HI>Scots,</HI> and most of his Commanders Papists; the Papists in a<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+counties of <HI>England</HI> (upon the Queens Letters directed to them) contributin<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+large summes of Money, besides Men, Armes and Horses to maintaine this wa<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+(for which Master <HI>Squire</HI> of <HI>Shoreditch</HI> highly commended them in the Pulpi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+as the Kings best Subjects: See Master <HI>Whites</HI> first Century of scandalous Priest<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+<HI>P.</HI> 25) Sir <HI>Toby Matthew</HI> (the most industrious conspirator, in the packe) makin<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+a voyage with the Lord Deputy into <HI>Ireland,</HI> to stir up the Papists there to contr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>bute
+<PB N="33" REF="20"/>
+Men, Armes, Money, to subdue the <HI>Scottish Covenanters;</HI> yea, Marquesse <HI>Ha∣miltons</HI>
+own Chaplain (imployed as the Kings Comissioner to appease these <HI>Scots</HI>)
+holding correspondency with <HI>Con,</HI> and resorting to him in private, to impart the
+secrets of that businesse to him, the generall discontent of the Papists and conspira∣tors
+upon the first pacification of those troubles, which they soon after infringed, and
+by new large contributions raised a second Army against the <HI>Scots,</HI> when the <HI>English</HI>
+Parliament refused to grant Subsidies to maintaine the war. All these concurring
+circumstances compared with the relation, will ratifie it without dispute, that this
+war first sprung from these conspirators.</P>
+<P>9. That the subsequent present Rebellion in <HI>Ireland,</HI> and wars in <HI>England,</HI> ori∣ginally
+issued from, and were plotted by the same conspirators. For the <HI>Scottish</HI>
+war producing this setled Parliament beyond the conspirators expectation, which
+they foresaw would prove fatall to this their long agitated conspiracie, if it con∣tinued
+undissolved; thereupon some <HI>Popish Irish Commissioners</HI> comming over in∣to
+<HI>England,</HI> and confederating with the <HI>Dutchesse</HI> of <HI>Buckingham,</HI> Captaine <HI>Read</HI>
+(now a prisoner in the Tower, and taken in the field in actuall rebellion in <HI>Ireland</HI>)
+and other of these conspirators, who afterwards departed secretly into <HI>Ireland,</HI>
+they plotted an universall Rebellion, surprisall and Massacre of all the <HI>Protestants</HI>
+in that Kingdome: which, though in part prevented by a timely discoverie, which
+secured <HI>Dublin,</HI> and some few places else; yet it tooke generall effect in all other
+parts, <HI>to the losse of above an hundred and fourtie thousand Protestants lives, there mas∣sacred
+by them.</HI> And finding themselves likely to be overcome there by the Parlia∣ments
+Forces sent hence, and from <HI>Scotland,</HI> to relieve the Protestant party; there∣upon to worke a diversion, they raised a civill bloody war against the Parliament
+here in <HI>England,</HI> procuring the King (after <HI>Endymion Porter,</HI> a principall conspira∣tor
+in the Plot, had gained the custody of the great Seale of <HI>England</HI>) to issue out divers Proclamations under the great Seale, proclaming the <HI>Parliament themselves
+Traytors and Rebells, yea to grant Commissions</HI> to <HI>Irish</HI> and <HI>English</HI> Papists (contrary
+to his former proclamations) to raise Popish forces both at home and in forraigne
+parts for his defence, as his trustiest and most loyall Subjects; to send Letters and
+Commissions of favour to the <HI>Irist</HI> Rebels, and hinder all supplies from hence to the
+Protestant party. And withall, they procured the Queene, by the Earle of <HI>Antrim<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/></HI>
+and Dutchesse of <HI>Buckinghams</HI> mediation, to send Ammunition to the <HI>Irist</HI> Rebels,
+and to attempt to raise an insurrection in <HI>Scotland</HI> too, as the <HI>Declaration of the rise
+and progresse of the Rebellion in Ireland,</HI> more largely discovers: since which, his
+Majesty hath condescended to <HI>Articles of Pacification</HI> with these <HI>Rebels</HI> contrary to
+an act of Parliament, and both Houses consents (wherein they are declared <HI>His Majesties GOOD</HI><NOTE N="*" PLACE="marg">So are th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> Shrewesbury printed copies.</NOTE> <HI>Catholike Subiects</HI> of <HI>Ireland,</HI> and no <HI>Rebels</HI> at all) and hath sent
+for many thousands of them into <HI>England</HI> to massacre the Protestant <HI>English</HI> here,
+and fight against the Parliament, as they did in <HI>Ireland</HI> heretofore. Seeing then all
+may clearely discerne the exact prosecution of this plot carried on in all these wars
+by the conspirators therein particularly nominated; by the <HI>Queen</HI> and Popish
+partie in all three Kingdomes, and by Papists in forraign parts (who have largely
+contributed Men, Money, Armes, Ammunition, to accomplish this grand designe,
+through the instigation of those conspirators in this plot, who are gone beyond the
+<PB N="34" REF="21"/>
+Seas) and have lately caused publike Proclamations to be made in <HI>Bridges,</HI> and
+other parts of <HI>Flaunders,</HI> in <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>uly last, (as appeares by the Examination of <HI>Henry
+Maye,</HI> since seconded by others, <HI>That all people who will now give</HI> ANY MONEY
+TO MAINTAIN THE ROMAN CATHOLIKES IN ENG∣LAND,
+<HI>should have it re-payd them againe in a yeeres time, with many thanks;</HI>) the
+whole world must of necessity, both see and acknowledge (unlesse they will re∣nounce
+their ownn eyes and reason) that this conspiracy and plot, is no <HI>feigned im∣posture,</HI>
+but <HI>a most reall perspicuous agitated treachery,</HI> now driven on almost to its
+perfection, the full accomplishment whereof (unlesse Heaven prevent it) the Ca∣tholikes
+of <HI>England</HI> expect within the circuit of one yeere, as the forenamed Pro∣clamations
+intimate.</P>
+<P>10. That no setled peace was ever formerly intended,<NOTE PLACE="marg">See the Royall Popish favo∣rite, where it is largely proved.</NOTE> nor can now be futurely
+expected in <HI>England</HI> or <HI>Ireland,</HI> without an universall publike toleration (at the
+least) of Popery, and a repeale and suspention of all Lawes against it; this being
+the very condition in the plot which the King must condescend to, ere the Papists
+would ingage themselves to assist him in these warres thus raised by them, for this
+end: and that none may doubt this verity; the late most insolent bold demands of
+the <HI>Irish</HI> Rebels in the Treaty with them, the most favourable <HI>Articles</HI> of <HI>Pacifica∣tion</HI>
+granted to them, the present suspention of all lawes against Priests and Recu∣sants
+in all Counties under his Majesties power; the uncontrolled multitudes▪ of
+Masses in his Armies, Quarters, <HI>Wales,</HI> the <HI>North,</HI> and elsewhere; the open boasts
+of Papists every where, the introducing of thousands of <HI>Irish</HI> Rebels, and other Fu∣gitives,
+to extirpate the Protestant <HI>Religion,</HI> most really proclaime it: And if the
+King, after all their many yeeres restlesse labour, plots, costs, paines, and pretended
+fidelity to his cause against the Parliament, should deny these <HI>Merit-mongers,</HI> such
+a diminutive reward as this is, (the very least they will expect▪) now they have
+him, the Prince and Duke, within their custody, <HI>Bristol, Chester, Ireland, Wales,</HI>
+most of the Westerne parts, and all his Forces in their power, this <HI>Discoverer</HI> (an
+eye and <GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>are-witnesse of destinie from the Legates owne vaunt, will informe his
+Majesty and all his Protestant Subjects (who will tremble at the very apprehension
+of it) that they have <HI>an Indian poysoned Nut</HI> reserved for him amongst this Iesuiti∣call
+societie; or if it be lost, <HI>a poysoned Knife</HI> perchance, or some other Instrument, to
+<HI>dispatch him out of the World,</HI> and so to get the possession, protection of the Prince,
+whom they will educate in their <HI>Antichristian Religion;</HI> which how possible, how
+probable it is for them (considering their present power and indeavours to effect
+it, their<NOTE N="*" PLACE="marg"><HI>Grimston</HI> in his life.</NOTE> <HI>poysoning of the Emperor,</HI> Henry <HI>the seventh, in the sacred host; of King</HI> Iohn
+<HI>in the Chalice;</HI> their<NOTE N="*" PLACE="marg">Fox, Speed,</NOTE> <HI>stabbing of</HI> Henry <HI>the third of</HI> France <HI>with a K<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ife in the belly;
+of</HI> Henry <HI>the fourth his successor,</HI><NOTE PLACE="marg">Generall hist. of <HI>France.</HI> in <HI>Hen.</HI> 3. &amp; 4.</NOTE> <HI>first in the mouth, next in the heart-strings;</HI> though
+all of their owne Religion, because they would not humour the Pope in every un∣reasonable
+demand, (though <HI>Henry</HI> the fourth <HI>turned an Apostate from the Pro∣testant
+Religion wherein hee was bred, restored the</HI> Iesuites <HI>formerly banished out of</HI>
+France, <HI>rased the Pillar erected in</HI> Paris, <HI>as a<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>standing Monument of their Trea∣sons
+against their Soveraignes, and built them a stately Colledge, to secure his
+life from their Ass<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ssination, which yet would not save him from their butchery:</HI>)
+Together with their pistolling of the Prince of<NOTE N="*" PLACE="marg">Meteran<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>s▪ Grimston.</NOTE> <HI>Orange,</HI> and poysoning of
+<PB N="35" REF="21"/>
+<NOTE N="*" PLACE="marg">See Doctor <HI>Eggl<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>shams</HI> Booke, and the Commons charge against the Duke of <HI>Buckingham.</HI></NOTE> King <HI>Iames</HI> himself (as the <HI>Legate</HI> boasted) may informe his Majestie, and all his
+faithfull Protestant Subjects, (especially such as by their confederating with them in
+these their wars, have done nought, but executed, advanced their fore-named de∣signes,
+whom it concernes now very neerly to prevent, if possible, such a sad <HI>Catastro∣phe</HI>
+of that bloodie Tragedie, which hath been acted overlong in <HI>Ireland</HI> &amp; <HI>England</HI>
+by these Conspirators fore-plotted treasons. The execrable horridnesse and reality
+whereof, made the very <HI>Discoverer</HI> of the Plot, out of remorse of conscience, to desert
+the Conspirators, conspiracie, and that bloody Religion which begot it; and therfore
+should much more incite all such in his Majesties Army, who are cordially faithfull
+to their Soveraigne, Religion, Countrey, Posterity, and have hitherto ignorantly
+acted these conspirators treasonable designes, under colour of serving the King; to
+consider with remorse of conscience, whose Instruments they have thus long been,
+whose treasons they have ripened, what Protestant blood they have shed, how much
+they have weakened, impoverished, betrayed their own Protestant party, who have
+really stood for God, Religion, King, Countrey, Parliament, against these Romish
+conspirators; and what hopes, what advantages they have given these confederates,
+both in <HI>England</HI> and <HI>Ireland,</HI> to overtop, suppresse, and ere long, utterly to extirpate
+the Protestant Religion, themselves, and all other cordially pro<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>essing it, as they have
+done many thousands of them already. And then upon all these sad, most serious
+considerations (the very thoughts whereof should cause their soules to bleed and
+tremble) speedily to desert these trayterous Papists, ere they get all into their power,
+and unite all their heads, hearts, hands, forces to the Parliaments party, who had so
+good cause to take up defensive arms, to prevent the imminent ruine, which other∣wise
+is like to befall both King, Kingdome, Religion, Parliament, Liberty, Property,
+Posterity, ere we be aware; especially, since the most cowardly unworthy yeelding
+up of <HI>Bristoll,</HI> a fit Inlet for the <HI>maligant Welch Papists, Irish Rebels,</HI> (who have con∣spire
+to come over hither with all expedition, and are lately landed here in great
+multitudes since the pacification made with them) to cut all our throats.</P>
+<P>11. That those Protestants who now side with Popish conspirators, when they
+have accomplished their designes, whatsoever they may now fancy to themselves,
+shall find no more mercy or favour from them, then the greatest <HI>Roundheads,</HI> if they
+comply not with them in all things, and even in <HI>Popery</HI> it selfe; for if they will not
+spare the Kings own person and life, after so many favours, graces extended to them,
+(as they will not, if we believe this Relation, or the late story of King <HI>Henry</HI> the
+fourth of <HI>France,</HI> yet fresh in memory) what inferiour person can think to be secure,
+to fare better then the King himselfe? And if <HI>Con the Legate,</HI> to insinuate himselfe
+into the Kings and Palatines favours at the fi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>st, when he had no interest in them,
+would not so much <HI>as advi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>e the Legat of</HI> Colen, <HI>to mediate for the</HI> Palsgrave, <HI>lest per∣adventure
+the King of</HI> Spaine <HI>should report, that the Pope had patronized an here<GAP DESC="illegible" RESP="tech" EXTENT="3 letters" DISP="•••"/>all
+Prince, as the Rela<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ion attests,</HI> though he promised the King effectually to do it; How
+can <HI>Prince Rupert, Maurice,</HI> (or any other Commanders) in the Kings Army, when
+they have fully accomplished the Popes, and these his Instruments designes (under
+whose banner they ignorantly, yet really militate and promote his cause, in steed of
+the Kings and Kingdomes, to whom they and theirs have been so much ingaged)
+<PB N="36" REF="22"/>
+hope to receive the least dram of favour, pity, muchlesse any recompence from the
+Pope and Popish party, if they continue hereticks still, notwithstanding all their
+present goodly promises? Will they (think<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/> you) part with any other inheritances
+to them, then, who will not so much as now mediate for them to regaine their own?
+Will these who have butchered so many thousands of innocent Protestants in <HI>Ire∣land,</HI>
+in <HI>England,</HI> even before they were sure of the day, without any provocation
+given; spare any mothers sonne of them alive, if they once erect their Trophees
+over them? Certainly the experience of all former ages compared with the pre∣sent,
+may fully resolve all, that <HI>the very</HI><NOTE N="*" PLACE="marg"><GAP DESC="illegible" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/>. 12, 10.</NOTE> <HI>tender mercies of these wicked ones,</HI> will be
+nought <HI>but extreme cruelty;</HI> and if they prevaile, wee all must perish without di∣stinction
+sooner or later, unlesse wee will turne Apostates, and lose our Religion,
+God, Heaven, soules, to save our transitory lives.</P>
+<P>Finally, therefore, let the serious consideration of all the premises instruct us, to
+learne wisdome from these our adversaries; let their indefatigable industry, subtill
+policy, sincere fidelity, cheerfull constancy, bountifull liberality, fraternall unani∣mity,
+undaunted magnanimity, indissolvable confederacy, and uninterrupted perti¦nacie
+in prosecuting, establishing, propagating their Antichristian Religion, Trea∣sons,
+designes, excite all Protestants (according to their severall late <HI>Covenants</HI> and
+<HI>Protestations</HI> much forgotten) to equalize, if not transcend them in all these, in de∣fending,
+securing, propagating our true Christian Religion, protecting our King,
+Kingdomes, Parliament, Lawes, Liberties, Posterity, all we yet have, or hereafter
+hope for, from that imminent ruine, which these Popish conspirators threaten to
+them. Fore-warned fore-armed; if now we perish through our owne private dis∣sentions,
+folly, cowardize, covetousnesse, trechery, security, or monstrous credulity,
+that these conspirators and Papists now in Armes, fight onely for the King, and esta∣blishment
+of the Protestant Religion, as it was in Queen <HI>Elizabeths</HI> dayes, (against
+whom they plotted so many Treasons, even for her very Religion, and also the
+powder-plot since, against King <HI>Iames,</HI> and the whole Parliament,) our blood shall
+rest upon our owne heads, who would not take timely notice of our incumbent
+dangers, nor suddenly prevent them whiles we might.</P>
+<P>YO have read before in the plot it selfe, what an active instrument Captaine <HI>Read</HI>
+was, in promoting this conspiracie <HI>of the Iesuites; and how he was intrusted with
+the dispatch</HI> and delivery of all their Letters and Packets of intelligence, and his
+house the ordinary randevouze where they weekely met; yet see what a Protection
+this desperate Traytor obtained from his Maiesty, to secure him against all apprehen∣sions
+and prosecutions to advance this designe, recorded in the Clerke of the Peace hi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>
+Book for <HI>Middlesex</HI> in open sessions, for his greater immunity, and in the Crowne Office.</P>
+<LETTER>
+<HEAD>By the King.</HEAD>
+<P>VVHereas We have received good testimony of the <HI>Loyalty</HI> and <HI>Duty</HI> of Our <HI>trusty and welbeloved Captaine, Iohn Read;</HI> and because he may be subject
+to the penalty of the lawes for <HI>Recusancie.</HI> These are to signifie, that We are
+<HI>graciously pl<GAP DESC="illegible" RESP="tech" EXTENT="1 letter" DISP="•"/>ased to extend Our speciall Grace towards him:</HI> and doe hereby will
+<PB REF="22"/>
+command, that no Inditement, Presentment, Information, or Suit in Our name, or
+in the name of any other, be henceforth commenced, prosecuted, or accepted against
+him, by any of Our Officers or Subjects whatsoever, for or concerning <HI>Recusancie:</HI>
+and if any such shall happen, then Our will and pleasure is, that upon sight hereof
+the same shall be discharged and made voyd, or otherwise not prejudiciall to him.</P>
+<CLOSER><DATELINE>Given under Our <HI>Signet</HI> at Our Court at <HI>Theobals</HI>
+<DATE>the 13. day of <HI>Iuly,</HI> in the 10<SUP>th</SUP>. yeere of Our Raigne.</DATE></DATELINE>
+<SALUTE>To all and singular Our <HI>Iudges</HI> of Assize, <HI>Iustices</HI> of Peace, <HI>Maiors, Sheriffes,
+Clerkes</HI> of Assize and Peace, <HI>Bayliffes, Constables, Informers,</HI> and all
+other Our Officers and Ministers, whom it doth, or may concerne, and to
+every of them.</SALUTE></CLOSER>
+</LETTER>
+</DIV1>
+<DIV1 TYPE="part">
+<HEAD>The Examination of Henry Mayo.</HEAD>
+<P>WHo saith, That on <HI>Thursday</HI> last, being the
+twentieth of <HI>Iuly,</HI> one thousand six hundred
+forty three, he being at <HI>Bridges</HI> in <HI>Flanders,</HI> heard
+Proclamation made in <HI>Dutch,</HI> (who understands it
+very well) that all people within that City, that
+would goe to the Governours house, and give any
+Money to maintaine the <HI>Romane Catholiques</HI> in
+<HI>England,</HI> they should have their Money re-paid
+them againe in a yeeres time, with many thanks.</P>
+<CLOSER><SIGNED>HENRY MAYO.</SIGNED>
+<POSTSCRIPT>
+<P>This Examination was taken before us,</P>
+<CLOSER><SIGNED><LIST>
+<ITEM>EDWARD BOYCE.</ITEM>
+<ITEM>JOHN BOYCE.</ITEM>
+<ITEM>GEORGE TROTTER.</ITEM>
+</LIST></SIGNED></CLOSER>
+</POSTSCRIPT></CLOSER>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The laurel a poem on the poet-laureat.</TITLE><AUTHOR>Gould, Robert, d. 1709?</AUTHOR></TITLESTMT><EXTENT>Approx. 54 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2003-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A49735</IDNO>
+
+
+<IDNO TYPE="stc">Wing L622</IDNO>
+
+<IDNO TYPE="stc">ESTC R18331</IDNO>
+
+<IDNO TYPE="eebo citation">12349564</IDNO>
+
+<IDNO TYPE="oclc">ocm 12349564</IDNO>
+
+<IDNO TYPE="vid">59939</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A49735)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 59939)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 215:3)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The laurel a poem on the poet-laureat.</TITLE><AUTHOR>Gould, Robert, d. 1709?</AUTHOR></TITLESTMT><EXTENT>[9], 34 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for Benj. Tooke ...,</PUBLISHER>
+<DATE>1685.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Written by Robert Gould. Cf. Halkett &amp; Laing (2nd ed.).</NOTE><NOTE>Reproduction of original in Bodleian Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Dryden, John, 1631-1700 --  In literature.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2002-07</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2002-08</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2002-09</DATE><RESPSTMT><RESP>Olivia Bottum</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2002-09</DATE><RESPSTMT><RESP>Olivia Bottum</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2002-10</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A49735">
+<STC T="W">L622</STC>
+<BIBNO T="oclc">12349564</BIBNO>
+<VID>59939</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>THE
+LAUREL,
+A
+POEM
+ON THE
+<HI>Poet-Laureat,</HI></P>
+<P><HI>Nos</HI> sequimur Lauros <HI>Te</HI> Lauri sponte sequuntur.</P>
+<P><HI>LONDON,</HI>
+Printed for <HI>Benj. Tooke</HI> at the <HI>Ship</HI> in St. <HI>Paul</HI>'s
+Church-Yard, 1685.</P>
+</DIV1>
+<DIV1 TYPE="preface">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>Prefatory Remarks,</HEAD>
+<P>IT would be but an impertinent sort of a <HI>Preface,</HI> (though
+not so unusual,) to tell you here of the <HI>Design</HI> of the fol∣lowing
+<HI>Poem,</HI> when any one may see for what it is <HI>Design'd,</HI>
+tho that Elaborate sort of superfluity, has been an <HI>Introdu∣ction</HI>
+to many a <HI>Piece,</HI> and <HI>whole Sheets</HI> spent in an <HI>Expo∣sition</HI>
+of the <HI>Title Page,</HI> that's <HI>Clear,</HI> and then its Author
+has nothing now to do, but to <HI>Clear</HI> himself.</P>
+<P>If any can <HI>Censure</HI> it for a <HI>bold Attempt,</HI> wee'll with all
+our <HI>Heart</HI> own our <HI>Confidence:</HI> But then it shall be only
+plac't in him, that has most <HI>Reason</HI> to <HI>Censure,</HI> and that's
+the <HI>Subject,</HI> who is the most <HI>concern'd,</HI> and the <HI>best Judg;</HI>
+and then his <HI>severer Animadversions</HI> will be superseded by
+the <HI>Kindness</HI> of the <HI>Oblation:</HI> And a <HI>Kid</HI> can never be <HI>de∣spisd,</HI>
+only because we could not offer an <HI>Hecatombe:</HI> And
+lest his own <HI>Modesty</HI> may Master his <HI>Judgment,</HI> or others
+<HI>Envy</HI> condemn <HI>mine,</HI> and both make it too much for such a
+<HI>Subject;</HI> both will be better <HI>pleas'd</HI> too when I tell them it was
+<HI>Penn'd</HI> (as indeed it was,) only to <HI>Please</HI> my Self.</P>
+<P><PB REF="3"/>The <HI>Motive</HI> that inclin'd the <HI>Muse</HI> to <HI>this undertaking,</HI>
+was not a determin'd <HI>Flattery,</HI> but a <HI>Chance</HI> of <HI>Fancy,</HI> and
+so far from <HI>Affectation</HI> of <HI>Favour;</HI> 'tis a sordid Saul that
+turns <HI>Sycophant</HI> out of <HI>Design:</HI> Had it aim'd so <HI>low,</HI> sure
+its <HI>Subject</HI> should have been more <HI>Lofty:</HI> Some <HI>PATRON
+PEER,</HI> some <HI>Person Greater,</HI> and perhaps deserving <HI>Less.</HI>
+Its <HI>Author</HI> is <HI>much</HI> satisfyed such a <HI>Theam</HI> has Exercis'd his
+own <HI>Pen,</HI> and as <HI>little</HI> Sollicitous whether it gratifie any
+<HI>other</HI> Person: That which he is concerned for, is, His
+ever appearing at all like a <HI>Poet,</HI> tho it were in praise of the
+best; and what he could have better Exprest perhaps in a <HI>Pa∣negyrick,</HI>
+than a <HI>Poem;</HI> there being to that required such a
+<HI>Smooth</HI> and <HI>Natural Easiness,</HI> not to be acquired by the <HI>Pol∣lishings</HI>
+of <HI>Art,</HI> and <HI>Industry: Such</HI> a sort of <HI>Wits</HI> must
+be <HI>happily conceived</HI> so in the <HI>Womb:</HI> if ever their <HI>Muse</HI>
+will become <HI>Happy</HI> in its <HI>Conceptions:</HI> The <HI>Latin Apho∣rism</HI>
+tell us truly, (that <HI>they</HI> must be <HI>born,</HI> while <HI>others</HI>
+may be <HI>made:</HI>) and they but unfortunately Glory with the
+<HI>Great,</HI> to be Fam'd for their <HI>Mothers Labour,</HI> not their
+<HI>own.</HI></P>
+<P>That which put us upon <HI>Poetry,</HI> was not to <HI>Chear</HI> up our
+<HI>Padding Prose,</HI> with the Comfortable noise of Bells, and
+<HI>Rhyme,</HI> an Excuse perhaps that can't be well made use of
+where the <HI>Verse</HI> tires too, and proves out a <HI>Jade:</HI> But if a
+Body may deal <HI>plainly</HI> in an Age, where 'tis hard to find
+<PB REF="3"/>
+<HI>plain Dealing:</HI> It was the Effects of some solitary Retirements,
+even among the midst of Company: <HI>Thought</HI> and the <HI>Muse,</HI>
+could still affect their <HI>Obscure</HI> Retreats, where others only the
+most <HI>splendid</HI> Appearance, and made a shift to <HI>warm</HI> them∣selves
+into <HI>Verse</HI> upon a <HI>Cold Spring,</HI> and <HI>Epsome Water:</HI>
+so that we won't pretend to so much as a <HI>Small Beer Poet,</HI> when
+inspir'd only with the <HI>Element</HI> of <HI>John Taylor.</HI> I confess I
+never lov'd much <HI>Strong Drink,</HI> and have read the <HI>Muses</HI>
+had a great many <HI>Fountains</HI> too that never ran <HI>Wine:</HI> And
+were I as well barrell'd as their Popular <HI>Poet, Ogg</HI> himself,
+I should hardly Love to be always as <HI>full</HI> too; (tho if his
+Verse were to be gaged in his Vessel'twould be still found <HI>emp∣ty</HI>)
+Even <HI>then</HI> I should rather chuse to jog on <HI>Lazily</HI> in Sober
+Sense, than take the <HI>Pains</HI> to be Drunk for his <HI>Elaborate</HI> Dul∣ness:
+Well may the Sot, (as they say) Blaspheme in his
+<HI>Wit</HI> and <HI>Wine,</HI> when only the <HI>Devils Apollo</HI> Fires him with
+his <HI>God.</HI> The little Satyr we have spent on him, and some
+such Seditious Scriblers, was both seasonable, and pertinent,
+and proceeded from a double Provocation: Their avowing
+themselves Enemies to all <HI>Loyalty,</HI> as well as the <HI>Laureat,</HI>
+their Libelling of late their own <HI>Sovereign</HI> as well as his
+<HI>Subjects;</HI> and tho the sucking <HI>Muse</HI> is yet Young enough to
+want <HI>Teeth:</HI> Yet they may find its <HI>Gumms</HI> too, can make a
+shift to <HI>bite.</HI></P>
+<P>That <HI>Rural</HI> sort of Entertainment we met with in the <HI>Coun∣trey,</HI>
+<PB REF="4"/>
+has in some Places made the Fancies <HI>Pastoral.</HI> The
+<HI>Eye</HI> being affected with such <HI>External</HI> Objects, as made the
+like Impression on the Mind <HI>within:</HI> And 'tis an Old Axiome
+we learnt I remember out of our Schools; That there is no∣thing
+in the <HI>Intellect,</HI> but what is first represented to it by the
+<HI>Sense:</HI> Which Maxim in Philosophy, I am sure is so far Conver∣tible,
+that whatever the <HI>Sense</HI> represents, must at the same
+time be in the <HI>Intellect.</HI> And the <HI>Course</HI> Object of the Eye,
+<HI>refin'd</HI> into Thought and Idaea.</P>
+<P>The Digression at last into the praise of our <HI>David</HI> is so far
+warrantable, as it has some Relation to the <HI>Poem.</HI> And so its
+Author can't be altogether said to <HI>Digress;</HI> it being but on a
+<HI>Theam,</HI> which the Subject of <HI>ours</HI> has so well handled, it
+offers only at a little piece of Imitation; and we have the as∣surance
+of a standing <HI>Maxim, that in Great attempts 'tis-some
+Honor to Miscarry:</HI> But if this won't Apologize, the Pen∣man's
+hearty Loyalty will make the better Plea. He must
+still remember in all his Works, what he does in his Prayers
+and Drink, the <HI>King,</HI> and the serving up of the best Dish
+in the Rear is an Argument of <HI>Choice,</HI> not <HI>Error,</HI> and the
+<HI>end</HI> has a Proverbial Right of <HI>crowning</HI> every Work, which
+it can be more litterally said to do with a <HI>Crown'd Head.</HI></P>
+<P>The Character of <HI>Sheba</HI> might be well <HI>pursued,</HI> whom Iu∣stice
+has so well <HI>overtaken,</HI> and any Satyr against the Sedi∣tious,
+<PB REF="4"/>
+can be never <HI>unseasonable,</HI> that show themselves
+so ready to Rebel at all <HI>Seasons:</HI> though the <HI>Text</HI> does not men∣tion
+that he was in <HI>Absolon's</HI> Rebellion, 'tis shrewdly to be
+presum'd that he was: And as <HI>his</HI> Insurrection was after the
+Youths defeat, 'tis to be suspected too that this our <HI>Sheba</HI> might
+have created our <HI>David</HI> a <HI>second,</HI> and a <HI>worse</HI> Trouble: I
+am sure he Countenances the Character in his end, and <HI>Simi∣le</HI>'s
+are oblig'd by the Rules of Logick to differ, to prevent
+their being the <HI>same;</HI> and should they happen not to be Co∣temporaries
+in the Text, the contrary of which is rather there
+implyed: Yet <HI>Verse</HI> need not be <HI>crampt</HI> with <HI>Chronology,</HI>
+tho it <HI>bind</HI> an <HI>Historian.</HI></P>
+<P>But for those that are so <HI>tender</HI> as to think it <HI>hardness</HI> to
+the <HI>Dead;</HI> they are only such as are concern'd for his <HI>dying;</HI>
+Yet they sure may give us leave to side with the Government in
+a little <HI>Satyr</HI> on their <HI>Hero;</HI> that have invaded it so <HI>viru∣lently</HI>
+for him in a <HI>Libel,</HI> and a <HI>Panegyrick.</HI> And whatever
+Compassion they have for the <HI>Ashes</HI> of the <HI>Dead,</HI> none sure is
+bound to reverence the <HI>Dust</HI> of a <HI>Traytor.</HI></P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="5"/>
+<PB N="1" REF="5"/>
+<HEAD>THE
+LAUREL
+A
+POEM.</HEAD>
+<LG>
+<L>WITH Fruitless Pains, long did the labour∣ing
+Muse</L>
+<L>Inspiring Theams, provoking Med'cins use,</L>
+<L>'Till spent at last, it knew not what to chuse.</L>
+<L>If some fierce Fancy made the fondling aim</L>
+<L>To reach a War-like <HI>Heroes</HI> Deathless Fame,</L>
+<L>Injurious still to its own Noble choice,</L>
+<L>A blustering Hector ended all in noise.</L>
+<L>If gentle thoughts of Peace employed the Pen,</L>
+<L>To her still dulness down she sunk agen.</L>
+<L>Of Love's Divinest Theam sometimes 'twas full,</L>
+<L>But would express it, most divinely Dull.</L>
+<L><PB N="2" REF="6"/>The young unmanag'd thing was still too fierce,</L>
+<L>Or tamely Lagg'd, along, in Lazy Verse,</L>
+<L>Of unflusht Poets, still the common Fate</L>
+<L>In their Raw Rhymes to be unfortunate:</L>
+<L>The young unfeathered Things must vainly try,</L>
+<L>If from their Nest, they see but others fly.</L>
+<L>Of all her Vain Essays she nought could make,</L>
+<L>'Till for her Theam she did thy Praises take;</L>
+<L>In Vain invok't the Names of all the Nine;</L>
+<L>Mistaken Fool! and never thought on thine:</L>
+<L>Some Sparks of Wit, a faint and glimmering Fire,</L>
+<L>Would wink and look as if 'twould quite Expire.</L>
+<L>She <HI>Dryden</HI> call'd, and at thy sacred Name,</L>
+<L>Streight, the Dull Embers flasht into a Flame.</L>
+<L>Thus the mad Priests, with Zealous Error bawl'd,</L>
+<L>In Vain their Helpless, Drowsie <HI>Baal</HI> call'd,</L>
+<L>Big with their God, with Fury, and with Pain,</L>
+<L>The tortur'd Wretches like Poor Poets Strain,</L>
+<L>And both mistaken still, and both in Vain;</L>
+<L>The Sullen, Senseless Blocks, lay Dull, and Wet,</L>
+<L>And lookt as loath to entertain the Heat;</L>
+<L>But when the Happier Prophet truly Pray'd,</L>
+<L>Invok't Liviner, and more Powerful ayd,</L>
+<L>A Vigorous Heat which from kind Heavens came,</L>
+<L>The smothering Altar Gilt, with Lambent Flame:</L>
+<L><PB N="3" REF="6"/>Come Tuneful Souls, that would be well Inspir'd,</L>
+<L>And with exalted Fancy truly Fir'd;</L>
+<L>Your Female Sovereigns, once the mighty Nine;</L>
+<L>But now weak Powers, and not at all Divine,</L>
+<L>And can't prescribe to a Successive Line,</L>
+<L>Must be depos'd their Government by you,</L>
+<L>And Salique Law obtain with Poets too,</L>
+<L>His Masculine Wit for Inspiration chuse;</L>
+<L>The Muses Master, makes the better Muse;</L>
+<L>Then go, young happy Bards, that near him sit;</L>
+<L>Go, Sing his Praise, that reap the Benefit,</L>
+<L>His Bounteous Largess, of Diffusive Wit,</L>
+<L>Your meanest Brother knows scarce him, or number yet.</L>
+<L>Forgive this bold attempt of Ignorance,</L>
+<L>While I relate the happy Work of chance.</L>
+<L>I'le tell thee <HI>Damon,</HI> thee dear Friend I'le tell,</L>
+<L>What to thy straggling <HI>Strephon</HI> late befel,</L>
+<L>How first he found of Verse the beaten Rode,</L>
+<L>That led not to our <HI>Pan,</HI> but better God;</L>
+<L>Even better far, than what the Citts adore,</L>
+<L>When mine they know, they'le Worship theirs no more,</L>
+<L>Their <HI>Phaebus,</HI> God but of Presumptive Wit,</L>
+<L>His Deitie was ne're an Author yet;</L>
+<L>I'le tell you how your Shepherds thoughtless Breast,</L>
+<L>With Muse, and thought Divine was first possest.</L>
+<L><PB N="4" REF="7"/>You know we long, and that in Vain did play,</L>
+<L>Too long alas! we play'd the time away</L>
+<L>On <HI>Isis</HI> Sunny Banks, supinely laid,</L>
+<L>(O! that my wandring thoughts had sooner stray'd;)</L>
+<L>Her fertile Bounty Blest like Heavens dew,</L>
+<L>And all was water'd that but near her grew;</L>
+<L>To me her blasted Weed, to me alone,</L>
+<L>More than a <HI>Gideon</HI>'s Miracle was shown,</L>
+<L>Our <HI>English Pindar</HI>'s Fate by mine's out-done,</L>
+<L>Mine all the <HI>Laurel</HI> of Misfortune won:</L>
+<L>Peace injur'd Dust, ye Pious Ashes Peace,</L>
+<L>My greater Lot, will make your sufferings less:</L>
+<L>For Disappointments you abroad would Roam,</L>
+<L>Propitious Fate! to me still brought it home;</L>
+<L>Your Fleece lay dry, but where none e're was wet,</L>
+<L>In Courts, among the Wretched, and the Great;</L>
+<L>But mine was fairly Curst, even in the Muses happy Seat.</L>
+<L>Flow on false Streams, for should I pass that way,</L>
+<L>And thou the same, that caus'd my Fruitless stay,</L>
+<L>At that ungrateful sight, I needs must burn;</L>
+<L>But I, no more, than thy past Waters shall return.</L>
+<L>My Faithful Swain, you know the Fatal Hour,</L>
+<L>We melting Souls, in parting Tears did pour,</L>
+<L>Such Tears, as when the Mournful Night was come,</L>
+<L>That <HI>Caesar</HI>'s Exile left his Native Rome;</L>
+<L><PB N="5" REF="7"/>Or those the Pious Prince, devoutly shed,</L>
+<L>When perjur'd <HI>Troy,</HI> the poor Remainder fled.</L>
+<L>But most thy loss my Friend, most that I moan'd,</L>
+<L>Thy Faith for all her Perjuries atton'd,</L>
+<L>With longing Eyes, we view'd your flying Plain</L>
+<L>Still rose the glowing Breast, and still in Vain,</L>
+<L>Still Love supprest all Anger and Disdain,</L>
+<L>While quite behind the rising Hill she ran,</L>
+<L>We left her; but as Men the setting Sun,</L>
+<L>Which warms them still, and still does from them run,</L>
+<L>So set our chearing Light, and once our Trust;</L>
+<L>But false and failing, as she set she Blusht.</L>
+<L>Restless we many Lawns, and Meadows past,</L>
+<L>Nought pleas'd the Eye, or Pleasant to the Tast,</L>
+<L>'Till our Curst Fate, even with us weary grown,</L>
+<L>Grew kind, and shew'd a Plain, so like thine own,</L>
+<L>That thee my <HI>Damon,</HI> still I fancy'd there,</L>
+<L>And that but in a Dream, we parted were,</L>
+<L>It was the Muses other soft retreat;</L>
+<L>As Graceful still, tho not so Gaudy seat,</L>
+<L>As many Tuneful Youths did there resort,</L>
+<L>As many Nobles Grace the learned Court;</L>
+<L>Wit for her own, its Proudest Palace claim'd,</L>
+<L>Three Mighty Princes there Successive Reign'd,</L>
+<L>There <HI>Spencer, Cowley, Dryden,</HI> Monarchs sate,</L>
+<L>That now make up the Great Triumvirate,</L>
+<L><PB N="6" REF="8"/>There still the forward Shoots we rising find,</L>
+<L>From the Prolifick Seeds they left behind:</L>
+<L>There, Reverend <HI>Cham,</HI> the much lov'd <HI>Cowley</HI>'s Stream,</L>
+<L>Fam'd for its self, but much more fam'd for him;</L>
+<L>Through the still Willow cuts his silent way,</L>
+<L>Grave like the learned Heads that by him stray;</L>
+<L>The peaceful Stream, no noisie Murmuring makes,</L>
+<L>His Neighbouring Muses for Example takes,</L>
+<L>And they in Kindness grace the gentle Stream</L>
+<L>With easie Praises, of its flowing Theam:</L>
+<L>Not with Proud <HI>Tyber</HI> foams up Golden Ore,</L>
+<L>And with Rich Sands, but Barrens all the Shore,</L>
+<L>Like Fertile <HI>Nile,</HI> his fatten'd Banks oreflows,</L>
+<L>And a much Richer Green, behind it Grows.</L>
+<L>Off from the spacious Valleys, humble Plain,</L>
+<L>The Tuneful Walk, of each Harmonious Swain,</L>
+<L>A Pleasant Hill, unforc't, scarce seen to rise,</L>
+<L>At once invites, while it deludes your Eyes;</L>
+<L>There Faithful <HI>Coridon</HI> his Lambs did Feed,</L>
+<L>And kind <HI>Alexis</HI> watcht the Wanton Kid;</L>
+<L>Oft the Kind Swains would let their Fleeces stray,</L>
+<L>And with their stragling Stranger spend the day.</L>
+<L>Show all th' Innocent Treasure of the Place,</L>
+<L>Where the Best Thicket, sweetest Hazle was,</L>
+<L>Showd all their Treasure, and presented too,</L>
+<L>The Juicy Blackberrie, the rasie Sloe,</L>
+<L><PB N="7" REF="8"/>The kinder Herbs, prest by our ruder Feet,</L>
+<L>Officiously in mingled odours meet,</L>
+<L>You <HI>Damon</HI> know, we of't o're <HI>Hybla</HI> went;</L>
+<L>But never <HI>Damon</HI> knew, so sweet a scent,</L>
+<L>Here courting Nature, labour'd for to please,</L>
+<L>Stretcht out her self, to spread Varieties:</L>
+<L>Here grew our Flocks lov'd <HI>Thyme,</HI> our <HI>Beeches</HI> stood;</L>
+<L>All that we use, for Physick or for Food,</L>
+<L>Such as our Old fam'd <HI>Chiron</HI> never knew,</L>
+<L><HI>We</HI> crop't of all, and as we crop't they grew,</L>
+<L>They never dye; but a while doubtful stand,</L>
+<L>Th' Immortal Harvest rises on the Reapers Hand;</L>
+<L>'Tis just at least, that they should ever live,</L>
+<L>Whose powerful Vertues Life it self can give,</L>
+<L>May mighty <HI>Pan,</HI> kind Swains! be as kind to you,</L>
+<L>And what I can't return, the Gods bestow,</L>
+<L>The Gods! that me in fruitful <HI>Eden</HI> plac't,</L>
+<L>Only to drive their Exile out at last,</L>
+<L>The Gods! that thus unkindly force-farewell,</L>
+<L>That on its Theam they scarce will let me dwell,</L>
+<L>And where it would have fixt, (had't pleased fate)</L>
+<L>The travelling <HI>Muse</HI> would suffer but to bait.</L>
+<L>Restless, like things that to their Center move,</L>
+<L>In an unknown, and undefined Love,</L>
+<L>We wou'd Altars raise to Verse her unknown God;</L>
+<L>But still were Ignorant of his blest Abode,</L>
+<L><PB N="8" REF="9"/>We askt of all the Gods, and Nymphs we found</L>
+<L>Near sacred <HI>Isis,</HI> or <HI>Chams</HI> hallow'd Ground,</L>
+<L>We askt where the True God of Verse might Dwell?</L>
+<L>Their Ignorance, or their Malice would not tell.</L>
+<L>And can our Spot, <HI>Arcadia,</HI> yield a Stream,</L>
+<L>That dares to vye, much less out-Rival them?</L>
+<L>It does, and such an one as does surpass</L>
+<L>All what Earth, or e're in Heaven was;</L>
+<L>And such alone, such as our Nobler <HI>Thames</HI></L>
+<L>Can Triumph o'er, those proud insulting Streams,</L>
+<L>Thee our fam'd Bard, doth his Example chuse,</L>
+<L>Thy even Current guides his flowing Muse;</L>
+<L>Yet ne'er did what the Mightiest Muse could say,</L>
+<L>Thy Worth, more boundless than her thoughts display,</L>
+<L>When all that Tribute's pay'd, no Treasure's found,</L>
+<L>As thou thy self in thine own Ocean drown'd;</L>
+<L>Why should O matchless Flood! the Common Deep,</L>
+<L>Mixt with the meaner Streams, thy Waters keep,</L>
+<L>Through the Tumultuous Main unmingled glide,</L>
+<L>Like the Fond <HI>Alpheus</HI> following of his Bride:</L>
+<L>Here Fate at length thy wandring <HI>Trojan</HI> cast,</L>
+<L>That <HI>Ilium</HI> of Misfortune fixt at last:</L>
+<L>Here 'twas he found that end of longing thought,</L>
+<L>The much lov'd Object he so long had sought:</L>
+<L>One Evening as he trac't the winding Flood,</L>
+<L>And near the dangerous Tempter Musing stood,</L>
+<L><PB N="9" REF="9"/>Where had the Amorous Boy, but gazing been,</L>
+<L>Tho none of his bewitching Face had seen,</L>
+<L>Th enamour'd Youth hath been as much undone,</L>
+<L>Not to his own, but her Embraces run.</L>
+<L>A gentle Breeze, as soft a sound did bring,</L>
+<L>Soft as the Notes the tuneful Angels Sing,</L>
+<L>With Ear, and Heart possest, I forward move,</L>
+<L>The strong Impulse of Musick, and of Love,</L>
+<L>When near the Bank, beneath a spreading shade,</L>
+<L>A Place that seem'd for such soft sweetness made,</L>
+<L>Where the past Waves their coming Sisters Greet,</L>
+<L>In twining Circles one onother meet.</L>
+<L>There sat—</L>
+<L>I'le tell thee <HI>Damon</HI> there I saw him sit,</L>
+<L>The Good, the Gay, the Glorious, God of Wit,</L>
+<L>His Golden Locks play'd with the wanton Wind,</L>
+<L>His Bow, and Quiver, careless hung behind,</L>
+<L>He now had found more dexterous Arts to kill,</L>
+<L>The feather'd Arrows yielded to the Quill,</L>
+<L>His own sweet Lays he Sung; while ev'ry sound</L>
+<L>Gave present Death, or made Loves deeper Wound,</L>
+<L>Between his Buskin'd Legs his Harp he held;</L>
+<L>The rising Stream with Expectation swell'd,</L>
+<L>So did our Breast, with the recoiling Flood,</L>
+<L>Bay back the Purple Channels of the Blood,</L>
+<L><PB N="10" REF="10"/>The Busie Soul, but Eyes, and Ears, could ply;</L>
+<L>'Twas task enough, to inform th' Ear, and Eye,</L>
+<L>Much there he sung, and well, and play'd as much</L>
+<L>While Ravisht Nature smil'd at every touch,</L>
+<L>And bid her murmuring Streams to bear a part,</L>
+<L>Her tuneful Birds, to imitate his Art,</L>
+<L>The cockling waves, crowd in to hear him play,</L>
+<L>In pressing Kisses, kiss their Banks away.</L>
+<L>The listning Fish, in thronging shoals appear,</L>
+<L>Charm'd with his Song, more mute and silent were.</L>
+<L>All that e're Savage was about him came,</L>
+<L>The Wolf stood harmless by his Prey the Lamb▪</L>
+<L>Much here did his the <HI>Thracian</HI> Harp outgo,</L>
+<L>Then <HI>Men,</HI> and Beasts were not so wild as now.</L>
+<L>With greedy Looks I view'd the Object ore,</L>
+<L>With Looks of Lovers when they most adore,</L>
+<L>I saw, and quick as nimble Sight there came,</L>
+<L>There flasht within my Breast, a rising Flame,</L>
+<L>Or a strange somewhat, that I could not Name.</L>
+<L>The kind Infection seiz'd on every part,</L>
+<L>The Fire infus'd, glow'd in the Youthful Heart,</L>
+<L>Your unexperienc'd Lad, unus'd to flame,</L>
+<L>Scarce Guest from whence the kind disorder came,</L>
+<L>Perplext, yet pleas'd, a while he musing stood,</L>
+<L>Thought it the common Feavour of the Blood:</L>
+<L><PB N="11" REF="10"/>Forgive that Impious thought! thou sacred Head,</L>
+<L>'Twas but his Innocence that Error bred.</L>
+<L>Streight undeceiv'd, his Soul dissolv'd in Rhyme,</L>
+<L>In mighty Numbers, and in measur'd Time.</L>
+<L>In grateful Verse, return'd due thanks to him,</L>
+<L>And her Inspirer, justly made her Theam:</L>
+<L>If from one single sight inspir'd by you!</L>
+<L>What will a Friendship, and Acquaintance do?</L>
+<L>Thus still as to th' Old Prophets House they came,</L>
+<L>They all were fir'd with a Prophetick Flame:</L>
+<L>That Stemm of <HI>Iess,</HI> Fam'd, and Ador'd, by you,</L>
+<L>And senseless <HI>Saul,</HI> amongst the Prophets too,</L>
+<L>When with the first fam'd Seer, thou shalt flye,</L>
+<L>Wing'd with a fiery Chariot to the Sky,</L>
+<L>That blest Abode, reserv'd for Him above,</L>
+<L>And sure the Lot, of Poetry, and Love,</L>
+<L>Tell me, O Father! (on the Barren Sand,)</L>
+<L>While you march up the Rich, and promis'd Land,</L>
+<L>How many gazing Sons, thou'lt labouring see,</L>
+<L>To catch th' inspiring Mantle dropt from thee?</L>
+<L>Be sure you leave the long'd for thing below,</L>
+<L>Thy self's too much on Heaven to bestow;</L>
+<L>I know, O reverend Bard! tis most unfit,</L>
+<L>Thy youngest Pupil in the School of Wit;</L>
+<L>Who at his Tutor's Feet, should gladly sit.</L>
+<L><PB N="12" REF="11"/>Taught first to Scan, and number out his Verse,</L>
+<L>Should in bold Lines his Masters Praise rehearse.</L>
+<L>To your learn'd Labours all that's here I owe,</L>
+<L>Blame not the Gift, which you your self bestow.</L>
+<L>This first Essay your Youth e're Publisht yet,</L>
+<L>Flows from the Subjects, not the Author's Wit:</L>
+<L>Your Fruitful Harvest watcht as Beggars do,</L>
+<L>Of Verse to glean a scattered Ear or two.</L>
+<L>You form'd the little Clay, you tun'd his Lays;</L>
+<L>Yet your own Work too weak to reach your Praise;</L>
+<L>Thy worth not to be reacht, but wrongs thy Name,</L>
+<L>And thy high Fancy robs thee of thy Fame.</L>
+<L>Then what we cannot reach, thy works shall show,</L>
+<L>What none else can, thou for thy self must do.</L>
+<L>Thy own reapt <HI>Laurels,</HI> here shall crown thy <HI>Bays,</HI></L>
+<L>I'll only Name them, for to name is Praise.</L>
+<L>If your harsh <HI>Maximin</HI> tho writ in spite,</L>
+<L>Seem'd soft and sweet, to each longing Appetite,</L>
+<L>What then must those too matchless Labours prove?</L>
+<L>Which you have writ in Kindness and in Love.</L>
+<L>Proud <HI>Spain</HI> had been Victorious long before,</L>
+<L>From her old World had forc't the faithless <HI>Moor.</HI></L>
+<L>Yet there her Worthy's dy'd like common Men;</L>
+<L>But here they live, with thine immortal Pen.</L>
+<L>There Valiant <HI>Arcos,</HI> yields to Time and Rust,</L>
+<L>But here he shines much Brighter in the Dust.</L>
+<L><PB N="13" REF="11"/>What sullen <HI>Critick</HI> can, <HI>Almanzor</HI> blame,</L>
+<L>But what will Blast Old <HI>Homer</HI>'s sacred Fame?</L>
+<L>His <HI>Hero</HI> stands unimitable still,</L>
+<L>The highest Pattern for the Proudest Quill:</L>
+<L>Yet neer did thine to such vile Passions creep,</L>
+<L>The brave <HI>Almanzor</HI>'s never seen to Weep.</L>
+<L>His peevish Greek to his fawning Mother cries,</L>
+<L>'Till the fond Goddess rose to wipe his Eyes.</L>
+<L>If thine's too sullen, too severe exprest,</L>
+<L>That only makes the Character the best,</L>
+<L>Anger's th' only Vertue in an <HI>Heroe</HI>'s Breast.</L>
+<L>If that the humble Muse, must stoop to tell,</L>
+<L>But sordid Truth, things meanly possible;</L>
+<L>Why then's that Greek, secur'd from powerful Steel,</L>
+<L>All Death-defy'd, but in the fatal Heel?</L>
+<L>But as <HI>Spain</HI>'s Victories in her old World won,</L>
+<L>For want of you, or dulness of her own,</L>
+<L>Had all been damn'd to dark Oblivion:</L>
+<L>So still her later Conquest of the new,</L>
+<L>Is only fam'd and aeterniz'd by you.</L>
+<L>The dusty Victors, rais'd attend thy Stage,</L>
+<L>And o're agen their Barbarous Battles Wage.</L>
+<L>The slaughter'd <HI>Indian</HI>'s Ghosts agen appear,</L>
+<L>Their Actions, Words, Their very thoughts are there.</L>
+<L>There the Rich Mines where all their Treasure lay,</L>
+<L>And all the <HI>Indies</HI> graspt-within a Play▪</L>
+<L><PB N="14" REF="12"/>Thy Muse embarqu'd, and toucht upon <HI>Peru,</HI></L>
+<L>Thou much more fam'd <HI>Columbus</HI> of the two,</L>
+<L>'Twas lost, and since found out agen by you.</L>
+<L>Still sacred Verse was Worshipt as Divine,</L>
+<L>Each Age ador'd for Goddesses the Nine.</L>
+<L>But you have made her Truths Divine express,</L>
+<L>And fully baffl'd the Schools Emptiness,</L>
+<L>Well may those Champions boldly stand their Ground,</L>
+<L>When but the Cause not Combatants they Wound:</L>
+<L>Divine <HI>Polemicks,</HI> tho' their Skill be Great,</L>
+<L>With our Lay Fencers too, can play a Cheat,</L>
+<L>He that Defends, but seems to doubt his Creed;</L>
+<L>And sharp debates like Thorns wound his Head,</L>
+<L>And make agen the Mighty Saviour bleed.</L>
+<L>Thou Gift of <HI>Tongues▪</HI> O had we still been mute,</L>
+<L>We Piety should Practice, not dispute.</L>
+<L>Kind, Reverend <HI>Levi,</HI> let us but believe,</L>
+<L>We ask no more, and you no more should give.</L>
+<L>Wee'll be attent, wee'll hear you Preach and Pray;</L>
+<L>But for God sake don't dispute your God away.</L>
+<L>Thou Dire Artificer of this Zealous Rage,</L>
+<L>Thou Pest of this, and the preceding Age▪</L>
+<L>That fought with Sword of Spirit and of Steel,</L>
+<L>In spilling Souls, and Blood infallible.</L>
+<L>To thy curst Pen we owe these Pious Tears,</L>
+<L>Religions Wounds, and all the Nations Wars.</L>
+<L><PB N="15" REF="12"/>Our <HI>Levites</HI> forc't on the defensive part;</L>
+<L>Put by his Thrusts, aim'd at the Churches Heart.</L>
+<L>Yet still the bold <HI>Assassin</HI> did persist,</L>
+<L>In's Murder prosper'd once, and once he Mist.</L>
+<L>With <HI>Iewish</HI> Worship, offer'd all in Blood,</L>
+<L>But 'gainst his last attempt our <HI>Sion</HI> stood.</L>
+<L>With faltering Nerves, yet graspt his feeble Sword,</L>
+<L>And dying fought the Battles of the Lord.</L>
+<L>Still more Prophane the Wretch assail'd the Muse,</L>
+<L>As if he, all that's sacred would abuse.</L>
+<L>The Tuneful <HI>Smec,</HI> once left his hungry Prose,</L>
+<L>In <HI>Doggrel</HI> twang'd his <HI>Calvin</HI> through the Nose.</L>
+<L>Well may you teach his <HI>Renegado</HI> Priests,</L>
+<L>When their dull Master aim'd so high as this.</L>
+<L>But while I thus Religious Truths would tell,</L>
+<L>Th' attempt but injures you who've don't so well.</L>
+<L>While you but teach Religion to the Lay,</L>
+<L>The Cassock, and the Gown, are taught to pray.</L>
+<L>Our Pious <HI>Herbert</HI> made it hold to Sense;</L>
+<L>But thy <HI>Dioinity</HI> is Eloquence.</L>
+<L>With many Heads the Rabble Monster rose,</L>
+<L>And thought no force its fury could oppose.</L>
+<L>Lampoon's, dull Libels, Satyrs, Pasquils, Jests,</L>
+<L>The dangerous Weapons of the Rebel Beast.</L>
+<L><PB N="16" REF="13"/><HI>Your</HI> Baxt—rs, Sh—wlls, Owens, Hunts, <HI>and</HI> Cares,</L>
+<L>For Penitents he Charitably spares.</L>
+<L>Led forth the Host, well Disciplin'd for Wars,</L>
+<L>Thou and thy <HI>Sheva,</HI> soon the Combate chose,</L>
+<L>Soon crusht them Dead in Loyal Verse and Prose.</L>
+<L>Ingenious Souls! whom Loyalty inspir'd,</L>
+<L>Beyond what Wit, or Wine, or Woman fir'd.</L>
+<L>The scribling Fops, soon found themselves out-writ,</L>
+<L>And rally'd with more formidable <HI>Wit:</HI></L>
+<L>They fear'd the Common Fate of perishing Print,</L>
+<L>And stampt more lasting Treason in the Mint:</L>
+<L>But <HI>Medal, Motto, Man,</HI> prov'd all a Cheat,</L>
+<L>The Silver like the rest was Counterfeit:</L>
+<L>Yours truly show'd the perfect Traytor's Face,</L>
+<L>A Monument more lasting than their Brass.</L>
+<L>These works all other Pens have far out-gon,</L>
+<L>Yet you your self, are by your self out-don.</L>
+<L>No travelling Muse, will e're beyond it run,</L>
+<L>Verse fixt her Pillars in thine <HI>Absolon.</HI></L>
+<L>You o're both Worlds the Mighty Conqueror Reign,</L>
+<L>Your self's subdued, 'twas all that did remain:</L>
+<L>Well might the brave <HI>Pellaean</HI> Youth lament,</L>
+<L>When Victory and the World no further went.</L>
+<L>Thy Pen has reapt more <HI>Laurels</HI> than his Sword,</L>
+<L>And Fate no further Conquest can afford.</L>
+<L><PB N="17" REF="13"/>The <HI>Mantuan Swan</HI> mounts with the <HI>Theban</HI> Quill,</L>
+<L>Yet in his lofty flight, seems humble still.</L>
+<L>In such sweet Notes doth flying life renew,</L>
+<L>As if his latest Breath he always drew.</L>
+<L>The charmed Soul tho fled he back would bring,</L>
+<L>Long may he live, but still as dying Sing.</L>
+<L>'Tis here he' has reacht the Mighty Mountains height,</L>
+<L>And triumphs in unimitable flight.</L>
+<L>Here on its flourishing Head he pitying sits,</L>
+<L>The panting, rising, labouring, croud of Wits.</L>
+<L>Long stood the fam'd, high <HI>Trophie, Cooper's</HI> Hill,</L>
+<L>The Muses left their own, and there would dwell.</L>
+<L>Had still o'retop't in Bravery, and Pride,</L>
+<L>And dar'd the flight, of all the World beside.</L>
+<L>I saw this Glorious Banner you display,</L>
+<L>The doubtful <HI>Denham</HI> yield at last the day,</L>
+<L>While you true Verses standard bore away.</L>
+<L>A Deed scarce equall'd by the Royal Pole,</L>
+<L>That shares in thy great Name, and greater Soul:</L>
+<L>When through the meaner croud with scorn he flew,</L>
+<L>And down the Proudest of their Banners drew.</L>
+<L>The Shouts of <HI>Europe</HI> Blest th' Important Day,</L>
+<L>You've routed Verse as Barbarous as they.</L>
+</LG>
+<LG>
+<L>Here fix faint Muse, thy Theam too fast will flow,</L>
+<L>Too great for Words, his rising worth will grow.</L>
+<L><PB N="18" REF="14"/>Too much of easie Praise, may'as much molest,</L>
+<L>With all his <HI>Laurels</HI> Crown'd he'd be opprest.</L>
+<L>The <HI>Roman Virgin</HI>'s Fate, would be his Lot,</L>
+<L>Crusht with the weighty Prizes she had got.</L>
+<L>And since the Muse more blunt, much duller grows,</L>
+<L>And in thy Praise, her Imperfection shows:</L>
+<L>I'll turn her point, and force her on thy Foes,</L>
+</LG>
+<LG>
+<L>And first thou <HI>Viper</HI> raise thy Venom'd Head,</L>
+<L>My Pen shall reach thee, tho from Justice fled.</L>
+<L>Thou who did'st damn thy Monarchs right Divine,</L>
+<L>And mad'st it Treason to defend His Line.</L>
+<L>Thou who the Prelates side didst falsely chuse,</L>
+<L>That with their Name thou might'st the Church abuse;</L>
+<L>But still what mov'd thee to Blaspheme the Muse?</L>
+<L>In Vain thy Rage, on thee she'll never smile,</L>
+<L>And turn thy Pedants, to the Poets Stile:</L>
+<L>Not one loose Word does on his Stage appear,</L>
+<L>But what the perfonated Thing must bear.</L>
+<L>The worst of Ills can't there be done too well,</L>
+<L>Who would plunge in, that saw the draught of Hell?</L>
+<L>Who when black Treason's drawn to Life upon't,</L>
+<L>Would praise the Traytor, or commend an <HI>H—nt.</HI></L>
+<L>The sullen Sot, makes no Distinction here,</L>
+<L>'Twixt the Pure Vice, and naked Character:</L>
+<L><PB N="19" REF="14"/>Toucht with the Sight of his own Factious Face,</L>
+<L>The fretting Fool, in spight would break the Glass.</L>
+<L>Can the Wretch Censure thy Divinest rage?</L>
+<L>Yet Blasphemies forgive in every Page,</L>
+<L>Of the ranting, roaring, Monster of the Stage?</L>
+<L>His Pious Namesakes <HI>Tom's</HI> Religious Theam,</L>
+<L><HI>Compendium</HI> to swear by, and Blaspheme,</L>
+<L>The Life, the Soul, of <HI>Devil,</HI> and <HI>Don Iohn,</HI></L>
+<L>Their Doctor ne're describ'd so well his <HI>Don:</HI></L>
+<L>While <HI>Popish</HI> Rapes, and Murders, acted were,</L>
+<L>And all by <HI>Spanish</HI> Pilgrims landed here.</L>
+<L>'Twas Innocent, his Lewdness they forgive,</L>
+<L>The Poets Plot too turn'd a Narrative.</L>
+<L>These haughty Devils, known but by their Paw,</L>
+<L>Think 'tis all Saint, 'till stoop, and see the Flaw.</L>
+<L>So the proud <HI>Iuno</HI>'s Bird, struts, spreads her Train,</L>
+<L>Till the black Feet, pull down her Pride again:</L>
+</LG>
+<LG>
+<L>Next Rhyming, Rattling <HI>Doeg</HI> should come in;</L>
+<L>But that Repentance, must attone for Sin:</L>
+<L>And the severest Morals pardon still,</L>
+<L>An Ignorance that is Invincible.</L>
+<L>He scarce design'd the Satyrs that he writ,</L>
+<L>His Head-strong Muse, the Jade had got the Bit,</L>
+<L>And rattl'd on with neither Fear, or Wit.</L>
+<L><PB N="20" REF="15"/>He next his Princes, must thy Pardon sue,</L>
+<L>To Sovereign Verse he was a Rebel too:</L>
+<L>Let the Relenting Soul but only live,</L>
+<L>To learn thou like thy Prince canst soon forgive.</L>
+</LG>
+<LG>
+<L>But let thy stubborn <HI>Ogg</HI> be ne're forgot,</L>
+<L>Whose drowsie Verse lurks deep, as still their Plot</L>
+<L>In something's understood, in something's not.</L>
+<L>He from Wits Empire, and his Princes flew,</L>
+<L>Or rather, Wit asham'd from him withdrew.</L>
+<L>Hail Mighty <HI>Gutts!</HI> for Drink the Standard made,</L>
+<L>Thou swilling Pensioner to the Brewers Trade.</L>
+<L>Go with thy Masters Horses, feed on Grains,</L>
+<L>As theirs thy Massy Gutts, as theirs thy Brains.</L>
+<L>We envy not thy Greatness; still drink on,</L>
+<L>'Till two-legg'd Hogshead swell up to a Tun,</L>
+<L>And Famous <HI>Heidelberg</HI> it self out-done.</L>
+<L>Go then invoke thy rotting Patrons Tap,</L>
+<L>Instead of Muse, to vent the flowing sap.</L>
+<L>Thy better Midwife, and with lesser Pain,</L>
+<L>Brings forth both Excrements, of Gutts, and Brain;</L>
+<L>You wou'd swear to see him sordid Satyr write.</L>
+<L>The Poet Rhym'd, but Doctor did indite,</L>
+<L><HI>Tom,</HI> and his <HI>Titus,</HI> both one Province chose,</L>
+<L>This Rascals it in Verse, and that in Prose.</L>
+<L><PB N="21" REF="15"/>If not to both disabled, Whore and Fight,</L>
+<L>Or any thing wee'll grant him but to write.</L>
+<L>Let him sing well his Dogrells, play them too;</L>
+<L>Wee'll give to him, as to the Devil his due.</L>
+<L>But who with docile Beasts would Art dispute,</L>
+<L>The Bear and Fiddle, <HI>Sh—ll</HI> and his Lute.</L>
+<L>Such rugged Monsters in a <HI>Smithfield</HI> Booth,</L>
+<L>(Where ought to be the Poets Stage in Truth.)</L>
+<L>Act, show at every Fair, for usual price,</L>
+<L>And Tuneful <HI>Sh—lls</HI> seen for Pence a piece.</L>
+<L>But as in every kind we something see,</L>
+<L>Grac't with Perfection in more high Degree.</L>
+<L>His frighten'd Dam, ran trembling from her kind,</L>
+<L>And left the shapeless Lump unlickt behind:</L>
+<L>The forc't Neglect beyond all natural Care,</L>
+<L>Made him the more compleat, and better Bear;</L>
+<L>To Dulness damn'd, and Faction since he fell,</L>
+<L>To perfect all the Punishment of Hell,</L>
+<L>His stubborn Error, is incurable.</L>
+<L>His spungy, sappy Soul, would yield to thee,</L>
+<L>But's body'd up by Trunk of sturdy Tree.</L>
+<L>Your Loyal Pen attempts with fruitless stroke,</L>
+<L>With Spriggs of Bays, for to chastise an Oak.</L>
+<L>Your too keen Satyr, does oblige your Foe,</L>
+<L>As harmless <HI>Tom</HI>'s, kind dulness still does you.</L>
+<L><PB N="22" REF="16"/>Your <HI>Fleckno</HI>'s kind, (tho' still severe enough)</L>
+<L>It Arms him Cap-a-pe with Nonsense Proof.</L>
+<L>He fears no more, of harden'd dulness full,</L>
+<L>He is not, will not, can't be made more dull.</L>
+</LG>
+<LG>
+<L>Leave then the Mud, that can't be made more mean,</L>
+<L>And praise, what can't be prais'd enough, agen;</L>
+<L>Search, mighty <HI>Pan,</HI> round all your tuneful Plain,</L>
+<L>Try the sweet Pipe, of each Melodious Swain.</L>
+<L>Let the fair <HI>Sylvia</HI> Judg, and kindly prove,</L>
+<L>If her dear <HI>Damon</HI>'s Lays she more could love.</L>
+<L>Shee'll make her self his Prize, and him her choice,</L>
+<L>Her Eyes, her Heart, her Soul too, for his Voice.</L>
+<L>In your own rural Eclogue he excells,</L>
+<L>'Tis all <HI>Arcadia,</HI> wheresoere he dwells,</L>
+<L>Say God of Verse, Judg of Immortal Wit,</L>
+<L>Say, who of all your inspir'd Men more fit,</L>
+<L>To have the highest place, and next you sit?</L>
+<L>Speak, envious God, tho he your Rival be,</L>
+<L>For if you're Just, you'll boldly say 'tis he.</L>
+</LG>
+<LG>
+<L>Kind Nature! to whose Liberal Objects we,</L>
+<L>Poor Common Rhymers must obliged be;</L>
+<L>Her self's oblig'd, and made more natural by thee.</L>
+<L>Such genuin Thoughts through all thy Fancy move,</L>
+<L>Describ'd by thee, she's with her self in love.</L>
+<L><PB N="23" REF="16"/>She with thy Muse doth weep, and with her smile,</L>
+<L>Pleas'd with thy Treacherous Pen, her self beguile:</L>
+<L>The willing Sun lends his Officious ray,</L>
+<L>And seems more bright when you describe the day,</L>
+<L>The tuneful Birds, in Consort with thee sing,</L>
+<L>Thy' Immortal Verse makes their Eternal Spring.</L>
+<L>If peaceful Nights still <HI>Theam</HI> does Lull thy Head,</L>
+<L>Kind humouring Nature, hushes all to Bed;</L>
+<L>Draws to the Life, the silent Chambers of the dead.</L>
+<L>The drowsie tops of Mountains nod with thee,</L>
+<L>And all the stubborn Oakes which on them be.</L>
+<L>All things so closely hug themselves in Night,</L>
+<L>As if they fear'd for you, approaching Light.</L>
+<L>So the fam'd Artist, with such natural Grace,</L>
+<L>Fram'd Artful Heavens in his sphear of Glass.</L>
+<L>The wandring Planets, their wild Mazes tript,</L>
+<L>The fixed Stars their regular Motions kept.</L>
+<L>The spangling <HI>Orbs</HI> mov'd plain to every sense,</L>
+<L>In each you saw the very Intelligence,</L>
+<L>Through the bright Art, did natural glory shine.</L>
+<L>And all was Humane still, and all Divine.</L>
+<L>The Jealous Gods, to see their rivall'd Will,</L>
+<L>Mock't, or out-done by frail and Human skill:</L>
+<L>Mongst all his Schemes, for fear he should create,</L>
+<L>By Death resolv'd the doubtful Problem of his Fate.</L>
+</LG>
+<LG>
+<PB N="24" REF="17"/>
+<L>Fam'd Bards do tell at <HI>Numbers</HI> powerful call,</L>
+<L>Th' enliven'd Stones, danc'd to the <HI>Theban</HI> Wall.</L>
+<L>That Statues, Stones, of living Beasts could make,</L>
+<L>And tamely Savage Nature to forsake:</L>
+<L>Of the sweet <HI>Lyre,</HI> that with its charming String,</L>
+<L>From Merciless Waves, could milder Monsters bring.</L>
+<L>So do thy Mighty Lines, and powerful Art,</L>
+<L>Such Life, such Soul; to senseless things impart.</L>
+<L>Thy Gentle Verse leaves nought in Nature wild,</L>
+<L>Even Man the Mightier fiercer Beast is mild.</L>
+</LG>
+<LG>
+<L>Doubly secur'd, of never dying Fame,</L>
+<L>Eternal in thy Soul, and in thy Name.</L>
+<L>Besides that Lectur'd Life of Grave Divines,</L>
+<L>Thy Immortality lyes in thy Lines:</L>
+<L>But O! for some Immortal Hand that can,</L>
+<L>Make thee live too, even in thy outward Man.</L>
+<L>Thy Pen, which only could, has drawn thy Mind;</L>
+<L>But where for this, shall we a Pencil find?</L>
+<L>Fam'd <HI>Vandike</HI>'s Dead, and <HI>Lely</HI> is no more,</L>
+<L>And Fate for this, has left but one in store.</L>
+<L>The Matchless <HI>Ryley</HI> is for this design'd,</L>
+<L>For this kind Fates, ye <HI>Ryley</HI> left behind.</L>
+<L>See the bold piece, with its own Object strive,</L>
+<L>It strives for Verse, and would be more alive.</L>
+<L><PB N="25" REF="17"/>See all the Muses drawn within his Face,</L>
+<L>Or Features that wou'd all the Muses Grace.</L>
+<L>It grieves me that there any thing should be,</L>
+<L>Beside thy self to give such Life to Thee.</L>
+<L>Then only give to him that makes thee live,</L>
+<L>What my poor Mortal Pen can never give.</L>
+<L>Give him the Life, that triumph o're the Grave,</L>
+<L>The Life that <HI>Cowley</HI> to his <HI>Vandike</HI> gave.</L>
+<L>Weak Artless Hands, can Postures, Dresses draw;</L>
+<L>From their loose Stroaks, those looser Figures flow,</L>
+<L>Give me that Masters Hand, that Art Divine,</L>
+<L>That shows my Face, and shows it to be mine.</L>
+<L>All that proud <HI>Athens</HI> boasts, or stately <HI>Rome,</HI></L>
+<L>Does from their Poets, or their Painters come.</L>
+<L>Here both conspire to make one Master-piece,</L>
+<L>The Pride and Shame of <HI>Italy</HI> and <HI>Greece.</HI></L>
+<L>Hail, sacred Pair, with equal Glory shine,</L>
+<L>Both like your first Originals Divine.</L>
+<L>The first fam'd Bard deliver'd us the Law,</L>
+<L>And <HI>Luke</HI> that Gospel Penn'd, as well could draw.</L>
+</LG>
+<LG>
+<L>Indulge one Labour more, to crown thy Bays,</L>
+<L>Pardon the weak attempt of <HI>David's</HI> praise:</L>
+<L>The Muse won't deviate much in erring Verse,</L>
+<L>If she with thine, Thy <HI>David</HI>'s Praise rehearse.</L>
+<L><PB N="26" REF="18"/>She take for hers, thee and thy Noblest Theam,</L>
+<L>And crown thy <HI>Laurel</HI> with his Diadem.</L>
+<L>True Sovereign Wit, Reigns in our Monarchs mind,</L>
+<L>And as of Old, the King and Prophets joyn'd.</L>
+<L>The bright Caelestial Pair, shee'll proudly sing,</L>
+<L>The sweetest Poet, and the mildest King.</L>
+<L>Nor should presumptious Lines, prophanely dare,</L>
+<L>So high a worth, such humble Verse declare.</L>
+<L>Nor should my Numbers cease of you to tell,</L>
+<L>Though 'twere for one, you praise; and love so well:</L>
+<L>But that to Name him here with you, is praise,</L>
+<L>And with you nam'd, he yours will higher raise,</L>
+<L>Your Numbers that extoll'd so well his Name,</L>
+<L>They reacht almost, what none will e're, his Fame:</L>
+<L>And sure thy Muse had reacht in Matchless flight,</L>
+<L>Even his, and Heav'ns unapproached height.</L>
+<L>Had reacht his praise, above all Mortal Wit,</L>
+<L>Had the vast distance not been infinite.</L>
+<L>'Twas want of Words, and not thy fancy fail'd,</L>
+<L>Weak Language sunk, as rising thought prevailed.</L>
+<L>In Vain our Humble Dust does aim so high,</L>
+<L>In Vain the Wren would at her Eagle fly:</L>
+<L>Yet I inspir'd by you, poor little 1,</L>
+<L>Beg but the Fate of <HI>Aesop's</HI> Foolish Fly.</L>
+<L>While on your Wheel, she proudly rides, she must</L>
+<L>Raise sure a little, tho not all the Dust.</L>
+<L><PB N="27" REF="18"/>Tho your bright Chariot all the Prize has won,</L>
+<L>Has won that race, that none but you can run.</L>
+<L>Yet when the <HI>Trojan</HI> Prince set out, we find</L>
+<L>The little Boy run panting still behind.</L>
+<L>Just so your painful Fool, would follow too,</L>
+<L>And somewhat like his Mighty Father do.</L>
+</LG>
+<LG>
+<L>O! that my thoughts could rise, but with my Heart,</L>
+<L>And to these Lines its glowing heat impart.</L>
+<L>To sing his praises in a purer flame.</L>
+<L>Then what e're yet from love or fancy came.</L>
+<L>Thou Stem of <HI>Iess,</HI> Thou Royal Martyrs Heir,</L>
+<L>By Miracles made Heavens chiefest Care.</L>
+<L>Thy Birth, not Right alone, was prov'd Divine.</L>
+<L>The Gods reveal'd their Will, with wonted sign;</L>
+<L>Th' Almighty spake from Heav'n, <HI>(Be thou mine.</HI>)</L>
+<L>From <HI>East,</HI> to <HI>West,</HI> thy glorious Birth was fam'd,</L>
+<L>Thy Saviour, and thy self one Star proclaim'd.</L>
+<L>Our stubborn <HI>Albion,</HI> had her stiff-neck <HI>Iew,</HI></L>
+<L>Who made thee share even in his sufferings too.</L>
+<L>O're Hell thou triumph'st, with thy conquering God,</L>
+<L>Down in the Dust the Serpents Head hast trod.</L>
+<L>The curst, the false <HI>Achitophel,</HI> is dead,</L>
+<L>The <HI>Viper</HI> nere will raise its bruised Head.</L>
+<L>The cunningst Beast of all the spacious Field,</L>
+<L>Whose tempting Tongue, more then his Sires beguil'd.</L>
+<L><PB N="28" REF="19"/>Not only taught the People, Gods to be,</L>
+<L>To taste the Golden Fruit of Majesty;</L>
+<L>But quite cut down the sacred and forbidden Tree.</L>
+</LG>
+<LG>
+<L>Thy Virgin Isle to her own Rocks was bound,</L>
+<L>Quite naked, helpless, dangers all around.</L>
+<L>Her Fate, the Victim waited every Hour,</L>
+<L>The Rebel Monster, ready to devour.</L>
+<L>From you and Heav'n, came the winged aid,</L>
+<L>The Monster vanquisht, and unbound the Maid.</L>
+<L>Be you that Emblem that adorns your Breast,</L>
+<L>The <HI>Genius</HI> of your Isle is there exprest;</L>
+<L>But you your self, still represent it best.</L>
+<L>What will thy stubborn, stiff-neckt <HI>Israel</HI> have?</L>
+<L>More than a King can give, or Subject crave?</L>
+<L>What more can God, or her own <HI>David</HI> do?</L>
+<L>Their <HI>Canaan</HI> flows with Milk and Honey too.</L>
+<L>With Mercies curst! Blest Judgments Gods bestow,</L>
+<L>From Bliss we date that <HI>Ilium</HI> of our woe.</L>
+<L>The pamper'd <HI>Iesuruns</HI> only fare too well,</L>
+<L>Flesht with Sedition, fatten'd to Rebel.</L>
+<L>They loath their <HI>Manna,</HI> and for <HI>Quails</HI> must call,</L>
+<L>Tho the same Judgment once oretook them all.</L>
+<L>On our's a Plague, as great Devourer pray'd,</L>
+<L>And while the Meat, yet in their Mouths, they dy'd.</L>
+<L><PB N="29" REF="19"/>A Famine's sure the Rabble's safer food,</L>
+<L>The <HI>Cannibals</HI> with Flesh, still thirst for Blood:</L>
+<L>Tho on blest <HI>Canaan's</HI> Soil, securely plac't,</L>
+<L>They all the Rich, and promis'd Land possest:</L>
+<L>Corn, Wine, and Oyl, it's plentiful increase,</L>
+<L>And all dissolv'd in Luxury, and ease.</L>
+<L>Still the Curst Tribes their hungry <HI>Egypt</HI> seek,</L>
+<L>Their fulsome Flesh-pots and unsav'ry Leek.</L>
+<L>Is then so lovely <HI>Aegypts</HI> direful Fate?</L>
+<L>That all her Judgments too must Plague our State.</L>
+<L>And shall this Land more Monstrous Serpents breed?</L>
+<L>Must <HI>Albion</HI> too, in Purpl'd Rivers bleed?</L>
+<L>Must all the Muddy-race, the <HI>Toadpool</HI> Train,</L>
+<L>Croak in our Royal Pallaces again?</L>
+<L>Those first Originals of our copyed Prayers,</L>
+<L>For modelling Kings the first Petitioners:</L>
+<L>Kings soft, and mild, unknowing to obey,</L>
+<L>The <HI>Tyrant</HI> Stork would here but justly pray.</L>
+<L>Thy Judgments, Mighty <HI>Iove,</HI> most just forbear,</L>
+<L>Avert but what they more deserve, than fear,</L>
+<L>Thy gentle Reign had Banisht hate and fear.</L>
+<L>On Love they surfeited, free as their Common Air.</L>
+<L>Yet needs would fear, because resolv'd to hate,</L>
+<L>They'd fear those Ills that they themselves create;</L>
+<L>Tyrant, and Slave, those Bugbears of the State.</L>
+<L><PB N="30" REF="20"/>They say their Prince too, must our Laws obey,</L>
+<L>What Fool can fear then Arbitrary sway?</L>
+<L>If that they fear'd he 'gainst those Laws would go,</L>
+<L>Then sure might thank him, for <HI>Declaring</HI> no;</L>
+<L>But nought alass, can such vain Fears remove;</L>
+<L>Where stubborn hate, disdains all pliant Love:</L>
+<L>They thought <HI>Ierusalem</HI>'s Charter tottering stood,</L>
+<L>'Till like the Great one too, 'twas seal'd in Blood.</L>
+<L>For this Hells Agents compast Earth, and Sky,</L>
+<L>Deep in their Plots, in their Ambition high.</L>
+<L>But Heaven their chiefest Factor sent to Hell,</L>
+<L>Yet Treason sunk not with <HI>Achitophel.</HI></L>
+<L>As when oppressing Fate approaches nigher,</L>
+<L>Our Fears, our chiefest Courage will require.</L>
+<L>In such a State the only Safety's left,</L>
+<L>To think our selves of hoping it bereft:</L>
+<L>So bold Rebellion was the expedient found,</L>
+<L>And Murders must maintain forc'd Treasons ground:</L>
+<L>Too deep engag'd, they safely can't retire,</L>
+<L>And sinking hopes, thro' much despair rise higher.</L>
+<L>The Dire Artificers now 'gainst Fate decreed,</L>
+<L>Heaven now no more will let her Monarchs bleed:</L>
+<L>But quench in their own Blood, those flames they've fed,</L>
+<L>With Holy Oyl of an anointed Head.</L>
+<L>No more false Gloss, can now black Treason paint,</L>
+<L>That Devils Paw does still betray the Saint,</L>
+<L><PB N="31" REF="20"/>No more shall specious Words your Guilt conceal,</L>
+<L>Associate now's in <HI>English</HI> to Rebel.</L>
+<L>That Liberty, that harp't on your harsh Strings,</L>
+<L>But clamorous License for to Murder Kings.</L>
+<L>The Royal Heir must be from's Vineyard thrown,</L>
+<L>Only to make th' Inheritance your own,</L>
+<L>And Foreign <HI>Iebusites,</HI> to Death you doom.</L>
+<L>For <HI>David</HI>'s Murder, that you plot at home:</L>
+<L>No more the murmuring Tribes shall keep it low,</L>
+<L>But willing Shekels to his Treasure throw.</L>
+<L>No more ungiving <HI>Sanhedrims</HI> repay,</L>
+<L>The thankless power on them he threw away.</L>
+<L>Make their Prince give, till he could give no more,</L>
+<L>Then cursedly upbraid his being poor.</L>
+<L>To such he ne're could grant enough and Live,</L>
+<L>His Life, his Soul, must be the Donative:</L>
+<L>See <HI>Iudah</HI>'s Loyal Band comes up from far,</L>
+<L>Led on by <HI>David</HI>'s most auspicious Star.</L>
+<L>That Bright, and Glorious Senate will appear;</L>
+<L>That Sun dispel those Clouds of hate and fear.</L>
+<L>With Loyal suffrage, strike the Faction dead,</L>
+<L>And make the Crown sit soft on <HI>David</HI>'s Head.</L>
+<L>With Law Associate, Loyalty combine,</L>
+<L>Not to exclude, but to defend the Line:</L>
+<L>They like <HI>Ierusalem</HI>'s Council shall repeal,</L>
+<L>The Votes of an aspiring Common-weal.</L>
+<L><PB N="32" REF="21"/>Th' Almigty Nods, The willing Angels come,</L>
+<L>Distraction, Discord; fly their wonted home:</L>
+<L>The Heavenly Host again their Requiem sing,</L>
+<L>Peace to the Farth, peace to our Land they bring.</L>
+<L>Black Treason's crusht, and Plots shall be no more,</L>
+<L>Fair <HI>Albion</HI> shines, much whiter than before.</L>
+</LG>
+<LG>
+<L>In Vain their Treason's thought to fly the light,</L>
+<L>In vain thy Foes to save themselves by flight:</L>
+<L>Heaven both detects, and punishes thy Foes,</L>
+<L>And dare not trust thy mercy even to those.</L>
+<L>But justest Vengeance <HI>Sheba</HI> still pursu'd,</L>
+<L><HI>Sheba</HI> the Man of <HI>Belial,</HI> and of blood.</L>
+<L>A dangerous Viper, of th' old Serpents breed,</L>
+<L>In all but in his cunning did exceed:</L>
+<L>As well the perjur'd <HI>Sheba</HI> could Rebel,</L>
+<L>Tho not so wisely as <HI>Achitophel:</HI></L>
+<L>More bold in Treason, tho in Plots less wise,</L>
+<L>He dar'd to do, what th' other did advise:</L>
+<L>Th' old Tempter first the staggering Youth beguil'd,</L>
+<L>But this the Devil that him truly spoil'd:</L>
+<L>This through the Land the Treason Trumpet blew,</L>
+<L>To Fops, and Fools, the weaker Pageant shew:</L>
+<L>With Faction more then Lust, or Sword command,</L>
+<L>With that he Poxt, and Bully'd all the Land:</L>
+<L><PB N="33" REF="21"/>With her Inventions, wanton <HI>Israel</HI> whor'd,</L>
+<L>But Loyal <HI>Iudah</HI> Lov'd her Lawful Lord:</L>
+<L>That <HI>Bichri</HI>'s Son, more Harm to <HI>David</HI> wrought,</L>
+<L>More harm then e'er by <HI>Absolon</HI> was sought.</L>
+<L>In Vain for Succour to strong <HI>Abel</HI> fled,</L>
+<L>No Walls alass! can guard a Traytors head:</L>
+<L>Demanded once they soon their Elders call,</L>
+<L>As soon consent to throw it o're the Wall:</L>
+<L>Big with their acted guilt, and guilt to come,</L>
+<L>To Plot abroad the Rebels fly their home;</L>
+<L>But still in vain they do thy Fall conspire,</L>
+<L>In Vain the Rebels to strange Lands retire:</L>
+<L>Since willing Nations their Assistance lend,</L>
+<L>From <HI>East</HI> to <HI>West</HI> thy flying Traytors send:</L>
+<L>Since <HI>Belgia</HI> thine, not <HI>France</HI>'s pow'r dreads,</L>
+<L>And wisely pays thee Tribute with their Heads.</L>
+<L>Well may she Fear the Judg of War and Peace,</L>
+<L>Lord of the Land, and Master of the Seas.</L>
+</LG>
+<LG>
+<L>Thou Faiths Defender, and our Muses shield,</L>
+<L>Verse lost her Standard, when you lost the Field.</L>
+<L>She still maintain'd her ground, while you, your Cause,</L>
+<L>But sunk with you, Religion and the Laws.</L>
+<L>It suffer'd with that Age, and by its Crimes,</L>
+<L>Confus'd, and mangl'd lay in barbarous Rhymes:</L>
+<L>By Botching, Butchering <HI>Shd—lls</HI> of the Times.</L>
+<L><PB N="34" REF="22"/>The Regicides of Sovereign Verse rul'd all,</L>
+<L>Old <HI>Fleckno</HI> Reign'd the Laureat at <HI>White-Hall:</HI></L>
+<L>We exil'd wit and Prince together mourn'd</L>
+<L>Till Banisht both, more gloriously return'd.</L>
+<L>With Strange Surprise, to all the wondring Age,</L>
+<L>Well temper'd Art, teem'd from disorder'd Rage:</L>
+<L>And Reign'd the Mighty Monarch of the Stage.</L>
+<L>With their Old Fury long mad Poets writ,</L>
+<L>Till solid <HI>Dryden,</HI> Judgment joyn'd to wit.</L>
+</LG>
+<LG>
+<L>Forgive, Great Bard, if the least foggy praise,</L>
+<L>Cloud a clear Fame, that shines with brightest Rays.</L>
+<L>Th' Officious Rindness of an Artless Friend,</L>
+<L>Sometimes will Libel, what it would commend.</L>
+<L>I can't debase your Fame, or truly raise,</L>
+<L>Too wise to flatter, and too weak to praise.</L>
+<L>Pardon but once Presumptious Folly past,</L>
+<L>And what's my first Offence shall be the last.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="22"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

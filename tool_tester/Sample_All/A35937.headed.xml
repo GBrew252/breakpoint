@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="2">A salutation of love to the seed of God every where</TITLE><AUTHOR>Dickinson, James, 1658-1741.</AUTHOR></TITLESTMT><EXTENT>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2007-10 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A35937</IDNO>
+
+
+<IDNO TYPE="stc">Wing D1388</IDNO>
+
+<IDNO TYPE="stc">ESTC R28592</IDNO>
+
+<IDNO TYPE="eebo citation">10685053</IDNO>
+
+<IDNO TYPE="oclc">ocm 10685053</IDNO>
+
+<IDNO TYPE="vid">45494</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A35937)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 45494)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 1401:17)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="2">A salutation of love to the seed of God every where</TITLE><AUTHOR>Dickinson, James, 1658-1741.</AUTHOR></TITLESTMT><EXTENT>4 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed and sold by T. Sowle,</PUBLISHER>
+<DATE>1696.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Caption title.</NOTE><NOTE>Signed: James Dickinson.</NOTE><NOTE>Imprint from colophon.</NOTE><NOTE>Reproduction of original in the Harvard University Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Society of Friends --  England --  Pastoral letters and charges.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2006-09</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2006-10</DATE><RESPSTMT><RESP>Apex CoVantage</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2006-11</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2006-11</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2007-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A35937">
+<STC T="W">D1388</STC>
+<BIBNO T="oclc">10685053</BIBNO>
+<VID>45494</VID>
+</IDG>
+<TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="letter">
+<PB REF="1"/>
+<PB N="1" REF="1" MS="y"/>
+<HEAD>A SALUTATION OF LOVE TO THE SEED of GOD Every where.</HEAD>
+<P>DEar Friends, You who are born of the Incorruptible Word of Life, and have been quickened by the Im∣mortal Power of Christ, and received Gifts to Serve him, and one another, and all the Creation of God: All keep low in the pure Fear of the Lord, waiting to feel the Mo∣tion of his Divine Spirit, to guide you in your several Gifts and Services, that thereby as living Members of the Compleat Bo∣dy, you may be all preserved in your places, where the Body will Edifie it self in Love, and all will be Comforted in the Lord <HI>Jesus Christ</HI> your Heavenly <HI>Head,</HI> and dwell under his Peaceable <HI>Government,</HI> where his pure <HI>Love</HI> and <HI>Life</HI> will a∣bound amongst you, and in it your Hearts will be kept open to God, and one to another; and in his Divine Light you will all come to see your services and places in the <HI>Churches</HI> of <HI>Christ,</HI> and every one will be concerned to keep in the Heavenly Dis∣cipline and Order of the Gospel, to keep their▪ Ranks in Righte∣ousness
+<PB N="2" REF="2"/>
+where his holy Banner of Love will be over you, and it will be your Delight to keep under it, where the Rayes of his Glory hath many times Covered you, and you have seen his Beauty, and have often been Ravished there with, and pre∣vailed upon thereby to serve the Lord and one another; that nothing hath been too near and dear to part with, to answer his pure Requirings; because of the sweet Recompence of Re∣ward, you have received from his Bountiful Hand, and the Glory that hath been set before you, which hath wrought a willingness in you to take up the Cross, and despise the Shame; following your blessed Lord and Heavenly Example, through the many Tribulations, and have washed your Garments in the <HI>Blood</HI> of the <HI>Lamb,</HI> that they have been made white and clean. I say unto you all, Keep Low and Humble in the pure Fear, with your Eyes single to the Honour of the Giver, where you will feel his Power with you, and to assist you every Day in your Services; and then the Life will Speak through you, and here you will be Instrumental in the <HI>Lord</HI>'s Hand for the Building up one another in the most holy Faith, which worketh in the Heart by <HI>Love,</HI> where the Unity of the Spirit will be kept, and the Bond of Peace will be Witnessed, which will keep you all near the Lord, and near one ano∣ther, where all will be tender of Gods Glory, and tender one over another, Travelling and Breathing to the Lord one for another's Growth and Preservation in your Several Gifts and Services, that as fixed Stars in the Firmament of Gods Power, you may be all shewing forth the Power of him which maketh the Stars to differ as pleaseth him, and giveth <HI>Light</HI> unto them, some more and some less, Yet all shew forth his great Power and Divine Wisdom: As they keep their places, and are Governed by his Heavenly Power, and kept by him from the reach of the Dragons Tail, which draws down all to the Earth, whose care is not to keep to the Power of the Immortal Word by which they have been Quickened and Di∣vinely opened, and have had Gifts given unto them: Those that do not keep low in the pure Fear and Humility, and are
+<PB N="3" REF="2"/>
+thereby kept tender of Gods Glory, and also tender over the Blessed Unity of the Church of Christ; those the Dragon hath prevailed and will prevail over, and draw down to the Earth again, and their Habitation will be there where the Wo will be their Portion: Therefore let all be careful and keep upon their Watch, that they may see the many Snares of the Old Crooked <HI>Serpent,</HI> and escape them, by keeping to the Power of Christ, which will keep all Humble and Low, in the true dread before the Lord; what-ever their Gifts or Services be, let none look at the Gift more then the Giver: But let all be careful to Honour the Giver in their Gift, so will the Lord take Delight in you, and make you worthy of double Honour, as he hath done many Wor∣thies whom he hath upheld Faithful unto him in their Gifts, discharging their duty to him and to the whole Crea∣tion, whose Memory lives, and shall live for ever; for their names are written in Heaven, and is very sweet and pleasant to all who are kept Faithful to the Lord, and who are Ingaged in the same warfare they were concern∣ed in: For <HI>Dear Friends,</HI> Great is the Lords Work which he hath begun, and he will carry it on by his own Arm of Power, which is Manifested to many, and those that he makes use of, must be subject to his Meek Lowly Spirit, and wait to be thus guided by it, in all their Services, where self is had in no reputation; but that is daily deny∣ed in all its appearances whatsoever, and had great need to be Careful to watch in the Light, that none be be∣trayed from the Simplicity of the Gospel, and so be puf∣fed up above the pure Fear of God, and let up a wrong Mind, to look out at their Gifts, or Attainments, or Ser∣vices they have passed through, and thereby beget a slight esteem of their fellow Servants, and to set up themselves, and not to have a true regard to the Honour of God, nor the Peace and Prosperity of his Church and People: Where such a Mind is given way to, it hurts the Parti∣cular, and brings Trouble and Exercise on the General.
+<PB N="4" REF="3"/>
+But Oh my Friends, God hath Called you to Peace, and to Walk together in his Peaceable Spirit, in which ye have all Life, and Peace, and Salvation, by which ye are Supported and born up in your several Services, and all shew forth the great Power of him that hath called you to serve him and one another. And in all your Mens and Womens <HI>Monthly</HI> and <HI>Quarterly Meetings,</HI> let a Care be upon all, that this Peaceable Spirit be kept in, and your Spirits be kept in Subjection under it; so will you be all kept in the Love which Edifies and Builds up in the holy Faith, and settles and confirms in that holy Gospel Dis∣cipline, the Lord hath brought you into, in which he hath owned you, and stood by you, through many Exercises, and will never leave you, nor forsake you; except you forsake him, and trust in your own Strength. My Soul is under a deep Travail that you may be kept, by his great Power, faithful unto him, and in sweet Fellowship one with another, where your Joy may be full in the Lord, and his Communion pleasant in his holy Covenant of <HI>Light,</HI> in which my Soul Dearly Salutes you all, and Re∣maines your Friend and Brother.</P>
+<CLOSER><SIGNED>James Dickinson.</SIGNED>
+<DATELINE>From on Board the <HI>Ship,</HI> the <HI>Providence</HI> in the <HI>Downs.</HI> <DATE>the 18. 12<HI>th Month▪</HI> 1695.</DATE></DATELINE></CLOSER>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="colophon">
+<P><HI>LONDON</HI> Printed and Sold by <HI>T. Sowle.</HI> near the <HI>Meet∣ing-House</HI> in <HI>White-Hart-Court</HI> in <HI>Gracious-Street.</HI> 1696.</P>
+<PB REF="3"/>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>
+

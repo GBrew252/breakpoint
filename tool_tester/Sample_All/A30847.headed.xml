@@ -1,0 +1,4603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The unhappy favourite, or, The Earl of Essex a tragedy : acted at the Theatre Royal by Their Majesty's servants / written by John Bankes.</TITLE><AUTHOR>Banks, John, d. 1706.</AUTHOR></TITLESTMT><EXTENT>Approx. 173 KB of XML-encoded text transcribed from 43 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2003-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A30847</IDNO>
+
+
+<IDNO TYPE="stc">Wing B663</IDNO>
+
+<IDNO TYPE="stc">ESTC R10948</IDNO>
+
+<IDNO TYPE="eebo citation">11908573</IDNO>
+
+<IDNO TYPE="oclc">ocm 11908573</IDNO>
+
+<IDNO TYPE="vid">50769</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A30847)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 50769)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 51:18)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The unhappy favourite, or, The Earl of Essex a tragedy : acted at the Theatre Royal by Their Majesty's servants / written by John Bankes.</TITLE><AUTHOR>Banks, John, d. 1706.</AUTHOR><AUTHOR>Dryden, John, 1631-1700.</AUTHOR></TITLESTMT><EXTENT>[8], 73, [3] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for Richard Bentley and Mary Magnes ...,</PUBLISHER>
+<DATE>1682.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Prologues by Major Mohun, John Dryden and the author. Epilogue also by Dryden.</NOTE><NOTE>Later editions appeared under title: The Earl of Essex, or, The unhappy favourite.</NOTE><NOTE>Advertisement: p. [3] at end.</NOTE><NOTE>Reproduction of original in British Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Essex, Robert Devereux, --  Earl of, 1566-1601 --  Drama.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2002-08</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2002-10</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2002-11</DATE><RESPSTMT><RESP>Rina Kor</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2002-11</DATE><RESPSTMT><RESP>Rina Kor</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2002-12</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A30847">
+<STC T="W">B663</STC>
+<BIBNO T="oclc">11908573</BIBNO>
+<VID>50769</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>THE
+Unhappy Favourite
+OR THE
+Earl of ESSEX.
+A
+TRAGEDY.</P>
+<P>Acted at the
+Theatre Royal
+By their Majesty's Servants.</P>
+<P>Written by <HI>Iohn Bankes.</HI></P>
+<Q><L>—qui nimios optabat Honores,</L>
+<L>Et nimias poscebat Opes, numerosa parabat</L>
+<L>Excelsae turris tabulata, unde altior esset</L>
+<L>Casus &amp; impulsae praeceps immane Ruine.</L>
+<BIBL>Juven. Sat. 10.</BIBL></Q>
+<P><HI>LONDON,</HI>
+Printed for <HI>Richard Bentley</HI> and <HI>Mary Magnes</HI> in <HI>Russel-street</HI>
+near the <HI>Piazza</HI> in <HI>Covent-Garden,</HI> 1682.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>To the Most High, and Most Illustrious
+PRINCESS
+The LADY
+ANN,
+Daughter to His
+Royal Highness.</HEAD>
+<OPENER><SALUTE>MADAM,</SALUTE></OPENER>
+<P>I Humbly lay before your Highness Feet
+an Unhappy Favourite, but 'tis in Your
+Power to make him no longer so; Not his
+Queens Repentance, nor her Tears cou'd
+Rescue him from the Malice of his Enemies,
+nor from the violence of a most unfortunate
+Death; but your Highness with this unspeak∣able
+Favour, and so Divine a Condescention in
+Protecting this once pitty'd Hero, will make him
+live Eternally; and those who cou'd scarce be∣hold
+him on the Stage without weeping, when
+they shall see him thus exalted, will all turn en∣vious
+<PB REF="3"/>
+of his Fortune, which they can never think
+deplorable while he is grac'd by your Highness.
+For my own part, I tremble to express my
+Thanks in so mean Language, but much more
+when I wou'd pay my Tribute of just Praises to
+your Highness; 'tis not to be attempted by any
+Pen, Heaven has done it to a Miracle in Your
+own Person, where are Written so many admi∣rable
+Characters, such Illustrious Beauties on a
+Body so Divinely fram'd, that there is none so
+dull and ignorant, that cannot read 'em plainly;
+And when You vouchsafe to cast your Eyes on
+those beneath You, they speak their own Excel∣lencies
+with greater Art and Eloquence, and
+attract more Admiration than ever <HI>Virgil</HI> did in
+his Divinest Flight of Fancy, then <HI>Ovid</HI> in speak∣ing
+of his Princess, or <HI>Appelles</HI> in drawing of his
+<HI>Venus;</HI> Nor are Your Virtues, or Your Royal
+Blood less admirable, sprung from the Inestima∣ble
+Fountain of so many Illustrious Plantagenets,
+that I stand amaz'd at the Mightyness of the Sub∣ject
+which I have chosen; besides the awful Ge∣nius
+of your Highness bids me beware how I
+come too near, lest I Prophane so many Incom∣parable
+Perfections in so Sacred a Shrine as your
+Highness Person, where You ought to be ador'd,
+<PB REF="3"/>
+and not seen: For, like the Antient Jews in their
+Religious Worship, 'tis a Favour for me to re∣main
+on the outward steps, and not approach
+nigh the Vail where the Crowd never come: This,
+Most Illustrious Princess, ought to check my
+Hand, least in attempting your Highness Cha∣racter,
+my Apprehension of the Excellence of
+the Subject, and the Danger of miscarrying, should
+make my Fancy sink beneath so Glorious a Bur∣then;
+Therefore I will forbear troubling your
+Highness any further with the Rashness of my
+Zeal; nor dare I be dictated any longer by it,
+but will Conclude, in hopes that, when hereafter
+I may chance to Record the Memory of a Prin∣cess,
+whose Beauty, Fortune and Merits are grea∣ter
+than <HI>Homer</HI> ever feign'd, or <HI>Tasso</HI> Copy'd, I
+may have leave to draw her Pattern from your
+Highness, and when that is done, the rest of my
+Life shall be employ'd in Prayers for your Eter∣nal
+Happiness, which be pleas'd to Interpret as
+the Duty of,</P>
+<CLOSER><SALUTE>MADAM,</SALUTE>
+<SIGNED>Your Highness's Most Obedient,
+Most humble, and
+Most Devoted Servant,
+<HI>Iohn Banks.</HI></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="4"/>
+<LIST>
+<HEAD>PERSONS REPRESENTED.</HEAD>
+<ITEM><HI>The Earl of</HI> Essex. <HI>Mr.</HI> Clarke.</ITEM>
+<ITEM><HI>Earl of</HI> Southampton. <HI>Mr.</HI> Gryffin.</ITEM>
+<ITEM>Burleigh. <HI>Major</HI> Mohun.</ITEM>
+<ITEM><HI>Sir</HI> Walter Rawleigh. <HI>Mr.</HI> Disney.</ITEM>
+<ITEM>Lieutenant of the <HI>Tower.</HI></ITEM>
+<ITEM><HI>Queen</HI> Elizabeth. <HI>Mrs.</HI> Quyn.</ITEM>
+<ITEM>Countess of <HI>Rutland</HI> Secretly
+Married to the Earl of <HI>Essex.</HI> Mrs. <HI>Cook.</HI></ITEM>
+<ITEM><HI>Countess of</HI> Nottingham. <HI>Mrs.</HI> Corbett.</ITEM>
+<ITEM>Women.</ITEM>
+<ITEM>Gentlemen, Guards and Attendants.</ITEM>
+</LIST>
+<STAGE>SCENE
+WHITE-HALL
+AND THE
+TOWER.</STAGE>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="4"/>
+<HEAD>PROLOGUE,
+Spoken by Major Mohun, the First Four Dayes.</HEAD>
+<L>THE Merchant, joyful with the Hopes of Gain,</L>
+<L>Ventures his Life and Fortunes on the Main;</L>
+<L>But the poor Poet oft'ner does Expose</L>
+<L>More than his Life, his Credit, for Applause.</L>
+<L>The Play's his Vessel, and his Venture, Wit:</L>
+<L>Hopes are his <HI>Indies,</HI> Rocks and Seas, the <HI>Pit.</HI></L>
+<L>Yet our good-natur'd Author bids me Swear</L>
+<L>He'll Court you still, the more his Fate draws near;</L>
+<L>And cannot chuse but blame their Feeble Rage</L>
+<L>That Crow at you, upon their Dunghill Stage;</L>
+<L>A certain sign they merit to be Curst,</L>
+<L>When, to excuse their faults, they cry Whore first.</L>
+<L>So oft in their dull Prologues, 'tis exprest,</L>
+<L>That Critick now's become no more a Ieast;</L>
+<L>Methinks self-intrest in 'em more should Rule;</L>
+<L>There's none so impudent to ask a Dole,</L>
+<L>And then to call his Benefactor Fool?</L>
+<L>They Merit to be Damn'd as well as Poor,</L>
+<L>For who that's in a Storm, and hears it roar,</L>
+<L>But then would Pray, that never pray'd before?</L>
+<L>Yet Seas are calm some times; and You, like those,</L>
+<L>Are necessary Friends, but Cursed Foes:</L>
+<L>But if amongst you all he has no Friend,</L>
+<L>He humbly begs that you would be so kind,</L>
+<L>Lay Malice by, and use him as you find.</L>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="5"/>
+<HEAD>PROLOGUE,
+Spoken to the King and Queen at their coming
+to the House, and Written on purpose
+By Mr. DRYDEN.</HEAD>
+<L>WHEN first the Ark was Landed on the Shore,</L>
+<L>And Heaven had vow'd to curse the Ground no more,</L>
+<L>When Tops of Hills the Longing Patriark saw,</L>
+<L>And the new Scene of Earth began to draw;</L>
+<L>The Dove was sent to View the Waves Decrease,</L>
+<L>And first brought back to Man the Pledge of Peace:</L>
+<L>'Tis needless to apply when those appear</L>
+<L>Who bring the Olive, and who Plant it here.</L>
+<L>We have before our eyes the Royal Dove,</L>
+<L>Still Innnocence is Harbinger to Love,</L>
+<L>The Ark is open'd to dismiss the Train,</L>
+<L>And People with a better Race the Plain.</L>
+<L>Tell me you Powers, why should vain Man pursue,</L>
+<L>With endless Toyl, each object that is new,</L>
+<L>And for the seeming substance leave the true—</L>
+<L>Why should be quit for hopes his certain good,</L>
+<L>And loath the Manna of his dayly food?</L>
+<L>Must <HI>England</HI> still the Scene of Changes be,</L>
+<L>Tost and Tempestuous like our Ambient Sea?</L>
+<L>Must still our Weather and our Wills agree?</L>
+<L>Without our Blood our Liberties we have,</L>
+<L>Who that is Free would Fight to be a Slave?</L>
+<L>Or what can Wars to after Times Assure,</L>
+<L>Of which our Present Age is not secure?</L>
+<L>All that our Monarch would for us Ordain,</L>
+<L>Is but t'Injoy the Blessings of his Reign.</L>
+<L>Our Land's an <HI>Eden,</HI> and the Main's our Fence,</L>
+<L>While we Preserve our State of Innocence;</L>
+<L>That lost, then Beasts their Brutal Force employ,</L>
+<L>And first their Lord, and then themselves destroy:</L>
+<L>What Civil Broils have cost we knew too well,</L>
+<L>Oh let it be enough that once we fell,</L>
+<L>And every Heart conspire with every Tongue,</L>
+<L>Still to have such a King, and this King Long.</L>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB N="1" REF="5"/>
+<HEAD>THE
+Unhappy Favourite.
+OR THE
+EARL of ESSEX.</HEAD>
+<DIV2 N="1" TYPE="act and scene">
+<HEAD>Actus Primus,Scaena Prima</HEAD>
+<STAGE>Countess of <HI>Nottingham, Burleigh</HI> at several Doors.
+The Countess Reading a Letter.</STAGE>
+<SP>
+<SPEAKER>Not.</SPEAKER>
+<L>HELP me to rail Prodigious minded <HI>Burleigh,</HI></L>
+<L>Prince of bold <HI>English</HI> Councils, teach me how</L>
+<L>This hateful Breast of mine may Dart forth words,</L>
+<L>Keen as thy Wit, Malitious as thy Person;</L>
+<L>Then I'le Caress thee, stroak thee into shape.</L>
+<L>This Rockey dismal Form of thine that holds</L>
+<L>The most Seraphick Mind, that ever was;</L>
+<L>I'le heal and Mould thee, with a soft Embrace;</L>
+<L>Thy Mountain Back shall yield beneath these Arms,</L>
+<L>And thy pale wither'd Cheeks that never glow,</L>
+<L>Shall then be deck'd with Roses of my own—</L>
+<L>Invent some new strange Curse that's far above</L>
+<L>Weak Womans Rage to Blast the Man I Love.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>What means the fairest of the Court, say what</L>
+<L>More cruel Darts are forming in those Eyes</L>
+<L>To make Adoring <HI>Cecil</HI> more unhappy?</L>
+<L>If such a Wretched, and declar'd hard Fate</L>
+<L>Attends the Man you Love, what then Bright Star</L>
+<L>H'as your Malignant Beauty yet in Store</L>
+<L>For him that is the Object of your Scorn?</L>
+<L><PB N="2" REF="6"/>
+Tell me that most unhappy, happy Man,</L>
+<L>Declare who is this most ungrateful Lover?</L>
+<L>And to obey my lovely <HI>Nottingham</HI></L>
+<L>I will prefer this dear Cabal, and her</L>
+<L>To all the other Councils in the world;</L>
+<L>Nay tho' the Queen, and her two Nations call'd,</L>
+<L>And sinking <HI>England</HI> stood this hour in need</L>
+<L>For this supporting Head, they all shou'd sue,</L>
+<L>Or Perish all for one kind look from you.</L>
+</SP>
+<SP>
+<SPEAKER>Not.</SPEAKER>
+<L>There spoke the <HI>Genius,</HI> and the Breath of <HI>England.</HI></L>
+<L>Thou <HI>Esculapius</HI> of the Christian World!</L>
+<L>Methinks the Queen, in all her Majesty,</L>
+<L>Hemm'd with a Pomp of Rusty Swords, and duller Brains,</L>
+<L>When thou art absent, is a Naked Monarch,</L>
+<L>And fills an idle Throne till <HI>Cecil</HI> comes</L>
+<L>To head her Councils, and inspire her Generalls—</L>
+<L>Thy uncooth self that seems a Scourge to Nature</L>
+<L>For so malitiously deforming thee,</L>
+<L>Is by the Heav'nly Pow'rs stamp'd with a Soul</L>
+<L>That like the Sun breaks through dark Mists, when none</L>
+<L>Beholds the Cloud, but Wonders at the Light.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>O spare that Angells Voice till the last Day,</L>
+<L>Such Heav'nly Praise is lost on such a Subject.</L>
+</SP>
+<SP>
+<SPEAKER>Not.</SPEAKER>
+<L>Let none presume to say while <HI>Burleigh</HI> Lives</L>
+<L>A Woman wears the Crown; Fourth <HI>Richard</HI> rather,</L>
+<L>Heir to the Third in Magnanimity,</L>
+<L>In Person, Courage, Wit, and Bravery all,</L>
+<L>But to his Vices none, nor to his End▪</L>
+<L>I hope.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>You Torture me with this Excess—</L>
+<L>Were but my Flesh Cast in a purer Mould,</L>
+<L>Then you might see me Blush, but my hot Blood</L>
+<L>Burn't with continual thought, does inward Glow;</L>
+<L>Thought like the Sun still goes its daily Round,</L>
+<L>And Scorches, as in <HI>India</HI> to the Root.—</L>
+<L>But to the Wretched Cause of your disturbance;</L>
+<L>Say, shall I guess? Is <HI>Essex</HI> not the Man?</L>
+</SP>
+<SP>
+<SPEAKER>Not.</SPEAKER>
+<L>O! Name not <HI>Essex,</HI> Hell, and Tortures rather,</L>
+<L>Poysons, and Vultures to the Breast of Man</L>
+<L><PB N="3" REF="6"/>
+Are not so Cruel as the Name of <HI>Essex</HI>—</L>
+<L>Speak good my Lord; nay, never speak nor think</L>
+<L>Again, unless you can asswage this worse</L>
+<L>Than Fury in my Breast.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Tell me the Cause;</L>
+<L>Then Cease your Rage, and Study to Revenge.</L>
+</SP>
+<SP>
+<SPEAKER>Not.</SPEAKER>
+<L>My Rage! It is the Wing by which I'le Fly</L>
+<L>To be Reveng'd—I'l nere be Patient more.</L>
+<L>Lift me my Rage, nay, Mount me to the Stars,</L>
+<L>Where I may Hunt this <HI>Peacock</HI> tho he lies</L>
+<L>Close in the Lap of <HI>Iuno—Elizabeth,</HI></L>
+<L>Tho' the Queen Circles him with Charms of Pow'r,</L>
+<L>And hides her Minion like another <HI>Circe.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Still well instructed Rage, but pray disclose</L>
+<L>The Reason of the Earls Misfortune.</L>
+</SP>
+<SP>
+<SPEAKER>Not.</SPEAKER>
+<L>You are,</L>
+<L>My Friend the Cabinet of all my Frailties;</L>
+<L>From you, as from Just Heav'n, I hope for Absolution;</L>
+<L>Yet pray, tho' Anger makes me Red, when I</L>
+<L>Discourse the Reason of my Rage, be kind,</L>
+<L>And say it is my Sexe's Modesty.</L>
+<L>Know then,</L>
+<L>This Base Imperious Man I Lov'd, Lov'd so,</L>
+<L>Till Lingering with the Pain of Fierce desire,</L>
+<L>And Shame that strove to Torture me alike,</L>
+<L>At last I past the Limits of our Sex,</L>
+<L>And (O Kind <HI>Cecil</HI> pitty and Forgive me)</L>
+<L>Sent this opprobrious Man my Mind a Slave;</L>
+<L>In a kind Letter Broke the silence of</L>
+<L>My Love, which rather shou'd have Broke my Heart.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>But pray, what Answer did you get from him?</L>
+</SP>
+<SP>
+<SPEAKER>Not.</SPEAKER>
+<L>Such as has made an Earth-Quake in my Soul,</L>
+<L>Shook ev'ry Vital in these tender Limbs,</L>
+<L>And rais'd me to the Storm you found me in.</L>
+<L>At first he Charm'd me with a Thousand Hopes,</L>
+<L>Else 'twas my Love thought all his Actions so—</L>
+<L>Just now from <HI>Ireland</HI> I receiv'd this Letter,</L>
+<L>Which take and Read but now I think, you shall not—</L>
+<L>I'll tear it in a thousand pieces first,</L>
+<L>Tear it as I wou'd <HI>Essex</HI> with my Will,</L>
+<L><PB N="4" REF="7"/>
+To Bits, to Morsells Hack the mangl'd Slave,</L>
+<L>Till every Attome of his Cursed Body</L>
+<STAGE>[Tears the Letter in a Rage.</STAGE>
+<L>Sever'd, and Flew like Dust before the Wind.</L>
+<L>Now do I Bless the Chance, all else may blame</L>
+<L>Me for; Revealing of my Foolish Passion—</L>
+<L>Did I e're think these celebrated Charmes</L>
+<L>Which I so often have been Blest, and Prais'd for</L>
+<L>Shou'd once be destin'd to so mean a Price</L>
+<L>As a Refusal!—Are there Friends above</L>
+<L>That Protect Innocence, and injur'd Love?</L>
+<L>Hear me, and Curse me, straight with Wrinkl'd Age,</L>
+<L>With Leoprosie, Derision, all your Plagues</L>
+<L>On Earth, and Hell hereafter, if I'm not Reveng'd.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Els say she is no Woman, or no Widow.—</L>
+<STAGE>[Aside.</STAGE>
+<L>The Sacred Guardians of your slighted Beauties,</L>
+<L>Have had more Pitty on their lovely Charge,</L>
+<L>Then to behold you swallow'd in his Ruin.</L>
+<L>The best, and worst that Fortune cou'd propose,</L>
+<L>To you in <HI>Essex</HI> Love, was to have brought,</L>
+<L>A helpless, short-liv'd Traytor to your Arms.</L>
+</SP>
+<SP>
+<SPEAKER>Not.</SPEAKER>
+<L>Ha! Traytor say you! Speak that Word again—</L>
+<L>Yet do not; 'tis enough if <HI>Burleigh</HI> says it:</L>
+<L>His Wit has Power to Damn the Man that thinks it,</L>
+<L>And t'extract Treason from infected Thought.</L>
+<L>The Nations safety like a Ship he Steers,</L>
+<L>When Tempests Blow, rais'd by designs of false,</L>
+<L>And Ignorant States-men; by his Wit alone</L>
+<L>They'r all Disperst, and by his Breath she Sayls,</L>
+<L>His Prosperous Councils all her gentle Gales.</L>
+</SP>
+<STAGE>Enter a Gentleman.</STAGE>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<L>My Lord, the Queen expects you straight.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Madam,</L>
+<L>Be Pleas'd to Attend her Majesty ith' <HI>Presence,</HI></L>
+<L>Where you shall hear such Misdemeanours offer'd,</L>
+<L>Such Articles against the Earl of <HI>Essex,</HI></L>
+<L>As will both glad the Nation, and your self.</L>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<L>My Lord, I see the haughty Earl of <HI>Southampton</HI></L>
+<L>Coming this way.</L>
+</SP>
+<SP>
+<PB N="5" REF="7"/>
+<SPEAKER>Burl.</SPEAKER>
+<L>Madam, retire.</L>
+</SP>
+<SP>
+<SPEAKER>Not.</SPEAKER>
+<L>I goe</L>
+<L>With greater expectation of delight</L>
+<L>Than a young Bride-groom on his Marriage Night.</L>
+<STAGE>[Exit Countess of Notting.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L><HI>Southampton!</HI> he's the chief of <HI>Essex</HI> Faction,</L>
+<L>His Friend, and Sworn Brother; and I fear</L>
+<L>Too much a Friend, and Partner of his Revells</L>
+<L>To be a Stranger to the others Guilt—</L>
+<L>'Tis not yet time to lop this haughty Bough,</L>
+<L>Till I have shaken first the Tree that bears it.</L>
+</SP>
+<STAGE><HI>Enter</HI> Southampton.</STAGE>
+<SP>
+<SPEAKER>Sonth.</SPEAKER>
+<L>My Lord, I hear unwelcome News; 'tis said</L>
+<L>Some Factious Members of the House, Headed</L>
+<L>By you, have voted an Address for leave</L>
+<L>T'impeach the Earl of <HI>Essex</HI> of strange Articles,</L>
+<L>Of Treason.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Treason, 'tis most true is laid</L>
+<L>To <HI>Essex</HI> Charge, but that I am the Cause</L>
+<L>They do me wrong, th' Occasion is too publick:</L>
+<L>For those dread Storms in <HI>Ireland</HI> rais'd by him,</L>
+<L>Have Blown so rudely on our <HI>English</HI> Coasts,</L>
+<L>That they have Ship-wrack'd quite the Nations Peace,</L>
+<L>And wak'd it's very Statues to abhorring.</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>Meer Argument, your nice, and fine distinctions</L>
+<L>To make a good Man Vitious, or a bad</L>
+<L>Man Virtuous, ev'n as please the Sophisters—</L>
+<L>My Lord, you are ingendring Snakes within you,</L>
+<L>I fear you have a subtle stinging Heart;</L>
+<L>And give me leave to tell you, that this Treason,</L>
+<L>If any, ha's been hatch'd in <HI>Burleigh's</HI> School.</L>
+<L>I see Ambition in the fair Pretence,</L>
+<L><HI>Burleigh</HI> in all it's Cunning, dark Disguises,</L>
+<L>And envious <HI>Cecil</HI> ev'ry where.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>My Lord, my Lord, your Zeal to this bad Earl</L>
+<L>Makes you offend the Queen, and all good men.</L>
+<L>Believe it Sir, his Crimes have bin so noted,</L>
+<L>So plain, and open to the State, and her,</L>
+<L><PB N="6" REF="8"/>
+That he can now no more deceive the Eyes</L>
+<L>Of a most Gratious Mistress, or her Council;</L>
+<L>Nor can she any longer, if she wou'd,</L>
+<L>In pitty of his other parts let Justice wink,</L>
+<L>But rouze her self from Cheated slumbering <HI>Mercy,</HI></L>
+<L>And start at his most foul Ingratitude.</L>
+<L>Nor, does it well become the brave <HI>Southampton</HI></L>
+<L>To Plead in his behalf; for fear it pulls</L>
+<L>Upon himself, suspition of his Crimes.</L>
+</SP>
+<SP>
+<SPEAKER>Sou.</SPEAKER>
+<L>Hold in my Fire, and scorch not through my Ribs,</L>
+<L>Quench, if thou canst, the Burning Furious Pain—</L>
+<L>I cannot if I wou'd, but must unload</L>
+<L>Some of the Torture—Now by my Wrong'd self,</L>
+<L>And <HI>Essex,</HI> much more Wrong'd, I Swear 'tis false,</L>
+<L>False, as the Rules by which Vile States-men Govern,</L>
+<L>False as their Arts, by which the Traytors Rise,</L>
+<L>By Cheating Nations, and Destroying Kings,</L>
+<L>And false Imposing on the Common Crew.</L>
+<L><HI>Essex!</HI> By all the Hopes of my Immortal Soul,</L>
+<L>There's not one drop of Blood, of that brave Man</L>
+<L>But holds more Honour, Truth and Loyalty</L>
+<L>Than thy whole Mass besides, and all thy Brains</L>
+<L>Stufft with Cabals, and Projects for the Nation;</L>
+<L>Than thou that seem'st a good St. <HI>Christopher</HI></L>
+<L>Carrying thy Countries <HI>Genious</HI> on thy Back,</L>
+<L>But, art indeed a Devil, and takest more Hire</L>
+<L>Than half the Kingdom's Wealth can satisfie.</L>
+<L>I say again, that thou, and all thy Race</L>
+<L>With <HI>Essex</HI> base Accusers, ev'ry one</L>
+<L>Put in a Scale together, Weigh not half</L>
+<L>The merit that's in one poor Hair of his.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Thank you, my Lord—see I can bear the scandal,</L>
+<L>And cannot chuse but smile, to see you Rage.</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>It is, because thy Guilty Soul's a Coward,</L>
+<L>And ha's not Spirit enough to Feign a Passion.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>It is the Token of my Innocence.—</L>
+<L>But let <HI>Southampton</HI> have a special Care</L>
+<L>To keep his close Designs from <HI>Cecils</HI> way,</L>
+<L>Least he disturb the <HI>Genious</HI> of the Nation</L>
+<L><PB N="7" REF="8"/>
+As you were pleas'd to call me; and beware</L>
+<L>The Fate of <HI>Essex.</HI></L>
+<STAGE>[<HI>Exit</HI> Burleigh.</STAGE>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>Ha! The Fate of <HI>Essex!</HI></L>
+<L>Thou lyest Proud States-man, 'tis above thy reach;</L>
+<L>As high above thy malice as is Heaven</L>
+<L>Beyond a <HI>Cecils</HI> Hopes—Despair not <HI>Essex,</HI></L>
+<L>Nor his brave Friends, since a Just Queen's his Judge;</L>
+<L>She that saw once such Wonders in thy Person,</L>
+<L>A scarce fledg'd Youth, as Loading thee with Honours,</L>
+<L>At once made thee Earl-marshall, Knight o'th' Garter,</L>
+<L>Chief Councellor, and Admiral at Sea—</L>
+<L>She comes, she comes bright Goddess of the Day,</L>
+<L>And <HI>Essex</HI>'s Foes shee drives like Mists away.</L>
+</SP>
+<STAGE>Enter the Queen, <HI>Burleigh,</HI> Lord Chancellor, Countess of <HI>Nottingham,</HI>
+Countess of <HI>Rutland,</HI> Lords and Attendants, Queen
+on a Chair of State, Guards.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>My Lords, we hear not any thing Confirms</L>
+<L>The New designs were dreaded of the <HI>Spanyards:</HI></L>
+<L>Our Letters lately from our Agent there</L>
+<L>Say nothing of such Fears, nor do I think</L>
+<L>They dare.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>To dare, most high Illustrious Princess,</L>
+<L>Is such a Virtue <HI>Spanyard</HI> never knew,</L>
+<L>His Courage is as Cold as he is Hot,</L>
+<L>And Faith is as Adulterate as his Blood.</L>
+<L>What truth can we expect from such a Race</L>
+<L>Of Mungrells, Jews, Mahumetans, Gothes, Moors,</L>
+<L>And Indians with a few of Old Castilians,</L>
+<L>Shuffl'd in Natures mould together?</L>
+<L>That <HI>Spain</HI> may truly now be call'd the Place</L>
+<L>Where <HI>Babell</HI> first was Built. These men</L>
+<L>With all false Tenets chopt and masht together,</L>
+<L>Suck'd from the Scum of ev'ry base Religion,</L>
+<L>Which they have since Transform'd to <HI>Romish</HI> Mass,</L>
+<L>Are now become the Myters darling Sons,</L>
+<L>And <HI>Spain</HI> is call'd the <HI>Popes</HI> most Catholick King.</L>
+</SP>
+<SP>
+<PB N="8" REF="9"/>
+<SPEAKER>Queen.</SPEAKER>
+<L>Spoke like true <HI>Cecil</HI> still, old Protestant—</L>
+<L>But, Oh! It Joyes me with the dear Remembrance</L>
+<L>Of this Romantick huge Invasion.</L>
+<L>From the Popes Closlet where 'twas first Begot,</L>
+<L>Bulls, Absolutions, Pardons, frightful Banns</L>
+<L>Flew o're the Continent, and Narrow Seas,</L>
+<L>Some to Reward, and others to Torment,</L>
+<L>Nay, worse, the Inquisition was let loose</L>
+<L>To Teach the very Atheists Purgatory.</L>
+<L>Then were a Thousand Holy Hands employ'd,</L>
+<L>As Cardinals, Bishops, Abbots, Monks, and Jesuits,</L>
+<L>Not a poor Mendicant, or Begging Fryer</L>
+<L>But thought he shou'd be Damn'd to leave the Work;</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>Whole Sholes of Benedictions were disperst;</L>
+<L>Nay, the good <HI>Pope</HI> himself so weary'd was</L>
+<L>With giving Blessings to these holy Warriours,</L>
+<L>That Flew to him, from ev'ry Part as thick</L>
+<L>As Hornets to their Nest, It gave his Arms</L>
+<L>The Gout.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>O Faithless, incouragious Hands!</L>
+<L>They shou'd have both been Burnt for Hereticks.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>But when this huge, and mighty Fleet was ready,</L>
+<L>Altars were strip'd of shining Ornaments.</L>
+<L>Their Images, their Pictures, Palls, and Hangings</L>
+<L>By Nuns, and Persians, wrought,</L>
+<L>All went to help their great Armado forth;</L>
+<L>Relicks of all degrees of Saints</L>
+<L>Were there Distributed, and not a Ship</L>
+<L>Was Blest without one; ev'ry Sail amongst'em</L>
+<L>Boasted to carry, as a certain Pledge</L>
+<L>Of Victory, some of the real Cross.</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>Long live that Day, and never be forgotten</L>
+<L>The gallant How'r, when to th'immortal Fame</L>
+<L>Of <HI>England,</HI> and the more immortal <HI>Drake,</HI></L>
+<L>That Proud Armado was Destroy'd; yet was</L>
+<L>The Fight not half so dreadful as th' Event</L>
+<L>Was pleasant. When the first Broad Sides were giv'n,</L>
+<L>A tall brave Ship, the tallest of the Rest,</L>
+<L>That seem'd the Pride of all their big Half-moon,</L>
+<L>Whether by Chance, or by a luckey Shot</L>
+<L><PB N="9" REF="9"/>
+From us, I know not, but she was Blown up,</L>
+<L>Bursting like Thunder, and almost as high,</L>
+<L>And then did Shiver in a Thousand Pieces,</L>
+<L>Whilst from her Belly Crouds of Living Creatures</L>
+<L>Broak like untimely Births, and fill'd the Skye:</L>
+<L>Then might be seen a <HI>Spanyard</HI> catch his Fellow,</L>
+<L>And Wrestling in the Air fall down together;</L>
+<L>A Priest for safety Riding on a Cross,</L>
+<L>Another that had none, crossing himself;</L>
+<L>Fryers with long big sleeves like Magpyes Wings</L>
+<L>That bore them up, came gently Sailing down:</L>
+<L>One with a Don that held him by the Arms,</L>
+<L>And Cry'd, Confess me straight; but as he just</L>
+<L>Had spoke the Words, they Tumbled down together.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Just Heav'n that never ceas'd to have a Care</L>
+<L>Of your most Gracious Majesty, and Kingdoms,</L>
+<L>By Valliant Souldiers, and by faithful Leaders,</L>
+<L>Confounded in one day the vast designs</L>
+<L>Of <HI>Italy,</HI> and <HI>Spain</HI> against our Liberties;</L>
+<L>So may <HI>Tyrone,</HI> and <HI>Irish</HI> Rebells fall,</L>
+<L>And so may all your Captains henceforth prove</L>
+<L>To be as Loyal, and as stout Commanders.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Is there no fresher News from <HI>Ireland</HI> yet?</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>None better than the last, that seems too ill</L>
+<L>To be repeated in your Gracious hearing.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Why, what was that?</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>Now, now the Subtil Fiend</L>
+<L>Begins to Conjure up a Storm.</L>
+</SP>
+<STAGE>[Aside.</STAGE>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>How soon your Gracious Majesty forgets</L>
+<L>Crimes done by any of your Subjects!</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>What?</L>
+<L>That <HI>Essex</HI> did defer his Journey to</L>
+<L>The North, and therefore lost the Season quite;</L>
+<L>Was not that all?</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>And that he met <HI>Tyrone</HI></L>
+<L>At his Request, and treated with him Private.</L>
+<L>A Ford dividing them, they both Rode in,</L>
+<L>Wading their Horses knee deep on each side;</L>
+<L>But that the Distance from each other was</L>
+<L>So great, and they were forc'd to parley loud,</L>
+<L><PB N="10" REF="10"/>
+Orders were given to keep the Souldiers off;</L>
+<L>Nay, not an Officer in all the Army</L>
+<L>But was deny'd to hear what pass'd between them—</L>
+<L>What follow'd then the Parly? was the Truce,</L>
+<L>So shameful, (if I may be bold to call</L>
+<L>It so,) both to your Majesty and <HI>England?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Enough, enough good <HI>Cecil,</HI> you begin</L>
+<L>To be Inveterate; 'twas his first Fault;</L>
+<L>And tho that Crimes done to the Nation's hurt</L>
+<L>Admit of no excuse or mittigation</L>
+<L>From th' Author's many Virtues or Misfortunes,</L>
+<L>Yet you must all confess that he is brave,</L>
+<L>Valliant as any, and 'as done as much</L>
+<L>For you, as e're <HI>Alcides</HI> did for <HI>Greece.</HI></L>
+<L>Yet I'le not hide his Faults, but Blame him too,</L>
+<L>And therefore I have sent him Chiding Letters,</L>
+<L>Forbidding him to leave the Kingdom till</L>
+<L>He has dispatcht the War, and kill'd <HI>Tyrone.</HI></L>
+</SP>
+<STAGE>Enter Sir <HI>Walter Rawleigh,</HI> Attended by some
+other Members of the House.</STAGE>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Most Royal Madam, here's the gallant <HI>Rawleigh,</HI></L>
+<L>With others in Commission from the House,</L>
+<L>Who 'ttend your Majesty with some few Bills</L>
+<L>And humblest of Addresses, that you wou'd</L>
+<L>Be pleas'd to pass'em for the Nations safety.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Welcome my People, welcome to your Queen,</L>
+<L>Who wishes still no longer to be so</L>
+<L>Than she can Govern well, and serve you all;</L>
+<L>Welcom again, dear People; for I'me Proud</L>
+<L>To call you so, and let it not be Boasting</L>
+<L>In me, to say, I Love you with a greater Love</L>
+<L>Than ever Kings before showr'd down on Subjects,</L>
+<L>And that I think ne're did a People more</L>
+<L>Deserve, than you. Be quick,</L>
+<L>And tell me your Demands; I long to hear:</L>
+<L>For know, I count your wants are all my own.</L>
+</SP>
+<SP>
+<SPEAKER>Raw.</SPEAKER>
+<L>Long live the bright Imperial Majesty.</L>
+<L>Of <HI>England,</HI> Virgin Star of Christendome,</L>
+<L><PB N="11" REF="10"/>
+Blessing, and Guide of all your Subjects Lives,</L>
+<L>Who wish the Sun may sooner be extinguish'd</L>
+<L>From the bright Orb he Rules in, than their Queen</L>
+<L>Shou'd e're descend the Throne she now makes happy.</L>
+<L>Your Parliament, most Blest of Soveraigns,</L>
+<L>Calling to mind the Providence of Heaven</L>
+<L>In Guarding still your People under you,</L>
+<L>And sparing your most precious Life,</L>
+<L>Do humbly offer to your Royal pleasure</L>
+<L>Three Bills to be made living Acts hereafter,</L>
+<L>All for the safety of your Crown and Life,</L>
+<L>More pretious than ten thousand of your Slaves.</L>
+</SP>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>Let <HI>Cecil</HI> take, and read what they contain.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>An Act for setling, and establishing</L>
+<STAGE>[<HI>Cecil</HI> takes the Papers and reads the Contents.</STAGE>
+<L>A strong Militia out of ev'ry County,</L>
+<L>And likewise for levying a new Army</L>
+<L>Consisting of six thousand Foot at least,</L>
+<L>And Horse three thousand, quickly to be ready,</L>
+<L>As a strong Guard for the Queens Sacred Person,</L>
+<L>And to prevent what clandestine designs</L>
+<L>The <HI>Spaniards,</HI> or the <HI>Scots</HI> may have.</L>
+</SP>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>Thanks to</L>
+<L>My Dear, and loving People, I will pass it.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>This second Act is for the speedy raising</L>
+<L>Two Hundred Thousand Pounds to pay the Army,</L>
+<L>And to be ordered as the Queen shall please;</L>
+<L>This to be gather'd by a Benevolence,</L>
+<L>And Subsidy, in six months time from hence.</L>
+</SP>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>What mean my giving Subjects! It shall pass.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>The third has several Articles at large,</L>
+<L>With an Address Subscrib'd, most humbly offer'd</L>
+<L>For the Impeaching <HI>Robert</HI> Earl of <HI>Essex</HI></L>
+<L>Of several Misdemeaners of High Treason.</L>
+</SP>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>Ha!</L>
+<L>This unthought Blast has shockt me like an Ague—</L>
+<L>It has alarum'd every Sence, and spoyl'd me</L>
+<STAGE>Aside.</STAGE>
+<L>Of all the awful courage of a Queen;</L>
+<L>But I'le recover—Say, my <HI>Nottinham,</HI></L>
+<L>And <HI>Rutland,</HI> did you ever hear the like!</L>
+<L>But are you well assurd I am awake?</L>
+<L><PB N="12" REF="11"/>
+Bless me, and say it is a Horry'd Vision,</L>
+<L>That I am not upon the Throne—</L>
+<L>Ha! Is't not so?—Yes, Traytors, I'le obey you—</L>
+<STAGE>[She rises in a Rage.</STAGE>
+<L>Here, sit you in my Place; take <HI>Burleigh's</HI> Staff,</L>
+<L>The Chancellor's Seal, and <HI>Essex</HI> valiant Head,</L>
+<L>And leave me none but such as are your selves,</L>
+<L>Knaves for my Counsell, Fools for Megistrates,</L>
+<L>And Cowards for Commanders—Oh my Heart!</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>O horry'd imposition on a Throne!</L>
+<L><HI>Essex;</HI> that has so bravely serv'd the Nation!</L>
+<L>That I may boldly say, <HI>Drake</HI> did not more,</L>
+<L>That has so often beat it's Foes on Land,</L>
+<L>Stood like a Promontary in its defence,</L>
+<L>And sail'd with Dragons Wings to Guard the Seas;</L>
+<L><HI>Essex!</HI> That took as many Towns in <HI>Spain</HI></L>
+<L>As all this Island holds, begger'd their Fleet</L>
+<L>That came with Loads of half their Mines in <HI>India,</HI></L>
+<L>And took a mighty Carrack of such Value,</L>
+<L>That held more Gold in its Prodigious Deck</L>
+<L>Than serv'd the Nation's Riot in a Year.</L>
+</SP>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>Ingrateful People! Take away my Life;</L>
+<L>'Tis that you'd have: for I have Reign'd too long—</L>
+<L>You too well know that I'm a Woman, else</L>
+<L>You durst not use me thus—Had you but fear'd</L>
+<L>Your Queen as you did once my Royal Father,</L>
+<L>Or had I but the Spirit of that Monarch,</L>
+<L>With one short Syllible I shou'd have ram'd</L>
+<L>Your Impudent Petitions down your Throats,</L>
+<L>And made four hundred of your Factious Crew</L>
+<L>Tremble, and grovle on the Earth for fear.</L>
+</SP>
+<SP>
+<SPEAKER>Raw.</SPEAKER>
+<L>Thus prostrate at your Feet we beg for Pardon,</L>
+<L>And humbly Crave your Majesties Forgiveness.</L>
+</SP>
+<STAGE>[Petitioners kneel:</STAGE>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>No more—Attend me in the House to morrow.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Most Mighty Queen! Blest and Ador'd by all,</L>
+<L>Torment not so your Royal Breast with Passion:</L>
+<L>Not all of us, our Lives, Estates, and Country</L>
+<L>Are worth the least disturbance, of your mind▪</L>
+</SP>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>Are you become a Pleader for such Traytors!</L>
+<L><PB N="13" REF="11"/>
+Ha! I suspect that <HI>Cecil</HI> too is envious,</L>
+<L>And <HI>Essex</HI> is too great for thee to grow,—</L>
+<L>A Shrub that never shall be look'd upon,</L>
+<L>Whilst <HI>Essex,</HI> that's a Cedar stands so nigh—</L>
+<L>Tell me, why was not I acquainted with</L>
+<L>This close Design: For I am sure thou know'st it.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Madam—</L>
+</SP>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>Be dumb; I will hear no Excuses.—</L>
+<L>I could turn Cynnick, and outrage the Wind,</L>
+<L>Fly from all Courts, from Business, and Mankind,</L>
+<L>Leave all like <HI>Chaos</HI> in Confusion hurl'd:</L>
+<L>For 'tis not Reason now that Rules the World:</L>
+<L>There's Order in all States but Man below,</L>
+<L>And all things else do to Superiors bow;</L>
+<L>Trees, Plants, and Fruits, rejoyce beneath the Sun,</L>
+<L>Rivers, and Seas are guided by the Moon;</L>
+<L>The Lyon Rules through Shades and ev'ry Green,</L>
+<L>And Fishes own the Dolphin sor their Queen;</L>
+<L>But Man the veryer Monster, Worships still</L>
+<L>No God but Lust, no Monarch but his Will.</L>
+</SP>
+<STAGE>[Exeunt omnes.</STAGE>
+<TRAILER>Finis Actus Primi.</TRAILER>
+</DIV2>
+<DIV2 N="2" TYPE="act and scene">
+<PB N="14" REF="12"/>
+<HEAD>Actus Secundus, Scena prima.</HEAD>
+<STAGE>Countess of <HI>Essex.</HI></STAGE>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>IS this the Joy of a New Marry'd Life?</L>
+<L>This all the taste of Pleasures that are Feign'd</L>
+<L>To flow from sweet and Everlasting Springs?</L>
+<L>By what false Opticks do we view those sights,</L>
+<L>And by our ravenous Wishes seem to draw</L>
+<L>Delights so far beyond a Mortals reach,</L>
+<L>And bring 'em home to our deluded Breasts?</L>
+<L>'Tis not yet long since that Blest Day was past,</L>
+<L>A Day I wisht that shou'd for ever last;</L>
+<L>The Night once gone, I did the Morning Chide,</L>
+<L>Whose Beams betray'd me by my <HI>Essex</HI> side,</L>
+<L>And whilst my Blushes, and my Eyes he blest,</L>
+<L>I strove to hide 'em in his panting Breast,</L>
+<L>And my hot Cheeks close to his Bosom laid,</L>
+<L>Listning to what the Guest within it said,</L>
+<L>Where Fire to Fire the Noble Heart did burn</L>
+<L>Close like a Phoenix in her spicey Urn:</L>
+<L>I sigh'd, and wept for Joy, a showre of Tears,</L>
+<L>And felt a thousand sweet, and pleasant fears,</L>
+<L>Too rare for Sense, too exquisite to say;</L>
+<L>Pain we can count, but Pleasure steals away:</L>
+<L>But Business now, and envyous Glory's Charms</L>
+<L>Have snatcht him from these ever Faithful Arms,</L>
+<L>Ambition, that's the highest way to Woe,</L>
+<L>Cruell Ambition, Love's Eternal Foe.</L>
+</SP>
+<STAGE><HI>Enter</HI> Southampton.</STAGE>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>Thou dearest Partner of my dearest Friend,</L>
+<L>The brightest Plannet of thy shining Sex,</L>
+<L>Forgive me for the unwelcome News I bring,—</L>
+<L><HI>Essex</HI> is come, the most deplor'd of Men!</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Now by the sacred Joy that fills my Heart,</L>
+<L><PB N="15" REF="12"/>
+What fatal meaning can there be in that?</L>
+<L>Is my Lord come? say, speak.</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>Too sure he's come—</L>
+<L>But oh that Seas, as wide as Waters flow,</L>
+<L>Or burning Lakes as broad, and deep as Hell,</L>
+<L>Had rather parted you for ever,</L>
+<L>So <HI>Essex</HI> had been safe on th'other side.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>My Lord, you much amaze me—</L>
+<L>Pray what of ill has happen'd since this Morning,</L>
+<L>That the Queen Guarded him with so much mercy,</L>
+<L>And then refus'd to hear his false Impeachers?</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>Too soon alass h'as forfeited his Honours,</L>
+<L>Places, and Wealth, but more his precious Life,</L>
+<L>Condemn'd by the too cruel Nation's Laws</L>
+<L>For leaving his Commission, and returning,</L>
+<L>When the Queens absolute Commands forbid him.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Fond hopes! must then our meeting prove so fatal!</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>Say Madam, now what help will you propose,</L>
+<L>Can the Queens pitty any more protect him?</L>
+<L>Never, it is no longer in her Power,</L>
+<L>She must, tho 'gainst her Will deliver him</L>
+<L>A Sacrifice to all his greedy Foes.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Where is my Lord?</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L><HI>Blunt</HI> left him on the Way,</L>
+<L>And came disguis'd in haste to give me notice.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Let him go back, and give my <HI>Essex</HI> warning,</L>
+<L>Conjuring him from us to stir no further,</L>
+<L>But straight return to <HI>Ireland</HI> e're 'tis known</L>
+<L>He left the place.</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>Alas it is no secret;</L>
+<L>Besides, he left the Town almost as soon</L>
+<L>As <HI>Blunt,</HI> and is expected every moment.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>How cou'd it be reveal'd so suddenly?</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>I know not that, unless from Hell it came,</L>
+<L>Where <HI>Cecil</HI> too is Privy Counsellor,</L>
+<L>And knows as much as any Devil there.</L>
+<L>I met the cunning Fiend and <HI>Rawleigh</HI> whispering;</L>
+<L>And the fair treacherous <HI>Nottingham,</HI></L>
+<L>I saw bedeck'd with an ill-natur'd smile,</L>
+<L>That shew'd Malicious Beauty to the height.</L>
+</SP>
+<SP>
+<PB N="16" REF="13"/>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Hold, hold, my Lord, my Fears begin to wrack me,</L>
+<L>And Danger now in all it's horryd Shapes,</L>
+<L>Stalks in my way, and mmakes my Blood run cold,</L>
+<L>Worse than a thousand Glaring Spirits cou'd do.</L>
+<L>Assist me straight thou <HI>Damon</HI> to my <HI>Essex,</HI></L>
+<L>Help me thou more than Friend in misery—</L>
+<L>I'le to the Queen, and straight declare our Marriage;</L>
+<L>She will have mercy on my helpless State,</L>
+<L>Pitty these Tears, and all my humble Postures;</L>
+<L>If not for me, nor for my <HI>Essex</HI> sake,</L>
+<L>Yet for the Illustrious Offspring that I bear;</L>
+<L>I'll Go, I'll Run, I'll Hazard all this Moment.</L>
+</SP>
+<STAGE>[Offers to be gone.</STAGE>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>Led by vain Hopes, you fly to your Destruction;</L>
+<L>There wants but that dread Secret to be known,</L>
+<L>To tumble you for ever to Despair,</L>
+<L>And leave you both Condemn'd without the Hopes</L>
+<L>Of the Queens Pitty, or Remorse hereafter.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Curst be the Stars that flatter'd at our Births,</L>
+<L>That shone so bright, with such unusual Luster,</L>
+<L>As Cheated the whole World into belief</L>
+<L>Our Lives alone were all their chiefest Care.</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>Be Comforted, rely on <HI>Essex</HI> Fate,</L>
+<L>And the Queens Mercy—</L>
+<L>Behold she comes, our good or evil Fate,</L>
+<L>In discontented Characters wrote on</L>
+<L>Her Brow.</L>
+</SP>
+<STAGE>Enter the Queen, <HI>Burleigh,</HI> Countess of <HI>Nottingham,
+Rawleigh,</HI> Attendant Guards.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Is <HI>Essex</HI> then Arriv'd?</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>He is.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Then he has lost me all the flattering hopes</L>
+<STAGE>[Aside.</STAGE>
+<L>I ever had to save him—Come say you!</L>
+<L>Who else came with him?</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Some few Attendants.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Durst the most vile of Traytors serve me thus!</L>
+<L>Double my Strength about me, draw out Men,</L>
+<L>And set a Guard before the Palace Gates,</L>
+<L>And bid my valliant Friends the Citizens</L>
+<L>Be ready straight—I shall be murder'd else,</L>
+<L><PB N="17" REF="13"/>
+And faithful <HI>Cecil,</HI> if thou lovest thy Queen,</L>
+<L>See all this done: For how can I be safe</L>
+<L>If <HI>Essex</HI> that I Favour'd seeks my Life.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Wil't please your Majesty to see the Earl?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>No.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Shall I publish straight your Royal Order,</L>
+<L>That may forbid his coming to the Court,</L>
+<L>Until your Majesty Command him?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Neither—</L>
+<L>How durst you seem t'interpret what's my Pleasure!</L>
+<L>No, I will see him if 'a comes, and then</L>
+<L>Leave me to act without your saucy Aid,</L>
+<L>If I have any Royal Power.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Blest be the Queen, blest be the pittying God</L>
+<L>That has inspir'd her.</L>
+</SP>
+<STAGE>[Aside.</STAGE>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>Most admir'd of Queens,</L>
+<L>Thus low unto the ground I bend my body,</L>
+<L>And wish I cou'd sink lower through the Earth,</L>
+<L>To suit a Posture to my humble Heart.</L>
+<L>I tremble to excuse my gallant Friend</L>
+<L>In contradiction to your Heavenly will,</L>
+<L>Who like a God knows all, and 'tis enough</L>
+<L>You think him innocent, and he is so;</L>
+<L>But yet your Majesty's most Royal Soul,</L>
+<L>That soars so high above the humble malice</L>
+<L>Of base and sordid Wretches under you,</L>
+<L>Perhaps is ignorant the valiant Earl</L>
+<L>Has Foes, Foes that are only so, because</L>
+<L>Your Majesty has crown'd him with your Favours,</L>
+<L>And lifted him so far above their sights,</L>
+<L>That 'tis a pain to all their envious eyes</L>
+<L>To look so high above him; and of these</L>
+<L>Some grow too neer your Royal Person,</L>
+<L>As the ill Angels did at first in Heaven,</L>
+<L>And daily seek to hurt this brave Mans Virtue.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Help me thou infinite Ruler of all things,</L>
+<L>That sees at once far as the Sun displays,</L>
+<L>And searches every Soul of humane kind,</L>
+<L>Quick, and unfelt, as Light infuses Beams,</L>
+<L>Unites, and makes all Contradictions centre,</L>
+<L><PB N="18" REF="14"/>
+And to the sence of Man, which is more strange,</L>
+<L>Governs innumerable distant Parts</L>
+<L>By one intire same Providence at once.</L>
+<L>Teach me so far thy holy Art of Rule,</L>
+<L>As in a mortal reason may distinguish</L>
+<L>Betwixt bold Subjects, and a Monarchs Right,</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>May't please your Majesty, the Earl is come</L>
+<L>And waits your Pleasure.</L>
+</SP>
+<SP>
+<SPEAKER>Queen</SPEAKER>
+<L>Let him be admitted—</L>
+<L>Now now support thy Royalty,</L>
+<L>And hold thy Greatness firm; but oh, how heavy</L>
+<L>A Load is State where the Free Mind's disturb'd!</L>
+<L>How happy a Maid is she that always lives</L>
+<L>Far from high Honour, in a low Content,</L>
+<L>Where neither Hills, nor dreadful Mountains grow,</L>
+<L>But in a Vale where Springs and Pleasures flow;</L>
+<L>Where Sheep lye round instead of Subjects Throngs,</L>
+<L>The Trees for Musick, Birds instead of Songs;</L>
+<L>Instead of <HI>Essex</HI> one poor faithful Hind,</L>
+<L>He as a Servant, She a Mistress kind,</L>
+<L>Who with Garlands for her Coming crowns her Dore,</L>
+<L>And all with Rushes strews her little floore,</L>
+<L>Where at their mean Repast no Fears attend▪</L>
+<L>Of a false Enemy, or falser Friend;</L>
+<L>No care of Cepters, nor ambitious Frights</L>
+<L>Disturb the quiet of their sleep at Nights.—</L>
+<L>He comes; this proud Invader of my Rest,</L>
+<L>A comes; but I intend so to receive him—</L>
+</SP>
+<STAGE>Enter the Earl of <HI>Essex with Attendanrs.</HI></STAGE>
+<STAGE><HI>Essex</HI> kneels. The Queen turns to the Countess
+of <HI>Nottingham.</HI></STAGE>
+<SP>
+<SPEAKER>Essex.</SPEAKER>
+<L>Long live the mightiest, most ador'd of Queens,</L>
+<L>The brightest Power on Earth that Heav'n e're form'd;</L>
+<L>Aw'd and amaz'd the trembling <HI>Essex</HI> kneels,</L>
+<L><HI>Essex</HI> that stood the dreadful voice of Cannons,</L>
+<L>Hid in a darker Field of Smoak and Fire,</L>
+<L>Than that where Cyclops blow the Forge, and sweat</L>
+<L>Beneath the mighty Hill, whilst Bullets round me</L>
+<L><PB N="19" REF="14"/>
+Flew like the Bolts of Heav'n when shot with Thunder,</L>
+<L>And lost their Fury on my Shield and Corslet;</L>
+<L>And stood these Dangers unconcern'd, and dauntless;</L>
+<L>But you the most Majestick, brightest Form</L>
+<L>That ever rul'd on Earth, have caught my Soul,</L>
+<L>Surpris'd its Virtues all with dread and wonder;</L>
+<L>My humble Eyes durst scarcely look up to you,</L>
+<L>Your dazling Miene, and Sight so fill the Place,</L>
+<L>And every Part Celestial Rays adorn.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Ha!</L>
+</SP>
+<STAGE>[Aside.</STAGE>
+<SP>
+<SPEAKER>Essex.</SPEAKER>
+<L>'Tis said I have been guilty—</L>
+<L>I dare not rise, but crawl thus on the earth,</L>
+<L>'Till I have leave to kiss your Sacred Robe,</L>
+<L>And clear before the justest, best of Queens,</L>
+<L>My wrong'd and wounded Innocence.</L>
+</SP>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>What said'st thou <HI>Nottingham?</HI> what said the Earl?</L>
+</SP>
+<STAGE>[Aside</STAGE>
+<SP>
+<SPEAKER>Essex.</SPEAKER>
+<L>What not a Word! a Look! not one blest Look!</L>
+<L>Turn, turn your crul Brow, and kill me with</L>
+<L>A Frown; it is a quick and surer way</L>
+<L>To rid you of your <HI>Essex,</HI></L>
+<L>Than Banishment, than Fetters, Swords, or Axes—</L>
+<L>What, not that neither! Then I plainly see</L>
+<L>My Fate, the malice of Enemies</L>
+<L>Triumphant in their joyful faces; <HI>Burleigh</HI></L>
+<L>With a glad Cowards smile, that knows 'has got</L>
+<L>Advantage o're his valiant Foe, and <HI>Rawleigh's</HI> proud</L>
+<L>To see his dreaded <HI>Essex</HI> kneel so long,</L>
+<L><HI>Essex</HI> that stood in his great Mistress Favour</L>
+<L>Like a huge Oak, the loftiest of the Wood,</L>
+<L>Whilst they no higher cou'd attain to be</L>
+<L>Then humble Succors nourisht by my Root,</L>
+<L>And like the Ivy twin'd their flatt'ring Arms</L>
+<L>About my Waste, and liv'd but by my Smiles—</L>
+</SP>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>I must be gone: for if I stay I shall</L>
+<L>Here wrack my Conduct, and my Fame for ever—</L>
+<L>Thus the charm'd Pilot listning to the Syrens,</L>
+<L>Lets his rich Vessel split upon a Rock,</L>
+<L>And looses both his Life and Wealth together.</L>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Essex.</SPEAKER>
+<L>Still am I shun'd as if I wore Destruction—</L>
+<STAGE>[rises.</STAGE>
+<L>Here, here my faithful and my valiant Friends,</L>
+<L><PB N="20" REF="15"/>
+Dearest Companions of the Fate of <HI>Essex,</HI></L>
+<L>Behold this Bosom studdied o're with Scars,</L>
+<L>This marble Breast, that has so often held,</L>
+<L>Like a fierce Battlement against the Foes</L>
+<L>Of <HI>Englands</HI> Queen, that made a hundred Breaches;</L>
+<L>Here, pierce it straight, and through this Wild of wounds</L>
+<L>Be sure to reach my Heart, this loyal Heart,</L>
+<L>That sits consulting 'midst a thousand Spirits</L>
+<L>All at command, all faithful to my Queen.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>If I had ever Courage, Haughtiness,</L>
+<L>Or Spirit, help me but now, and I am happy!</L>
+<L>He melts; it flows, and drowns my heart with Pitty,</L>
+<STAGE>Aside.</STAGE>
+<L>If I stay longer I shall tell him so—</L>
+<L>What is this Traytor in my sight!</L>
+<L>All that have Loyalty, and love their Queen,</L>
+<L>Forsake this horrid Wretch, and follow me.</L>
+</SP>
+<STAGE>Exeunt <HI>Queen and her Attendants,</HI> manet <HI>Essex</HI> solus.</STAGE>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>She's gone, and darted fury as she went—</L>
+<L>Cruellest of Queens!</L>
+<L>Not heard! Not hear your Souldier speak one word!</L>
+<L><HI>Essex</HI> that once was all day list'ned to;</L>
+<L><HI>Essex,</HI> that like a Cherub held thy Throne,</L>
+<L>Whilst thou didst dress me with thy wealthy Favours,</L>
+<L>Cheer'd me with Smiles, and deck'd me round with Glories;</L>
+<L>Nor was thy Crown scarce worship'd on thy head</L>
+<L>Without me by thy Side; but now art deaf</L>
+<L>As Adders, Winds, or the remorseless Seas,</L>
+<L>Deaf as thy cunning Sexes Ears to those</L>
+<L>That make unwelcome Love—What news my Friend?</L>
+</SP>
+<STAGE><HI>Enter</HI> Southampton.</STAGE>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>Such as I dare not tell; but pardon me,</L>
+<L>As an ill Bird that pearches on the side</L>
+<L>Of some tall Ship foretels a storm at hand,</L>
+<L>I come to give you warning of the danger—</L>
+<L>See <HI>Cecil</HI> with a Message from the Queen.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Then does my Wrack come rolling on a-pace;</L>
+<L>That foul Leviathan nere yet appear'd</L>
+<L>Without a horrid Tempest from his Nostrils,</L>
+</SP>
+<STAGE><PB N="21" REF="15"/>
+<HI>Enter to them</HI> Burleigh <HI>and</HI> Rawleigh.</STAGE>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Hear <HI>Robert</HI> Earl of <HI>Essex,</HI></L>
+<L>Hear what the Queen, my Lord, by us pronounces;</L>
+<L>She now divests you of your Offices,</L>
+<L>Your dignities of Governour of <HI>Ireland,—</HI></L>
+<L>Earl Martial, Master of her Horse, General</L>
+<L>Of all her Forces both by Land and Sea,</L>
+<L>And Lord Lieutenant of the several Counties,</L>
+<L>Of <HI>Essex, Hereford,</HI> and <HI>Westmerland.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>A vast and goodly summ all at one Cast</L>
+<L>By an unlucky hand thrown quite away.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Also her Pleasure is, that in obedience</L>
+<L>To her Commands, you send your Staff by us,</L>
+<L>Then leave the Court, and stirr no farther then</L>
+<L>Your House, till order from the Queen and Council.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Thanks my Misfortunes, for you fall with weight</L>
+<L>Upon me, and Fate shoots her Arrows thick;</L>
+<L>'Tis hard if they not find one mortal Place</L>
+<L>About me—</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>My Lord, what shall we tell her Majesty?</L>
+<L>What is your Answer, for the Queen expects us?</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Wilt thou then promise to be just, and tell her?</L>
+<L>Give her a Caution of her worst of Foes,</L>
+<L>Thy greedy self, the Lands infesting Giant,</L>
+<L>Exacting Heads from her best Subjects daily;</L>
+<L>Worse than the <HI>Phrygian</HI> Monster, he was more</L>
+<L>Ch<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>aply compounded with, and but devour'd</L>
+<L>Seav'n Virgins in a week, and spar'd the rest.</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>Hold, my brave Friend, waste not the noble breath</L>
+<L>Of <HI>Essex</HI> on so base and mean a Subject—</L>
+<L>Thou Traytor to thy Sovereign and her Kingdomes,</L>
+<L>More full of guilt than e're thou didst devise</L>
+<L>To lay on <HI>Essex,</HI> whom thou fear'st and hatest;</L>
+<L>And thou, because thy sordid Soul, and Person</L>
+<L>Ne're fitted thee</L>
+<L>For gallant Actions, thinkest the World so too:</L>
+<L>For he that looks through a foul Glass that's stain'd,</L>
+<L>Sees all things stain'd like the foul Perspective he uses.</L>
+<L><PB N="22" REF="16"/>
+'Tis Crime enough in any to be valiant,</L>
+<L>To win a Battel or be fortunate,</L>
+<L>Whilst thou standst by the Queen to intercept,</L>
+<L>Or else determine Favours from her hands;</L>
+<L>'Tis not who is too blame, or who deserves,</L>
+<L>Nor whom the Queen wou'd look on with a Grace,</L>
+<L>But whom proud <HI>Cecil</HI> pleases to reward,</L>
+<L>Or punish, and the Valiant never scape thee;</L>
+<L>Curst be the brave that fall into such hands;</L>
+<L>For Cowards still are cruel and malitious.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>This I dare tell, and that <HI>Southampton</HI> said it.</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>And put her too in mind of thy vain Glories,</L>
+<L>Such Impudence and Ostentation in thee,</L>
+<L>And so much horrid Pride and Costliness,</L>
+<L>As wou'd undo a Monarch to supply.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>So thrives the lazy Gown, and such as sleep</L>
+<L>On Woolsacks, and on Seats of injur'd Justice,</L>
+<L>Or learn to prate at Council-Tables; but</L>
+<L>How miserable is Fortune to the Valiant!</L>
+<L>Were but Commanders half so well rewarded</L>
+<L>For all their Winters Camps, and Summers Fights,</L>
+<L>Then they might eat, and the poor Soldiers Widdows,</L>
+<L>And Children too might all be kept from starving.</L>
+</SP>
+<SP>
+<SPEAKER>Raw.</SPEAKER>
+<L>My Lord in speaking thus you tax the Queen</L>
+<L>Of Weakness and Injustice both, and that</L>
+<L>She favours none but Worthless Persons.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Must we return this stubborn Answer to her?</L>
+<L>You'l not obey her Majesty, nor here</L>
+<L>Resign your Staff of Offices to us?</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Tell her what e're thy malice can invent;</L>
+<L>Yet if thou sayst I'll not obey the Queen,</L>
+<L>I tell thee Lord,</L>
+<L>'Tis false, false as thy most inveterate Soul</L>
+<L>That looks through the foul Prison of thy Body,</L>
+<L>And curses all she sees at liberty—</L>
+<L>I tell thee creeping thing, the Queen's too good,</L>
+<L>More merciful than to condemn a Slave,</L>
+<L>Much less her <HI>Essex</HI> wichout hearing him—</L>
+<L>I will appeal to her—</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>You'l not believe us,</L>
+<L><PB N="23" REF="16"/>
+Nor that it was by her Command we came.</L>
+</SP>
+<SP>
+<SPEAKER>Essex.</SPEAKER>
+<L>I do not.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Fare you well my Lords.</L>
+</SP>
+<STAGE>[<HI>Exeunt</HI> Burleigh <HI>and</HI> Rawleigh.</STAGE>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Go thou</L>
+<L>My brave <HI>Southampton,</HI> follow to the Queen,</L>
+<L>And quickly e're my cruel Foes are heard,</L>
+<L>Tell her that thus her faithful <HI>Essex</HI> says,</L>
+<L>This Star she deck'd me with; and all these honours else,</L>
+<L>In one blest hour, when scarce my tender years</L>
+<L>Had reach'd the Age of Man, she heap'd upon me,</L>
+<L>As if the Sun that sows the Seeds of Gemms</L>
+<L>And golden Mines had showr'd upon my head,</L>
+<L>And drest me like the Bridegroom of her favour.</L>
+<L>This thou beheldst, and Nations wonder'd at,</L>
+<L>The World had not a Favourite so great,</L>
+<L>So lov'd as I.</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>And I am witness too</L>
+<L>How many gracious Smiles she blest 'em with,</L>
+<L>And parted with a Look with every Favour,</L>
+<L>Was doubly worth the Gift, whilst the whole Court</L>
+<L>Was so well pleas'd, and shew'd their wondrous joy</L>
+<L>In shouting louder than the <HI>Roman</HI> Bands</L>
+<L>When <HI>Iulius</HI> and <HI>Augustus</HI> were made Consuls.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Thou canst remember too; for all she said was signal,</L>
+<L>That at the happy time she did invest</L>
+<L>Her <HI>Essex</HI> with this Robe of shining Glories,</L>
+<L>She bad me prize 'em as I wou'd my Life,</L>
+<L>Defend 'em as I wou'd her Crown and Person:</L>
+<L>Then a rich Sword she put into my Hand,</L>
+<L>And wish'd me <HI>Caesars</HI> Fortune; so she grac'd me.</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>So young <HI>Alcides,</HI> when he first wore Arms,</L>
+<L>Did fly to kill the <HI>Eremanthean</HI> Boar,</L>
+<L>And so <HI>Achilles,</HI> first by <HI>Thaetis</HI> made</L>
+<L>Immortal, hasted to the Siege of <HI>Troy.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Go thou <HI>Southampton;</HI> for thou art my Friend,</L>
+<L>And such a Friend's an Angel in distress;</L>
+<L>Now the false Globe that flatter'd me is gone,</L>
+<L>Thou art to me more Wealth, more Recompence</L>
+<L>Than all the World was then—Intreat the Queen</L>
+<L>To bless me with a Moments sight,</L>
+<L><PB N="24" REF="17" MS="y"/>
+And I will lay her Reliques humbly down,</L>
+<L>As travelling Pilgrims do before the Shrines</L>
+<L>Of Saints they went a thousand Leagues to visit,</L>
+<L>And her bright Virgin Honours all untainted,</L>
+<L>Her Sword not spoil'd with rust, but wet with blood,</L>
+<L>All Nations blood that disobey'd my Queen;</L>
+<L>This Staff that disciplin'd her Kingdoms once,</L>
+<L>And triumph'd o're an hundred Victories;</L>
+<L>And if she will be pleas'd to take it, sav</L>
+<L>My Life, the Life of once her Darling <HI>Essex.</HI></L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>I fly my Lord, and let your hopes repose</L>
+<L>On the kind Zeal <HI>Southampton</HI> has to serve you.</L>
+<STAGE>[<HI>Ex.</HI> Southampton.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Where art thou <HI>Essex!</HI> where are now thy Glories!</L>
+<L>Thy Summers Garlands, and thy Winters Lawrels,</L>
+<L>The early Songs that ev'ry morning wak'd thee;</L>
+<L>Thy Halls, and Chambers throng'd with Multitudes,</L>
+<L>More than the Temples of the <HI>Persian</HI> God</L>
+<L>To worship thy uprising, and when I appear'd,</L>
+<L>The blushing Empress of the East, <HI>Aurora,</HI></L>
+<L>Gladded the World not half so much as I:</L>
+<L>Yesterday's Sun saw his great Rival thus,</L>
+<L>The spiteful Plannet saw me thus ador'd,</L>
+<L>And some tall-built Pyramid, whose Height</L>
+<L>And golden Top confronts him in his sky,</L>
+<L>He tumbles down with lightning in his rage;</L>
+<L>So on a sudden has he snatcht my Garlands,</L>
+<L>And with a Cloud impal'd my gawdy Head,</L>
+<L>Struck me with Thunder, dasht me from the Heav'ns,</L>
+<L>And oh! 'tis Dooms-day now, and darkness all with me.</L>
+<L>Here I'll lie down—Earth will receive her Son.</L>
+<L>Take Pattern all by me, you that hunt glory,</L>
+<L>You that do climb the Rounds of high Ambition;</L>
+<L>Yet when y'ave reach'd, and mounted to the Top,</L>
+<L>Here you must come by just degrees at last,</L>
+<L>If not fall Headlong down at once like me—</L>
+<L>Here I'll abide close to my loving Center:</L>
+<L>For here I'me sure that I can fall no further.—</L>
+<STAGE>Enter Earl of <HI>Rutland.</HI></STAGE>
+<L>Ha! what makes thou here! Tell me fairest Creature?</L>
+<L><PB N="25" REF="17"/>
+Why art thou so in love with Misery,</L>
+<L>To come to be infected with my Woe,</L>
+<L>And disobey the angry Queen for me?</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Bless me my Angel, guard me from such Sounds;</L>
+<L>Is this the Language of a welcome Husband!</L>
+<L>Are these fit words for <HI>Essex</HI> Bride to hear!</L>
+<L>Bride I may truly call my self, for Love</L>
+<L>Had scarce bestow'd the Blessing of one Night,</L>
+<L>But snatch'd thee from these Arms.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>My Soul, my Love!</L>
+<L>Come to my Breast thou purest Excellence,</L>
+<L>And throw thy lovely Arms about my Neck,</L>
+<L>More soft, more sweet, more loving than the Vine.</L>
+<L>Oh! I'm o'recome with Joy, and sink beneath</L>
+<STAGE>[They embrace.</STAGE>
+<L>Thy Breast.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Take me along with thee my Dear—</L>
+<L>My <HI>Essex,</HI> wake my Love, I say:</L>
+<L>I am grown jealous of each Bliss without thee;</L>
+<L>There's not a Dream, an Extasie or Joy,</L>
+<L>But I will double in thy ravish'd Senses.</L>
+<L>Come let's prepare, and mingle Souls together,</L>
+<L>Thou shalt lose nothing but a gainer be:</L>
+<L>Mine is as full of Love as thine can be.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Where have I been! But yet I have thee still—</L>
+<L>Come sit thee down upon this humble Floor,</L>
+<L>It was the first kind Throne that Love e're had.</L>
+<L>Thus like the first bright Couple let's embrace,</L>
+<L>And fansie all around is Paradice.</L>
+<L>It must be so; for all is Paradice</L>
+<L>Where thou remainst, thou lovelier far than <HI>Eve.</HI></L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>And thou more brave, and nobler Person far,</L>
+<L>Than the first Man, whom Heav'ns peculiar Care</L>
+<L>Made for a Pattern for ingenious Nature,</L>
+<L>Which ne'r till thee excell'd th' Original.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Thus when th' Almighty form'd the lovely Maid,</L>
+<L>And sent her to the Bower where <HI>Adam</HI> lay,</L>
+<L>The first of Men awak'd, and starting from</L>
+<L>His mossey flow'ry Bed whereon he slept,</L>
+<L>Lifted his eyes, and saw the Virgin coming,</L>
+<L>Saw the bright Maid that glitter'd like a Star,</L>
+<L><PB N="26" REF="18"/>
+Stars he had seen, but ne'r saw one so fair.</L>
+<L>Thus they did meet, and thus they did embrace,</L>
+<L>Thus in the Infancy of pure desire,</L>
+<L>E're Lust, Displeasures, Jealousies, and Fears</L>
+<L>Debauch'd the World, and plagu'd the Breast of Man;</L>
+<L>Thus in the dawn of golden Time, when Love,</L>
+<L>And only Love taught Lovers what to do.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>O thou most dear, most priz'd of all Mankind;</L>
+<L>I burn, I faint, I'm ravish'd with thy Love;</L>
+<L>The Feavor is too hot,</L>
+<L>It scorches, Flames like pure AEthaerial Fire,</L>
+<L>And 'tis not Flesh and Blood, but Spirits can bear it,</L>
+<L>And those the brightest of Angelick Forms.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>That is thy self, thy only self, thou fairest;</L>
+<L>There's not in Heav'n so bright a Cherubin;</L>
+<L>No Angel there but for thy Love wou'd dye;</L>
+<L>The Thrones are all less happy there than I.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>O my best Lord! the Queen, the Queen my Love!</L>
+<L>Ah what have we committed to undo us!</L>
+<L>The Pow'rs are angry, and have sent the Queen,</L>
+<L>The jealous Queen of all our innocent Joys,</L>
+<L>To drive us from our Paradice of Love;</L>
+<L>And oh my Lord! she will not ere't be long</L>
+<L>Allow us this poor Plat, this Ground to mourn on:</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Weep not my Soul, my Love, my infinite All—</L>
+<L>Ah what cou'd I express if there were words</L>
+<L>To tell how much, how tenderly my Thoughts</L>
+<L>Adore thee—Ah these tears are drops of Blood,</L>
+<L>Thy <HI>Essex</HI> Blood, my World, my Heav'n, my Bride—</L>
+<L><GAP DESC="illegible" REASON="faint" EXTENT="1 word" DISP="〈◊〉"/> there's the Start of all my Joyes beside,</L>
+<L>Blest that I am that I can call thee Wife,</L>
+<L>That loves so well, and is so well belov'd.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>A hold my Lord, what shall I say of you,</L>
+<L>That best deserves a Love so well you speak of.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Again thou weepst—By Heav'n there's not a Tear</L>
+<L>But weighs more than the Wealth of <HI>England's</HI> Crown.</L>
+<L>O thou bright Storer of all Vertues, were there</L>
+<L>But so much Goodness in thy Sex beside,</L>
+<L>It were enough to save all Womand-kind,</L>
+<L>And keep 'em from Damnation—Still thou weepst—</L>
+<L><PB N="27" REF="18"/>
+Come let me kiss thy Eyes, and catch those Pearls,</L>
+<L>Hold thy Cheeks close to mine that none may fall,</L>
+<L>And spare me some of these Celestial Drops.</L>
+<L>Thus as two Turtles driven by a Storm,</L>
+<L>Dropping and weary, shelter'd on a Bough,</L>
+<L>Begin to joyn their Melancholly voices,</L>
+<L>Then thus they Bill, and thus renew their Joyes,</L>
+<L>With quivering Wings, and Cooing Noats repeat</L>
+<L>Their Loves, and thus like us bemoan each other.</L>
+</SP>
+<STAGE><HI>Enter</HI> a Lady.</STAGE>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Madam, the Queen expects you instantly.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Ah, what wou'd wish to be of humane kind!</L>
+<L>Man in his Life scarce finds a Moments bliss,</L>
+<L>But counts a thousand Pains for one short Pleasure,</L>
+<L>And when that comes 'tis snatch'd away like ours.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Go my best hopes, obey the Cruel Queen—</L>
+<L>I had forgot; thy Love, thy beauties charm'd me,</L>
+<L>Dearer than <HI>Albion</HI> to the Saylors sight</L>
+<L>Whom many years bar'd from his Native Country;</L>
+<L>Looking on thee, I gaz'd my Soul away,</L>
+<L>And quite forgot the dangerous Wrecks below—</L>
+<L>Farewell—Nay then thou'lt soften me to Fondness—</L>
+<L>The Queen may change, and we may meet again.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Farewell.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>So have I seen a tall rich Ship of <HI>India</HI></L>
+<L>Of mighty Bulk teeming with golden Oar,</L>
+<L>With prosperous Gales come sayling nigh the shore;</L>
+<L>Her Train of Pendants born up by the Wind;</L>
+<L>The gladsome Seas proud of the lovely weight,</L>
+<L>Now lift her up above the sky in height,</L>
+<L>And then as soon th' officious Waves divide,</L>
+<L>Hug the gay Thing, and clasp her like a Bride,</L>
+<L>Whilst Fishes play, and Dolphins gather round,</L>
+<L>And <HI>Trytons</HI> with their Coral Trumpets sound;</L>
+<L>Till on a hidden Rock at last she's born,</L>
+<L>Swift as our Fate, and thus in Pieces torn.</L>
+</SP>
+<STAGE><HI>Exeunt</HI> severally.</STAGE>
+<TRAILER>Finis Actus Secundi.</TRAILER>
+</DIV2>
+<DIV2 N="3" TYPE="act and scene">
+<PB N="28" REF="19"/>
+<HEAD>Actus Tertius▪ Scoena Prima.</HEAD>
+<STAGE><HI>Countess of</HI> Nottingham, Burleigh.</STAGE>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>NOw famous <HI>Cecil, England</HI> owes to thee</L>
+<L>More than <HI>Rome's</HI> State did once to <HI>Cicero</HI> pay,</L>
+<L>That crusht the vast Designs of <HI>Cataline.</HI></L>
+<L>But what did he? Quell'd but a petty Consul,</L>
+<L>And sav'd a Common-wealth; but thou'ast done more,</L>
+<L>Pull'd down a haughtier far than <HI>Cataline,</HI></L>
+<L>The Nations sole Dictator for Twelve years,</L>
+<L>And sav'd a Queen and Kingdoms by thy Wisdom.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>But what the <HI>Roman</HI> Senate then allow'd,</L>
+<L>Nay, and proud <HI>Cicero</HI> himself to <HI>Fulvia;</HI></L>
+<L><HI>Fulvia</HI> the lovely Saver of her Countrey,</L>
+<L>Must all and more be now Ascrib'd to you,</L>
+<L>To the sole Wit of beauteous <HI>Nottingham;</HI></L>
+<L>But I will cease and let the Nation praise thee,</L>
+<L>And fix thy Statue high, as was <HI>Minerva's,</HI></L>
+<L>The great <HI>Paladium</HI> that protected <HI>Ilium</HI>—</L>
+<L>I came t'attend the Queen, where is she gone?</L>
+</SP>
+<SP>
+<SPEAKER>Not.</SPEAKER>
+<L>She went to her Closet, where, she's now alone▪</L>
+<L>As she past by, I saw her lovely Eyes</L>
+<L>Clouded in Sorrow, and before she spy'd me,</L>
+<L>Sad Murmurs Eccho'd from her troubled Breast,</L>
+<L>And straight some Tears follow'd the mournful Sound▪</L>
+<L>Which when she did perceive me, she'd have hid▪</L>
+<L>And with a pitteous Sigh she strove to wipe</L>
+<L>The drops away, but with her hast she left</L>
+<L>Some sad remains upon her dewy Cheeks.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>What should the Reason be!</L>
+</SP>
+<SP>
+<SPEAKER>Not.</SPEAKER>
+<L>At <HI>Essex</HI> answer,</L>
+<L>What said she then?</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>No doubt th' affront had stung her;</L>
+<L>But kind <HI>Southampton</HI> faithful to his friend</L>
+<L>In all things came, and with a cunning Tale,</L>
+<L>Which she too willingly inclin'd to hear,</L>
+<L><PB N="29" REF="19"/>
+Turn'd her to mildness, and at his Request,</L>
+<L>Promis'd to see the Earl, and hear him speak</L>
+<L>To vindicate his Crimes, which bold <HI>Southampton</HI></L>
+<L>Declar'd to be his Enemies Aspersions;</L>
+<L>And now is <HI>Essex</HI> sent for to the Court.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Then I am lost, and my designs unravell'd.</L>
+<L>If once she see's him, all's undone again—</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Behold the Closet opens—see the Queen—</L>
+<L>'Tis dangerous to interrupt her—let's Retire.</L>
+</SP>
+<SP>
+<SPEAKER>Not.</SPEAKER>
+<L>Be you not seen; I'le wait within her call.</L>
+</SP>
+<STAGE>Enter the Queen alone as from her Closet,</STAGE>
+<STAGE>Exit Burleigh.</STAGE>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>Where am I now? Why wander I alone?</L>
+<L>What drags my Body forth without a mind,</L>
+<L>In all things like a Statue, but in motion?</L>
+<L>There's something I wou'd say, but know not what,</L>
+<L>Nor yet to whom—O wretched State of Princes!</L>
+<L>That never can enjoy, nor wish to have,</L>
+<L>What is but meanly in its self a Crime,</L>
+<L>But 'tis a Plague, and Reigns through all the World.</L>
+<L>Faults done by us are like licentious Laws,</L>
+<L>Ador'd by all the Rabble, and are easier,</L>
+<L>And sooner far obey'd, than what are honest;</L>
+<L>And Comets are less dreadful than our failings—</L>
+<L>Where hast thou bin?</L>
+<L>I thought dear <HI>Nottingham,</HI> I'de been alone.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Pardon this bold Intrusion, but my Duty</L>
+<L>Urges me farther—On my Knees I first</L>
+<L>Beg Pardon that I am so bold to ask it,</L>
+<L>Then, that you wou'd disclose what 'tis afflicts you;</L>
+<L>Something hangs heavy on your Royal Mind,</L>
+<L>Or else I fear you are not well.</L>
+</SP>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>Rise, pry▪ thee—</L>
+<L>I am in Health, and thank thee for thy Love,</L>
+<L>Only a little troubl'd at my People.</L>
+<L>I have Reign'd long, and they'r grown weary of me;</L>
+<L>New Crown's are like New Garlands, fresh, and lovely;</L>
+<L>My Royal Sun declines towards it's West,</L>
+<L>They'r hot, and tyr'd beneath its Autumn Beams—</L>
+<L><PB N="30" REF="20"/>
+Tell me, what say's the World of <HI>Essex</HI> coming?</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Much they do blame him for't, but think him brave.</L>
+</SP>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>What, when the Traytor serv'd me thus!</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Indeed, it was not well.</L>
+</SP>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>Not well; and was that all?</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>It was a very bold, and heinous fault.</L>
+</SP>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>I was it not; and such a base Contempt</L>
+<L>As he deserves to dye for? less than that</L>
+<L>Has cost a hundred nearer Favourites Heads,</L>
+<L>Since the first Saxon King that Reign'd in <HI>England,</HI></L>
+<L>And lately in my Royal Fathers time,</L>
+<L>Was not brave <HI>Buckingham</HI> for less Condemn'd,</L>
+<L>And lost not <HI>Wolsey</HI> all his Church Revenues,</L>
+<L>Nay, and his Life too, but that he was a Coward,</L>
+<L>And durst not live to feel the stroak of Justice.</L>
+<L>Thou know'st it too, and this most vile of men,</L>
+<L>That brave <HI>Northumberland,</HI> and <HI>Westmerland,</HI></L>
+<L>For lesser Crimes than his were both Beheaded.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Most true—Can <HI>Essex</HI> then be thought so guilty,</L>
+<L>And not deserve to dy?</L>
+</SP>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>To dy! to Wrack,</L>
+<L>And as his Treasons are the worst of all Mens,</L>
+<L>So I will have him plagu'd above the rest,</L>
+<L>His Limbs cut off, and plac'd to th' highest View,</L>
+<L>Not on low Bridges, Gates, and Walls of Towns,</L>
+<L>But on vast Pynacles that touch the Ske,</L>
+<L>Where all that pass, may in Derision say,</L>
+<L>Lo there is <HI>Essex,</HI> proud ingrateful <HI>Essex,</HI></L>
+<L><HI>Essex</HI> that brav'd the Justice of his Queen—</L>
+<L>Is not that well? Why dost not speak?</L>
+<L>And help thy Queen to rail against this Man.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Since you will give me leave, I will be plain,</L>
+<L>And tell your Majesty what all the World</L>
+<L>Says of that proud ingrateful Man;</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>Do so. Prythee what says the World of him, and me?</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Of you they speak no worse, than of dead Saints,</L>
+<L>And Worship you no less than as their God,</L>
+<L>Than Peace, than Wealth, or their Eternal hopes;</L>
+<L>Yet do they often wish with kindest Tears.</L>
+<L>Sprung from the purest Love, that you'd be pleas'd</L>
+<L><PB N="31" REF="20"/>
+To heal their Grievances on <HI>Essex</HI> charg'd,</L>
+<L>And not protect the Traytor by your Power,</L>
+<L>But give him up to Justice and to Shame</L>
+<L>For a Revenge of all your wrongs, and theirs.</L>
+</SP>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>What, would they then prescribe me Rules to Govern!</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>No more but with submission as to Heavn;</L>
+<L>But upon <HI>Essex</HI> they unload Reproaches,—</L>
+<L>And give him this bad Character,</L>
+<L>They say he is a Person (bateing his Treasons)</L>
+<L>That in his Noblest, best Array of parts,</L>
+<L>He scarcely has enough to make him pass</L>
+<L>For a brave Man, nor yet a Hypocrite,</L>
+<L>And that he wears his Greatness, and his Honours</L>
+<L>Foolish, and Proud as Lacquies wear gay Liveries:</L>
+<L>Valliant they will admit he is, but then</L>
+<L>Like Beasts precipitately Rash, and Bruitish,</L>
+<L>Which is no more Commendable in him</L>
+<L>Than in a Bear, a Leopard, or a Wolfe.</L>
+<L>He never yet had Courage over Fortune,</L>
+<L>And which too shews his natural Pride the more,</L>
+<L>He Roars, and staggers under small Affronts,</L>
+<L>And can no more endure the pain than Hell;</L>
+<L>Then he's as Covetous, and more Ambitious</L>
+<L>Than that first Fiend that sow'd the Vice in Heav'n,</L>
+<L>And therefore was Dethron'd and Tumbl'd thence;</L>
+<L>And so they wish that <HI>Essex</HI> too may fall.</L>
+</SP>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>Enough, th'ast rail'd thy self quite out of Breath;</L>
+<L>I'le hear no more—Blisters upon her Tongue.</L>
+<STAGE>[Aside<GAP DESC="illegible" REASON="broken" EXTENT="1 letter" DISP="•"/>.</STAGE>
+<L>'Tis baseness tho in thee but to repeat,</L>
+<L>What the rude World malitiously has said;</L>
+<L>Nor dare the vilest of the Rabble think,</L>
+<L>Much less prophanely speak such horrid Treasons—</L>
+<L>Yet 'tis not what they say, but what you'd have e'm.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Did not your Majesty Command me speak?</L>
+</SP>
+<SP>
+<SPEAKER>Quee.</SPEAKER>
+<L>I did, but then I saw thee on a suddain,</L>
+<L>Settle thy Senses all in eager Postures,</L>
+<L>Thy Lips, thy Speech, and Hands were all prepar'd,</L>
+<L>A, joyful Red painted thy envious Cheeks,</L>
+<L>Malitious Flames flasht in a moment from</L>
+<L>Thy Eyes like Lightning from thy O'recharg'd Soul,</L>
+<L><PB N="32" REF="21"/>
+And fir'd thy Breast, which like a hard ramm'd Piece,</L>
+<L>Discharg'd unmannerly upon my face.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Pardon bright Queen, most Royal and belov'd,</L>
+<L>The manner of expressing of my Duty;</L>
+<L>But you your self began and taught me first.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>I am his Queen, and therefore may have leave:</L>
+<L>May not my self have priviledge to mould</L>
+<L>The Thing I made, and use it as I please?</L>
+<L>Besides he has committed monstrous Crimes</L>
+<L>Against my Person, and has urg'd me far</L>
+<L>Beyond the power of Mortal suffering.</L>
+<L>Me he has wrong'd, but thee he never wrong'd.</L>
+<L>What has poor <HI>Essex</HI> done to thee? Thou hast</L>
+<L>No Crown that he cou'd hope to gain,</L>
+<L>No Laws to break, no Subjects to molest,</L>
+<L>Nor Throne that he cou'd be ambitious of—</L>
+<L>What pleasure cou'dst thou take to see</L>
+<L>A drowning man knock'd on the head, and yet</L>
+<L>Not wish to save the miserable Wretch!</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>I was too blame.</L>
+</SP>
+<SP>
+<SPEAKER>Qu.</SPEAKER>
+<L>No more—</L>
+<L>Thou seest thy Queen, the World, and Destiny</L>
+<L>It self against this one bad Man, and him</L>
+<L>Thou canst not pity nor excuse.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Madam—</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Begone, I do forgive thee; and bid <HI>Rutland</HI></L>
+<STAGE>[<HI>Exit</HI> Not∣tingham.</STAGE>
+<L>Come to me straight—ha! what have I disclos'd?</L>
+<L>Why have I chid my Woman for a fault</L>
+<L>Which I wrung from her, and committed first?</L>
+<L>Why stands my jealous and tormented Soul</L>
+<L>A Spie to listen, and divulge the Treasons</L>
+<L>Spoke against <HI>Essex?</HI>—O you mighty Powers!</L>
+<L>Protectors of the Fame of <HI>Englands</HI> Queen,</L>
+<L>Let me not know it for a thousand Worlds,</L>
+<L>'Tis dangerous—But yet it will discover,</L>
+<L>And I feel something whispering to my Reason,</L>
+<L>That says it is—O blotted be the Name</L>
+<L>For ever from my Thoughts. If it be so,</L>
+<L>And I am stung with thy Almighty Dart,</L>
+<L>I▪ll die, but I will tear thee from my Heart,</L>
+<L><PB N="33" REF="21"/>
+Shake off this hidious Vapour from my Soul,</L>
+<L>This haughty Earl, the Prince of my Controul;</L>
+<L>Banish this Traytor to his Queens repose,</L>
+<L>And blast him with the malice of his Foes:</L>
+<L>Were there no other way his guilt to prove,</L>
+<L>'Tis Treason to insect the Throne with Love.</L>
+<STAGE>Enter Countess of <HI>Essex.</HI></STAGE>
+<L>How now my <HI>Rutland?</HI> I did send for you—</L>
+<L>I have observ'd you have been sad of late.</L>
+<L>Why wearest thou black so long? and why that Cloud,</L>
+<L>That mourning Cloud about thy lovely Eyes?</L>
+<L>Come, I will find a noble Husband for thee.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Ah mighty Princess, most ador'd of Queens!</L>
+<L>Your Royal Goodness ought to blush, when it</L>
+<L>Descends to care for such a Wretch as I am.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Why sayst thou so, I love thee well, indeed</L>
+<L>I do, and thou shalt find by this 'tis truth—</L>
+<L>Injurious <HI>Nottingham,</HI> and I had some</L>
+<L>Dispute, and 'twas about my Lord of <HI>Essex</HI>—</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Ha!</L>
+</SP>
+<STAGE>[Aside.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>So much that she displeas'd me strangely,</L>
+<L>And I did send her from my sight in anger.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>O that dear Name oth' sudden how it starts me!</L>
+<L>Makes ev'ry Vein within me leave its Channel,</L>
+<L>To run, and to protect my feeble Heart;</L>
+<L>And now my Blood as soon retreats again</L>
+<L>To croud with blushes full my guilty Cheeks—</L>
+<L>Alas I fear.</L>
+</SP>
+<STAGE>Aside,</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Thou blushest at my Story!</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Not I, my Gracious Mistress, but my Eyes</L>
+<L>And Cheeks fir'd and amaz'd with joy, turn'd red</L>
+<L>At such a Grace that you were pleas'd to shew me.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>I'll tell thee then, and ask thee thy Advice.</L>
+<L>There is no doubt, dear <HI>Rutland,</HI> but thou hear'st</L>
+<L>The daily Clamours that my People vent</L>
+<L>Against the most unhappy Earl of <HI>Essex,</HI></L>
+<L>The Treasons that they wou'd impeach him of,</L>
+<L>And which is worse, this day he is arriv'd</L>
+<L><PB N="34" REF="22"/>Against my strict Commands, and left Affairs</L>
+<L>In <HI>Ireland</HI> desp'rate, headless, and undone.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Might I presume to tell my humble mind,</L>
+<L>Such Clamours very often are design'd</L>
+<L>More by the Peoples Hate than any Crimes</L>
+<L>In those they wou'd accuse.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Thou speak'st my sence;</L>
+<L>But oh dear <HI>Rutland,</HI> he has been to blame.—</L>
+<L>Lend me thy Breast to lean upon—O'tis</L>
+<L>A heavy Yoke they wou'd impose on me</L>
+<L>Their Queen, and I am weary of the Load,</L>
+<L>And want a Friend like thee to lull my Sorrows.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Behold these tears sprung from fierce Pain and Joy,</L>
+<L>To see your wond'rous Grief, your wond'rous Pitty.</L>
+<L>O that kind Heav'n wou'd but instruct my thoughts,</L>
+<L>And teach my Tongue such soft'ning, healing Words,</L>
+<L>That it might charm your Soul, and cure your Breast</L>
+<L>For ever.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Thou art my better Angel then,</L>
+<L>And sent to give me everlasting quiet—</L>
+<L>Say, is't not pitty that so brave a Man,</L>
+<L>And one that once was reckon'd as a God,</L>
+<L>That he should be the Author of such Treason!</L>
+<L>That he, that was like <HI>Caesar,</HI> and so great,</L>
+<L>Has had the Power to make, and unmake Kings,</L>
+<L>Shou'd stoop to gain a petty Throne from me.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>I can't believe 'tis in his Soul to think,</L>
+<L>Much less to act a Treason against you,</L>
+<L>Your Majesty, whom I have heard him so</L>
+<L>Commend, that Angels words did never flow</L>
+<L>With so much Eloquence, so rare, so sweet,</L>
+<L>That nothing but the Subject cou'd deserve.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Hast thou then heard him talk of me?</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>I have,</L>
+<L>And as of so much Excellence as if</L>
+<L>He meant to make a rare Encomium on</L>
+<L>The World, the Stars, or what is brighter, Heaven.</L>
+<L>She is, said he, the Goddess of her Sex,</L>
+<L>So far beyond all Woman-kind beside,</L>
+<L>That what in them is most ador'd, and lov'd,</L>
+<L><PB N="35" REF="22"/>Their Beauties, Parts, and other Ornaments,</L>
+<L>Are but in her the Foyls to greater Luster,</L>
+<L>And all perfections else, how rare soever,</L>
+<L>Are in her Person but as lesser Gleams,</L>
+<L>And infinite Beams that usher still the Sun,</L>
+<L>But scarce are visible amidst her other Brightness.</L>
+<L>And then she is so good it might be said,</L>
+<L>That whilst she lives, a Goddess reigns in <HI>England:</HI></L>
+<L>For all her Laws are register'd in Heaven,</L>
+<L>And copy'd thence by her—But then he cry'd,</L>
+<L>With a deep sigh fetch'd from his loyal Heart,</L>
+<L>Well may the World bewail that time at last,</L>
+<L>When so much Goodness shall on Earth be mortal,</L>
+<L>And wretched <HI>England</HI> break it's stubborn Heart.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Did he say all this?</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>All this! nay more,</L>
+<L>A thousand times as much, I never saw him</L>
+<L>But his discourse was still in praise of you;</L>
+<L>Nothing but Raptures fell from <HI>Essex</HI> Tongue:</L>
+<L>And all was still the same, and all was you.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Such words spoak Loyalty enough.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Then does</L>
+<L>Your Majesty believe that he can be</L>
+<L>A Traytor?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>No, yet he has broak the Laws,</L>
+<L>And I for shame no longer can Protect him;</L>
+<L>Nay, durst not see him?</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>What not see him say you!</L>
+<L>By that bright Star of Mercy in your Soul,</L>
+<L>And listening through your Eyes, let me intreat:</L>
+<L>'Tis good, 'tis God-like, and like <HI>Englands</HI> Queen;</L>
+<L>Like only her to pitty the Distress'd—</L>
+<L>Will you not grant that he shall see you once?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>What he</L>
+<L>That did defie my absolute Commands,</L>
+<L>And brings himself audaciously before me!</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Impute it not to that, but to his danger,</L>
+<L>That hearing what proceedings, here had past</L>
+<L>Against his Credit and his Life, he comes</L>
+<L>Loyal, tho unadvised, to clear himself.</L>
+</SP>
+<SP>
+<PB N="36" REF="23"/>
+<SPEAKER>Queen.</SPEAKER>
+<L>Well, I will see him then, and see him straight—</L>
+<L>Indeed my <HI>Rutland,</HI> I would fain believe</L>
+<L>That he is honest still, as he is brave.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>O nourish that most kind belief, 'tis sprung▪</L>
+<L>From Justice in your Royal Soul—Honest!</L>
+<L>By your bright Majesty, he's faithful still,</L>
+<L>The pure and Virgin Light is less unteinted;</L>
+<L>The glorious Body of the Sun breeds Gnats,</L>
+<L>And Insects that molest its curious Beams;</L>
+<L>The Moon has spots upon her Christal Face,</L>
+<L>But in his Soul are none—And for his Valour,</L>
+<L>The Christian World Records its wond'rous Story.</L>
+<L>Baseness can never mingle with such Courage.</L>
+<L>Remember what a Scourge he was to Rebels,</L>
+<L>And made your Majesty ador'd in <HI>Spain</HI></L>
+<L>More than their King, that brib'd you with his <HI>Indies.</HI></L>
+<L>And made himself so dreadful to their Fears,</L>
+<L>His very Name put Armies to the Rout;</L>
+<L>It was enough to say here's <HI>Essex</HI> come;</L>
+<L>And Nurses still'd their Children with the Fright.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Ha! she's concern'd, Transported!</L>
+<L>I'll try her further—Then he has a Person!</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>I in his Person, there you sum up all.</L>
+<L>Ah Lovelyest <HI>Queen,</HI> did you e're see the like?</L>
+<L>The Limbs of <HI>Mars,</HI> and awful Front of Jove,</L>
+<L>With such a Harmony of Parts as put</L>
+<L>To blush the Beauties of his Daughter <HI>Venus,</HI></L>
+<L>A Pattern for the Gods to make a perfect Man by,</L>
+<L>And <HI>Michael Angelo</HI> to frame a Statue</L>
+<L>To be ador'd through all the wond'ring World.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>I can indure no more—Hold <HI>Rutland,</HI></L>
+<L>Thy Eyes are moist, thy Senses in a hurry,</L>
+<L>Thy words come crouding one upon another.</L>
+<L>Is it a real Passion, or extorted?</L>
+<L>Is it for <HI>Essex.</HI> sake or for thy Queens,</L>
+<L>That makes this furious Transport in thy mind?</L>
+<L>She loveshim—Ah, 'tis so—What have I done?</L>
+<L>Conjur'd another Storm to Rack my Rest?</L>
+<L>Thus is my Mind with quiet never blest,</L>
+<L><PB N="37" REF="23"/>But like a loaded Bark finds no repose,</L>
+<L>When 'tis becalm'd, nor when the Weather blows.</L>
+</SP>
+<STAGE>Enter <HI>Burleigh,</HI> Countess of <HI>Nottingham, Rawleigh,</HI> Lords, Atten∣dants
+and Guards.</STAGE>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>May't please your Majesty the Earl of <HI>Essex</HI></L>
+<L>Return'd by your Command, intreats to kneel</L>
+<L>Before you.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Now hold out my Treacherous heart,</L>
+<L>Guard well the breach that this proud Man has made—</L>
+<STAGE>Aside.</STAGE>
+<L><HI>Rutland,</HI> we must defer this Subject till</L>
+<L>Some other time—Come hither <HI>Nottingham.</HI></L>
+</SP>
+<STAGE>Enter the Earles of <HI>Essex</HI> and <HI>Southampton</HI> Attended.</STAGE>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Behold your <HI>Essex</HI> kneels to clear himself</L>
+<L>Before his Queen, and now receive his Doom.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>I must divert my Fears—I see he takes the way</L>
+<L>To bend the sturdy temper of my Heart—</L>
+<L>Well my Lord, I see you can</L>
+<L>Withstand my Anger, as you lately boasted</L>
+<L>You did your Enemies—Were they such Foes</L>
+<L>As bravely did resist, or else the same</L>
+<L>You Parly'd with? It was a mighty Courage.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Well, well, you cruel Fates! well have you found</L>
+<L>The way to shock the Basis of a Temper;</L>
+<L>That all your malice else cou'd ne're invent,</L>
+<L>And you my Queen to break your Souldiers Heart.</L>
+<L>Thunder and Earth-quakes, Prodigies on Land</L>
+<L>I've born, Devouring Tempests on the Seas,</L>
+<L>And all the horrid stroaks beside</L>
+<L>That Nature e're invented; yet to me</L>
+<L>Your scorne is more—Here take this Traytor,</L>
+<L>Since you will have me so; throw me to Dungeons▪</L>
+<L>Lash me with Iron Rods fast bound in Chains,</L>
+<L>And like a Fiend in Darkness let me roar,</L>
+<L>It is the nobler Justice of the Two.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>I see you want no cunning skill to talk,</L>
+<L>And daub with words a Guilt you wou'd evade—</L>
+<L><PB N="38" REF="24"/>But yet my Lord if you wou'd have us think</L>
+<L>Your virtues wrong'd, wash off the stain you carry,</L>
+<L>And clear your self of Parlying with the Rebels—</L>
+<L>Grant Heav'n he does but that, and I am happy.</L>
+</SP>
+<STAGE>[Aside.</STAGE>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>My Parlying with the Enemy?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Yes, your secret treating with <HI>Tyrone</HI> I mean,</L>
+<L>And making Articles with <HI>Englands</HI> Rebels.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Is that alledg'd against me for a Fault,</L>
+<L>Put in your Royal Breast by some that are</L>
+<L>My false Accusers for a Crime? Just Heaven!</L>
+<L>How easie 'tis to make a Great Man Fall,</L>
+<L>'Tis Wise, 'tis Turkish Policy in Courts,</L>
+<L>For Treating!</L>
+<L>Am I not yet your General, and was</L>
+<L>I not so there by virtue of this Staff?</L>
+<L>I thought your Majesty had giv'n me Power,</L>
+<L>And my Commission had been absolute</L>
+<L>To Treat, to Fight, give Pardons, or Disband:</L>
+<L>So much and vast was my Authority,</L>
+<L>That you were pleas'd to say as Mirth to others,</L>
+<L>I was the first of <HI>English</HI> Kings that Reign'd</L>
+<L>In <HI>Ireland.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>O how soon wou'd I believe,</L>
+<L>How willingly approve of such Excuses,</L>
+<L>His Answers which to all the Croud are weak—</L>
+<STAGE>Aside.</STAGE>
+<L>That large Commission had in it no Power,</L>
+<L>That gave you leave to Treat with Rebels,</L>
+<L>Such as <HI>Tyrone,</HI> and wanted not Authority</L>
+<L>To Fight 'em on the least Advantage.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>The Reason why</L>
+<L>I lead not forth the Army to the North,</L>
+<L>And fought not with <HI>Tyrone,</HI> was, that my Men</L>
+<L>Were half consum'd with Fluxes and Diseases,</L>
+<L>And those that liv'd, so weaken'd and unfit,</L>
+<L>That they cou'd fearce defend them from the Vultures</L>
+<L>That took 'em for the Carrion of an Army.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Oh I can hold no longer, he'll not hide his Guilt.</L>
+<L>I fear he will undo himself and me—</L>
+<STAGE>Aside.</STAGE>
+<L>Name that no more for shame of Thee the Cause,</L>
+<L>Nor hide thy Guilt by broaching of a worse;</L>
+<L><PB N="39" REF="24"/>Fain I wou'd tell, but whisper it in thy Eare,</L>
+<L>That none besides may hear, nay not my self:</L>
+<L>How vitious thou hast been—Say was not <HI>Essex</HI></L>
+<L>The Plague that first infected my poor Soldiers,</L>
+<L>And kill'd 'em with Diseases? Was't not he</L>
+<L>That Loyter'd all the year without one Action,</L>
+<L>Whilest all the Rebels in the North grew bold,</L>
+<L>And Rally'd dayly to the Queens Dishonour;</L>
+<L>Mean while thou stood'st and saw thy Army Rot</L>
+<L>In Fenny and unwholsome Camps—Thou hast</L>
+<L>No doubt a Just Excuse for coming too,</L>
+<L>In spite of all the Letters that I sent</L>
+<L>With my Commands to hinder thee—Be silent—</L>
+<L>If thou makest more such Impudent Excuses,</L>
+<L>Thoul't raise an Anger will be fatal to thee.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Not speak! Must I be Tortur'd on the Wrack,</L>
+<L>And not be suffer'd to discharge a Groan!</L>
+<L>Speak! Yes I will were there a thousand Deaths</L>
+<L>Stood ready to devour me; 'tis too plain</L>
+<L>My Life's Conspir'd, my Glories all betray'd:</L>
+<L>That Vulture <HI>Cecil</HI> there with hungry Nostrils</L>
+<L>Waits for my Blood, and <HI>Rawleigh</HI> for my Charge,</L>
+<L>Like Birds of Prey that seek out Fighting Fields,</L>
+<L>And know when Battail's near: nay, and my Queen</L>
+<L>Has past her Vote, I fear, to my Destruction.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Oh I'me undone! How he destroyes my Pitty!</L>
+<L>Cou'd I bear this from any other Man!</L>
+<L>He pulls and tears the Fury from my Heart</L>
+<L>With greater grief and pain, than a fork'd Arrow.</L>
+<L>Is drawn from forth the Bosom where 'twas lodg'd.</L>
+<L>Mild words are all in vain, and lost upon him—</L>
+<STAGE>Aside.</STAGE>
+<L>Proud and ingrateful Wretch, how durst thou say it!</L>
+<L>Know Monster that thou hast no Friend but me,</L>
+<L>And I have no pretence for it but one,</L>
+<L>And that's in Contradiction to the World,</L>
+<L>That Curses and abhors thee for thy <HI>Crimes.</HI></L>
+<L>Stir me no more with Anger for thy Life,</L>
+<L>Take heed how thou dost shake my wrongs too much,</L>
+<L>Least they fall thick and Heavy on thy Head.</L>
+<L>Yet thou shalt see what a rash Fool thou art—</L>
+<L><PB N="40" REF="25"/>Know then that I forgive thee from this Moment</L>
+<L>All that is past, and this unequall'd Boldness,</L>
+<L>Give thee that Life thou saidst I did Conspire against—</L>
+<L>But for your Offices—</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>I throw 'em at your Feet.</L>
+<STAGE>[Layes his Generals Staff down.</STAGE>
+<L>Now Banish him that Planted strength about you,</L>
+<L>Cover'd this Island with my spreading Lawrels,</L>
+<L>Whilest your safe Subjects slept beneath their shade.</L>
+<L>Give 'em to Courtiers, Sycophants and Cowards</L>
+<L>That sell the Land for Peace and Childrens Portions,</L>
+<L>Whilest I retreat to <HI>Africk</HI> in some Desart,</L>
+<L>Sleep in a Den and Heard with Valiant Brutes,</L>
+<L>And serve the King of Beasts, there's more Reward,</L>
+<L>More Justice there than in all Christian Courts:</L>
+<L>The Lion spar'd the Man that freed him from</L>
+<L>The Toyl, but <HI>Englands</HI> Queen abhors her <HI>Essex.</HI></L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>My Lord—</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Ah what will be th' Event of this!</L>
+</SP>
+<STAGE>[Aside.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Audacious Traytor.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Ha!</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>My Lord, My Lord, recall your Temper.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>You said that I was bold, but now who blames</L>
+<L>My Rage? Had I been ruff as Stormes and Tempests,</L>
+<L>Rash as <HI>Cethegus,</HI> mad as <HI>Ajax</HI> was,</L>
+<L>Yet this has ramm'd more Powder in my Breast,</L>
+<L>And blown a Magazeen of Fury up—</L>
+<L>A Traytor! Yes for serving you so well;</L>
+<L>For making <HI>England</HI> like the <HI>Roman</HI> Empire</L>
+<L>In Great <HI>Augustus</HI>'s Time, renoun'd in Peace</L>
+<L>At home, and War abroad; Enriching you</L>
+<L>With spoils both of the Wealthy Sea and Land,</L>
+<L>More than your <HI>Thames</HI> does bring you in an Age,</L>
+<L>And setting up your Fame to such a height</L>
+<L>That it appears the Column of the World;</L>
+<L>For tumbling down the proud Rebellious Earles,</L>
+<L><HI>Northumberland</HI> and <HI>Westermland,</HI> which caus'd</L>
+<L>The cutting both their Heads off with an Axe</L>
+<L>That sav'd the Crown on yours—This <HI>Essex</HI> did,</L>
+<L>And I'll remove the Traytor from your sight.</L>
+</SP>
+<SP>
+<PB N="41" REF="25"/>
+<SPEAKER>Queen.</SPEAKER>
+<L>Stay Sir, take your Reward along with you—</L>
+</SP>
+<STAGE>[Offers to go] the Queen comes up to him and gives him a Box on the Ear.</STAGE>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Ha! Furies, Death and Hell! a Blow!</L>
+<L>Has <HI>Essex</HI> had a Blow!—Hold, stop my Arme</L>
+<STAGE>[Layes hand on his Sword.</STAGE>
+<L>Some God—Who is't has giv'n it me? The Queen!</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>What do you mean my Lord!</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Unhand the Villain—</L>
+<L>Durst the vile Slave attempt to Murder me!</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>No, Y'are my Queen, that Charmes me, but by all</L>
+<L>The subtilty, and Woman in your Sex</L>
+<L>I Swear, that had you been a Man you durst not,</L>
+<L>Nay, your bold Father <HI>Harry</HI> durst not this</L>
+<L>Have done—Why say I him? not all the <HI>Harry's,</HI></L>
+<L>Nor <HI>Alexander</HI>'s self were he alive,</L>
+<L>Shou'd boast of such a Deed on <HI>Essex</HI> done</L>
+<L>Without Revenge.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Raile on, despair, and Curse thy Foolish breath,</L>
+<L>I'll leave thee like thy Hopes at th'hour of Death,</L>
+<L>Like the First Slayer wandering with a Mark,</L>
+<L>Shuning the Light, and wishing for the Dark,</L>
+<L>In Torments worse than Hell, when thou shalt see</L>
+<L>Thou hast by this Curst Chance lost Heav'n and me.</L>
+</SP>
+<STAGE><HI>Exeunt</HI> Queen, <HI>&amp;c. Manent</HI> Essex <HI>&amp;</HI> South.</STAGE>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>What have you done my Lord! Your haughty Carriage</L>
+<L>Has ruin'd both your self and all your Friends—</L>
+<L>Follow the Queen, and humbly on your Knees</L>
+<L>Implore Her Mercy, and confess your Fault.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Ha! And tell her that I'll take a Blow!</L>
+<L>Thou wou'dst not wish thy Friend were such a Slave—</L>
+<L>By Heav'n my Cheek has set on Fire my Soul,</L>
+<L>And the Disgrace sticks closer to my Heart,</L>
+<L>Than did the Son of Old <HI>Antipater</HI>'s,</L>
+<L>Which cost the Life of his proud Master—Stand off,</L>
+<L>Beware you lay not hands upon my Ruine,</L>
+<L>I have a Load would sink a Legion that</L>
+<L>Shou'd offer but to Save me.</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>My Lord let us retire,</L>
+<L>And shun this Barbarous Place.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>I, there thou say'st it—</L>
+<L><PB N="42" REF="26"/>Abhor all Courts if thou art brave and wise,</L>
+<L>For then thou never shalt be sure to rise;</L>
+<L>Think not by doing well a Fame to get,</L>
+<L>But be a Villain, and thou shalt be Great.</L>
+<L>Here Virtue stands by 't self, or not at all,</L>
+<L>Fools have Foundations, only brave Men Fall,</L>
+<L>But if ill Fate, and thy own Merits bring</L>
+<L>Thee once to be a Favourite to a King,</L>
+<L>It is a Curse that follows Loyalty,</L>
+<L>Curst in thy Merits, more in thy Degree,</L>
+<L>In all the sport of Chance its chiefest Aim,</L>
+<L>Mankind's the <HI>Hunt,</HI> a Favourite is the <HI>Game.</HI></L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<TRAILER>Finis Actus Tertii.</TRAILER>
+</DIV2>
+<DIV2 N="4" TYPE="act and scene">
+<HEAD>Actus Quartus. Scoena prima.</HEAD>
+<STAGE><HI>Countess of</HI> Nottingham, Rawleigh.</STAGE>
+<SP>
+<SPEAKER>C. Nott.</SPEAKER>
+<L>SIR, did you ever see so strange a Scene</L>
+<L>As <HI>Essex</HI> boldness? Nay, and which is more</L>
+<L>To be admir'd, the Queens Prodigious Patience!</L>
+</SP>
+<SP>
+<SPEAKER>Raw.</SPEAKER>
+<L>So Strange, that naught but such a Miracle</L>
+<L>Had Sav'd him from Death upon the Place.</L>
+</SP>
+<SP>
+<SPEAKER>C. Nott.</SPEAKER>
+<L>She's of a Nature wondrous in her Sex,</L>
+<L>Not hasty to admire the Beauties, Wisdom,</L>
+<L>Valour, and Parts in others though extream,</L>
+<L>Because there's so much Excellence in her self,</L>
+<L>And thinks that all Mankind shou'd be so too;</L>
+<L>But when once entertain'd, none cherishes,</L>
+<L>Exalts, or favours Virtue more than she,</L>
+<L>Slow to be mov'd, and in her Rage discreet—</L>
+<L>But then the Earl's like and ungovern'd Steed,</L>
+<L>That yet has all the Shapes and other Beauties</L>
+<L>That are commendable, or saught in one:</L>
+<L>His Soul with sullen Beames shines in it self,</L>
+<L><PB N="43" REF="26"/>More Jealous of Mens Eyes, than is the Sun</L>
+<L>That will not suffer to be look'd into;</L>
+<L>And there's a Mine of Sulpher in his Breast,</L>
+<L>Which when 'tis touch'd or heated, straight takes Fire,</L>
+<L>And tears, and Blows up all his Virtues with it.</L>
+</SP>
+<SP>
+<SPEAKER>Raw.</SPEAKER>
+<L>Ambitious Minds feed dayly upon Passion,</L>
+<L>And ne're can be at Rest within themselves,</L>
+<L>Because they never meet with Slaves enough</L>
+<L>To tread upon, Mechannicks do adore 'em,</L>
+<L>And Lords and States-men to have Cringes from;</L>
+<L>Like some of those strange Seas that I've been on,</L>
+<L>Whose Tydes are alwayes Violent and Ruff,</L>
+<L>Where Winds are seldom blowing to molest 'em.</L>
+<L>Sh'had done a Nobler Justice, if instead of</L>
+<L>That School-boyes Punishment a Blow,</L>
+<L>Sh'had snatch'd a Holbard from her nearest Guard,</L>
+<L>And thrust it to his Heart; for less than that</L>
+<L>Did the bold <HI>Macedonian</HI> Monarch kill</L>
+<L><HI>Clytus</HI> his Friend, and braver Souldier far.</L>
+</SP>
+<SP>
+<SPEAKER>C. Nott.</SPEAKER>
+<L>But worse had been th' Event of such a Deed,</L>
+<L>For if th'afflicted King was hardly brought</L>
+<L>From <HI>Clytus</HI> Body, she'd have dy'd o're his.</L>
+<L>But how proceed the bold Rebellious Lords</L>
+<L>In <HI>Essex</HI> House?</L>
+</SP>
+<SP>
+<SPEAKER>Raw.</SPEAKER>
+<L>Still they increase in number.</L>
+<L>The Queen has sent Four of her Chiefest Lords,</L>
+<L>And since I hear the Guards are gone. 'Tis said,</L>
+<L>For his Excuse, that <HI>Blunt</HI> that Fiend of Hell,</L>
+<L>And Brand of all his Master's wicked Councils,</L>
+<L>Has spread abroad this most abhorr'd of Lyes,</L>
+<L>That I and the Lord <HI>Gray</HI> shoud joyn to Murder him.</L>
+</SP>
+<SP>
+<SPEAKER>C. Nott.</SPEAKER>
+<L>Already then he's hunted to the Toyle,</L>
+<L>Where let him Roar, and lash himself with Fury,</L>
+<L>But never, never shall get out with strugling.</L>
+<L>Oh it o'rejoy'd th'Affront within my Soul,</L>
+<L>To see the Man by all the World ador'd,</L>
+<L>That like a Comet shin'd above, and rul'd below,</L>
+<L>To see him on a sudden from our Eyes</L>
+<L>Drop like a Star, and Vanish in the Ground;</L>
+<L><PB N="44" REF="27"/>To see him how he bit the cursed Torture</L>
+<L>That durst no further venture than his Lips,</L>
+<L>When he past by the Guards to hear no Noyes,</L>
+<L>No Room for Mighty <HI>Essex</HI> was Proclaim'd;</L>
+<L>No Caps, no Knees, nor Welcomes to salute him,</L>
+<L>Then how he Chaft, and started like a Deer</L>
+<L>With the fierce Dart fast sticking in his side,</L>
+<L>And finds his speedy death where e're he runs!</L>
+</SP>
+<SP>
+<SPEAKER>Raw.</SPEAKER>
+<L>Behold the Queen and the whole Court appear.</L>
+</SP>
+<STAGE>Enter the <HI>Queen, Burleigh, Countess of</HI> Nottingham, Lords, Attendants and Guards.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Are the Rebellious Earles then apprehended?</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>They are, thanks to the Almighty Powers,</L>
+<L>And the Eternal Fortune of your Majesty.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>And how did you proceed with my Commands?</L>
+<L>And how did the Rebels act?</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Most Audatiously:</L>
+<L>The Four Lords, chiefest of your Private Council,</L>
+<L>Sent thither by your Majesties Commission,</L>
+<L>Came to the Rebel's House, but found the Gates▪</L>
+<L>Guarded, and shut against them; yet at last</L>
+<L>Telling they brought a Message from the Queen,</L>
+<L>They were admitted, all besides, but him</L>
+<L>That bore the Seal before the Chancellor</L>
+<L>Deny'd: Entring they saw the outward Court</L>
+<L>Fill'd with a number of promiscuous Persons,</L>
+<L>The chief of which bold Traytors in the midst</L>
+<L>Stood the Two Earles, of <HI>Essex</HI> and <HI>Southampton,</HI></L>
+<L>Of whom your Faithful Messengers with loud</L>
+<L>And Loyal Voices did demand the Cause</L>
+<L>Of their unjust Assembly, telling them</L>
+<L>All real Grievances shou'd be redress'd;</L>
+<L>But straight their words were choak'd by louder Cryes,</L>
+<L>And by the Earles Command with Insolence</L>
+<L>The People drove 'em to a strong Apartment</L>
+<L>Belonging to the House, setting a Guard</L>
+<L>Of Muskets at the Door, and threatning them</L>
+<L>That they shou'd there be kept close Prisoners</L>
+<L><PB N="45" REF="27"/>Till the next Morning that the Earl return'd</L>
+<L>From Visiting his Friends the Citizens.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>O horrid Insolence! Attempt my Council!</L>
+<L>My nearest Friends! Well <HI>Essex</HI> well,</L>
+<L>I thank thee for the Cure of my Disease;</L>
+<L>Thou goest the readiest way to give me Ease—</L>
+<STAGE>Aside.</STAGE>
+<L>The City say'st! What did he in the City?</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>There, as I learn't from many that confest,</L>
+<L>He was inform'd the Citizens would rise,</L>
+<L>Which to promote, he went disguis'd like one</L>
+<L>Whom evil Fortune had bereav'd of Sence,</L>
+<L>And almost seem'd as pittiful a Wretch</L>
+<L>As <HI>Harpagus,</HI> that fled all o're dismember'd</L>
+<L>To fond <HI>Astyages,</HI> to gain the Trust</L>
+<L>Of all his <HI>Median</HI> Army to betray it.</L>
+<L>His Head was bare, the Heat and Dust had made</L>
+<L>His Manly Face compassionate to behold, which he</L>
+<L>So well did use, that sometimes with a voice</L>
+<L>That usher'd Tears both from himself and them,</L>
+<L>And sometimes with a popular Rage he ran</L>
+<L>With Fury through the Streets. To those that stood</L>
+<L>Far off he bended and made taking Signes:</L>
+<L>To those about him rais'd his voice aloud,</L>
+<L>And humbly did beseech 'em for a Guard,</L>
+<L>Told 'em he was attempted to be murder'd</L>
+<L>By some the Chief of th' Court, then counted all his wounds,</L>
+<L>Unstrip'd his Vest, and shew'd his naked Scars,</L>
+<L>Telling them what great Wonders he had done,</L>
+<L>And wou'd do more to serve 'em and their Children;</L>
+<L>Begging still louder to the stinking Rabble,</L>
+<L>And sweated too so many eager drops, as if</L>
+<L>He had been pleading for <HI>Rome's</HI> Consulship.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>How came he taken?</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>After he had us'd</L>
+<L>Such subtile means to gain your Subjects Hearts,</L>
+<L>(Your Citizens that ever were most Faithful,</L>
+<L>And too well grounded in their Loyalties</L>
+<L>To be seduc'd from such a Queen;) and finding▪</L>
+<L>That none began to Arme in his behalf;</L>
+<L>Fear and Confusion of his horrid Guilt</L>
+<L><PB N="46" REF="28"/>Possest him, and despairing of success,</L>
+<L>Attempted straight to walk through <HI>Lud-gate</HI> Home,</L>
+<L>But being resisted by some Companies</L>
+<L>Of the Trayn'd Bands that stood there in Defence,</L>
+<L>He soon retreated to the nearest Staires,</L>
+<L>And so came back by Water at the Time</L>
+<L>When your most Valiant Souldiers with their Leader</L>
+<L>Enter'd his House, and took <HI>Southampton</HI> and the Rest.</L>
+<L>Th'affrighted Earl Defenceless both in mind</L>
+<L>And body, without the Power to help himself;</L>
+<L>And being full of Horrour in his Thoughts,</L>
+<L>Was forc'd to run for shelter in the Room</L>
+<L>Of a small Summer House upon the <HI>Thames,</HI></L>
+<L>Which when the Souldiers came to search, and found him;</L>
+<L>Who then had Eyes, and did not melt for Pitty!</L>
+<L>To see the High, the Gallant <HI>Essex</HI> there</L>
+<L>Trembling and Panting like the frighted Quarry</L>
+<L>Whom the fierce Hawk had in his eager Eye.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Ha! By my Stars I think the mournful Tale</L>
+<L>Has almost made thee weep—Can <HI>Essex</HI> miseries</L>
+<L>Then force Compassion from thy Flinty Breast!</L>
+<L>'A weeps, the Crocodile weeps o're his Prey!</L>
+<L>How wretched and how low then art thou faln,</L>
+<L>That ev'n thy Barbarous Hunters can neglect</L>
+<L>Their Rage, and turn their cruel sport to pitty!</L>
+<L>What then must be my Lot? how many sighs,</L>
+<L>How many Griefs, Repentances and Horrours</L>
+<L>Must I Eternally indure for this!</L>
+<L>Where is the Earl?</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Under sufficient Guard</L>
+<L>In order to his sending to the Tower.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Ha, In the Tower! How durst they send him there</L>
+<L>Without my Order?</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Th'Earles are yet without</L>
+<L>In the Lieutenants Custody, who waites</L>
+<L>But to receive your Majesties Command</L>
+<L>To carry 'em thither.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>What shall I do now?</L>
+<L>Wake me thou watchful Genius of thy Queen,</L>
+<L>Rouze me, and Arme now against my Foe,</L>
+<STAGE>Aside.</STAGE>
+<L><PB N="47" REF="28"/>Pitty's my Enemy, and Love's my Foe,</L>
+<L>And both have equally Conspir'd with <HI>Essex.</HI></L>
+<L>Ha! Shall I then refuse to punish him!</L>
+<L>Condemn the Slave that disobey'd my Orders,</L>
+<L>That brav'd me to my Face, and did attempt</L>
+<L>To murder me, then went about to gain</L>
+<L>My Subjects Hearts, and seize my Crown.</L>
+<L>Now by my thousand wrongs 'a dyes, dyes quickly,</L>
+<L>And I cou'd Stab this Heart, if I but thought</L>
+<STAGE>Aside.</STAGE>
+<L>The Traytor in it to corrupt it—Away</L>
+<L>And send him to the Tower with speed—Yet hold.</L>
+</SP>
+<SP>
+<SPEAKER>C. Nott.</SPEAKER>
+<L>The Queen's distracted how to save the Earl—</L>
+<L>Her Study puts my Hatred on the Wrack.</L>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Who is it thou wou'dst kill with so much hast?</L>
+<L>Is it not <HI>Essex?</HI> Him thou didst Create,</L>
+<L>And Crown'd his Morning with full Rayes of Honours?</L>
+<L>Whilst he return'd 'em with whole Springs of Lawrels,</L>
+<L>Faught for thy Fame a Hundred Times in Blood,</L>
+<L>And ventur'd twice as many Lives for thee;</L>
+<L>And shall I then for one rash act of his</L>
+<L>Of which I was the cruel Cause, Condemn him?</L>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>C. Not.</SPEAKER>
+<L>Her Rage Ebbs out, and Pity flows apace.</L>
+</SP>
+<STAGE>[Aside.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Do what you will my Stars, do as you please</L>
+<L>Just Heav'n, and Sensure <HI>England's</HI> Queen for it,</L>
+<L>Yet <HI>Essex</HI> I must see, and then who e're thou art</L>
+<L>That when I'm dead shall call this tender Fault,</L>
+<L>This only Action of my Life in Question,</L>
+<L>Thou canst at worst but say that it was Love,</L>
+<L>Love that does never cease to be Obey'd,</L>
+<L>Love that has all my Power and strength betray'd,</L>
+<L>Love that swayes wholly like the Cause of things.</L>
+<L>Kings may Rule Subjects, but Love Reigns o're Kings,</L>
+<L>Sets bounds to Heav'ns high Wrath when 'tis severe,</L>
+<L>And is the greatest Bliss and Virtue there—</L>
+<STAGE>Aside.</STAGE>
+<L>Carry <HI>Southampton</HI> to the Tower straight,</L>
+<L>But <HI>Essex</HI> I will see before he goes—</L>
+<L>Now help me Art, check ev'ry Pulse within me,</L>
+<L>And let me feign a Courage tho' I've none.—</L>
+<STAGE><PB N="48" REF="29"/>Enter <HI>Essex</HI> with Guards.</STAGE>
+<L>Behold 'a comes with such a Pomp of misery!</L>
+<L>Greatness in all he shews, and nothing makes</L>
+<L>Him less, but turns to be Majestick in him.</L>
+<STAGE>Aside.</STAGE>
+<L>All that are present for a while withdraw,</L>
+<L>And leave the Prisoner here with me Unguarded.</L>
+</SP>
+<STAGE><HI>Exeunt. Manent</HI> Queen <HI>&amp;</HI> Essex.</STAGE>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Thus, tho I am Condemn'd and hated by you,</L>
+<L>A Traytor by your Royal will Proclaim'd;</L>
+<STAGE>[Essex <HI>kneels.</HI>]</STAGE>
+<L>Thus do I bless my Queen, and all those Powers</L>
+<L>That have inspir'd her with such tender mercy,</L>
+<L>As once to hear her dying <HI>Essex</HI> speak,</L>
+<L>And now receive his Sentence from your Lips,</L>
+<L>Which let it be my Life or Death, they'r both</L>
+<L>Alike to me, from you my Royal Mistress:</L>
+<L>And thus I will receive my Doom, and wish</L>
+<L>My Knees might ever till my dying minute</L>
+<L>Cleave to the Earth, as now they do in token of</L>
+<L>The choicest, humblest begging of the Blessing.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Pray rise my Lord. You see that I dare venture</L>
+<L>To leave my self without a Guard between us.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Fairest that e're was <HI>England's</HI> Queen, you need not—</L>
+<L>The time has been that <HI>Essex</HI> has been thought</L>
+<L>A Guard, and being near you, has been more</L>
+<L>Than Crouds of Mercinary Slaves;</L>
+<L>And is he not so now? O think me rather,</L>
+<L>Think me a Traytor, if I can be so</L>
+<L>Without a thought against your Pretious Life,</L>
+<L>But wrong me not with that: For by your self,</L>
+<L>By your bright self that rules o're all my Wishes,</L>
+<L>I Swear I would not touch that Life, to be</L>
+<L>As Great as you, the Greatest Prince on Earth;</L>
+<L>Lightning shou'd blast me first,</L>
+<L>E're I wou'd touch the Person of my Queen,</L>
+<L>Less gentle than the Breeze.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Oh y'are become a wondrous Penitent</L>
+<L>My Lord, the time has been you were not so:</L>
+<L>Then you were haughty, and because you urg'd me,</L>
+<L><PB N="49" REF="29"/>Urg'd me beyond the suffering of a Saint,</L>
+<L>To strike you, which a King wou'd have obey'd;</L>
+<L>Then straight your Malice led you to the City,</L>
+<L>Tempting my Loyal Subjects to Rebel,</L>
+<L>Laying a Plot how to surprize the Court,</L>
+<L>Then seize my Person with my chiefest Council</L>
+<L>To Murder them, and I to beg your Mercy;</L>
+<L>This, this the wond'rous Faithful <HI>Essex</HI> did,</L>
+<L>Thou whom I rais'd from the vile Dust of man,</L>
+<L>And plac'd thee as a jewel in my Crown,</L>
+<L>And bought thee dearly for my Favour, at the rate</L>
+<L>Of all my Peoples Grievances and Curses,</L>
+<L>Yet thou didst this, ingrateful Monster, this</L>
+<L>And all, for which as surely thou shalt dye,</L>
+<L>Dye like the foulest and the worst Ingrate;</L>
+<L>But Fetters now have humbled you I see.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>O hear me speak most injur'd Majesty,</L>
+<L>Brightest of Queens, Goddess of Mercy too,</L>
+<L>Oh think not that the Fear of Death or Prisons</L>
+<L>Can e're disturb a Heart like mine, or make it</L>
+<L>More Guilty, or more sensible of Guilt.</L>
+<L>All that y'are pleas'd to say, I now confess,</L>
+<L>Confess my Misery, my Crime, my shame;</L>
+<L>Yet neither Death nor Hell shou'd make me own it,</L>
+<L>But true Remorce and duty to your self,</L>
+<L>And Love—I dare stand Candidate with Heav'n,</L>
+<L>Who loves you most and purest.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Now he awakes me,</L>
+<L>And all my Faculties begin to listen,</L>
+<L>Steal to my Eyes, and tread soft paces to</L>
+<L>My Ears as loth to be discover'd, yet</L>
+<L>As loth to loose the Syrens Charming song.</L>
+<L>Help me a little now my cautious Angel.—</L>
+<STAGE>Aside.</STAGE>
+<L>I must confess I formerly believ'd so,</L>
+<L>And I acknowledg'd it by my Rewards.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>You have, but oh what has my Rashness done!</L>
+<L>And what has not my Guilt Condemn'd me to!</L>
+<L>Seated I was in Heav'n, where once that Angel,</L>
+<L>That haughty Spirit Reign'd that Tempted me,</L>
+<L>But now thrown down, like him, to worse than Hell.</L>
+</SP>
+<SP>
+<PB N="50" REF="30"/>
+<SPEAKER>Queen.</SPEAKER>
+<L>I, think on that, and like that Fiend roar still</L>
+<L>In Torments, when thou may'st have been most happy—</L>
+<L>There I out-did my strength, and feel my Rage</L>
+<L>Recoyl upon me, like a foolish Child</L>
+<L>Who firing of a Gun as much as he can lift,</L>
+<L>Is blasted with the Fury of the Blow.</L>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Most blest of Queens! her Doom, her very Anger's kind,</L>
+<L>And I will suffer it as willingly</L>
+<L>As your loud wrongs instruct you to inflict▪</L>
+<L>I know my Death is nigh, my Enemies</L>
+<L>Stand like a Guard of Furies ready by you</L>
+<L>To intercept each Sigh, kind wish, or Pitty,</L>
+<L>Ere it can reach to Heav'n in my Defence,</L>
+<L>And dash it with a Cloud of Accusations.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Ha! I begin to dread the Danger nigh,</L>
+<L>Like an unskillful Swimmer that has Waded</L>
+<L>Beyond his depth, I'm caught, and almost drown'd,</L>
+<L>In Pitty—What! And no one neer to help me!</L>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>My Father once too truly skill'd in Fate,</L>
+<L>In my first blooming Age to rip'ning Glory,</L>
+<L>Bid me beware my Six and Thirtieth year,</L>
+<L>That year said he will fatal to thee prove,</L>
+<L>Something like Death, or worse than Death will seize thee.</L>
+<L>Too well I find that Cruel Time's at Hand,</L>
+<L>For what can e're more Fatal to me prove,</L>
+<L>Than my lost Fame, and loosing of my Queen.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>'Tis so, 'tis true, nor is it in my Power</L>
+<L>To help him—Ha! Why is it not? What hinders!</L>
+<L>Who dares, or thinks to contradict my Will!</L>
+<L>Is it my Subjects or my Virtue stayes me?</L>
+<L>No, Virtue's Patient and abhorres Revenge,</L>
+<L>Nay, sometimes weeps at Justice—'Tis not Love—</L>
+<L>Ah call it any thing but that; tis Mercy,</L>
+<L>Mercy that Pitties Foes when in distress,</L>
+<STAGE>Aside.</STAGE>
+<L>Mercy the Heav'ns Delights—</L>
+<L>My Lord I fear your hot-spurr Violence</L>
+<L>Has brought you to the very brink of Fate,</L>
+<L>And 'tis not in my Power if I'd the will,</L>
+<L>To save you from the Sentence of the Law.</L>
+<L>The Lords that are to be your equal Judges,</L>
+<L><PB N="51" REF="30"/>The House has chose already, and to morrow,</L>
+<L>So soon your Tryal is to be. The People</L>
+<L>Cry loud for Justice; therefore I'll no more</L>
+<L>Repeat my wrongs, but think you are the man</L>
+<L>That once was Loyal.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Once!—</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Hold—For that Reason I will not upbraid you;</L>
+<L>To Triumph o're a miserable man</L>
+<L>Is base in any, in a Queen far worse—</L>
+<L>Speak now my Lord, and think what's in my Power</L>
+<L>That may not wrong your Queen, and I will Grant you—</L>
+<L>So—I am sure in this I have not err'd.</L>
+</SP>
+<STAGE>[Aside.</STAGE>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Blest be my Queen in Mercy rich as Heav'n—</L>
+<L>Now, now my Chaines are light—Come welcome Death,</L>
+<L>Come all you Spirits of Immortallity,</L>
+<L>And waft my Soul unto his bright abode,</L>
+<L>That gives my Queen this Goodness: Let me then</L>
+<L>Most humbly and devoutly ask Two things,</L>
+<L>The First is, if I am Condemn'd,</L>
+<L>That Execution may be done within</L>
+<L>The Tower Walls, and so I may not suffer</L>
+<L>Upon a Publick Scaffold to the World.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>I Grant it—O, and wish I cou'd do more.</L>
+</SP>
+<STAGE>[Aside.</STAGE>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Eternal Blessings Crown your Royal Head,</L>
+<L>The next, the extreamest Bliss my Soul can Covet</L>
+<L>And carry with it to the other World,</L>
+<L>As a firm Pasport to the Powers incens'd,</L>
+<L>Say you have Pardon'd me, and have forgot</L>
+<L>The Rage, the Guilt, and folly of your <HI>Essex.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Ha! What shall I do now!</L>
+<L>Look to thy self, and Guard thy Character—</L>
+<STAGE>Aside.</STAGE>
+<L>Go cure your Fame, and make your self but what I wish you,</L>
+<L>Then you shall find that I am still your Queen—</L>
+<L>But that you may not see I'm Covetous</L>
+<L>Of my Forgiveness, take it from my Heart;</L>
+<L>I freely Pardon now what e're y'ave done</L>
+<L>Amiss to me, and hope you will be quitted;</L>
+<L>Nay I not only hope it, but shall Pray for it,</L>
+<L>My Prayers to Heav'n shall be that you may cleer</L>
+<L>Your self.</L>
+</SP>
+<SP>
+<PB N="52" REF="31"/>
+<SPEAKER>Ess.</SPEAKER>
+<L>O most Renown'd and God-like Mercy!</L>
+<L>O let me go, your goodness is too bright</L>
+<L>For sinful Eyes like mine, or like the Feind</L>
+<L>Of Hell, when dasht from the Aetherial Light,</L>
+<L>I shall shoot downwards with my weight of Curses,</L>
+<L>Cleave and be Chain'd for ever to the Center.—</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>He is going, I, but whether? To his Tryal,</L>
+<L>To be Condemn'd perhaps, and then to dye;</L>
+<L>If so, what Mercy hast thou shew'd in that!</L>
+<L>Pitty and Pardon! Poor Amends for Life!</L>
+<L>If those be well, a Crocodile is blameless</L>
+<L>That weeps for Pitty, yet devours his Prey.</L>
+<L>And dare not I do more for <HI>Essex,</HI> I</L>
+<L>That am a Woman, and in Woman-kind</L>
+<L>Pitty's their Nature; therefore I'm resolv'd</L>
+<L>It shall be in's own Power to Save his Life.</L>
+<L>If I shall sin in this, Witness just Heav'n</L>
+<L>'Tis Mercy like your selves that draws me to't,</L>
+<STAGE>Aside.</STAGE>
+<L>And youl forgive me, tho the World may not—</L>
+<L>My Lord, perhaps we ne're may meet again,</L>
+<L>And you in Person may not have the Power</L>
+<L>T'implore what I too freely Grant you, therefore</L>
+<L>That you may see you have not barely forc'd</L>
+<L>An empty Pitty from me, Here's a Pledge,</L>
+<L>I give it from my Finger with this Promise,</L>
+<L>That whensoever you return this Ring,</L>
+<STAGE>[Gives him a Ring.</STAGE>
+<L>To Grant in lieu of it what e're you ask.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Thus I receive it with far greater Joy</L>
+<STAGE>[Receives it on his knees.</STAGE>
+<L>Than the poor Remnant of Mankind that saw</L>
+<L>The Rain-bow Token in the Heav'ns, when straight</L>
+<L>The Floods abated, and the Hills appear'd,</L>
+<L>And a new smiling World the Waves brought forth.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>No more, begon, fly with thy safety hence,</L>
+<L>Least horrid, dread Repentance seize my Soul,</L>
+<L>And I recall this strange misdeed—Here take</L>
+<STAGE>[Enter the rest with the Guards.]</STAGE>
+<L>Your Prisoner, there he is, to be Condemn'd</L>
+<L>Or quited by the Law—Away with him.</L>
+<STAGE>[Exeunt Guard with the Earl.]</STAGE>
+<L>Now <HI>Nottingam,</HI> thy Queen is now at rest,</L>
+<L>And <HI>Essex</HI> Fate is now my least of Troubles.</L>
+</SP>
+<STAGE><PB N="53" REF="31"/>Enter Countess of <HI>Essex</HI> running and Weeping, then kneels before
+the <HI>Queen</HI> and holds her by her Robe.</STAGE>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Where is my Queen? Where is my Royal Mistress?—</L>
+<L>I throw my self for mercy here.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>What meanst thou!</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Here I will kneel, here with my humble Body</L>
+<L>Fast rooted to the Earth as I'm to sorrow,</L>
+<L>No moisture but my tears to nourish me,</L>
+<L>Nor Aire but sighs, till I shall grow at last</L>
+<L>Like a poor shrivell'd Trunk blasted with Age</L>
+<L>And Grief, and never think to rise again</L>
+<L>Till I've obtain'd the Mercy I implore.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Thou dost amaze me.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Here let me grow the Abject'st thing on Earth,</L>
+<L>A despis'd Plant beneath the mighty Cedar;</L>
+<L>Yet if you will not pitty me I swear</L>
+<L>These Armes shall never cease, but grasping still</L>
+<L>Your Royal Robe, shall hold you thus for ever.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Prythee be quick and tell me what thou'dst have.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>I dare not, yet I must—My silence will</L>
+<L>Be Death, my Punishment can be no more.</L>
+<L>Prepare to hear, but learn to pitty first,</L>
+<L>For 'tis a Story that will start your Patience.—</L>
+<L>O save the Earl of <HI>Essex,</HI> save his Life,</L>
+<L>My Lord whom you've condemn'd to Prisons straight,</L>
+<L>And save my Life, who am no longer <HI>Rutland,</HI></L>
+<L>But <HI>Essex</HI> Faithful Wife—He is my Husband.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Thy Husband!</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Yes, too true it is I fear,</L>
+<L>By th' awful darting Fury in your Eyes,</L>
+<L>The threatning Prologue of our utter Ruines.</L>
+<L>Marry'd we were in secret e're my Lord</L>
+<L>Was sent by you t'his fatal Government</L>
+<L>in <HI>Ireland.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Then thou art Wedded to thy Grave—</L>
+<L>Dost think by this, in multiplying Treasons,</L>
+<L>And boldly braveing me with them before</L>
+<L>My Face, to save thy wicked Husband's Life?</L>
+<L><PB N="54" REF="32"/>What will my restless Fate do with me now!</L>
+<STAGE>[Aside.</STAGE>
+<L>Why dost thou hold me so? take off thy hands.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Alas, I ask not mine; if that will please you</L>
+<L>I'll glut you with my torments; act what e're</L>
+<L>Your Fury caninvent; but 'tis for him,</L>
+<L>My Lord, my Love, the Soul of my Desires.</L>
+<L>My Love's not like the common Rate of Womens,</L>
+<L>It is a <HI>Phoenix,</HI> there's not one such more:</L>
+<L>How gladly would I burn like that rare Bird,</L>
+<L>So that the Ashes of my Heart cou'd purchase</L>
+<L>Poor <HI>Essex</HI> Life and Favour of my Princess.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Woud I were loose 'mong Wilds, or any where</L>
+<L>In any Hell but this—Why say I Hell?</L>
+<L>Can there be melting Lead, or Sulpher yet</L>
+<L>To add more Pain to what my Breast indures!</L>
+<STAGE>[Aside.</STAGE>
+<L>Why dost thou hang on me, and tempt me still?</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>O throw me not away—Wou'd you but please</L>
+<L>To feel my throbbing Breast, you might perceive,</L>
+<L>At ev'ry name, and very thought of <HI>Essex,</HI></L>
+<L>How my Blood starts, and Pulses beat for fear,</L>
+<L>And shake and tear my Body like an Earth-quake,</L>
+<L>And ah, which cannot choose but stir your heart</L>
+<L>The more to pitty me, th'unhappy frighted Infant,</L>
+<L>The tender Off-spring of our guilty Joyes,</L>
+<L>Pleads for its Father in the very Womb,</L>
+<L>As now its wretched Mother does.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Quickly</L>
+<L>Unloose her Hands, and take her from my sight.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>O you will not—you'l hear me first, and grant me,</L>
+<L>Grant me poor <HI>Essex</HI> Life—Shall <HI>Essex</HI> live?</L>
+<L>Say, but you'l Pardon him before I go?—</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Help me—Will no one ease me of this Burthen?</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Oh I'm too weak for these inhumane Creatures,</L>
+<STAGE>[The Women take off her hold.</STAGE>
+<L>My strength's decay'd, my Joynts and Fingers num'd,</L>
+<L>And can no longer hold, but fall I must.</L>
+<L>Thus like a miserable Wretch that thinks</L>
+<L>H'as scap'd from drowning, holding on a Rock</L>
+<L>With fear and Paine, and his own weight opprest,</L>
+<L>And dasht by ev'ry Wave that shrinks his hold,</L>
+<STAGE>[She falls down with faintness.]</STAGE>
+<L><PB N="55" REF="32"/>At length lets go, and drops into the Sea,</L>
+<L>And cryes for help, but all in vain like me.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Begon, and be deliver'd of thy shame,</L>
+<L>Let the vile Insect live, and grow to be</L>
+<L>A Monster baser, hotter, worser far</L>
+<L>Than the ingrateful Parents that begot it.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Ah cruel most remorceless Princess hold,</L>
+<L>What has It done to draw such Curses from you!</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Go, let her be close Prisoner in her Chamber.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Since I must go, and from my <HI>Essex</HI> part,</L>
+<L>Despair and Death at once come seize my Heart;</L>
+<L>Shut me from Light, from Day, ne're to be seen,</L>
+<L>By humane kind, nor my more cruel Queen;</L>
+<L>Yet bless her Heav'n, and hear my Loyal Prayer,</L>
+<L>May you ne're Love like me, nor ne'r despair,</L>
+<L>Ne're see the Man at his departing Breath</L>
+<L>Whom you so Love, and fain wou'd save from Death;</L>
+<L>Least Heav'n be Deaf as you are to my Cry,</L>
+<L>And you run mad, and be as curst as I.</L>
+</SP>
+<STAGE>[Exit C. <HI>Essez,</HI> carried away by Women.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>She's gone, but at her parting shot a truth</L>
+<L>Into my Breast, has pierc't my Soul.—</L>
+<L>Why was I Queen? And why was I not <HI>Rutland?</HI></L>
+<L>Then had my Princess, as my self did now,</L>
+<L>Giv'n <HI>Essex</HI> such a Ring, and the Reward</L>
+<L>Had then been mine as now the Torment is—</L>
+<L>O wretched State of Monarchs! theirs is still</L>
+<L>The Business of the World, and all the Pains,</L>
+<L>Whilst happy Subjects sleep beneath their Gains;</L>
+<L>The meanest Hind rules in his humble House,</L>
+<L>And nothing but the Day fees what he does,</L>
+<L>But Princes, like the Queen of Night so high,</L>
+<L>Their spots are seen by ev'ry Vulgar Eye;</L>
+<L>And as the Sun, the Plannets glorious King,</L>
+<L>Gives life and growth to ev'ry Mortal thing,</L>
+<L>And by his Motion all the World is blest,</L>
+<L>Whilst he himself can never be at Rest;</L>
+<L>So if there are such Blessings in a Throne,</L>
+<L>Kings Raign 'em down, while they themselves have none.</L>
+</SP>
+<STAGE>Exeunt Omnes</STAGE>
+<TRAILER>Finis Act us Quarti.</TRAILER>
+</DIV2>
+<DIV2 N="5" TYPE="act and scene">
+<PB N="56" REF="33"/>
+<HEAD>Actus Quintus. Scoena prima.</HEAD>
+<STAGE>Sir <HI>Walter Rawleigh</HI> with the Queens Guards,
+The Lieutenant of the Tower.</STAGE>
+<SP>
+<SPEAKER>Raw.</SPEAKER>
+<L>MR. <HI>Lieutenant,</HI> here expires my Charge;</L>
+<L>I receiv'd Orders from Her Majesty,</L>
+<L>And the Lord Steward to return the Prisoners</L>
+<L>Safe in your Custody, and with you I leave 'em,</L>
+<L>With charge to have 'em in a readiness,</L>
+<L>For Execution will be very speedy.</L>
+</SP>
+<SP>
+<SPEAKER>Lieut.</SPEAKER>
+<L>I shall Sir.</L>
+</SP>
+<STAGE>Enter the Countess of <HI>Nottingham.</HI></STAGE>
+<SP>
+<SPEAKER>Raw.</SPEAKER>
+<L>Ha! the Lady <HI>Nottingham!</HI></L>
+<L>What makes her here?</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Where is my Lord of <HI>Essex?</HI></L>
+<L>I am commanded straight to speak with him,</L>
+<L>And bring a Message from Her Majesty.</L>
+</SP>
+<SP>
+<SPEAKER>Raw.</SPEAKER>
+<L>Madam,</L>
+<L>What News can this strange visit bring?</L>
+<L>How faires the Queen? Are her Resolves yet stedfast?</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>No, when she heard that <HI>Essex</HI> was Condemn'd,</L>
+<L>She started and look'd pale, then blushing red,</L>
+<L>And said that Execution shou'd be straight,</L>
+<L>Then stopt, and said she'd hear first from the Earl:</L>
+<L>So she retir'd and past an hour in Thought,</L>
+<L>None daring t'interrupt her till in hast</L>
+<L>She sent for me, Commanding me to go</L>
+<L>And tell my Lord from her, she cou'd resist</L>
+<L>No longer her Subjects loud demands for Justice,</L>
+<L>And therefore wisht if he had any Reasons</L>
+<L>That were of weight to stay his Execution,</L>
+<L>That he wou'd send 'em straight by me; then blush'd</L>
+<L><PB N="57" REF="33"/>Again, and sigh'd, and press'd my hand,</L>
+<L>And pray'd me to be secret, and deliver</L>
+<L>What <HI>Essex</HI> shou'd return in answer to her.</L>
+</SP>
+<SP>
+<SPEAKER>Raw.</SPEAKER>
+<L>I know not what she means, but doubt th'Event;—</L>
+<L>You can tell best the cause of her disturbance.</L>
+<L>I will to <HI>Burleigh,</HI> and then both of us</L>
+<L>Will make Attempts to recollect the Queen.</L>
+</SP>
+<STAGE>Exit <HI>Rawleigh</HI> and Guards.</STAGE>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Pray bring me to my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Lieut.</SPEAKER>
+<L>Madam, I will acquaint him that y'are here.</L>
+<STAGE><HI>Exit</HI> Lieut.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Now Dragons Blood distill through all my veins,</L>
+<L>And Gaul instead of Milk swell up my Breasts,</L>
+<L>That nothing of the Woman may appear,</L>
+<L>But horrid Cruelty, and fierce Revenge—</L>
+<STAGE><HI>Enter</HI> Essex.</STAGE>
+<L>He comes with such a Gallantry and Port,</L>
+<L>As if his Miseries were Harbingers,</L>
+<L>And Death the State to set his Person out—</L>
+<L>Wrongs less than mine, though in a Tyger's Breast,</L>
+<L>Might now be reconcil'd to such an Object;</L>
+<L>But slighted Love my Sex can ne're forget.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Madam, this is a Miracle of Favour,</L>
+<L>A double goodness in my Royal Mistress,</L>
+<L>T imploy the fair, the Injur'd <HI>Nottingham;</HI></L>
+<L>And 'tis no less in you to condescend</L>
+<L>To see a wretch like me that has deserv'd</L>
+<L>No favour at your hands.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>No more my Lord, the Queen,</L>
+<L>The Gratious Queen commends her Pitty to you,</L>
+<L>Pitty by me that owe a great deal more</L>
+<L>You know, and wish that I were once your Queen,</L>
+<L>To give you what my heart has had so long in store.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Then has my Death more Charmes than Life can promise,</L>
+<L>Since my Queen pitties me, and you forgive me.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Hold good my Lord, that is not all, she sends</L>
+<L>To know if you can any thing propose</L>
+<L>To mittigate your Doom, and stay your Death,</L>
+<L>Which else can be no longer than this Day.</L>
+<L><PB N="58" REF="34"/>Next if y'are satisfy'd with ev'ry passage</L>
+<L>In your late Tryal, if 'twere fair and legal,</L>
+<L>And if y'ave those Exceptions that are real</L>
+<L>She'll answer them?</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Still is my Death more welcome,</L>
+<L>And Life wou'd be a burthen to my Soul,</L>
+<L>Since I can ne're requite such Royal Goodness</L>
+<L>Tell her then, fair and charitable Messenger,</L>
+<L>That <HI>Essex</HI> does acknowledge every Crime,</L>
+<L>His Guilt unworthy of such wond'rous Mercy,</L>
+<L>Thanks her bright Justice, and the Lords his Judges,</L>
+<L>For all was Gratious and Divine like her;</L>
+<L>And I have now no Injustice to accuse,</L>
+<L>Nor Enemy to blame that was the Cause,</L>
+<L>Nor Innocence to save me but the Queen.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Ha is this true! How he undoes my Hopes!</L>
+<STAGE>[Aside.</STAGE>
+<L>And is that all? have you not one Request</L>
+<L>To ask, that you can think the Queen will grant you?</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>I have, and humbly 'tis that she wou'd please</L>
+<L>To spare my Life; not that I fear to dye,</L>
+<L>But in submission to her Heav'nly Justice.</L>
+<L>I own my Life a forfeit to her Power,</L>
+<L>And therefore ought to beg it of her Mercy.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>If this be real, my Revenge is lost.</L>
+<STAGE>[Aside.</STAGE>
+<L>Is there naught else that you rely upon,</L>
+<L>Only submitting to the Queens meer Mercy,</L>
+<L>And barely asking her so great a Grace?</L>
+<L>Have you no other Hopes?</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Some Hopes I have.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>What are they, pray my Lord? declare 'em boldly,</L>
+<L>For to that only purpose I am sent.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Than I am happy, happiest of mankind,</L>
+<L>Blest in the rarest mercy of my Queen,</L>
+<L>And such a Friend as you, blest in you both;</L>
+<L>The Extasie will let me hold no longer—</L>
+<L>Behold this Ring the Pasport of my Life;</L>
+<L>At last y'ave pull'd the secret from my Heart,</L>
+<L>This pretious token—</L>
+<L>Amidst my former Triumphs in her favour</L>
+<L>She took from off her Finger, and bestow'd</L>
+<L><PB N="59" REF="34"/>On me—Mark, with the Promise of a Queen,</L>
+<L>Of her bright self less failing than an Oracle,</L>
+<L>That in what Exigence or State soe're</L>
+<L>My Life was in, that time when I gave back,</L>
+<L>Or shou'd return this Ring again to her,</L>
+<L>She'd then deny me nothing I cou'd ask.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>O give it me my Lord, and quickly let</L>
+<L>Me bear it to the Queen, and ask your Life.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Hold generous Madam, I receiv'd it on</L>
+<STAGE>[Kneels and gives <HI>Nottingham</HI> the Ring.</STAGE>
+<L>My Knees, and on my Knees I will restore it.</L>
+<L>Here take it, but consider what you take:</L>
+<L>'Tis the Life, Blood, and very Soul of <HI>Essex.</HI></L>
+<L>I've heard that by a skillful Artist's Hand,</L>
+<L>The Bowels of a Wretch were taken out,</L>
+<L>And yet he liv'd; you are that Gallant Artist,</L>
+<L>O touch it as you wou'd the Seales of Life,</L>
+<L>And give it to my Royal Mistress Hand,</L>
+<L>As you wou'd pour my Blood back in its empty Channels,</L>
+<L>That gape and thirst like Fishes on the Ouse</L>
+<L>When streams run dry, and their own Element</L>
+<L>Forsakes 'em; if this shou'd in the least miscarry,</L>
+<L>My Life's the purchase that the Queen will have for't.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Doubt you my care my Lord? I hope you do not.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>I will no more suspect my Fate, nor you:</L>
+<L>Such Beauty, and such Merits must prevail.</L>
+</SP>
+<STAGE>Enter a Gentleman.</STAGE>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<L>Th'Earl of <HI>Southampton</HI> having Leave,</L>
+<L>Desires to speak with you my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Repose</L>
+<L>Your mind, and take no thought but to be happy;</L>
+<L>I'll send you Tidings of a lasting Life.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>A longer and much happier Life attend</L>
+<L>Both my good Queen and you.</L>
+<STAGE><HI>Exit</HI> Essex.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Farewell my Lord—</L>
+<L>Yes, a much longer Life than thine I hope,</L>
+<L>And if thou chance to dream of such strange things,</L>
+<L>Let it be there where lying Poets feign</L>
+<L>Elisium is, where Mirtles lovely spread,</L>
+<L><PB N="60" REF="35"/>Trees of delicious Fruit invite the Tast,</L>
+<L>And sweet <HI>Arabian</HI> Plants delight the smell,</L>
+<L>Where pleasant Gardens drest with curious Care</L>
+<L>By Lovers Ghosts, shall recreate thy Fancy,</L>
+<L>And there perhaps thou soon shalt meet again</L>
+<L>With amourous <HI>Rutland,</HI> for she cannot choose</L>
+<L>But be Romantick now, and follow thee—</L>
+</SP>
+<STAGE>Enter a Gentlewoman.</STAGE>
+<SP>
+<SPEAKER>Wom.</SPEAKER>
+<L>Madam, the Queen.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Ha! that's unlucky—She come to the Tower!</L>
+<L>Yet 'tis no matter; see him I am sure</L>
+<L>She will not, or at worst will be perswaded.</L>
+</SP>
+<STAGE>Enter the <HI>Queen.</HI></STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>How now dear <HI>Nottingham,</HI> hast seen the Earl?</L>
+<L>I left <HI>White-hall,</HI> because I cou'd not rest</L>
+<L>For Crowds that hollow'd for their Executions,</L>
+<L>And others that Petition'd for the Traytors.</L>
+<L>Quick, tell me, hast thou done as I commanded?</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Yes Madam, I have seen, and spoke with him.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>And what has he said to thee for himself?</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>At my first converse with him I did find him</L>
+<L>Not totally despairing, nor complaining;</L>
+<L>But yet a haughty melancholly</L>
+<L>Appear'd in all his Looks, that shew'd him rather</L>
+<L>Like one that had more Care</L>
+<L>Of future Life than this.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Well, but what said he,</L>
+<L>When thou awakest him with the Hopes of Pitty?</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>To my first Question put by your Command,</L>
+<L>Which was to know if he were satisfied</L>
+<L>In the proceedings of his Lawful Tryal,</L>
+<L>He answer'd with a careless Tone and Gesture,</L>
+<L>That it was true, and he must needs confess</L>
+<L>His Tryal lookt most fair to all the World;</L>
+<L>But yet he too well knew,</L>
+<L>The Law that made his Actions Treason,</L>
+<L>Consulted but with Foes and Circumstances,</L>
+<L><PB N="61" REF="35"/>And never took from Heav'n, or <HI>Essex</HI> Thoughts</L>
+<L>A President, or Cause that might Condemn him,</L>
+<L>For if they had the least been read in either,</L>
+<L>They wou'd have quickly found his Innocence.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Ha!</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>That was but the Prologue, mark what follows.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>What, durst he be so bold to brand my Justice!</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>I pray'd that he wou'd urge that Sence no more.</L>
+<L>But since he was Condemn'd and stood in need</L>
+<L>Of Mercy, to implore it of your Majesty,</L>
+<L>And beg his Life which you wou'd not deny:</L>
+<L>For to that End I said that you were pleas'd</L>
+<L>To send me to him, and then told him all,</L>
+<L>Nay more than you commanded me to say.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>What said he then? That alter'd him I hope.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>No, not at all, but as I've seen a Lyon</L>
+<L>That has been play'd withall with gentle stroaks,</L>
+<L>Has at the last been jeasted into madness;</L>
+<L>So on a sudden started into Passion</L>
+<L>The furious Earl, his Eyes grew fiery red,</L>
+<L>His words precipitate, and speech disorder'd;</L>
+<L>Let the Queen have my Blood said he, 'tis that</L>
+<L>She longs for, pour it to my Foes to drink,</L>
+<L>As Hunters when the Quarry is run down,</L>
+<L>Throw to the Hounds his Intrails for Reward.</L>
+<L>I have enough to spare, but by the Heav'ns</L>
+<L>I swear, were all my Veins like Rivers full,</L>
+<L>And if my Body held a Sea of Blood,</L>
+<L>I'de loose it all to the last innocent drop▪</L>
+<L>Before I'de like a Villain beg my Life.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Hold <HI>Nottingham,</HI> and say th'art not in earnest—</L>
+<L>Can this be true, so impudent a Traytor!</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>That's but the Gloss, the Colour of his Treason,</L>
+<L>But after he did paint himself to th'Life.</L>
+<L>Wou'd the Queen, said he, have me own a Treason,</L>
+<L>Impose upon my self a Crime, the Law</L>
+<L>Has found my Guilty of by her Command;</L>
+<L>And so by asking of my Forfeit Life,</L>
+<L>Clear and Proclaim her Justice to the World,</L>
+<L>And stain my self for ever; no I'll dye first.</L>
+</SP>
+<SP>
+<PB N="62" REF="36"/>
+<SPEAKER>Queen.</SPEAKER>
+<L>Enough, I'll hear no more, you wrong him, 'tis</L>
+<L>Impossible he shou'd be such a Devil.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Madam I've done.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>I prithee pardon me—</L>
+<L>But cou'd he say all this!</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>He did, and more;</L>
+<L>But 'tis no matter, 'twill not be believ'd</L>
+<L>If I shou'd tell the half of what he utter'd,</L>
+<L>How insolent, and how prosane he us'd you.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>You need not, I had rather</L>
+<L>Believe it all than put you to the trouble</L>
+<L>To tell it o're again, and me to hear it.</L>
+<L>Then I am lost, betray'd by this false Man,</L>
+<L>My Courage, Power, my Pitty, all betray'd,</L>
+<L>And like that Gyant, Patriarch of the Jews,</L>
+<L>Berest at once both of his sight and strength</L>
+<L>By Treacherous Foes, I wander in the dark,</L>
+<L>By <HI>Essex</HI> weakned, and by <HI>Essex</HI> blinded;</L>
+<L>But then as he pray'd that his strength might grow,</L>
+<L>At once to be reveng'd on them and dye,</L>
+<L>So grant me Heav'n but so much Resolution</L>
+<L>To grope my way where I may lay but hold</L>
+<L>On whatsoe're this huge <HI>Colossus</HI> stands,</L>
+<L>I'll pull the Scaffold down, tho o're my Head,</L>
+<L>And loose my Life to be reveng'd on his—</L>
+<STAGE>Aside.</STAGE>
+<L>Well <HI>Nottingham,</HI> I have but one word more,</L>
+<L>Talkt not this wicked Creature of no Reason,</L>
+<L>No Obligation that I had to save</L>
+<L>His Life?</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>No, but far worse than I have told you.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Sure thou art most unhappy in ill News!</L>
+<L>No promise, nor no token did he speak of?</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Not the least word, and if there are such things,</L>
+<L>I do suppose he keeps 'em to himself</L>
+<L>For Reasons that I know not.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>'Tis most false,</L>
+<L>He needs must tell thee all, and thou betray'st him.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Your Majesty does me wrong—</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Hear me—</L>
+<L>Oh I can hold no longer—Say, sent he</L>
+<L><PB N="63" REF="36"/>No Ring, no Token, nor no Message by thee?</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Not any on the forfeit of my Life.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Thou lyest—Can Earth produce so vile a Creature!—</L>
+<L>Hence from my sight, and see my Face no more—</L>
+<L>Yet tarry <HI>Nottingham—</HI> Come back again.</L>
+<L>This may be true, and I am still the Wretch</L>
+<STAGE>[Aside.</STAGE>
+<L>To blame and to be pitty'd—Prithee pardon me;</L>
+<L>Forget my Rage, thy Queen is sorry for't.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>I wou'd your Majesty in stead of me,</L>
+<L>Had sent a Person that you cou'd confide in,</L>
+<L>Or else that you wou'd see the Earl your self.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Prithee no more; Go to him!</L>
+<L>No, but I'll send a Message for his Head.</L>
+<L>His Head's the Token that my wrongs require,</L>
+<L>And his base blood the stream to quench my Fury.—</L>
+<L>Prithee invent: for thou art wondrous witty</L>
+<L>At such inventions; teach my feeble malice</L>
+<L>How to torment him with a thousand Deaths,</L>
+<L>Or what is worse than Death—Speak, my <HI>Medea,</HI></L>
+<L>And thou wilt then oblige thy Queen for ever.</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>First Sign an Order for his Execution.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Say, it is done, but how to torture him!</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>Then as the Lords are carrying to the Block,</L>
+<L>Condoleing both their sad Misfortunes,</L>
+<L>Which to departing Souls is some delight,</L>
+<L>Order a Pardon for <HI>Southampton's</HI> Life,</L>
+<L>It will be worse than Hell to <HI>Essex</HI> Soul</L>
+<L>Where 'tis a going, to see his Friend snatcht from him,</L>
+<L>And make him curse his so much Pride and folly</L>
+<L>That lost his own Life, in exchange for his.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>That was well thought on!</L>
+</SP>
+<SP>
+<SPEAKER>Nott.</SPEAKER>
+<L>This is but the least.</L>
+<L>The next will be a fatal stroak, a blow indeed,</L>
+<L>A thousand Heads to loose is not so dreadful.</L>
+<L>Let <HI>Rutland</HI> see him at the very Moment</L>
+<L>Of her Expiring Husband; she will hang</L>
+<L>Worse than his Guilt upon him, lure his Mind,</L>
+<L>And pull it back to Earth again; double</L>
+<L>All the fierce Pangs of thought and Death upon him,</L>
+<L>And make his loaded Spirits sink to Hell.</L>
+</SP>
+<SP>
+<PB N="64" REF="37"/>
+<SPEAKER>Queen.</SPEAKER>
+<L>O th'art the <HI>Machiavile</HI> of all thy Sex,</L>
+<L>Thou bravest, most heroick for Invention!</L>
+<L>Come, let's dispatch—</L>
+</SP>
+<STAGE>Enter <HI>Burleigh, Rawleigh,</HI> Lords, Attendants, and Guards,</STAGE>
+<L>My Lords, see Execution done on <HI>Essex;</HI></L>
+<L>But for <HI>Southampton,</HI> I will pardon him;</L>
+<L>His Crimes he may repent of; they were not</L>
+<L>So great, but done in friendship to the other.</L>
+<L>Act my Commands with speed, that both of us</L>
+<L>May straight be out of Torment—My Lord <HI>Burleigh,</HI></L>
+<L>And you Sir <HI>Walter Rawleigh</HI> see't perform'd;</L>
+<L>I'll not return till you have brought the News.</L>
+<STAGE>[<HI>Exeunt</HI> Queen <HI>and</HI> Nottingham.</STAGE>
+<SP>
+<SPEAKER>Raw.</SPEAKER>
+<L>I wou'd she were a hundred League froms hence,</L>
+<L>Well, and the Crown upon her Head; I fear</L>
+<L>She'll not continue in this mind a Moment.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Then't shall be done this Moment—Who attends?</L>
+<L>Bid the Lieutenant have his Prisoners ready.</L>
+<STAGE>Exit Officer.</STAGE>
+<L>Now we may hope to see fair Dayes again</L>
+<L>In <HI>England,</HI> when this hov'ring Cloud is vanisht,</L>
+<L>Which hung so long betwixt our Royal Sun</L>
+<L>And us, but soon will visit us with smiles,</L>
+<L>And raise her drooping Subjects Hearts—</L>
+<STAGE>Enter the two Earles, the Lieutenant and Guards.</STAGE>
+<L>My Lord,</L>
+<L>We bring an Order for your Execution,</L>
+<L>And hope you are prepar'd; for you must dye</L>
+<L>This very hour.</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>Indeed the time is sudden!—</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Is Death th'Event of all my flatter'd Hopes!</L>
+<L>False Sex, and Queen more perjur'd than them all!—</L>
+<L>But dye I will without the least Complaint,</L>
+<L>My Soul shall vanish silent as the Dew</L>
+<L>Attracted by the Sun from verdent Fields,</L>
+<L>And leaves of weeping Flowers—Come my dear Friend,</L>
+<L>Partner in Fate, give me thy Body in</L>
+<L>These Faithful Armes, and O now let me tell thee</L>
+<L><PB N="69" REF="37"/>And you, my Lords, and Heav'n's my Witness too,</L>
+<L>I have no weight, no heaviness on my Soul,</L>
+<L>But that I've lost my dearest Friend his Life.</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>And I protest by the same Powers Divine,</L>
+<L>And to the World, 'tis all my Happiness,</L>
+<L>The greatest Bliss my mind yet e're enjoy'd,</L>
+<L>Since we must dye my Lord, to dye together.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>The Queen, my Lord <HI>Southampton,</HI> has been pleas'd</L>
+<L>To grant particular Mercy to your Person;</L>
+<L>And has by us sent you a Reprieve from Death,</L>
+<L>With Pardon of your Treasons, and commands</L>
+<L>You to depart immediately from hence.</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>O my unguarded Soul! Sure never was</L>
+<L>A man with mercy wounded so before.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Then I am loose to steer my wandring Voyage,</L>
+<L>Like a glad Vessel that has long been crost,</L>
+<L>And bound by adverse Winds, at last gets liberty,</L>
+<L>And joyfully makes all the Sail she can</L>
+<L>To reach its wisht-for Port—Angels protect</L>
+<L>The Queen; for her my chiefest Prayers shall be,</L>
+<L>That as in time sh'as spar'd my Noble Friend,</L>
+<L>And owns his Crimes worth Mercy, may she ne're</L>
+<L>Think so of me too late when I am dead—</L>
+<L>Again <HI>Southampton,</HI> let me hold thee fast,</L>
+<L>For 'tis my last Embrace.</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>O be less kind my Friend, or move less Pitty,</L>
+<L>Or I shall sink beneath the weight of sadness;</L>
+<L>Witness the Joy I have in Life to part</L>
+<L>With you; witness these Womans Throbs and Tears;</L>
+<L>I weep that I am doom'd to live without you,</L>
+<L>And shou'd have smil'd to share the Death of <HI>Essex.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>O spare this tenderness for one that needs it,</L>
+<L>For her that I'll commit to all that I</L>
+<L>Can claim of my <HI>Southampton</HI>—O my Wife!</L>
+<L>Methinks that very name shou'd stop thy Pitty,</L>
+<L>And make thee covetous of all as lost</L>
+<L>That is not meant to her—Be a kind Friend</L>
+<L>To her as we have been to one another;</L>
+<L>Name not the dying <HI>Essex</HI> to thy Queen</L>
+<L>Least it shou'd cost a Tear, nor ne're offend her.</L>
+</SP>
+<SP>
+<PB N="70" REF="38"/>
+<SPEAKER>South.</SPEAKER>
+<L>O stay my Lord, let me have one word more;</L>
+<L>One last farewel before the greedy Axe</L>
+<L>Shall part my Friend, my only Friend from me,</L>
+<L>And <HI>Essex</HI> from himself—I know not what</L>
+<L>Are call'd the Pangs of Death, but sure I am</L>
+<L>I feel an Agony that's worse than Death—</L>
+<L>Farewell.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Why that's well said—Farewell to thee—</L>
+<L>Then let us part, just like two Travellors</L>
+<L>Take distant Paths, only this difference is,</L>
+<L>Thine is the longest, mine the shortest way—</L>
+<L>Now let me go—If there's a Throne in Heaven.</L>
+<L>For the most brave of Men, and best of Friends,</L>
+<L>I will bespeak it for <HI>Southampton.</HI></L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>And I, while I have Life will hoard thy Memory;</L>
+<L>When I am dead, we then shall meet again.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Till then Farewell.</L>
+</SP>
+<SP>
+<SPEAKER>South.</SPEAKER>
+<L>Till then Farewell.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Now on my Lords, and execute your Office—</L>
+<STAGE>[<HI>Exit</HI> South.</STAGE>
+<STAGE>Enter Countess of <HI>Essex</HI> and Women.</STAGE>
+<L>My Wife! Nay then my Stars will ne're have done.</L>
+<L>Malitious Planets reign, I'll bear it all</L>
+<L>To your last drop of Venom on my Head—</L>
+<L>Why cruel lovely Creature dost thou come</L>
+<L>To add to sorrow if't be possible:</L>
+<L>A Figure more lamenting? Why this kindness,</L>
+<L>This killing kindness now at such a time.</L>
+<L>To add more Woes to thine and my misfortunes.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>The Queen my Lord has been so merciful,</L>
+<L>Or cruel, name it as you please, to let</L>
+<L>Me see my <HI>Essex</HI> e're he dyes.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Has she,</L>
+<L>Then let's improve this very little Time</L>
+<L>Our niggard Fate allows us: For w'are owing</L>
+<L>To this short space all the dear love we had</L>
+<L>In store for many happy promis'd years.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>What hinders then but that we shou'd be happy,</L>
+<L>Whilest others live long years, and sip, and tast</L>
+<L>Like Niggards of their Loves, we'll take whole Draughts.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Then let's embrace in Extasies and Joyes,</L>
+<L><PB N="71" REF="38"/>Drink all our Honey up in one short moment,</L>
+<L>That shou'd have serv'd us for our Winter store,</L>
+<L>Be lavish, and profuse like wanton Heirs</L>
+<L>That wast their whole Estates at once,</L>
+<L>For the kind Queen takes care and has ordain'd</L>
+<L>That we shall never live to want.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>My Lord,</L>
+<L>Prepare, the very utmost Time's at hand,</L>
+<L>And we must straight perform the Queens Command</L>
+<L>In leading you to Justice.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Hold good <HI>Lucifer,</HI></L>
+<L>Be kind a little, and defer Damnation,</L>
+<L>Thou canst not think how I will Worship thee,</L>
+<L>No <HI>Indian</HI> shall adore thee as I will,</L>
+<L>Thou shalt have Martyrs, and whole Heccatombs</L>
+<L>Of slaughter'd Innocents to suck their Blood,</L>
+<L>Widdows Estates, and Orphans without number,</L>
+<L>Mannors and Parks more than thy Lust requires,</L>
+<L>Till thou shalt dye and leave a Kings Estate</L>
+<L>Behind thee.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Pr'y thee spare thy pretious Heart,</L>
+<L>That fluttering so with Passion in thy Breast,</L>
+<L>Has almost bruis'd its tenderness to Death.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Why ask I him, and think of Pitty there!</L>
+<L>From him on whom kind Heav'n has fet a Mark,</L>
+<L>A heap of Rubbish at the door to shew</L>
+<L>No cleanly Virtue can inhabite there—</L>
+<L>Malitious Toad, and which is worse, foul <HI>Cecil,</HI></L>
+<L>I tell thee <HI>Essex</HI> soon shall reign in Heav'n,</L>
+<L>While thou shalt grovel in the Den of Hell,</L>
+<L>Roar like the Damn'd, and tremble to behold him.</L>
+<L>Go share Dominions with the Powers of Hell;</L>
+<L>For <HI>Lucifer</HI> himself will ne're dispute</L>
+<L>Thy great Desert in wickedness above him,</L>
+<L>Nor who's the uglyer Fiend, thy self or he.</L>
+</SP>
+<SP>
+<SPEAKER>Raw.</SPEAKER>
+<L>My Lord, you think not of the Queens Commands,</L>
+<L>And can you stand thus unconcern'd, and hear</L>
+<L>Your self so much abus'd.</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Be patient <HI>Rawleigh,</HI></L>
+<L>The Pain is all her own, and hurts not <HI>Cecil,</HI></L>
+<L><PB N="72" REF="39"/>She will be weary sooner than my self—</L>
+<L>Poor ionocent and most unhappy Lady,</L>
+<L>I pitty her.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Why dost thou pitty me!</L>
+<L>Nay then I'm faln into a low Estate</L>
+<L>Indeed; if Hell compassionates my Miseries,</L>
+<L>They must be greater than the Damn'd indure—</L>
+<L>I Prithee Pardon me—Ah my lov'd Lord,</L>
+<L>My Heart begins to break; let me go with thee,</L>
+<L>And see the fatal Blow given to my <HI>Essex,</HI></L>
+<L>That will be sure to rid me soon of Torments;</L>
+<L>And 'twill be kindness in thee—do my Lord,</L>
+<L>Then we shall both be quit of pain together.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Ah why was I condemn'd to this, What Man</L>
+<L>But <HI>Essex</HI> ever felt a weight like this!</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>O we must never part—Support my Head,</L>
+<L>My sinking Head, and lay it to the Pulse,</L>
+<L>The throbbing Pulse that beats about thy Heart,</L>
+<L>'Tis Musick to my Sences—O my Love!</L>
+<L>I have no tears left in me that shou'd ease</L>
+<L>A wretch that longs for Pitty—I am past</L>
+<L>All Pitty, and my poor tormented Heart</L>
+<L>And Spirits within are quite consum'd; and Tears</L>
+<L>Which is the Balm, the Scorpions blood that cures</L>
+<L>The biting pain of sorrow, quite have left me,</L>
+<L>And I am now a wretched hopeless Creature,</L>
+<L>Full of substantial Misery without</L>
+<L>One drop of Remedy.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Th'art pale, thy Breath</L>
+<L>Grows chill, and like the Morning Air on Roses,</L>
+<L>Leaves a cold Dew upon thy redder Lips—</L>
+<L>She strives, and holds me like a drowning wretch—</L>
+<L>O now my Lords, if pitty ever blest you,</L>
+<L>If you were never nurst by Tygers, help me—</L>
+<L>Now now, you cruel Heav'ns I plainly see,</L>
+<L>'Tis not your Swords, your Axes, nor Diseases,</L>
+<L>Which make the Death of Man so fear'd, and painful,</L>
+<L>But 'tis such horrid Accidents as these—</L>
+<L>She opens her Eyes, which with a waining look,</L>
+<L>Like sickly Stars give a faint glimmering Light.</L>
+</SP>
+<SP>
+<PB N="73" REF="39"/>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Where is my Love?</L>
+<L>O think not to get loose, for I'm resolv'd</L>
+<L>To stick more close to thee than Life; and when</L>
+<L>That's going, mine shall run the Race with thine,</L>
+<L>And both together reach the happy Goal.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Now I am shock'd, torn up, and rooted all</L>
+<L>That's Humane in me—What you merciless Heavens,</L>
+<L>What is't that makes poor Man distracted, mad,</L>
+<L>Prophane, to curse the Day, himself, the Heav'ns</L>
+<L>That made him, but less miseries than mine?</L>
+<L>Why, why you Powers do you exact from Man</L>
+<L>More than your World, and all that live beside!</L>
+<L>The Sea is never calm when tempests blow,</L>
+<L>Tall Woods and Cedars murmur at the Wind,</L>
+<L>And when your horrid Earth-quakes cleave the Ground,</L>
+<L>The Center Groans, and Nature takes its part,</L>
+<L>As if they did design to break your Laws,</L>
+<L>And shake your Fetters off; nay your own Heavens,</L>
+<L>When Thunders roar, Rebel, the Sun ingages,</L>
+<L>And all the Warring Elements resist;</L>
+<L>Heav'n, Seas, and Land are suffer'd to contend,</L>
+<L>But Man alone is curst if he complain—</L>
+<L>Farewell my everlasting Love, 'tis vain,</L>
+<L>'Tis all in vain against resistless Fate</L>
+<L>That pulls me fom thee.</L>
+<STAGE>[Gives her a Letter.</STAGE>
+<L>Here, give this Paper to the Queen, which when</L>
+<L>She reads, perhaps she will be kind to thee.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Wilt thou not let me go?</L>
+<L>I am prepar'd to see the deadly stroke,</L>
+<L>And at that time the fatal Axe falls on thee,</L>
+<L>It will be sure to cut the twisted Cord</L>
+<L>Of both our Lives asunder.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>We must part—</L>
+<L>Thou Miracle of Love, and Virtues all</L>
+<L>Farewell, and may thy <HI>Essex</HI> sad Misfortunes</L>
+<L>Be doubl'd all in Blessings on thy Soul—</L>
+<L>Still, still thou grasps me like th'Fangs of Death—</L>
+<L>Ha! now she faints, and like a Wretch</L>
+<L>Striving to climb a steep, and slippery Beach,</L>
+<L>With many hard Attempts gets up, and still</L>
+<L><PB N="74" REF="40"/>
+Slides down again, so she lets go at last</L>
+<L>Her eager hold, and sinks beneath her weight—</L>
+<L>Support her all—</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>My Lord she will recover;</L>
+<L>Pray leave her with her Women, and make use</L>
+<L>Of this so kind an Opportunity</L>
+<L>To part with her.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Cruel hard-hearted <HI>Burleigh!</HI></L>
+<L>Most Barbarous <HI>Cecil.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>See my Lord,</L>
+<L>She soon will come t'her self, and you must leave her—</L>
+<L>Haste, away.</L>
+</SP>
+<SP>
+<SPEAKER>Lieut.</SPEAKER>
+<L>Make way there.</L>
+</SP>
+<SP>
+<SPEAKER>Ess.</SPEAKER>
+<L>Look to her Faithful Servants, while she lives</L>
+<L>She'll be a tender Mistress to you all—</L>
+<L>Come, push me off then, since I must Swim o're,</L>
+<L>Why do I stand thus shivering on the Shore!</L>
+<L>'Tis but a Breath, and I no more shall think,</L>
+<L>Mix with the Sun, or into Attomes shrink:</L>
+<L>Lift up thy Eyes no more in search of mine,</L>
+<L>Till I am dead, then glad the World with thine—</L>
+<L>This kiss (O that it wou'd for for ever last!)</L>
+<L>Gives me of Immortallity a Tast—</L>
+<L>Farewell,</L>
+<L>May all that's past when thou recover'st, seem</L>
+<L>Like a glad waking from a fearful Dream.</L>
+</SP>
+<STAGE>Exeunt <HI>Essex</HI> to Execution, <HI>Burleigh, Rawleigh,</HI> Lieut. and Guards.
+Manent Countess of <HI>Essex</HI> with Women.</STAGE>
+<SP>
+<SPEAKER>Wom.</SPEAKER>
+<L>See, she revives.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Where is my <HI>Essex,</HI> where?</L>
+</SP>
+<SP>
+<SPEAKER>Wom.</SPEAKER>
+<L>Alas I fear by this time he's no more.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Why did you wake me then from such bright Objects?</L>
+<L>I saw my <HI>Essex</HI> mount with Angels wings,</L>
+<L>(Whilest I rode on the beauteous Cherubin,)</L>
+<L>And took me on'em, bore me o're the World</L>
+<L>Through everlasting Skies, Eternal Light.</L>
+</SP>
+<SP>
+<SPEAKER>Wom.</SPEAKER>
+<L>Be Comforted.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>Sure we're the only Paire</L>
+<L>Can boast of such a Pomp of Misery,</L>
+<L><PB N="75" REF="40"/>And none was e're substantially so curst</L>
+<L>Since the first Couple that knew sorrow first;</L>
+<L>Yet they were happy, and for Paradice</L>
+<L>Found a new World unskill'd, unfraught with Vice,</L>
+<L>No Tyrant to molest 'em, nor no Sword,</L>
+<L>All that had Life Obedience did afford;</L>
+<L>No Pride but Labour there, and healthful Pains,</L>
+<L>Nor Thief to rob them of their honest Gaines:</L>
+<L>Ambition now the Plague of ev'ry Thought,</L>
+<L>Then was not known, or else was unbegot.</L>
+</SP>
+<STAGE>Enter the Queen, Countess of <HI>Nottingham,</HI> Lords and Attendants.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Behold where the poor <HI>Rutland</HI> lyes, almost</L>
+<L>As dead, and low as <HI>Essex</HI> in his Grave</L>
+<L>Can be, and I want but a very little</L>
+<L>To be more miserable than 'em both—</L>
+<L>Rise, rise unfortunate and mournful <HI>Rutland,</HI></L>
+<L>I know not what to call thee now, but wish</L>
+<L>I could not call thee by the name of <HI>Essex</HI>—</L>
+<L>Rise, and behold thy Queen I say,</L>
+<L>That bends to take thee in her Armes.</L>
+</SP>
+<SP>
+<SPEAKER>C. Ess.</SPEAKER>
+<L>O never think to charm me with such sounds,</L>
+<L>Such hopes that are too distant from my Soul,</L>
+<L>For 'tis but Preaching Heav'n to one that's Damn'd—</L>
+<L>O take your pitty back most cruel Queen,</L>
+<L>Give it to those that want it for a Cure,</L>
+<L>My Griefs are Mortal, Remedies are vain,</L>
+<L>And thrown away on such a Wretch as I—</L>
+<L>Here is a Paper from my Lord to you</L>
+<L>It was his last Request that you would Read it.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Giv't me—but oh how much more welcome had</L>
+<L>The Ring been in its stead.</L>
+</SP>
+<STAGE>[Reads to her self.]</STAGE>
+<SP>
+<SPEAKER>C. Nott.</SPEAKER>
+<L>Ha! I'm betray'd.</L>
+</SP>
+<STAGE>[Aside.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Hast, see if Execution yet be done,</L>
+<L>If not prevent it—Fly with Angels Wings—</L>
+<STAGE>[Officer goes out]</STAGE>
+<L>Oh thou far worse than Serpent—worse than Woman!</L>
+<L>Ah <HI>Rutland!</HI> here's the cruel cause of both our Woes,</L>
+<L>Mark this, and help to Curse her for thy Husband.</L>
+<STAGE><PB N="76" REF="41"/>
+The Queen reads the Letter.</STAGE>
+<P>Madam,
+<HI>I</HI> Receive my Death with the willingness and Submission of a Subject,
+and as it is the will of Heaven and of Your Majesty, with this Re∣quest
+that you wou'd be pleas'd to bestow that Royal Pitty on my Poor
+Wife which is deny'd to me, and my last, flying Breath shall bless you.
+I have but one Thing to repent of since my Sentence, which is, that I
+sent the Ring by <HI>Nottingham,</HI> fearing it shou'd once put my Queen in
+mind of her broken Vow.
+Essex.</P>
+<L>Repentance, Horrors, Plagues, and deadly Poysons,</L>
+<L>Worse than a thousand deaths torment thy Soul.</L>
+</SP>
+<SP>
+<SPEAKER>C. Nott.</SPEAKER>
+<L>Madam—</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Condemn me first to hear the Groans of Ghosts,</L>
+<L>The Croaks of Ravens, and the Damn'd in Torments</L>
+<L>Just Heaven, 'tis Musick to what thou canst utter;</L>
+<L>Begon—Fly to that utmost Verge of Earth,</L>
+<L>Where the Globe's bounded with Eternity,</L>
+<L>And never more be seen of Humane kind,</L>
+<L>Curst with long Life and with a fear to dye,</L>
+<L>With thy Guilt ever in thy Memory,</L>
+<L>And <HI>Essex</HI> Ghost be still before thy Eye.</L>
+</SP>
+<SP>
+<SPEAKER>C. Nott.</SPEAKER>
+<L>I do confess—</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Quick, bear her from my sight, her words are blasting,</L>
+<L>Her Eyes are Basilisks, Infection reigns</L>
+<L>Where e're she Breathes; go shut her in a Cave,</L>
+<L>Or Chain her to some Rock whole Worlds from hence,</L>
+<L>The distance is too near; There let her Live</L>
+<L>Howling to th 'Seas to rid her of her pain,</L>
+<L>For she and I must never meet again—</L>
+<L>Away with her.</L>
+</SP>
+<SP>
+<SPEAKER>C. Nott,</SPEAKER>
+<L>I go—but have this comfort in my Doom;</L>
+<L>I leave you all with greater Plagues at home.</L>
+<STAGE><HI>Exit.</HI> Nott.</STAGE>
+</SP>
+<STAGE><HI>Enter</HI> Burleigh <HI>and</HI> Rawleigh.</STAGE>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Madam your Orders came too late—</L>
+<L>The Earl was Dead—</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Then I wish thou wer't dead that say'st it,</L>
+<L><PB N="73" REF="41"/>But I'll be just and curse none but my self—</L>
+<L>What said he when he came so soon to dye?</L>
+</SP>
+<SP>
+<SPEAKER>Burl.</SPEAKER>
+<L>Indeed his End, made so by woful Casualties,</L>
+<L>Was very sad and full of pitty,</L>
+<L>But at the Block all Hero he appear'd,</L>
+<L>Or else, to give him a more Christian Title,</L>
+<L>A Martyr Arm'd with Resolution,</L>
+<L>Said little, but did bless your Majesty,</L>
+<L>And dy'd full of forgiveness to the World,</L>
+<L>As was no doubt his Soul that soon expir'd.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Come thou choice Relickt of lamented <HI>Essex,</HI></L>
+<L>Call me no more by th' name of Queen, but Friend.</L>
+<L>When thy dear Husband's Death Reveng'd shall be,</L>
+<L>Pitty my Fate, but lay no Guilt on me,</L>
+<L>Since 'tis th 'Almighty's Pleasure, though severe,</L>
+<L>To punish thus his Faithful Regents here,</L>
+<L>To lay on Kings his hardest Task of Rule,</L>
+<L>And yet has given 'em but a Humane Soul.</L>
+<L>The subtle Paths of Traytors hearts to view</L>
+<L>Reason's too dark, a hundred Eyes too few;</L>
+<L>Yet when by Subjects we have been betray'd,</L>
+<L>The blame is ours, their Crimes on us are laid,</L>
+<L>And that which makes a Monarchs happiness,</L>
+<L>Is not in Reigning well, but with Success.</L>
+</SP>
+<STAGE>Exeunt Omnes.</STAGE>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="epilogue">
+<PB REF="42"/>
+<HEAD>EPILOGUE,
+By Mr. DRYDEN.</HEAD>
+<L>WE Act by Fits and Starts, like drowning Men,</L>
+<L>But just Peep up, and then <HI>Dop</HI> down again;</L>
+<L>Let those who call us Wicked change their Sence,</L>
+<L>For never Men liv'd more on Providence,</L>
+<L>Not Lott'ry Cavaliers are half so poor,</L>
+<L>Nor Broken Cits, nor a Vacation Whore,</L>
+<L>Not Courts nor Courtiers living on the Rents,</L>
+<L>Of the Three last ungiving Parliaments.</L>
+<L>So wretched that if <HI>Pharoah</HI> could Divine,</L>
+<L>He might have spar'd his Dream of Seven lean Kine,</L>
+<L>And chang'd the Vision for the Mases Nine.</L>
+<L>The Comet which they say Portends a Dearth,</L>
+<L>Was but a Vapour drawn from Play-house Earth,</L>
+<L>Pent here since our last Fire, and <HI>Lilly</HI> sayes,</L>
+<L>Fore-shows our change of State and thin Third dayes.</L>
+<L>'Tis not our want of Wit that keeps us Poor,</L>
+<L>For then the Printers Press would suffer more:</L>
+<L>Their Pamphleteers their Venom dayly spit,</L>
+<L>They thrive by Treason and we starve by Wit.</L>
+<L>Confess the truth, which of you has not laid</L>
+<STAGE>To the Upper Gallery.</STAGE>
+<L>Four Farthings out to buy the <HI>Hatfield</HI> Maid?</L>
+<L>Or what is duller yet, and more to spight us,</L>
+<L>Democritus <HI>his Wars with</HI> Heraclitus?</L>
+<L>These are the Authors that have run us down,</L>
+<L>And Exercise you Critticks of the Town;</L>
+<L>Yet these are Pearls to your Lampooning Rhimes,</L>
+<L>Y' abuse your selves more dully than the Times;</L>
+<L><HI>Scandal,</HI> the Glory of the <HI>English</HI> Nation,</L>
+<L>Is worn to Rags and Scribled out of Fashion;</L>
+<L>Such harmless thrasts, as if like Foncers Wise,</L>
+<L>You had agreed your Play before the Prize.</L>
+<L>Faith you may hang your Harps upon the Willows,</L>
+<L>'Tis just like Children when they Box with Pillows.</L>
+<L>Then put an end to Civil Wars for shame,</L>
+<L>Let each Knight Errant who has wrong'd a Dame,</L>
+<L>Throw down his Pen, and give her if he can,</L>
+<L>The satisfaction of a Gentleman.</L>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="42"/>
+<HEAD>PROLOGUE,
+Intended to be spoken, Written by the Author.</HEAD>
+<L>TIS said, when the Renown'd <HI>Augustus</HI> Reign'd,</L>
+<L>That all the World in Peace and Wealth Remain'd,</L>
+<L>And though the School of Action, War was o're,</L>
+<L>Arms, Arts, and Letter's then increas'd the more.</L>
+<L>All these sprung from our Royal Virgins Bays,</L>
+<L>And flourish'd better than in <HI>Caesar</HI>'s Dayes;</L>
+<L>And only in her time at once was seen</L>
+<L>So brave a Soldier, States-man, and a Queen.</L>
+<STAGE>Essex <HI>and</HI> Burleigh.</STAGE>
+<L>Her Reign may be compar'd to that above,</L>
+<L>As the best Poet, <HI>Caesar</HI>'s did to <HI>Jove:</HI></L>
+<L>For as great <HI>Julius</HI> built the mighty'st Throne,</L>
+<L>And left <HI>Rome</HI>'s first large Empire to his Son,</L>
+<L>Vnder whose weight, till her, we all did groan;</L>
+<L>So her great Father was the first that struck</L>
+<L><HI>Rome</HI>'s Triple Crown; but she threw off the Yoak:</L>
+<L>Straight at her Birth new Light the Heav'ns adorn'd,</L>
+<L>Which more than Fifteen hundred years had mourn'd.—</L>
+<L>But hold, I 'm bid to let you understand,</L>
+<L>That when our Poet took this work in Hand,</L>
+<L>He trembl'd straight like Prophets in a Dream,</L>
+<L>Her awful Genius stood, and threaten'd him;</L>
+<L>Her modest Beauties only he has shown,</L>
+<L>And has her Character so nicely drawn,</L>
+<L>That if her self in purest Robes of Light,</L>
+<L>Shou'd come from Heav'n, and bless us with her sight,</L>
+<L>She wou'd not blush to hear what he has Writ.</L>
+<L>Therefore—</L>
+<L>To all the shining Sex this Play's addrest,</L>
+<L>But more the <HI>Court,</HI> the Plannets of the rest;</L>
+<L>You who on Earth are Man's best, softest Fate,</L>
+<L>So that when Heav'n with some ruff Peace has met▪</L>
+<L>It sends him you to would, and new Create.</L>
+<L>Strange wayes to Virtue, some may think to prove,</L>
+<L>But yet the best, and surest Path is Love;</L>
+<L>Love like the Ermine, is so nice a Guest,</L>
+<L>It never enters in a vitious Breast—</L>
+<L>If you are pleas'd, we will be bold to say,</L>
+<L>This modest Poem is the Ladies Play.</L>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="catalogue">
+<PB REF="43"/>
+<HEAD>A Catalogue of some Plays Printed for R. Bently,
+and M. Magnes, in Russel-Street, near
+Covent-Garden.</HEAD>
+<LIST>
+<ITEM>ALL the Tragedies and Comedies
+of <HI>Francis Beumont</HI> and <HI>Iohn
+Flesher,</HI> in one Volume, containing fifty
+one Plays.</ITEM>
+<ITEM><HI>Tartuff,</HI> or the <HI>French,</HI> Puritan.</ITEM>
+<ITEM>Forc'd Marriage, or the Jealous Bride.</ITEM>
+<ITEM><HI>English</HI> Monsieur.</ITEM>
+<ITEM>All Mistaken, or the mad Couple.</ITEM>
+<ITEM>Generous Enemies.</ITEM>
+<ITEM><HI>Andromacha;</HI> A Tragedy.</ITEM>
+<ITEM><HI>Calisto:</HI> or the Masque at Court.</ITEM>
+<ITEM>Country-Wit. A Comedie.</ITEM>
+<ITEM>Destruction of <HI>Ierusalem,</HI> 2 parts.</ITEM>
+<ITEM>Miseries of Civil War.</ITEM>
+<ITEM><HI>Henry</HI> the 6th. with the Murder of the
+Duke of <HI>Glocester,</HI> in 2 parts.</ITEM>
+<ITEM><HI>Nero,</HI> a Tragedie.</ITEM>
+<ITEM><HI>Gloriana,</HI> a Tragedie.</ITEM>
+<ITEM><HI>Sophonisba,</HI> or <HI>Hanibals</HI> overthrow.</ITEM>
+<ITEM><HI>Alexander</HI> the Great, or the Rival
+Queens.</ITEM>
+<ITEM>Mithridates <HI>King of</HI> Pontus.</ITEM>
+<ITEM>Caesar Borgia, <HI>Son of Pope</HI> Alexander 6.</ITEM>
+<ITEM>Oedipus <HI>King of</HI> Thebes.</ITEM>
+<ITEM><HI>Theodosius,</HI> or the Force of Love.</ITEM>
+<ITEM>The Plain Dealer.</ITEM>
+<ITEM>The Town-Fop, or Sir <HI>Timothy Taudry.</HI></ITEM>
+<ITEM><HI>Abdellazar</HI> or the <HI>Moors</HI> Revenge.</ITEM>
+<ITEM>Madam <HI>Fickle:</HI> or the Witty False one.</ITEM>
+</LIST>
+<LIST>
+<HEAD>Books Printed this Year.</HEAD>
+<ITEM>The Fond Husband, or the Plotting Sisters.</ITEM>
+<ITEM>The Vertuous, Wife or good luck at last.</ITEM>
+<ITEM>The Fool turn'd Critick, a Comedie.</ITEM>
+<ITEM>Squire <HI>Oldsap,</HI> or the Night Adven∣turers.</ITEM>
+<ITEM>The Mistaken Husband, a Comedy.</ITEM>
+<ITEM>Mr. <HI>Limberham,</HI> or the Kind Keeper.</ITEM>
+<ITEM>Notes and observations on the Empress
+of <HI>Morocco.</HI></ITEM>
+<ITEM>The <HI>Orphan,</HI> or unhappy Marriage.</ITEM>
+<ITEM>The Souldiers Fortune.</ITEM>
+<ITEM><HI>Sertorius.</HI> A Tragedie.</ITEM>
+<ITEM><HI>Tamberlain</HI> the Great.</ITEM>
+<ITEM>King Lear.</ITEM>
+<ITEM>The <HI>Vnhappy Favourite,</HI> or the Earl of
+<HI>Essex.</HI></ITEM>
+<ITEM><HI>Thyestes,</HI> a Tragedy.</ITEM>
+<ITEM>Othello, <HI>the Moor of</HI> Venice.</ITEM>
+</LIST>
+<LIST>
+<HEAD>Novels Printed this Year, 1680.</HEAD>
+<ITEM>The Amours of the King of <HI>Tamaran.</HI></ITEM>
+<ITEM>The Amours of the <HI>French</HI> King and
+Madam <HI>Lanilar.</HI></ITEM>
+<ITEM>The Amours of Madam and the Count
+<HI>de-Guich.</HI></ITEM>
+<ITEM>The Pilgrim: A Satyrical Novel on the
+horrible Villanies of those Persons.</ITEM>
+<ITEM>The Secret History of the Earl of <HI>Essex</HI>
+and Queen <HI>Elizabeth.</HI></ITEM>
+<ITEM>The Policy of the Clergie of <HI>France,</HI> to
+suppress the Protestants of that
+Kingdom.</ITEM>
+</LIST>
+<PB REF="43"/>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>
+

@@ -1,0 +1,1529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The favorites chronicle</TITLE><TITLE TYPE="alt" I2="0">Chronique des favoris. English</TITLE><AUTHOR>Fancan, François Dorval-Langlois, sieur de, ca. 1576-1628.</AUTHOR></TITLESTMT><EXTENT>Approx. 89 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2008-09 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A05062</IDNO>
+
+
+<IDNO TYPE="stc">STC 15203</IDNO>
+
+<IDNO TYPE="stc">ESTC S108220</IDNO>
+
+<IDNO TYPE="eebo citation">99843892</IDNO>
+
+<IDNO TYPE="proquest">99843892</IDNO>
+
+<IDNO TYPE="vid">8654</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A05062)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 8654)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1475-1640 ; 767:10)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The favorites chronicle</TITLE><TITLE TYPE="alt" I2="0">Chronique des favoris. English</TITLE><AUTHOR>Fancan, François Dorval-Langlois, sieur de, ca. 1576-1628.</AUTHOR></TITLESTMT><EXTENT>[2], 41, [1] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>[London] :</PUBPLACE>
+<PUBLISHER>Printed according to the French copie,</PUBLISHER>
+<DATE>M.DC.XXI. [1621]</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>A translation of: Fancan, François Dorval-Langlois, sieur de.  Chronique des favoris.</NOTE><NOTE>Place of publication from STC.</NOTE><NOTE>There are two editions; B2v line 2 has (1) "beganne" or (2) "began".</NOTE><NOTE>Reproduction of the original in the British Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2006-11</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2006-11</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2007-03</DATE><RESPSTMT><RESP>Elspeth Healey</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2007-03</DATE><RESPSTMT><RESP>Elspeth Healey</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2008-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A05062">
+<STC T="S">15203</STC>
+<BIBNO T="umi">99843892</BIBNO>
+<VID>8654</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<P>THE
+FAVOVRITES
+<HI>CHRONICLE.</HI>
+{inverted ⁂}</P>
+<P>Printed according to the French Copie.
+M.DC.XXI.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="discourse">
+<PB REF="2"/>
+<PB N="1" REF="2"/>
+<HEAD>THE
+FAVOVRITES
+CHRONICLE.</HEAD>
+<P><SEG REND="decorInit">C</SEG>Vrious Gentlemen, that spend your time
+and take pleasure to recreate your spirits
+with the consideration of the Tragedies
+that are acted vpon the Theater of this
+World; I cannot be perswaded but that
+you haue heretofore read that which
+learned <HI>Aesope</HI> rehearseth in his Fables, of certain Hares,
+who running away when they heard the hounds open,
+by chance past along by the side of a ditch, where there
+were great store of frogs vpon the grasse, who as soone
+as they saw the hares, leapt as fast as they could into the
+water. This action being noted by the timorous hares,
+did in such maner encourage them, that the same onely
+sufficed to make them stay their running any further; at
+which time, one of them (who it may be had studied the
+French eloquence, practised by Master <HI>William du Vair</HI>)
+told them, that from thence forward it behoued them to
+esteeme more of their valours then euer they had done
+before; that it was a shame for them alwayes to haue bin
+held &amp; esteemed to be fearfull, and a signe of reprochfull
+dastardlinesse vnto their auncestors, continually to haue
+vsed to runne away, and neuer durst looke in their ene∣mies
+faces, seeing they were capable to ouercome and sub∣due
+others, as they might well perceiue by experience of
+these croaking frogs, whose onely presence had put them
+<PB N="2" REF="3"/>
+<GAP DESC="illegible" REASON="missing" EXTENT="1+ words" DISP="〈◊…〉"/>, without any stroke given.</P>
+<P><GAP DESC="illegible" REASON="missing" EXTENT="1+ words" DISP="〈◊…〉"/> his notable oration, (as plausibly pronounced, as that
+which my Lord Constable made to those of <HI>Thoulonze</HI>)
+so much encouraged his companions, that presently they
+resolved, not to set vpon <HI>Montaubon,</HI> but in time to come
+to shew themselues more valiant, and to magnifie and ex∣alt
+their generositie, and from thenceforward determi∣ned
+to act some glorious enterprise against those accur∣sed
+hounds, and to turne their faces against their enemies
+to assaile them: which counsell put in execution, tooke
+so bad effect, and fell out so vnfortunately for the authors
+thereof, that thereby they were not onely taken, but torne
+in peeces, to serve for a prey unto their enemies, and a
+jest unto other more judicious and subtill beasts.</P>
+<P>This fable, in my opinion, may properly be applied un∣to
+the levying of armes at this time, whereinto so impro∣vidently
+we have bin led by the plausible inducements of
+certaine prating companions, that have so much advan∣ced
+and magnified the Favourite Hares, that they have
+made them to busie their braines about the ambitious
+reach of their prowd fortunes.</P>
+<P>Every man knowes what discontentment the great
+personages of this Realme have had, to beholde the
+Crowne of France within these foure yeares to be as it
+were besieged by <HI>Luynes</HI> and his brethren; who to the
+great prejudice of the Kings affaires and the Common∣wealth,
+absolutely disposed both of the ordinarie and ca∣suall
+matters of State, to the great desolation of the whole
+monarchie: which to oppose and prevent, the greatest
+part of the Princes and principall Officers of the Realme
+in <HI>Anno</HI> 1620. made a kinde of league. But the number of
+the Leaguers being extreme great, the businesse could not
+be so securely managed as the case required: whereupon
+it fell out so, that it was presently discovered, by the in∣fidelitie
+of certaine persons that betrayed them. In pur∣suite
+whereof, the vanquishers had the victorie without
+<PB N="3" REF="3"/>
+combat, and the vanquished ouerthrew themselues.</P>
+<P>Now appropriating the sence of this fable to my pre∣sent
+discourse, I must tell you that my Masters the Favo∣rite
+Hares, the last yeare being made afraid and abashed
+with the apprehension that they conceived of so many
+yong Princes that sought to overthrow and crosse their
+insolent fortune, they were constrained to abandon the
+delights of the Court, to seeke and finde out some meanes
+to shadow and cover themselves from the great tempest
+which as then seemed to menace them. And so shaking
+and trembling with feare, they went into Normandie,
+where by good fortune they met with certaine people,
+that like true frogs, hid themselves in the reedes, at the
+noise of their horses feete. Which made the Favorites set
+up their eares, and from that time forwards to conceive
+a wonderfull opinion of their affaires. But when they en∣tred
+into the medowes in <HI>Angers,</HI> and perceived that at
+their onely presence, the frogs of <HI>Pont de See</HI> slipt downe
+from off the bridge of <HI>Pont</HI> to hide themselves in the wa∣ter,
+they did then begin upon that occasion to conceive
+so great an opinion of their valours, that they were of
+the minde presently in a maner to set forward to fight
+against the great Turke, without once staying till the
+Duke <HI>de Nevers</HI> vessels were made readie, or the new
+Knights of the Christian warre were prepared to fight,
+imagining themselves to be three <HI>Caesars,</HI> able to over∣come
+and rule over all men, whereupon they resolved to
+lay hold vpon all occasions, and to command all, and so
+farre, as to presume to make, not onely the Princes of the
+blood, but also the Regall authoritie, to serve them for a
+footstoole or a step unto their greatnesse.</P>
+<P>Whereupon our neighbours (hauing <HI>Argus</HI> eyes) be∣ing
+alwayes vigilant, and neuer sleepe, and with their spe∣ctacles
+continually beholding our proceedings, to draw
+some profit from thence, accommodating them to the
+interest of their affaires, perceiving the haughty deseignes
+<PB N="4" REF="4"/>
+of the Favorite Hares; and that the pride which they con∣ceived
+in their hearts of those ridiculous victories, was
+available to thrust them forward and embarke them into
+some great enterprise, how dangerous soever it were, so
+the perill that should be ministred were well gilded over:
+they advised with themselves that a civill warre in <HI>France</HI>
+would fall out well to the purpose, to be a meanes for
+them to attaine to the end of the Germane revolts, and
+of the vsurpation which they pretended to make vpon
+the <HI>Palatinate, Inlliers</HI> and <HI>Valtolina.</HI></P>
+<P>And to make them the more eagerly and easily to catch
+at the baite, they practised to re-assemble all the old rags
+and peeces of the holy league, therewith to make a faire
+cloake of religion, finely sowed by the fathers of the Ie∣suiticall
+societie, and thereof to make a rich present unto
+the eldest Favorite, shewing him what a glorie it would
+be vnto him to weare the same, as in times past a certaine
+Duke of <HI>Guise</HI> had done; and that the onely way for him,
+without any trouble to attaine the Constables office, was
+to gild the scabberd of his sword with the spoiles of the
+foolish hare-braind heretickes, without speaking of the
+great summes of mony that he might by that meanes le∣vie
+of the people, vnder pretence of so pious a quarrell,
+as that of religion would be; besides the hazard that he
+incurred to be canonized, according to the ordinarie ma∣ner,
+with the Cardinals <HI>de Ioyense,</HI> and the Earle <HI>de Fi∣esque.</HI></P>
+<P>This glorious advice, presented with as plausible words
+as those of father <HI>Cotton,</HI> moved our new warriers to a
+desire and great appetite to be doing somewhat: and their
+deseigne was presently confirmed by the Archbishop of
+<HI>Sens,</HI> and the Keeper of the Seales, to whom were shew∣ed
+red Hats, woven by the hand of an Archangell, with a
+letter written by <HI>Pontchartrain,</HI> containing an assurance
+that those Hats were for them: for the which the Cardi∣nals
+<HI>de la Rochefoucault</HI> and <HI>de Rets</HI> were sureties, upon
+<PB N="5" REF="4"/>
+the certificate of father <HI>Berule,</HI> and of the Marquis <HI>de
+Maignelay.</HI></P>
+<P>Touching the execution of the ruin of the heretickes,
+it was solemnly sworne by a Catholick Councell holden
+in <HI>Fontainebleau</HI> by divers great persons of the Realme,
+where the future Constable sat as President, apparelled
+like another <HI>Alexander,</HI> holding a sword of damaske of
+Genes in his hand, about the which was graven, <HI>He that
+kils with the sword, shall die by the sheath.</HI> Now with more
+ease to bring this enterprise to effect, <HI>Luynes</HI> like an ex∣pert
+falconer, esteemed it requifite for him to haue a Duke
+to draw the simpler sort of birds to the lure: and for that
+certaine yeares together he had fixed both his eyes upon
+the office of Constable, although long before hee had
+made an offer thereof to the Duke <HI>de Lesdiguieres,</HI> to see
+what the great personages would say to the reestablish∣ment
+of that office; he purposed to renew that proposi∣tion
+unto him againe, and caused him to come to the
+Court, not with an intent to honour him with that dig∣nitie,
+but on the contrary, to make him desist from it, for
+his owne advantage, and ciuilly to hold him as a prisoner,
+by his wives meanes, who vnder pretence of some par∣ticular
+profit, hath exposed her husbands honour to the
+open view of the world. Thus the said Lord Marshall be∣ing
+fallen into the nets that were laid abroad for him, pre∣sently
+father <HI>Arnoux</HI> was seene to sweate water &amp; blood,
+to procure the conversion of the poore Huguenots; who
+paying him well, he did happily bring into the lap of the
+Church, thereby to warme and encourage the spirits of
+those that were zealous, and to animate them with more
+crueltie against the heretickes. While the Earle <HI>de Schom∣berg</HI>
+had commission given unto him to furnish a masse
+of treasure, to defray the charges which should be conve∣nient
+(at what price soever it should cost) to seeke both
+on hils and in valleys for the band which in times past
+had so often and victoriously bin borne against the Sara∣cins,
+<PB N="6" REF="5"/>
+that it might once againe be displayed in so holy
+a warre. And because it could not be found, what dili∣gent
+search soeuer the fathers made, they were forced to
+have recourse unto some other expedient thing, agreeable
+to the greatnesse of that enterprise. And behold, for want
+of the banner, unexpectedly the Constables sword rose up,
+which <HI>Luynes</HI> had long time hidden in the breasts of the
+Dukes <HI>de Guise,</HI> and <HI>de Mayenne,</HI> and <HI>de Lesdiguieres,</HI>
+from whence he puld it artificially, to lay hold on it. And
+it is to be noted, that the first time that he hung it by his
+side, he held it a while naked in his hand, admiring his
+owne valour, esteeming it equall unto that of <HI>Caesar;</HI> and
+without further consideration of the difficulties of that
+warre, cried out for joy, and said like another <HI>Alexander,
+Nodos virtute resolvo,</HI> and then put the sword into the
+scabberd, from whence it neuer came out againe, by the
+advice of <HI>Cadnet</HI> and <HI>de Branthe,</HI> that they might not be
+reproched, that one of them was more valiant then the
+other. In the meane time, it was resolved to go directly
+to <HI>Saumur,</HI> there to do homage for that warlike sword,
+to our good Ladie <HI>de Ardvilliers,</HI> for the first fruites of his
+militarie actions, to sacrifice vnto her the breaking vp of
+blinde <HI>Monsieur du Plessis Mornays</HI> Librarie, who for that
+he was as ill sighted as the Countesse <HI>de Moret,</HI> was decei∣ved
+by the intercession of <HI>Villarnoud</HI> his sonne in law; so
+it may well be said, that it was the first match that set fire,
+not onely in the Temples of the Huguenots, <HI>du Plessis</HI>
+and <HI>les Touers,</HI> but also in all the Cantons of the Realme,
+for that upon the good successe of the yeelding up of that
+place, the Favorite Hares resolved to adde the conquest of
+<HI>S. Iohn d' Angely</HI> unto their triumphs, into the which
+Towne they had sent <HI>Lo<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>drieres</HI> to betray his compani∣ons,
+and in recompence thereof they promised to dis∣charge
+him of 1000 crownes yearely rent that he ought
+to the Treasurer <HI>Moran,</HI> besides 15000 crownes which
+they gaue him in ready mony. Thus from place to place
+<PB N="7" REF="5"/>
+their conquests extended so farre, till they came before
+<HI>Montauban,</HI> which my Lord Constable thought to take
+as easily as hee could take up his Ladies smocke, as hee
+made knowne by his letters sent to diuers places, by the
+which he assured his friends, that he had sowed so good
+corne in that accursed place, as he made no doubt but
+that it would take roote. That was the cause that <HI>Te
+Deum</HI> was sung in <HI>Boulogne, Lyons</HI> and many other pla∣ces
+for the yeelding up thereof, grounding upon the in∣fallible
+assurance y<SUP>t</SUP> some men had, that he would take it,
+because he tooke all other places but onely <HI>Montauban.</HI>
+But therein he was not to be blamed, for he had sent <HI>Sau∣uage</HI>
+into the Towne, who had promised to deliuer that
+Towne into his hands, as he had done <HI>Clerac:</HI> but the
+traitor deceiued my Lord Constable, and standing on the
+walls, mockt him.</P>
+<P>This device failing, divers batteries were erected, sup∣posing
+by that meanes to put the inhabitants thereof in
+some feare. Trenches were cast up, and furious skirmishes
+were made. Father <HI>Arnoux</HI> to encourage the souldiers, as∣sured
+them by his part of Paradise, that all those that died
+in so holy a quarrell, should neuer go into Purgatorie.
+Whereupon euery man sought and strove to shew forth
+his valour. <HI>Branthe</HI> and <HI>Cadnet</HI> made a goodly shew with
+their great plumes of fethers, a great many of brave gen∣tlemen
+were kild, and every day more and more were
+slaine.</P>
+<P>The report of this siege was spread abroad throughout
+all Europe; and the late deceased King <HI>Henrie</HI> the fourth
+had newes thereof caried unto him in the Elizian fields:
+so that as when he liued he did tenderly and fatherly loue
+and nourish <HI>France;</HI> the care of the quietnesse, together
+with the desire he had to know the state thereof continu∣ally
+vexed his soule. For which cause he sent messengers
+into every place, to discover whether any French men had
+past over the river of <HI>Styx.</HI> The late Baron <HI>de Villeroy</HI>
+<PB N="8" REF="6"/>
+brought him newes, that by chance he had met with a
+Spaniard of his old acquaintance, who had told him for
+certaine, that the Constable of <HI>France</HI> had begun a glo∣rious
+warre against the heretickes, wherein he had pro∣ceeded
+so happily, that in lesse then two moneths he had
+reduced threescore Townes vnder his obedience, batte∣red,
+taken and unwalled <HI>S. Iohn, Pont Nerac, Bergerac</HI> and
+<HI>Clerac,</HI> and that as then he lay before <HI>Montauban</HI> with
+fortie great peeces of cannon. That the Marquis <HI>de Villars</HI>
+and divers others had bin burnt before it, though they
+were no heretickes. That the Marquis <HI>de Themines</HI> and
+the Duke <HI>de Mayenne</HI> also had bin slaine there, besides
+400 gentlemen of name and qualitie, and aboue 15000
+souldiers kild. That touching the raising up of the siege,
+he could say nothing, for that the reverend father <HI>Domi∣nique
+de Iesus Maria</HI> had there lost the subtiltie of his re∣velations;
+and that there was none but the Duke <HI>de Bran∣the,</HI>
+the Duke <HI>de Cadmet,</HI> and the Duke <HI>de Luynes</HI> that
+were capable to take it: but they were not men to ex∣pose
+their bodies in all enterprises, because of the im∣portance
+of their persons.</P>
+<P>Are they Spaniards? said the King. They are, said <HI>Ville∣roy,</HI>
+the onely faithfull Counsellers to the King your son,
+by whose advice all the Realme is governed. Wherewith
+King <HI>Henrie</HI> the fourth scratching his head, stood as if
+he had bin in a dreame, and staying a great while with∣out
+speaking a word, at last sighing with a sad counte∣nance
+and sorrowfull voice, he said: Alas, now I see well
+that these men by litle and litle will vndoe my sonne,
+and that that which my enemies could not do while I li∣ved,
+they will enforce themselues to effect it in his life
+time, by the meanes of those three petie Kings. Let search
+be made in every place, to kuow if there be any of my
+old servants to be found, among all those that have bin
+kild before <HI>S. Iohn, Clerac</HI> and <HI>Montauban,</HI> that I may
+discourse with them touching those lamentable things
+<PB N="9" REF="6"/>
+that are done in my poore countrey of <HI>France.</HI></P>
+<P>Truly, said the Chancellor <HI>de Belieure,</HI> euen now I saw
+almost 20000 persons of all sorts and qualities, which
+stand on the other side of the river of <HI>Stix,</HI> desiring to
+passe over; but the Boate-man <HI>Caron</HI> refused them all, vn∣till
+they have bin purged in the <GAP DESC="illegible" REASON="blotted" EXTENT="1 word" DISP="〈◊〉"/> of Purgatorie. They
+maintaining and constantly aff<GAP DESC="illegible" REASON="blotted" EXTENT="2+ letters" DISP="••…"/>ing, that they were ex∣empted
+from it, because they ha<GAP DESC="illegible" REASON="blotted" EXTENT="1+ letters" DISP="•…"/> <GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>ost their lives before the
+heretiks forts, according to the assurance given them in
+the other world, by the Iesuites <GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>f <HI>Thoulouse</HI> and <HI>Bour∣deaux,</HI>
+and namely by father <HI>Russelay.</HI></P>
+<P>That grieves me much, said the King, I could be con∣tent
+to haue given 100000 crownes to marry the Nunnes
+in <HI>Paris,</HI> vpon condition that this contention were ended,
+I haue so great a desire to see some one Frenchman or o∣ther,
+that might ease me of my care, for the apprehension
+that I haue conceived of the troubles of the King my son,
+of the Queene my wife, and of my children.</P>
+<P>Therewith the Baron <HI>de Liencourt</HI> stept forth and said
+to the King: Sir, your Grace is much troubled to know
+the truth of the affaires in the other world, you need but
+direct your selfe vnto some Iesuites, for they haue letters
+from all places. I came but now from speaking with fa∣ther
+<HI>Gontrie,</HI> hee cannot chuse but know something; if
+you will haue me enquire of him, it may be my wife hath
+written him a word or two thereof. No, no, said <HI>Samet,</HI>
+those kind of people are too craftie and subtill, the truth
+neuer comes directly out of their mouthes, you shal know
+nothing that way; I know a better way, <HI>Caron</HI> the boat∣man
+is my friend, he and I haue many times dranke to∣gether,
+I will deale so well with him, that for my sake
+he shall not make difficultie to suffer some Frenchmen
+(upon my recommendation) to passe over, or else let me
+go over to them, to heare what they can say touching
+your Graces desire. Venture <HI>S. Gry,</HI> said the King, your
+invention is very good. Wherewith <HI>M. Guilliaume,</HI>
+<PB N="10" REF="7"/>
+who in the meane time stood attentively to heare that dis∣course,
+began to say unto the King: My Lord, if you
+thinke it good, I will gladly beare <HI>Sebastian Zamet</HI> com∣panie,
+and will aide him finely to passe over, as the suc∣cours
+did into <HI>Montauban,</HI> while he stands speaking with
+old <HI>Caron,</HI> and then I will speedily make a journey to
+<HI>Louviers,</HI> to know how <GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>ll fares there, and whether the
+Normands are well co<GAP DESC="illegible" REASON="blotted" EXTENT="2+ letters" DISP="••…"/>t to be bowles of Quillibeuf,
+in recompence of their service. I will not have you
+stirre from thence, said the King, you shall stand sentinell
+on the South side, and onely marke when the Archduke
+<HI>Albertus</HI> shall leane off his Monks cowle. <HI>Zamet</HI> dis∣patched
+away, went to the river side, where being arived,
+he heard newes that the Cardinall <HI>de Guise</HI> was come thi∣ther
+with buls, to cause all those to passe over, that died
+as he did in that holy warre, but that there was some dis∣pute
+happened among those that stayed to passe over; for
+which cause <HI>Caron</HI> would not let them passe, for feare lest
+they should fight together while they were in his boate.
+Thereupon <HI>Zamet</HI> to further the businesse, gaue his ad∣vice,
+that it was convenient to sprinkle all those that qua∣relled
+together, with water of oblivion, before they entred
+into the boate, that so forgetting their quarels, they might
+passe over peaceably. This counsell was instantly follow∣ed;
+but as things are full of crosses, another controversie
+hapned after that, betweene the said Cardinall and the
+Duke <HI>de Mayenne,</HI> who should first go into the boate. The
+strife was long, which much displeased <HI>Zamet,</HI> because it
+staid him from returning backe unto the King. The dis∣pute
+was maintained by reasons on either side. The Car∣dinall
+said, he died first, and by consequence y<SUP>t</SUP> he ought
+to go first. The Duke denied not that, but said, hee was
+to be preferred before him, because he had bin slaine in
+the Kings service, and that the Cardinal died onely of sick∣nes.
+The Cardinall replied, that for Gods sake he had a∣bandoned
+both wife and children; and to proue it, desired
+<PB N="11" REF="7"/>
+no other witnes but the Duke <HI>de Nevers;</HI> and that he had
+not done so. At last they stood vpon the difference of
+their degrees and qualities; and for that the Church al∣wayes
+hath the preheminence, it was iudged that the Car∣dinall
+should enter first into the boate, as also because he
+had brought the buls to free them to passe over the river,
+without going into Purgatorie; and so all of them past o∣ver
+with this decree, that those who thereafter should come
+from the siege of <HI>Montauban,</HI> should enioy the like pri∣viledge.</P>
+<P>When they were set on shore on the banks of the <HI>Elizian</HI>
+fields, <HI>Zamet</HI> recived and saluted them, with both his arms
+about their middles, jesting and sporting with them, and
+assuring them that King <HI>Henrie</HI> the great would be ex∣ceeding
+glad to see them, because of the desire he had to
+vnderstand the state of the affaires of <HI>France.</HI></P>
+<P>The impatience that troubled the spirit of that good
+Prince, had moved him to walke with the greatest part of
+his old servitors to the side of the riuer, to meete with <HI>Za∣met</HI>
+the late Baron <HI>de la Guiche,</HI> because he was very tall,
+was he that first afarre off discouered that French troupe,
+and said to the King S. <HI>Fiacre:</HI> Sir, I thinke these are the
+men of <HI>Montauban</HI> before vs, they are a great number, I
+wonder how so many brave men have suffred themselves
+to be made nestle-birds; you will say, that it is a great ar∣mie,
+and I marvell that your Majestie doth not see the
+foule dust which they cause to rise up into the aire with
+their feete. I perceive it well, said the King, let us stay
+here for them; in the meane time take your prospective
+glasse (as the Constable did at <HI>Piquerox</HI>) the better to
+know them afarre off.</P>
+<P>And as the King walked somewhat aside, the Marshall
+<HI>d' Aumont</HI> said: Sir, we shall speedily heare some newes,
+for I see a carrabin among the mirtle trees, that runs as
+fast as he can, to get before his fellowes; he seemes to be
+some harbinger or quarter master, that seekes to come to
+<PB N="12" REF="8"/>
+the campe before the rest, that he may take vp the best
+lodging: but coming nearer, they knew him to be a Ie∣suite,
+that was sent in great haste by his Generall, to per∣swade
+the King, not to beleeue all that should be told him
+touching the lamentable state whereinto the affaires of
+<HI>France</HI> are now reduced: and he was no sooner come to
+the King, but on the other side <HI>Hautefontaine</HI> suddenly was
+at his heeles, who had slipt out of the company, that he
+might excuse himselfe touching the miserable disorder
+hapned in <HI>S. Iohn d' Angely.</HI> And as soone as he spied the
+Iesuite, he suddenly cried out, and said: What doth this
+Iannisarie here? doth it not suffice his Societie to haue
+supported the authors of the diuision between the mother
+and the sonne, but must he come hither also, to trouble
+and disturbe the peace of the blessed? What noise is that
+which I heare, said the King? <HI>Varenne</HI> made answer: It
+is <HI>Hautefontaine</HI> that quarrels with this good father which
+even now came to your Majestie. <HI>Hautefontaine,</HI> said the
+King, bid him come hither that I may speake with him.
+Who coming to the King-presence, he asked him, who
+had sent him into these quarters? By the Lord, Sir, (ex∣cuse
+me, said he, if I do not sweare as the Huguenots do,
+for I am angrie) I am not come hither for mine owne
+pleasure, it is true that I make no account of my life, but
+I am halfe mad to see this Spanish Iannisarie presume to
+speake unto you, after they have dealt with you as they
+have done, and Catholikly set fire in the foure quarters
+of your sonnes Realme. Why do you call them Ianni∣saries,
+said the King? Do not you know, said <HI>Hautefon∣taine,</HI>
+y<SUP>t</SUP> the Turks Ianisaries haue neither father nor native
+country, acknowledging no Lord but the great Turke:
+so the Iesuites neither respect their country nor their pa∣rents,
+but onely bend their mindes and all their studies to
+accomplish the will and desire of <HI>Yo el Rey,</HI> their Sove∣raigne
+Lord; and the better to effect his will and pleasure
+they haue troubled all Christendome, and are the cause
+<PB N="13" REF="8"/>
+of the death of all these brave Knights which are now
+coming hither to your Majestie.</P>
+<P>The King looking backe saw all those that had past
+over the river, who all together began to kneele downe.
+Are these moale-catchers or takers of <HI>Montauban,</HI> said the
+late Admiral <HI>d' Anvile?</HI> The King therwith sharply repro∣ved
+him, saying, Hold you your peace, this is no spectacle
+to be laught at; and therewith his heart was so much grie∣ved,
+that he could hardly speake, yet he refrained not to
+entertain them friendly; and then particularly embracing
+the Cardinall <HI>de Guise,</HI> the Duke <HI>de Mayenne,</HI> and the rest
+of the Lords, he prayed them to go and rest themselves;
+and hauing eased their bodies awhile, he would conferre
+with them at leisure; and therewith he commanded <HI>Za∣met</HI>
+to entertain them wel, and so drew himself aside with
+his most confident friends untill the next day. While the
+King spake unto them, <HI>Hautefontaine</HI> stood talking with
+<HI>Beringhen</HI> touching the motives of the secret mysteries of
+<HI>Bearn,</HI> and entred into so profound a discourse with him,
+that they past over a great part of the night therein. At last
+the King desiring to take some rest, asked for <HI>Beringhen;</HI>
+and answer being made, That he was without, walking
+with <HI>Hautefontaine.</HI> He commanded that they should
+both come to him. And turning to <HI>Hautefonte,</HI> he asked
+him, what occasions had moved them to rebell against the
+King his sonne? saying hide nothing from me, but speake
+boldly like a true Huguenot. Sir said he, if I should die
+once againe by a musket shot at me from the wall by a
+false brother of the companie, I will tell you our affaires
+truly how they past, and wil not lie in any point. It is long
+time since we perceived that the Spaniard doubting the
+end of the truce betweene him and the Hollanders, and
+that for the good of his affairs he sought to trouble <HI>France</HI>
+by some civill warre, finding no better meanes then to
+make us wrangle among our selves with blowes of <HI>Pater
+nosters</HI> and <HI>Clement Marots</HI> Psalms, his device from y<SUP>t</SUP> time
+<PB N="14" REF="9"/>
+effected what it could; and to give us matter and subject
+to enter into the field, many things which your Majestie
+had formerly granted unto us by your Edicts, were de∣nied
+us. The affaires of <HI>Bearn</HI> were brought in question,
+as a countrey neare bordering upon <HI>Spaine;</HI> his principall
+agents there dispersed a certaine quantitie of Medales, for
+marks of Catholikes, on the backe side having <HI>Iulius se∣cundus.</HI></P>
+<P>The Marquis <HI>d' Ancre</HI> was no sooner slaine, but <HI>du Vair</HI>
+Keeper of the Seales, author of the assembly of speciall
+persons, holden in <HI>Roane</HI> in the beginning of <HI>an.</HI> 1618.
+caused that notable decree of the privie Councell for the
+restoring of the temporall goods and lands unto the spi∣rituall
+persons in <HI>Bearn</HI> to be pronounced; but the great
+difficulties touching this restitution, caused the execution
+thereof to be delayed. The <HI>Spaniard,</HI> that stil sought to set
+fire on <HI>France,</HI> caused the Bishop to trot up and downe
+<HI>Paris,</HI> to have an end and order of their suite. Thereupon
+our Ministers made a generall assembly in <HI>Loudun,</HI> in the
+meane time we were undermined by all the malcontents
+in the Realme, but yet they could not win us in any sort
+to estrange our selves from the fidelitie which we owe
+unto our King. <HI>Luynes</HI> and his brethren fearing lest we
+should make a scape, promised us in the Kings name, that
+within six moneths the speciall points of our complaints
+should be answered, and that in the meane time nothing
+should be innovated in the country of <HI>Bearn.</HI> Vpon this
+assurāce we brake up our assembly, with promise by word
+of mouth that we should have leave to reassemble if that
+were not performed within the said time which was pro∣mised
+unto us. But that word was not held with us, but
+on the contrary we were mockt; and without staying till
+the six moneths were expired, your old servant <HI>de la Salle</HI>
+was driven out of <HI>Navarrens</HI> and at the same <GAP DESC="illegible" REASON="missing" EXTENT="2 letters" DISP="••"/>me the Ie∣suites
+were established in <HI>P<GAP DESC="illegible" REASON="blotted" EXTENT="1+ words" DISP="〈◊…〉"/></HI> hereupon w<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/> presented
+our most humble supplications to the King your sonne,
+<PB N="15" REF="9"/>
+and in stead of an answer thereunto, we had a flat deniall.
+Whereupon wee assembled the Deputies to renew our
+complaint, but without giuing them audience, we were
+proclaimed Traitors. Then we saw all the Transmontaine
+faction to arise; and the better to disguise the action, in
+stead of speaking openly against the heretickes, because
+that would have savoured too much of the old league, it
+was reported in all places that we were not good common
+wealths men, and that we had called the virgin <HI>Marie, la
+Guimbard,</HI> thereby to move all the Catholicks vnder that
+pretence to seeke revenge against all those that aided you
+against the leaguers. And in truth, Sir, your Majestie may
+well note and perceive, and so may all good Frenchmen
+likewise, that they have assailed and spoiled none but those
+Townes which in time past served your Majestie for a re∣traict
+in the time of your greatest troubles, witnes <HI>S. Iohn,
+Nerac, Clerac,</HI> and the Towne <HI>Burbon de Montauban,</HI>
+which beares the name of your house, to shew how much
+they that caused it to be built, were affected to your blood.
+This in few words, Sir, is the history of <HI>France</HI> and <HI>Spaine.</HI></P>
+<P>I haue heard you well, said the King, but who thrust
+<HI>Luynes</HI> forward to destroy that which I haue made? A
+designe to make himselfe great by our ruines, and the
+decay of your state, said <HI>Hautefontaine.</HI> There is a great
+apparence thereof, said the King; call <HI>Vair</HI> unto me, said
+he, let me heare his reasons; <HI>Beaulide-ruze</HI> go you and
+seeke him out. That's to no end, said the Marshall <HI>d' Or∣nano,</HI>
+for I haue heard that he is out of his wits for griefe
+that he had to have bin so unfortunate, that he could not
+be at the funerall of the Chancellor <HI>de Sillery.</HI> Let that
+Stoick school-master to <HI>Veron</HI> alone, you have all these
+Lords and Gentlemen here, Sir, who will truly and plainly
+tell you the truth of the desolations of France, to morrow
+in the morning, saluting your Grace, they will let you
+know more, then you would know. You say true, said
+the King. The next day the Marquis <HI>de Termes</HI> was the
+<PB N="16" REF="10"/>
+first that shewed himselfe when the King came out of his
+chamber, who with a smiling countenance bad him wel∣come,
+and then asked him for <HI>Monsieur le Grand,</HI> and
+what Lords and gentlemen had past over the river with
+the Duke <HI>de Mayenne,</HI> as also how many men were slaine
+in those brave enterprises made by the bucklers of France.</P>
+<P>Sir, said the Marquis, my brother hath alwayes bin a
+most humble servant to your Majestie, and so he is still
+unto the King your sonne, and to all the blood Royall▪
+<HI>Luynes</HI> hath put him backe from deling with the affaires
+of the State, and therefore he meddles not therewith.
+Touching those that came with the Duke <HI>de Mayenne,</HI>
+they are 400 gentlemen of good qualitie, and about
+2000 souldiers.</P>
+<P>Shew me particularly the originall of so many mis∣chiefes?
+Sir, said he, the pride of three Falconers, whom
+you placed about your sonne upon the recommendation
+of <HI>Varenne,</HI> who stands there behind you, are and will be
+the cause of the dissipation of your Crowne, they haue
+won the King your sonnes fauour, they do not tell him
+of the affaires of his Realmes, but cleane contrary, and as
+they would have him know it; they have cleane altered the
+whole Court; the Court is filled with their brethren, bro∣thers
+and sisters in law, nephewes, nieces, cousins and al∣lies,
+and all sorts of rascals, having driven out all your old
+servitors, and those of the Queene mother, it being most
+true, that no man (what, or whosoeuer) can haue accesse
+to his Maiestie, but onely by their meanes; they keepe the
+Prince brother to the King your sonne, as their servant;
+they haue laid hold upon the forces of the State, drawne
+the treasures thereof cleane drie, and in a word they go∣verne
+all. What, said the King, doe not the Councell
+speake against those disorders? In truth, Sir, said <HI>de Ter∣mes,</HI>
+they have changed both the Councel and the Coun∣sellors.
+Doth my wife endure that? why doth she not
+oppose her selfe against it? said the King. Oppose against
+<PB N="17" REF="10"/>
+it, said the Marquis; if she should but once opē her mouth
+to speake against it, they would presently clap her up in
+hold, like the Descomans. You iest, said the King; if I
+were she, I would let them know that I am the Queene∣mother.
+Alas, Sir, said the Marquis, if you knew how
+they have used her within these foure yeares and a halfe,
+there is no slave but wold rather enjoy his condition then
+hers; they have driven her shamefully out of <HI>Paris,</HI> they
+limited her two yeares together to stay in the castle of
+<HI>Blois,</HI> they pursued her by force of armes, they haue made
+her follow their armie like a Lanceknights wife; to con∣clude,
+they haue in such maner made her subiect to their
+dominion, that she dares not once complain of the rigor
+which they vse against her. Doth the King my sonne
+know that? said the King. No, Sir, said the Marquis, they
+are warie enough to let him know it; on the contrary, they
+seeke all the meanes they can to divert from her all the
+good affection that the King beares unto her, still whis∣pering
+him in the eare, that she hates him, that she seekes
+to make his brother King, that she is an Italian, and other
+diabolicall inventions to feare him, without once putting
+him in minde that she is his mother, or what love she doth
+beare unto him in that respect. Those are three villanies,
+said the King, I would that <HI>Rapin</HI> had them under his
+hands in the place of execution: but I wonder why the
+Pope doth not take on him to stop the courses of such so∣wers
+of diuision betweene the mother and the sonne; it
+would be a great good for Christendome, and an honour
+unto him. It is hard, said the Marquis, to make an answer
+thereunto, Sir; yet I wil shew you what I have heard from
+father <HI>Raude</HI> a Charterux Monke, a great friend to our
+house, your Maiestie shall understand, if it please you, that
+at such time as those three brethren usurped upon the au∣thoritie
+Royall, they also ioyned with the body of the So∣cietie
+of the name of Iesus for two causes, and the Iesuites
+for two causes entred into league with them. <HI>Luynes</HI> useth
+<PB N="18" REF="11"/>
+their helpe, to get in the mony belonging to the Marquis
+<HI>d' Ancre,</HI> which was in the Mount <HI>de Prete</HI> in <HI>Rome,</HI> and in
+requitall thereof he promised to reestablish them in their
+colledge in <HI>Paris,</HI> in despight of the Court of Parliament,
+as he hath done; and further he hath sent the Marquis <HI>de
+Quemere</HI> Ambassadour to <HI>Rome,</HI> in the Kings name, to so∣licite
+their reestablishment in <HI>Venice.</HI> The Iesuites in re∣compence
+promised him, that they would aide him in all
+things and in every place, and that they would in such sort
+obtaine his Holinesse good will towards them, that hee
+should be favourable unto them during their usurpation;
+and that neither the Pope nor they would exclame in any
+sort against the bad dealing which they should offer un∣to
+the Queene mother: and it is certaine that his Holi∣nesse
+never wrote any thing thereof, neither makes any
+complant against the insolencies of those Favorites. On
+the contrary, the Nuncius <HI>Bentivole</HI> resident in <HI>Paris,</HI> is
+wholy for <HI>Luynes,</HI> who hath made him Cardinall, and
+Comprotector of the French nation in <HI>Rome,</HI> to the preju∣dice
+of the Prince Cardinall of <HI>Savoy,</HI> to whom the King
+had given that protection. Thus <HI>Luynes</HI> is upholden on
+that side. And to the end that the King of <HI>Spaine</HI> should
+not be offended to see the Queene his sister governed by
+<HI>Luynes</HI> and his wife, he hath consented to let him lay
+hold upon the <HI>Grisons,</HI> the <HI>Palatinate</HI> and <HI>Iuliers,</HI> which is
+under the protection of <HI>France,</HI> and which the Queene
+mother following your designe, hath kept out of the Spa∣niards
+clawes; whereas on the contrary, that villaine suffers
+so important a country bordering upon the Realme, to be
+lost. He hath alienated 120000 crowns yearely rent of the
+Church, whereof he hath imbursed 200000 crownes for
+his part: of your sonnes revenues, he and his brethren
+possesse at the least 500000 franks yearely rent, without
+disbursing one penie for it.</P>
+<P>How this discourse grieves me, said the King, I would
+you had neuer spoken to me thereof, let us leave for this
+<PB N="19" REF="11"/>
+time; here comes the Duke <HI>de Mayenne,</HI> and a great num∣ber
+of Noblemen to visit me. All these, said the Mar∣quis
+<HI>de Termes,</HI> will confirme that which I have said un∣to
+your Majestie, and you may know of them what hath
+past since I left them at <HI>Clerac.</HI></P>
+<P>The Duke <HI>de Mayenne</HI> coming neare with all his com∣panie,
+made humble obeysance to the King; and his Ma∣jestie
+bowing his head, welcomed them with teares in his
+eyes: Cousin, said the King, and all you my faithfull ser∣vants,
+it grieves me that you have bin deceived by three
+villaines, who, as I heare, untill this time have abused the
+favour and bountie of my sonne, and generally your free
+spirits. The Duke speaking for them all, said, Sir, I
+know not who hath made your Grace so wel acquainted
+with the pride of those three Falconers, that have used all
+the meanes they can, to put all men both great and meane
+out of the King your sonnes favour by their devices, sold
+all <HI>France</HI> by their covetousnes, and brought all the realm
+into disorder by their monstrous ambition. All men know
+how litle cause I have to speake wel of the Marquis <HI>d' An∣cre,</HI>
+but I may well say, that he was an Angell in respect
+of these three divels incarnate, enemies both to men and
+all valour, and such as never employed them but to their
+overthrow: all they that have past over the river with me,
+know what they are; besides that for mine owne part I
+have every way tried and proved their divellish malice
+in that respect. It is true, that Marquis <HI>d' Ancre</HI> was wic∣ked
+as wel as they, but yet he had some humanitie in him,
+he did good to many, hee was a man of his word, if hee
+crost some great persons, he made much of others: but
+these three plagiaries have bin a scourge to them all,
+thinking it a glory by their dissembling salutations to de∣ceive
+all the world with brazen faces. I will not trouble
+your Majestie with the rehearsall of their detestable acti∣ons,
+nor put you in minde of the rude dealing that they
+have shewed to the Queene your wife, neither how they
+<PB N="20" REF="12"/>
+have scorned my Lord the Prince, nor of their ingrati∣tude
+against my Lady the Countesse, nor what trickes
+they have played with all the Nobilitie: it suffiseth, Sir,
+that you generally know their proud proceedings, they
+have fully gotten the government of the King your son
+and of the authoritie royall into their hands, making him
+beleeve, that they three onely held the Crowne upon his
+head, as if those of his blood had conspired the usurpation
+thereof. For the space of foure yeares they have caused all
+the affaires of importance to passe under their hands; they
+have made the King march with them in all places for
+their owne particular interest; vpon the frontiers of the
+Realme <HI>Luynes</HI> hath bin so proud as to make his entrie in∣to
+townes, accompanied with a Prince of the blood, and
+in rhe presence of the King his Soveraigne; he sent his
+brother <HI>Cadnet</HI> into Flanders, under pretence to go seeke
+his wife, where he spake with Marquis <HI>Spinola;</HI> and after
+that, with a most incomparable pride, covered with pre∣cious
+stones appertaining to the Crowne, he hath bene in
+England, not one of the Kings Councell knowing the se∣cret
+of his embassage; after that voyage he undertooke to
+make himselfe Duke of <HI>Britaigne;</HI> and it is not knowne
+whether since he hath bin keeper of the Seales, hee hath
+dispatched letters patents for the same. In favour of <HI>Ca∣stille</HI>
+he hath neglected all ancient alliances of the Crown;
+he hath suffered the <HI>Palatinate</HI> and the <HI>Grisons</HI> to be lost,
+to make the <HI>Spaniard</HI> favourable to him. The Queene mo∣ther
+preserved <HI>Iuliers,</HI> under the protection of the King
+your sonnes forces, and those three villaines have suffered
+it to be besieged by <HI>Spinola.</HI> To the disgrace of your glo∣rious
+memorie, <HI>Branthe</HI> a meane fellow, that never had
+200 franks yearely rent, hath bin so audacious as to ravish
+the heire of <HI>Luxeburg,</HI> and to force that yong Princesse
+being but eleuen yeares old, and at such a time when all
+<HI>France</HI> was in armes by their meanes; and if the ravishing
+of a maide be punishable, as it is, her action in all circum∣stances
+<PB N="21" REF="12"/>
+is much more punishable. <HI>Luynes</HI> hath exposed
+the King and the Prince his brother into the inconveni∣ences
+of a long voyage, and into the perils of the bad aire
+in the armie, in such maner that the Prince was there sick
+and like to die, and yet he would not suffer him to be car∣ried
+out of the infections of the campe: he hath resolved
+upon the warre against the Huguenots, without taking,
+yea and against the advice of your old Councellers: hee
+hath bin so audacious as to keepe the Kings seales in his
+hands, to promise them to many, but gives them to no
+man, busying himselfe during the dangers of the siege be∣fore
+<HI>Montauban,</HI> with sealing expeditions, in stead of go∣ing
+to the warre, for which cause the souldiers made
+these foure verses of him:
+<Q><L>What shall we of this valiant Warrier say,</L>
+<L>That vseth vs like slaves both night and day?</L>
+<L>He that in peace the Constables office hie,</L>
+<L>And in warre doth the Chancellers place supplie.</L></Q>
+In such maner, that if there be any capitall crime that may
+be objected against a bad servant, that is one of the most
+notorious and greatest. All the mony appointed for pay∣ing
+of the souldiers in the armie, he stayed in <HI>Blayes,</HI> in
+such sort, that more souldiers have died of want and ne∣cessitie,
+then of wounds, for want of reliefe. To be short,
+their covetousnes and villanies are the cause of all the bad
+successe hapned as wel during that siege as in other pub∣licke
+affaires. That which I finde to be most strange,
+said <HI>Balagny,</HI> is, that not one of them hath bin hurt in a∣ny
+of the exploits of their conquests. I will shew you
+a pertinent reason for that, said the Duke, it is because
+they neuer sought after blowes, and blowes never met
+with them; and that is it which <HI>Luynes</HI> Surgeon wrote to
+his wife, that was in doubt lest her husband was slaine in
+the armie: Wife, take no care for me, but be quiet, &amp; feare
+nothing, for I incurre no danger, my Lord Constable
+doth me that honour to affect me much, and to keep still
+<PB N="22" REF="13"/>
+neare unto his person. Thus you see how those gallants
+are miraculously preserved and kept out of the danger of
+blowes, while they cause others to lose their lives.</P>
+<P>Our posteritie, said the King, will hardly beleeue, that
+men of no degree, and voide of all valour, should in so
+short a time lay hold upon the government of <HI>France.</HI>
+Sir, said <HI>Pluninel,</HI> I did neuer so easily with bit and bridle
+manage your Graces great horses in the stable, (without
+comparison) as I have seene them manage all the Prin∣ces
+of your Realme.</P>
+<P>What, said the Marshall <HI>de Brisac,</HI> was not <HI>Cadnet</HI> so
+bold as to threaten the Prince, that he should not go out
+of <HI>Bois de Vincennes,</HI> if he did not consent to give him
+the Princesse of <HI>Orange</HI> to be his wife, who died for griefe
+thereof? You iest, said the King. He hath done more
+then that, said he, for he was so presumptuous as to presse
+the Earle <HI>de Soyssons</HI> to give over the office of high Stew∣ard
+unto him. The late Earle taking the word out of
+his mouth, said, If my sonne had bin wise, he should have
+caused him to be well beaten for his impudencie. You
+haue reason, said old <HI>Courtenay,</HI> if he had <HI>Rambure,</HI> or
+such another Knight as he for his governer, but he hath
+a blocke to be his schoole-master, that knowes not what
+belongs to honour and courage; and therefore those com∣panions
+know with whom they have to do.</P>
+<P>Let us enter into some other discourse, said the King;
+as I remember, one of you told me, that during all these
+businesses, <HI>Luynes</HI> and his brethren carried their wives
+with them unto the warre, and that they were with them
+during the important siege of <HI>Montauban;</HI> if it were so, it
+is very likely that their intent was no other but onely to
+make their battery under curtains. At that word M. <HI>Wil∣liam</HI>
+gave a nod, and said to the King, Indeed my Lord,
+you have often bin told, that they play the Kings, and that
+I acknowledge, they have heretofore sitting by the fire
+heard how you in times past rid upon the League, and
+<PB N="23" REF="13"/>
+those gallants would imitate you, and thinke by riding
+their wives, to ride upon the Huguenots: but those wic∣ked
+heretickes have knavishly ridden upon them before
+<HI>Montauban.</HI> Whereat all of them began to laugh. But
+the King enquired of the miracle of the Spie, and much
+desired to know it, and speaking thereof, askt, why, after
+he had escaped in such maner, he was not sent into the
+Towne, to convert the inhabitants. Faith of a gentle∣man,
+said <HI>de Loppe,</HI> that had bin no safetie for him, for so
+the people might have hangd him up in good earnest.
+God is strong every where, said the King, and can defend
+those that are his, at all times and in all places: but tell me
+who sent father <HI>Dominicke de Iesus Maria</HI> into France?
+what maner of man is he? And it please your Majestie,
+said the Earle <HI>de Fiefque,</HI> he is a holy man, I yet have a
+portatise cloake that he gave me; your Majestie will not
+beleeve what honour the Parisians did unto him, and yet
+know not wherefore; every woman cut off a peece of his
+gowne; and he came thither onely to shew us that all the
+Spaniards are not Saracins, and that there are some holy
+men among them. If I had bin of the Kings Councell,
+said the Abbot <HI>du Bois,</HI> I would in counter-change have
+sent father <HI>Berule</HI> to <HI>Madril,</HI> I am sure that the women
+of <HI>Castile</HI> would also have cut his fustian. That were
+good, said the Marshall <HI>de Fervaques,</HI> if French cloth
+were as fine as Spanish cloth; but if I were of the Coun∣cell,
+as the Cardinall <HI>de Rets</HI> is, and as forward as the Earle
+<HI>de Chomberg,</HI> (who is capable to redresse all <HI>Luynes</HI> faults,
+so that he doth not joyne with forreine faction) I would
+make the Spaniard know, that he is not a better Catholik
+then I my selfe am, and would keepe him from having
+secret intelligences with our Favorites, to the great de∣triment
+of the Kings service and the Realme, which goes
+to decay, if remedy be not speedily had therein.</P>
+<P>I confesse, said the King, that since I have heard of all
+the bad and perfidious practises which that gallant and his
+<PB N="24" REF="14"/>
+brethren have done and performed, my son never know∣ing
+thereof, my spirit hath bin in continuall perplexitie,
+fearing lest they should destroy their good maister and
+great benefactor. Sir, said the Marquis <HI>de Villars,</HI> the
+earth never bare more traiterous and ambitious villaines
+then they are; they have bin so bold the last yeare to
+cause a Maske to be made in <HI>Burbon</HI> hall, wherein they
+presented divers mysticall figures, and among the rest, a
+great Lady and divers Giants chained, whom <HI>Luynes</HI> ap∣parelled
+like <HI>Phebus,</HI> drew after him, whereof the greatest
+resembled the Duke <HI>de Mayenne,</HI> upon whose head <HI>Luy∣nes</HI>
+set his foote, for a signe of servitude. Truly, said the
+Baron <HI>de Plancy,</HI> he made another more impudent in the
+Castle of <HI>Piquerox,</HI> for there perceiving the King to be
+grieved for the losse he had received by the death of the
+Duke <HI>de Mayenne,</HI> he devised a litle Comedie to make his
+Majestie merrie, wherein hee presented a great <HI>Moore</HI>
+making divers strange jestures; and for that he resembled
+the Duke <HI>de Mayenne,</HI> the King commanded them to leave
+and act no more. Why? said <HI>Luynes.</HI> Because, said the
+King, that this man in all respects resembles the Duke <HI>de
+Mayenne;</HI> I cannot endure to see it. Truly Sir, said he,
+his death needs not minister cause of sadnesse to your
+Majestie, for he was a turbulent fellow, that troubled all
+your affaires; you were no King as long as he lived; we
+haue discovered and found out that he made a third par∣tie,
+and since his death we have found all his practises.</P>
+<P>Thus this villaine alwayes sought to divert all the good
+opinion that his Majestie had of his servants, and of all
+those of his blood. He did another matter, said the Se∣cretarie
+of State for the Seales, he was so impudent as to
+write vnto the Pope, that the Queen mother was the cause
+that <HI>Montauban</HI> was not taken, thereby thinking to cover
+his owne cowardlinesse; from whence it may be con∣jectured
+how many false reports he hath made to the king
+your sonne, seeing he was so bold to send such a message
+<PB N="25" REF="14"/>
+to his Holinesse. You shall never have done Sir, said the
+Earle <HI>de Lude,</HI> if you will hearken unto all their arrogant
+actions, who knowes them better then my selfe that
+brought them up? as long as any of that race are neare a∣bout
+the King your sonne, they will spoile all, there being
+no kind of wickednes whereof they are not capable: and
+aboue all things beleeve it, Sir, my Lord the Prince may
+well offer a great candle unto God when he shall escape
+out of their hands; your Majestie must foresee these
+things.</P>
+<P>As the King was discoursing with the Lords touching
+the sorrowfull state of the affaires of <HI>France,</HI> and about the
+meanes to remedie the same, all the assistants partaking
+with the griefe of that good Prince, on a sudden <HI>Mon∣sieur
+de Vury</HI> breaking through the prease came to his Ma∣jestie,
+and to comfort him, said, <HI>Corbien</HI> Sir, you have
+sufficiently lamented the miseries of the time, I must now
+make you merry a while, by telling you that which I pre∣sently
+saw: as I was hawking after a partridge along by
+the river side, by chance I came to as merrie a combat as
+ever was acted upon the Theater <HI>de Tabarim</HI> in the place
+<HI>Dauphine.</HI> Betweene whom said the King. Your Ma∣jestie
+must know, said <HI>Vitry,</HI> that Marshall <HI>d' Ancre</HI> walk∣ing
+along by the river side with <HI>Dole,</HI> when <HI>Charon</HI> set on
+shore the new Constable of France, with his sword of say.</P>
+<P>What, said the King, is he here? <HI>Corbien</HI> said he, he is
+there, I assure your Grace, I haue seene him, and when I
+saw him, I laught for ioy, he hath the countenance of as
+notable a rascall as ever I saw. But before I proceed fur∣ther,
+I must tell you of the pleasant salutation of these
+two combattants: Marshall <HI>d' Ancre</HI> walking as I said be∣fore,
+stood still to contemplate the proud gestvre of that
+new come guest, and beholding his face, he knew it was
+<HI>Luynes;</HI> wherewith suddenly the blood rose in his face,
+and he said to <HI>Dole,</HI> Behold the traitor that caused me to
+be kild, I will now kill him; and without speaking any
+<PB N="26" REF="15"/>
+more words, casting his cloake over his face, went to meet
+with him; and as soone as he got to him, he gave him a
+great bob on the nose, saying, Traitor, now Ile make thee
+pay for thy villanie. The Constable abasht thereat, said,
+You are deceived, you mistake me for another, I under∣stand
+no Italian. <HI>Pardieus,</HI> I undestand French well. Lay
+hand on thy sword, said the Marquis. Are not single
+combats forbidden here, said the Constable? Villaine,
+said the Marquis, thou art afraid; and saying so, he fell
+upon the Constable, and gave him divers great blowes
+with the flat side of his sword, in such maner, that never
+any curtall jade was so well beaten. The Archbishop of
+<HI>Sens</HI> that stood hard by them, had a great desire to helpe
+him, but he durst not go betweene them, still remembring
+the blowes with spits which were given him in <HI>Tours</HI> by
+the Marquis <HI>de Noirmontiers</HI> cookes, when he was Solici∣ter
+of his house; and so for want of aide, the villanous
+Constable was as well beaten as ever was <HI>Dieret Chiury,</HI>
+when he imagined that the blowes with a cudgell which
+were given him, were pistols shot: for Marquis <HI>d' Ancre</HI>
+still laid on like <HI>Rovillac,</HI> and <HI>Luynes</HI> cried out as loud as
+he could, like <HI>Ronsselay.</HI> at S. <HI>Germains</HI> Fayre: which was
+the cause that <HI>Radamanthus</HI> Lackeys ran thither, and laid
+hold upon those two champions, intending to carry them
+before the ludge to be punished for their insolencies.</P>
+<P>Marquis <HI>d' Ancre</HI> alledged that he was not the man that
+first brake the peace, and spake them so faire, that they let
+him go; in the meane time <HI>du Travail</HI> came thither, who
+fiercely laid hold on the Constables coller, in such maner
+that I thought he would have strangled him; but when he
+had set his foote vpon his belly, and taken his sword from
+him, he ran away, leaving him there in a maner halfe dead,
+saying nothing to him, but onely, Remember thy selfe
+Provinciall. I that tooke pitie to see that <HI>Rodomond</HI> fa∣vorite
+so hardly used, found the meanes, that without ta∣king
+the advice of <HI>de Modenne</HI> or <HI>de Contade,</HI> I puld him
+<PB N="27" REF="15"/>
+slily out of their clawes, and brought the gallant hither
+to make your Maiestie some sport. Truly, said the King,
+you have done me good service, let him come in, that we
+may see that great Warrier and great Statesman all in one.
+Whereupon Colonell <HI>Galatis</HI> with a <HI>das tich</HI> Gods sacra∣ment,
+caused the prease to open, and therewith <HI>Vitry</HI>
+brought him in, every man as well as he could fixing
+their eyes upon him to behold his physiognomie. The
+Poet <HI>Desportes</HI> at his entring, giving him a welcome ac∣cording
+to his Art, and speaking aloud, said:
+<Q><L>Give place, give place to this companion,</L>
+<L>Who while he liv'd was like a great Monarchus:</L>
+<L>But being borne in Champianion,</L>
+<L>In Poiteiou he was cut off by Parcus.</L></Q>
+Being in the middle of the companie, all of them began
+to crie, saying, The fox, the fox, wherewith you never saw
+villaine more ashamed; and after silence was made, the
+King askt him, who he was, I am, said he, the Constable
+of France, your most humble subiect and servant. Con∣stable?
+said the King; by what title got you that office? it
+is not aboue foure yeares since you were but a Falconer,
+and in so short a time have you attained to so high a de∣gree?
+you have made great haste. You must not muse
+thereat, Sir, said <HI>Haeren,</HI> if hee had not put me out of
+countenance, I had had as good fortune as he. Hold
+your tongue, said the King. <HI>Parmafe,</HI> and it please your
+Maiestie, said M. <HI>William,</HI> I could be well content to pay
+his breech with a whip full of points to be revenged on
+him for the pension that he tooke from me, to give it un∣to
+<HI>de Mons</HI> his brother in law. Truly M. <HI>William,</HI> said
+<HI>Saroque,</HI> you are misinformed to beleeve such things,
+my Lord Constable was not so foolish to imagine that he
+could make that small matter of <HI>Province</HI> greater then it
+is, notwithstanding that he is the most valiant man of
+them all, for he alone tooke <HI>Montauban,</HI> or else they of
+<HI>Montauban</HI> tooke him. What extravagant words are
+<PB N="26" REF="16"/>
+<GAP DESC="duplicate" EXTENT="1 page" DISP="〈1 page duplicate〉"/>
+<PB N="27" REF="16"/>
+<GAP DESC="duplicate" EXTENT="1 page" DISP="〈1 page duplicate〉"/>
+<PB N="28" REF="17"/>
+these, said the King? give us leave quietly to hearken un∣to
+the mysticall discourse of this new conquerour.
+Sir, said the Duke <HI>de Mayenne,</HI> he will but abuse you with
+words, he is a perfect lyer, command him to go directly
+to the matter, otherwise I cannot abstain from giving him
+a blow on the lips at the first lie he makes. With that
+the King turning to the champion, said briefly unto him,
+Heare you my Lord Constable made in haste, abuse not
+my leisure, tell me all your notable proceedings, without
+dissimulation, if you desire to finde mercie at my hands
+for your misdeeds: all these gentlemen know your acti∣ons,
+and the Earle <HI>de Lude</HI> that stands here, is wholy ac∣quainted
+with your life, go directly to worke, otherwise
+you shall finde <HI>Lugoly</HI> ready to give you your hire.</P>
+<P>Sir, said <HI>Luynes,</HI> now I perceive well that I am undone,
+<HI>In manus tuas commendo spiritum meum,</HI> my processe is
+made, and further all these noble gentlemen that are here,
+will never pardon me, for that as many Lords as are here
+about your Majesty, are as many witnesses to convince me
+of all the perfidious actions that I have committed both
+against the one and the other, and the worst is, that I
+haue not the authoritie Royall to cover my faults any
+more, nor to support my insolencies; I must needs con∣fesse,
+that I haue offended God, the King my master, and
+all men, and that there is no punishment great enough
+to recompence my deserts: but I will gladly say with <HI>Cae∣sar,
+Si violandum est ius, regnandi causa;</HI> all that I haue
+done, was not effected by any wicked inclination that
+was in me, but onely by a generous ambition to raigne. I
+knew how easily Marquis <HI>d' Ancre</HI> obtained the govern∣ment
+of the State, I beleeved and was verily perswaded,
+that in that point I could doe more then a stranger, that
+onely had a woman to support him, and that I possessing
+the Kings heart, was the more able to dispossesse all men,
+and to possesse all things: for my designe was to sur∣mount
+that Italian; and if any of my good friends sought
+<PB N="29" REF="17"/>
+to divert me from that generous enterprise, presently <HI>du
+Agent, Contade</HI> and <HI>Ronsselay,</HI> cried out in mine eares, say∣ing,
+What are you afraid of? If Marquis <HI>d' Ancre</HI> could
+make the Frenchmen cullions, why should not you be∣ing
+a great Falconer take them for birds? <HI>Audaces fortuna
+invat,</HI> said my father in law; we must draw water when
+we are at the well side, said my wife; we are of the same
+kind of wood whereof men make Princes, said my bre∣thren;
+and I said Modene, of the same that the Marshals of
+<HI>France</HI> are made. All these motions encouraged me, and
+in truth my first bringing up to fowling taught me so
+well to flie, that in foure yeares space I surpast all those
+that medled with the affaires of State before me.</P>
+<P>I caused Marquis <HI>d' Ancre</HI> to be kild, to haue his place;
+I vrged the Parliament to put his wife to death, that I
+might haue his goods. I kept the Queene mother as much
+as I could from the presence and favour of the King her
+sonne, that I might onely enioy it. I kept the Prince of
+<HI>Conde</HI> prisoner, and let him not come forth, but then
+when I thought he could no more hurt me, and that he
+might serve my turne. I vsed charmes to trouble the spi∣rit
+of the King and of the Queene, employing <HI>Boisgandrie</HI>
+to that effect, whom I caused to be committed prisoner
+in the Bastile, because he would have disclosed me. I set
+division among the Princes, and estranged them all from
+the Kings favour. I abused all those that had any thing
+to do with me, with promises and faire words. All places
+that were voide, I got into my hands. With the Kings
+mony I bought all the governments that I could get;
+and constrained some to yeeld theirs unto me. I had whole
+Provinces under my obedience; there is no part of the
+Realme, but therein I have townes. I have drawne <HI>France</HI>
+drie of mony. The greatest part of the Kings domaines is
+mine, or my brethrens. I did absolutely dispose of the sale
+of offices; and as I disanulled the annuall right, I also e∣stablished
+it. I made all mine enemies stoupe, and as much
+<PB N="30" REF="18"/>
+as I could, I made all the world know what power I had
+over the genius of the King, that men might addresse
+themselves vnto me, and be perswaded that the King
+could do nothing without me. This, Sir, is that whereof
+I may be accused: but he that will consider of that which
+resteth, without passion, he shall finde that these are not
+actions of a dull spirit, but of a brave courage, which ra∣ther
+deserve commendation then blame, and for the
+which I was never reproved by my Confessor.</P>
+<P>Marquis <HI>d' Ancre</HI> could never equalize himselfe with me
+in this respect; his designes were base in regard of mine;
+he could not attaine to any degree, but onely to be Mar∣shall
+of France, and I for my part made at least twelve
+Marshals. He could neither make himselfe Knight of the
+Order of the holy Ghost, nor Duke; and all you my Lords
+that are here know well, that I gaue that Order to whom
+I would, and that I made more Dukes then there are
+sparrow-hawkes in the Kings Mewes, and so many, that
+the Parliament of <HI>Paris</HI> was forced to say, it was too
+much. But those foure cornerd caps know not, that my
+intent was to extirpe the heretickes; and that for so dan∣gerous
+a warre I had need of many Dukes, Marshals and
+Knights, to honour the Constables sword which I reser∣ved
+for my selfe, by the Iesuites counsel, and his Holinesse
+himselfe, who assured me by his Nuncius, that if I under∣tooke
+that Catholicke designe, that heauen would reserve
+the diademe and the purple for me, as in effect I wanted
+not the latter; and if I had not bin constrained to leaue
+the siege before that cursed towne of <HI>Montauban,</HI> the ac∣complishment
+of destinie had given me the Scepter.</P>
+<P>I doubt not, Sir, but you haue bin entertained with a
+thousand iests touching the impertinent proceedings of
+my militarie exploits, and specially upon the subiect of
+my approches made before <HI>ville Burbon.</HI> I take not upon
+me to defend my selfe against bad speeches, it sufficeth
+me that my actions seemed to be heroicall, and my de∣signes
+<PB N="31" REF="18"/>
+haughtie. Further, I care li<GAP DESC="illegible" REASON="blotted" EXTENT="2+ letters" DISP="••…"/>e what the world can
+say, and that is it which I wrote for an answer to a let∣ter
+sent us by our most deare vncle the Duke <HI>de Modene</HI>
+in <HI>France,</HI> touching the slanders that were published in
+<HI>Toulouse</HI> against me and my qualitie; I could easily haue
+restrained and punished the libertie of such tongues, but
+like an old Courtier, I use not to be afraid of reports, as
+I made it well appeare in the strongest assaults of the siege
+before that filthy towne, where I refrained not from slee∣ping
+sweetly in my bed, notwithstanding the roaring of
+the cannons, upon the assurance that I had that they
+could not hurt me. Did not the souldiers call my quar∣ter,
+the place of villanie? but for all that I never made lesse
+cheare. They also mockt my wife as often as she came to
+visit me in the campe, in mockery saying, that she went
+oftener to combat with me, then I did with the enemie:
+but such reproches moved me not, seeing that my wife
+and I had no other intent but to do well, as we alwayes
+did well, thankes be to God; and beleeue me, Sir, that
+those malicious evill speakers spake but of envie, as grie∣ved
+to see us take our pleasures, while they were at blowes,
+and by the eares together in the trenches like rascals, suf∣fering
+themselves to be beaten, which made them vomit
+out their rage, not onely against me, but also against my
+brethren and their wives, who like true <HI>Amazons</HI> never
+fainted in all the combats wherein they happened to be,
+encouraged thereunto by the wise discourses of <HI>Madame
+de Guimbarde</HI> and of my sister <HI>du Vernet</HI> the true mirrour
+of chastitie, of whom I learned never to be angry for that
+which men said, so I do well. This also that I shew you,
+Sir, is not to give you cause to thinke that such things
+grieved me not much, but onely to make my great pati∣ence,
+my exceeding bountie, the force of my spirit, and
+the gentlenesse of my courage apparent. Who but my
+selfe (except the Duke <HI>de Vzes</HI>) would not haue sunke
+under the burthen of the continual watchings and paines
+<PB N="32" REF="19"/>
+which I endured in the conduction of this warre? Like
+another <HI>Atlas,</HI> I was forced to beare all the burthen of the
+Realme vpon my shoulders, ordaine all, provide for all,
+resolve upon all, and besides that was charged not onely
+with the affaires of the Realme, but also with Gods cause,
+which particularly was to be respected in that holy en∣terprise,
+as father <HI>Arnoux</HI> assured me, and the holy Earle
+of <HI>Fiasque</HI> that stands there, who oftentimes told me in
+my eares, that it was revealed unto him when hee was a
+Capucin, which was the cause that made him leave the ha∣bit,
+once againe to employ his sword, and weare temporal
+apparell, and for my particuler that was the cause that
+made me imbarke my selfe therein, with so much more
+zeale as I saw the successe to be easie, the conquest glori∣ous,
+and the spoiles profitable for my glorie.</P>
+<P>What better beginning could your Maiestie have wish∣ed,
+then the first progresse of our victories? Blinde <HI>Morney</HI>
+at our first arrivall did obedience unto us; we did rigo∣rously
+punish the rebellion of those of <HI>S. Iohn;</HI> we powred
+our curse upon <HI>Pons;</HI> we cast the arrowes of our anger
+upon <HI>Clerac,</HI> where we had that good lucke to rid our
+selves of that brave Marquis <HI>de Termes,</HI> upon which sub∣iect
+father <HI>Arnoux</HI> and I wrote two comfortable letters
+to <HI>Monsieur le Grand</HI> in most eloquent maner. In every
+place they brought us the keyes of the townes. They of
+<HI>Toulonze</HI> came in great haste to offer us their armes and
+their lives, with a good summe of money, to move us in
+all haste to besiege that execrable towne of <HI>Montauban,</HI>
+which at my first arivall I thought to take with a lure, like
+a hungrie sparrow-hawke; and I wil confidently tell your
+Maiestie, that I had determined to have erected it in a Du∣chie
+for my sonne, as to seale the letters patents my selfe,
+with an addition of the Earledomes of <HI>Armagnac</HI> and <HI>Al∣bert;</HI>
+that was the cause that I could not consent to the
+ruine of the brave fortifications of that place, desiring to
+make use of them for my selfe. And to minister some
+<PB N="33" REF="19"/>
+comfort to those of <HI>Toulouse</HI> for their mony which I had
+sent to the Castle of <HI>Blaye,</HI> I and my brethren had devi∣sed
+to take the Hugonet throne out of their feete, and to
+place another Catholicke therein, which we had happily
+done, if those of <HI>Montauban</HI> would have beleeved us, or
+at least have suffered us to do as <HI>la Faydeau.</HI></P>
+<P>To conclude, Sir, what have I not done to have an
+honorable issue of that miserable siege, all the inventions
+in the world were there put in practise. What have I not
+promised to the third and fourth? What can men reproch
+me of, but onely that I was not at the trenches? Alas, it
+was my onely desire not to stirre; but these gentlemen
+here present know, that it ws impossible for me, in respect
+of the continuall employments that I had about the
+Seales. I trusted touching the warre, to the generositie of
+this valiant Duke <HI>de Mayenne,</HI> whom we have thereby
+caused to see the ioyes of Paradise, and in recompence
+thereof he hath made us heires of that hee left in the
+camp.</P>
+<P>It is true, that to lure the world like a hawke, we caused
+the government of <HI>Guyenne</HI> to fall into the Prince the
+Kings brothers hands, but I would never seale his letters
+patents for the same, that he might still be like Lent, and
+my brother <HI>Branthe</HI> like Shrovetide, that is, Lent taking
+her beginning. Thus we made our profit a thousand ways,
+by the hurt and disgrace of others. If we had a care of our
+owne lives, we had no lesse of the soldiers; having sought
+as much as possibly we might, all gentle meanes and pra∣ctises
+to overcome those rebels, before we would proceed
+unto extremities.</P>
+<P>Did not I with great care and diligence cause father
+<HI>Dominicke de Iesus Maria</HI> to come into the armie, belee∣ving
+that his holy prayers would make the taking of that
+place the more easie, and that he would make a second
+<HI>S. Bartholmewes</HI> day of the Huguenots in <HI>Paris.</HI> And if he
+hath thought much to doe as much for <HI>France</HI> before
+<PB N="34" REF="20"/>
+<HI>Montauban,</HI> as he did for <HI>Spaine</HI> before <HI>Prague,</HI> I could
+not do withall; I did the best I could to keep him there,
+that his presence might animate the souldiers, and con∣vert
+those headstrong heretickes, which father <HI>Arnoux</HI> a
+true spirituall mirror did not well like of, alledging that it
+was sufficient to have one <HI>Charlatan</HI> in the Court, in the
+meane time all is laid upon me, although I am innocent
+of the unfortunate successe of the siege.</P>
+<P>What shall I say more, did I not invent a subtill stra∣tageme,
+therewith to mollifie the hearts of those rebels,
+that is the miraculous hanging of that villanous spie, that
+brake the rope three times upon the gallowes? nevertheles
+they within the towne, as also a great part of the armie,
+would not beleeve that miracle, because he rather com∣mended
+himselfe to our Lady of <HI>Monferrat</HI> in <HI>Spaine,</HI> then
+to the good Lady <HI>de Liesse</HI> in <HI>France.</HI> Further, my brethren
+and I made provision of a great number of invisible re∣giments,
+but it was reported that we would put them in∣to
+our owne purses, whereas our designe was to serve our
+turnes with them, to cast them invisibly into the towne,
+thereby to take it the easier. And if we failed therein, I am
+no more the cause thereof, then of the raine and sicknesse
+which continually troubled the soldiers, and which made
+an end of setting us forth. No, Sir, I cannot warrant men
+against the works of God, no more then I can from those
+which are imputed unto me, by meanes of my ambition
+and villanie; but if I had lived a litle longer, I would
+haue made all the world see and perceiue that I intended
+to be a souldier.</P>
+<P>I confesse that I was but a new beginner in the Art,
+when I made my selfe Constable, and that I had never
+seene siege nor battell, but I was resolved this Winter to
+learne the military Art with all perfection, in stead of pra∣ctising
+to dance. The Baron <HI>de Caban,</HI> otherwise called <HI>de
+Maine,</HI> having promised me in three moneths space to
+make me as good a Captain as himself, who of a Musition
+<PB N="35" REF="20"/>
+in two yeares became a great warrier, whatsoever the
+Marshall <HI>de Roquelauere</HI> said, who in despight that I em∣ployed
+him in the siege of <HI>Monheur,</HI> sware, cap <HI>de Bions,</HI>
+that he would not go to the warre with a Musition: and
+being taught by so good a maister, this Spring time I wold
+have paid those of <HI>Montauban,</HI> but God did prevent me
+in all my designes.</P>
+<P>Truly, said the King, your discourses are notable, but
+your actions are not much worth, such men as you are
+alwayes punished by the hand of God; get you away out
+of my presence, and let me see you no more.</P>
+<P>After that, the King taking the advice of his old ser∣vants,
+ordained, that as <HI>Luynes</HI> had plaid with great per∣sonages
+in his life time, he would haue him serve to make
+them sport after his death, and therefore appointed him
+to carrie fourmes every time that they ran at the Ring, or
+with their Lances; and to begin his prentiseship, that he
+should be delivered into the hands of the Duke <HI>de May∣ennes</HI>
+pages.</P>
+<P>According to this decree he was presently laid hold on,
+who then speaking to the Cardinall <HI>de Guise,</HI> shewed him
+that he died without confession and receiving of the Sa∣crament,
+praying him to give him absolution for his sins.</P>
+<P>To whom do you speake, said the Cardinall? do you not
+know that I am no Priest? Then he turned to the Bi∣shop
+of <HI>Marselles,</HI> to whom he made the like request.
+And he made him the like answer that the Cardinall had
+done, adding further &amp; saying, Before you went out of
+the other world you should have caused your selfe to be
+absolved by the Cardinall <HI>de Rets</HI> your creature, or rather
+by the Bishop of <HI>Lusson</HI> your kinsman, hee would never
+have denied you his blessing, notwithstanding that you
+put him beside the Cardinals hat, so you had promised
+him upon the securitie of <HI>Marillac</HI> and <HI>le Seq.</HI> to abstaine
+from making pernicious reports unto the King, thereby
+to alienate the good will which his Maiestie beareth to
+<PB N="36" REF="21"/>
+the Queene his mother; as for me, I cannot helpe you,
+save your selfe as well as you can. With that the late
+Marshall <HI>de Rets</HI> went to <HI>Luynes,</HI> and speaking unto him
+in his eare, said, Alas poore foole, thou shouldst have
+pluckt the goose without crying like me; if with humi∣litie
+thou hast honored the great personages, they would
+have upholden thee, and thou hadst enioyed thy fortunes
+with securitie. Then turning his head here and there
+about him, hee perceived the late Earle <HI>de Lude,</HI> which
+three times he called his good maister, of whom hee as∣ked
+pardon for the ducale perfidiousnes which he offered
+unto him being in <HI>Touraine.</HI> Then he said to the Bishop
+of <HI>Carcassone, Monsieur</HI> my good benefactor, if ever you
+tooke pitie on the affliction of a miserable person, I con∣iure
+you to take the paines to advertise my brethren to
+take example by me, that they may governe themselves
+more wisely then I have done, if they desire to escape the
+shipwracke that I have endured, and before all things that
+they suffer not my bodie to passe through <HI>Paris,</HI> lest it
+should receive the same entertainment that the body of
+the Marquis <HI>d' Ancre</HI> had.</P>
+<P>As he spake those last words, <HI>Losieres Themines</HI> sonne
+came unto him, and said, Comfort your selfe in your mis∣fortunes,
+your brethren labour for their conservation,
+they yeeld not themselves, I bring you great store of news,
+you are not the Keeper of the Seales, <HI>Monsieur de Virg</HI>
+hath your place: all shall go well, it seemes that he &amp; his
+are in some sort bound to support your house; but if the
+chance should turne, I advise you in good time that I will
+be suretie no longer. Further, since your departure, the
+King hath benignely entertained all his friends, and loo∣keth
+on his servants with a kinde countenance; there is
+free accesse unto his Maiestie, he goes every day to sit with
+the Councell; I could tell you more, but I must go to sa∣lute
+the King; farewell, and remember that for want of
+balme they have your body with long barks of trees.</P>
+<P><PB N="37" REF="21"/>
+The Pages that as then layd hold on the necke and
+breeches of their apprentice, would suffer him to speake
+no more, every one of them teaching him a lesson as they
+thought good. The Parisians never tooke greater pleasure
+to see the Marquis <HI>d' Ancres</HI> body drawne about the citie,
+then all the spirits in the Elizian fields had to see that
+brave Constable so instructed and taught by those good
+schoole-masters, who in lesse then an houres space made
+him a martyr at least twentie times, and yet kild him not.
+To conclude, <HI>du Bourdet</HI> brought him a writing to set
+vpon his backe, containing these words:
+<Q><L>Long be this apprentice lived,</L>
+<L>Whose spirit hath not deceived</L>
+<L>The hope of our progenitors:</L>
+<L>He is fit for a Porter, without doubt,</L>
+<L>And in short time it will fall out,</L>
+<L>He will be capable to teach his brothers.</L></Q></P>
+<P>The iudgement given, all the Lords tooke their leave
+of the King, and as they returned with <HI>Zamet</HI> their guide,
+the Marquis <HI>de Termes</HI> espied a man that sate writing vn∣der
+a great olive tree: wherewith hee asked, if in that
+country there were any Sollicitors or Attourneys, that li∣ved
+by pleading other mens causes. None at all, said <HI>Za∣met.</HI>
+What then, said he, doth this writer here? And go∣ing
+neare unto him, they knew it was Marshall <HI>de Beron,</HI>
+who was so earnestly studying, that he thought upon no∣thing
+else. <HI>De Termes</HI> seeing him to be in that humour,
+went softly behind him, after the maner of great persona∣ges
+in the Court, and laid his hand upon his shoulder.
+Wherewith the Marshall in great choler, said, What is he
+that toucheth me? and looking backe, saw the Marquis.
+Wherewith changing his choler into gladnesse, he em∣braced
+him friendly, asking him, if he were one of those
+gentlemen of <HI>Montauban.</HI> No, said <HI>de Termes,</HI> I am of
+<HI>Clerac.</HI> What in Gods name make you here? said the
+Marshall. And what goodly passion, said <HI>de Termes,</HI> ra∣visheth
+<PB N="38" REF="22"/>
+you into such an extasie? <HI>Cap de Bions,</HI> said he,
+I was in a deepe humour of Poetrie, and was studying to
+make verses for an Epitaph to be set vpon your tombes.</P>
+<P>What, are you a Poet, said <HI>de Termes?</HI> No, said <HI>Biron,</HI>
+but there being no warre in this country, sometimes I have
+a conceit to passe the time in Poetry, like my Lady <HI>de Ro∣sau.</HI>
+I pray you then, said <HI>de Termes,</HI> let us see something
+of your doing, as well as my Lady <HI>d'Entragues. Pardions</HI>
+I am content, said the Marshall, I was but beginning; see
+here is that which I have done; I pray you tell me truly
+whether I have done it fitly or no, and heare it without
+passion.</P>
+<Q><L>Here lieth a company of fooles, in respect of warriers brave,</L>
+<L>That in the middle of their foes did lose their lives,</L>
+<L>While three cowards, authors of the warre we have,</L>
+<L>Meerly past the time in riding of their wives.</L></Q>
+<P>Truly, said <HI>de Termes,</HI> you use us unworthily. <HI>Morbions,</HI>
+said the Marshall, what, do I not say the truth? Are you not
+great fooles, that suffered your selves to be slaine for a
+companie of dastards that serve their owne turnes, under
+pretence of religion, to establish their future greatnesse
+at your costs and charges. <HI>Cap de Bions,</HI> what blowes with
+my sword would I have laid about their eares, if I had bin
+in their places. <HI>Monsieur d'Espernon</HI> is a subtill Catholik,
+he besieged <HI>Rochell</HI> afarre off, and upon <HI>Pont neuf</HI> there
+were more overthrowes given by him, then by any o∣ther
+in <HI>France;</HI> but tell me, I pray you, are not the Iesuites
+ashamed that they preacht against him during the league,
+in their pulpits calling him Astarot and Arch-hereticke,
+and yet in the meane time they must confesse, that at this
+day he is one of the pilars of the faith, although he be
+the same that he was, were they exclaimed against his per∣son,
+onely that in those times he was none of the com∣panie,
+as he is at this present. <HI>Mafoy,</HI> said the Marquis,
+I must confesse that <HI>Mousieur d'Espernon</HI> is a Mathos, and
+one that can manage his affaires better then any other
+<PB N="39" REF="22"/>
+in the Court; it is true that <HI>Luynes</HI> hath given him many
+bad nights, but the fathers have recompenced all that.</P>
+<P>While these things past, the King withdrew himselfe
+into his chamber, where having wept long time for the
+griefe that he had for the miseries of <HI>France,</HI> praying un∣to
+God to divert the stormes thereof from it; he calld for
+his most confident servants, with whom he conferred
+touching the disorders of the Realme, and then said with
+a loud voice, God helpe the bountie of my sonne, and
+give him grace speedily to roote out the pernicious facti∣ons
+of such Favorites. Now I am truly informed of the
+lamentable affaires, into the extremitie whereof his
+Crowne is plunged, I can speake pertinently with the
+experience that I have of things past.</P>
+<P>This then is that which me thinkes the King my sonne
+should do, as well for his owne preservation, as for the
+tranquillitie of his subiects. First, he ought to respect those
+that give him good counsell, which is the soule of every
+monarchie. I am not of opinion, that he should give my
+wife the sole direction of his affaires; neither that my ne∣phew
+the Prince of <HI>Cende</HI> should have it, in that respect
+he ought to shun iealousie: it is requisite that euery one,
+as neare as may be, should participate both in the honors
+and in the care, and that every one in generall should con∣tribute
+towards the relieving of the Flowers <HI>de Lis.</HI></P>
+<P>My iudgement, to prevent and withstand the continual
+disorders that have troubled <HI>France</HI> since my death, is,
+That my sonne should make a Councell, not of Favorites,
+but of those who by blood and affection have a particular
+interest in the preservation of his person and of his State.
+That he commit part of the managing of the State affairs,
+to the Queene his mother. That he shall hold her in good
+correspondence with himselfe, and my nephewes <HI>de Con∣de</HI>
+and <HI>de Soissons</HI> neare unto him. That he should manage
+all things by order of the Councell, and with pluralitie of
+voices. That he shall referre himselfe to the prudent ad∣vice
+<PB N="40" REF="23"/>
+of the old <GAP DESC="illegible" REASON="blotted" EXTENT="1+ words" DISP="〈◊…〉"/> and officers of the Crowne, that
+served me. That he shall commit the ordering of his con∣science
+to some good Doctor. That he should embrace
+the ancient Sorbonites, and put the new Transmontaine
+Theologians from him. That by litle &amp; litle he shall lessen
+his great charges. That he shall protect those of his blood.
+That he shall not neglect his Parliaments. That he shall
+take <HI>Luynes</HI> lands and goods to supply his necessities, and
+for the comfort of the poore people. That he shall cause
+the citadell of <HI>Amiens</HI> to be opened on that side towards
+the Town, to prevent the inconveniences which one day
+that fort may cause, and take an Inventorie of the great
+riches which are in that place, as also in <HI>La Fere, Calais,</HI>
+and <HI>Blaye.</HI> That he shall give all the governments which
+the three brethren have, unto his old &amp; faithful servants.
+That he shall drive all their kindred from the Court. That
+he shall by absolute authoritie hold and maintaine the E∣dicts
+of Parliament. That he shall conserve the ancient al∣liances
+of the Crowne. That he shall stop his eares against
+factious strangers. That he shal call to mind the dangerous
+publick happened within these foure yeares within <HI>Paris,</HI>
+as signes sent by God to warne us of the scourges that
+threaten <HI>France.</HI> That he shall take heed of, and shun civil
+warre, which cannot chuse but procure the ruine of his
+affaires and of his people, while his neighbour seeks all the
+meanes he can to preiudice his Realme. That he must call
+to minde the Ambassage of <HI>Bassompiere</HI> in <HI>Spaine,</HI> and of
+the breach of promise made touching <HI>Valtolina.</HI> That he
+must have an eye unto the designes of strangers, who un∣der
+pretence of religion, aspire unto the dissipation of his
+state. That he shall procure peace unto his people. That
+he must recompence those that deserve it, and punish
+those that are wicked. And doing so, God will blesse him,
+the Crowne shall flourish, his country will be enriched,
+his friends will love him, his subiects serve him, and his
+neigbours feare him.</P>
+<Q><PB N="41" REF="23"/>
+<L>There's nothing in the world that perfe<GAP DESC="illegible" REASON="blotted" EXTENT="3+ letters" DISP="•••…"/></L>
+<L>For if 'twere so, nothing would be amisse:</L>
+<L>This booke is not so perfect as 'tis true,</L>
+<L>Which you shall finde, if you give it the due.</L></Q>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The true account of the behaviour and confession of William Disney, esq. who was tryed for high treason by the King's especial commission of Oyer and Terminer, held at the Marshalsea in Southwark, on Thursday the 25th of June, 1685 together with his last dying words at the place of execution at Kensington Common in the County of Surrey, on Monday June 29th, 1685.</TITLE><AUTHOR>Disney, William, d. 1685, defendant.</AUTHOR></TITLESTMT><EXTENT>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2007-10 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A63297</IDNO>
+
+
+<IDNO TYPE="stc">Wing T2344</IDNO>
+
+<IDNO TYPE="stc">ESTC R6085</IDNO>
+
+<IDNO TYPE="eebo citation">11965023</IDNO>
+
+<IDNO TYPE="oclc">ocm 11965023</IDNO>
+
+<IDNO TYPE="vid">51681</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A63297)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 51681)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 519:25)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The true account of the behaviour and confession of William Disney, esq. who was tryed for high treason by the King's especial commission of Oyer and Terminer, held at the Marshalsea in Southwark, on Thursday the 25th of June, 1685 together with his last dying words at the place of execution at Kensington Common in the County of Surrey, on Monday June 29th, 1685.</TITLE><AUTHOR>Disney, William, d. 1685, defendant.</AUTHOR><AUTHOR>Weston, Andrew, b. 1637 or 8.</AUTHOR></TITLESTMT><EXTENT>4 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>[London :</PUBPLACE>
+<PUBLISHER>Printed by George Croom ...,</PUBLISHER>
+<DATE>1685]</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Caption title.</NOTE><NOTE>Signed: Andrew Weston.</NOTE><NOTE>Reproduction of original in Huntington Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Disney, William, d. 1685.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2006-09</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2006-09</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2006-10</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2006-10</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2007-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A63297">
+<STC T="W">T2344</STC>
+<BIBNO T="oclc">11965023</BIBNO>
+<VID>51681</VID>
+</IDG>
+<TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="text">
+<PB REF="1"/>
+<PB N="1" REF="1" MS="y"/>
+<HEAD>The True ACCOUNT
+OF THE
+Behaviour and Confession
+OF
+William Disney. <ABBR>Esq</ABBR>
+Who was Tryed for
+HIGH TREASON
+By the KINGS Especial Commission of Oyer and
+Terminer, held at the MARSHALSEA in Southwark,
+on <DATE>Thursday <HI>the</HI> 25th. <HI>of</HI> June, 1685.</DATE>
+Together with his
+LAST Dying WORDS
+At the Place of Execution at KENNINGTON Common
+in the County of Surrey, on Monday June 29th. 1685.</HEAD>
+<P>ON <HI>Thursday June</HI> the <HI>25th. 1685. William Disney,</HI> Esquire;
+being Indited of High Treason, for Printing and Publishing
+a most Vile and Trayterous Paper against His most Sacred
+MAJESTY and Government: Intituled <HI>The Declaration of</HI> James
+<HI>Duke</HI> of Monmouth, <HI>and the Noble-Men, Gentlemen, and others now in
+Arms,</HI> &amp;c.</P>
+<P><HI>The</HI> Messenger <HI>deposed,</HI> That having a Warrant for the Apprehending
+of <HI>William Disney,</HI> Esquire; he took some Files of Musqueteers, and
+Two or Three Gentlemen to his Assistance; when approaching to the
+<PB N="2" REF="2"/>
+House of one <HI>Tyrrel</HI> a Gardiner in the Parish of <HI>Lambeth,</HI> on
+<HI>Monday June 15th.</HI> 1685. between Twelve and One of the Clock in
+the Morning, he broke into the Appartment of <HI>Disney</HI>'s, where entering
+his Chamber, he found the Prisoner in his shirt, who craved his Breeches,
+but the Messenger replyed no, saying, if he had a Night-gown he
+might put it on: Immediately after, viewing his Breeches, there
+was found a Dagger in his pocket, also some other things, likewise a
+brace of Pistols, and a great Hanger in the nature of a Scymeter.</P>
+<P>His Maid <HI>Mary Allett</HI> was supposed to be in Bed with him, by
+reason her Cloaths were upon his Bed: His Daughter about Eleven
+years of Age, or thereabouts, was in another part of the Room a
+Bed alone: The Messenger farther deposed, that getting into the
+Printing-House, he there found the Forms (as Printers call them) of
+the Trayterous Declaration in the Printing-Room, there being by com∣putation
+about 750 of them Printed on one side, and about Five of
+the said Trayterous Declarations perfect. Upon the Messengers
+questioning how they came there? he pretended Ignorance.</P>
+<P>The Evidence appearing very plain, and he having nothing to say
+for himself, was found guilty of High Treason, Sentenced to be
+Drawn, Hanged, and Quartered; which was accordingly done, at
+<HI>Kennington Common,</HI> in the County of <HI>Surrey,</HI> on <HI>Monday</HI> the <HI>29th.</HI> of
+<HI>June,</HI> 1685. and his Quarters set upon the City Gates.</P>
+<DIV2 TYPE="part">
+<HEAD>A True and full account given by the Minister of
+St. George, concerning the Behaviour, and last dying
+Speeches of William Disney, <ABBR>Esq</ABBR> <DATE>June, 29th. 1685.</DATE></HEAD>
+<P>BEtween Nine and Ten of the Clock in the Morning, I was sent
+for by the High Sheriff of <HI>Surrey,</HI> to officiate as Ordinary at
+the Execution of the Prisoner at the <HI>Marshalsea;</HI> before he was
+brought out, a neighbouring Minister and I (upon the Sheriffs motion)
+went into the Room where he was; when the Reverend Parson (having
+seen him the Night before) askt him whether he had considered of
+those things which he had formerly offered him, and did very pathiti∣cally
+press him that he would give Glory to God by a full and inge∣nuous
+Confession of his Crime, intimating to him the fatal consequen∣ces
+that might have followed if he had perfected that evil work: How
+many Mens Lives might have been lost in the quarrel: whose blood
+<PB N="3" REF="2"/>
+he was so far guilty of, as he contributed to the increase of the Re∣bellion,
+by his Printing the Trayterous paper (or words to the same
+effect.) To which the Prisoner answered (with some signs of discontent)
+to this purpose: That he hoped, (he speaking to the Minister) did not
+come to press him to burden himself now: That he had nothing to
+say that might bring any person into trouble, and his time was short,
+so he desired not to be troubled about any such matters; so that few
+words passed e're we parted; finding him resolved not to make any
+discovery, I only told him I did intend to meet him at the place of
+Execution, and he thanked me.</P>
+<P>When he came to the Gallows and was in the Cart, I came to him
+and asked him, how he desired to improve those few moments of his
+Life that were yet to come? He answered in Prayer: I asked, will you
+pray for your self, or shall I pray for you? He answered, I will pray,
+and desire you to pray for me. Whilst the Executioner was prepairing
+the Rope, I shewed him the <HI>Bible,</HI> saying Sir, what comfortable
+Sentence do you remember out of this word of God for your present
+use? He answered, <HI>Jesus Christ came into the World to save Sinners,</HI> of
+whom I am chief: And then he proceeded in general terms to ac∣knowledge
+himself a great Sinner against God; but affirmed that he
+had made his peace with God, that he had confessed his Sins with
+humility and fervency, and had begged Gods pardon; and did not
+doubt but God had for the merits of his Son <HI>Jesus Christ</HI> pardoned
+all his Sins, and he was now under very comfortable hopes that he
+should soon be happy, not upon the account of his own merits,
+but the merits of <HI>Jesus Christ.</HI> I told him this was very good, if
+his hopes were well grounded: He replied, his hopes were grounded
+on the Scriptures, which assured him that <HI>Christ</HI> dyed to save Sinners.
+Whereupon I recounted to him some other Gracious promises of God
+to true Penitents, as that of <HI>Ezechiel, If the Wicked man turneth away
+from his wickedness, and doth that which is lawful and right, he shall save
+his Soul alive,</HI> &amp;c. After which he made his Address to God in
+Prayer, That he would forgive him all his Sins, and sanctify this his
+affliction to him; and prayed to God to bless the King, that he may
+be merciful and kind to his Subjects, as well as just to his Enemies.
+He farther observed how Gracious God was to him in giving him this
+admonition (as he called it) for God might have taken him off by some
+sudden death, or deprived him of his Senses, and then (he said) it must
+have been worse with me, but now God hath given me time to be∣think
+my self: So that though the dolour and the shame of this death
+having so many Spectators (upon whom he looked) may somwhat
+<PB N="4" REF="3"/>
+discompose me, yet I have peace and comfort within. Afterwards he
+desired me to pray with him, which I did briefly according to his
+mind and present example: And closing with the Lords Prayer, he
+answered every Petition deliberately, and calmly. He declared that he
+lived in and did now dy in the Communion of the Church of <HI>Eng∣land,</HI>
+were he repeated again in these words, <HI>The Protestant Church of
+England.</HI> After Prayer, I asked him whether we should Sing some part
+of a <HI>Psalm?</HI> he answered, no: Then I asked him whether he had any
+thing more to do or say? he answered, I have nothing more but to
+return you thanks for your care of me. And I pray God bless you and
+hear your Prayers for me, and mine for you, and our Saviour
+<HI>Christ</HI> for us both: And so I left him going to his long home.</P>
+<CLOSER>This according to the best recollection of my thoughts, is the Sum, and
+as near as I can remember, the words that passed between Mr. <HI>Disney</HI>
+and me
+<SIGNED>ANDREW WESTON.</SIGNED></CLOSER>
+</DIV2>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="license">
+<P>This may be Printed. </P>
+<CLOSER><SIGNED>R. L. S.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="colophon">
+<P><HI>LONDON,</HI>
+Printed by <HI>George Croom,</HI> at the Sign of the <HI>Blue-Ball</HI> in <HI>Thames-street,</HI>
+over against <HI>Baynard</HI>'s-<HI>Castle.</HI> 1685.</P>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>
+

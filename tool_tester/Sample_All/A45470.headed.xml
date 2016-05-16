@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">Tracts</TITLE><AUTHOR>Hammond, Henry, 1605-1660.</AUTHOR></TITLESTMT><EXTENT>Approx. 123 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2006-06 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A45470</IDNO>
+
+
+<IDNO TYPE="stc">Wing H608</IDNO>
+
+<IDNO TYPE="stc">ESTC R9409</IDNO>
+
+<IDNO TYPE="eebo citation">11808559</IDNO>
+
+<IDNO TYPE="oclc">ocm 11808559</IDNO>
+
+<IDNO TYPE="vid">49485</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A45470)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 49485)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 495:22)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">Tracts</TITLE><AUTHOR>Hammond, Henry, 1605-1660.</AUTHOR><AUTHOR>Hammond, Henry, 1605-1660. Of conscience.</AUTHOR></TITLESTMT><EXTENT>[6], 30 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>Oxford [Oxfordshire] :</PUBPLACE>
+<PUBLISHER>Printed by Henry Hall,</PUBLISHER>
+<DATE>1645.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Imperfect: tracts 2-7 lacking on filmed copy.</NOTE><NOTE>Reproduction of original in Bodleian Library.</NOTE><NOTE>1. Conscience -- 2. Scandall -- 3. Will-worship -- 4. Superstition -- 5. Resisting the lawful magistrate under colour of religion -- 6. Sins of weaknesse, wilfulnesse -- 7. A late, or, a death-bed repentance.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Conscience.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2005-12</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2005-12</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2006-01</DATE><RESPSTMT><RESP>Emma (Leeson) Huber</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2006-01</DATE><RESPSTMT><RESP>Emma (Leeson) Huber</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2006-04</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A45470">
+<STC T="W">H608</STC>
+<BIBNO T="oclc">11808559</BIBNO>
+<VID>49485</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<P><HI>TRACTS
+OF</HI>
+<LIST>
+<ITEM>1. Conscience.</ITEM>
+<ITEM>2. Scandall.</ITEM>
+<ITEM>3. Will-worship.</ITEM>
+<ITEM>4. Superstition.</ITEM>
+<ITEM>5. Resisting the lawfull Ma∣gistrate
+under colour of
+Religion.</ITEM>
+<ITEM>6. Sins of
+<LIST>
+<ITEM>Weaknesse.</ITEM>
+<ITEM>Wilfulnesse.</ITEM>
+</LIST></ITEM>
+<ITEM>7. A Late, or, a Death-bed
+Repentance.</ITEM>
+</LIST></P>
+<P><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.</P>
+<P><HI>OXFORD,</HI>
+Printed by HENRY HALL, Printer to
+the UNIVERSITIE 1645.</P>
+</DIV1>
+<DIV1 TYPE="preface">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>The Preface.</HEAD>
+<P><SEG REND="decorInit">I</SEG>T is a strong presumption that that Religion is false which
+is apt to be made use of for secular advantages, that those
+opinions have somewhat of the <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> ingredient in
+them, which are produced as the ground to justifie or au∣thorize
+practices, otherwise impious and infamous, There
+is so little <HI>Communion</HI> or complyance <HI>betwixt God and Be∣lial,</HI>
+that it is very hard even for Satan himselfe, that great
+mpure Artificer, to prostitute or debauch any truth of Gods, (which is really
+so) to that meane of vile submission of yeelding it self pliable or instrumen∣tall
+to any design or interest of his. He which can be corrupted or employed
+by an enemy is either not so honest or not so clear, either not so faithfull, or
+not so wary as might be expected. This one consideration would prejudge a
+great part of the divinity of these unhappy times, which in a perfect contrari∣ety
+to the <HI>wisdome which commeth from above,</HI> Jam. 3. Or <HI>the fruits of the spi∣rit,</HI>
+Gal. 5. is so far from <HI>purity, peaceablenesse, gentlenesse, love, joy, long suffe∣ring,
+&amp;c.</HI> that it is engaged to owne another extaction, to confesse it selfe his
+creature, and progeny, whom in the lineaments and features it so visibly re∣sembleth.
+Among the many severals of this kind I have long conceived that
+the vulgar notions of those foure names, which these ensuing Treatises have
+taken confidence to examine, have had no small part of the guilt of those fa∣tall
+evils under which this calamitous wretched Kingdome now pants a pro∣strate
+gastly, and direfull spectacle. And consequently that the obstructing
+of these fountaines might possibly abate those streames and torrenes (which
+have taken rise from thence) of uncharitablenesse first and then of bloud.
+The mistaking of every phansy or humour, carnall or Satanicall perswasion
+for <HI>Conscience</HI> (the acknowledged rule of action) and the setting up upon too
+weak a stock for that high priviledge of a <HI>Good Conscience,</HI> hath emboldened
+most of the vices of the world,<NOTE PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>. Arrian. in ep.</NOTE> * petrified the practicall faculty, and made it
+insensible of any of those stripes, or threats, or discipline, which the law of na∣ture
+or of Christ hath provided for the restraint of their Subjects. And from
+thence it daily happens that not only the most unchristian but unhumane pra∣ctices,
+the most unnaturall savage barbarities of these last yeeres, (which no
+parasite can flatter, or president extenuate) are now avowed to be dictates and
+commands of <HI>Conscience,</HI> and so not onely reconcileable with piety, but ad∣vanced
+and set up for the onely <HI>measure</HI> of it, and no man allowed to passe
+for <HI>Conscientious</HI> which hath any remainder of Morall or Christian virtue (in
+the ancient notion of the word) discernible in his actions; and so not onely
+<HI>Zozimus</HI> his slaunder of <HI>Constantine</HI> is become the reall guilt of too many pro∣fessours,
+<PB REF="3"/>
+(those sins confidently committed by them, for which no other Re∣ligion
+allowes any expiation) but, beyond the malice of that false tongue,
+the sinnes themselves resolved on as a speciall <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> or purgative, an
+act of supererogating virtue, sufficient to sanctifie any other impurities. To
+these so grosse errours both in opinion and practice the present height o<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>
+animosity, and vehemence of the flame may possibly have betrayed men;
+but what it should be that hath so heightned the passion, and first elevated it
+to this pitch of distemper, will not be discerned any otherwise then by con∣jecture
+from the quarrels which have been most insisted on, against the esta∣blished
+government and discipline of the Church, and the indifferent actions,
+and ceremonies, and observances either prescribed, or customary among us;
+to which when no direct immediate blame or accusation could be affixt, it
+hath been the manner to object obliquely, somtimes that they have been mat∣ter
+of <HI>Scandall,</HI> and that thought to have been sufficiently proved, if any could
+be produced who have <HI>disliked</HI> them, (as if their being displeased were to be
+<HI>scandalized,</HI> or one mans being <HI>angry once without a cause,</HI> were for ever a
+just cause for others to be angry at that which were of it self most innocent;)
+Sometimes that the crime of <HI>Will-worship</HI> were chargeable on them, suppo∣sing
+first, (but not proving) <HI>Will-worship</HI> to be a crime, and then every the
+least observance uncommanded (though withall as perfectly unprohibited)
+by Scripture, to be the interpretation of that crime; and sometimes that they
+have been <HI>Superstitious;</HI> by the equivocallnesse of that word, first per∣swading
+themselves and others that every excesse in Religion comes un∣der
+that title, and then that the uncommandednesse of any thing induces that
+excesse, and consequently involves in that guilt. To which three so inauspi∣cious
+(I may adde <HI>Scandalous</HI>) misprisions broached by Satan, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>to
+the fall,</HI> and so truly to the <HI>offending</HI> of <HI>many in Israel,</HI> these ensuing Trea∣tises
+were designed as Antidotes or cures; to which end if they may prove in
+any degree successefull, the writer of them will never repent that he hath
+subjected them to the various &amp; passionate censures of the many, hoping
+thereby that the mature and impartiall judgements of the few may be also
+provoked to interpose. By whose pleasure and serious examination, whether
+they shall stand or fall, they are in all humilitie submitted.</P>
+<CLOSER><SIGNED>H. Hamond.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="title page">
+<PB REF="3"/>
+<P>OF
+CONSCIENCE.</P>
+<P><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.</P>
+<P>By <HI>H. Hamond,</HI> D. D.</P>
+<P><HI>LONDON,</HI>
+Printed for <HI>R. Royston,</HI> at the signe of the
+Angel in <HI>Ivie-lane.</HI> 1645.</P>
+</DIV1>
+<DIV1 TYPE="text">
+<PB REF="4"/>
+<PB N="1" REF="4"/>
+<HEAD>OF CONSCIENCE.</HEAD>
+<P><MILESTONE N="1" UNIT="§"/><SEG REND="decorInit">A</SEG>Mong the many practicall errours which are gotten
+abroad into the world, a very large proportion there
+is of those which have either suckt their poison from,
+or disguised it under that specious venerable name of
+<HI>Conscience.</HI> That which the Philosophers could call
+their Guardian Angell, and justifie the phrase by
+vouching none but Angelicall dictates from it: That
+which some good-natured Atheists did so revere that
+they defined the onely deity in the world,<NOTE PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>. Tatian.</NOTE> and in pro∣portion
+phansied nothing but God-like of it, is now by some Christians (like
+the true God among the Heathens) worshipt in so many corporeous shapes,
+that there is at length scarce any thing so vile (Phansie, humour, passion,
+prepossession, the meanest worldly interest of the ambitious or covetous de∣signer,
+like the Calves, the Cats, the Crocodiles, the Onions, the Leeks of
+<HI>Egypty</HI> but hath the favour or luck to be mistaken for <HI>Conscience,</HI> and receive
+all the respect, that I say, not adoration, that belongs to it.</P>
+<P><MILESTONE N="2" UNIT="§"/>'Twill be then but an act of justice and mercy, justice to truth, and mercy
+to the abused world, and withall a speciall preparative to a prudent refor∣mation,
+to rescue so divine a man from such heathenish usage, to restore it
+to its naturall primitive simplicity, and cast out all the false sormes which it
+hath been forced to appeare under. To which purpose all that I shall de∣signe
+will be reduced to these two enquiries:
+<LIST>
+<ITEM>1. What is the proper notion of conscience.</ITEM>
+<ITEM>2. What is required to entitle a man to a good conscience.</ITEM>
+</LIST></P>
+<P><MILESTONE N="3" UNIT="§"/> For the former of these, what is the proper notion of conscience, I shall
+labour to finde out not among the Scholasticall definitions or divisions of it
+among humane Writers, but onely by observing the force and use of the
+word in the Scripture, particularly the New Testament. And he that shall
+meet it there 32 times, and but take a view of it at every meeting, will sure
+come to some degree of acquaintance with it, and find upon judgement rea∣son
+to resolve, what for his ease I shall now lay before him.</P>
+<P><MILESTONE N="4" UNIT="§"/> That the word <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Conscience,</HI> is no more then Science or know∣ledge,
+(and therefore being but once used by the Gre<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>k Translators of
+the Old Testament, <HI>Eccles.</HI> 10. 20. it is there set to expresse a word which
+<PB N="2" REF="5"/>
+is otherwise by them commonly rendred <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> and <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>) onely with
+a peculiar relation added to it, as that <HI>knowledge</HI> is in order to <HI>action.</HI> Thus
+<HI>Tit.</HI> 1. 15. when <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> and <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, mind and conscience are distinguished,
+tis obvious to any to discerne the ground of that distinction,<NOTE PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.</NOTE> that former be∣ing
+properly the denotation of the faculty meerly speculative, or intellectu∣all;
+this latter,<NOTE PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.</NOTE> of the practicall judgement, or that whether act or faculty
+of the understanding soule, which extendeth to practice; the Apostle by
+that phrase, [<HI>the mind and conscience are defiled</HI>] meaning distinctly this,
+that this errour in mens judgements, (which is the defiling of their mind)
+carryes Un-Christian practice along with it, (which is the <HI>defiling</HI> of the
+<HI>practicall</HI> faculty) this Judaicall mistake in th<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ir understanding is attended
+with Judaizing actions in their lives, the former apportioned to the <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>,
+the <HI>false Judaicall doctrines,</HI> which relate to <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>the mind,</HI> the second
+to the <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, the commands of men per∣verting
+the truth, v. 14. which relate to the <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>the Conscience.</HI></P>
+<P><MILESTONE N="5" UNIT="§"/> For the clearing of which (that it is such a practicall knowledge in the
+acception of the Scripture) if there need any light, you may have it from the
+survey of every place severally, and in speciall from this one, 1 <HI>Pet.</HI> 2. 19.
+<HI>This is thank-worthy, if</HI> <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>for Conscience of God a man suffer
+griese, &amp;c. i. e. if</HI> for this <HI>obedientiall practicall knowledge of God</HI> (this
+<HI>knowledge</HI> of truth attended with a <HI>resolution</HI> not to disobey God, though it
+cost a man never so deare) <HI>he suffer g<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>iefe, &amp;c.</HI></P>
+<P><MILESTONE N="6" UNIT="§"/> This being premised, there is but one thing more to be added to this mat∣ter,
+and it is this; That we take no<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ice of the severall wayes of aspect that
+<HI>Conscience</HI> hath upon <HI>practice;</HI> One forward in the direct line, another
+backward, or by way of reflection; which are ordinarily exprest by the dou∣ble
+office of <HI>Conscience,</HI> 1. as a <HI>cust<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>s</HI> or <HI>monitor,</HI> advising and instructing
+and keeping us to our duty; 2. as a <HI>witnesse</HI> testifying to our selves and to
+God what we have done; which is in plainer termes no more but this, That
+there are two sorts of <HI>Conscience; 1. Conscience of duty to be performed,</HI> or
+full perswasion that such a thing ought to be done, or not to be done by me,
+a being resolved of the necessity or unlawfulnesse of any thing, and 2 <HI>consci∣ence
+of having performed,</HI> or not performed it, a knowing or judging my self
+to have done well or ill. And under these two notions, all the severalls in the
+New Testament, (and the one sole place of the apocryphall bookes of the
+Old) will be contained, If you please, you may see how.</P>
+<P><MILESTONE N="7" UNIT="§"/> To the former kind belongs that famous place, <HI>Rom. 13. 5. You must be sub∣ject</HI>
+(to the Supreame powers, <HI>v.</HI> 1.) <HI>not onely for wrath, i. e.</HI> feare or danger
+of punishment, the effect of <HI>wrath</HI> (the Magistrate <HI>being Gods Minister, an
+avenger for wrath,</HI> or punishment <HI>to him that doth evill, v.</HI> 4.) but also <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>,
+for or <HI>because of Conscience, i. e.</HI> because it is the command of
+God, and consequently that which all interiours (<HI>every soule</HI>) may, if they
+be not wilfully blind, know to be their duty, [<HI>to be thus subject.</HI>]</P>
+<P><MILESTONE N="8" UNIT="§"/> So 1 <HI>Cor.</HI> 8. 7. <HI>For some with conscience of the Idol, i. e.</HI> being resolved in
+mind, that it is not lawfull to eate or taste of any <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> or <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>part</HI> or <HI>por∣tion</HI>
+of the Idol-feast (whether <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>at the idoll table,</HI> or having
+<PB N="3" REF="5"/>
+bought it at the <HI>Shambles,</HI> as it seemes, was the fashion for those <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> to be
+sold there at second hand c. 10. 25.) accounting it unlawfull to eate any
+meat consecrated to that use, <HI>doe</HI> yet <HI>eate</HI> that which is of this nature, <HI>and</HI>
+by so doing, <HI>their weake i. e.</HI> uninstructed <HI>conscience is polluted, i. e.</HI> they
+sinne against their conscience, doe that which they are perswaded they may
+not doe, which although it be never so innocent a harmlesse thing in it selfe
+(an <HI>idoll being simply nothing</HI>) yet to them which doe it, when they think
+it unlawfull (<HI>and all have not knowledge,</HI> saith he in the beginning of
+the verse, <HI>i. e.</HI> are not sufficiently instructed in their duty) it is pollu∣tion
+or sinne, according to the fore-mentioned place <HI>Tit. 1. 15. To the
+pure all things are pure</HI> [<HI>all things</HI>] <HI>i. e.</HI> all things of that nature of which
+he there speaks, though in themselves indifferent, [<HI>are pure</HI>] <HI>i. e.</HI> may
+lawfully be used [<HI>by the pure</HI>] <HI>i. e.</HI> by them which are rightly instructed, but
+to the <HI>polluted and unbeleevers</HI> (<HI>i. e.</HI> to them that are misled by Jewish fa∣bles,
+or by the dogmatizing of false teachers, and brought to beleeve things
+to be prohibited by God, which are not prohibited) to them that are
+guilty of this kind of <HI>Judaisme,</HI> and (as it is <HI>interpretative) unbeliefe there
+is nothing pure, but their mind and conscience are polluted,</HI> both their under∣standing
+is in an errour, taking falsity for truth, and their practicall resolution
+is sinfull also,<NOTE PLACE="marg">Tr. of Wil¦worship.</NOTE> nay obliged to sin, which way soever they turn themselves,
+whether they abstaine superstitiously, when they are not bound by God to
+abstaine, (which is the sinne of those that are <HI>subject to ordinances, Col.</HI> 2.
+20. of which I have spoken at large in another place) or whether they ab∣staine
+not, when they are perswaded that they ought to abstaine, which is
+<HI>sin against conscience.</HI></P>
+<P><MILESTONE N="9" UNIT="§"/> From whence by the way you may observe the miserable lot of those
+which have not <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> knowledge in the beginning of that verse, which are
+missed to think any thing unlawfull which is lawfull, and continue in that
+errour without seeking of light, which are thus <HI>impure</HI> (for to such <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>
+<HI>nothing is pure</HI>) they are, as long as they remaine so, obliged to
+sinne, which way soever they take to, abstaine or not abstaine. For though
+in things indifferent and uncommanded, simply to abstaine were no sinne,
+yet then to abstaine <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, as from a thing abominable or un∣lawfull,
+is both by Scrip<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ure and the ancient Councels, in case of marriage
+and meats, every where condemned as sinfull: and yet on the other side to
+eate <HI>without,</HI> or against <HI>Faith, i. e.</HI> being doubtfull whether it be lawfull or
+no, or being perswaded it is unlawfull <HI>is sin,</HI> (saith the Apostle) and there is
+great necessity to such of seeking, (and in others great charity of helping
+them to) <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> instruction, or right information in this case, which is the
+onely cure for this unfortunate malady.</P>
+<P><MILESTONE N="10" UNIT="§"/> So againe ver. 10. <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>; the <HI>conscience of him that is weake,</HI>
+or (which is the same) v. 7. and v. 12. the <HI>weake conscience</HI>] signifies
+the false perswasion of him that is in an errour, an <HI>erroneous conscience,
+weaknesse</HI> noting <HI>sicknesse</HI> in the Scripture stile <HI>John 5. 14. 1 Cor.</HI> 11 30. and
+errour being the disease or <HI>sicknesse</HI> of the soule, and that with a little im∣provement
+growing destructive and mortiferous; as in case he that hath
+<PB N="4" REF="6"/>
+that erroneous <HI>sick</HI> conscience, doe act somewhat againsgt conscience, and so
+adde <HI>sinne</HI> unto <HI>errour,</HI> for then <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> v. 11. that sick man dyes,
+<HI>perishes</HI> of that <HI>disease.</HI> Soch. 10. 25, 27, 28, 29. the word <HI>Conscience</HI> is still
+in the same sense, for conscience or consideration of duty, and so 1 <HI>Pet.</HI> 2. 19.
+forementioned.</P>
+<P><MILESTONE N="11" UNIT="§"/> So likewise 1 <HI>Pet.</HI> 3. 21. where Baptisme is called <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>
+<HI>the answer of a good conscience to God,</HI> the good <HI>conscience</HI>
+signifies conscience rightly instructed in its duty, as in baptizing those of
+full age it is supposed to be; which <HI>Conscience</HI> is then to <HI>answer</HI> and con∣sent
+to all Gods proposals in baptisme (or the ministers in Gods stead) such
+as [wilt <HI>thou forsake the Devill, &amp;c.</HI>] and so the words will be interpreted in
+a sense proportionable to that of <HI>denying ungodly lusts, Tit.</HI> 2. 12. which there
+the <HI>appearing</HI> of Christ is said to <HI>teach</HI> us. For as <HI>lust</HI> proposes <HI>ungodly</HI> que∣stions
+to us, which we are bound to <HI>deny;</HI> so God in baptisme is supposed
+to propose good questions to us, which we are bound to grant, and stipulate
+the performance of them, and that is the <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>the answer of a good
+conscience to God</HI> or to his questions proposed in baptisme, after the manner
+of ancient pacts among the Romans made by way of question and answer, as
+part of the <HI>ritus solen<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>s</HI> or formalities of them.</P>
+<P><MILESTONE N="12" UNIT="§"/> But then for the second acception of the word, as it notes conscience of
+what we have performed, or passing judgement on my selfe for what I have
+done, (and that either for any one individuall act, or for the maine of our
+lives, our state; and that againe either 1 <HI>acquitting</HI> or 2 <HI>condemning</HI> or 3
+considered in a third notion <HI>common</HI> to both those, passing sentence in gene∣rall)
+so shall you find it in many other places, and indeed in all the rest
+which we have not hitherto named.</P>
+<P><MILESTONE N="13" UNIT="§"/> For the first of these three species as it <HI>acquitteth,</HI> you have it <HI>Act.</HI> 23. 1.
+<HI>I have lived,</HI> (or behaved my selfe in all my conversation towards men
+<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> in all my politique, or publique relations) with or <HI>in all good
+conscience,</HI> in such a manner, as I cannot excuse my selfe of any thing done
+contrary to my Christian profession, or dignity of my Apostolicoll calling.
+So 1 <HI>Cor.</HI> 9. 12. the <HI>Testimony of our Conscience</HI> is exprest by what followes,
+that <HI>in simplicity</HI> &amp;c. <HI>we had our conversation in the world.</HI> So good con∣science
+is taken 1 <HI>Tim.</HI> 1. 5. and 19. and 3. 9. and 2 <HI>Tim. 1. 3. Heb.</HI> 13. 18.
+1 <HI>Pet.</HI> 3. 16. but above all you have a speciall place belonging to this first
+branch of the second in <HI>Act.</HI> 24. 16. [<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>] we render it a
+<HI>Conscience void of offence,</HI> the meaning is, a confidence and assurance that
+he hath done nothing subject so much as to the censure of having <HI>scandali∣zed</HI>
+others; for Saint <HI>Paul</HI> being there accused by the <HI>Jewes</HI> v. 5. 6. for 3
+crimes, <HI>sedition, heresie,</HI> and <HI>profaning of the Temple,</HI> he answers to the first
+v. 12. to the second v. 14. to the third v. 16. 18. and his being purified in the
+Temple after the Jewish manner he makes an evidence of his innocence in
+that particular, a proofe of his not having scandalized any Jew, which to
+have done would have been a fault in him, whose office it was to become <HI>all
+things to all men, that he might gaine or save all,</HI> and not to discourage or
+deter any who might be gained by complyance; and the doing so, is it which
+<PB N="5" REF="6"/>
+is called being <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> 1 <HI>Cor. 10. 32. giving none offence to the
+Jews,</HI> the very word in the place of the Acts.</P>
+<P><MILESTONE N="14" UNIT="§"/> In the second place, the accusing or condemning conscience is often men∣tioned
+also; <HI>John 8. 9. Convicted by their conscience,</HI> or reproved some
+for one sinne, some for another. So by intimation <HI>Heb.</HI> 9. 9. where tis said
+of the Legall sacrifices that they could not <HI>make perfect as pertaining to
+Conscience,</HI> where the word [<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>] rendred to <HI>make perfect,</HI> signifies in
+the sacred idiom [to <HI>consecrate,</HI>] to make a priest, whose office being <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>
+<HI>to draw neare to God,</HI> proportionably <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>
+to perfect or <HI>consecrate</HI> as <HI>pertaining</HI> to <HI>conscience</HI> signifies to give accesse
+with boldnesse to God, by taking off that guilt which formerly lay upon
+their conscience, the same that v. 14. is called, <HI>to purge the conscience from
+dead works,</HI> to wash off that guilt of sin past, which hinders their approach
+to God, obstructs all entrance to their prayers (for <HI>we know that God hea∣reth
+not sinners, Joh.</HI> 9. 31. and <HI>Is.</HI> 1. 15.) whereupon tis observable, that
+<HI>Heb.</HI> 13. 18. when he bespeaks their prayers for him, he adds this reason to
+encourage them to doe so. <HI>For we trust we have a good conscience,</HI> that good
+conscience being necessary there to have other mens prayers heard for them,
+as here to give themselves <HI>accesse</HI> to God in <HI>prayer.</HI> So <HI>Heb. 10. 2. Conscience,</HI> or
+conscienciousnes <HI>of sins,</HI> and v. 22. <HI>Evill conscience,</HI> and so <HI>Wisd.</HI> 17. 11. there is
+mention of <HI>wickednesse condemned by her own witnes and prest by conscience.</HI></P>
+<P><MILESTONE N="15" UNIT="§"/> And of the last sort, in the latitude common to both, are <HI>Rom. 2. 15. Rom.</HI>
+9. 1. 2 <HI>Cor.</HI> 4. 2. and 5. 11. and 1 <HI>Tim.</HI> 4. 2. all cleare enough without the help
+of our paraphrase to adde light to them.</P>
+<P><MILESTONE N="16" UNIT="§"/> Having thus marshalled all these places of Scripture into ranks, and gi∣ven
+some hints of generall insight into them, it now remaines that we return
+a while to the neerer survey of the two generall heads, and first of the for∣mer
+acception of the word, as it imports a monitor, or director of life, by
+which our actions must be regulated, and from the mistaking of which the
+chiefe inconvenience doth arise.</P>
+<P><MILESTONE N="17" UNIT="§"/> To which end, it will be absolutely necessary to settle and resolve but
+one question, what is that rule or <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> of Conscience, from whence it
+must receive its regulation. For he that draweth a line of direction for a∣nother,
+must have a rule to draw it by, and that a straight exact one,
+or else the directions will not be authentique, and they <HI>which walke</HI>
+<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>exactly</HI> or conscientiously, must <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>walk by rule, Phil.</HI>
+3. 16. and <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>have their eye or thought alway upon that one thing,</HI>
+their <HI>rule</HI> of direction, or else be they never such <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> in the beginning
+of that verse, such <HI>forward</HI> proficients, their <HI>end may be perdition</HI> v. 19. This
+when once we have done, the difficulty will soone vanish.</P>
+<P><MILESTONE N="18" UNIT="§"/> And to this purpose I shall take that for granted which in <HI>thesi</HI> I never
+heard any doubt of, (though many of our actions look otherwise in <HI>hypoth<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>si</HI>)
+that <HI>law</HI> is this onely rule; <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> and <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, rule and law being words of
+the same importance, and nothing fit or proper to regulate our actions,
+but that which the law-giver, to whom obedience must be payed, hath
+thought fit to rule them by. To which purpose it is ordinarily observed
+<PB N="6" REF="7"/>
+that <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Sin,</HI> or ab<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>rration from that rule by which we ought to walke
+(for so that word naturally signifies) is by Saint <HI>John</HI> 1 Epist. 3. 4. defined
+<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> which we render <HI>a trangression of the law.</HI> I<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/> which place of Saint
+<HI>John,</HI> though the truth is, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> and <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> denoting more then
+the bare commission of sinne in that Author generally, viz. the wilfull per∣petration
+of it, and an indulgence in, and habit of so doing) the word
+<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> and <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> must proportionably also signifie not onely trans∣gressing,
+but wilfull habituall contemning the Law, b<GAP DESC="illegible" RESP="oxf" EXTENT="2 letters" DISP="••"/>ng an <HI>exlox,</HI> or with∣out
+<HI>law</HI> (as the Idolatrous Atheist is said to be <HI>without God in the world)
+i. e.</HI> without any account or respect of it, (and so <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>Joh.</HI> 31. 3.
+notes the greatest degree of sinfulnesse, we render in <HI>workers of iniquity,</HI>
+and so very frequently in the Septuagint we finde <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, where we render
+the Hebrew by <HI>mischiefe</HI>) yet still the observation stands good, that law is
+the rule, in aberration from which all sinne consists, and so <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> is <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>
+in both senses, the least degree of sinne a deviation from the law, and a
+malicious contentious sinning a malitious contemptuous deviation, or trans∣gression,
+and so Saint <HI>Paul</HI> hath also resolved it, that where <GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>here is no
+law, there is no transgression, no <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Rom.</HI> 4. 15. no going awry, when
+there is no rule proposed to goe by.</P>
+<P><MILESTONE N="19" UNIT="§"/> This being so cleare in i<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>s selfe, and yet through the mistakes, yea and im∣pities
+of the <HI>world</HI> b<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>come so necessary to be thus farther cleared; Two things
+there are which will hence inevitably follow, the first Negative, the second
+Positive; The first or the Negative, that Whatsoever undertakes to direct,
+or guide our actions, to tell us our duty, that this we must, that we may
+not doe, and hath not some law, (in force, and still obligatory to us) to au∣thorize
+those directions by, is not <HI>Conscience,</HI> whatsoever it is.</P>
+<P><MILESTONE N="20" UNIT="§"/> First, Humour it may be, to think our selves bound to doe whatsoever we
+have a strong inclination to doe, it being a matter of some difficulty to di∣stinguish
+between my naturall and my spirituall inclinations, the motion of
+my sensitive appetite, and my diviner principle, my lower, and my upper
+soule, and the former commonly crying louder, and moving more lively, and
+impatiently, and earn<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>stly then the other.</P>
+<P><MILESTONE N="21" UNIT="§"/> Secondly, Phansie it may be, which is a kind of irrationall animall Con∣science,
+hath the same relation to sensitive representations (<HI>those lawes in
+the members</HI>) which Conscience hath to intellectuall (<HI>those lawes of the
+mind</HI>) and then, as <HI>Aristotle</HI> saith, <HI>that in</HI> those <HI>creatures which have not
+reason, phansie supplyes the place of reason;</HI> so they which have not, or will
+not have conscience to direct them, phansie most commonly gets into its
+place. Or</P>
+<P><MILESTONE N="22" UNIT="§"/> Thirdly, Passion it may be; Our feares will advise us one thing, our ani∣mosities
+another, our zeale a third, and though that be perhaps zeal of God,
+yet that zeale is a passion still, one of those which <HI>Aristotle</HI> hath defined in
+his Rhetoricks, being not <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, according to knowledge or <HI>consci∣ence,
+Rom.</HI><NOTE PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/></NOTE> 10. 2. for the Hebrew word, as I told you, is rendred by those two
+words promiscuously, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> and <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>knowledge</HI> and <HI>conscience.</HI> Or</P>
+<P><MILESTONE N="23" UNIT="§"/> Fourthly, diabolicall suggestion or infusion it may be, an enthusiasm of
+<PB N="7" REF="7"/>
+that black spirit; as it is, (or of some thing as bad in effect) infallibly, when∣soever
+<HI>Rebellion, Sedition, Murther, Rapine, Hatred, Envy, Vncharitablenesse,
+Lying, Swearing, Sacriledge, &amp;c.</HI> come to us under the disguise of Religion
+and Conscience; and therefore the <HI>Spirits</HI> must be searcht <HI>whether they
+be of God,</HI> or of the Devill; and no surer way to doe it, then by these
+and the like Symptomes, these fruits and productions of that infernall Spi∣rit,
+which so perfectly represent and owne their parent, that none but
+blind or mad men or daemoniacks can beleeve them in earnest to come from
+God. Or</P>
+<P><MILESTONE N="24" UNIT="§"/> Fiftly, False doctrine it may be, and that againe set off either by the
+authority of the teacher, or by the dignity of some eminent followers and
+practicers of it, and then the Apostle calls it [<HI>having mens persons in admi∣ration</HI>]
+or by the earlinesse of its representation, being imbibed and taken in
+first, swallowed and digested before the truth was offered to us, and then it is
+prejudice or prepossession, and this again alwayes assisted by the force of
+that old axiom, [<HI>Intus existens &amp;c.</HI>] and by that which is naturall to all ha∣bits,
+to be hardly moveable, and yet further improved sometimes by pride
+and obstinacy, alwayes by selfe-love, which makes us think our own opi∣nions
+(<HI>i. e.</HI> which we are already possest of) the truest; which in this case is in
+effect to think our luck the best luck, and the same which was observed in
+one worst sort of Heathens, who, whatsoever they saw first in the morning,
+worshipt that all the day after; a choosing of perswasions as country men
+choose Valentines, that which they chance to meet with first after their
+coming abroad.</P>
+<P><MILESTONE N="25" UNIT="§"/> Besides these, many other things it may be, and so, 1. It is oddes e∣nough
+that it will not be conscience, which pretends to be so, and 2. It is
+certainly not conscience, unlesse it produce some law for its rule to direct
+us by. And this was the <HI>Negative</HI> or <HI>first</HI> thing.</P>
+<P><MILESTONE N="26" UNIT="§"/> The second or the Positive thing which followes from the premises, is
+this, that Conscience of duty in any particular action is to be ruled by that
+law which is proper to that action; as for example: The <HI>Christian law</HI> is the
+rule of Conscience for Christian actions; the <HI>law of reason,</HI> or morall law,
+for morall; the <HI>law nationall,</HI> municipall, or locall, for civill; the <HI>na∣turall,
+law of all creatures,</HI> for naturall actions; and the <HI>law of scandall,</HI>
+(a branch of the Christian law) for matters of scandall; and the <HI>law of li∣berty,</HI>
+for indifferent free actions. And as it is very irregular, and unrea∣sonable
+to measure any action by a rule that belongs not to it, to try the
+exactnesse of the circle by the square, which would be done by the compasse,
+and in like manner to judge the Christiannesse of an action, by the law of
+naturall reason, which can onely be judged by its conformity with the law of
+Christ, superiour to that of nature; So will there be no just pretence of
+conscience: against anything, but where some one or more of these lawes are
+producible against it; but on the other side, even in the lowest sort of acti∣ons,
+if they be regulated by the law proper to them, and nothing done con∣trary
+to any superiour law, even by this God shall be glorified, 1 <HI>Cor.</HI> 10. 31.
+a kind of glory resulting to God from that readinesse of submission and
+<PB N="8" REF="8"/>
+subordination of every thing to its proper rule, and law, to which the great
+Creator hath subjected it, and of all lawes to that supreme transcendent one,
+the law of Christ. And though some touches there are in the Scripture of
+each of these lawes, some <HI>sibrae</HI> or strings of them discernibly there, so farre,
+that there is nothing almost under any of the heads sorementioned, but by
+the Scripture some generall account may be given of it, and againe, though
+that of Scripture be the supreame law of all, and nothing authorizeable by
+any inferiour law, which is contradicted or prohibited by that, yet is not that
+of Scripture such a particular Code or Pandect of all lawes, as that every
+thing which is commanded by any other law, should be found commanded
+there, or be bound to prove its selfe justifiable from thence, any further then
+that it is not there prohibited, or thereby justly concluded to be unlawful.</P>
+<P><MILESTONE N="27" UNIT="§"/> From whence by the way, I conceive direction may be had, and resolution
+of that difficult practicall probleme, what a man may doe in case he be le∣gally
+commanded by his lawfull superiour to doe what he may lawfully doe,
+which yet he is perswaded he may not doe, or doubteth whether he may or no.
+For in this case if he be not able to produce some plaino prohibition from
+some superiour law, as from that of Scripture, he cannot be truly said to
+be perswaded in conscience, (which implyes knowledge) of the unlawfulnesse
+of that thing, nor consequently hath he any plea for disobedience to that
+lawfull command of his Superiours. All that may be said, is, that he may
+from some obscure place misunderstood have cause or occasion to doubt
+whether he may doe it or no, and then, although doubting simply taken (<HI>i. e.</HI>
+where no command interposes,) may keep me from doing what I doubt, yet
+it ought not to be of that weight, as to keep me from my lawfull Superiours
+lawfull command, because that very command is a sufficient ground to su∣persede
+my doubting, when I have no plaine prohibition of Scripture to the
+contrary, (which in this case I am supposed not to have, for if I had, Then,
+first, it were not a lawfull command, and secondly, I should not doubt but
+be assured) it being my duty, and part of my Christian meeknesse, in doubt∣full
+matters to take my resolution from those whom God hath placed over
+me, and it being the sinne of dogmatizing to affirme any thing for me or o∣thers
+to doe, which some law of God, &amp;c. still in force, doth not prohibit;
+which sin being added to that other of disobedience to my lawfull Superiours,
+will sure never be able to make that commence virtue, which was before so
+far from any pretentions to that title.</P>
+<P><MILESTONE N="28" UNIT="§"/> Having proceeded thus far in the search of the ground of Conscience,
+'twere now time to reduce this operation to practice, and shew you, first, What
+directions Conscience is able to afford from every of those lawes for the ru∣ling
+of all actions of that kind; and secondly, What an harmony and con∣spiration
+there is betwixt all these lawes, one mutually ayding and assisting
+the other, and not violating or destroying. But this were the largest under∣taking
+that could be pitcht on in the whole circle of learning, <HI>Aerodius's
+Pandectae rerum ab omni aevo judicaturum,</HI> and all the Schoolmens and Ca∣suists
+volumes, <HI>de legibus, de jure &amp; justitia,</HI> and on the Decalogue, would be
+but imperfect parts of this; I shall give you but one taste or <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> of it, by
+<PB N="9" REF="8"/>
+which the Reader will be perswaded to spare me, or rather himselfe that
+trouble.</P>
+<P><MILESTONE N="29" UNIT="§"/> The prime of these, the Christian law, is the rule of all actions that
+come within that spheare, sets downe the nature of all Christian duties of
+<HI>piety,</HI> and <HI>love</HI> of our brethren in generall, and more particularly of <HI>Faith,
+Hope, Charity, Repentance; selfe-denyall, taking up the crosse,</HI> &amp;c. of <HI>humi∣lity,
+meeknesse, mercifulnesse, peaceablenesse, obedience to</HI> superiours, <HI>patience,
+contentednesse,</HI> and the like; and the relation of a Christian being a grand
+transcendent relation, there is no action imaginable, but may either in re∣spect
+of the <HI>matter,</HI> or <HI>motive,</HI> or <HI>principle,</HI> or <HI>circumstances,</HI> offend against
+one of these, (and then, <HI>malum ex quolibet defectu,</HI> the least of these defects
+blemisheth it) and so conscience directed by that rule or law, will direct me
+either to doe it, or not to doe it in that manuer, and then tis not any com∣playnce
+with, or agreeablenesse to any or all other lawes, which will make
+this action Christian, which hath any such notable defect or blemish in it;
+Not to pursue this any farther, having thus named it, and shewed you the
+vastnesse of the sea it leads to, it will suffice to our present designe to tell
+you, that from what is said these 3 corollaries, to omit many others, will be
+deducible.</P>
+<P><MILESTONE N="30" UNIT="§"/> 1. That it is not possible for Conscience (be it never so strongly perswa∣ded)
+to make any action lawfull, which is not regulated by those rules, or
+lawes which are proper to it, and reconcileable with the grand rule, the Chri∣stian
+law. Conscience can never transforme <HI>profanenesse</HI> into <HI>piety, sacri∣ledge</HI>
+into <HI>justice</HI> or <HI>holinesse, rebellion</HI> into <HI>obedience, faction</HI> into <HI>humility,
+perjury,</HI> or taking of unlawful oathes into <HI>religion, rapine</HI> into <HI>contentednesse,
+inhumanity</HI> into <HI>mercifulnesse, adultery, fornication, divorces,</HI> (save in case of
+adultery) or any <HI>uncleannesse</HI> into <HI>purity, labouring to shake a Kingdome,</HI> (to
+remove the crosse from my owne shoulders to another mans) into <HI>taking up
+of the Crosse;</HI> but contrariwise, if it be truly and univocally Conscience of
+duty, it will tel me that every one of these foule titles belongs to every such
+action (the Scripture being so cleare in these particulars, that there is no
+place or excuse for ignorance or mistake) and by setting before me the <HI>ter∣rors
+of the Lord, perswade</HI> me not to venture on any one such action upon
+any termes; or if I have ventured, it will smite and wound me for it, and
+drive me to timely repentance; or if it doe not, tis either a cauterized <HI>insen∣sate
+conscience,</HI> a <HI>reprobate mind,</HI> or else some of these <HI>Images,</HI> which even
+now I mentioned, mistaken for Conscience; or if it be a <HI>full perswasion</HI> of
+minde, that what I thus am about, I am obliged to doe, (if that be a possible
+thing in such matters and under so much light) tis then in the calmest style
+an erroneous Conscience, which is so far from excusing me (unlesse in case
+of ignorance truly invincible, which here is not imaginable) that it brings
+upon me the most unparalleld infelicity in the world, an obligation to sinne
+which way soever I turne my selfe, on one side appearing and lying at my
+doore the guilt of committing that sinne which I have so mistaken, and on
+the other the guilt of omitting that (though sinne) which my Conscience
+represented to me as duty; and nothing but repentance and reformation
+<PB N="10" REF="9"/>
+of judgement first, and then of practice, will be able to retrive the one or
+the other.</P>
+<P><MILESTONE N="31" UNIT="§"/> The second corollary will be this, That it is the most unreasonable insolence
+in the world, for them that can swallow such Camell-sins as these without any
+regrets, nay with full approbation, and direction (perhaps) of conscience
+(if that may be called <HI>Conscience</HI> which is so divided from, and contrary to
+<HI>knowledge</HI>) yet to scruple and interpose doubts most tremblingly, and most
+conscientiously in matters of indifferency; not so much as pretended to be a∣gainst
+the word of God, (and so within the law of christian liberty, that they
+may be done if he will) and yet over and above their naturall indisterency
+commanded by that authority, in subjection to which the christian vertue of
+obedience consists; and all this either first upon no ground of conscience at
+all, but only that it is contrary to their <HI>Phansy,</HI> their <HI>Humour,</HI> their <HI>Pre∣possessions;</HI>
+or Secondly because it is a restraint, upon their christian liberty,
+which yet Christ never forbid to be restrained <HI>quoad exercitium, as farre as
+belongs to the exercise of it,</HI> but hath permitted sometime the care of not <HI>of∣fending
+the weak brother, i. e.</HI> Charity, and sometime Obedience, to law∣full
+superiours, to restreine it, (for if in things indifferent they may not
+restreine, there can no obedience be payed to them;) or Thirdly because they
+are offensive (though not to them, yet) to others, who are perswaded they
+are unlawfull. Whereas I that perswasion of those others is erroneous, and
+not sufficient to justifie disobedience in thems<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>lves, much lesse in other men,
+in case of lawfull humane command, And 2 that their censuring of such in∣different
+actions, <HI>i. e.</HI> being <HI>angry without a cause,</HI> may bee greater
+matter of scandall, and so more offensive to others, and more probable to
+work upon them to bring them by that example to be so angry also, then the
+doing that indifferent action, mistaken by others, and condemned for unlaw∣full,
+would be to bring th<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>m to transcribe that reprobated samplar, <HI>i. e.</HI> to
+doe what they thus condemne; all men being farre more apt and inclinable
+to break out into passions, then into acts against conscience, and so more
+likely to be scandalized or offended, or insnared, by following the former,
+then the latter example, to sinne (for company or after another man) by
+censuring whom he censures, which is being angry without a cause; then by
+doing what they are advised and resolved they ought not to do, which is sin∣ning
+against conscience. Or fourthly, because they are against their consci∣ence
+to doe, whilst yet they produce no law of God or man against them,
+and so in effect confesse there is nothing in them against conscience; unlesse,
+as before was noted, they wilfully aequivocate in the word <HI>Conscience;</HI> which
+will and skill of theirs, as it will not make any thing, unlawfull, which
+before was indifferent, so will it not conclude ought, save only this, that
+they which are so a<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>tificious to impose on others, and forme scruples
+where there were none, would not be thought the likeliest men to swal∣low
+grosse sinnes under the disguise of vertues, or if they doe so, will
+have least right to that onely Antidote of invincible ignorance to digest
+them.</P>
+<P><MILESTONE N="32" UNIT="§"/> The third corollary will be this, that scrupulousnesse of conscience in
+<PB N="11" REF="9"/>
+some lighter lesse important matters (if it may be supposed excusable, <GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>s a
+weaknesse of an uninstructed mind, joyned with that good symptome of
+tendernesse of quick sense, yet) can n<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ver hope to be accepted by God by
+way of commutation or expiation for grosser sinnes, so that he that falls
+foulely in any confessed sinne, should fare the better at the great day of ac∣count,
+or be in lesse danger of being cast out of Gods favour for the pre∣sent,
+because he is over-scrupulous in other things: For sure this were a
+strange way of supererogation to pay one arreare to God by running into
+another with him, to discharge a debt by owing more. And yet this is an er∣rour
+which may seem worth the paines of preventing, it being so notorious∣ly
+seen, that some men, which professe to have care of their wayes, and
+must in charity be beleeved to have so, goe on confidently in greivous sins,
+which they cannot but know will damne without repentance, (the sentence of
+not inheriting the Kingdome of God, <HI>Gal.</HI> 5. being so distinct, and punctu∣all,
+and absolute, and indispensable against them) and yet have no Anti∣dote
+to relye on for the averting that danger, but onely this of their exact∣nesse
+and scrupulousnesse in things indifferent; which if they shall say they
+doe not confide in, they are then obliged, in conscience, and charity to their
+brethren (who may follow them to this precipice) either to give over ho∣ping,
+or to set to purifying, without which there is no true ground of hope.
+This hint puts me in mind that there is another part of my design still be∣hind,
+belonging to the second notion of conscience, to examine</P>
+<P><MILESTONE N="33" UNIT="§"/> What it is that is required to entitle a man to a good conscience; which
+will briefly be stated by premising what before was mentioned, that the good
+conscience belongs either to <HI>particular</HI> single performances, or to the <HI>whole
+state of life</HI> and actions. To the first there is no more required, but that
+that particular action be both for matter and circumstance regulated by the
+rule, or rules which are proper to it, and have nothing contrary to any supe∣riour
+transcendent rule. As that my <HI>meale</HI> be with <HI>sobriety</HI> and <HI>thanks∣giving,</HI>
+my <HI>almes</HI> with <HI>chearfulnesse, liberality, discretion,</HI> done in <HI>grati∣tude</HI>
+and <HI>obedience</HI> to God, and <HI>mercifulnesse</HI> to my brother, without re∣flexion
+on my own <HI>gaine</HI> or <HI>praise</HI> in this world. But for <HI>the Good Conscience,</HI>
+which belongs to the whole state of life and actions, which is called <HI>a good
+Conscience in all things, Heb.</HI> 13. 18. or a <HI>good Conscience</HI> consisting in ha∣ving
+<HI>a good conversation in all things,</HI> (for so the punctation in the Greek
+will direct rather to render it,<NOTE PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.</NOTE> [<HI>we have a good conscience, willing to live
+well,</HI> (or have an honest conversation) <HI>in all things</HI>] there the difficulty will
+be greater. And yet two Texts there are which tend much to the clearing
+and disinvolving of that one, 1 <HI>Pet.</HI> 3. 16. where <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Good
+Conscience</HI> in the beginning of the verse, is explained in the close by <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>,
+<HI>a good conversation in Christ,</HI> or a good christian conversati∣on,
+or such as now through Christ, by the purport of the second covenant
+may and shall be accepted for good. Where the word [<HI>conversation</HI>] denoting
+first the actions and behaviour both toward God and man, and second∣ly,
+the whole course and frame of those actions, (wherein it seems a
+good conscience consists,) cannot better be explained then either by the
+<PB N="12" REF="10"/>
+Apostles, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, an <HI>accurate exact walking, Eph.</HI> 1. 15. or the
+phrase to <HI>Titus, c. 2. 12. living soberly and righteously and godly in this pre∣sent
+world;</HI> the first respecting our duty to our selves, or actions, as private
+men; the second, our duty to our brethren, in our more publique capacities;
+the third, our duty to God as creatures, men, and Christians; or Saint <HI>Lukes</HI>
+character of <HI>Zachary</HI> and <HI>Elizabeth, Luk. 1. 6. Walking in all the Commande∣ments
+and Ordinances of the Lord blamelesse; Walking Blamelesse, In all:
+Universall sincere obedience,</HI> (not entire or <HI>perf<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ct</HI> without ever sinning, but)
+considered with the rules of <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, or <HI>moderation of strict law,</HI> (which is
+now part of the <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, the <HI>Gospel-law,</HI> by which a Christian is to be
+tryed, as <HI>equity</HI> is a part of the <HI>municipall law</HI> of this land; Such is mercy
+for frailties, and infirmities, and grosser lapses recovered and retracted by re∣pentance)
+now under the Gospel, so as to be acceptable to God in Christ;
+which was intimated (as in the <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>in Christ, 1 Pet.</HI> 3. so) in the former
+part of that verse, and their character <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>righteous before
+God:</HI> Which phrase [<HI>Before God</HI>] hath a double intimation worth obser∣ving
+in this place, first of the perseverance or perpetuity of that righteous∣nesse
+(as opposed to the temporary of the hypocrite) for the phrase <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>
+[<HI>before him</HI>] refers to the shew bread of old, <HI>Exod. 25. 30. which was to
+be set before God alway;</HI> and therefore is sometime called <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> the
+<HI>bread of faces,</HI> or <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>bread before his face,</HI> literally <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>before him,</HI>
+and sometimes <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>perpetuall bread,</HI> and secondly, of the ac∣ceptation
+or reception in the sight of God, for that againe was the end of
+setting the <HI>bread alwayes before God,</HI> that God looking on it might accept
+them; and so <HI>righteousnesse before God,</HI> is such righteousnesse as God will
+please in the Gospel to accept of, as when <HI>visiting the fatherlesse, &amp;c. Jac.</HI>
+1. 27. is called, <HI>religion pure and undefiled before God the Father;</HI> it noteth
+such a degree of unblemisht purity, not as excluded all sinne, but as God in
+Christ would (or hath promised to) accept of. And the same phrase there∣fore
+is in another place of the same Chapter, <HI>Luk.</HI> 1. 75. rendred by our
+Church in the Gospel for Midsummer day by these words, <HI>such as may be
+acceptable for him.</HI></P>
+<P><MILESTONE N="34" UNIT="§"/> Which being all taken into the description of a good conscience, that <HI>it is
+such a continued good conversation as God now under the Gospel promiseth to
+accept of;</HI> the onely difficulty behind will be, what that is which God pro∣miseth
+to accept of; To which end, it will be very instrumentall to take in
+that other place which I promised, and that is that forementioned, <HI>Heb.</HI> 13.
+18. where the <HI>Good Con<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>cience</HI> is evidenced (or the ground of confidence
+that he hath a good conscience, demonstrated) by this [<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>]
+<HI>willing,</HI> or resolving, or endeavouring <HI>to live honestly,</HI> or
+to have honest conversation <HI>in all things.</HI> From whence the onely thing
+which I desire to collect is this, That the <HI>sincere resolution or endeavour to
+live honestly in all things</HI> (which I remember, one of our ancientest Church-writers
+Saint <HI>Cyrill</HI> of <HI>Jerusalem</HI> calls, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, and opposes it
+to <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, works) <HI>is the Scripture nomination of a good Conscience,</HI> or the
+<PB N="13" REF="10"/>
+<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>that great treasure of confidence</HI> to all which have
+it; that ground of mature perswasion for any, that he hath, or shall by God
+be allowed, and acknowledged to have a <HI>good conscience.</HI></P>
+<P><MILESTONE N="35" UNIT="§"/> And if it be farther demanded what is necessarily required, (and how
+much will be sufficient) to denominate a man Such, what is the <HI>minimum
+quod sic</HI> of this sincere resolution, or endeavour, although that, I confesse,
+will be hard if not impossible, to define in such a manner, as shall come
+home to every particular, (the proportions of more or lesse, <HI>knowledge</HI> or
+<HI>strength,</HI> the inequality of the talents of <HI>illuminating</HI> and <HI>assisting</HI> grace still
+interposing and making a variation) yet will it not be matter of much dif∣ficulty
+to give some generall advertisements, and <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, which will be
+acknowledged as soone as mentioned, and being put together, and by each
+man single applyed to his particular case, by way of self-examination, will be
+able to tell him in some measure, whether he hath a good conscience or no.
+And the first of these will be, That</P>
+<P><MILESTONE N="36" UNIT="§"/> Acts and habits of sinne in the former (heathen or unregenerate) part of
+the life, of what nature (and clothed with what aggravations) soever, if they
+are now retracted and renounced by repentance (as that signifies not onely
+a <HI>sorrow,</HI><NOTE PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.</NOTE> but a thorow <HI>change</HI>) are reconcileable with a good conscience. The
+truth of which is cleare, first, because the Gospel allowes place for <HI>repen∣tance,</HI>
+and promises <HI>rest to the heavy laden,</HI> so he <HI>come unto Christ,</HI> and <HI>mercy</HI>
+to him that <HI>confesseth and forsaketh.</HI> Secondly, because the sincerity of re∣solution
+and endeavour <HI>now,</HI> (which is all that is required to a present good
+conscience) is reconcileable with <HI>past sins,</HI> even of the largest size. Thirdly,
+because Saint <HI>Paul</HI> himselfe, which was once a <HI>Saul,</HI> can yet say confidently,
+that <HI>he hath a good conscience.</HI> And fourthly, because (which I shal a little
+enlarge on) the sinne against the holy Ghost, which alone is by the Gospel
+made uncapable of remission, is, as I conceive, no act, no nor course of any
+speciall sinne, but a state of final impenitence, a continued persevering re∣sistance
+of all those saving methods which are consequent to the descent, and
+are part of the office of the holy Ghost.</P>
+<P><MILESTONE N="37" UNIT="§"/> To which purpose I shall give you one hint which may perswade the
+preferring of this opinion before the contrary, and it is by observing the
+occasion of Christs delivering those words concerning the irremissiblenesse
+of speaking against the holy Ghost. Those words are delivered by Christ
+both in Saint <HI>Matthew</HI> and Saint <HI>Mark</HI> upon occasion of that speech of the
+Jewes, that Christ <HI>cast out Devils, by the Prince of Devils,</HI> which was clear∣ly
+a blaspheming or speaking contumeliously against Christ himselfe, or the
+<HI>sonne of man,</HI> and there is no passage in the Text which can conclude that
+that speech of theirs was by Christ called the <HI>blasphemy against the holy
+Ghost,</HI> but rather the contrary that it was a <HI>blasphemy onely against the sonne
+of man;</HI> for tis apparent that Christ <HI>Mal.</HI> 12. 15. for the space of six verses
+sets himselfe to convince them of the falsity of that speech (which probably
+he would not have done, if they, to whom he sp<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ke had been in an irreco∣verable
+irreversible estate of blasphemy. For that he should take such paines
+onely to leave them unexcusable, 1. there was no great need, in this case they
+<PB N="14" REF="11"/>
+were so already. 2. it is a mistake to think that Christ doth so at any time,
+they are bowels of mercy and not designes of mischieving, or accumulating
+their sinne, and judgements, which incline him to call and knock, and la∣bour
+to convince sinners) and having done that, doth both invite them to re∣pentance
+by shewing them the possibility of pardon yet, and give them an
+admonition able to shake th<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>m out of all impenitence, by telling them the
+danger which attended, if the only last method of working on them which
+was yet behind, did not prosper with or work upon them, This is the impor∣tance
+of that 31 and 32 verse concerning <HI>the speaking a word, i. e.</HI> standing
+out <HI>against the sonne of man</HI> on one side, and <HI>the Holy Ghost</HI> on the o∣ther;
+the summe of which is this, there shall be by the coming of the Holy
+Ghost a possibility of pardon and meanes of reformation for those that re∣sist
+and hold out and even crucifie Christ (as by the coming of Christ, there
+was for those that should beleive on him, though they had formerly lived dis∣obedient
+unto God the Father, resisted those methods of mercy used on them
+under the old Testament) for <HI>them that speak a word. i. e.</HI> by an Hebraisme
+doe an action (of affront, of injury, of contumely) <HI>against Christ,</HI> yea that
+resist and beleive not on him, but conceive and affirme him to <HI>cast out Di∣vels
+by the power of Beclzebub</HI> (which was as contumelious a thing as could
+be said of him) but when Christ shall be taken from the earth, and the Holy
+Ghost shall be sent down to convince the world of that great sinne of cruci∣fying
+Christ, and to s<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ttle in the Church of God such an orderly use of all
+Gospell-meanes that may tend to the bringing sinners to repentance (the use
+both of the <HI>word</HI> and <HI>sacrament</HI> and <HI>censures</HI> and all other things necessary to
+that great end of working on the most contumacious) that if this prevaile
+not, there is little hope left of ever working on such perversenesse, then it
+is to be resolved, that those that thus stand out against all those saving me∣thods
+of Gods last oeconomy, shall be left uncapable of any good, of any
+whether meanes of yet-farther working on them, or of pardon either in the
+Church or in heaven, there being no more persons in the God-head now
+behind (unlesse we will change the christians Trinity into Pythagorasses <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>)
+nor consequently meanes in the providence of God, for the redu∣cing
+of, or obtaining mercy for such. By this it will appeare that this blas∣phemy
+against the Holy Ghost is not any one act no nor habit of sin (parti∣cularly
+not that speaking against Christ there, which you will also guesse by
+Saint <HI>Luke,</HI> who mentions not that speech of theirs concerning his casting out
+Divels by the Prince of Divels, and yet sets down this speech of Christ, of the
+irremissibility of this blasphemy against the Holy Ghost, <HI>Luke</HI> 12. 10. which
+argues that this hath no neare relation to that) but a finall holding out a∣gainst,
+and resisting the whole office of the Holy Ghost, and all those gra∣cious
+methods consequent to it.</P>
+<P><MILESTONE N="38" UNIT="§"/> To which I shall only adde in reference to my present purpose (that
+there may be no place of doubting even to him which will not receive my
+interpretation of this place) that even by those which conceive it to be some
+speciall kind of sinne, yet the unpardonablenesse of it is acknowledged to
+arise from thence, that it is impossible for any such to repent, yet not for
+<PB N="15" REF="11"/>
+any that repents to find pardon and mercy, which is sufficient for the con∣firmation
+of my present proposition.</P>
+<P><MILESTONE N="39" UNIT="§"/>'Tis true indeed, that he that is sold a slave of sinne, the unregenerate
+carnall man, is, whilst he is so, in a most hopelesse, comfortlesse estate, and
+if he have any naturall conscience left him, it must needs be a kind of feind
+and fury with him, <HI>No peace to such wicked, saith my God,</HI> and it is as true
+that the recovery of such a man out of the grave of rottennesse, that Lazar∣state
+in sinne, is a miracle of the first magnitude, a work of greatest difficul∣ty
+(Christ <HI>groanes</HI> at the raising of him that was 4 <HI>dayes</HI> dead <HI>and putrified in
+the grave</HI>) and costs the sinner much dearer to be raised out of it. <HI>Saul</HI> is
+<HI>strucke down</HI> in his march towards <HI>Damascus, blind</HI> and <HI>trembling</HI> before his
+conversion; but yet still when this conversion is wrought, he may have a <HI>good
+Conscience</HI> what ever his foregoing sins were.</P>
+<P>And although the Apostles Censure <HI>Heb.</HI> 6. 6. and 10. 26. light yet hea∣vier
+upon those who after <HI>the knowledge of the truth and gust of the life to
+come, and participation of the holy spirit relapse</HI> to their former <HI>sinnes,</HI> it be∣ing
+there affirmed that there is no <HI>possibility to renew</HI> them,<NOTE PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.</NOTE> or (as the Greeks
+read it) <HI>for them to renew</HI> or recover <HI>to repentance,</HI> and consequently <HI>the sa∣crifice
+for</HI> sinne [<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>] no longer belonging to or <HI>remaining for
+them,</HI> yet doth not this hinder the truth of the present proposition; for 1 those
+places to the Hebrews belong not to the sins of the unregenerate life, which
+only now we speak of, but of the relapse after the knowledge of the truth,
+2. even in those places speaking of those sinnes, the doctrine is not, that
+there shall be any difficulty of obtaining pardon for them upon repentance,
+(for the Subject of the Apostles Propositions is the <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> and <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>
+men considered exclusively to repentance, as abiding in sinne un∣reformed
+impenitent, and to such we designe not to allow mercy) but that
+this is so great a grieving and quenching of the spirit of God, that it becom∣eth
+very difficult, and in ordinary course <HI>impossible</HI> for them that are guilty
+of it to repent, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>again to recover to repentance:</HI>
+It being just and ordinary with God upon such sinnes of those to whom he
+hath given grace, to withdraw that grace againe, according to his method
+and oeconomy of providence exprest in the parable of the talents, [<HI>from him
+that hath not</HI> made use of the grace or talent given, <HI>shall be taken away even
+that which he hath</HI>] and <HI>Wisd. 1. 5. the holy spirit of discipline will not abide
+where unrighteousnesse cometh in;</HI> and so being thus deprived of that grace,
+it is consequently impossible that those should <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, in a neutrall
+sense, <HI>renew</HI> and <HI>recover,</HI> or in an active reciprocall <HI>renew or recover them∣selves
+to repentance,</HI> though yet for God to give a new stock of grace it is not
+impossible, but only a thing which he hath not by revealed promise obliged
+himselfe to do; and therefore whether he will doe it or no, is meerly in his own
+hand and dispositive power, and that which no man hath ground to hope
+and title to challenge from him. All which notwithstanding our present pro∣position
+stands firm, that where there is repentance, or true thorow change,
+those former retracted acts or habits are reconcileable with good Consci∣ence.</P>
+<P><PB N="16" REF="12"/><MILESTONE N="40" UNIT="§"/>
+The second this, that <HI>Sinnes of weaknesse of all kinds,</HI> whether first, of
+ignorance, or secondly, of naturall infirmity, the one for want of light, the
+other for want of grace, or thirdly, of suddaine surreption, such as both by
+the law of [<HI>Si quis praecipiti calore</HI>] in the Code of <HI>Iustinian,</HI> and by the mu∣nicipal
+laws of most nations, are matter of extenuation to some crimes, to dis∣charge
+them from capitall punishment, at least to make them capable of par∣don,
+or fourthly, of dayly continuall incursion, either for want of space to
+deliberate at all, or because it is morally impossible to be upon the guard to
+be deliberate always, (<HI>opere in longo <GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>as est obrepere somnum</HI>) or fistly, which
+through levity of the matter passes by undiscerned, and the like, are irrecon∣cileable
+with a good conscience, because againe, be a man never so sincerely
+resolute and industrious in endeavour to abstaine from all sinne, yet as long
+as he carries <HI>flesh</HI> about him, (which is such a principle of weaknesse, that or∣dinarily
+in the New Testament, the word <HI>flesh,</HI> is set to signifie <HI>weaknesse</HI>)
+such weaknesses he will be subject to, such frailties will be sure to drop from
+him. This, I remember, <HI>Parisiensis</HI> illustrates handsomely, first, by the
+similitude of an armed man provided with strength and prowesse, and wrest∣ling
+with another <HI>in lubrico,</HI> on a slippery ground, who though neither wea∣pons
+nor strength nor courage faile him, yet may he very probably <GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>all, the
+slipperinesse of the footing will betray him to that; or secondly by an horse∣man
+mounted on an unmanaged or tender-mouth'd horse, who cannot with
+all his skill and caution secure himself: from all misadventures, the beast
+may upon a check come over with him, or getting the bit into the mouth
+<GAP DESC="illegible" RESP="oxf" EXTENT="1 word" DISP="〈◊〉"/> into the enemies quarters; or thirdly, by a City that is provided
+for a siege with workes, and men, and victuals, and ammunition, and yet by
+a treach<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>rous party within may be betrayed into the enemies hands; there
+is a principle of weaknesse within like that slippery pavement, that tender∣mouthed
+beast, that insidious party, which will make us still lyable to such
+miscarriages, and nothing in this contrary either to courage or diligence,
+to resolution, or endeavour. And▪ for such as these frailties, ignorances, in∣firmities,
+&amp;c. So they be laboured against, and the meanes of preventing or
+overcomming them sincerely used (which if it be done, you shall find them
+dayly wain in you, and if they doe not so in some measure, you have reason
+to suspect, and to double your diligence) there is sure mercy in Christ to
+be had, obtaineable, by dayly confession, and sorrow, and prayer for forgive∣nesse
+of trespasses) without any compleat conquest atchieved over them in
+this life. It being Saint <HI>Pauls</HI> affirmation, very exactly and critically set
+downe, <HI>Rom.</HI> 5. 6. that Christ <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>we
+being weake,</HI> dyed for the ungodly, to note the universal benefit of his death
+for such <HI>weak ones</HI> and such sinnes as these to which meer <HI>weaknesse</HI> betrayes
+them. The very doctrine which from that text at the beginning of our refor∣mation
+our Reverend Bishop Martyr did assert in his excellent Preface to his
+explication of the commandements.<NOTE PLACE="marg">Hooper.</NOTE></P>
+<P><MILESTONE N="41" UNIT="§"/> To which purpose I shall onely adde one proofe more, taken from the
+<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> or rationall importance of Saint <HI>Pauls</HI> exhortation <HI>Rom.</HI> 15. 1.
+<HI>We that are strong,</HI> saith he, <HI>must beare the weaknesses,</HI> <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>of them
+<PB N="17" REF="12"/>
+which are not strong,</HI> <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, and not please <HI>our selves,</HI> for v. 3. <HI>Christ did
+not so, but</HI> &amp;c. which reason sure must come home to both parts, the affirma∣tive
+as well as the negative (or else the Logick will not be good) and so the
+affirmative be that <HI>Christ bare the infirmities of the weake;</HI> and so again <HI>v.</HI> 7.
+[<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>] applyed to the same matter <HI>he took us up when we were
+tous fallen.</HI> I might adde more, but I hope rather that I have said too much
+in so plaine a point, and abundantly evinced the irreconcileablenesse of such
+frailties with a good conscience.</P>
+<P><MILESTONE N="42" UNIT="§"/> A third thing is, that <HI>The lusting of the flesh against the spirit</HI> is reconcile∣able
+with a good conscience, so it be in him that <HI>walketh in the spirit,</HI> obeys
+the desires and dictates of that, and <HI>fulfilleth not the lusts of the flesh, Gal.</HI> 5.
+16, 17. There is no spiritually good thing that a man ever doth in his life,
+but the flesh hath some mutinyings, lustings, and objections against it, there
+being such a contrariety betwixt the commands of Christ and the desires of
+the flesh, that no man, which hath those two within him, <HI>doth</HI> the things
+that he would. (For so tis, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>) <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> <HI>that you doe not,</HI> not that you cannot
+doe) [<HI>The things that he would</HI>] (<HI>i. e.</HI> the things, which either he resolves
+to doe, or takes delight in) those he doth not, <HI>i. e.</HI> either purely without some
+mixture, or still without some opposition of the contrary, or (as againe the
+place may be rendred) this opposition of these two one against another ten∣deth
+to this, that we may not doe, or to hinder us from doing every thing that
+we would, as indeed we should doe, were there not that opposition within our
+owne brests. This is the meaning of that 17 verse, which notwithstanding it
+followes verse 18. that <HI>if we be led by the spirit,</HI> if that be victorious over
+the contrary pretender (as it may, though tother lust against it) if the pro∣duction
+be not <HI>works of the flesh, adultery,</HI> &amp;c. v. 19. but the <HI>fruit of the spirit
+love, peace,</HI> &amp;c. v. 22. <HI>against such there is no law, no, condemnation,</HI> no accusa∣tion
+of conscience here, or hereafter.</P>
+<P><MILESTONE N="43" UNIT="§"/> For it must be observed, that there is great difference betwixt <HI>this lusting
+of the flesh against the</HI> spirit in them that are <HI>led by the spirit, Gal.</HI> 5. and the
+<HI>warring of the law in the members against the law in the mind,</HI> which <HI>bring∣eth
+into captivity to the law of sin, i. e.</HI> to it selfe, <HI>Rom.</HI> 7. For those in whom
+that latter is to be found, are there said to be <HI>carnall,</HI> sold under sinne (as a
+slave was wont <HI>sub hasta</HI> to be sold) and so <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> to be led by the
+flesh and fulfill the lusts of the flesh, which is of all things most unreconcile∣able
+with that mans state, against whom <HI>there is no condemnation in Christ,
+Rom.</HI> 8. 1. and so with a <HI>good Conscience.</HI></P>
+<P><MILESTONE N="44" UNIT="§"/> And if the resistance of the <HI>minde,</HI> or the <HI>law morall,</HI> of the <HI>spirit,</HI> or the
+<HI>law Christian,</HI> be sufficient to excuse that action or habituall course which is
+committed and lived in, in opposition to both of these, or while both of these
+check and contradict, then sure are sins against conscience become (if not the
+most excusable sinnes, yet) the more excusable for this, that they are against
+conscience; that woulding or contending of the <HI>mind,</HI> or the <HI>law of the mind</HI>
+being no other but the dictate of the instructed conscience, (in them which
+know the law, <HI>Rom.</HI> 7. 1. which he that obeyes not, but followes the law or
+command of sin against it, hath no<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/> sure a good conscience, in our second sence
+<PB N="18" REF="13"/>
+as that signifies a Conscience of well-doing or doing nothing against rule of
+Conscience, for that this man <HI>in terminis</HI> is supposed to doe.</P>
+<P><MILESTONE N="45" UNIT="§"/> Having now proceeded thus farre in the affirmative part in shewing what
+sinnes are reconcileable with a good Conscience, I should now proceed to
+the negative part and shew what are not reconcileable therewith. But be∣fore
+I advance to that, there is one classi<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/> or head of sinnes, about which
+there is some question and difficulty of resolving, to which of the extreames
+it should be reduced, <HI>i. e.</HI> whether it be reconcileable, or unreconcileable
+with a good Conscience. And that is the single Commission of some act of
+knowne sinne, which hath not the Apology of weaknesse to excuse it, and
+yet is not indulged or persisted, or continued in, (for of those that are so, you
+shall hear anon in the 8 Proposition) but without delay retracted by humili∣ation
+and reformation; For the stating and <GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>atisfying of which it will be ne∣cessary
+first, to observe that</P>
+<P><MILESTONE N="46" UNIT="§"/> Any such act of wilfull sinne <HI>First,</HI> hath in it selfe a being, and so is
+capable of a notion abstracted from the retractation of it. Yea secondly, is a
+work of some time, and though it be never so suddenly retracted by repen∣tance,
+yet some space there is before that retraction; and if we speak of
+that time or space, there is no doubt, but that act, first, is contrary to
+good conscience, and contracts a guilt, and consequent to that, the displeasure
+of God and obligation to punishment, which nothing but repentance can
+do away; yea and secondly, is a naturall means of weakning that habit of
+good, of sauciating and wounding the soule, and for that time putting it in
+a bloody direfull condition, and should God before repentance strike, for
+ought we know there would be no remission, and so, fearfull would be the
+end of that soule.</P>
+<P><MILESTONE N="47" UNIT="§"/> But then secondly, if before God thus visit in justice, repentance inter∣pose,
+(as in this present case we suppose it doth) if this plank be caught hold
+on instantly upon the shipwrack, if he that hath committed this act of car∣nality,
+&amp;c. lye not down (after the manner of the Grecian horses in Saint
+<HI>Ambroses</HI> expression, <HI>qui cum ceciderint, quandam tenent quietis &amp; patien∣tiae
+disciplinam, are taught, when they fall in the rac<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>, not to strive or endea∣vour
+to get up again,</HI> lye still on the ground with great <HI>stilnesse and patience)
+walk not after the flesh, Ro.</HI> 8. <GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>. Then presently is he set right again in Gods
+savour, upon (performance of the solemnities, as it were, payment of the
+fees of the Court) humiliation, contrition, confession, and lowly supplica∣tions
+to God for pardon in Christ, and so then to him thus repaired there is
+<HI>no condemnation;</HI> beside the forementioned effects that attended that sinne at
+the time there is no future arrear behind in the other world.</P>
+<P><MILESTONE N="48" UNIT="§"/> As for the other effect of sinne in this life, the wasting of the Conscience,
+or provoking of God to withdraw his grace; though any such act of wilfull
+sinne may justly be thought to do that also in some degree, first, to stop God
+from going on in his current of liberality, and secondly, to cast us back from
+that plenitude and abundance, which before in the riches of Gods bounty
+in Christ was afforded, and so much weaken our stock of grace, leave
+us much more infirme then wee were before the Commission; yet wee
+<PB N="19" REF="13"/>
+find not any threat in Scripture that God will, upon this provocation of
+one single act not persisted in, presently withdraw all grace, but we have
+reason to hope what the Article of our Church supposes, that in this case he
+leaves sufficient grace to enable that <HI>child</HI> of his, that thus <HI>falls, by</HI> that his
+<HI>grace to return again.</HI></P>
+<P><MILESTONE N="49" UNIT="§"/> And if that sad presage, <HI>Heb.</HI> 6. 6. seem to any to withstand this, the an∣swer
+will be prompt and easy, by observing that the word <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, there
+[<HI>the fallers away</HI>] signifies more then some one single act of sinne present∣ly
+retracted againe, even a generall Apostacie in their practice, (if not in
+their faith) a return to their former unregenerate sinnes, (as the phrase <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>,
+[<HI>they being entangled are overcome</HI>] notes 2 <HI>Pet.</HI> 2. 20.
+a place perfectly paralell to this, and) as in this place the ancients have ge∣nerally
+interpreted. And then though such indulgence in sinne, such <HI>retu<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>∣ning
+to the vomit or mire againe</HI> in that other place, doe provoke God to
+withdraw his grace necessary to enable them to repent, yea and cast them
+back into a <HI>worse</HI> estate then they were in, not onely before such sinning,
+but even before their conversion, 2 <HI>Pet.</HI> 2. 20. Yet that God will so punish
+with totall desertion any one act or commission presently retracted againe,
+it is not affirmed here nor any where else, that I have observed, but rather
+on the contrary, that he will visit them with chastisements which are a <HI>grace</HI>
+and a meanes to recall them, without any utter <HI>forsaking or taking of his lo∣ving
+kindnesse from them,</HI> Psal, 89. 33. 35.</P>
+<P><MILESTONE N="50" UNIT="§"/> That this matter may be throughly cleared, I shall suppose this objection
+made against what hath hitherto been said of it, that it may seem by this do∣ctrine,
+[that the regenerate man may bee under Gods displeasure] that hee
+that remaines sanctified may be unjustified, for so he will be, if all his sinnes
+be not forgiven him, which they are not, if this act of sinne not yet repented
+of, be not forgiven. In answer to this, I shall reinforce my affirmation, that
+of necessity it must be granted, if we believe the Scripture, that any such act
+of sinne unretracted by repentance, doth certainly stand upon the sinners
+score unremitted; for that God (as some affirme) doth at the first act of
+my being justified, forgive all my sinnes not only past, present, but also
+future too; cannot be said, but upon a supposition that that man will ne∣ver
+commit any such sinne against which the Gospell threatens perishing,
+<HI>i. e.</HI> any deliberate presumptuous sinne, (which supposition if it were true,
+would inferre an impossibility of the regenerate mans thus sinning, not an
+assurance of his pardon without (or abstracted from the consideration of)
+his repentance, which is the only point, in hand) for if he doe, then upon
+confession and forsaking there is promise of mercy, and not otherwise; and
+in briefe, without repentance there is no remission: and therefore it is ob∣serveable,
+that they which thus affirm, find themselves enforced to fly to
+Gods omnipotence and immensity, to whom all things are present; by help
+of which they can conceive and resolve that at the time of that sinnes being
+upon him unrepented of, God yet seeing his future repentance as present,
+may seale his pardon, and then may by the same reason do so also before
+the commission; the weaknesse of which arguing, I shall no farther de∣monstrate
+<PB N="20" REF="14"/>
+then by this rejoynder, that by the same reason it might be said,
+that a man is justified before he is borne, which yet the objectors doe not af∣firme,
+but that at the time of his first conversion, be it as such a Sermon or
+the like, he was justified, and then all his sins past, present, and to come for∣given
+him, which is as contrary to the notion of all things being present with
+God, as to say that this act of commission is not forgiven till it be repented
+of, for sure the time before that mans birth, and the time after it, are as truly
+present to God before all eternity, as the time of this commission and that re∣pentance.</P>
+<P><MILESTONE N="51" UNIT="§"/> The onely way for us to understand our selves or any thing that belongs
+to Gods actions concerning us, is that which the Scripture supposes and com∣mands
+us to walk in, not the way of Gods secret counsels, (which if we knew,
+were no longer secret) not the way of Gods immensity, (which if it were in∣telligible
+by us, were not imm<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>nsity) but the way of his revealed will, which
+is, that whensoever the sinner <HI>repenteth</HI> him of his sinne, and <HI>amends</HI> his life,
+he shall have his sin <HI>blotted out</HI> and <HI>put out of Gods remembrance, i. e.</HI> for∣given
+unto him and not till then: and to suppose he may have remission be∣fore
+such repentance, is to suppose God perjured who sweares he shall not,
+and to lay falsity to the charge of the whole Gospel, which resolves, <HI>Except
+ye repent, ye shall all perish.</HI></P>
+<P><MILESTONE N="52" UNIT="§"/> To all this I might farther adde that Gods justifying the faithfull man,
+is the approving his fidelity upon tryall of it, and so acquitting him (upon a
+<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> or probation) from suspicion of hypocrisie, pronouncing him faithful,
+or Evangelically righteous, and upon that, owning him as a friend, entring
+into League with him, as might appeare by Gods <HI>justifying Abraham and
+calling him friend</HI> (in the sense wherein they are Christs <HI>friends, which doe
+whatsoever he commands them,</HI> so approve themselves unto him) if it were
+now seasonable to examine that businesse. This being supposed, it would be
+most evident, that such an act of knowne deliberate sinne committed in time
+of tryall, is quite contrary to <HI>justification,</HI> even as contrary as <HI>Abrahams</HI> re∣fusing
+to beleeve Gods promise first, or after to sacrifice <HI>Isaac,</HI> you may sup∣pose
+would have been. Of which the least that can be said, will be this, that
+such a failing is a shrewd blemish to sincerity, which will make it necessary
+for him that is guilty of it, to repaire his credit with God by expressing a great
+sence of his miscarriage, and by many future performances of constancy, and
+resolution, if ever he hope to be approved, or <HI>justified by him.</HI></P>
+<P><MILESTONE N="53" UNIT="§"/> But now having thus far confirmed this, and so rather strengthned, then
+weakned the objection, the next thing I shall desire may be observed is this,
+that every non-remission of a sinne for some time, every displeasure of Gods,
+every not-imputing to righteousnesse, is not an utter intercision of justificati∣on,
+is not a calling all the former forgotten sinnes to remembrance, for to
+such onely an Apostacy, or continued falling away from God betrayes the
+soule. For, the whole current of my life may approve my sidelity to God,
+though some one action be very contrary to it: Nay secondly, a Fa∣ther
+may be displeased with his Sonne for some one fault, and yet
+not disinherit him, nay upon farther provocation he may cast him out
+<PB N="21" REF="14"/>
+of his family, and yet afterward receive him into it againe.</P>
+<P><MILESTONE N="54" UNIT="§"/> So that there are three degrees observable in this matter, first displea∣sure,
+secondly wrath, thirdly fury. First withdrawing of the Fathers favour,
+suspension of pardon, so tis in case of any such single act of sinne presently
+repented of, considered before its retractation. Second, casting out of the fa∣mily,
+totall intercision of mercy for that present, so tis in case of such sin per∣sisted
+in indulgently. Third, utter finall irreversible abdication, so tis in case
+of finall obduration.</P>
+<P><MILESTONE N="55" UNIT="§"/> This may be illustrated, 1. by a vulgar, then by an ecclesiasticall resem∣blance.
+Among friends 1. there may be a matter of quarrell, dislike, displea∣sure,
+and one friend justly frowne upon the other, yea and keep some distance
+from him, and be really angry with him, for some act of injury done by him,
+contrary to the lawes of friendship, which till he hath some way repaired, the
+friend may justly not pardon him, and so absteine for that present from the
+former degree of familiarity with him: but then 2. the injuri<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>us friend may
+continue as injurious still, and go on and persist in that course of falsenesse
+or unfriendlinesse, and then the injur'd friend wholly forsakes his company,
+breaks off those bands of friendship with him, yet so as that upon the others
+relenting and amending, he may yet againe returne to him, and so that to∣tall
+separation prove no finall one, 3. there is, upon obduration or no man∣ner
+of relenting, a finall irreversible breach.</P>
+<P><MILESTONE N="56" UNIT="§"/> The ecclesiasticall resemblance is, that of the three degrees of excommuni∣cation
+among the Jewes, the first or lowest, was <HI>niddui</HI> separation, not totall
+turning out of either sacred or civill society, but remotion to a distance, that
+the offender should not come within foure Cubits of any other, and so be de∣nyed
+the peace of the Church, and the familiar kind of communion, which
+others enjoy. Above this there was <HI>cherem</HI> which was a totall exclusion or
+distermination with anathemas or execrations joyned with it, but yet was
+not finall, then thirdly there was <HI>Schammatha</HI> giving up to destruction
+or desolation, delivering up to Gods comming in judgement, and that was
+irreversible.</P>
+<P><MILESTONE N="57" UNIT="§"/> Now for the full satisfying of the argument, (having already shewed you
+the state of this offender in respect of justification) it will onely be necessary
+to adde one thing more, that the state of the same man as it respects sanctifi∣cation,
+is parallel and fully proportionable to the state as it respecteth justi∣fication,
+and so the objection will quite fall to the ground.</P>
+<P><MILESTONE N="58" UNIT="§"/> To the clearing of which you must know that sanctification may be con∣ceived
+in a double notion: 1. as a gift of Gods, 2. as a duty of mans. To
+prevent mistake; this I meane, God gives the grace of conversion and san∣ctification,
+and he that is effectually wrought on by that grace, is converted
+and sanctified, this is it which I meane, by the first notion of sanctification,
+as it is a gift of Gods: But the man thus converted and sanctfied, <HI>i. e.</HI> thus
+wrought on and effectually changed by the Spirit of God, is bound by the
+Gospl-law, to operate according to this principle, to use this talent, and this
+is called, <HI>to have grace, Heb. 12. 28. i. e.</HI> to make use of it to the purpose there
+specified of <HI>serving God</HI> <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> (<HI>i. e.</HI> either <HI>well pleasedly,</HI> cheerfully, wil∣lingly,
+<PB N="22" REF="15"/>
+or <HI>well pleasingly,</HI> so as God may and will accept) <HI>in righteousnesse
+and godly feare,</HI> according to the notion of <HI>Having</HI> in the parable of the ta∣lents,
+where tis said that <HI>to him that hath shall be given, i. e.</HI> <GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>o him which
+makes use of the talent intrusted to him, operates accordingly, doth what
+that enables him to doe, offends not against it by idlenesse, or by commission
+of contrary sinnes, which he that doth, is the <HI>non habens, he that hath not</HI>
+there, from <HI>which shall be taken away,</HI> &amp;c. And this having of grace is it
+which I meane by the second notion of sanctification, as it is a duty of mans,
+which I conceive is meant by the Apostle, when he saith, this <HI>is the will of
+God, even your Sanctification,</HI> and <HI>he which hath this hope purifies himself,</HI>
+and <HI>let us cleanse our selves from all filthinesses perfecting holinesse,</HI> all which
+places suppose the thing spoken of, to be the <HI>duty</HI> of man▪ which by the help
+of Christ <HI>strengthning</HI> him, he is <HI>able</HI> to performe, and therefore upon the
+supposition of <HI>Gods working in him both to will and to doe,</HI> to will, by sanc∣tifying,
+to doe, by assisting grace, he is incited and exhorted by the Apo∣stle,
+<HI>to work out his owne salvation.</HI></P>
+<P><MILESTONE N="59" UNIT="§"/> This being thus cleared, twill be easily granted in the second place, that
+every such act of deliberate commission as we now speak of, is contrary
+to sanctification in this latter notion, contrary to the <HI>duty</HI> of the sanctified
+man, from which breach of duty it was, that we bound him before under that
+guilt, which nothing but repentance could rid him of, and if you mark it,
+that is the onely thing which contracts a guilt, the doing somewhat contrary
+to <HI>duty,</HI> and so the want of this second notion of Sanctification it is, the want
+of sanctifi<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>d operations, which interposes any rubs in the businesse of our
+justification, and not so properly that wherein God onely was concerned, his
+not giving <HI>grace,</HI> guilt being still a result from sinne, and sinne being a
+<HI>breach of the law,</HI> a contrariety to duty and not to guilt; and though he
+that hath not received the gift of sanctification be not justified, yet the cause
+of his non-justification then, is not, in proper speaking, Gods not having
+given him grace to sanctifie, (for that is but a negative thing, and cannot
+produce non-justification, which is in effect a positive thing by interpreta∣tion,
+signifying condemnation, two negatives making an affirmative, non-justifying
+being non-remitting of sinne, and that the actuall imputing of it
+to condemnation) but the sinnes of his former and present impenitent un∣sanctified
+life.</P>
+<P><MILESTONE N="60" UNIT="§"/> This also being thus cleared, I shall onely adde a third thing, and
+then conclude this matter, that in the same proportion that any such act of
+sinne doth unjustifie, it doth unsanctifie also, <HI>i. e.</HI> shake and waste, though
+not utttrly destroy, that sanctified state that before the man was in, by the
+gift and grace of God.</P>
+<P><MILESTONE N="61" UNIT="§"/> For as there were three degrees of provocation in the matter of justificati∣on,
+so are there also in this of sanctification, the first, <HI>grieving the Spirit of
+God, Eph.</HI> 4. 30. resisting it, trashing of God in his course of grace and boun∣ty
+towards us, putting our selves under <HI>niddui,</HI> as it were, in respect of Gods
+grace, as well as his favour, and so weakning our stock of sanctity, and
+this the deliberate act of sinne may be thought to doe. The second, is
+<PB N="23" REF="15"/>
+<HI>quenching of the Spirit, 1 Thes.</HI> 5. 19. putting it quite out, <HI>rebelling and vex∣ing
+his holy Spirit, Is.</HI> 63. 10. a totall extinction of grace, the <HI>Cherem</HI> that
+brings the present curse, or <HI>anathema</HI> along with it; and this is not done by
+one sin not persisted in, but onely by a habit or indulgent course of sin; and
+the third, is the <HI>despighting, or doing despight to the spirit of grace, Heb.</HI> 10.
+29. that which is proportioned to <HI>Schammatha,</HI> that makes the finall ir∣reversible
+separation betweene us and Gods sanctifying grace, the first
+did not wholly deprive the sinner of all grace, no nor of sufficient
+to enable to repent; the second, did so for the present; the third did so
+finally also.</P>
+<P><MILESTONE N="62" UNIT="§"/> If you will now demand what are the effects and consequents of that dis∣pleasure
+of God, which this single act of sin brngs upon the offender; I an∣swer,
+that I have in some measure answered that already, shewed you at the
+beginning many lugubrious effects of it; and if that be not sufficient to sa∣tisfie
+you, or to shew the non-remission of such sinne till it be retracted by
+repentance, I shall then proceed one degree farther yet, to tell you,</P>
+<P><MILESTONE N="63" UNIT="§"/> That the method of Gods dealing in this case (of such single acts of com∣mission)
+seemeth by the Scripture to be after this manner. Upon any such
+commission, Satan is wont to accuse that man before God, [such or such a
+regenerate child of thine is falne into such a sin, and so into my hands as the
+lictor) then to desire, or require solemnly, to <HI>have him to winnow,</HI> by inflict∣ing
+punishments upon him, and God yeelds many times to this demand of Sa∣tans,
+delivers the offender up to him in some limited manner.</P>
+<P><MILESTONE N="64" UNIT="§"/> To which delivering though temptations (or afflictions which ordinarily
+are signified by temptations in Scripture) are constantly consequent, yet not
+utter desertion or withdrawing of grace, but allowing of strength sufficient to
+victory, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>ability to beare, 1. Cor.</HI> 10. 13. <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>pas∣sage
+out</HI> of those difficulties in that same place, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>sufficient grace,</HI>
+2. <HI>Cor.</HI> 12. 9. and assistance of his <HI>faith,</HI> that it <HI>faile not</HI> totally, (which is the
+importance of Christs having prayed for <HI>Peter, Luk.</HI> 22. 32. his intercession
+being a powerfull intercession (as may appeare by his [<HI>Father, I knew that
+thou hearest me alwayes, Ioh.</HI> 11. 24] and so in effect, the obtaining from his
+Father, and actuall conferring on his Disciples the grace which he prays for)
+And therefore it is observable, that as those which are thus accused and de∣manded
+by Satan are generally such as, were it not for this present particular
+commission, would passe both with God and him, for faithfull Disciples, and
+good Christians, and therfore do stil retain that title (as appears by the word
+<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, when Satan is called the <HI>accuser</HI> of them, <HI>Rev.</HI> 12. 10. <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>,
+the <HI>accuser of the bretheren,</HI> or the faithfull, it seems they are faith∣full
+still, though they have been guilty of some act, for which he thus accu∣seth
+them, and so he is called <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, 1 <HI>Pet.</HI> 5. 8. the <HI>plaintiffe</HI> or ene∣my,
+<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>of you, i. e.</HI> the <HI>elect,</HI> to whom he writes, <HI>c.</HI> 1. <GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>.) so the end of yeeld∣ing
+to Satans request in delivering them up to him is also fatherly and graci∣ous▪
+<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>that they may be disciplined,</HI> or taught <HI>not to blaspheme,</HI>
+1 <HI>Tim.</HI> 1. 20. <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, that <HI>he may be ashamed, 2. Thes.</HI> 3. 14. <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>,
+that the <HI>spirit may be saved, 1. Cor.</HI> 5. 5. Whereupon it is,
+<PB N="24" REF="16"/>
+that the Fathers so clearly resolve it far better, and more eligible to be deli∣vered
+up to Satan, then to be delivered up to ones selfe, or ones owne affe∣ctions
+or desires; the first of them being the ordinary punishment of some
+act, or acts of sinne on purpose to recall to repentance; the second being
+the great plague of spirituall desertion, inflicted on indulgent continuers in
+sin, the first of them a mark of their not-yet-totall abdication, their continu∣ance
+in sonne-ship whom God thus <HI>chastens</HI> here, that he <HI>may not condemne
+them with the world;</HI> the second, of heir being cut off from that preroga∣tive,
+whom God thus forsakes.</P>
+<P><MILESTONE N="65" UNIT="§"/> To which purpose, of Gods dealing mercifully with his servants in case of
+single trespasses presently retracted by repentance, (so farre as not to inflict
+any grand spirituall punishment upon them, such as absolute desertion, or
+utter disinherizon) I conceive an Image represented to us in Christs com∣mand
+to his Disciples, how oft they should forgive the trespassing brother,
+<HI>Luk. 17. 4. If he trespasse against thee seven times a day, and seven times a day
+returne againe to thee, saying, I repent, thou shalt forgive;</HI> where <HI>trespassing
+seven times</HI> is a phrase, for [how oft soever he trespasse] the word [<HI>forgive</HI>]
+notes the obligation to punishment without forgivenesse, and the interposing
+the word [<HI>Repent</HI>] proportioned to every <HI>trespasse,</HI> shewes the necessity of
+that condition to wash oft that guilt; and the word [<HI>Turne</HI>] prefixt to that,
+argues the <HI>Repentance</HI> unavailable, if it containe not <HI>turning</HI> in it; upon
+which, forgivenesse being there commanded, if we shall now adde that other
+place <HI>Mat.</HI> 6. 36. where Gods mercy to us is made the measure of our mercy
+to our brethren, the argument will come home to prove that God doth▪ so
+deale with us, and consequently that every such act of sinne contracts a guilt,
+which is never pardoned but upon repentance, that upon the speedy perfor∣mance
+of that duty the patient is preserved from any heavy spirituall punish∣ment,
+which would otherwise attend that sin.</P>
+<P><MILESTONE N="66" UNIT="§"/> What we have hitherto said on this particular, will shew the danger of
+every act of deliberate sinne, and yet withall the difference betwixt such
+single acts presently retracted by repentance, and the like persisted, or con∣tinued
+in. To which purpose it will be worth the while to behold what we
+finde recorded of <HI>David.</HI> He, we know, had been guilty of severall acts of
+sinne, markt and censured in the Word of God; and some of them such, as
+for them he was in a manner delivered up to Satan to be contumeliously
+used (as he seemes to conceive from <HI>Shimei's</HI> cursing of him, 2 <HI>Sam.</HI> 16. 10.
+For <HI>Shimei</HI> being an instrument of Satans in cursing, and Satan thereto per∣mitted
+by God upon some crime, for which he had accused him to God, he
+there calls it, <HI>Gods saying to Shimei, Curse David,</HI>) And yet because he con∣tinued
+not with indulgence in any of them, (his heart presently smiting him,
+as in the case of numbring the people, and recalling him to instant refor∣mation)
+save onely in that concerning <HI>Uriah</HI> the <HI>Hittite</HI> (wherein it appears
+that he continued neere the space of a yeere, from before the conception
+till after the birth of the child, as is cleare by the time of <HI>Nathans</HI> com∣ming
+to him, 2 <HI>Sam.</HI> 12. 1.) tis therefore left upon record by God, That
+<HI>David did that which was right in the sight of the Lord, and turned not aside
+<PB N="25" REF="16"/>
+from anything that he commanded him all the dayes of his life, save onely in
+the matter of Uriah the Hittite, 1 King.</HI> 15. 5.</P>
+<P><MILESTONE N="67" UNIT="§"/> From whence although I shall not conclude, that God saw no other sinne
+in <HI>David</HI> but that in the matter of <HI>Uriah,</HI> (because I know he saw and pu∣nisht
+that of numbring the People, and for that other though no<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/> acted, yet
+designed under oath against <HI>Nabal. 1 Sam. 25. 22. Abigail</HI> discernes that it
+was a causelesse shedding of blood, and an act of revenge, v. 31. (and so no
+small sinne in Gods sight) yet tis cleare, that the sin in the matter of <HI>U<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>iah,</HI>
+that onely sinne continued in for any long time, made another manner of
+separation betweene God and <HI>David,</HI> contracted another kind of guilt,
+(and was a farre greater waster to conscience) then any of those other
+more speedily retracted sinnes did, was the onely remarkable <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> draw∣ing
+back, or turning aside from obedience to God, the onely grand
+defection, shaking off Gods yoke, and so the onely chasme in his re∣generate
+state.</P>
+<P><MILESTONE N="68" UNIT="§"/> These 4 Propositions being premised, whereof 3 were affirmative, and this
+last of a middle nature, The rest will be negative; As</P>
+<P><MILESTONE N="69" UNIT="§"/> Fiftly, that Hypocrisie is not reconcileable with a good conscience. I mean
+not Hypocrisie which consists in the concealing from the eyes of men the sins
+or frailties he is guilty of: for supposing those frailties to be what they are,
+<HI>i. e.</HI> acknowledging in them a guilt proportionate to their nature, I cannot
+see why the bare desire to conceale them from the eyes of men (separated
+from the sins or frailties themselves, and from any treacherous designe in
+such concealing) should be thought to superadde any farther degree of guilt;
+when on the other side the publicknesse of a sinne is an aggravation of it,
+makes it more scandalous, and so more criminous also. Nor againe doe I
+meane that hypocrisie, which is the taking in any thought of the praise of
+men (and the like) in our best actions: for as long as we have flesh about
+us, some degrees of this will goe neare sometimes to insinuate themselves,
+and then though they prove blemishes to those best actions, and by anticipa∣ting
+the payment and taking it here before hand, robbe us of that heavenly
+<HI>reward</HI> hereafter, which would otherwise be <HI>rendred</HI> to us <HI>according to those
+works,</HI> yet stil being but spots of sons, reconcileable with a regenerate estate,
+(as the straw and combustible superstruction, is (in Saint <HI>Paul</HI>) compati∣ble
+with the true substantiall foundation,) they will be reconcileable
+with good conscience also, which is alwayes commensurate to a regene∣rate
+estate.</P>
+<P><MILESTONE N="70" UNIT="§"/> But the hypocrisy which I meane, is, first, that which is opposite to (and
+compatible with) Sincerity: first, the deceiving of men, with a pretence of
+piety, putting off the most Un-Christian sins, having no more of Christiani∣ty
+then will serve to mischieve others, <HI>i. e.</HI> onely the pretence of it to dis∣guise
+the poyson of a bitter heart. Secondly, the deceiving of God, or thirdly,
+his owne soule, not dealing uprightly with either, and nothing more contra∣ry
+then this to a good conscience.</P>
+<P><MILESTONE N="71" UNIT="§"/> Secondly, the maimed mutilate obedience, the compounding betwixt God
+and Satan, the <HI>Samaritanes</HI> fearing the Lord and serving their owne Gods,
+<PB N="26" REF="17"/>
+joyning others with God, and paying to them a respect equall or superiour
+to that which they pay to God, serving Mammon and God, or Mammon
+more then God. Or</P>
+<P><MILESTONE N="72" UNIT="§"/> Thirdly, the formall profession, the <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> or outside-garbe of Godlinesse,
+not joyning the inward, but making a meer pageant of piety, denying the
+power thereof. Or</P>
+<P><MILESTONE N="73" UNIT="§"/> Fourthly, the hypocrisy of the wisher and woulder, that could wish he were
+better then he is, could be well pleased to <HI>dye the death of the righteous,</HI> to
+have all the gainfull part, the revenue and crown of a good Conscience,
+but will not be at the charge of a conscientious life; Or</P>
+<P><MILESTONE N="74" UNIT="§"/> Fiftly, the hypocrisy of the partiall obedient, that is <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> of
+duty, chooses out the easy, smooth, plyable doctrines of Christianity, the
+cheap or costlesse performances, the <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, will <HI>serve the Lord
+his God of that which costs him nothing,</HI> will doe some things that have no∣thing
+contrary to passions in generall, or particularly to his passions, like
+<HI>Herod</HI> that could <HI>heare</HI> Iohn Baptist <HI>gladly,</HI> be present at as many Sermons
+as he could wish, (and many the like painlesse performances) but when the
+weightier matters of the law expect to be taken up also, cannot submit to
+such burthens. Or</P>
+<P><MILESTONE N="75" UNIT="§"/> Sixthly, the hypocrisy of the temporary, which abstaines onely as long as
+the punishment is over his head, and awes him to it, or as long as he meets
+with no temptations to the contrary; both which what place they have in the
+death-bed repentance even when it is not onely a sorrow for sinne, but a re∣solution
+of amendment also, I leave it to be considered. Or</P>
+<P><MILESTONE N="76" UNIT="§"/> Seventhly, the hypocrisy of those which commit evill that good may come
+of it, who venture on the most Vn Christian sins for Gods glory, accept the
+person of the Almighty, doe injustice for his sake, or rather suppose him im∣potent,
+and fetch in the Devill or their owne vile lusts to releive and assist
+God, of whom the Apostle pronounceth their <HI>damnation is just, Rom.</HI> 3. 8. Or</P>
+<P><MILESTONE N="77" UNIT="§"/> Lastly, the hypocrisy of him which keeps any one close undeposited sinne
+upon his soule. These are each of them contrary to some part of the ground
+of good Conscience, to the foundation of Christian confidence, some to the
+<HI>sincerity,</HI> some to the <HI>resolution,</HI> and some to the obedience, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> in all,
+and some to the perseverance which is absolutely necessary to the good Con∣science.</P>
+<P><MILESTONE N="78" UNIT="§"/> A sixth Proposition is, that a supine wilfull course of negligence and
+sloth, whether in duties of mans particular calling, or more especially in the
+duties of the generall calling as we are Christians, that sinne of <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, is
+not reconcileable with a good Conscience, (Omissions being destructive,
+such they may be as well as commissions) whether it be omission of the per∣formance
+of morall or Christian precepts (Christs improvements of the Law
+in the Sermon on the Mount, being not onely as Counsells, but Precepts ob∣ligatory
+to Christians) or whether it be onely the wilfull supine slothfull
+neglecting the meanes of knowledge, such as are agreeable to my course of
+life: Or the neglecting to make use of those meanes which are necessary to
+enable me to get out of any sinne: (One act of which nature was by Christ
+<PB N="27" REF="17"/>
+noted and censured in his Disciples, Their <HI>not fasting and praying to cast out
+that Devill that would not</HI> otherwise <HI>be cast out.</HI>) Or the not avoyding such
+occasions which are apt to betray me to <HI>it;</HI> Such acts as these, are (as Christ
+saith to those Disciples) acts of <HI>faithlesnesse</HI> and <HI>perversenesse, Mat.</HI> 17. 17.
+and cosequently the continued course of them contrary to the sincerity of en∣deavour,
+and so unreconcileable with a good conscience.</P>
+<P><MILESTONE N="79" UNIT="§"/> The seventh Proposition is, that all habituall customary obdurate sinning
+is unreconcileable utterly with a good Conscience. I adde the word [<HI>Obdu∣rate</HI>]
+which signifies the hardning of the heart against the knowledge of the
+truth, against exhortations, against threats of Gods word, against checks of
+naturall Conscience, or illuminations of grace, against resolutions and
+vowes to the contrary, for this will make any habit certainly unreconcileable
+with a good Conscience; Whereas it is possible that some Customary sin∣ning
+may be through ignorance of the duty, and that ignorance if it be not
+contracted by some wilfulnesse of mine may be matter of excuse to me, and
+so reconcileable with a good conscience by force of the second Proposition.
+But the obdurate holding out against Gods spirit, either knocking for ad∣mittance
+but not opened to, or checking and restraining from sin after con∣version,
+and not harkned to, resisting all Gods methods of working on us and
+still resolutely walking after the flesh, this is by no means reconcileable with
+a good conscience, nay nor any habit of sin simply taken (for that is exclu∣sive
+of the habit of piety necessary to the good coscience) unlesse it have that
+authentique plea of faultlesse ignorance to excuse it.</P>
+<P><MILESTONE N="80" UNIT="§"/> The eighth proposition is, that any deliberate presumptuous act or com∣mission
+of any sin, against which damnation, or not inheriting the Kingdome
+of heaven, is pronounced in the New Testament, being not immediately re∣tracted
+by repentance, humiliation, and all the effects of godly sorrow, 2 <HI>Cor.</HI>
+7. 11 is wholly unreconcileable with a good conscience. Such are <HI>Gal.</HI> 5. 19.
+<HI>Adultery, fornication, uncleannesse, lasciviousnesse,</HI> (foure distinct degrees of
+incontinence) <HI>Idolatry, witchcraft,</HI> (two degrees of impiety) <HI>hatred, vari∣ance,
+emulation, wrath, strife, sedition, heresies, envyings, murthers,</HI> (nine
+degrees of the <HI>pride of life,</HI> or that other branch of carnality flowing from
+<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, or the irascible faculty) <HI>drunkennesse, revelling,</HI> (the <HI>species</HI> of intem∣perance)
+and such like: and the same with some variation and addition, 1 <HI>Cor.</HI>
+6. 9, 10. and <HI>Eph</HI> 5. 5. Every one of these at the very commission have the
+nature of <HI>Peccata sauciantia,</HI> wounding the Sinner to the heart, letting out
+a great deale of good blood and vitall spirits, and weakning the habit of
+Christian vertue, of <HI>peccata clamantia,</HI> crying sins, the voice of conscience so
+wronged by them, calling to heaven for judgement against such oppressours,
+or perhaps Satan carrying an accusation thither against such offenders; and
+if upon this they be not straight retracted by an earnest contrition, humili∣ation
+and repentance, they then proceed farther to be (any one act of them)
+<HI>peccata vastantia conscientiam,</HI> Sins wasting &amp; despoiling the conscience, be∣traying
+to some sadder punishment, even desertion, and withdrawing of grace,
+and delivering up to our own hearts lusts, a consequent of which are all vile
+affections, <HI>Rom.</HI> 1. and that <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, cursing, <HI>Heb.</HI> 6. 8.</P>
+<P><PB N="28" REF="18"/><MILESTONE N="81" UNIT="§"/>
+Just as it was the manner of the Jewes Judicatures. He that was punished
+by their <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> separation or <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> (not permirted to come neare any man
+within foure cubits) if he did not thereupon shew and approve his repen∣tance
+within the space of two moneths,<NOTE PLACE="marg">Vid. <HI>Coch.</HI> exe. Gem. San<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>. p. 148. &amp; Buxto<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>s. instit. Ep. p. 75.</NOTE> on that contumacy was then smitten
+with their <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> the anathemation or execration, and sometimes cast into
+prison. So is Gods dealing with the sinner remaining impenitent for such a
+space, substraction of Gods grace and spirit, the curse of the Gospel is his
+portion.</P>
+<P><MILESTONE N="82" UNIT="§"/> For the clearing of which truth yet fartherr, twill be observable that the
+danger that arises from one sinne of the first magnitude, against which the
+sentence is pronounced, that they who are guilty of such, shall never inherit
+eternall life, is or may be to him that after the knowledge of the truth relap∣ses
+into it as great as that which is incurred by many lesser sinnes, or by a re∣lapsing
+into a generality of impure life, and therefore the remaining in that
+one sinne, will be as unreconcileable with a regenerate estate, as the remai∣ning
+in many other, and proportionably one act of it as noxious and wast∣ing
+to conscience, as apt to provoke God to withdraw his spirit, as many acts
+of those lesser sins, and though neither any single act either of lesser or grea∣ter
+sinne in a sincere lover of Christ, presently retracted, (as it will be if he
+continue so) doth so grieve, as to quench Gods spirit utterly, so provoke
+God, as to make him wholly withdraw his grace and totally desert him; yet
+if that one sin be continued in, favoured and indulged to, either by multiply∣ing
+more acts of it, or by no: expressing repentance for it by all those means
+which the Apostle requires of his incestuous Corinthian, or which are na∣med
+as effects of godly sorrow, 2 <HI>Cor.</HI> 7. 11. this direfull punishment of deser∣tion
+is then to be expected as the reward of any one such sinne, and from
+thence will follow any impossibility for that man so diserted ever to return
+to repentance again, Gods speciall ayde, which is now withdrawne, being
+absolutely necessary to that.</P>
+<P><MILESTONE N="83" UNIT="§"/> Where yet of those, that thus remain in any such sin, there is some diffe∣rence;
+For some that so remain in sinne, doe so remain that they desire not
+to get out of it, hate to be reformed; others though ensnared so in sin that they
+cannot get out, yet are very earnest and sollicitous to find out some means to
+break through and escape out of those snares, and then this latter state of soul
+though it be not sufficient to give claime or right to mercy, (the victory over
+the world, the actuall forsaking of all such sins being necessary to that, and
+not only our wishes that we were victorious) yet is it a nearer and more hope∣full
+capacity of the grace of repentance, more likely to be blessed by the re∣turning
+of Gods spirit enabling to repent, then that former state of con∣temptuous
+continuers in the same sin appeares to be.</P>
+<P><MILESTONE N="84" UNIT="§"/> For though in both these states there is no repenting without Gods new
+gift of grace, and no absolute promise that God will be so gracious to such
+sinners, yet there is a place, 1 <HI>Iohn</HI> 5. 16. which makes a difference betweene
+<HI>sinne unto death, and sinne not unto death</HI> (both of them states of impeni∣tence
+and persisting in sin, but differing as the two latter degrees of <HI>excom∣munication</HI>
+did among the Iewes, <HI>C<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>erem</HI> and <HI>Sc<GAP DESC="illegible" RESP="oxf" EXTENT="2 letters" DISP="••"/>matha</HI> both noting a to∣tall
+<PB N="29" REF="18"/>
+separation, but the latter a finall also, and by the composition of the
+word intimating death or desolation, giving up the sinner to divine venge∣ance,
+as hopelesse or contumacious, in reference to which the phrase is here
+used, a sinne unto death, whereas the other, of impenitence, not arrived to
+that desp<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>rate contumacy, is a state of curse under <HI>cherem</HI> and <HI>anathema,</HI> but
+not unto death yet) and allowes this priviledge to the prayers of faithfull men
+for others, that they <HI>shall obtain life for those that have sinned not unto death,</HI>
+where that (the not <HI>being to death</HI>] of a sinne, is to be taken not from the
+matter of the sinne, but from the disposition of the sinner, and so from this
+desiring to get out, though he remain in it, or somewhat answerable to that,
+might, if any doubt were made of it, be proved as by other arguments so by
+putting together the peculiar use of the word <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> in that Authour, for
+abiding and continuing in sinne, and the no extenuation that such abiding is
+capable of (so farre as to make one such abiding so much lesse then another
+such abiding, as that one should be called <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, the other not) save
+only this of wishing and heaving and labouring to get out, (which supposes
+some remainder of exciting, though not of Sanctifying or assisting grace)
+while the other goes on without any care or love or desire of reformation.</P>
+<P><MILESTONE N="85" UNIT="§"/> And though still there be no promise that such a relapst unreformed sin∣ners
+prayers shall be heard for himselfe upon that bare desire to get out,
+which his praying for grace will suppose (there being no such promise of
+grace to the relapst person upon his prayer, as there is to any else) yet it is
+cleare from that place of Saint <HI>Iohn,</HI> that this priviledge belongs to the pray∣ers
+of other faithfull penitents, for such a more moderate degree of unfaith∣full
+impenitents upon their request <HI>God will give l<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>fe to such, i. e.</HI> such a
+degree of grace as shall be sufficient to enable them to recover back to repen∣tance,
+of which being given them upon the others prayers, if they make use,
+(as infalsibly they will if they were and continue to be really sollicitous to
+get out of that state) they shall undoubtedly <HI>live</HI> eternally.</P>
+<P><MILESTONE N="86" UNIT="§"/> The practice of which doctrine of Saint <HI>Iohns</HI> thus explayned, you shall see
+every where in the stories of, or canons for the paenitents, where they that
+for any sinne of Ecclesiasticall cognizance were excommunicated, did return
+to the peace of the Church, (an image of the peace of God) by severall de∣grees,
+of which the first was, to stay and oft lye without the Church doores,
+and in the portch at houres of prayer; and desire those that retained the
+honour of being accounted faithfull, and so had liberty to go into the Church,
+to pray to God for them. Which as the secure supine negligent impaenitent
+was not likely to doe, so was he not to expect the benefit of it, nor the Chri∣stian
+brother obliged to pray for him, though yet by Saint <HI>Iohns</HI> [<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>
+I say not of that or concerning that state of sinne that he shall pray]
+I am not convinced that it were unlawfull so to doe.</P>
+<P><MILESTONE N="87" UNIT="§"/> By all this thus set and bounded with its due limitations, the truth of my
+eight Proposition will appeare, of the unreconcileablenesse of such presump∣tuou<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>
+acts of such branded sinnes unretracted, with a regenerate estate or good
+Conscience, as being indeed quite contrary to every part and branch of the
+premised ground of a good Conscience.</P>
+<P><PB N="30" REF="19"/><MILESTONE N="88" UNIT="§"/>
+To which all that I shall adde is onely this, that he that tenders but the
+comforts of this life, <HI>i. e.</HI> of a <HI>Good Conscience,</HI> will be sure never to commit
+deliberately and presumptuously, or having by surreption fallen, never to lye
+downe or continue one minuit unhumbled unreformed in any such sinne, on
+which that direfull fate is by Christ or his Apostles inscribed [shall not inhe∣rit
+the Kingdome of heaven] where yet as I shall not affirme that none shall
+subject us to that danger but those which are there specified; (for there is ad∣ded
+and such like, and other sins there may be committed with the like delibe∣ration
+and presumption, and so as contrary to <HI>Conscience</HI>) so shall I not say
+that all that commit any one act of any of these without that deliberation and
+presumption, or that are presently by their own heart smitten and brought to
+repentance for them, shall incur that danger; for the words <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> and
+<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, the doers and committers of them signifie the deliberate committing
+and indulgent yeelding to them, contrary to which the use of surreption at
+the time and the instant subsequent retractation of them (by contrition, con∣fession,
+forsaking, and reinforcement of greater care and vigilance for the fu∣ture)
+will be sure meanes to deliver from that danger.</P>
+<P><MILESTONE N="89" UNIT="§"/> Whereto yet this caution must be annext which may passe for</P>
+<P><MILESTONE N="90" UNIT="§"/> A ninth Proposition. That the frequency or repetition of any such acts after
+such contrition and resolution is an argument of the unsincerity of that con∣trition,
+of the deceavablenesse of that pretended greater care, and so a symp∣tome
+of an ill <HI>conscience,</HI> as the spreading of the skall or leprosie after the
+Priests inspection is sufficient to pronounce the patient uncleane. <HI>Levit.</HI> 13.
+and as that disease in the relapse may be mortall which at first was not.</P>
+<P><MILESTONE N="91" UNIT="§"/> Other more particular niceties I confesse there are, the distinguishing of
+which might be usefull for some mens states, and help disabuse them both
+out of an erroneous and a secure, yea and an over trembling conscience. But
+because that which would be thus proper to one, being laid down in common,
+or cast into the lottery, might have the ill hap to be drawn by him to whom
+it is not proper, (as that physick which would purge out a distemper from
+one, wil breed a weaknesse in another) and because no wise man ever thought
+fit to take lawes out of generalities, I shall resolve rather to obey such reasons,
+and to be directed by such examples, not to descend to particulars, then to be
+in danger first of tempting the Readers patience, then of interrupting his
+peace.</P>
+<EPIGRAPH>
+<Q>Pray for us, for we trust we have a good Conscience, in all things wil∣ling
+to live honestly.</Q>
+<BIBL>Heb. 13. 18.</BIBL>
+</EPIGRAPH>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="19"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The first publique lecture, read at Sr. Balthazar Gerbier his accademy, concerning military architecture, or fortifications, to the lovers of virtue, come hither to that purpose.</TITLE><AUTHOR>Gerbier, Balthazar, Sir, 1592?-1667.</AUTHOR></TITLESTMT><EXTENT>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2008-09 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A85922</IDNO>
+
+
+<IDNO TYPE="stc">Wing G561</IDNO>
+
+<IDNO TYPE="stc">Thomason E572_5</IDNO>
+
+<IDNO TYPE="stc">ESTC R206131</IDNO>
+
+<IDNO TYPE="eebo citation">99865310</IDNO>
+
+<IDNO TYPE="proquest">99865310</IDNO>
+
+<IDNO TYPE="vid">117549</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A85922)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 117549)</NOTE><NOTE>Images scanned from microfilm: (Thomason Tracts ; 88:E572[5])</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The first publique lecture, read at Sr. Balthazar Gerbier his accademy, concerning military architecture, or fortifications, to the lovers of virtue, come hither to that purpose.</TITLE><AUTHOR>Gerbier, Balthazar, Sir, 1592?-1667.</AUTHOR></TITLESTMT><EXTENT>[4], 10, [2] p. : ill.  </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed by Gartrude Dawson, and are to be sold by Hanna Allen at the Crown in Popes-head-alley,</PUBLISHER>
+<DATE>1469. [i.e. 1649]</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Attributed to Balthazar Gerbier.</NOTE><NOTE>The final leaf is a folding diagram of fortifications.</NOTE><NOTE>Annotation on Thomason copy: "August 30".</NOTE><NOTE>Reproduction of the original in the British Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Military art and science --  England --  Early works to 1800.</TERM><TERM>Military architecture --  England --  Early works to 1800.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2007-04</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2007-06</DATE><RESPSTMT><RESP>Apex CoVantage</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2007-11</DATE><RESPSTMT><RESP>Emma (Leeson) Huber</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2007-11</DATE><RESPSTMT><RESP>Emma (Leeson) Huber</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2008-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A85922">
+<STC T="W">G561</STC>
+<STC T="T">E572_5</STC>
+<BIBNO T="umi">99865310</BIBNO>
+<VID>117549</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y"/>
+<P>THE FIRST PVBLIQVE LECTVRE, READ AT Sr. Balthazar Gerbier His ACCADEMY, Concerning <HI>Military Architecture, or Fortifications,</HI></P>
+<P><HI>To the Lovers of Virtue, come hither to that purpose.</HI></P>
+<P><HI>LONDON,</HI> Printed by <HI>Gartrude Dawson,</HI> and are to be sold by <HI>Hanna Allen</HI> at the Crown in Popes-head-Alley. 1469.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB REF="2"/>
+<PB N="1" REF="2"/>
+<HEAD>The first publique Lecture read at Sir. <HI>Balthazar Gerbier</HI> his Accademie, concerning Military Architecture or Fortification.</HEAD>
+<P><SEG REND="decorInit">I</SEG> Shall by way of Preface, say somewhat in generall concerning this Art of Military Ar∣chitecture, properly termed Architecture, by reason that it serves for a rule to the build∣ing of Forts, Castles, and Towns; though their besiegers batter, and ruine them, faster then they were first erected by the same Art. Its true, warre is to have scri∣pture for it in divers places, wherewith they maintain their proceedings, against the opinion of some scrupulous men, who will rather be taken (and even loose all) then learn how best to defend themselves; when they cannot deny, but that even the Apostles were commanded by the Prince of Peace to provide Armes for defence.</P>
+<P>The Scriptures doe in effect in sundry places warrant so much the proceedings of warriours; that therefore this art of Military Architecture is the more laudable, and to be made use of as well in the defence, as for the besieging of places; so the prescriptions be duely observed, and that the destru∣ction of Towns and People have those grounds prescribed by holy writ.</P>
+<P><PB N="2" REF="3"/>Deutronomie 20. cap. 11. and 12. vers. <HI>When thou commest nigh a Citty to fight against it, then proclaim a Peace unto it; and it shall be, if it make thee answer of Peace and open unto thee; then it shall be that all the People that is found therein shall be tributary unto thee, and they shall serve thee; but if they will make warre against thee, then thou shalt besiege it.</HI></P>
+<P>Other Texts prescribe the besiegers to make havock of all; yet in some things with a certain restriction, of sparing even the Trees of the field; as we read in the 19. v. of the said Chapter of <HI>Deutron.</HI> viz. <HI>When thou shalt besiege a Citty a long time in making warr against it, to take it; thou shalt not destroy the Trees thereof, by forcing an Ax, against them; for thou mayest eate of them, and thou shalt not cut them down (for the Tree of the field is mans Life) to imploy them in the siege; Onely the Trees which thou knowest that they be no Trees for meat, thou shalt de∣stroy and cut them down.</HI></P>
+<P>This holy writ sayth, but few men observe it in any age, nor among the most regular, for that those of <HI>Machl<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>n</HI> (in <HI>Brabant</HI>) cut down above forty thousand Cherry-Trees when the late deceased Prince of <HI>Orange</HI> approached them with his Army; their pretence was a necessity, as farre seeing Governours of besiedged Townes are often moved to set their owne sub∣burbs on fire, at the example of a carefull Chyrurgeon that cuts off a Leg to save the body of a mortall Gangreen, how∣ever, as a true Souldier ought in his proceedings and voca∣tion to shunne all depraved basenesse, also to seeke his glory in the overcomming of an enemy, by a generous faire course; sparing those things which contribute not to his fame, nor to his good: ill customes make good things evill, and good customes make them good, and honourable.</P>
+<P>It hath beene therefore noted at all times, that the <HI>Switzers</HI> in the times of the <HI>Romans,</HI> made their wars detestable for laying the land waste▪ by firing it; and so the proceedings of the <HI>Campaniens</HI> were abhorred, when <HI>Agathocles</HI> (fighting
+<PB N="3" REF="3"/>
+in <HI>Sicily</HI> being entred into <HI>Messina</HI> under colour of freindship) put to death the greatest number of the Citizens, to get their meanes: And</P>
+<P>And it was no lesse odious in <HI>Haniball,</HI> when after he had given his Parole to <HI>Gerion</HI> a Town neer <HI>Nicerie,</HI> to put all the Inhabitants to death.</P>
+<P><HI>But that this Preface may not weary you, I shall proceed to particu∣lars.</HI></P>
+<P>WEE shall beginne by the divisions of the places which are strong either by nature, or by art, or both. By nature when their seate proves so advantageous that it is very hard, nay almost impossible to force them, such as are the places that are on Hils and inaccessible Rocks, either in the Seas, on the Land, or in the Marches, or such other like places.</P>
+<P>Those are strong by art, wihch wanting an advantagious seate, are fortified by art and labour.</P>
+<P>Such Places are strong by nature and by art, when the one part of them is strong by nature, and the other is fortifi∣ed by art.</P>
+<P>To fortifie is to build, or to inclose the places in such a manner that all the places of their circumference are seene from each other flancke, and that they can resist the armes and engins whereof the Enemy makes use:</P>
+<P>And therefore it shall bee said a place to bee well for∣tified whensoever all the parts of its circumference are flanckt.</P>
+<P>A place that hath but a single straight wall about it can∣not be said to be a fortified place, but onely inclosed, and whatsoever doth flanck as what is flancked, ought to be strong enough to resist the Engins of an Enemy.</P>
+<P>Flancking is to see by its sides; To bee flancked, its to be seen either by the side or flanck.</P>
+<P>There are two sorts of Fortifications in generall, one the
+<PB N="4" REF="4"/>
+ancient, and the other moderne:</P>
+<P>The Places that are fortified according unto the ancient manner, are those that have single Wals onely, and with Towers at certaine distances, made of Materials that are not capable to resist the Canon▪ and their Towers being too small as that they cannot beare any Canon; Those kinde of places deserve not to be said fortified ones:</P>
+<P>The Modernes are those which are flancked on all sides, and that the flancking and flancked bodies are so solid and of such matter as that they may resist the Canon.</P>
+<P>Every Country hath its owne way of Fortification, as the <HI>Hollanders,</HI> the <HI>Spaniards,</HI> the <HI>Italians,</HI> and the <HI>French,</HI> &amp;c they differ in certain circumstances, or accidents, but agree in the essentiall parts:</P>
+<P>There are two kindes of modern Fortfication, to wit; Re∣gular and Irregular;</P>
+<P>The Regular places are those, that have the sides and the angles equall; and such Bastions as are on them, and its strength every where equall:</P>
+<P>The Irregular places are those that have not the aforesaid equality, either of the sides or the Bastions or of strength,</P>
+<P>Of that kinde are the most part of places.</P>
+<P><HI>Object.</HI> It might be said against this definition, that a place wh<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ch hath all its faces, and all its Bastions equall, being commanded from any side; its strength could nor be equally strong every where: therefore according to the definition it could not be regular, which is absurd.</P>
+<P><HI>Answ.</HI> I doe answer, that a place, though commanded from some side, would neverthelesse be equally strong every where in it self: but from this side that strength would bee over-topt by that of the commanding which notwithstand∣ing would remain the same, though the said greater strength stood not in oposition of it, as a man that shall resist another ordinary man, and cannot resist a Gyant; he shall notwith∣standing
+<PB N="5" REF="4"/>
+have no lesse strength against this, then against the other, but his strength shall be overcome by a greater: Ba∣stions likewise wi<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>l be in themselves of an equall strength, but some overmastered by an outward strength.</P>
+<P>Of the Regular Fortifications, the parts are the figure, which is the space propounded to be fortified, comp<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ehen∣ded of divers straight lines, equall in themselves, which in their meetings make their angles equall.</P>
+<P>The figure takes its denomination either from the number of angles, or sides; if it be from the angles, its exprest by two Greek words; whereof the first signifieth the Number, and the other Angle, as <HI>Trigone,</HI> of <HI>Tris,</HI> which saith three, and Gonia Angle; <HI>Terragone,</HI> of <HI>Tessares,</HI> which saith foure, and Gonia Angle, and so of the others; <HI>Pentagone</HI> is to say, at five Angles, <HI>Exagone</HI> at six, <HI>Eptagone</HI> at seven, <HI>Octagone</HI> at eight, <HI>Enneagone</HI> at nine, <HI>Decagone</HI> at ten, <HI>Endecagone</HI> at ele∣ven, <HI>Dodecagone</HI> at twelve, <HI>Decatrigone</HI> at thirteen, <HI>Decate∣tragone</HI> at fourteen, <HI>Decapentagone</HI> at fiftteen, <HI>Decaexagone</HI> at sixteen, <HI>Decaeptagone</HI> at seventeen, <HI>Decaoctogone,</HI> at eighteen, <HI>Deca<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>nneagone</HI> at nineteen, <HI>Icosigone</HI> at twenty, &amp;c. If it be from the sides, that it takes its name, it shall be exprest by two Latin words, <HI>Trialatera, Quadrilatera,</HI> and others likewise.</P>
+<LIST>
+<HEAD>The Explica<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ion of terms and words, whereof use is made in Fort<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>fications, are <HI>viz.</HI></HEAD>
+<LABEL>THe Curtain,</LABEL>
+<ITEM> is all the space of the Wall or Bul-work, which is between two Bastions, as <HI>H. L.</HI></ITEM>
+<LABEL>Flack,</LABEL>
+<ITEM> is the line which joynes the Curtain to the face of the Bastion, as <HI>H. G.</HI></ITEM>
+<LABEL>The Gorge,</LABEL>
+<ITEM> is the entrance of a Bastion, whereof the one half is called half Gorge as <HI>C. H.</HI> is a half Gorge, and <HI>H. C. V.</HI> is all the Gorge.</ITEM>
+<LABEL>The Bastion</LABEL>
+<ITEM> is that great body advancing on the Angles of
+<PB N="6" REF="5"/>
+the Figure, which is markt in the Figure by the Letters <HI>H. G F. H. V.</HI></ITEM>
+<LABEL>The face</LABEL>
+<ITEM> is the Line most advanced of the Bastion towards the fields, as <HI>F. G.</HI></ITEM>
+<LABEL>Capitall Line,</LABEL>
+<ITEM> is that which is drawn from the Angle of the Figure to the Angle of the B<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>stion, as <HI>C. F.</HI></ITEM>
+<LABEL>Second Flanck,</LABEL>
+<ITEM> is part of the Curtain which is between the point of the face and the flanck as <HI>H. I.</HI> Lengthned Flanck, is the Line drawn from the Flanck to the outward Poligone, as <HI>G. Y.</HI></ITEM>
+<LABEL>Inward Flanck</LABEL>
+<ITEM> is the Line drawn from the Flanck to the next Diameter, as <HI>L.</HI> 2.</ITEM>
+<LABEL>Inward Poligone,</LABEL>
+<ITEM> is the Line of a Fortresse of one Angle to the other, as <HI>C. D.</HI></ITEM>
+<LABEL>Outward Poligone,</LABEL>
+<ITEM> is the Line drawn from the point of one Bastion to the other, as <HI>F. E.</HI></ITEM>
+<LABEL>The fixt Line of Defence,</LABEL>
+<ITEM> is the Line drawn from the Flanck, defending the flanckqued Angle, as <HI>L. F.</HI></ITEM>
+<LABEL>The rasing Line of Defence,</LABEL>
+<ITEM> is the Line drawn from the Curtain, which raiseth the face of the Bastion, as <HI>K. F.</HI></ITEM>
+<LABEL>The Center Angle,</LABEL>
+<ITEM> is that which is made▪ by the meeting of the two next Lines drawn from the Angles of the Figure, as <HI>C B. D.</HI></ITEM>
+<LABEL>The Poligone Angle,</LABEL>
+<ITEM> is the Angle which is made by the side of the two Poligones, as <HI>V. C. H.</HI></ITEM>
+<LABEL>Flancked Angle,</LABEL>
+<ITEM> is the Angle, comprehended between the two faces, as <HI>X. F. G.</HI></ITEM>
+<LABEL>The inward Flanckt Angle,</LABEL>
+<ITEM> is the Angle which is made of the Curtain, and of the rasing Line, as <HI>H. K. G.</HI></ITEM>
+<LABEL>The outward Flanckt Angle,</LABEL>
+<ITEM> is the Angle which is made of the two rasing Lines▪ which c<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>t one another, as <HI>F. Z. E.</HI></ITEM>
+<LABEL>The Shoulder Angle,</LABEL>
+<ITEM> is the Angle comprehended be∣tween the Flanck and the Face, as <HI>F. G. H.</HI></ITEM>
+<LABEL>An Angle</LABEL>
+<ITEM> is markt with three letters, that of the middle doth shew the Angle.</ITEM>
+</LIST>
+<LIST>
+<PB N="7" REF="5"/>
+<HEAD>The Maximes or generall Rules for Fortifications are,</HEAD>
+<ITEM>THat there ought not to be any place unflanckt about the Town.</ITEM>
+<ITEM>That the flancked parties ought not to be further from those which doe flanck, then the reach of Arms, whereby the place is defended, the principall whereof are muske<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>s.</ITEM>
+<ITEM>That both that which flancketh, and what is flanckt, be of proof, and capable to resist the arms and engines of the party that doth a take, the strongest whereof are Canons.</ITEM>
+<ITEM>That the pieces of Fort<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>fication nearest to the Centre, bee alwayes higher, and command those that are further off.</ITEM>
+<ITEM>That the flancked Angle be never lesse then 60 degrees, nor bigger then 90 degrees.</ITEM>
+<ITEM>That the Poligone Angle ought not to be lesser then of 90 Degrees.</ITEM>
+<ITEM>That the Angle of the flanck and of the Curtain be always straight,</ITEM>
+<ITEM>That a regular place is better then an irregular.</ITEM>
+<ITEM>That the more Bastions a regular place hath, th<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/> better it is.</ITEM>
+<ITEM>That all the places about a Fortresse be commanded by it. That the Bastions which have much defence, or that are much flancked, are the best.</ITEM>
+</LIST>
+<LIST>
+<HEAD>That which we are to consider before we begin to Fortifi<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/> is,</HEAD>
+<ITEM>THat the end of Fortification, is to defend wi<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>h the most advantage, and that a small number may resist a great one.</ITEM>
+<ITEM>That Fortification is the work of a State, because of the great expences thereunto belonging; and the charges of the Garisons which are to be kept in such fortified places.</ITEM>
+<ITEM>That Fortifications must be in the most necessary and
+<PB N="8" REF="6"/>
+important places, on the Frontiers to hinder the inrodes of Neighbours: the Ports which are Frontier Sea-towns, and those of traffique, where Rivers are; where there is a good Aire, for the preservation of men, both in time of warre and peace.</ITEM>
+<ITEM>That the places that are seated high command far.</ITEM>
+<ITEM>That they hinder the works of an Enemy.</ITEM>
+<ITEM>That they have great advantage to make Sallyes on the Enemy.</ITEM>
+<ITEM>That they need but a smal quantity of men and victuals, and doe enjoy a good Ayre.</ITEM>
+</LIST>
+<P>They ought also to consider,</P>
+<LIST>
+<ITEM>THat there wants Water and Earth.</ITEM>
+<ITEM>That they cannot defend their Sloape, especially when the Parapets have their just and necessary thicknesse.</ITEM>
+<ITEM>That they are seldome succoured, and are unfit for the civill conversation of mans Life.</ITEM>
+<ITEM>That the places that are in the plain Fields are very good, because of the use of carriage, the extent of the <HI>campagne,</HI> and earth at will▪ whereof art and wit can make any thing, the defect of it is that those who doe besiege such places have the same advantages, as the besieged have.</ITEM>
+<ITEM>That those which are neere the Seas, without being com∣manded, and the which the Seas surround by Ebbing and Flowing, cannot be taken but by surprisall.</ITEM>
+<ITEM>That the Marish places are very hard to take, and the Sie∣ges thereof of great expence, as for Example, the <HI>B<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>sh</HI> in <HI>Brabant.</HI></ITEM>
+<ITEM>The raising of such places proves of great charge, they are ordinarily extreame unwholsome and prove a spoile to munitions, They must bee wrought upon in Summer.</ITEM>
+<ITEM><PB N="9" REF="6"/>That the Sandy is somewhat better, but the Clay is to be preferred to all other, because it is maniable, groweth hard, and needs no great sloape; and if walled about, the bricke needs not to be thick. That the Earth may bee beaten, mixt with Bavins, and peeces of wood laid overthwart, for that it binds very much▪ and the Canon cannot doe any great ef∣fect thereon, nor pierce above ten foot deepe, making but a hole without shaking any thing, and therefore it proves to be a grave to Canon balls.</ITEM>
+<ITEM>That the Parapets that are made of this Earth, need not to be so thick, as those that are made of Earth.</ITEM>
+<ITEM>That the Rampiers Cavalliers and other works of this earth need not any more sloape then the halfe, or the two thirds of their hight, for that the earth holds of it selfe with a small sloape.</ITEM>
+</LIST>
+<P>NOW to attaine unto the designed purpose, in the for∣tifying of a place, it is necessary well to flanckt and co∣ver himselfe.</P>
+<P>To flanck himselfe well according unto the Principles and Maximes of this art, there must not be one point in all the circuit of the figure of a Regular, or Irregular place, which ought not to be seene within, and that the Line whereby self defence is intended, bee not above 200. paces, a measure which is prescribed by divers that have fully obtained the practicall Part, for that it would import very little to see an Enemy from within a place if he wereso faire distant that you could not offend him, and by the mouths of your Mus∣kets to make him retire.</P>
+<P>In this matter four things are necessary; the defence of a place to consist of the Musket and not of the Canon, for that a Canon requires too many attenders, consumes a great deale of munition, is easily dismounted, uneasie to raise againe, and will not endure a continuall fire. And although a common
+<PB N="10" REF="7"/>
+Musket ca<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ireth but point blanck 200 Geometrical paces, yet with that force as to serve the killing of a man; nor is there but few that have frequented the Armies, but that know men to have been killed at a further distance, then of two hundred Geometricall paces: Likewise well know that divers of the best places of <HI>Europe,</HI> as well those in <HI>Germany</HI> as in <HI>Italy, France</HI> and in the low Countries, that in divers Bastions of them the great Line of defence is of a farre greater extent▪ and yet notwithstanding those Townes have withstood the most famous Sieges of our dayes.</P>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="illustration">
+<PB REF="7"/>
+<P><FIGURE>
+<FIGDESC>fortification diagram</FIGDESC>
+</FIGURE></P>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>
+

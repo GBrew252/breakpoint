@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="2">A new discovery of the French disease and running of the reins their causes, signs, with plain and easie direction of perfect curing the same / by R. Bunworth.</TITLE><AUTHOR>Bunworth, Richard.</AUTHOR></TITLESTMT><EXTENT>Approx. 67 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2007-10 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A30115</IDNO>
+
+
+<IDNO TYPE="stc">Wing B5476</IDNO>
+
+<IDNO TYPE="stc">ESTC R29144</IDNO>
+
+<IDNO TYPE="eebo citation">10835515</IDNO>
+
+<IDNO TYPE="oclc">ocm 10835515</IDNO>
+
+<IDNO TYPE="vid">46064</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A30115)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 46064)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 1417:16)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="2">A new discovery of the French disease and running of the reins their causes, signs, with plain and easie direction of perfect curing the same / by R. Bunworth.</TITLE><AUTHOR>Bunworth, Richard.</AUTHOR></TITLESTMT><EDITIONSTMT><EDITION>The second edition :</EDITION></EDITIONSTMT><EXTENT>[11], 77, [3] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for Henry Marsh,</PUBLISHER>
+<DATE>1662.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Reproduction of original in the British Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Sexually transmitted diseases --  Early works to 1800.</TERM><TERM>Syphilis --  Early works to 1800.</TERM><TERM>Gonorrhea --  Early works to 1800.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2006-05</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2006-10</DATE><RESPSTMT><RESP>SPi Global</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2006-11</DATE><RESPSTMT><RESP>Jason Colman</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2006-11</DATE><RESPSTMT><RESP>Jason Colman</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2007-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A30115">
+<STC T="W">B5476</STC>
+<BIBNO T="oclc">10835515</BIBNO>
+<VID>46064</VID>
+</IDG>
+<TEXT>
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y"/>
+<P>A new Discovery OF THE FRENCH DISEASE AND RUNNING of the REINS; THEIR Causes, Signs, with plain and ea∣sie Direction of perfect curing the same.</P>
+<P>By R. BUNWORTH,</P>
+<P>The second Edition corrected with large Additionals.</P>
+<P><HI>LONDON,</HI> <GAP DESC="illegible" REASON="missing" EXTENT="2 letters" DISP="••"/>inted for <HI>Henry Marsh</HI> at the Princes-Arms in Chancery-lane, 1662.</P>
+</DIV1>
+<DIV1 TYPE="bookseller to author">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>The Book-seller to the Author.</HEAD>
+<L>SIR, when you see wee have not Grav'd your face;</L>
+<L>But put this Mountebanke into your Place,</L>
+<L>Tis from designe to make noe shewes of you</L>
+<L>As such as promise more then they can doe:</L>
+<L>Your whole fac'd cures Refuse you should be shown</L>
+<L>By shaddows or by halves: your art alone</L>
+<L>That can Preserve entire and save the frame</L>
+<L>Of others, shall be praised in the same.</L>
+<L>There's Beauty in those Scars that you have cur'd</L>
+<L>And double Pleasure while they have endur'd</L>
+<L>Further this kindesse is diffusive too</L>
+<L>Like the Disease you curteously doe:</L>
+<L>You cure the <HI>Pox</HI> as it did first begin</L>
+<L>By <HI>Prostitution</HI> of your Medicin.</L>
+<L>Others their Patients belief betray,</L>
+<L>Your <HI>Publication</HI> is the <HI>Secret'st</HI> way.</L>
+<CLOSER><SIGNED>H. MARSH</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="3"/>
+<PB REF="3"/>
+<HEAD>The PREFACE to the READER.</HEAD>
+<OPENER><SALUTE>Courteous Reader,</SALUTE></OPENER>
+<P><SEG REND="decorInit">H</SEG>Aving had conti∣nual and dayly experience for some years toge∣ther in the cure of the French disease with as good success, as my own heart could desire; I thought it necessary to publish all those several ways which I have made use of in the cure
+<PB REF="4"/>
+of this disease, in several constitutions, that other people might receive the be∣nefit also of our labours and studies that I might shew my self a profitable member of the Common-wealth wherein I lived, and in that City wherein was my present abode: but now having found that that which we then did only for a tryall, hath bin so well received into the world, we thought it our duty to make it publick again with additions, being assured that only the benefit which it brought along with it, gave
+<PB REF="4"/>
+it so free a welcom and en∣tertainment in the world. And certainly for the time of publishing it, it never could have bin more seaso∣nable, in regard that besides the multitude of those that are infected with venereal distempers, such is the dark ignorance of most in this City, who publickly profess to cure the same, by sticking their bills upon posts, to catch ignorant Countrie people, that scarce one in twentie can give cure of that disease which they profess to cure.</P>
+<P><PB REF="5"/>The patient tells them, and then they tell the patient again that he hath got a clap; which signifies just as much as if they had said nothing at all.</P>
+<P>And then out of igno∣rance or deceit they ingage the patient into a long and tedious Course of Physick until the time of the year shall have cured the disease for the present, which they wholly ascribe to the Phy∣sick he took, but the next Spring the patient finds by wofull experience the con∣trary; for as the year getts
+<PB REF="5"/>
+up, so doth the disease day∣ly increase which these Em∣pyricks pretend to have cured.</P>
+<P>Then he goes to another such like Mountebank which deales no better with him then did the former.</P>
+<P>And thus is he miserably deluded for two or three years together, until at length he concludes that the disease is incurable, and so he is in∣forced to make much of his disease, untill it brings him into some other distemper which kills him.</P>
+<P>Tis a vain thing, and I am
+<PB REF="6"/>
+sorry that poor people should be so far deluded to think their disease incurable be∣cause these Quacksalvers tell them so. For I here publick∣ly profess by Gods blessing to cure this disease within the space of forty days in any that have had it above a dozen years, by such means as are here set down in this small treatise, which we have once more, by reason of the publick recommendations that have bin given it, published for the comfort of all those that are distressed, and for the benefit of the
+<PB REF="6"/>
+young Practitioner, of whom now I am speaking. I shall take leave to give him these few exhortations, first to avoyd the common fault of all practitioners which is co∣vetousness; and not to exact upon the necessities of others that are in distress: in the next place let him not be too in∣quisitive of any patient who he is, or where he dwells, e∣specially if he have a mind to conceal himself, thy business being only to cure him which ease, speed, and safety. Third∣ly if thou knowest the pa∣tient, judge not rashly of
+<PB REF="7"/>
+him; for as an Artist you must know that the French disease may be got by lying in a hot bed with another, or by drinking with him, or by setting on the Close stool after him, and so the Run∣ning of the reins may be got by riding lifting or any man∣ner of streining, as using too frequent copulation with a mans own wife. Fourthly so to contrive the business that not any one of thy patients may know that the other is thy patient, that each patient may be with all possible pri∣vacy. Fiftly neither flatter
+<PB REF="7"/>
+nor dally with any patient whatsoever. Tell him not that the cure will not be troublesome, when thou in thy conscience knowst that it will, and on the contrary doe not affright him, when thou knowst that he is in no danger. The observation of those instructions will give a repute to the practise of whosoever shall have a care not to deviate from them; which I wish to all honest and painfull practitioners, and that the abuses of Mountebanks may be disco∣vered and avoyded, which as
+<PB REF="8"/>
+it will be profitable to the judicious practitioner so it will not be a little advanta∣geous to the patient.</P>
+<P>Farewel.</P>
+<CLOSER><SIGNED>R. B.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="book">
+<DIV2 N="1" TYPE="chapter">
+<PB N="1" REF="8"/>
+<HEAD><HI>CHAP. I.</HI> Of the name, causes, and origi∣nal of the French Disease.</HEAD>
+<P>THE French pox is certainly a new disease, and not known in Europe till with∣in this hundred years: For when Charles the eight king of France beseig'd Naples, which was in the year 1494. it first began to spread it self, not only through his army, but through all Italy, being brought by the Spaniards from the American Islands into these parts of the world. It hath been vari∣ously named, some calling it the Spanish, some the Italian, some the
+<PB N="2" REF="9"/>
+French disease. Others not willing to injure any nation, have stil'd it the Venereal plague.</P>
+<P>Now what it is, whence it dedu∣ceth it's original, and to what kind of disease it ought to be referr'd, it is a great difficulty to determine. Some will have it to be the effect of divine justice. Others say it pro∣ceeds from a manifest distemper of the aire, that is, when it is very moist. But this stands not with rea∣son, when we find that this disease is contracted as well in times of drowth as well as moisture. Nor can the aire be the cause of it, see∣ing that never any man was yet in∣fected with the breath of the most distemper'd person. Some blame the copulation of a leprous souldier with a noble courtesan in Spain to have been the original thereof; for when other young men came and
+<PB N="3" REF="9"/>
+made the same use of her, the Foulness of the former mixture dispers'd this contagion to their bodies, and they to others.</P>
+<P>The Cause of this disease as the Galenists affirm, is a certain venom which preys upon the blood, is hurtful to the liver, and works by second qualities, heat and drowth. The Chymists not much differing from them, define it to be a vene∣mous ferment, that like a stink sei∣zeth upon the solid and liquid parts of the body. But most commonly it associates it self with the excre∣ments, which are the matter of diseases, that have not the power to resist its virulences.</P>
+<P>This contagious disease is con∣tracted many wayes, as by touch in coition, by reason that the active force of the poyson communicates its venome by means of that cor∣rupt
+<PB N="4" REF="10"/>
+matter, or those stinking va∣pours that proceed from the in∣fected person. Now because that cannot happen but by touch, it follows that the signs of the disease must first appear in those parts which first are lyable by that con∣taction to receive the infection. And therefore we alwaies find the first symptoms in the privie parts. Sometime it is contracted by lying together in the same bed, by reason that the sweat and impure vapours that exhale from a defil'd body corrode and penetrate the skin of him that is sound. In the same manner the chaps are infected by drinking together, the nostrills by receiving the evil sents of his body. As to the parties receiving, some whose skins are soft and tender, their vessels larger, their spirits more subtile, and more inflam'd,
+<PB N="5" REF="10"/>
+their blood more thin and hot, have a less force to resist, and are consequently more apt to receive this poyson. So we see the tende∣rest parts of the same body soonest infected, as the privities, which are very tender, and still heated and rarefy'd by copulation. The mouth also and jaws are in the same dan∣ger, by reason of the softness and thinness of the subject. Young men also are sooner infected, then aged, and the weaker young men sooner then those who are of stronger con∣stitutions. But women are less sub∣ject to infection then men, by rea∣son of the coldness of their temper, as also because those parts are wash'd by their natural evacuations.</P>
+</DIV2>
+<DIV2 N="2" TYPE="chapter">
+<PB N="6" REF="11"/>
+<HEAD><HI>CHAP. II.</HI> Of the signs and symptomes of this disease.</HEAD>
+<P>THE signes and symptomes how you shall know those that are infected with this grief, appear by the following effects. Now because the signs doe proceed and are taken either from the na∣ture of the effects or from the causes of the sickness and also from some symptoms or causes thereof, and also because this disease begin∣neth in the liver, which cannot be look'd into, let us not look for any signs which may be common to other diseases, but let us seek for such signs as can give certain testi∣mony and shew thereof, as being contained under the effects, and
+<PB N="7" REF="11"/>
+consequently proceeding imme∣diately from the disease. Of these signs there be two sorts, some are symptoms, as falling off of the hair, aches in the head and members and small infection of the skin. But those which I call <HI>diseases</HI> proceed∣ing from the disease, are those sore and vehement ulcers, tumors of the shins and other parts of the body with pustules. Of these symptoms some happen at the be∣ginning, some when the disease is grown more prevalent and vigo∣rous. Those of the first sort are these that follow. When a man is first infected, He feels a certain weariness come upon all his mem∣bers, without any outward occa∣sions, such as walking or violent exercise. There will be also a lumpish heaviness over the whole body, a dulness, faintness and slow∣ness
+<PB N="8" REF="12"/>
+to move in all the members. The occasion of this is the infection of the natural spirits, which are the immediate instrument that give livelyness to the whole body, which being infected it must of necessity follow, that the whole body should be more weary and heavy then it was before. There is moreover a certain pain or ache, which wand∣reth throughout all the body and the several parts thereof. First the head aketh, then it leaveth the head and goeth into the shoulders, by and by it leaveth one shoulder and goeth into another, out of the shoulders it flyes to the leggs, sometimes in one leg and some∣times in another. The cause of this is a certain vapor which taketh it's course from the liver. 'Tis true that the evil humour is not yet quite begotten, but by reason of the
+<PB N="9" REF="12"/>
+fervent heat of the liver, which is caused by the infection, there is a certain small vapour ingendred, which is the cause of these pains that wander up and down the body. Now after that the disease hath a little prevailed, the colour of the face is quite altered; Those that before were of most lively and clear complexions, are in very short while all discoloured. The lively spirit of the eyes, and the comely colours of the mouth and cheeks will be altogether of another Hew; and besides this there will be under the eyes of a wan colour'd or blew∣ish circle, such as appears in women that have Their stomachs will be much taken off from their meat, they will have pains in the night coming upon them much about the time they goe to sleep, will many times wake them out of their
+<PB N="10" REF="13"/>
+sleep. They are colder then ordi∣nary and more over they have an itching pain in their shin-bones, which abates no longer then while you are gently rubbing of the part. Besides all this, they will be trou∣bled with drowsiness or a disposi∣tion to sleep, which shall be often interrupted. There is wont also to be a notable heat in the palms of the hands and soles of the feet, though it be in the winter time. Neither is sadness of the mind to be left out, for though the party in∣fected should be of a pleasant and merry nature, yet will this disease cause him to be sad even to such a height as to groan therewith. The infection now increasing burneth the blood which causes a feaver, by reason of the heat which is about the <HI>distemper'd</HI> parts. By this ap∣pears the putrify'd matter which is
+<PB N="11" REF="13"/>
+a sign to discover the malady; for when you see this putrify'd matter yet in small quantity about the yard, knowing no occasion thereof to have gone before, you may safely pronounce it to be the French disease. For this <HI>matter</HI> cannot proceed but from two causes; either because of the cor∣ruption of the womans Matrix, which may have eaten and gnawn the fine skin of the yard; or else by reason that the contagion being imparted unto the Liver by the naturall spirits, the liver therefore expells those infected spirits and sanious matter down again upon the privie <HI>parts.</HI> Besides these common signs there are others, of another nature, as bubo's, which are small tumors in the armholes or groyn and privie parts, afterward a general itching over the whole
+<PB N="12" REF="14"/>
+body, and sometimes sore and angry pustules or breakings out in the head, face and other parts.</P>
+</DIV2>
+<DIV2 N="3" TYPE="chapter">
+<HEAD><HI>CHAP. III.</HI> Of the cause of the coming forth of those pustules and other tumours.</HEAD>
+<P>THE chief cause why these pustules break forth, are first, because the infected matter is sent thither by the liver; Secondly because the parts infected doe not digest and expel the excrements by way of transpiration, and therefore it remains there and grows into crusts. But there are besides these pustules other signs of the disease, as the hanging down of the Uvula
+<PB N="13" REF="14"/>
+in the further part of the mouth, which causeth much moisture to come into the mouth, by reason wereof happens a very great hoars∣ness. Wherefore if you hear your patient speak hoarsely, open his mouth and you shall perceive the Uvula full of moisture, which if the patient have no Catarrhe, is a con∣firm'd sign of the disease. The cause of the moistness of the Uvula is the change and infection of the naturall spirits, which being carried with the blood throughout every vein of the whole body, by reason of their infection lose their strength, so that their function grows weak and feeble in the sto∣mach, which causes and engenders flegm, and unnatural humours in the brains; which abundance of humours falling down upon the Uvula, are the cause of
+<PB N="14" REF="15"/>
+it's being press'd down: if the blood be sharper, it consumes the rootes of the hair which causeth them to fall off; it exulcerates the mouth, the palate, and the nose. Now the cause of hoarsness of the voice is humidity and excrements which stop and let the wayes of the voice. There be other tumours denoting this disease as, such are the tumours of the glandules in the further part of the mouth, which when ere you see be out of doubt that the infection of this disease is confirmed. For the in∣fection being now sent to the head, is expelled by his emunctory places which are the glandules. There are in the last place certain other tu∣mours called <HI>gummata</HI> or <HI>bumbata,</HI> by reason that the matter contained in them resembleth the gum of trees, which happens either because
+<PB N="15" REF="15"/>
+the partie is not well nourish'd, but heapes up abundance of undi∣gested excrements, or else because the liver continually feeds them with the infected matter of the di∣sease. Note here that if an <HI>asthma</HI> happen upon this disease, it declares the party to be past cure and there∣fore let never any man seek to put such a one to pain by medecines or other means, for they shall never heal such a one. These signs con∣firming the certainty of the infe∣ction, care must be had that you know the time of the infection, for, if it be new and lately contra∣cted, it requires a shorter and easier cure; if it be of a long standing, it requires a longer and more artificial cure.</P>
+</DIV2>
+<DIV2 N="4" TYPE="chapter">
+<PB N="16" REF="16"/>
+<HEAD><HI>CHAP. IV.</HI> Generall observations concern∣ing the cure of the French disease.</HEAD>
+<P>THis small Treatise which we are now about to write doth contain all both the known and secret ways of curing the French disease which are at this day practi∣sed, either in London, Paris, Ve∣nice, Rome or any other part of the world; yet all these would be in vain without some general of what is to be done before the cure, in the cure, and after the cure, Before you proceed to the particular cure of this disease, let the body be suffi∣ciently cleansed, otherwise that which you give to cure the disease,
+<PB N="17" REF="16"/>
+will work upon some other super∣fluous humour of the body, and leave the disease but half cured; for though the symptoms will for the present abate, and the disease seem to be wholly cured, yet the next spring after, the patient shall be sure to know by wofull experience that his Doctor was but an Emperick.</P>
+</DIV2>
+<DIV2 N="5" TYPE="chapter">
+<HEAD><HI>CAP. V.</HI> Of the preparation of the humours.</HEAD>
+<P>THE humours predominant in the constitution of every person, are Phlegme, Blood, Cho∣ler, or Melancholy; and according to the particular abundancy of either of these humours, people
+<PB N="18" REF="17"/>
+are said to be phlegmatick, sanguine, cholerick, or melancholick.</P>
+<P>If the patient be Phlegmatick, first prepare his body, and then purge him, let him be prepared with this following Apozeme.</P>
+<P>Take rootes of Parsley, Fennel, Grass butchers brome, and Aspa∣ragus an ounce. Maidenhaire one handful, Penyroyal half a handful, Cinamon and Liquorice an ounce; cut, slice or bruise them according to Art; then boyle them all toge∣ther in white wine and spring water, of each a pound and half, until half be wasted, strein away the ingre∣dients, and sweeten the Liquor with six ounces of Oxymel Julianizan; drink of this four ounces fasting in the morning, and as much to bed∣ward so long as it shall last.</P>
+<P>The next day after he hath taken his Apozeme in the morning fasting
+<PB N="19" REF="17"/>
+give him this following Purging potion, and if need require two days after purge him again.</P>
+<P>Take Senna three drams, Agarick two Scruples, Caraway-seeds half a dram, Cinamon and Squinanth one scruple; infuse them all night in four ounces of white wine, strein it, then added Manna and Syrrup of Roses solute half an ounce, Tartarum vitriolatum ten grains. The next day after proceed to the particular cure.</P>
+<P>If the patient be of a sanguine constitution take from his right arm ten ounces of blood, more or less according to his age strength and time of the year. The next day after bleeding proceed to the par∣ticular cure.</P>
+<P>If the patient be cholerick, purge him with this following potion.</P>
+<P>Take Senna two drams, Rhubarb
+<PB N="20" REF="18"/>
+and Tamarinds <HI>an'.</HI> a dram, Corian∣der seeds prepared half a dram, creame of Tartar a scruple; infuse them in three ounces and a half of sorrel water for the space of twelve hours, strain it and put to the strained liquor one ounce and a half of syrup of Roses, and one drop of oyle of Cinamon. If you perceive by his excrements that his body be very fowle, purge him again after two days intermission, and the next day after begin with his particular cure.</P>
+<P>If the patient be melancholy, take from his left arme nine ounces of blood, more or less according to his strength age and the time of the year. The next day after bleed∣ing let him take of this following preparative Apozeme.</P>
+<P>Take Borage Bugloss, Maiden∣hair, Ceterach, and Fumitory, of
+<PB N="21" REF="18"/>
+each a small handfull; the roots of grass Asparagus and liquorice an one ounce Cream of Tartar half an ounce, boyle them altogether in two quarts of spring water untill half be wasted, strein it and sweeten the strained liquor with six ounces of syrrup of Apples; Give him four ounces of it in the morning fasting, and as much at night towards bed time as long as it shall last. The next day after he hath taken all his Apozeme let him purge with this following potion.</P>
+<P>Take Senna three drams, black Hellebore one dram, Agarick half a dram, Galingale and Squinanth an one scruple, Spikenard ten grains. Infuse them all night in four ounces and a half of Borage water, in the morning put to the streyned Liquor one ounce and a half of syrup of
+<PB N="22" REF="19"/>
+Roses, and five drops of oyle of vitriol.</P>
+<P>Two days after he hath taken this potion, if need require, purge him again with two scruples of <HI>ex∣tractum Rudii</HI> made up into five pills. The next day after he hath taken his pills take more blood from him as you shall see occasion, and then proceed to the particular cure.</P>
+<P>Those which are of mixed tem∣peraments must be dealt with all according to the prudence of the Physician, which is greatly to be required as well in the Cure of this Disease as of any other.</P>
+<P>Yet this give us leave to set down, that where you find mixt humours there you must apply your self to the giving of such things as are prepared for the clean∣sing away of mixt humours.</P>
+<P><PB N="23" REF="19"/>As for example: Pilulae Masti∣chinae, containing Agarick, doe for∣cibly purge away gross choler and flegme, which are made this. Take Mastick half an ounce, Aloes one ounce, Agarick Trochiscate and powder of <HI>Hiera simplex</HI> ana three drammes and a half, incorporate them with Malmsey; take three pills at a time going to bed eating no supper. The Pills <HI>sine quibus esse nolo</HI> doe draw choler, flegm and melancholy out of all parts of the body. They are to be taken in a morning fasting, keeping your self warm by reason of the scammony which is in them. Thus with such Receipts as these are, of which there are many more, when you find the mixt humours sufficienly prepared, proceed to the particular cure of the disease.</P>
+</DIV2>
+<DIV2 N="6" TYPE="chapter">
+<PB N="24" REF="20"/>
+<HEAD><HI>CHAP. VI.</HI> Of the dyet used in the cure of this disease.</HEAD>
+<P>THE dyet of your patient must be always drying as to the quality, and very slender as to the quantity. The use of bisket is no way to be discommended, for it suffers the meat taken after it to moisten so much as otherwise it would. His meat must be rosted, and of the very best, as Mutton, Chickens, Partriches, Rabbetts &amp;c. only when he purges you may per∣mit him to have his meat boyled, and when his strength begins to come you may permit him to eate some bread and raisins; His drink must be very small, and indeed if he could keep himself to the deco∣ctions
+<PB N="25" REF="20"/>
+which belong to the cure of the distemper, it would doe much better.</P>
+</DIV2>
+<DIV2 N="7" TYPE="chapter">
+<HEAD><HI>CHAP. VII.</HI> The first way of curing the French disease.</HEAD>
+<P>TAke of this following deco∣ction of the Wood <HI>Guaia∣cum</HI> half a pound, the bark of <HI>Guaiacum</HI> four ounces, <HI>Sassaphras</HI> an ounce; boyle them over night in three Gallons of water in an Iron pot close covered, and let them in∣fuse all night. In the morning boyle them again with raisins stoned half a pound, China Sarsaperill and Liquorice of each two ounces; Let them continue boyling over a
+<PB N="26" REF="21"/>
+gentle fire, untill the liquor be half wasted, then take it off from the fire, and when it is cold strain away the liquor from the ingredients, and put it up in stone bottles and keep it in a cellar or cool place for your use.</P>
+<P>Take of this decoction a quarter of a pint in a morning fasting, at four in the afternoon and at night to bed ward, for the space of forty days together, and every time let him sweat moderately after it. Then let him use this following decoction at meals in stead of beer.</P>
+<P>Put a gallon and a half of water to the ingredients that were left of the first decoction, and boyle them a little, then take it from the fire and keep the liquor together with the ingredients in an Earthen vessel two or three days, in the mean time drinking of it as aforesaid, then
+<PB N="27" REF="21"/>
+put away the ingredients from the liquor, and keep it by it self.</P>
+<P>This first way of curing the French disease is very safe for any whatsoever, but it agrees best with ancient people &amp; such as are Rheu∣matick and of a Phlegmatick con∣stitution. It is moreover an apt cure for the Dropsie, the Gout, the Scurvy, Quartain Agues, Convul∣sions, the Epilepsie, all manner of pains in the head the Kings evil, and the Palsey.</P>
+</DIV2>
+<DIV2 N="8" TYPE="chapter">
+<HEAD><HI>CHAP. VIII.</HI> Of chusing your <HI>Guaicum</HI> and <HI>China.</HI></HEAD>
+<P>HAving so often made men∣tion of <HI>Guaiacum,</HI> and <HI>China,</HI> and finding them so necessary in∣gredients
+<PB N="27" REF="22"/>
+in the cure, of this disease and that their goodness or badness doth much conduce either to retard or hasten the cure we have thought fit to set down some few signes whereby to know which is good and which is naught.</P>
+<P>In choosing this wood you are to consider the time of the year, for in a cold season as in the winter you are to use the hotter, sharper and bitterer sort, which is easily judg'd by the sense, in the summer that which is least sharp or bitter either of an old or young tree. Now the marks whereby you shall discern the best from the other are these. First the old wood is very big and hath a gross and thick rind, which so cleaves to the wood that you can hardly separate it with a knife, for as often as you see the bark come easily from the wood
+<PB N="29" REF="22"/>
+it shews that it hath bin moystened with salt water and it is of the worst sort; in the second place, if you rasp a little of this wood, and find no smel to come from it, you may con∣clude that it is either very old or else corrupt. The third sign to choose this wood by, is, that if in rasping it appeareth very oyly, so that you perceive the dust thereof to glister. Fourthly, tast of that dust, and if it bite your tongue im∣mediately, and afterwards yeildeth a bitterness, it is very good. Fiftly, if there appear in the substance ma∣nifest pores and holes, and that the place where it is rasped appear not very smooth and equal, 'tis not good. Sixthly, you must choose it very ponderous and heavy. The last proof thereof, is to boyle the raspings, and if the decoction be thick, very bitter and sharp, it is
+<PB N="30" REF="23"/>
+very good. The signes of the good∣ness of the rind are these. If it be taken from a tree which is old or of a middle age; for that which cometh from smal boughs is naught; now that which cometh from an old tree or a tree of a middle age, hath great peices and large cavi∣ties. Secondly, let the rind be very thick and hard. Thirdly, let the rind be somewhat black, sprinkled with an ash-colour, for this is the colour of the most excellent bark.</P>
+<P>The best China, is that which is rough in colour, not ponderous, nor worm-eaten nor corrupted, though of the two, they which be worm-eaten are the better of the two. For the spongious rootes soon pu∣trifie, and give little strength to the decoction.</P>
+</DIV2>
+<DIV2 N="9" TYPE="chapter">
+<PB N="31" REF="23"/>
+<HEAD><HI>CHAP. IX.</HI> Of the Second way of curing the French disease.</HEAD>
+<P>THis is by salivation or fluxing. To which purpose let the patient anoynt the palms of his hands and the soles of his feet with this following unguent untill he begin to spit.</P>
+<P>Take of Quicksilver one ounce, and put it into a little mortar with four or five spoon-fulls of vinegar, and stir them together in the mor∣tar with a pestle, until the quick∣silver be divided into small par∣ticles, less then pins heads, then poure away the vinegar, and put into the mortar to the Quick∣silver, Venice Turpentine and Hoggs seam of each an ounce, stir
+<PB N="32" REF="24"/>
+them together with the pestle until the quicksilver be incorpora∣ted into them; then mix with it <HI>Unguentum Neruinum</HI> two ounces, and keep it in a coole place for your use.</P>
+<P>Let it be very well chafed in, otherwise it will not let him spit at all; when he begins to spit let him leave off to anoynt himself, and keep very warm. Let him continue spitting, till his spittle leave off its brackish taste and become either insipid, or else of a sweetish taste, which is commonly in fourten or fiteen days during the whole time of his spitting. Du∣ring the whole time of his spitting let him drink a draught of warm posset-drink for three or four times a day. When you would abate the spitting which must be, upon some very extraordinary occasion, as if
+<PB N="33" REF="24"/>
+he spit blood, so that you perceive any of the vitals to be offended, then give him every after-noon at four of the clock this following clyster.</P>
+<P>Take new milk a pint, brown sugar two ounces, two yolks of eggs, and three dramms of common salt; mix them together according to art and give them Clysterwise blood warm: Give him also at night when he goes to bed this following Bolus:</P>
+<P>Take of Diascordium two scru∣ples, Gascoynes powder twenty grains, oyle of Vitriol two drops, with a little syrrup of white Poppy, mix them into a Bolus.</P>
+<P>If while he spits, his teeth are very loose, let him keep a piece of gold in his mouth.</P>
+<P>Some people are so ignorant as to procure salivation by anointing
+<PB N="34" REF="25"/>
+all the joynts; but this Remedy is worse than the Disease: for there be many that have been so anoin∣ted which have had feeble joynts all the year after.</P>
+<P>Salivation may be also procured by the mouth, as well as by unction, as thus.</P>
+<P>Take of Turbith minerals ten grains, and make it into a ball or pill with conserve of Roses, and give it the patient; the next day but one give him eleven grains so made up as before, and the next day but one to that give him thirteen grains of the said Turbith.</P>
+<P>When he takes his doses he must receive it early in the morning and sleep after it an houre, and then rise and keep himself very warm for an hour, nor must he drink any thing but posset-drink warm while the flux continues, which will be for
+<PB N="35" REF="25"/>
+twenty days, he shall eat no meat but broth of mutton or hens: after he hath done fluxing let him take this drink.</P>
+<P>Take of Sarsaperil two ounces; Guaiacum four ounces; Hermoda∣ctyles two ounces; Senna two oun∣ces; Annis-seed &amp; Cominseed two ounces; Liquorice sliced Twenty two ounces; boyl all these together in ten quarts of liquour half beer half water, and let them boyl twelve hours on a soft fire till three quarts be consumed, and then drink thereof half a pint in a morning and half a quart about four in the eve∣ning till you have drunk it up. You may when you take this drink eate boyl'd mutton or veal or hens rosted.</P>
+<P>The Cure of the French disease by salivation or spitting surpasseth any other cure, provided it be used
+<PB N="36" REF="26"/>
+to those bodies unto which it is most convenient; otherwise it is most uncertain and dangerous. For it proves destructive to those that have a moist brain, and are subject to pain in the head, and are inclin'd to cold diseases. But to those that are of extreme hot constitutions, and are not at all obnoxious to the headache, it is the onely remedy under heaven for the disease.</P>
+</DIV2>
+<DIV2 N="10" TYPE="chapter">
+<HEAD><HI>CHAP. X.</HI> The third way of curing the French disease.</HEAD>
+<P>TAke of Conserve of Wood-sorrel and conserve of Bar∣bery's of each three ounces, red Coral prepar'd two drams, Crabbs
+<PB N="37" REF="26"/>
+eggs, salt of steel and Tartarum vitriolatum of each a dram and a half, Succinum two scruples, with as much syrrup of coral as is suffi∣cient, mix them together in an electuary.</P>
+<P>Give the patient the quantity of a nutmeg of this electuary every morning fasting, and as much at four in the afternoon, so long as it shall last and let him exercise after it; and in the mean time every fift day let him purge with this follow∣ing potion, and once a week let him sweat in a hot-house or in his bed with bottles or bricks.</P>
+<P>Take white-wine three ounces; syrrup of roses solutive an ounce and a half, Lac sulphuris two scru∣ples, mix them together according to art.</P>
+<P>Let him not take the Electuary when he purges and sweates.</P>
+<P><PB N="38" REF="27"/>This is a good way for those that live sedentary lives and have ob∣structions in their inward parts, as the liver, the spleen, the Mesen∣tery, &amp;c.</P>
+</DIV2>
+<DIV2 N="11" TYPE="chapter">
+<HEAD><HI>CHAP. XI.</HI> The fourth way of curing the French disease.</HEAD>
+<P>KEep the patient in his bed four or five days or a week toge∣ther, and sweat him continually. In the mean time let him drink now and then a draught of hot posset drink, but let him by no means take any thing else whatsoever. This way is used much in the Low Coun∣tries. It is the only way for those that have sharp and eating humours,
+<PB N="39" REF="27"/>
+insomuch that they are fearfull of losing the palate of their mouth, or the bridge of their nose, and have holes in their head or any other part.</P>
+</DIV2>
+<DIV2 N="12" TYPE="chapter">
+<HEAD><HI>CHAP. XII.</HI> The fifth way of curing the French disease.</HEAD>
+<P>TAke of Sarsaperil one ounce and an half, split it and cut it into half an ounce of the best spirit of wine in a glass close stopp'd with a cork and bladder; Let the infusion continue so long till the spirit of wine continue of a perfect golden colour. Then strein it, and put to the streined liquor gum of Guaia∣cum powder'd an ounce; natural
+<PB N="40" REF="28"/>
+balsam a dram, stop them very close, and shake up the glass, once or twice every day until the gum be perfectly dissolved.</P>
+<P>Let the patient take half a spoonfull of this Artificial balsam in every draught of beer he drinks three weeks or a month together. In the mean time let him be purg'd every fifth day with two scruples of extractum Rudii, and ten grains of Mercurius dulcis mixt together according to art and made up into five pills.</P>
+<P>This is an excellent way for all effeminate persons and such as are of weak constitutions.</P>
+</DIV2>
+<DIV2 N="13" TYPE="chapter">
+<PB N="41" REF="28"/>
+<HEAD><HI>CHAP. XIII.</HI> The sixt way of curing the French disease.</HEAD>
+<P>TAke white wine three ounces, Venice Treacle two scruples, Balsam of Sulphur seven grains, mix them together into a potion.</P>
+<P>Let the patient drink this potion every morning for the space of twenty days together, and let him not eat or drink any thing for three hours after. This is accouned a great secret among the French and Italian Doctors. It cures the di∣sease. He may goe about his occa∣sions every day notwithstanding the potion which he takes in the morning. It is safe for all sorts of people, but it agrees best with cold constitutions and such as are inclin'd
+<PB N="42" REF="29"/>
+to shortnes of breath &amp; a defluxion of Rheum upon their lungs. Many of the French Doctors doe use bal∣sam of Sulphur alone with good success. But this way is not to be used when the disease is over far gon.</P>
+</DIV2>
+<DIV2 N="14" TYPE="chapter">
+<HEAD><HI>CHAP. XIV.</HI> The seventh way of curing the French disease.</HEAD>
+<P>TAke gum Guaiacum two drams, Antimonium Diapho∣reticum, flower of Brimstone, Dia∣grydium, mans bones calcind, Mer∣curius dulcis, of each a dram. O∣pium half a dram, Saffron a scru∣ple, Juyce of Camomil as much as suffices; make them into a mass according to art.</P>
+<P><PB N="43" REF="29"/>Of this following mass make a pill consisting of ten grains, and let the patient take one every night when he goes to bed for forty nights to∣gether; let him be composed to a good moderate sweat by laying on good store of cloathes upon him: in the mean time let him drink no∣thing but spring water, both at meals and at other times.</P>
+<P>This is most agreeable to them that have extreme nocturnal pains, and have scarce any other sym∣ptomes as swellings, pustules, &amp;c.</P>
+</DIV2>
+<DIV2 N="15" TYPE="chapter">
+<PB N="44" REF="30"/>
+<HEAD><HI>CHAP. XV.</HI> The eight way of curing the French disease.</HEAD>
+<P>MAke the Patient an Issue in his right arm, and another in his lest leg, then give him five spoonfulls of this following Apo∣zeme, every morning fasting, and as much at four in the afternoon, so long as it shall last.</P>
+<DIV3 TYPE="subsection">
+<HEAD>The Apozeme.</HEAD>
+<P>Take of the Shavings of Tin two ounces, of the juice of Rue six oun∣ces, of the juice of Garleek four ounces, Venice-Treacle an ounce and a half, Muskadel six pintes; boyle them altogether in an ear∣then-vessel close cover'd (over a gentle fire) until half be wasted.</P>
+<P><PB N="45" REF="30"/>This way is most sutable for those that are much extenuated and weakened by reason of the long continuance of the disease.</P>
+</DIV3>
+</DIV2>
+<DIV2 N="16" TYPE="chapter">
+<HEAD><HI>CHAP. XVI.</HI> The ninth way of curing the French disease.</HEAD>
+<P>TO these eight waies before rehearsed we shall adde a ninth, which is called the Chimical way of curing the French disease.</P>
+<P>Take powder of Mastick one scruple, <HI>Mercurius dulcis</HI> three grains, make thereof little tablets with Honey, which the Patient is to chew in his mouth for eight hours: when the flux is raised you must omit purgations, and take care
+<PB N="46" REF="31"/>
+against the excoriation of the tongue, mouth and gums, which is easily avoided by a gargarism made only of salt and water, with which being luke warm the mouth is often to be wash'd; all this while the patient must eate nothing but thin though nourishing broths.</P>
+<P>The salivation perfected Take of the red spirit of Mercurie, as <HI>Hartman</HI> easily prepares it, and put two drops thereof in a small draught of persicaria water of peaches; This causes moderate sweats and thereby cleanses the body from any infection which the Mercury could leave behind it, &amp; wholly ex∣tirpates the disease. So that in three or four times taking you shall see the pustles shal of themselves, the tumours asswage; and if there be any faetid ulcers, they presently dry up and heal.</P>
+<P><PB N="47" REF="31"/>There is no pox (saith <HI>Hartman</HI>) so obstinate, but it yeilds to this medicament, so that the patient have strength to endure the swea∣tings, which he is to undergoe.</P>
+</DIV2>
+<DIV2 N="17" TYPE="chapter">
+<HEAD><HI>CHAP. XVII.</HI> The second Chymicall way of curing the French disease.</HEAD>
+<P>FIrst purge with confectio Ha∣mech or Diacarthamum, after purgation if the party be plethorick let blood, otherwise not. This done make this following oyntment.</P>
+<P>Tage of Hogs seam one pound without any salt in it, and very new. <HI>Mercurii vivi</HI> kill'd in juice of Limons or Turpentine water which is better, with this oyntment anoynt
+<PB N="48" REF="32"/>
+the knees and legs of the patient before and if the disease be ve∣hement, the spine of the back also; after that let him sweat gently in his bed with hot bottles, if he sweat not easily after the three first dayes, whereas before you anoin∣ted him only in the morning, anoint him twice a day, viz. in the morn∣ing and three hours after dinner, when the flux is raised cease oynt∣ing and let him be kept in a warm bed while the flux lasts, but if it continue above eight or nine dayes, use then astringent gargarismes made of Pilosella Myrtles, Centi∣nody, orange flowers, and <HI>mel ro∣sarum</HI>; use the said gargarisme also when the flux ceases to clense the teeth and gums, or mingle salt water with the decoction of Guia∣cum and wash the mouth there∣with.</P>
+<P><PB N="49" REF="32"/>While the flux lasts, let him use onely for his drink the second de∣coction of Guaiacum, as shall be set down.</P>
+<P>When the flux hath ceas'd let him eate rost meats altogether, and let him twice a day take this fol∣lowing decoction.</P>
+<P>Take of the shavings of <HI>Lignum Sanctum</HI> one pound, of the bark of the same four ounces, infuse them in twelve pints of water for the space of twenty four hours then boyle it to the consumption of the eight part, strain it and let him take four ounces at a time. Then take the residue and put to it other twelve pints of water and let it boyle gently, to this you may add a little Cinamon, liquorice and raisins of the sun and this is that which as we said before he must use instead of drink.</P>
+<P><PB N="50" REF="33"/>Every sixt day purge him with confection Hamech or Diacartha∣mum, or <HI>confectio de Citro,</HI> and be sure that all the time of the cure he abstain from salt, and salt meats.</P>
+</DIV2>
+<DIV2 N="18" TYPE="chapter">
+<HEAD><HI>CHAP. XVIII.</HI> Of curing the pustles coming of the French disease.</HEAD>
+<P>TAke Sage, Rue, nightshade and red rose leaves of each a handful, Guaiacum two ounces, Orpiment half an ounce Quick∣silver two dramms boyle them all together in two quarts of spring water in an earthen vessel close cover'd, over a gentle fire until half be wasted. Streine away the ingre∣dients and put the liquor into a
+<PB N="51" REF="33"/>
+stone bottle, and put to it two drams of <HI>Chalcantum Romanum</HI> dawb the pustule with this liquor with a linnen cloth twice a day.</P>
+<DIV3 TYPE="subsection">
+<HEAD>Another way to cure the said pustules.</HEAD>
+<P>Take Quicksilver four ounces, silver two ounces dissolve them apart in aqua fortis, then being dis∣solved mix them together, and by a retort in the sand distill a water out of them; That Liquor distill again in <HI>Balneo</HI> till you can perceive no more to come from the still this water keep for your use, dip a small feather therein and with it wipe over the pustules one by one every day once, and they will presently look black and dye, if they fall not off in four days cease to use the water, and anoynt them with a little Fresh butter which will cause them to fall off. When they are fallen
+<PB N="52" REF="34"/>
+off, Take a little Saccharum Sa∣turni and dissolve it in rose water, and wet the place whence the scabbs or pustules fell off, and it will take both the scar and the redness: or,</P>
+<P>Take of the rust of brass one part Salt peter two parts mingle them together and put them in a dish, and with a peice of paper lighted set them on fire, when it hath don flaming, take that which remains and put it into the bladder of a hog, then tye it up close and put the bladder into cold water, and that within will presently dis∣solve, then strein it through a piece of silk, and keep it for the same purpose to be used as before.</P>
+</DIV3>
+</DIV2>
+<DIV2 N="19" TYPE="chapter">
+<PB N="53" REF="34"/>
+<HEAD><HI>CHAP. XIX.</HI> To cure a Bubo.</HEAD>
+<P>TAke a Diaculum plaister and moisten it with vinegar and lay it on the swelling, and as the swelling rises lay on another every day twice a day, to soften the tu∣mour, when it is full ripe open it with a pen knif, and press out the matter. Then apply to it this fol∣lowing plaister, which will never suffer it to close up till it be perfect∣ly healed.</P>
+<P>Take Galbanum, Opoponax ana two ounces Ammoniac, Bdellium ana one ounce: Steep them in vine∣gar eight or fourteen days, the longer the better, then strein them, and inspissate them to the thickness of hony.</P>
+<P><PB N="54" REF="35"/>Then take Litharge pulverised one pound, let it boyle gently over a small fire in two pints of olive oyle, moving it all the while with a little stick till it come to be of a bay colour. Then remove it from the fire, and by and by add of wax one pound stir it till it melt, then put in the foresaid gumms and mix them well, when they are all mixed, add oyle of Lawrell three ounces and then mix it well together Then taking it quite from the fire add these following pouders.</P>
+<P>Take of Crocus Martis, munrie of the magnet, majisterie of red and white coral ana half an ounce, <HI>Lapis calaminaris,</HI> red myrrh, male Frankincence, mastick and round Aristolochia ana two ounces; powder all these into a most subtil powder, and mix them by little and little. This being diligently done add of
+<PB N="55" REF="35"/>
+oyle of Amber which comes forth last in the distillation, and is called balsome of Amber one dram: then put it on again and stir it very well over a gentle fire, then when it is a little cool make it up into rolls for your use.</P>
+</DIV2>
+<DIV2 N="20" TYPE="chapter">
+<HEAD><HI>CHAP. XX.</HI> Instructions to put in practise the several ways of curing the French disease before rehearsed.</HEAD>
+<P>ACcording to each particular aforesaid of curing the French disease there are diverse dayly cured. Yet would we not ad∣vise any to undertake the cure of this disease by any of these ways
+<PB N="56" REF="36"/>
+indifferently without respect had to the patients constitution, age, course of life, and all other circum∣stances whatsoever. After he hath observed the several ways of curing this disease which I have here set down, let him satisfy himself in∣wardly upon what accompt each particular way is most suitable to such a particular constitution. As for example for effeminate persons and those which are of a more de∣licate temper there is a balsome prescribed in the twelveth Chapter. Now why should these be cured by this way rather then by any other. The reason is because there is some∣thing or other in all the other ways of curing this disease which might prove destructive to a tender habit of body. The decoction mentioned in the first Chapter would dry them too much and be apt to breed
+<PB N="57" REF="36"/>
+a schyrrhus in some of the inward parts, as the liver, the spleen, the pancreas; salivation which is ano∣ther way of curing would presently consume them. Wherefore if this safe and easy way will perform the cure, why should we put the patient to the trouble and inconvenience of any other, as fluxing sweating or the like. To which I answer, that although this way doth cure it in those that are of a tender habit, yet it will not be effectual to those of a stonger constitution. Thus a prune or an apple will move some per∣sons, when as others shall not be moved with an ounce of Manna or two ounces of syrrup of Roses: so great is the diversity of constitu∣tions.</P>
+<P>When the practitioner is fully satisfied in reason why each parti∣cular way of cure is most condu∣cible
+<PB N="58" REF="37"/>
+to such a particular tempera∣ment, let him observe whether there be not a complication or mixture of symptoms in the patient, that is whereas I have set down after each particular cure, that such a way is proper for effeminate persons, and another way proper for those that have extream paines, whether the person be not only an effeminate person and troubled also with no∣cturnal pains, with some other symp∣toms set down severally in other chapters, and if there be, let him so compound these particular ways of cure that they may be most agree∣able to the complication of the pa∣tients symptoms; as for example, suppose I had a patient of a strong constitution having nocturnal pains, both in his head and other parts, and pustles in his face and outward parts, I would use the decoction in
+<PB N="59" REF="37"/>
+the seventh chapter, but yet I would borrow the pill mentioned in the fourtenth chapter, which I would give him instead of that draught of the decoction which he should take every night when he goes to bed and besides that I would use unto him first the water for his pustles set down in the eight chapter. If I had a patient of an in∣different hot temper, who had ex∣tream pains sometimes in his head, but not very often, as perhaps once in fortnight or three weeks I would first flux him according to the me∣thod set down in the ninth Chapter and after his fluxing I would give him the decoctions mentioned in the seventh chapter, for the space of ten days. By which instances it is plain how little difficulty there is in contriving a fit remedy for this di∣sease in each particular constitution.</P>
+</DIV2>
+<DIV2 N="21" TYPE="chapter">
+<PB N="60" REF="38"/>
+<HEAD><HI>CHAP. XXI.</HI> Of the Cure of the Gonorrhea called the Running of the Reines.</HEAD>
+<P>THE simple Gonorrhea though the symptomes thereof be nothing neer so dangerous as are those of the pox, yet if the patient either through negligence or bash∣fulness doe neglect the timely cure, it will certainly in a short time turn to the pox, and therefore the remedy thereof is suddainly to be sought. We need not set down the symptome of this disease, for it easily betrayes it self, and therefore we shall proceed to the cure. The method of the first way of curing this disease is as follows.</P>
+<P><PB N="61" REF="38"/>Take guaiacum four ounces, Senna two ounces anniseeds and liquorice ana one ounce, lignum ne∣ptneticum half an ounce, boyl them over night in three quarts of water, until half be wasted, then put into it three dramms of Agarick, Let the ingredients continue in the liquor all night, in the morning strein away the ingredients and mix with the streined liquor four ounces of syrrup of Roses solutive keep it in a cool place for your use.</P>
+<P>Let the patient drink of this A∣pozeme every morning five ounces fasting so long as it lasts. The third day after he hath taken all his A∣pozeme give him this following potion.</P>
+<P>Take plantain water four ounces. Venice Turpentine wash'd in red rose water half an ounce, and the yolk of an egg. First incorporate
+<PB N="62" REF="39"/>
+the yolk of the egg with the tur∣pentine in a little mortar then mix the plantain water by little and a little by degrees.</P>
+<P>The third day after he hath taken this Potion take these following pills.</P>
+<P>Take of Aloes Rosat. half an ounce, Agarick trochiscated two dramms Coloptony two scruples, Mastick half a dram, saffron twenty grains syrrup of damask roses as much as suffices make them into a mass according to art.</P>
+<P>Let him take two scruples of this mass made into five pills every third morning for three weeks to∣gether This is most convenient for those which are of a cold consti∣tution.</P>
+</DIV2>
+<DIV2 N="20" TYPE="chapter">
+<PB N="63" REF="39"/>
+<HEAD><HI>CHAP. XX.</HI> The second way of curing the running of the reines.</HEAD>
+<P>TAke China and Sarsaperilla ana an ounce and a half Red sage a small handfull, Senna an ounce, Coriander seeds prepared three drams boyle them over night in white wine, and spring water, of each three pints untill half be wasted; Then while it is hot put into the decoction two drams of Rhubarb sliced and let it infuse in the liquor all night with the rest of the ingre∣dients, in the morning strein away the ingredients, and put to the li∣quor four ounces of syrrup of Cichory with Rhabarb.</P>
+<P>Let the patient drink twelve spoonfulls of this Apozeme fasting
+<PB N="64" REF="40"/>
+so long as it shall last. The next day after he hath taken all his A∣pozeme let him begin to take of this following electuary.</P>
+<P>Take of Lenitive Electuary three ounces; Cassia lately extracted in red rose water, and Venice turpen∣tine wash'd in plantain water, ana an ounce and a half. The powder of Senna and Anniseeds of each a dram and a half, Rhubarb finely powdered a dram mix them accor∣ding to art into an electuary.</P>
+<P>Of this Electuary let him take the quantity of a wall nut fasting, and as much at four of the clock in the afternoon so long as it shall last. When he begins to take of this electuary, let him take this following plaister and lay it athwart his back letting it continue on as long as will stick.</P>
+<P>Take of Venice Turpentine an
+<PB N="65" REF="40"/>
+ounce, Virgins wax half an ounce, melt them together in a brass ladle or smal earthen pot over a gentle fire, and when it is almost cold, stir into it three dramms of white sealed Earth, finely powdered, &amp; spread it upon Allome leather, to be apply'd as aforesaid.</P>
+<P>This way of cure best agrees with those that are of a hot consti∣tution.</P>
+</DIV2>
+<DIV2 N="23" TYPE="chapter">
+<HEAD><HI>CHAP. XXIII.</HI> The third way of curing the Running of the reines.</HEAD>
+<P>FIrst give the patient this following vomit:</P>
+<P>Take of the infusion of Crocus metallorum an ounce Oxymell
+<PB N="66" REF="41"/>
+simplex two ounces, oyle of Ci∣namon a drop, mix them together give it him in a morning fasting with due observation according to the custome of vomiting.</P>
+<P>After he hath taken this vomit, two days after, give half a dram of extractum rudii, and twelve grains of mercurius dulcis mixt together, made into four pills. Two days after he hath taken the pills sweat him with this following sweating potion.</P>
+<P>Take treacle water, two ounces, Antimonium diaphoreticum ten grains syrrup of wood-sorrel an ounce and a half, mix them together.</P>
+<P>The next day after he hath sweat let him begin to take this following Apozeme.</P>
+<P>Take China, Sarsaperil, Senna, rootes of water Lillies of each an
+<PB N="67" REF="41"/>
+ounce, Raisins stoned, four ounces, black hellebore, half an ounce Caraway seeds and Cinamon of each three dramms; boyle them altogether in three quarts of water over a gentle fire in an Earthen vessel close covered untill half be wasted strain away the ingredients and sweeten the liquor with six ounces of common Treacle.</P>
+<P>Give him four ounces of this Apozeme at a time every morning fasting for the space of twenty days in the mean time let him swallow every night when he goes to bed five pills as big as large peas of Cyprus Turpentine.</P>
+<P>This cure is most proper for those that have a violent Gonorrhea or running of the reines which may have some tincture or smatch of the French disease.</P>
+</DIV2>
+<DIV2 N="24" TYPE="chapter">
+<PB N="68" REF="42"/>
+<HEAD><HI>CHAP. XXIV.</HI> The fourth way of curing the Gonorrhea.</HEAD>
+<P>TAke of Rhabarb Crema Tar∣tar of each four ounces Cassia newly extracted and Venice Tur∣pentine as much as will thicken it into the form of an electuary.</P>
+<P>Let the patient take of this ele∣ctuary in the morning fasting as much as will amount to the quan∣titie of a wall nut, and at night also when he goes to bed the same quantity drinking after it a glass of whay or if he find any sharpness in his urine a glass of milk and water. Let him doe this for a fortnight or three weeks together. He may goe about his business without any di∣sturbance, only keeping a tempe∣rate
+<PB N="69" REF="42"/>
+dyet and abstaining from much drinking and taking tobacco.</P>
+<P>If the person be of a sanguine complexion, he may let blood before he begins to take his Ele∣ctuary.</P>
+<P>Let this cure be used only when the disease is taken in time before the venome of the disease hath pro∣ceeded two farr.</P>
+</DIV2>
+<DIV2 N="25" TYPE="chapter">
+<HEAD><HI>CHAP. XXV.</HI> The fifth way of curing the Gonorrhea.</HEAD>
+<P>FIrst purge the patient with a bolus of Cassia newly ex∣tracted, causing him to drink after it a little broth without any salt in it. After this let him take half a
+<PB N="70" REF="43"/>
+dram of Chrystallum minerale in six ounces of whey two howrs be∣fore meals morning and evening, and at meals let him use this follow∣ing dyet drink.</P>
+<P>Take of barly, grass, topps of Mallows, plantain leaves, agrimony, maidenhaire, ana a good handfull, liquorice as much as will suffice; boyle it high and make thereof a Ptisan, and to every foure pints of this Ptisan, add half an ounce of Chrystallum minerale; use this for fifteen or sixteen days or three weeks.</P>
+<P>This with great ease stopps the gonorrhea of it self, But if it be an old running, after you have made use of the former prescription, the due time set down, take of this following mass of pills.</P>
+<P>Take of Salt of Coral rectifyed twice or thrice with spirit of Guaia∣cum
+<PB N="71" REF="43"/>
+one ounce, extract of Amber, one ounce. <HI>Terra sigillata</HI> three drams, <HI>Crocus Martis astringent</HI> reverberated half an ounce. Extract of tormentill, Pilosell, golden rod, great Sanicle of each two ounces Venice Turpentine evaporated with a soft heat, till the consum∣ption of the third part.</P>
+<P>Mix with the hot Turpentine first the extract of amber, then the salt of coral, and the terra sigillata mingled with the other extracts, then the Crocus Martis; stirring with a spatula till they be all exactly mixed. Make a mass thereof and let the patient take thereof two scruples made into pills morning and evening till he find himself well.</P>
+<P>You may also use injections into the yard made of the decoction of Tormentil, golden rod, pilosell and
+<PB N="72" REF="44"/>
+great Sanicle dissolving a dram of Saccharum Saturni, in one dram of the said Liquor.</P>
+</DIV2>
+<DIV2 N="26" TYPE="chapter">
+<HEAD><HI>CHAP. XXVI.</HI> The chymical way of curing a virulent Gonorrhea.</HEAD>
+<P>IN the curing of the Gonorrhea chymically, green precipitate is thus made.</P>
+<P>Take of mercurie three ounces, and dissolve it in two ounces of aqua fortis, of Venus one ounce and dissolve it in two ounces of Aqua fortis, mix the two solutions toge∣ther and distil them out of the sand through a retort, toward the end of the distillation urging the fire more Vehemently, whereby the
+<PB N="73" REF="44"/>
+greatest parts of the corrosive spirits may be taken away, pound that which remains behind in a mortar, and with vinegar digest it six days in the ashes, then boyl it that the greatest part of the mer∣curie may be dissolved in the vi∣negar, when it it impregnated with the vinegar take it and distil it with a soft fire till it be come very drie, and there will remain in the bottome a green precipitate, of this give four five six or seven grains according to the strength of the patient, in conserve of roses.</P>
+</DIV2>
+<DIV2 N="27" TYPE="chapter">
+<PB N="74" REF="45"/>
+<HEAD><HI>CHAP. XXVII.</HI> General observations concern∣ing the Cure of the Gonor∣rhea.</HEAD>
+<P>THere is a much prudence and discretion required in the Physitian or Surgeon in the cure of the Gonorrhea, as in the cure of the French disease, in regard of the great danger there is in stopping of the Gonorrhea suddenly in some bodyes, and the safety of curing it with all speed in others; in those bodyes that are extream foul, upon a Gonorrhea, nature takes her op∣portunity to purge the whole body by the seminary vessel.</P>
+<P>Now when this passage is sud∣denly stopped except there be
+<PB N="75" REF="45"/>
+some other way to carry away the matter, which doth continually flow to these parts, experience teaches us that there doe dange∣rous symptomes arise from thence as intollerable pain in the back, sickness in the stomack, vomiting or a desire to vomit, inflammation swelling and extream pain in the stones, feavers, and fainting fitts, and sometimes death it self.</P>
+<P>In some such body's as those are, whether you would cure them after the first or second way set down in the twenty first and twen∣ty second Chapters, perhaps be∣sides what is mentioned in the aforesaid Chapters there will be occasion to use the sweating po∣tion, mentioned in the twenty third Chapter: and on the contrary there are some bodyes that doe not re∣quire so much circumstance of
+<PB N="76" REF="46"/>
+medicine as is mentioned in the foresaid Chapter, but may per∣haps be cured onely by the potion in the twenty first Chapter, or the plaister and electuary in the twenty second Chapter or else by the pills in the twenty third.</P>
+<P>This depends wholly upon the prudence honesty and knowledge of the Surgeon.</P>
+<P>The like prudence and know∣ledge is necessary to distinguish a simple Gonorrhea, from a viru∣lent Gonorrhea, as also in prescri∣bing a fit dyet according to the several Circumstances of the pa∣tient, as whether he be young, or in years, whither he have a full or a spare body, and lastly whither he be of a hot, cold or indifferent temper.</P>
+</DIV2>
+<DIV2 N="28" TYPE="chapter">
+<PB N="77" REF="46"/>
+<HEAD><HI>CHAP. XXVIII.</HI> For a Bubo.</HEAD>
+<P>VVHen the swelling rises, avoyd no debaush or violent exercise to bring it forth: If it rise not fast enough, use cup∣ping glasses. When tis come to a head lance it, or apply a Caustick to it; the filth being out, tent it to its full depth, covering the tent with <HI>Basilicon Doron,</HI> or some such medicament that draws without enflaming, keep it open a month or five weeks with moderate exer∣cise and dyet, drinking the purg∣ing decoction mentioned in the second Chapter. Take as much rest as you can, and when the ori∣fice inclines to heal, purge as you see occasion.</P>
+<TRAILER>FINIS.</TRAILER>
+</DIV2>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="table of contents">
+<PB REF="47"/>
+<HEAD>The CONTENTS of all the Chapters contained in this Book.</HEAD>
+<LIST>
+<ITEM><LABEL>CHAP. I.</LABEL> OF the name, causes, and original of the French Disease. <HI>pag. 1</HI></ITEM>
+<ITEM><LABEL>CHAP. II.</LABEL> Of the signs and symptomes of this disease. <HI>pag. 6</HI></ITEM>
+<ITEM><LABEL>CHAP. III.</LABEL> Of the cause of the coming forth of those pustules and other tumours. <HI>pag. 12</HI></ITEM>
+<ITEM><LABEL>CHAP. IV.</LABEL> General observations concerning the cure of the French disease. <HI>pag. 16</HI></ITEM>
+<ITEM><LABEL>CHAP. V.</LABEL> Of the preparation of the humours. <HI>pag. 17</HI></ITEM>
+<ITEM><LABEL>CHAP. VI.</LABEL> Of the dyet used in the cure of this disease. <HI>pag. 24</HI></ITEM>
+<ITEM><LABEL>CHAP. VII.</LABEL> The first way of curing the French disease. <HI>pag. 25</HI></ITEM>
+<ITEM><LABEL>CHAP. VIII.</LABEL> Of chusing your <HI>Guaiacum</HI> and <HI>China. pag. 27</HI></ITEM>
+<ITEM><PB REF="47"/><LABEL>CHAP. IX.</LABEL> Of the Second way of curing the French disease. <HI>pag. 31</HI></ITEM>
+<ITEM><LABEL>CHAP. X.</LABEL> The third way of curing the French disease. <HI>pag. 36</HI></ITEM>
+<ITEM><LABEL>CHAP. XI.</LABEL> The fourth way of curing the French disease. <HI>pag. 38</HI></ITEM>
+<ITEM><LABEL>CHAP. XII.</LABEL> The fifth way of curing the French disease. <HI>pag. 42</HI></ITEM>
+<ITEM><LABEL>CHAP. XIII.</LABEL> The sixt way of curing the French disease. <HI>pag. 41</HI></ITEM>
+<ITEM><LABEL>CHAP. XIV.</LABEL> The seventh way of curing the French disease. <HI>pag. 42</HI></ITEM>
+<ITEM><LABEL>CHAP. XV.</LABEL> The eight way of curing the French disease. <HI>pag. 44</HI></ITEM>
+<ITEM><LABEL>CHAP. XVI.</LABEL> The ninth way of curing the French disease. <HI>pag. 45</HI></ITEM>
+<ITEM><LABEL>CHAP. XVII.</LABEL> The second Chymical way of curing the French disease. <HI>pag. 47</HI></ITEM>
+<ITEM><LABEL>CHAP. XVIII.</LABEL> Of the curing the pustles coming of the French disease. <HI>pag. 50</HI></ITEM>
+<ITEM><LABEL>CHAP. XIX.</LABEL> To cure a Bubo. <HI>pag. 53</HI></ITEM>
+<ITEM><LABEL>CHAP. XX.</LABEL> Instructions to put in practise the several ways of curing the
+<PB REF="48"/>
+French disease before rehearsed. <HI>pag. 55</HI></ITEM>
+<ITEM><LABEL>CHAP. XXI.</LABEL> Of the cure of the Go∣norrhea called the Running of the Reins. <HI>pag. 60</HI></ITEM>
+<ITEM><LABEL>CHAP. XXII.</LABEL> The second way of curing the running of the reines. <HI>pag. 63</HI></ITEM>
+<ITEM><LABEL>CHAP. XXIII.</LABEL> The third way of curing the Running of the reines. <HI>pag. 65</HI></ITEM>
+<ITEM><LABEL>CHAP. XXIV.</LABEL> The fourth way of curing the Gonorrhea. <HI>pag. 68</HI></ITEM>
+<ITEM><LABEL>CHAP. XXV.</LABEL> The fifth way of curing the Gonorrhea. <HI>pag. 69</HI></ITEM>
+<ITEM><LABEL>CHAP. XXVI.</LABEL> The chymical way of curing a virulent Gonorrhea. <HI>pag. 72</HI></ITEM>
+<ITEM><LABEL>CHAP. XXVII.</LABEL> General observations con∣cerning the Cure of the Gonorrhea. <HI>pag. 74</HI></ITEM>
+<ITEM><LABEL>CHAP. XXVIII.</LABEL> For a Bubo. <HI>pag. 77</HI></ITEM>
+</LIST>
+<TRAILER>The end of the Table.</TRAILER>
+<PB REF="48"/>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>
+

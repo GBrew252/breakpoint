@@ -1,0 +1,1517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="2">A sermon preached in the collegiate church of St. Peter in Westminster, on Wednesday May 29th, 1661 being the anniversary of His Majesties most joyful restitution to the crown of England / by Peter Heylyn ...</TITLE><AUTHOR>Heylyn, Peter, 1600-1662.</AUTHOR></TITLESTMT><EXTENT>Approx. 83 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2003-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A43551</IDNO>
+
+
+<IDNO TYPE="stc">Wing H1734</IDNO>
+
+<IDNO TYPE="stc">ESTC R12653</IDNO>
+
+<IDNO TYPE="eebo citation">13016933</IDNO>
+
+<IDNO TYPE="oclc">ocm 13016933</IDNO>
+
+<IDNO TYPE="vid">96577</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A43551)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 96577)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 741:40)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="2">A sermon preached in the collegiate church of St. Peter in Westminster, on Wednesday May 29th, 1661 being the anniversary of His Majesties most joyful restitution to the crown of England / by Peter Heylyn ...</TITLE><AUTHOR>Heylyn, Peter, 1600-1662.</AUTHOR></TITLESTMT><EXTENT>[4], 44 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed by E.C. for A. Seile,</PUBLISHER>
+<DATE>1661.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Includes bibliographical references.</NOTE><NOTE>Reproduction of original in Huntington Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Charles --  II, --  King of England, 1630-1685 --  Sermons.</TERM><TERM>Bible. --  O.T. --  Psalms XXXI, 21 --  Sermons.</TERM><TERM>Sermons, English --  17th century.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2002-08</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2002-10</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2002-11</DATE><RESPSTMT><RESP>Judith Siefring</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2002-11</DATE><RESPSTMT><RESP>Judith Siefring</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2002-12</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A43551">
+<STC T="W">H1734</STC>
+<BIBNO T="oclc">13016933</BIBNO>
+<VID>96577</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<P>A
+SERMON
+Preached in the
+Collegiate Church
+OF
+<GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/> <HI>PETER</HI> in <HI>WESTMINSTER,</HI>
+On Wednesday <HI>May</HI> 29<SUP>th.</SUP> 1661. Being the Anniversary of his <HI>Majesties</HI> most joyful
+Restitution to the Crown of <HI>England.</HI></P>
+<P>By <HI>PETER HEYLYN,</HI> D. D.
+Chaplain in Ordinary to his Majesty, and one of
+the <HI>Prebendaries</HI> of that Church.</P>
+<Q><BIBL>2 Sam. 19. 14.</BIBL>
+<P>And he bowed the heart of all the men of <HI>Judah,</HI> even as the heart of one
+man; so that they sent this word unto the King, <HI>Return thou and all
+thy servants.</HI></P></Q>
+<Q><BIBL>August. de Civit. Dei. lib. 1. cap. 7.</BIBL>
+<P><GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>squis non videt, caecus: quisquis videt nec laudat, ingratus: quisquis
+laudanti reluctatur, insanus est.</P></Q>
+<P><HI>LONDON:</HI>
+<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>inted by <HI>E. C.</HI> for <HI>A. Seile</HI> over against St. <HI>Dunstans</HI> Church
+in <HI>Fleetstreet.</HI> M.DC.LXI.</P>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>To the READER.</HEAD>
+<P>THis <HI>Sermon</HI> gods not to the <HI>Press</HI> for want of <HI>Hearers,</HI>
+for seldom hath been seen a more numerous <HI>Auditory</HI>
+then was assembled in this <HI>Church</HI> at the Preaching of
+it. Nor doth it go into the world to seek for <HI>Readers;</HI> who should
+not be sollicited to the losse both of time and patience, if nothing
+more than <HI>ordinary</HI> did present it to them, and perhaps not that.
+Some <HI>Guests</HI> are commonly best pleased when they are least
+<HI>courted,</HI> and think themselves most welcome when they are not
+looked for. And yet the <HI>Master of the feast</HI> in our Saviours <HI>Pa∣rable,</HI>
+when the invited <HI>Guests</HI> neglected or refused to come,
+sent forth his Servants into all the <HI>streets</HI> and <HI>lanes</HI> of the <HI>City,</HI> to
+bring in all that could be found, whether <HI>good</HI> or <HI>bad,</HI> till he had
+filled his <HI>Table,</HI> and made up his company▪ And 'twas a <HI>wedding
+dinner</HI> too, which our Saviour speaks of. A <HI>feast</HI> prepared for
+celebrating the most joyful <HI>Marriage</HI> betwixt <HI>Christ</HI> and his
+<HI>Church;</HI> or (as this was) betwixt a <HI>Mighty Prince,</HI> and a
+<HI>loving People.</HI> But so it is in all great Meetings of this nature,
+that many come not to the <HI>feast,</HI> though they are expected; and
+many come not time enough to enter when the <HI>Bridegrome</HI> doth;
+some cannot reach to that which is set before them, and others
+have received no <HI>invitation</HI> to attend the <HI>Nuptials.</HI> Who not∣withstanding
+would not easily be contented with the <HI>fragments
+of it,</HI> though they should possibly amount to as many <HI>baskets full,</HI>
+as the first provision. And therefore▪ that the honest desires of some,
+and even the curiosity of others, may not rest unsatisfied, it is now
+served in <HI>cold</HI> but <HI>whole;</HI> with <HI>grace</HI> before it, and <HI>grace</HI> after
+it, lest otherwise there might be some defect in the <HI>entertain∣ment.</HI>
+Nothing remains, but that the <HI>Guests</HI> fall to, and much
+good may it do them.</P>
+<CLOSER><DATELINE>Westminster, <DATE>Iune
+8▪ 1661.</DATE></DATELINE></CLOSER>
+</DIV1>
+<DIV1 TYPE="epigraph">
+<PB REF="3"/>
+<HEAD>PSALM XXXI. ver. 21.</HEAD>
+<Q><BIBL>Versio Septuagint. Interpret.</BIBL> <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/></Q>
+<Q><BIBL>Versio Vulgaris.</BIBL> Benedictus Dominus, quoniam mirificavit misericordi∣am
+suam mihi in Civitate munita.</Q>
+<Q><BIBL>Versio Sancti Hieron.</BIBL> Benedictus Dominus, quoniam mirabilem fecit miseri∣cordiam
+suam mihi, in Civitate munita.</Q>
+<Q><BIBL>Versio Tremelii.</BIBL> Benedictus sit Iehova; quia mirificam reddit benigni∣tatem
+suam erga me, ut in Civitate munita collo∣cans
+me.</Q>
+<Q><BIBL>The Old English Translation.</BIBL> Thanks be to the Lord: for he hath shewed me mar∣vellous
+great kindness in a strong City.</Q>
+<Q><BIBL>The New English Translation.</BIBL> Blessed be the Lord: for he hath shewed me his marvel∣lous
+kindness, in a strong City.</Q>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB N="1" REF="3"/>
+<HEAD>A
+SERMON
+Preached at the
+Collegiate Church
+OF
+S<SUP>t</SUP> PETER in WESTMINSTER,
+On Wednesday May 29<SUP>th.</SUP> 1661.</HEAD>
+<EPIGRAPH>
+<BIBL>PSALM XXXI. 21.</BIBL>
+<Q>Blessed be the Lord, for he hath shewed me his
+marvellous kindness, in a strong City.</Q>
+</EPIGRAPH>
+<P>1. <HI><SEG REND="decorInit">S</SEG>ERMO opportunus est optimus.</HI> It is
+affirmed by <HI>Solomon,</HI> amongst his
+Proverbs,<NOTE N="a" PLACE="marg">Prov. 15. 23</NOTE> that <HI>a word spoken in
+due season,</HI> is like to <HI>apples of gold in
+pictures of silver;</HI> that is to say, as
+pleasing to the ear and understanding of judicious men,
+as Jewels made like <HI>apples of gold</HI> in nets <HI>of silver,</HI>
+are in the eyes of curious and magnificent persons.
+And of this nature is the Text now read unto you, ac∣commodated
+to the time, to the present Solemnity. A
+Text of Thankfulness, and a Time of Thankfulness:
+A Time of great deliverance, and a Text of great de∣liverance.
+And as the Text, such also is the Psalm
+out of which it is taken; A Psalm of Consolation,
+and a Text of Comfort; a Psalm of Confidence, and
+a Text of Confidence. A Psalm of Confidence, <HI>In
+<PB N="2" REF="4"/>
+te Domine speravi, In thee, O Lord, do I put my trust,</HI>
+so it begins. A Psalm of Consolation, <HI>Viriliter agite,
+Be of good courage, and you shall be strengthned in the
+Lord,</HI> with which words it ends. From the begin∣ning
+to the end, it speaks Gods infinite mercies unto
+his Anointed, and in him to us. As for the form, it is
+like many of the rest, Plaints mixt with Prayers, things
+present mingled with things past; the sad remem∣brance
+of his former troubles, indeared and sweetned
+by the consideration of some marvellous mercies which
+God had shewed unto him after all his troubles. But
+what this kindness was, how <HI>great,</HI> how <HI>marvellous;</HI>
+how <HI>David blessed</HI> the name of God for so great a
+mercy, and what we are to do upon the sense and ap∣prehension
+of the like felicity; we shall the better see,
+if you shall please to joyn with me in humble and
+hearty Prayer to Almighty God, <HI>&amp;c. Our Father
+which art in Heaven,</HI> &amp;c.</P>
+<P>2. <HI>Victori Psalmus David.</HI> The Title of this Psalm
+(as St. <HI>Hierom</HI> reads it) makes it to be composed in
+memory of some great deliverance, which God, the
+giver of all victory had <HI>marvellously</HI> wrought for his
+servant <HI>David.</HI> But what particular deliverance it
+was, which is herein celebrated, hath been made a
+question. <HI>Lyra,</HI> a natural <HI>Iew</HI> by birth, affirmes upon
+the credit and authority of <HI>Rabbi Solomon,</HI> that <HI>David</HI>
+framed this Psalm, <HI>existens in persecutione Saulis;</HI>
+when he was under those calamities which were for∣ced
+upon him by the house of <HI>Saul;</HI> or rather, On
+the sense and remembrance of them, as from the com∣position
+of the Psalm may be easily gathered. <HI>The∣odoret,</HI>
+<PB N="3" REF="4"/>
+an old <HI>Greek</HI> writer, thinks rather, that it was
+composed by the Royal Pen-man, <HI>Cum ab Absolome
+persecutionem pateretur,</HI> when he was outed of his
+Kingdom by the arts of <HI>Absalom.</HI> Which difference,
+how great so ever it appears, may be soon agreed.
+For, even the Treason of <HI>Achitophel,</HI> and the Rebel∣lion
+of <HI>Absolom,</HI> were cherished and fomented by some
+Grandees of the house of <HI>Saul,</HI> as we may be clearly
+evidenced by some passages of the Sacred Story, in
+which it is affirmed, that <HI>Shimei who threw stones</HI> at him,
+and reviled him for a man of bloud, when he was
+forced to quit <HI>Hierusalem</HI> to the party of <HI>Absolom;</HI>
+was <HI>of the family</HI> or kindred of the house of <HI>Saul;</HI>
+And <HI>Sheba</HI> who revived the War,<NOTE PLACE="marg">2 Sam. 20. 1.</NOTE> and <HI>blew the
+Trumpet</HI> of Sedition, when all the people were re∣turning
+to their old obedience, is plainly said to be
+<HI>a man</HI> of the <HI>Tribe</HI> of <HI>Benjamin,</HI><NOTE PLACE="marg">2 Sam. 16. 5.</NOTE> (which was <HI>Sauls</HI>
+own <HI>Tribe</HI>) and generally believed to be of <HI>Sauls</HI> kin∣dred
+also, who could not easily lay aside their hopes
+of the Crown of <HI>Israel,</HI> till all <HI>Sauls</HI> sons were hang∣ed
+in <HI>Gibeah</HI> before the Lord, of which the Scripture
+speaks in the second of <HI>Samuel,</HI> chap. 22. So that
+we may declare in favour of the first opinion, that the
+great kindness, so much magnified by the Royal Psal∣mist,
+relates to his deliverance from the house of <HI>Saul,</HI>
+when he was setled in <HI>Ierusalem,</HI> and reigned in
+peace and glory over all the <HI>Tribes.</HI> In which estate
+he sung this <HI>Benedictus</HI> to the Lord his God, that is
+to say, <HI>Benedictus Dominus, Blessed be the Lord, for
+he hath shewed me his marvellous kindness in a strong
+City.</HI></P>
+<P><PB N="4" REF="5"/>3. The Text it self contains in it these two gene∣ral
+Parts, God's Mercy, <HI>David</HI>'s Thankfulness; God's
+mercy unto <HI>David</HI> in that great deliverance, and
+<HI>David</HI>'s thankfulness unto God for so great a Mercy.
+In the first General, God's Mercy, we have these par∣ticulars;
+The Subject of it first, and that was <HI>David, Da∣vid
+the King,</HI> the Lord's Anointed, one chosen by the
+Lord out of all his Family, to be the blessing of his
+Tribe, and the Prince of his People; <HI>Mirificavit mihi,
+He hath shewed to me.</HI> 2<SUP>ly</SUP> The condition &amp; extent there∣of,
+as being not only called a kindness, a great <HI>kindness</HI>
+too, in our old Translation; but, <HI>misericordia mirabi∣lis,</HI>
+a marvellous <HI>great kindness;</HI> a <HI>kindness</HI> which
+had very much of a Miracle in it. 3<SUP>ly;</SUP> The Author,
+or the Donor of it, <HI>Misericordia sua;</HI> His kindness, or
+the Lord's own <HI>kindness.</HI> And lastly, On what Thea∣tre,
+or Stage, this marvellous kindness of the Lord
+was acted, <HI>in Civitate munita,</HI> in a strong City.
+Over all which, I mean to draw so thin a veil, that
+under it we may behold the face of our own affairs,
+but helped by some reflections from the <HI>Glass</HI> of Scri∣pture,
+and some comparisons of the <HI>Copy</HI> with the old
+<HI>Original.</HI> In the next General, <HI>David</HI>'s Thankfulness,
+we shall observe the Retribution which he made to
+the Lord his God for such multiplyed mercies, whe∣ther
+it were expressed in his words, or actions. And
+then the duties of the Day will come in of course, as
+the Conclusion followeth on the Premises in a well∣formed
+Syllogism. I begin therefore with the first
+General, God's mercy unto <HI>David</HI> in that great de∣liverance,
+and therein first of all with the Subject of
+it, <HI>David the King,</HI> the Lord's Anointed, the Author
+of this Psalm, and the argument of it.</P>
+<P><PB N="5" REF="5"/>4. <HI>Expertâ morbi molestiâ, evidentior fit jucun∣ditas
+Sanitatis,</HI> as St. <HI>Austin</HI> hath it. None can so
+rightly estimate the benefit of a perfect health, as he
+who hath been long oppressed with a languishing
+sickness. Contraries set together, do most perfectly
+illustrate and express each other. If therefore we
+would know, how great God's kindness was to <HI>Da∣vid</HI>
+in the time of his Glories, we must a little look
+upon him in his fall, in his lowest fortunes, his wan∣derings
+in the vale of misery, or rather, in the <HI>Val∣ley
+of the shadow of Death,</HI> as his own words are.
+A misery which fell upon him when he least looked
+for it, when he conceived himself most happy, and
+on the steps of his Ascendent to the <HI>Throne of Israel;</HI><NOTE PLACE="marg">1 Sam. 16. 13.</NOTE>
+Anointed privately by <HI>Samuel</HI> in his Father's House,
+and by that art designed for the next <HI>King</HI> of the House
+of <HI>Iacob:</HI> Of great esteem amongst the people,<NOTE PLACE="marg">1 Sam. 17. 24.</NOTE> for
+taking up their quarrel against <HI>Goliah,</HI> when all men
+else fell off, and refused the combate; Amongst the
+Priests, as men that had some secret notice of the
+designation, or otherwise, beheld him as a man re∣plenished
+with the Spirit of God; Amongst the Cour∣tiers
+as a <HI>Prince</HI> of the <HI>Royal Family,</HI> in being mar∣ried
+unto <HI>Mich<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>l</HI> his Master's Daughter;<NOTE PLACE="marg">1 Sam. 28. 28.</NOTE> Amongst the
+Military men for his singular valour made known in
+many fortunate skirmishes against the <HI>Philistims,</HI><NOTE PLACE="marg">1 Sam. 18. 27.</NOTE> two
+hundred of whose fore-skins he brought back with
+him for a sign of his Victory; And, finally, amongst
+the <HI>Damosels</HI> or Ladyes of <HI>Israel,</HI> for his personal
+gallantry, who <HI>playing</HI> on <HI>their Musical</HI> Instruments,
+did use to answer one another, saying, That <HI>Saul
+<PB N="6" REF="6"/>
+had slain his Thousands,</HI><NOTE PLACE="marg">1 Sam. 18.</NOTE> <HI>and</HI> David <HI>his Ten Thou∣sands.</HI></P>
+<P>5. But, <HI>Eminentis fortunae comes est invidia,</HI> said
+the Court-Historian. This general applause and those
+publique honours, made him a fit subject for as great
+an envy; and drew upon him the displeasure of that
+mighty Tyrant, who looked not only on him as his Ri∣val
+in pursuit of glory, but a competitor with the
+Princes of the house of <HI>Kish</HI> for the Regal Diadem.
+And being once possessed with these <HI>fears</HI> and <HI>jea∣lousies,</HI>
+he thinks of nothing but to bring him to a swift
+destruction;<NOTE PLACE="marg">1 Sam. 19.</NOTE> and to that end incenseth all his servants
+to conspire against him,<NOTE PLACE="marg">1 Sam. 19. 1.</NOTE> reproves his daughter for
+not betraying her husband to his rage and fury, and
+darts a Javelin at his own son <HI>Ionathan</HI> for daring
+to affect the man whom his father hated.<NOTE PLACE="marg">1 Sam. 20. 33.</NOTE> No safety
+being to be found for <HI>David</HI> in or neer the Court,
+he must be take himself to places more remote and pri∣vate;
+and in his flight obtains both Arms and Victuals
+from <HI>Abimelech,</HI><NOTE PLACE="marg">1 Sam. 21. 6, 9.</NOTE> being at that time the <HI>High Priest</HI> of
+the <HI>Iewish</HI> Nation. For which small courtesie <HI>Abimelech</HI>
+himself, and more then fourscore of the Priests, such
+as <HI>did wear a linnen Ephod,</HI> as the Text informs us,
+were miserably slaughtered by the hands of <HI>Doeg</HI> a ma∣litious
+<HI>Sycophant;</HI><NOTE PLACE="marg">1 Sam. 22. 18, &amp;c.</NOTE> their City sacked, their Wives and
+Children smitten with the edge of the Sword; <HI>their
+Sheep, their Oxen, and their Asses,</HI> together with the
+rest of their goods and substance,<NOTE PLACE="marg">1</NOTE> given over for a
+prey to their Barbarous Enemies. Poor <HI>David</HI> in the
+mean time had retired to <HI>Akish</HI> the <HI>King of Gath,</HI><NOTE PLACE="marg">1 Sam. 21. 10.</NOTE> and
+consequently the old Enemy of his native Countrey,
+<PB N="7" REF="6"/>
+where he could promise to himself no great hopes
+of safety, considering those many sorrows and that
+foul dishonour he had wrought unto them in the death
+of their Champion.</P>
+<P>6. I should both tire my self and afflict your pa∣tience,
+if I should lead him back again to the land
+of <HI>Iudah,</HI> follow him there in all his wanderings,
+from thence wait upon him to the Court of <HI>Moab,</HI>
+where he was forced to leave his Parents, that he
+might save them from the fury of the present Army.<NOTE PLACE="marg">1 Sam. 22. 3.</NOTE>
+And he might rather choose to leave them in that
+Countrey then in any other, by reason of his Descent
+from <HI>Ruth,</HI> a <HI>Moabitish</HI> woman, as the Scripture tells
+us; and therefore like to find some favour amongst
+those of her kindred. But look upon him where
+we will, either in the cave of <HI>Adullam,</HI> the wilder∣ness
+of <HI>Ziph,</HI> the Desarts of <HI>Mahum,</HI> or the Rocks and
+Mountains of <HI>Engeddi, (Inter Serpentes aprosque avi∣d<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>sque
+Leones),</HI><NOTE PLACE="marg">1 Sam. 23.</NOTE> and we shall find him no where
+safe from the hand of his Enemies as long as he conti∣nued
+in the Realm of <HI>Israel.</HI><NOTE PLACE="marg">1 Sam. 23. 20.</NOTE> The <HI>Keylites,</HI> whom he
+had redeemed from the power of the <HI>Philistims,</HI> re∣solved
+to have betrayed him to the malice of <HI>Saul,</HI>
+had he not been fore-warned by God of their ill in∣tentions.
+The men of <HI>Ziph,</HI> more savage then the wild
+Beasts in all those Desarts, had entertained the like de∣sign,
+but were as happily prevented as the treacherous
+<HI>Keylites. Nabal</HI> the churl, whose flocks had been pro∣tected
+by him from all Thieves and Robbers refused to
+gratifie him with some part of that superfluity which
+was provided for his Sheerers.<NOTE PLACE="marg">1 Sam. 25. 11.</NOTE> And though his Bre∣thren,<NOTE PLACE="marg">1 Sam. 22. 1.</NOTE>
+<PB N="8" REF="7"/>
+and some few of his next Relations had re∣paired
+unto him; yet, generally, his friends and kin∣dred
+look upon him as a man forlorn, whom they
+could neither privately supply without manifest dan∣ger,
+nor openly relieve without certain ruine.</P>
+<P>7. And yet he was not so deserted,<NOTE PLACE="marg">1 Sam. 27. 2.</NOTE> but,<NOTE PLACE="marg">1 Sam.
+22. 2.</NOTE> that some
+companies resorted to him from all parts of the
+Realm, either to mend their own condition, or to
+sweeten his. Not altogether men of such desperate
+fortunes as <HI>Nabal</HI> the old churl reported, and per∣haps
+believed. Some of them, questionless, might be
+persons no less eminent both for place and quality, as
+for their good affections to him; though generally
+they were (as the Scripture telleth us) either is <HI>debt</HI>
+or <HI>discontent,</HI> or some great <HI>distress;</HI> that is to say,
+such as were either <HI>discontented</HI> with the Tyranny of
+the present Government, or were <HI>indebted</HI> to some
+cruel and unmerciful creditors, from whom they could
+expect no favour, and as little Justice; or, in a word,
+were otherwise <HI>distressed</HI> upon some suspition, that
+they were wedded to the Interest of the son of <HI>Iess.</HI>
+The taking of these few <HI>Volunteers for a guard to
+his person,</HI> is publiquely declared to be the <HI>Levying
+of a War</HI> against the King;<NOTE PLACE="marg">1 Sam. 29. 8.</NOTE> and all the Forces of the
+Realm must be forthwith armed to suppress those
+men, who were not able to withstand the twelfth part
+of a Tribe.<NOTE PLACE="marg">1 Sam. 27. 2.</NOTE> This drives him once again to the Court
+of <HI>Akish,</HI> where he found better entertainment then
+he did before, because he came accompanyed with
+a Train of couragious followers; from whom the Bar∣barous
+King assured himself of no mean assistance
+<PB N="9" REF="7"/>
+in his next Wars against his Neighbours, without
+excepting those of the house of <HI>Israel.</HI></P>
+<P>8. But now the Tide begins to turn, and a strong
+floud of mercies of flow in upon him. As there is
+no deep Valley, but neer some high Mountain; so,
+neer unto this Vale of Misery was a Hill of Mercy,
+and we shall see him climb the top of it without any
+great difficulty. <HI>Akish</HI> beholds him as a person
+so depressed and injured by the power of <HI>Saul,</HI> that
+no reconciliation could be made between them;
+and thereupon bestows upon him the strong Town
+of <HI>Ziglag,</HI> to serve for him and his adherents as a
+<HI>City of Refuge,</HI><NOTE PLACE="marg">1 Sam. 27. 6.</NOTE> to which his party might resort upon
+all occasions. And for his better welcome thither,
+the news of <HI>Saul's</HI> uncomfortable, but unpittied death,
+is swiftly posted to him on the wing of Fame; which
+opened the first passage to him for the Crown of <HI>Is∣rael.</HI>
+For now there dayly came unto him many men
+of note and merit, whose names are on record in the
+Book of <HI>Chronicles,</HI> affirmed there <HI>to be mighty men,</HI><NOTE PLACE="marg">1 Chr. 12. 1, &amp;c.</NOTE>
+experienced in the use of Arms, Captains of Hun∣dreds
+and of Thousands, and such as seemed to carry
+Victory in their very countenances.<NOTE PLACE="marg">1 Chr. 12. 22.</NOTE> And they came
+thither in such numbers as they made up a <HI>great
+Host like the Host of God,</HI> (as the Scripture calls it)
+that is to say, a puissant and mighty Army, fit for
+the undertaking of the noblest actions. By whose
+incouragement, but chiefly at the instigation of the
+men of <HI>Iudah,</HI> who had repaired to <HI>Ziglag,</HI> amongst
+the rest; he goes up to <HI>Hebron,</HI><NOTE PLACE="marg">2 Sam. 2. 1, 4.</NOTE> the Principal City of that
+Tribe, having first taken Gods direction &amp; commission
+<PB N="10" REF="8"/>
+with him. There he is cheerfully received, and
+<HI>anointed</HI> King, King only over <HI>Iudah,</HI> his own native
+<HI>Tribe,</HI> the rest of <HI>Israel</HI> still adhering to the house of
+<HI>Saul.</HI> For, <HI>Abner</HI> Captain of <HI>Saul</HI>'s Host, and one
+as neer to him in bloud, as in place and power, had
+gained so far upon the Military men,<NOTE PLACE="marg">1 Sam. 14. 50.</NOTE> that they agreed
+to set the Crown upon the head of <HI>Ishbosheth,</HI><NOTE PLACE="marg">2 Sam. 2. 8, 9.</NOTE> the
+eldest of <HI>Saul</HI>'s Sons which survived his Father: And
+this he did, not on design to divide the Kingdom, to
+break it into two, and set up Scepter against Scepter,
+as <HI>Ieroboam</HI> and on the death of <HI>Solomon;</HI> but, with
+a purpose to compel the men of <HI>Iudah</HI> by force of
+Arms to cast off <HI>David,</HI> to unite themselves to the
+rest of <HI>Israel,</HI> and all together to be subject to a
+Prince of the house of <HI>Saul.</HI> A Prince indeed of no
+great parts, affirmed to be a person of a dull and un∣active
+spirit, more given to ease and pleasures, then
+to deeds of Arms, <HI>&amp; magis extra vitia quam cum vir∣tutibus,</HI>
+in the words of <HI>Tacitus:</HI> but fit enough to
+bear the Title of a King, whilest <HI>Abner</HI> and the Soul∣diers
+managed all affairs as to them seems best.</P>
+<P>9. This brings new troubles upon <HI>David,</HI> though
+they held not long. A breach is made between the
+new King, and that great Commander; Who being impatient of rebuke, and netled with some words
+which escaped his Master,<NOTE PLACE="marg">2 Sam. 3. 8.</NOTE> resolves upon delivering
+the whose Kingdom to the hands of <HI>David:</HI> to which
+end he maintains a Treaty with him, and concludes
+the business. But, before all things could be setled,
+the <HI>Titulary</HI> King is murthered by the two sons of
+<HI>Rimmon,</HI><NOTE PLACE="marg">2 Sam. 4. 2.</NOTE> both of them Captains in his Army, both</P>
+<P><PB N="11" REF="8"/>Natives of the <HI>Tribe</HI> of <HI>Benjamin</HI> (his Fathers Tribe)
+and possibly both of them of some kindred and rela∣tion
+to him. This puts an end unto the war; the west
+of <HI>Israel</HI> seconding the Tribe of <HI>Iudah,</HI> and altogether
+calling upon <HI>David</HI> to accept the Government. To
+which end they <HI>annoynt</HI> him the third time, and own
+him by that Sacred Ceremony for their Soveraign
+Prince. And such as Prince as must have somewhat in
+him of the Priest, and the Prophet also. For, <HI>Rex est
+mixta persona cum Sacerdote,</HI> as our Lawyers tels us,
+and capable on that account of the <HI>Sacred Unction</HI>
+(if some of our <HI>Masters of the Ceremonies</HI> have not been
+mistaken). But so it was, that those of <HI>Benjamin</HI> could
+not so easily forget their late pretentions to the Crown
+of <HI>Israel,</HI> which they had held successively under two
+great Princes, and therefore came not up to <HI>Hebron</HI>
+with the rest of the Tribes, to confer the Kingdom
+upon <HI>David,</HI> but to obtain it for themselves (as <HI>Iose∣phus</HI>
+telleth us).<NOTE PLACE="marg">Antiq. Iud. lib. 7. cap. 2.</NOTE> A secret not to be concealed from
+<HI>David</HI> a discerning Prince, and one that was well
+studied in his own concernments. Who therefore to
+cut off their hopes, and prevent their practises, re∣solves
+to get into his hands the strong City of <HI>Sion.</HI>
+Which standing in a corner of the <HI>Tribe</HI> of <HI>Benja∣min,</HI>
+might serve for a sufficient bridle to hold them
+in, if they should practise any thing against his quiet
+for the time to come. And being afterward inlarged
+at the charge of <HI>David,</HI> by taking in the City of <HI>Sa∣lim,</HI>
+and building all from <HI>Millo</HI> inward (as the Scri∣pture
+telleth us) he caused it to be called <HI>Hierusalem,</HI>
+peopled it with such Families as he might confide in,
+and made it from thenceforth the chief seat of his <HI>Royal
+<PB N="12" REF="9"/>
+Residence.</HI> Never till now was <HI>David</HI> setled in the
+<HI>Kingdom,</HI> and now he growes considerable in the eyes
+of all forain <HI>Princes,</HI> who <HI>court</HI> him, and send <HI>presents</HI>
+to him, and trie all means imaginable to obtain his
+favour.</P>
+<P>10. And thus the <HI>Scepter</HI> promised to the Tribe of
+<HI>Iudah</HI> is put into the hands of <HI>David</HI> the Son of <HI>Iesse,</HI>
+one of the chief Princes of that Tribe. And all this
+done at such a time, when they had all the reason in
+the world to fear the contrary. The Government
+having passed through many Tribes, from <HI>Moses</HI> of the
+race of <HI>Levi,</HI> to <HI>Ioshua</HI> the Son of <HI>Nun</HI> of the seed of
+<HI>Ephraim,</HI> and so from one Tribe to another, until
+it came to <HI>Saul</HI> of the stock of <HI>Benjamin.</HI> And this
+may seem to have been done for these reasons chiefly:
+First, That the Tribe of <HI>Iudah</HI> might not claim the
+Kingdom otherwise then by Gods donation, as possibly
+they might have done, if they had entred on the Go∣vernment,
+upon the death of <HI>Moses,</HI> by any Military
+Vote, or Popular election, or in relation to that <HI>Pri∣mogeniture,</HI>
+which was vested in them by the last Will
+and Testament of their Father <HI>Iacob.</HI> And 2<SUP>ly</SUP>, It
+was so done, that the people being sensible of the in∣conveniences
+of the former Government, the miseries
+which they had indured in the times of <HI>Anarchie,</HI> and
+the extremities which they had been reduced to, in the
+Reign of <HI>Saul;</HI> might with a greater cheerfulness im∣brace
+a Prince of the Royal Family, whom God
+had so miraculously preserved, and commended to
+them.</P>
+<P><PB N="13" REF="9"/>11. And it may seem to have been kept so long
+from <HI>David,</HI> for two Reasons also: First, that he be∣ing
+trained up in the School of experience, and ham∣mered
+on the Anvile of Affliction, might be the bet∣ter
+qualified for mannaging all affairs of State, then
+if he had been educated in the pride and pleasures of a
+Princes Court. And, Secondly, it was so disposed
+of, that, being to be married to the Realm of <HI>Israel;</HI> he
+might more passionately long to in<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>oy his Spouse, then
+if she had cast her self into his imbraces at the first
+making of the Contract. And this was done accor∣ding
+to the custome of the <HI>Iewish</HI> Nation, who use
+to place some fitting and convenient interval, be∣twixt
+the Espousal and the Wedding, for which
+St. <HI>Austin</HI> gives this reason,<NOTE PLACE="marg">August. in Con∣fes. lib. 8. cap. 2.</NOTE> <HI>Ne vilem habeat maritus
+datam, quam non suspiravit sponsus dilatam;</HI> for fear
+(saith he) lest otherwise the Bridegroom might despise
+her in the first fruition, for whom he had not longed
+with some vehement passion. But being longed for,
+and long looked for, they are met at last, to the full
+comfort of both parties, the pleasure of Almighty
+God, and the joy of the Nation.</P>
+<P>12. Such was Gods kindness unto <HI>David,</HI> expressed
+in his marvellous <HI>preservation,</HI> when he was com∣passed
+round about with invincible dangers; his <HI>ex∣altation</HI>
+to the Throne, from keeping sheep, <HI>to be the
+Shepherd of his people;</HI> and therefore not a <HI>kindeness,</HI>
+a <HI>great kindeness,</HI> only; but, <HI>misericordia mirabilis</HI> (in
+St. <HI>Hieroms</HI> reading) a <HI>marvellous great kindeness,</HI> as
+my Text assures me. For, what particular is there in
+<PB N="14" REF="10"/>
+all this kindeness which is not marvellous, <HI>mirabile in oculis nostris,</HI>
+as marvellous in our eyes as it was
+in his ? And not a <HI>marvellous kindeness</HI> only; but, <HI>mi∣serecordia
+mirifica,</HI> a <HI>kindness which wrought wonders,</HI>
+as <HI>Tremelius</HI> reads it. What can it else be thought,
+but a singular miracle that God should for so many
+years preserve this poor fugitive Prince, both from
+the treachery of his friends, and the power of his
+enemies; that he should finde more favour in the
+Land of <HI>Moab,</HI> then he durst hope for in the place of
+his birth and breeding; that men from all parts of
+the Kingdom should resort unto him, when he had
+neither Town of War to secure their persons, nor any
+stock of money and provisions to maintain their Fa∣milies;
+That <HI>Akish</HI> and the men of <HI>Gath,</HI> should lay
+aside their animosities against him for the death of
+<HI>Goliah,</HI> and put into his hands a piece of such strength
+and consequence, as might inable him to create unto
+them a far greater mischief?</P>
+<P>13. And was it not as great a miracle, if it were
+not greater, that <HI>Saul</HI> should come to such a miserable
+and calamitous end, without ingaging <HI>David</HI> in a rui∣nous
+and destructive War, against those men which
+were designed to be his Subjects? That God should
+so incline the hearts of the men of <HI>Iudah,</HI> as to ac∣cept
+him for their King, and thereby to involve them∣selves
+in a tedious War; when all the rest of the
+Tribes adhered still to <HI>Abner,</HI> and the Sons of <HI>Saul:</HI>
+That God was pleased to make to use of any of
+<HI>Davids</HI> party for the destruction of <HI>Sauls</HI> house, but
+acted that great work by <HI>Abner</HI> and the Sons of <HI><GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/>,</HI></P>
+<P><PB N="15" REF="10"/>being the Kings near kinsmen and his chief Com∣manders:
+That all the Tribes of <HI>Israel</HI> should unite
+together to set and Crown upon his head, whom they
+had formerly pursued from one place to another, till
+they had forced him to take Sanctuary in a forain Nati∣on:
+That all this should be done without noyse or
+trouble; more then the noyse of joyful shouts and
+acclamations, and the short trouble of an easie, though
+a martial, progress: That there should be so few men
+killed on either side, between the death of <HI>Saul,</HI> and
+the Crowning of <HI>David;</HI> and, that God should put
+into his hands the strong, Fort of <HI>Sion,</HI> which neither
+<HI>Saul,</HI> nor any of the Judges, nor <HI>Ioshua</HI> himself, nor
+<HI>Gideon,</HI> nor <HI>Ieptha, Duo Fulmina belli,</HI> the veriest
+Thunder-bolts of War, had before attempted.</P>
+<P>14. And yet the <HI>kindeness</HI> was the greater, and
+the more miraculous, considering that it was exten∣ded
+to spiritual mercies, and not confined to tem∣poral
+preservations, and external benefits. For not∣withstanding
+the horrid murther of <HI>Abimelech,</HI> the
+terrible massacre of so many Priests, and the unmerci∣ful
+sacking of the City of <HI>Nob; Abiathar</HI> the next
+High-priest, and many others doubtless, of that Sacred
+Order, joyned themselves unto him. <HI>Abiathar</HI> was
+too great a person, and too well beloved, not to
+bring some attendants with him; and, who more like
+to bear him company then the <HI>Priests</HI> and <HI>Levites?</HI>
+Not so much out of care to preserve themselves, as
+to do service unto him whom the Lord had chosen.
+By means whereof, not only he; but, all his followers,
+were instructed in the things of God: and thereby kept
+<PB N="16" REF="11"/>
+from-being any way infected with those gross Idola∣tries,
+which were predominant in <HI>Moab</HI> and the Court
+of <HI>Gath.</HI> Than which there could be nothing more
+conducible to his future advancement, or which
+could more indear him to the <HI>Iewish</HI> Nation; when
+they came once to be assured, that neither flatteries
+could intice him, nor great threats affright him, nor
+hope of promised aid allure him, from standing fast
+to the Religion of his Fathers, to the Law of <HI>Moses.</HI>
+And more then so,<NOTE PLACE="marg">1 Sam. 23 6.</NOTE> <HI>Abiathar</HI> brought along with
+him the <HI>sacred Ephod,</HI> by which the High-priest used
+to consult with God, and to enquire his will and
+pleasure in all difficult cases. The want whereof,
+necessitated the unhappy Tyrant to have recourse for
+counsel to the Witch of <HI>Endor,</HI> as if he had been
+forced upon that desperate resolution in the antient
+Poet, (<HI>Flectere si nequeo superos, Acheronta movebo</HI>)
+that since he could not move the Gods, he would trie
+the Devil.</P>
+<P>15. Nor was all this a <HI>kindeness</HI> only, or a <HI>great
+kindeness,</HI><NOTE PLACE="marg">☞</NOTE> as the old Translation, and <HI>misericordia mi∣rabilis,</HI>
+a <HI>marvellous great kindeness,</HI> in the eyes of all
+men; but, it was <HI>misericordia sua,</HI> the Lords own
+kindeness, &amp; <HI>factum Domini,</HI> the Lords own doing; to
+which, no humane prudence could pretend a title. This
+<HI>David</HI> understood, none better. And therefore at∣tributes
+his safety and deliverance to the Lord alone,
+<HI>Ipse sit licèt magna unique cura &amp; industria usus,</HI><NOTE PLACE="marg">Muscul. in Psal. 31.</NOTE>
+(as <HI>Musculus</HI> hath night-well observed), though he
+himself had used all possible industry and care▪ for
+his own preservation. He had his <HI>agents</HI> and <HI>intel∣ligeneers</HI>
+<PB N="17" REF="11"/>
+in the Court of <HI>Saul,</HI> to give him notice of
+the secret purposes of his mortal enemy; He enter∣tained
+<HI>Abiathar</HI> in a place both of trust and nearness,
+that by his means he might maintain a correspon∣dence
+with the rest of that Order. And when neces∣sity
+compelled him to ingage in battail, he sent out
+<HI>Ioab,</HI> (a man of most undaunted courage) to incoun∣ter
+<HI>Abner,</HI> with whom he was competitor for the Palm
+of victory. More providence and care could no man
+use then <HI>David</HI> did; and yet, he calleth it, <HI>misericor∣diam
+Domini,</HI> only Gods mercy, and his <HI>marvellous
+kindeness,</HI> by which he was preserved in the day of
+trouble.</P>
+<P>16. And so indeed it was; meerly Gods mercy,
+and his marvellous great kindness, by which he was
+preserved in the dayes of <HI>Saul,</HI> and raised to the Throne
+of <HI>Israel</HI> on the death of <HI>Ishbosheth.</HI> For what could
+<HI>David</HI> have effected with all his diligence, had not
+God secretly forwarned him of those dangers which
+were near at hand; or what advantage could <HI>Abia∣thars</HI>
+discoveries have procured unto him, had not God
+sent the spirit of <HI>infatuation</HI> amongst the Princes of
+<HI>Sauls</HI> house; supplanted their designes, and turned
+<HI>their wisdom into foolishness?</HI> Or, what could <HI>Ioab</HI>
+with all his valour have atchieved against so many
+enemies, had not God broken them in pieces, had not
+God throwen amongst them such a Ball of discord,
+such a <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, as made them turn their Swords
+upon one another. In which dissention the <HI>Royal No∣thing</HI>
+is dispatched on his bed of ease, and dispossessed
+at once both of Crown and Life, before he had served
+<PB N="18" REF="12"/>
+out his Indentures in the Trade of Government;
+which also must be <HI>factum Domini,</HI> the Lord's doing
+only, as to the ordering, permitting, and disposing of
+it; though <HI>Abner</HI> and the sons of <HI>Ri<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>mon</HI> had their
+own vile ends. For, who but God could turn his own
+Sword upon him, and so <HI>infatuate</HI> the Counsels of
+his chief Commanders, as to contrive the ruines of
+their nearest kinsman, by whose sole power they stood,
+and might have longer stood (in all apparent probabili∣ty)
+in their former greatness.</P>
+<P>17.<NOTE PLACE="marg">Psal. 127. 1.</NOTE> <HI>Except the Lord doth keep the City</HI> (saith the
+Royal Psalmist) <HI>the watchman watcheth but in vain.
+Except the Lord doth build the house, their labour is but
+lost that build it.</HI> What then? Shall then the Workman
+play,<NOTE PLACE="marg">Origen. in Rom▪ cap. 9.</NOTE> and the Watchman sleep? Not so, saith <HI>Origen,
+<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>mpendant ipsi, quantum in se est, laboris et sollicitudi∣nis,
+&amp;c.</HI> Let them continue their indevours in the name
+of God, and let the Watchman watch, and the Work∣man
+labour. Though God be all, and that our safety
+is from him, and from him alone; yet, he hath told us,
+that <HI>the lazie person shall not eat;</HI> and, <HI>the careless
+person shall not prosper: It is the hand of the diligent
+which maketh rich; and he becometh poor that dealeth
+with a slack hand,</HI> (faith the wiseman <HI>Solomon</HI>). God
+in the ordering and disposing of humane affairs, is
+like the Pilot in a Ship; It is the Pilot only which
+doth steer and guid the Vessel, and bringeth it safe into
+the Haven; yet, it is expected that every several Ma∣riner
+do discharge his duty, and yield obedience to the
+whistle of the Boat-swain.</P>
+<P><PB N="19" REF="12"/>18. But on the other side, it is not therefore to
+be thought, that we may warrantably intitle either
+our industry, or strength, or wisdom to the rights of
+God. <HI>The wisdom of the wise (saith Paul)</HI> is it not
+foolishness with the Lord? <HI>What Man is there</HI> (saith
+<HI>David) that can save himself by his much strength;
+Yea, or by taking thought</HI> (saith the Son of <HI>David) can
+add one cubit to his stature.</HI> Man purposeth, but God
+disposeth: And, when we have most spent our spirits,
+and consumed our bodies in the well ordering of our
+fortunes; yet, it is all in vain, and fruitless, and of no
+effect <HI>except the Lord, even our own God, doth give us
+his blessing.</HI> Ascribe we therefore to the Lord, the
+glory of his own exployts; and let us not presume to
+say in any of our prosperous actions, that, This my
+own right hand hath done, or my wit effected. Though
+<HI>David</HI> did as much as care and wisdom could per∣form
+for his own security; yet he refers it all to God,
+and reckons it His mercy only, and his marvellous
+kindeness whereby he was preserved from danger,
+made Master of <HI>Hierusalem,</HI> and setled, after all his
+troubles, in so strong a City.</P>
+<P>19. <HI>In a strong City.</HI> That's the next. <HI>In civitate
+munita,</HI> In a fenced City, saith the Latin. <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>,
+a City walled and ditched about, as the Greek
+Text reads it. <HI>In civitate robusta &amp; firmata,</HI> A City
+strong in men, and as strongly fortified, in St. <HI>Hierom's</HI>
+Gloss. Only <HI>Tremelius,</HI> with some notable difference
+from all men else, doth translate it thus: <HI>Benedictus
+Dominus,</HI> Blessed be the Lord for she hath shewed his
+<PB N="20" REF="13"/>
+marvellous kindeness to me in as great a measure, <HI>ut in
+civitate munita collocans me,</HI> as if he had inclosed and
+kept me safe in a Town of War, as if I had been bil∣lited
+and strongly garrison'd in a Fort and City. Tis
+true indeed, Gods mercy is the surest Hold, to which we
+may commit our safety; the strongest <HI>Castle of defence,</HI>
+to which we may intrust our persons. A fortress against
+all our foes; an <HI>Antidote</HI> against all Plagues; a Remedy
+against all Diseases. He that is so defended, need no
+other Arms.<NOTE PLACE="marg">Horat.</NOTE> <HI>Non eget Mauri Iaoulis, nec arcu;</HI> Not
+shield, nor bow, nor poysoned arrows. Gods mercy
+is all kinde of weapons to him, both for annoyance and
+defence. No armour is so sure of proof, but it may
+be broken; nor Town so strong, but may be taken;
+nor wals so high and close, to keep our contagion.
+Put if Gods mercy doth protect us, and his power
+defend us; if we be compassed round about with
+his deliverance, as with a wall; we will not be affraid
+through war, and poverty, and sickness, do conspire
+against us. For we are sure that then we are in such
+a City, which neither enemy can force, nor want of
+trade impoverish, nor disease infect. <HI>Deus meus &amp;
+omnia.</HI> Let God be mine, and I am strong enough
+against all the world, against all violence, against all
+practices, against all misfortunes. I could inlarge my
+self on this general <HI>Topick</HI> as to the moral of my Text,
+but that I am to keep my self to the <HI>literal sense,</HI>
+to the <HI>strong City</HI> herein meant by the <HI>Royal Psal∣mist.</HI></P>
+<P>20. And if I keep my self to the <HI>literal sense,</HI> we
+must inquire what City is here meant by <HI>David.</HI> And
+<PB N="21" REF="13"/>
+we shall finde upon a very short inquiry, that it was
+either <HI>Ziglag, Hebron,</HI> or <HI>Hierusalem,</HI> and the last
+most likely. St. <HI>Austin,</HI> and St. <HI>Hierome,</HI> so resolve
+for certain, with whom the Moderns do agree, as to
+that particular; all telling us, That God declared his
+<HI>marvellous</HI> mercies unto <HI>David,</HI> by setling his affairs,
+<HI>in Civitate Ierusalem,</HI> in the <HI>strong City</HI> of <HI>Hierusa∣lem,</HI>
+in the Fort of <HI>Sion.</HI> For there he found an end
+of his former sorrows, thither he brought the <HI>Ark,</HI>
+to that place he removed the <HI>Trabernacle,</HI> and there
+did he fix his <HI>Royal Palace,</HI> with the <HI>Courts of Iustice,</HI>
+and thereby drew unto it, by degrees, all the wealth
+of the <HI>Kingdom;</HI> and there he reigned in greater glo∣ry
+and renown, then any of the Kings and Princes
+which were round about him.</P>
+<P>21. Now Cities are accounted strong in two re∣spects:
+first, in the strength of situation, or of art;
+and next in the multitudes and natural courage of the
+people: and in both these <HI>Ierusalem,</HI> as it flourished
+in the time of <HI>David,</HI> might worthily be called a
+<HI>strong City,</HI> (as indeed it was) <HI>Civitas munitissima,</HI>
+as my Author hath it. For first, it was well situated
+and strongly fortified, three Towns in one of them
+seated on steep Hills, and all of them invironed with
+high Walls, strong Bullwarks, and unpassable Ditches:
+But none to be compared with the City of <HI>Sion,</HI> which
+made the <HI>Iebusites</HI> presume so far upon the strength
+of the place, that, in contempt of <HI>Davids</HI> Forces, they
+mann'd their walls with none but their <HI>blind</HI> and <HI>lame,</HI><NOTE PLACE="marg">A<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>iq. Iud ic. <GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/>. 7. chap 3.</NOTE>
+as <HI>Iosephus</HI> tells us▪ and then sent word, (whether with
+greater pride or folly, it is hard to say) that except
+<PB N="22" REF="14"/>
+he took away the blind and the lame, he could not
+come thither. Which was to tell him in effect, that
+those poor wretches were sufficient to make good
+the Fort against all his Army, and therefore must be
+first removed, before he could expect to be Master of it.
+<Q>Such confidence, saith he, they had in their Walls and
+Trenches, that they conceived them able, without
+further help to keep out the Enemy.</Q></P>
+<P>22. But Walls, we see by this example, are but
+simple strengths, if there be any want of people, or
+in the people any want of <HI>courage</HI> to make good the
+place. The honour of a King consists not in the
+strength of Towns, and frequency of Garrisons; but
+in the multitude, and courage, and good affection of
+his Subjects. Kings are then safest, when they trust
+rather to their <HI>Castles of bones,</HI> then <HI>their Castles of
+stones;</HI> according to the <HI>Aphorism</HI> of Sir <HI>Henry Sa∣vage,</HI>
+an old <HI>English</HI> Souldier. <HI>Lycurgus</HI> also seemed
+to be of the same opinion, when he prohibited the
+<HI>Spartans</HI> to immure their City, or to use any of the
+Arts of Fortification. And in this sense <HI>lerusalem</HI> was
+strong; because it was as populous, and no less ca∣pacious,
+then either <HI>Nineveh,</HI> or <HI>Babylon,</HI> or <HI>Eckba∣tana,</HI>
+or any other Cities in the Eastern Countries.
+So populous, that at the siege thereof by <HI>Titus,</HI> there
+perished by the Sword and Famine of all sorts and
+sexes,<NOTE PLACE="marg">loseph. de <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ello. Iud. lib. 7. c. 17.</NOTE> 1100000. and above, as <HI>Iosephus</HI> telleth us.
+And so prodigiously capacious, that once the High-Priest
+(at the request of <HI>Cestius</HI> a <HI>Roman</HI> President)
+numbering the people which came thither to observe
+the Passover,<NOTE PLACE="marg">Id. ibid.</NOTE> found them to be <HI>two millions and se∣ven
+<PB N="23" REF="14"/>
+hundred thousand</HI> men (besides women and chil∣dren)
+all sound and purified, and fitted by the Law for
+that Sacred Ceremony. A number numberless, and
+not indeed to be believed, were not <HI>Iosephus</HI> gene∣rally
+reckoned for a true Historian, <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>,
+as the good Father, <HI>Iustin Martyr,</HI> hath assured us
+of him. And though these numberings of the peo∣ple
+in that mighty City happened long after <HI>David</HI>'s
+time; yet the City after <HI>David</HI>'s time received small
+inlargements. Ten of the Tribes revolting on the death
+of <HI>Solomon,</HI> and never afterwards returning to the
+Kings of <HI>Iudah.</HI></P>
+<P>23. As for the courage of the People, and Inha∣bitants
+of it, in the time of <HI>David;</HI> we may conceive
+it equal at the least, if it were not greater, then
+that of their posterity in the times succeeding. Which
+was so eminent, that he which reads the Story of their
+final ruine, when besieged by <HI>Titus,</HI> will find the
+<HI>Romans</HI> so put to it, that they never purchased any <HI>Ci∣ty</HI>
+at a dearer rate. And hereupon may say in the word
+of <HI>Iustin, Et tanta animorum virtus fuit, &amp;c.</HI> That
+though they had just cause at all times to despair of
+safety; yet, for the most part, they presumed, and
+came off with safety, till God was pleased to give
+them over for a prey to the Sword of their Ene∣mies.</P>
+<P>24. And yet there might be somewhat in it, which
+more assured <HI>David</HI> of his peace and happiness, than
+either the Courage of the people, or the Strength of
+the place; which was their good Affection and fide∣lity
+<PB N="24" REF="15"/>
+to him. And this appears plainly by their car∣riage
+towards him, when he was forced to give way
+to the Treason of <HI>Absolom.</HI> For, when he left them
+to the power of the Enemy, the people followed
+him in great <HI>numbers,</HI> to express their loyalty; and
+followed him in tears, to express their affection. So,
+as it cannot be affirmed, that either they betrayed,
+or forsook their King: but, that the King rather in a
+Royal pity did withdraw from them; left otherwise
+he might have brought some evil on the City, as the
+Text informs us. Lay all that hath been said, toge∣ther,
+of the strength of this City, and we shall find,
+that <HI>David</HI> had good reason to extol Gods Name for
+giving him possession of a place so strong, so popu∣lous,
+and so replenished with a loyal and couragi∣ous
+people.</P>
+<P>25. And thus I have run over all the parts of my
+Text, as they declare God's <HI>marvellous</HI> kindness unto
+<HI>David;</HI> so, that it can be no hard matter to remove
+the <HI>vail,</HI> and to behold the face of our own affairs,
+the mercies of this day, and the glories of it. A day
+in which we solemnize the memory of as great a
+kindness; a kindness as remarkable in respect of the
+Person, as marvellous in its own condition, no less
+peculiar to the Lord as the Author of it, and in a
+place as notable, our Principal City, our strongest
+City of descence. To which, by Gods assistance, and
+your Christian Patience, I shall now proceed, and
+then descend unto the duties of the dayes, where we
+shall meet with <HI>David</HI>'s thankfulness, and our own to boot.</P>
+<P><PB N="25" REF="15"/>26. <HI>Et, De quo loquitur Propheta, vel populus fidelis?</HI>
+And in this place may be asked in the <HI>Eunuch</HI>'s words,
+<HI>Of whom here speaks the Prophet, either of himself, or of
+some other?</HI> Not of himself alone saith <HI>Cassianus,</HI> an old
+Christian Writer, but in behalf of all Gods children, of
+his faithful servants. The Books of <HI>Psalms</HI> is so compo∣sed
+saith <HI>Athanasius,</HI><NOTE PLACE="marg">Athanas. in E∣pist. ad Mar. in Tom. 3.</NOTE> that every man may read his own
+Story in them, and find therein his own particular
+concernments; and that as punctually, as if the pur∣pose
+of the Psalm had been addressed and fitted on∣ly
+unto his occasions. Let it be so, and then, Who may
+not find the quality of our late afflictions, and our
+deliverance together in this present Psalm, and read
+the state of our affairs in the Story of <HI>David;</HI> and
+then draw down an easie and familiar parallel be∣twixt
+the Persons, and the mercies, and the places
+too? A parallel, right worthy of the pen of <HI>Plutarch,</HI>
+if any such were found amongst us; but, such as
+seems to have been done in part already, by laying
+before you <HI>David</HI>'s troubles and his great deliver∣ance.
+And therefore passing by those things which
+apply themselves, and those in which the Story of
+both Princes seems to make but one; we will observe
+the method which is used by <HI>Plutarch,</HI> in laying down
+the points in which they differ, or, those wherein
+one party seems to have preheminence above the
+other.</P>
+<P>27. First then, It may be truly said of our <HI>English
+David,</HI> as <HI>Commodus,</HI> not without vain-glory, did af∣firm
+of himself, <HI>Quem Primum Sol &amp; Principem &amp;
+<PB N="26" REF="16"/>
+hominem vidit,</HI> that he was born a Prince, and that
+the Sun did never otherwise behold him then as Heir
+to a Kingdom. Which cannot be affirmed of <HI>David,</HI>
+nor of <HI>David</HI>'s Ancestors; though all of them might
+live in expectation of obtaining that Scepter, which
+had been promised to that <HI>Tribe,</HI> in the person of
+<HI>Iudah.</HI> And as his Birth was higher, so his Fall was
+lower, and his afflictions so much greater; and the
+more insupportable, because he was more tenderly
+bred, and less able to bear them. Nay, they were
+greater in themselves then the heavyest sorrows that
+ever fell upon <HI>David</HI> in the time of his troubles; who
+kept himself most commonly unto those retreats
+which his own Countrey did afford him, and when
+he was compelled to retire to <HI>Moab,</HI> or to sojourn in
+the Realm of <HI>Gath,</HI> neither <HI>Saul</HI>'s malice, nor his
+power did pursue him there. But so it was not in the
+case of our <HI>Royal Exile;</HI> Driven out of all the Forts and
+Cities of his own Dominions, by the <HI>power</HI> of his
+Enemies; and, by their <HI>practises,</HI> not suffered to re∣main
+in <HI>France;</HI> nor to be entertained in <HI>Holland;</HI>
+compelled to shift from one Imperial City to another;
+from the <HI>Higher, to the Lower Germany;</HI> but, pursued
+in all, seldom nor never free from their trains and
+treacheries, who would not think themselves secure
+but in his destruction. <HI>Sic aquilam fugiunt trepi∣dae
+Columbae;</HI> Never was Patridge flown at with
+a swifter wing by a well-train'd Falcon, nor game
+more hotly followed, by the fiercest Hounds; than
+this poor Prince was chased by those <HI>mighty Hunters,</HI>
+those <HI>Nimrods,</HI> those <HI>Robusti Venatores,</HI> as the Scri∣pture
+calls them: who had the building of that <HI>Babel</HI>
+<PB N="27" REF="16"/>
+which they raised amongst us. They had their cun∣ning
+<HI>Lime-hounds</HI> to draw <HI>Dry-foot</HI> after him, and
+plyed the chase with all the <HI>Kennil</HI> at his Heels,
+when the Hunt was up: not with a purpose to <HI>call off</HI>
+when they had breathed their Horses or tryed their
+Dogs; but with a <HI>merciless retreat</HI> to <HI>hunt him</HI> down,
+and then to wash their cruel and accursed hands in his
+precious bloud, as is accustomed in the fall of a Buck
+of Stagg.</P>
+<P>28. And as the dangers which accompanyed our
+English <HI>David,</HI> were more transcendent in respect of
+his Sacred Person; so, were they far more grievous
+to him in respect of his party: whose <HI>tears</HI> he put
+into his <HI>bottles,</HI> whose <HI>stripes</HI> he bare on his own <HI>body,</HI>
+and whose calamities did more afflict his <HI>righteous
+Soul,</HI> then his own misfortunes. And, if we look up∣on
+his Party with an equal eye, we shall soon find
+them to have suffered more and far heavier pressures in
+his cause and quarrel, then all the <HI>Hebrew Nations</HI> did
+for the sake of <HI>David.</HI> We read indeed of 85. Priests
+slaughtered by the cruelty and command of <HI>Saul;</HI> But
+we may read of more than twenty times that number
+of our <HI>Regular Clergy;</HI> all the Bishops, Deans, and Dig∣nitaries,
+and almost all the <HI>Heads of Houses</HI> impri∣soned,
+plundered, sequestred, ejected; their wives
+and children miserably turn'd out of doors, some of
+them left for dead in the open streets. And why all
+this? but for adhering to his Majesty, and his Fa∣thers
+house, and to the Laws, and the Religion here
+established, and for no crime else. But then again, we do
+not read of any man of quality in the Tribes of <HI>Israel,</HI>
+<PB N="28" REF="17"/>
+condemned and executed, or otherwise deprived of
+Lands and Liberties, for his well wishing unto
+<HI>David.</HI> Amongst us, nothing was more common
+than the imprisoning of our choisest and most able
+Gentry, selling the Goods, confiscating the Lands,
+and calling those in question for their very lives,
+whose known fidelity was imputed to them for their
+only crime. For, now we had attained to that height
+of wretchedness, that Loyalty must pass for Trea∣son,
+and Treason must be <HI>Unicum eorum crimen qui∣vacabant
+crimine,</HI> as in the worst and most de∣plorable
+condition of the <HI>Roman</HI> Empire. And
+thereupon it was concluded in the School of <HI>Tyran∣nus,</HI>
+that they who were so prodigal of their Mo∣ney,
+Arms and Victuals to another man, especia∣lly,
+to one marked out for ruine by their mighty
+Masters, should have no bread to feed their Fa∣milies,
+or money to maintain themselves; or o∣ther
+Arms, but Prayers, and Tears, to save them from
+the violence of unjust Oppression, even from Death
+it self.</P>
+<P>29. Besides, it might be some alleviation unto <HI>Da∣vid</HI>'s
+followers, to suffer by the hands of a lawful
+King, a King set over them by God, by the Lord
+himself; whose Power they were not to resist, whose
+Person was too Sacred, and his Authority too transcen∣dent
+to be called in question. But it must be a tor∣ment
+unexpressible to a generous spirit, to be trode
+underfoot by an <HI>Adoni-bezek;</HI> to have their lives and
+Vineyards taken from them, at the will of an <HI>Ahab;</HI>
+to see the <HI>Bramble</HI> Reign as King over all the Trees
+<PB N="29" REF="17"/>
+our tallest Oakes felled down by a shrub of yester∣day;
+and all the <HI>goodly Cedars</HI> of the Church, grubbed
+up, to make room for a stinking <HI>Elder.</HI></P>
+<P>30. In the next place, as the calamities which fell
+upon <HI>our English David,</HI> and his faithful followers,
+were more in number and more grievous, then all
+those which had been suffered by the other; so was
+the kindness of the Lord more marvellous in his pre∣servation,
+the hand of God more visible in his Resti∣tution.
+And first, the kindness was more marvellous
+in his <HI>Preservation,</HI> because we do not find that <HI>David</HI>
+ever hazarded his own person in the day of Battail, but
+managed all his Wars with <HI>Abner, Absolom,</HI> and <HI>Sheba,</HI>
+by the hand of <HI>Ioab.</HI> Which gave him means and
+opportunity to provide for himself, though all his For∣ces
+had been routed, and their General taken. But our
+great Master put himself into the head of his Army,
+ventured his life for the Redemption of his people,
+charged and recharged through the thickest of his
+enemies, the first that came into the field, and the
+last that left it; and thereby gained the honour, though
+he lost the victory of the day. By what miraculous
+means he was preserved from death in that fatal
+Overthrow, and with what Loyal secrecy conveyed
+from one place to another, is not so clearly and di∣stinctly
+known as the cause deserves; &amp; therefore to be
+wished that it may publickly be declared by his Sacred
+Majesty; that God might have the glory of his own
+great Mercies, and all good men the honour of their
+brave fidelity. In the mean time, we may with piety
+believe, that he was either carryed off by God on the
+<PB N="30" REF="18"/>
+wings of Angels, so that none could reach him; or
+else inveloped round about with a cloud of darkness,
+so that none could see him,<NOTE PLACE="marg">Virgil. Aencid.</NOTE> <HI>Cernere ne quis eum,
+ne quis contingere poss it,</HI> as <HI>Virgil</HI> telleth us of <HI>Aeneas</HI> in
+the last condition.</P>
+<P>31. And then again, the hand of God was far
+more visible in his <HI>Restitution.</HI> For, was it not a <HI>mar∣vellous
+kindness,</HI> that God was pleased to preserve a
+strong party for him, which had not been infected with
+the <HI>errors</HI> and <HI>corruptions,</HI> which then reigned amongst
+us; that in a time of such a general defection from
+the rules of the Church, so many thousands should
+be found of all sorts and sexes, which <HI>had not bowed
+the knee to Baal,</HI> nor to the <HI>golden Calves</HI> of <HI>Dan</HI>
+and <HI>Bethel,</HI> nor the more <HI>guilded Calves</HI> that grazed
+and bleated upon these mountains of the Lord. And
+that far more should keep their hearts intire and
+loyal in those times of danger, when they could find
+no means to signifie it by their tongues and hands.
+And this not only was a <HI>kindness,</HI> and a <HI>marvellous
+kindness;</HI> but, <HI>misericordia sua,</HI> the Lords <HI>kindness</HI>
+also, most properly to be called the work of God, who
+did both bow their Hearts, and advance their Hands,
+and use them both, for the facilitating of the Kings
+<HI>Reduction.</HI></P>
+<P>32.<NOTE PLACE="marg">1 King. 18. 44.</NOTE> In which conjuncture of affairs, a little cloud
+ariseth from the Northern Sea, after the heavens had
+been shut up for some years together. Which though
+it were no bigger then a mans hand in the first appea∣rance,
+yet brought along with it such <HI>abundance of
+<PB N="31" REF="18"/>
+rain,</HI> as did not only comfort and refresh the
+afflicted
+Land, but forced our politick <HI>Ahabs,</HI> and their fol∣lowers
+too, to take their Chariots and make haste away
+to some other place, before the storm should over∣take
+them. And certainly this must needs be <HI>miseri∣cordia
+sua,</HI> as well Gods mercy in it self, as to be
+reckoned for a <HI>mavellous mercy</HI> in the eyes of men.
+For neither the Party was so weak, nor the Cause so
+desperate, as to be broken by the coming of so small
+a power, as rather seemed to be a Guard to their
+<HI>Generals</HI> person, then of sufficient force to oppose that
+Army, before which <HI>two great Kings were not able to
+stand.</HI> And then it is to be observed, that such as
+draw their Swords upon God's Anointed, use com∣monly
+to throw away the scabbards also; and find no
+way of doing better, but by doing worse.<NOTE PLACE="marg">Tacit. Hist li. 2.</NOTE> <HI>Nil me∣dium
+inter summa &amp;. praecipitia.</HI> No middle way for
+them to walke in, but either to bear up like Princes,
+or to die like Traytors. But it was otherwise in the
+case which we have before us. God so prevailing on
+the hearts of the men of war, that they became no less
+ready to receive their King, then his own party to
+invite him; And they which first ingaged in the War
+against him, expulsed him hence, and voted him un∣capable
+of the Regal Dignity, are now as zealous as
+the best to advance him to it. Nay, they contended
+eagerly with the rest of the Subjects (as once the men
+of <HI>Israel</HI> did with the men of <HI>Iudah</HI>) which of the two
+should shew most zeal for his Restitution; and did
+not only send word to him that he should <HI>return,
+both he and his servants</HI> with him; but, some of them
+passed over the Flood, that they might bring him
+<PB N="32" REF="19"/>
+back unto his Countrey with the greater glory. <HI>Et
+certant ipsi secum, utrùm contumeliosius eum expulerint,
+an honorabilius revocaverint;</HI> as in the case of <HI>Alci∣biades</HI>
+is observed by <HI>Iustin.</HI></P>
+<P>33. But possibly our <HI>Gideon</HI> with such a handful of
+men, might not have been of power sufficient to ef∣fect
+the enterprise, if our great City had not openly
+appeared in favour of it, and thereby given en∣couragement
+to the rest of the Subjects, whose hearts
+stood firm unto the King. A treble City of three
+Towns together, but all of them united in one com∣mon
+name, as <HI>Ierusalem</HI> was; and no less strong
+then that, in regard on the multitude; but stronger,
+in respect of the power and riches of the people of
+it. For here it was, in this <HI>strong City,</HI> the principal
+City of our Nation, the <HI>abstract</HI> or <HI>Epitomie</HI> of all
+<HI>Britain (In Britanniarum compendio)</HI> as my Author
+cals it, that the design was most advanced, though
+not there contrived. And here it was in this <HI>strong City</HI>
+that this great miracle of mercy did receive accom∣plishment,
+by opening both their Gates, and Hearts, and
+Hands, to receive their Soveraign. Let them continue in
+that obedience to our Lord the King, &amp; they shal wipe
+away the memory of their former Errors. Nay, our
+Posterity shall behold them with a cheerful gratitude,
+as the restorers and preservers of our common happi∣ness,
+by giving good example to the rest of the King∣dom.
+For certainly the practice of great Cities, is
+exemplary, not only in their Morals; but, their
+Politicks too. According to the motion of the <HI>Pri∣mum
+mobile,</HI> the lower Stars and Planets move in
+<PB N="33" REF="19"/>
+their several <HI>Spheres,</HI> and think it no disgrace
+to be sometimes <HI>retrograde,</HI> or in their <HI>motus tre∣pidationis;</HI>
+when the first Orbe begins to be <HI>irregu∣lar,</HI>
+or seems to be left destitute of those <HI>Intelligences</HI>
+which are said to move it.</P>
+<P>34. And therefore it concerns great Towns and
+populous Cities, upon whose actions all mens eyes
+are fixed and busied, to be a pattern of good works, of
+Loyalty, and of due obedience to the rest of the peo∣ple.
+Faction, and Opposition to Authority, are two
+dangerous plagues, more fatal and destructive to the
+greatest Empire, than the Sword, Pestilence, or Fa∣mine.
+Which if they get into a City or a Town of
+note, <HI>Non ibi consistunt ubi caeperunt,</HI><NOTE PLACE="marg">Vellei. <GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/> Hist. l. 2.</NOTE> infect not there
+alone where they first brake out; but, as the nature of
+the Plague is observed to be, from thence it springs into
+the Villages adjoyning, and in the end to all the quar∣ters
+of the Kingdom. It cannot be denied, but that we
+found it to be so in the first revolt; but then it must
+be granted also, that the Tide never turned in the lesser
+Rivers, until the <HI>Thames</HI> had made a stand under <HI>Lon∣don-Bridge.</HI>
+The noise of which great miracle (as it
+was no other) made all the waters clap their hands,
+and the floods rejoyce, and even the <HI>Ocean</HI> to be proud
+of so rich a burthen, as was committed to its trust by
+the heavenly Pilot.</P>
+<P>35. For now the King prepares for his return to the
+Royal City, not with an Army to besiege it, to smite
+it with the edge of the sword, and to root out the
+<HI>Iebusites,</HI> which were planted in it, as <HI>David</HI> did when
+he first brought <HI>Hierusalem</HI> under his command. Not
+so; but, as a Prince of peace, as the Son of <HI>David,</HI> to
+<PB N="34" REF="20"/>
+bring the glad tidings of salvation to all his Subjects,
+to put an end to all the miseries of his People, and to
+restore them to that peace and happiness, which they
+had forfeited by pride and wantonness, by disobedience
+to his Person, and distrust to his Promises; and, in a
+word, by doing more then is to be repeated, since it hath
+been pardoned. And to this <HI>City</HI> came the <HI>Tribes</HI> to
+receive their <HI>King;</HI> whether, in greater numbers, or
+with greedier eyes, or with more joyful hearts, it is hard
+to say. Of which, I shall speak little now, because
+more anon. This was the blessing of the day, and this
+conducts me next to the duties of it, which we shall
+take from <HI>David</HI>'s Doctrine and example, <HI>Benedictus
+Dominus, Blessed be the Lord.</HI></P>
+<P>36. <HI>Et quemodo dicit, Benedictus Dominus? Num illi
+opus est benedictione nostra?</HI> What means the Prophet
+(saith St. <HI>Hierom</HI>) by this form of speech? Hath the
+Lord need of us that we should bless him? No, but
+we say, with <HI>Vatablus,</HI> that it is an <HI>Hebraism,</HI> a garb
+of speech peculiar to the <HI>Hebrew</HI> Language; the mea∣ning
+this, <HI>Dignus est omni laude Dominus,</HI> The Lord
+is worthy to be praised, His mighty Acts to be pre∣served
+in perpetual memory. What <HI>David</HI>'s practice
+was, we need make no question; or, if we did, we have
+sufficient evidence for it in the Book of Psalms. Most
+of which were composed to no other purpose, but to
+extol Gods name, and set forth his prayses for all the
+blessings which he had bestowed upon him in his soul
+and body. Among which last, there was none more
+<HI>great,</HI> more <HI>marvellous,</HI> more fit to be ascribed to the
+Lord alone, then the preserving of his Person, the rai∣sing
+of him to his Throne, and the establishing of that
+<PB N="35" REF="20"/>
+Throne in so <HI>strong a City.</HI> And therefore, <HI>Benedictus
+Dominus, Let thanks be given unto the Lord,</HI> saith our
+old Translation.</P>
+<P>37. But more particularly we may behold the thank∣fulness
+of <HI>David,</HI> in his Works and Actions. We may
+behold it in his Works, if we consult that notable pas∣sage
+of <HI>Iosephus,</HI> where it is said, that <HI>David</HI> being de∣livered
+from his Wars and troubles <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>,<NOTE PLACE="marg">Antiq. Iudaic. lib. 7. chap. 10.</NOTE>
+indited Anthems, Psams, and Hymnes in the
+praise of God; calling to minde those manifold and
+great occasions which might induce him to a pious
+and religious gratitude; and more then so, he procu∣red
+many Instruments to be made for God's publick
+service, Organs, and Psalteries, and Harps, and taught
+the <HI>Levites</HI> how to praise Gods name upon them (saith
+the same <HI>Iosephus</HI>) not only on the <HI>Sabbath,</HI> but the
+other <HI>Festivals.</HI> For doing which, he had no precept
+from above, or any warrant that we read of, but his
+own authority, and that he thought it fit and decent.</P>
+<P>38. <HI>David,</HI> no question, knew as perfectly Gods na∣ture
+and the true nature of his service, as any other man
+whatsoever he was: Yet thought he not that either of
+them was prophaned or made lesse edifying by the oc∣casion
+of sweet Musick &amp; melodious Harmony. Which
+made him call so often upon all his people, not only
+to set forth Gods praises in their Songs and Hymns,
+but to extol and celebrate his Name, with <HI>Trumpets</HI> and
+<HI>loud sounding Cymbals,</HI> with <HI>Psalteries</HI> and <HI>Harps, Strin∣ged
+instruments,</HI> and <HI>Organs</HI> also; and that not in their
+houses only, but in the blessed <HI>Sanctuary,</HI> as appears
+plainly in the last of the Book of <HI>Psal.</HI> And he appoin∣ted
+also that the singers, and such as played upon the
+<PB N="36" REF="21"/>
+Musical instruments, in the performance of this ser∣vice,
+should be cloathed in white, or rather with a
+linnen vesture over the rest of their garments, as it is
+said expresly in the 1 <HI>Chro.</HI> ch. 15. From whence (or
+from the <HI>linnen ephod</HI> which was worn by the Priests)
+we have derived the <HI>Surplisse</HI> now in use amongst us, and
+not from any garment used by the <HI>Priests</HI> of <HI>Isis,</HI> as
+some of the preciser sort have most idely fancyed.</P>
+<P>39. But <HI>David</HI> was as excellent in paying his thank∣fulnesse
+to God in the acts of piety, as praising him with
+songs and hymns, and musical Instruments. The <HI>Ark
+of God</HI> which had been taken by the <HI>Philist ms</HI> in the
+time of <HI>Eli,</HI> and kept at <HI>Keriath-jearim</HI> all the Raign of
+<HI>Saul;</HI> is now brought back▪ and setled in <HI>Hierusalem</HI>
+by the care of <HI>David,</HI> who gave not only order for
+the doing of it, but saw it done and was himself a prin∣cipal
+actor in that sacred Ceremony. He thought it
+no way mis-becomming any earthly Majesty, to look
+to all such matters as concerned Religion and apper∣tained
+unto the service of the most high God; Nor
+is there any thing which makes a King more esteema∣ble
+in the eies of his subjects, then to be active and in∣dustrious
+in the restoring of Gods worship to it's anti∣ent
+purity. <HI>Ille diis proximus habetur, per quem deorum
+majestas vindicatur,</HI> are the words of an Heathen, yet
+such as may become the most sober Christian.</P>
+<P>40. Follow him yet a little further, and we shall
+see him putting the whole service of God into a better
+frame and order, then it had been formerly. To which
+end he appointed to the priests their several tunes, that
+every man might know the course of his ministrati∣on;
+and so distributed and disposed them under seve∣ral
+<PB N="37" REF="21"/>
+<HI>heads,</HI> that all things might be acted by them with∣out
+confusion. Which <HI>Heads</HI> or <HI>Rulers,</HI> or <HI>chief Cap∣tains,</HI>
+as the gospel calls them, being in number twen∣ty
+fowr, besides the <HI>High-priest,</HI> and his <HI>Sagan</HI> or the
+second <HI>High-priest,</HI> twenty six in all, make up the just
+tale of our <HI>English</HI> Bishops. And in regard the <HI>Tribe of
+Levi</HI> had remained so faithful to him, and done and
+suffered so much for him, in the time of his troubles,
+he is resolved to make a retribution worthy of a Roy∣al
+spirit. Some of them therefore he sets over the
+<HI>treasures of the house</HI> of God, that is to say, such
+treasures as were dedicated and laied up in the <HI>Holy
+Temple,</HI> or otherwise offered and designed for Religi∣ous
+uses. Others he made <HI>officers</HI> and <HI>Iudges</HI> in the
+Tribes of <HI>Israel,</HI> and that not only in all <HI>businesses of
+the Lord,</HI> in all sacred matters, but in the businesse
+<HI>of the King,</HI> even in civill concernments, as is expres∣sed
+most plainly in the first of Chro. ch. 26. So far
+was <HI>David</HI> from conceiving, that <HI>sacred Orders</HI> were a
+<HI>super-sedeas</HI> to all civill prudence; and that he might
+not lawfully make use of the abilities of any of his
+Subjects, of what sort soever, as <HI>Councellours, Iud∣ges,
+Officers,</HI> or what else he pleased.</P>
+<P>41. Thus <HI>David</HI> did, and thus our <HI>David</HI> hath
+done also. He made it his first act to close the brea∣ches
+in this Church, both in Doctrine and Discipline,
+and to restore the antient government of Bishops, ac∣cording
+to Gods words and the primitive practice. He
+takes care that <HI>Divine service</HI> be officiated with
+as much solemnity, as in the best and happiest times
+of his predecessors, adorns his Chappel in a costly
+and magnificent manner, gathereth together the best
+<PB N="38" REF="22"/>
+voices in his whole dominions, and intermingleth
+them with Musical Instruments, which seem to carry
+a resemblance to that heavenly Harmony which some
+ascribe unto the <HI>Spheres.</HI> A form of service highly
+magnyfied by the primitive <HI>Christian,</HI> and such as
+gained exceedingly upon mens affections. St. <HI>Austin,</HI>
+when an <HI>Heathen</HI> or at best a <HI>Manich<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>e</HI> found two temp∣tations
+to invite him to the Christian Churches; that
+is to say, to hear the <HI>eloquence</HI> of St. <HI>Ambrose</HI> when
+he was in the Pulpit, and the <HI>H<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>rmonious Melody</HI> which
+was made in the <HI>Quire.</HI> And it is hard to say, which
+of the two prevailed most towards his Conversion.
+The musick of the Church so mollified his stony heart
+that it drew tears from his eys (<HI>ut flevi ad cantus Ec∣clesiae
+tuae</HI>)<NOTE PLACE="marg">Aug Conf. lib. 10. ch. 23.</NOTE> and thereby made him apter for all such
+impressions of the <HI>Holy Spirit,</HI> as afterwards advan∣ced
+him highly in the favour both of God and Men,
+Retained on this account, (as he after tells us) in all
+the Churches of those times, both <HI>Greek</HI> and <HI>Latin, Ut
+per oblectamenta aurium,</HI><NOTE PLACE="marg">Id. ibid.</NOTE> <HI>in firmior assurgat animus in pie∣tatis
+affectum;</HI> because it did compose mens thoughts,
+and calm their passions, and fit them to the serious and
+the grave performance of religious Offices: Which
+makes it seem the greater wonder, that any man, prefer∣red
+and dignified in the Church of <HI>England,</HI> should in a
+Sermon preached, and printed, and exposed to sale;
+compare the <HI>heavenly musick</HI> in Cathedral Churches to
+that confused medley of the <HI>Flute,</HI><NOTE PLACE="marg">Dan. 3. 5.</NOTE> the <HI>Sackbut,</HI> and the
+<HI>Harp,</HI> the <HI>Psaltery,</HI> the <HI>Cornet,</HI> and the <HI>Dulcimer,</HI> which
+played before the <HI>Golden Image,</HI> advanced by <HI>Nebucad∣nezzar</HI>
+in the fields of <HI>Babylon.</HI> But he hath-long since
+<HI>smarted</HI> for his folly, and so let him go.</P>
+<P><PB N="39" REF="22"/>42. Our <HI>English David</HI> stays not here, but looks up∣on
+the services and the sufferings of the <HI>Regular</HI> Cler∣gy;
+some of which he restoreth to their former
+fortunes, and raises others unto greater then they
+had before. All the <HI>Episcopal Sees,</HI> but one, are
+filled with Learned and Religious Prelates, of
+whom the tongue of envy, hatred, malice and uncha∣ritableness
+can speak no reproach. And as the Sees are
+filled with <HI>Learned</HI> and <HI>Religious</HI> Prelates; so is it to
+be hoped that by the <HI>Piety of these times,</HI> those Prelates
+shall be re-established in those Powers and Priviledges,
+which <HI>the Iniquity of the last Times</HI> hath taken from
+them. Without which they must pass for <HI>Cyphers</HI> in the
+Church-Arithmetick, disabled from proceeding in the
+work of God; of less esteem amongst their friends, and
+a scorn to their adversaries. The <HI>State</HI> was never bet∣ter
+served, then when the <HI>Messengers</HI> of Peace were the
+<HI>Ministers</HI> of it: when Kings asked Counsel of the
+Priests, and that the Priests were Counsellors, Officers,
+and Judges in their several times. Which <HI>David</HI> must
+needs know as well as any (being a Prince replenished
+with the Spirit of God) or else he had not called them
+to those imployments which the Scripture speaks of.</P>
+<P>43. Thus hath the King performed his duty, we
+must next do ours; and pay our thankfulness to God
+on the <HI>knees of our hearts,</HI> for the advancement of our
+<HI>David</HI> to the Throne of his Fathers; and, thereby
+giving us such a fair and blessed Sun-shine after a
+long <HI>Egyptian</HI> darkness, and so miraculous a calm up∣on
+the back of that most dreadful intermixture of
+Thunder and Lightning (the roaring of the Can∣nons,
+and the burning of Towns), which was never
+<PB N="40" REF="23"/>
+equalled in this Nation. Which as it ought to
+be our duty to the last day of our lives; so, more
+particularly of this day, which by the Piety of the
+State hath been set apart for the Celebration, for the
+commemorating, of that kindness, that <HI>marvellous great</HI>
+kindness which he hath shewed to us, and to his A∣nointed,
+in the chief City of our Nation, the <HI>abstract</HI>
+or <HI>Epitomie</HI> of the whole, as before was said. Such <HI>Fe∣stivals</HI>
+as these come not within the censure of our ni∣cer
+<HI>spirits:</HI> Those which have quarrelled at the rest, the
+<HI>Festivals</HI> of <HI>Christ,</HI> and his Apostles, and his Virgin
+Mother; do yet allow of <HI>Feriae repentinae, &amp; ex re nata
+institutae,</HI> as they please to phrase it: Such as are institu∣ted
+and ordained upon new Emergencies. If any thing
+displease them in it, it is the setling of it by a Law
+to be made perpetual; to be a day of Thankfulness
+and Commemoration to succeeding Ages. Which be∣ing
+the adding of a new to the ancient Festivals, may
+spur on those which are in eminent place and power,
+to rejoyn the old Festivals to the new, and cause them
+both to be observed with such Christian Piety, that all
+men laying aside their Trades and profane Imploy∣ments,
+may diligently repair to their Parish Churches,
+to set forth <HI>God's most worthy praise, to hear his most
+holy Word, and to ask those things which be requisite
+and necessary both for the body and the Soul,</HI> according
+to the Laws and Statutes in that case provided. But,
+as for this particular day, it is to be observed as our
+Feast of <HI>Purim,</HI> in memory of our deliverance from
+the hands of <HI>Haman,</HI> and <HI>Haman</HI>'s being hanged up∣on
+the Gallouse of his own preparing, together with
+his <HI>ten sons</HI> (mark the number well) all executed by
+<PB N="41" REF="23"/>
+the Common Hang-man on the same account. A day
+of praising God in our Publique Churches, of Feast∣ing
+and Rejoycing in our private Houses, of Joy and
+Triumphs in our Streets; A day to be observed with
+all due Solemnity, as being the Birth-day of the King
+and the Kingdom too.</P>
+<P>44. And so it cannot choose but do, if we look back
+upon the miseries of the former Tyranny, as well in our
+Spiritual Concernments as our Civil Rights. And then
+reflect upon this Day as it was celebrated by all sorts
+of People at the King's Reduction. And first, if we
+take notice of the miseries of the times preceding in
+reference to <HI>Spiritual matters,</HI> we may observe our
+Publique Liturgie disgraced, and at last discharged,
+to make way for the rash, seditious, and inconside∣rate
+evaporations of those turbulent spirits, whose ve∣ry
+Prayers, in fine, were turned into Sin: The Pulpits
+every where left open to all sorts of <HI>Mechanicks;</HI> and
+either no Priests made at all, or, none but such as were
+of <HI>Ieroboam</HI>'s making, <HI>Priests of the lowest of the Peo∣ple;</HI>
+abhorring <HI>Idols</HI> made a colour for committing
+<HI>Sacriledge,</HI> such <HI>Sacriledges</HI> too as seldom or never
+had been heard of amongst the <HI>Gentiles; Pictures</HI> and
+<HI>Images</HI> in Church-windows (retained for Ornaments
+till this day in the <HI>Lutheran</HI> Churches) defaced on pur∣pose,
+for the ostentation of a swifter <HI>Zeal,</HI> than <HI>could
+keep company</HI> with <HI>Knowledge.</HI> But, in the mean time,
+such a <HI>worshipping of Imaginations</HI> advanced and coun∣tenanced
+as seemed no less destructive to all <HI>Christian
+Piety,</HI> than the <HI>worship of Images;</HI> and, in a word, all
+the exploded Heresies of the <HI>elder times</HI> revived, and
+justified, without reproach to them that did it; to the
+<PB N="42" REF="24"/>
+displeasure of Almighty God, the dishonour of the
+Church, the grief of all good men, and the shame of
+the Nation. Nor did we speed much better in our <HI>Ci∣vil
+Rights,</HI> in reference to that <HI>liberty</HI> and <HI>property,</HI>
+which seems peculiar in a manner to the <HI>English</HI> Sub∣jects.
+<HI>Quocunque aspiceres, luctus gemitus que sonabant,</HI>
+in the Poets language. No news in any of our Streets,
+but that of leading men into fresh captivity; nor
+Musick to be heard in our private Houses, but the
+sighs, groans, and cries of afflicted people, who either
+suffered in themselves, or their friends and kindred.
+Our persons haled unto the prisons, and our heads
+to the block▪ our children born to bondage, and brought
+up to servitude, our goods taken from us, and exposed
+to sale; all our Lands either held in <HI>villenage;</HI> or, which
+was worse, <HI>ad voluntatem Domini,</HI> during the will and
+pleasure only of our mighty Landlords. Such a confusi∣on
+in the City, such spoils and rapines in the Countrey,
+and such oppressions in all places under their com∣mand;
+that greater miseries never fell upon God's
+own people in those wretched times, in which there
+was <HI>no King in Israel.</HI></P>
+<P>46. To put an end to which misfortunes, God brings
+the King unto his Throne, as upon this day; and brings
+him to his Throne after such a manner, as makes it
+seem all-miracle in the eyes of Christendom. When
+first, like <HI>Noah</HI>'s <HI>Dove</HI> in the book of <HI>Genesis,</HI> he left the
+<HI>Ark</HI> of his retreat and preservation, that he might trie
+whether the <HI>waters were asswaged from the face of the
+earth,</HI> he found no resting place for the <HI>soles of his feet;</HI>
+but when he took his second flight, and came next a∣mongst
+us, and brought an <HI>Olive leaf</HI> in his mouth, to
+<PB N="43" REF="24"/>
+be a Pledge of Peace and Reconciliation betwixt him
+and his people, he made his coming most agreeable to
+those very men, who before most feared it. A coming
+so agreeable to all sorts of people, that never King was
+entertained with more signs of joy, or welcomed with
+a greater concourse of his faithful Subjects; all of them
+with <HI>Te Deum</HI> in their mouths, and the <HI>Magnificat</HI> in
+their hearts; old women being as busie at their <HI>Bene∣dicite</HI>'s,
+in their dark retreats, as Children were at <HI>Ho∣sanna's</HI>
+in the wayes and fields. <HI>The mountains skippe
+like Raws, and the little hils like young Sheep,</HI> as he
+passed along; the Trees bowed down their heads to
+salute their King; and the glad earth, rejoyced to be∣come
+his footstool. But when he came within the view
+of the <HI>Royal City,</HI> Good God! what infinite throngs of
+people did run out to see him? With what a gallant
+equipage did the Nobility and Gentry set forth to
+meet him. Never did <HI>England</HI> see it self so glorious
+as upon that day, nor <HI>old Rome</HI> so magnificent in her
+stateliest Triumphs, as our great City then appeared
+in the eyes of those, who flocked from all parts of the
+Kingdom in such infinite numbers, that <HI>London</HI> could
+no more be called the <HI>abstract</HI> or <HI>epitome</HI> of the Realm
+of <HI>England,</HI> but the Realm it self.</P>
+<P>47. Incouraged with which general Welcome, he
+hath received here (here in this Church, he hath recei∣ved)
+his last <HI>Anoynting,</HI> to the great joy of all his true
+and faithful Subjects; who once again repaired to our
+Capital City, but in greater multitudes, that by their
+quality, numbers, and external Gallantry, they might
+express their good affections, and add some new
+Lustre to the accustomed Pomp and Splendour of the
+<PB N="44" REF="25"/>
+<HI>Coronation.</HI> The Pomp and Splendour of which day, is
+not to be described by a readier pen than I am able to
+pretend to; nor to be equalled by any other in the
+times preceding, but only by the glorious day of the
+Kings <HI>Reduction;</HI> of which we may affirm with the
+Court Historian, though with no such flattery, <HI>La<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>i∣tiam
+illius diei, consursum totius civitatis, &amp; <GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/>
+pene inferenti<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>m coelo m<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>is, &amp;c.</HI> What pen is able to
+express the Triumphs of those two great dayes, when
+all the bravery of the Nation seemed to be powred
+into the City, and the whole City emptied into some
+few streets, the windows in those streets to be glased
+with eyes, the houses in a maner to be tyled with men;
+and all the people in the streets, the windowes and the
+house tops also, ingeminating and regeminating this
+most joyful acclamation, <HI>God save the King.</HI></P>
+<P>48. For which great mercies, and the rest of this
+glorious day, let us sing our <HI>Benedictus</HI> also, to the
+Lord our God: <HI>Blessed be the Lord God of Israel, for he
+hath visited and redeemed his people, and hath raised
+up a mighty salvation for us in the house of his servant
+David.</HI> To which Immortal and Invisible God, the
+Almighty Father; and to the Honorable, true and only
+Son, the Lamb that sits upon the Throne; and to the
+Holy Ghost the Comforter; Let us ascribe, as we are
+bound, all Majesty, Might, Praise, Power, and Glory,
+from this time forth for ever more. And let all the
+people say, <HI>Amen.</HI></P>
+<TRAILER>THE END.</TRAILER>
+<PB REF="25"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

@@ -1,0 +1,2149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="2">A letter to Anonymus in answer to his Three letters to Dr. Sherlock about church-communion</TITLE><AUTHOR>Sherlock, William, 1641?-1707.</AUTHOR></TITLESTMT><EXTENT>Approx. 109 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2005-10 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A71019</IDNO>
+
+
+<IDNO TYPE="stc">Wing S3300</IDNO>
+
+<IDNO TYPE="stc">ESTC R14302</IDNO>
+
+<IDNO TYPE="eebo citation">12004712</IDNO>
+
+<IDNO TYPE="oclc">ocm 12004712</IDNO>
+
+<IDNO TYPE="vid">52277</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A71019)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 52277)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 802:13 or 1514:13)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="2">A letter to Anonymus in answer to his Three letters to Dr. Sherlock about church-communion</TITLE><AUTHOR>Sherlock, William, 1641?-1707.</AUTHOR></TITLESTMT><EXTENT>[2], 58 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for Fincham Gardiner ...,</PUBLISHER>
+<DATE>1683.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Written by William Sherlock.  Cf. DNB.</NOTE><NOTE>Signed at end: W.S.</NOTE><NOTE>Anonymous is identified as William Atwood.  Cf. Clark Memorial Lib. dict. cat.</NOTE><NOTE>This work is also appears on reels 1514:13 and 528:1 (as the third item in v. 1 of: A collection of cases and other discourses (Wing C5114)).</NOTE><NOTE>Reproduction of originals in the Duke University Library, Harvard University Library and Bristol Public Library, Bristol, England.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Atwood, William, d. 1705? --  Three letters to Dr. Sherlock concerning church-communion.</TERM><TERM>Lord's Supper --  Early works to 1800.</TERM><TERM>Lord's Supper --  Church of England --  Early works to 1800.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2003-11</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2003-12</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2005-02</DATE><RESPSTMT><RESP>John Latta</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2005-02</DATE><RESPSTMT><RESP>John Latta</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2005-04</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A71019">
+<STC T="W">S3300</STC>
+<BIBNO T="oclc">12004712</BIBNO>
+<VID>52277</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<P>A
+LETTER
+TO
+ANONYMUS,
+In Answer to his
+Three Letters
+TO
+Dr. SHERLOCK
+ABOUT
+<HI>Church-Communion.</HI></P>
+<P><HI>LONDON:</HI>
+Printed for <HI>Fincham Gardiner,</HI> at the <HI>White-Horse</HI>
+in <HI>Ludgate-street.</HI> 1683.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="letter">
+<PB REF="2"/>
+<PB N="1" REF="2" MS="y"/>
+<HEAD>A
+LETTER
+TO
+ANONYMUS,
+In Answer to his Three LETTERS to
+Dr. SHERLOCK about
+Church-Communion.</HEAD>
+<OPENER><SALUTE>SIR,</SALUTE></OPENER>
+<P>I Am very sorry, that my Silence and Patience has
+been mistaken by you for an affront and neglect;
+which is such a provocation, as I find some sort
+of great minds cannot bear.</P>
+<P>But yet that you may have a little mercy, I shall give
+you a brief account of the reason, why you had not an
+Answer before.</P>
+<P>I did not answer your first Letter in so publick a
+manner as you desired, because I believed your Ob∣jections
+were such, as no body was concern'd in but
+your self; and I cannot think it decent to trouble so
+numerous an Auditory with every particular mans
+conceits. I did not answer your Second Letter, be∣cause
+by the Temper and Spirit of it, I easily foresaw,
+that it would end in a publick Quarrel; and if I must be
+in Print, I henceforth resolve to Correct the Press my
+self, and not to suffer any man to Print my private
+<PB N="2" REF="3"/>
+Letters for me. But yet I called at Mr. R's Shop, whi∣ther
+you directed me, several times, to have Invited
+you to a private Conference, but could never see him,
+till I accidentally met him in the street, the same day
+I received the present of your Printed Letters. The
+reason why I Printed those Discourses, which you
+heard me Preach, was because they were designed for
+the Press, before they were designed for the Pulpit,
+and before I dream't of your terrible Queries; and
+were Printed and Preach'd exactly by the same Copy,
+excepting the Introduction to fit them to a Text, which
+you know is very <HI>convenient for a Sermon.</HI> And the
+reason why I sent you one of those Tracts, when it
+was Printed, was because I did hope you might have
+had understanding enough, upon a careful perusal of it,
+when it lay before you, to have answered those Ob∣jections
+which you made against it, at the first hear∣ing.</P>
+<P>And now Sir, I come to consider the Contents of
+your First Letter; you have made some Repetition of
+what I Discoursed, and a very good Repetition to be done
+by memory, which gives you the commendable Cha∣racter
+of a diligent and attentive hearer: but when you
+had the Discourse before you in Print, you ought not
+then to have depended upon your memory, but to
+have given me my own again in my own words and
+order, and with that dependance and connexion, in
+which the whole strength of that Discourse consists;
+and to have applied your Queries distinctly to those
+parts of the Discourse, which they related to: Had
+you done this, you would either have been able to
+have resolved your own Queries, or would more effe∣ctually
+have convinc'd me of my mistake, or at least
+have given your Readers better satisfaction in the pe<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>∣tinency
+of what you say; but now you have onely
+<PB N="3" REF="3"/>
+given us a heap of Queries, which it is no easie matter
+to know to what they relate.</P>
+<P>As for your Repetitions, the Reader who desires sa∣tisfaction
+may compare them with what I have writ,
+which is exactly the same with what I Preach'd: and
+as for your Queries, you know how easie a thing it is
+to ask Questions; however, I will endeavour to find
+out to what they belong, and give as plain and short an
+Answer to them as I can; for I assure you, I am not at
+leasure now to write a long Book upon this Argument,
+and therefore it is a great comfort to me, that there is
+no need of it.</P>
+<P>After your Repetition of what you could remember,
+or what you thought fit to take notice of in my Sermon,
+you give us a very mistaken Summary of it.</P>
+<P>To sum up <HI>(say you)</HI> what I take to be the force of all
+this.<NOTE PLACE="marg">p. 4.</NOTE></P>
+<P>The Apostles and their Successors were by our Saviour
+invested with a power of receiving Members into his
+Church upon his Terms, and with such Rites as they should
+think fit; and they who are not so received into the Church,
+have no right to any of the blessings promis'd to the Mem∣bers
+of Christ's Body.</P>
+<P>This Power is by an uninterrupted Succession, derived
+upon the Governours of our National Church, wherefore all
+others, that pretend to the exercise of this Power within
+this Nation, are Vsurpers; and all the Laity Baptized by
+their Pastors, not being duly admitted into any particu∣lar
+Church, are so far from being Members of Christ's
+Body, that they are Vsurpers and Traitors to that Power,
+which is derived from him in a right line. <HI>Durus hic
+Sermo.</HI></P>
+<P>Had you not told the World in your Title-Page, that
+you are a Lay-man, to make your Triumph over a
+poor undone Dr. of Divinity the more glorious, I should
+<PB N="4" REF="4"/>
+have taken you to be the Founder of some new Sect of
+Conjectural Divines; and truly you are so happy in
+your guesses, that I believe few men will ever be able
+to out-do you in this Art. For there is not one word
+of all this matter in the Discourse, which you pretend
+to sum up, as it was delivered by me. That to which
+you seem to refer, is contained in one short Paragraph,
+which I shall Transcribe, and leave the most fanciful
+Reader to try his skill to sum it up as you have done.
+Having before asserted, that <HI>God onely can Constitute a
+Church,</HI><NOTE PLACE="marg">Resolut. of Cases, p. 5.</NOTE> I added, <HI>And I think it is as plain, that the on∣ly
+visible way God has of Forming a Church (for I do not
+now speak of the Invisible Operations of the Divine Spirit)
+is by granting a Church-Covenant, which is the Divine
+Charter whereon the Church is Founded, and investing
+some persons with Power and Authority to receive others
+into this Covenant, according to the terms and conditions
+of the Covenant, and by such Covenant-Rites, and Forms
+of Admission, as he is pleased to Institute; which under
+the Gospel is Baptism, as under the Law it was Circum∣cision.</HI></P>
+<P>I was discoursing of Gods visible way of Forming a
+Church, which I asserted to be by granting a Church-Covenant,
+which is that Divine Charter on which the
+Church is Founded; but then lest any one should
+question, how men are admitted into this Covenant,
+I added, that God had invested some Persons with
+Power and Authority to receive others into this Cove∣nant
+by Baptism; and by receiving them into Cove∣nant,
+they make them Members of that Church, which
+is Founded on this Covenant.</P>
+<P>Now what of all this will any sober Dissenter deny?
+Here is no dispute, who is invested with this Power,
+what form of Church-Government Christ Instituted,
+whether Episcopal or Presbyterian; here is no Dispute
+<PB N="5" REF="4"/>
+about the validity of Orders, or Succession, or in what
+cases Baptism may be valid, which is not Administred by
+a valid Authority; This did not concern my present Ar∣gument,
+which proceeds upon a quite different Hypo∣thesis,
+<HI>viz.</HI> the necessity of Communion with the <HI>one</HI>
+Church and Body of Christ, for all those who are, or
+would be owned to be Christians, or Members of
+Christs Body. I make no inquiry, by whom they
+have been Baptized, or whether they were rightly
+Baptized or not; but taking all these things for granted,
+I inquire whether Baptism do not make us Church-Members;
+whether it makes us Members of a Particu∣lar
+or Universal Church; whether a Church-Member
+be not bound to Communion with the whole Catho∣lick
+Church; whether he that separates from any
+sound part of the Catholick Church, be not a Schis∣matick
+from the whole Church; whether we be not
+bound to maintain constant Communion with that
+particular Church, in which we live, and with which
+we can, when we please, Communicate occasionally;
+whether it be consistent with Catholick Communion,
+to communicate with two Churches, which are in
+a state of Separation from each other: if you have
+any thing to say to these matters, you shall have a
+fair hearing; but all your Queries, which proceed up∣on
+a mistaken Hypothesis of your own, do not concern
+me; and yet to oblige you, if it be possible, I shall
+briefly consider them.</P>
+<P>1. <HI>Your first Query is,</HI> Whether a Pious Dissenter
+supposed to be received into the Church by such as he
+believes to be fully invested with sufficient Power, is in as
+bad a condition as a Moral Heathen, or in a worse than
+a Papist.</P>
+<P><PB N="6" REF="5"/>
+<HI>Ans.</HI> The Catholick Church has been so indulgent to
+Hereticks and Schismaticks, as to determine against the
+Necessity of Rebaptization, if they have been once,
+though irregularly baptized. This you may find a par∣ticular
+account of, in the Vindication of the Defence of
+Dr. <HI>Still.</HI> p. 22. &amp;c. But the question is, whether if
+they continue Schismaticks, whatever their other pre∣tences
+to Piety be, their Condition be not as dange∣rous,
+as the Condition of Moral Heathens and Pa∣pists.</P>
+<P>2. Whether the Submission to the Power and Censures of
+this Church, (which all must own to be a sound Church) be
+part of the Divine Covenant, which Vnites the Members of
+the Catholick Church to God and to each other.</P>
+<P><HI>Ans.</HI> This is a captions question, which must be distinct∣ly
+answered. A general Submission and Obedience
+to the Authority and Censures of the Church, though
+it cannot properly be called a part of that Divine Cove∣nant
+whereon the Church is founded, which primari∣ly
+respects the promise of Salvation by Christ through
+Faith in his Bloud; yet it is a necessary Church Duty,
+and Essential to Church-Communion, and so may be cal∣led
+a part of the Covenant, if by the Covenant we un∣derstand
+all those Duties which are required of bapti∣zed
+Christians, and Members of the Church, by a Di∣vine
+positive Law, as Obedience to Church-Governours
+is.</P>
+<P>But then Obedience to the Church of <HI>England</HI> is
+not an universal Duty incumbent on all Christians, but
+onely on those, which are, or ought to live, in Obe∣dience
+to this particular Church: for the particular ex∣ercises
+of Church-Authoritie and Jurisdiction is consi∣ned
+within certain limits, as of necessitie it must be; and
+though all <HI>Orthodox</HI> Churches must live in Communion
+with each other, yet no particular Church can pretend
+<PB N="7" REF="5"/>
+to any original Authority over another Church, or
+the Members of it, as is the constant Doctrine of Pro∣testants,
+in opposition to the Usurpations of the Church
+of <HI>Rome.</HI> But I perceive Sir you know no difference be∣tween
+the Authority and Power, and the Communion
+of the Church.</P>
+<P><HI>But you add,</HI> If it be, then as he who is not admitted
+into this Church, is no Member of the Catholick, and has
+no right to the benefits of being a Member of Christs Body:
+so is it with every one, who is excluded by Church-Censures,
+though excommunicated for a slight contempt or neglect, nay,
+for a wrongful cause.</P>
+<P>Truly Sir, I know not how any man is admitted
+into the Church of <HI>England,</HI> any otherwise than as he
+is admitted into the whole Catholick Church, <HI>viz,</HI> by
+Baptism, which does not make us Members of any par∣ticular
+Church, but of the Universal Church, which
+Obliges us to Communicate with that part of the Ca∣tholick
+Church wherein we live; and whoever lives
+in <HI>England,</HI> and renounces Communion with the
+Church of <HI>England,</HI> is a Schismatick from the Catho∣lick
+Church.</P>
+<P>And whoever is Excommunicated from one sound
+part of the Catholick Church, is Excommunicated from
+the whole. But then, there is this difference between
+Excommunication and Schism; the first is a Judicial
+Sentence, the second is a Mans own Choice; the first
+is not valid unless it be inflicted for a just cause, the se∣cond
+is always valid, and does in its own nature cut
+Men off from all Communion with Christs Body. I say
+in its own Nature, for I will not pretend to determine
+the final States of Men, for I know not what gracious
+allowances God will make for some Schismaticks, no
+more than I do what favour he may allow to other Sin∣ners.</P>
+<P><PB N="8" REF="6"/>
+<HI>But you proceed.</HI> If it be no part of the Divine Cove∣nant,
+then a Man that lives here may be a true Member of
+the Catholick Church, though he is not in Communion with this
+Sound Church.</P>
+<P>This is another Horn of your formidable Dilemma.
+If Obedience to the Authoritie and Censures of the par∣ticular
+National Church of <HI>England</HI> is no part of the
+Divine Covenant, then those Baptized Christians, who
+live in <HI>England,</HI> are not bound to the Communion of
+the Church of <HI>England,</HI> and may be Catholick Christians
+for all that. As if because the Subjects of <HI>Spain</HI> are not
+bound to obey the King of <HI>England,</HI> therefore English
+Men are not bound to obey him neither, but may be
+very good Subjects for all that.</P>
+<P>We are bound by the Divine Law, to live in Commu∣nion
+with all true Catholick Churches, and to obey the
+Governours of the Church wherein we live; and there∣fore
+though Obedience to the Church of <HI>England</HI> be not
+a Law to all the World, yet it is a Law to all English Chri∣stians
+inhabiting in this Church. But your way of argu∣ing
+is, as if a Man should say, It is a Divine Law to obey
+Civil Magistrates, but there is no Divine Law that all
+the World should obey the King of <HI>England, France</HI> or
+<HI>Spain,</HI> therefore French or English Subjects are not bound
+to obey their own Prince. Oh what comfortable Do∣ctrine
+is this to some Men!</P>
+<P><HI>You proceed.</HI> But you will say (which I think is not
+much to the question) that he ought to Communicate, if Com∣munion
+may be had.</P>
+<P>Yes, I do say this; and I believe by this time you see,
+or at least others will see, that it is much to the questi∣on.</P>
+<P>But then Query, whether the Dissenters may not reply, that
+they are ready to Communicate, if the Communion be not clog'd
+with some things, which are no part of the Divine Covenant.</P>
+<P><PB N="9" REF="6"/>
+Yes, they may replie so if they please, or <HI>Anonymus</HI>
+for them; but whoever does it, the replie is very weak
+and impertinent. It is weak, because Obedience to Au∣thority,
+in all lawful things, is in a large notion part of the
+Divine Covenant: And it is very impertinent, because
+the Supposition of Communicating, <HI>where Communion
+may be had,</HI> supersedes that Query. For Communion
+cannot be had, where there are any sinful Terms of
+Communion: and though I assert, that the Church must
+be founded on a Divine Covenant, I never said, that no∣thing
+must be enjoyned by the Church, but what is ex∣press'd
+in that Covenant. A Corporation, which is foun∣ded
+upon a Royal Charter, you know, may have Autho∣ritie
+to make By-Laws, which shall oblige all the Mem∣bers
+of it, and so are Terms of Communion with it; and
+yet it is the Charter, not these By-Laws, whereon the
+Corporation is founded. I was not concerned to Ex∣amine
+the Terms of Communion, (that is, and will be
+done by other hands) but, supposing nothing Sinful
+in our Communion, whether all Christians, that live in
+this Church, are not bound to live in Communion with
+it.</P>
+<P><HI>Q.</HI> 3. Your next Query concerns the Derivation of
+Church-Power from Christ himself, without any im∣mediate
+Derivation from other Church-Governours;
+which does not at all concern my Doctrine of Church-Communion;
+for whether it be so or so, still we are
+bound to maintain Communion with all sound parts of
+the Catholick Church; so Church-Authoritie be Deri∣ved
+from Christ any way, it is well enough, but then
+we must be sure that it is so: and if Christ have appoin∣ted
+no ordinarie way for this, but by the hands of
+Men, who received their Authoritie immediately from
+himself, I know not who can appoint any other
+way.</P>
+<P><PB N="10" REF="7"/>
+But may not a Lay-man preach the Gospel and ga∣ther
+a Church in a Heathen Country, where there is
+none of the Clergy to do it? I suppose he may; and if
+you please to consult the Vindication of the Defence of
+Dr. <HI>Stilling fleets</HI> Unreasonableness of Separation, <HI>p.
+331, &amp;c.</HI> you will finde this case largely deba∣ted.</P>
+<P>But it seems it doth not satisfie you, that this be al∣lowed
+onely in case of Necessity, for then up start two o∣ther
+Queries.</P>
+<P>1. Whether this will not put the being of our Church up∣on
+a very hazardous issue, and oblige your self to prove, that
+it was a true Church before the Reformation?</P>
+<P><HI>Ans.</HI> This is no hazard at all, for the Church of <HI>En∣gland</HI>
+was certainly a true, though a corrupt, Church be∣fore
+the Reformation, as the Church of <HI>Rome</HI> is at this
+day. A true Church is that which has every thing Es∣sential
+to the being of a Church, though mixt with such
+other Corruptions, as make its Communion dangerous
+and sinful, as a Diseased Man is a true Man; and remove
+these Corruptions, and then it is not onely a true, but a
+sound Church, as the Church of <HI>England</HI> is at this day.
+And if you will not allow this, I doubt, Sir, all private
+Christians will be at as great a loss for their Baptism, as
+the Church will be for Orders. But the case of a True
+and Sound and Catholick Church,<NOTE PLACE="marg">Vindicat. <HI>p.</HI> 64. &amp;c.</NOTE> if you please, you
+may see Stated in the same Book to which I referred you
+before.</P>
+<P>And thus your second Query is answered, that
+though this Church was Antichristian before the Re∣formation,
+yet there was not the same Necessity for
+private Christians to usurp the Ministerial Office with∣out
+a regular Authoritie, as there is for a Lay-man in
+a Heathen Nation, because an Antichristian, that is, the
+<PB N="11" REF="7"/>
+most corrupt Church, retains the Power of Orders, as
+well as of Sacraments.</P>
+<P>As for that Independent Principle, that Christ has in∣stituted
+a Power in the Church to ordain her own Offi∣cers,
+you may see it Examined in the Defence of Dr. <HI>Still.
+Vnr. of Sep.</HI> p. 306, &amp;c.</P>
+<P>But what now is all this to me? I don't charge our Dis∣senters
+with Schism from the Invalidity of their Orders,
+but for their causeless and sinful Separation. Let us sup∣pose,
+that they have no need of any Orders, or that such
+Orders as they have are good, or that they had Episco∣pal
+Orders, and were Governed by Bishops of their own,
+as the Donatists were, yet they would be never the less
+Schismaticks for that, while they separate from the
+Church of <HI>England,</HI> and from each other. If Orders be
+necessary, and they have no Orders, then they are no
+Churches at all; if they have true Orders, and are true
+Churches, but yet divide Christian Communion by Se∣parating
+from any Sound part of the Christian Church,
+they are Schismaticks.</P>
+<P>4. <HI>Q</HI> Whether from the Supposition, that there ought
+to be but one Church-Covenant throughout the Catholick
+Church, that there cannot be one true Church within another,
+and that the Nature of Catholick-Communion is such, that
+one ought to be ready to Communicate with any Sound
+Church, from which one is not hindred by reason of the Di∣stance
+of Place? it do's not follow.</P>
+<P><HI>Ans.</HI> Fair and Softly! let us first consider the Suppo∣sitions,
+before we consider what follows from them; for
+you have so mis-represented, so eurtailed these Proposi∣tions,
+and so mixt and blended things of a different Na∣ture,
+that it is necessarie to restore them to their true
+Sense and proper Place again, before we can tell what
+follows.</P>
+<P>I asserted, that the Christian Church is founded upon
+<PB N="12" REF="8"/>
+a Divine Covenant, and since God hath made but one
+Covenant with mankind in Christ Jesus, therefore there
+can be but one Christian Church throughout the World,<NOTE PLACE="marg">Resol. of Cases, <HI>p.</HI> 8.</NOTE>
+founded on this one Covenant.</P>
+<P><HI>Having explained the general notion of</HI> Church-Com∣munion,<NOTE PLACE="marg">p. 10.</NOTE>
+which signifies no more than Church-Fellowship and
+Society, that to be in Communion with the Church is to be
+a Member of the Church, <HI>I came to enquire, what made a
+Separate Church.</HI> For if there be but one Church and one
+Communion,<NOTE PLACE="marg">p. 19.</NOTE> of which all true Christians and Christian Chur∣ches
+are or ought to be Members, then those Churches, which
+are not Members of each other, are Separate Churches.
+<HI>And for a fuller explication of this,</HI><NOTE PLACE="marg">p. 20.</NOTE> <HI>I observed several
+things.</HI></P>
+<P><HI>I.</HI> That there must be but one Church in one Place. Be∣cause
+there is no other Rule of Catholick-Communion, but to
+Communicate in all Religious Offices, and all Acts of Govern∣ment
+and Discipline, with those Christians with whom they
+live. For to Renounce the Ordinary Communion of Christi∣ans,
+or true Christian Church, is to divide the Vnity and
+Communion of the Church; and to withdraw our selves from
+Ordinary Communion with the Church in which we live,<NOTE PLACE="marg">p. 21.</NOTE> in∣to
+distinct and separate Societies for Worship, is to Renounce
+their Communion, and when there is not a necessary cause for
+it, is a Schismatical Separation.</P>
+<P><HI>And a little after I added,</HI> If all Christians are Members
+of the one Body of Christ, nothing can justifie the distin∣ction
+of Christians into several Churches, but onely such a di∣stance
+of place, as makes it necessary and expedient to put
+them under the Conduct and Government of several Bishops,
+for the greater Edification of the Church in the more easie and
+regular Administration of Discipline. And therefore nothing
+can justifie the gathering a Church out of a Church, and di∣viding
+Neighbour-Christians into distinct Communions.
+<HI>Now then let us consider what follows.</HI></P>
+<P><PB N="13" REF="8"/>
+1. <HI>You say,</HI> either that the French Protestants have
+no church here, but are Schismaticks in not Communicating
+with ours; Or that ours is guilty of Schism, in making the
+Terms of Communion so streight, that it is not the Duty of
+of every one (though a licensed Stranger) to Communicate
+with this Church.</P>
+<P><HI>Ans.</HI> If any Foreign Church among us, which by
+Royal Favour is allowed the Observation of their
+own Discipline and Rules of Worship, Renounce Com∣munion
+with the Church of <HI>England,</HI> or Communicate
+with our Separatists, she is Schismatical her self; as
+the Protestant Churches in <HI>France, Geneva,</HI> or <HI>Holland</HI>
+would be, should they do the like. But if there be any
+reason to allow those Foreigners, which are among us,
+to Form and Model their Congregations according to
+the Rules of their own Churches to which they original∣ly
+belong, this is no more a Schism, than there is be∣tween
+the Protestant Churches of <HI>France</HI> and <HI>England,</HI>
+which own each others Communion.</P>
+<P>A bare Variety of Rites and Ceremonies makes no
+Schism between Churches; our Church pretends not
+to give Laws to other Churches, in such matters, but
+leaves them to their Liberty, as she takes her own:
+and why an Ecclesiastical Colony may not for great
+reasons be Transplanted into another Church, as well
+as a Civil Colony into another Kingdom, while they
+live in Communion with each other, I cannot tell. It
+is a different thing to gather a Church out of a Church,
+and to Transplant some Members of one Church into a∣nother
+(maintaining the same Communion, though with
+some peculiar an different usages) with the consent of
+the Church to which they come.</P>
+<P>The case of Strangers and Natives has always been
+accounted very different, both upon a Religious and Ci∣vil
+account: Every particular National Church has
+<PB N="14" REF="9"/>
+Authority over her own Members, to direct and Go∣vern
+her own Communion, and prescribe the Rules of
+Worship; but as she does not Impose upon other
+Churches at a distance, so she may allow the same li∣berty
+to the Members of such Foreign Churches, when
+they live within her Jurisdiction, without breach of
+Communion: for tho the Communion of the whole
+Christian Church is but one, and all true Catholick
+Churches are Members of each other, yet the Authori∣ty
+and Jurisdiction is different; every Church challeng∣ing
+a peculiar Authority, which it exerciseth in its
+own Communion; and therefore for the Church of
+<HI>England</HI> to suffer Foreign Churches to observe their
+own Customs and Usages, is not to allow of distinct
+and separate Communions in her own Bowels, (which
+were Schismatical,) but onely to exempt such Con∣gregations
+of Strangers from her particular Jurisdiction,
+and to leave them to the Government and Authority of
+the Church to which they belong.</P>
+<P>There was no such thing indeed allowed in the
+Primitive Church, as distinct Congregations of Foreig∣ners
+under a different Rule and Government; and it
+were very desirable, that all Christians who have oc∣casion
+to live in other Countries, would conform to
+all the innocent and laudable customs of the Church
+where they sojourn, which seems most agreeable to Ca∣tholick
+Communion; but yet distinct Congregations of
+Foreigners, who own the Communion of our Church,
+tho they observe the customs of their own, are not
+Schismatical, as the Separate Conventicles of Dissenters
+are.</P>
+<P>2. <HI>But</HI> does it not follow from the obligation to com∣municate,
+or to be ready to communicate with any true
+Church where distance does not hinder, that a Member of
+the Church of <HI>England</HI> is not obliged to constant Commu∣nion
+<PB N="15" REF="9"/>
+with that Church, but may occasionally communicate
+with the French Church, nay with Dissenters too, if he be∣lieves
+that any of their Congregations is a true Member of
+the Catholick Church?</P>
+<P><HI>Ans.</HI> This is a great Mastery of Wit, to turn my
+own Artillery upon me. I prove the Dissenters to be
+Schismaticks, because they set up a Church within a
+Church, whereas there ought to be but one Church and
+one Communion in one place, every Christian being
+bound to Communicate with the sound part of the
+Catholick Church in the place wherein he lives; for
+according to the Laws of Catholick Communion, no∣thing
+but distance of place can suspend our obligation
+to actual Communion; Hence you conclude, that we
+must Communicate with Schismaticks, if there be any
+among us, or so near to us, that distance does not hin∣der
+our Communion. But you should consider, that
+our obligation to Catholick Communion does equally
+oblige us to renounce the Communion of Schismaticks
+whether at home or abroad; and tho we should allow
+them to be true Churches, yet if Schismatical, they are
+not Catholick Churches, and therefore not the objects of
+Catholick-Communion.</P>
+<P>But however, we may lawfully Communicate with
+the French Church that is among us, as occasion
+serves. Yes, no doubt we may, because they are in
+Communion with us. But then follows the Murder∣ing
+consequence, <HI>that a Member of the Church of</HI> Eng∣land
+<HI>is not bound to a constant Communion with her.</HI> I
+pray, why so? every Member, as a Member, is in
+constant Communion;<NOTE PLACE="marg">Resol. of Cases, <HI>p.</HI> 10.</NOTE> for to be in Communion with
+a Church, is to be a Member of it, as I pro∣ved
+at large: but then Church-Communion does
+not primarily respect a Particular but the Universal
+Church,<NOTE PLACE="marg">p. 13.</NOTE> and therefore it is no interruption of our
+<PB N="16" REF="10"/>
+Communion with the Church of <HI>England</HI> to Commu∣nicate
+actually with any Church, which is in Commu∣nion
+with her: for as all Christians, who are neither
+Hereticks nor Schismaticks, are Members of the Ca∣tholick
+Church, so they are in Communion with the
+Catholick Church, and every sound part of it. The
+State of Communion is constant with the whole Ca∣tholick
+Church, the acts of Communion are performed
+sometimes in one part of it, sometimes in another, as
+our presence, abode, or occasions, require; and thus
+it is possible actually to Communicate with the French
+Church, either in <HI>England</HI> or out of <HI>England,</HI> without
+interrupting our Communion with the Church of <HI>Eng∣land;</HI>
+for the Communion is one and the same in all
+Christian Churches, which are in Communion with each
+other, though they may observe different Rites and
+Modes of Worship.</P>
+<P>And this I suppose is a Sufficient answer to that o∣ther
+untoward consequence, that if the Members of the
+Church of <HI>England</HI> may occasionally Communicate
+with the French Church, <HI>then Constant Commnnion is not
+always a Duty, where occasional Communion is lawful;</HI> I
+suppose, because we are not bound to a constant a∣ctual
+or presential Communion with the French
+Church, though we may occasionally Communicate
+with it.</P>
+<P>But certainly, Sir, Had you ever considered, what I
+discourst about constant and occasional Communion, you
+would not have made such an Objection as this: For this
+is a Modern distinction, which has no sence at the bottom,
+as I plainly shewed. But however, by constant Com∣munion,
+our Dissenters understand the performing the
+Acts of Communion, always or ordinarily in the same
+Church; and by occasional Communion, performing the
+Acts of Communion sometimes, or as occasion serves, in
+<PB N="17" REF="10"/>
+another Church; now with respect to this Notion of
+constant or occasional Communion, as it signifies the
+constant and ordinary, or the Occasional Acts of Com∣munion,
+must that question be understood, <HI>whether Con∣stant
+Communion he a Duty, where Occasional Communion
+is Lawful;</HI> the meaning of which question is this, whe∣ther
+when other reasons and circumstances determine
+my Personal Communion Ordinarily to one Church,
+it be not my Duty to Communicate ordinarily with that
+Church, if I can lawfully Communicate sometimes with
+it: and there being no other reason to justifie non-Com∣munion
+with any Church with which I am bound for
+other reasons Ordinarily to Communicate, but onely
+Sinful Terms of Communion, and there being no Co∣lour
+for such a Pretence, where occasional Communion
+is acknowledged Lawful, (for Sinful Terms of Com∣munion
+make occasional as well as constant Acts of
+Communion Sinful) I hence conclude, that it is a neces∣sary
+Duty to Communicate constantly or ordinarily
+with that Church in which I live, if it be Lawful
+to Communicate occasionally, or sometimes, with
+it.</P>
+<P>But if any Man will be so perverse as to understand
+this Question, as you now do, not of the Communion
+of a Church which for other reasons we are bound to
+Communicate Ordinarily with, but of any Church
+with which I may Lawfully Communicate as occasion
+serves, it makes it an absurd and senseless Proposition, to
+say, that constant Communion (by that meaning pre∣sential
+and personal Communion) is always a Duty,
+where occasional Communion is lawful. For at this rate,
+if occasional Communion with the Protestant Church∣es
+of <HI>France, Geneva, Holland, Germany,</HI> be Lawful,
+it becomes a necessary Duty for me to Communicate
+always personally and presentionally with all these
+<PB N="18" REF="11"/>
+Churches at the same time, which no man can do, who
+can be present but in one place at a time. But yet thus
+far the Proposition holds universally true, that whatever
+Church I can occasionally Communicate with without
+Sin, I am also bound to Communicate constantly with,
+whenever such reasons, as are necessarie to determine
+my Communion to a particular Church, make it my Du∣tie
+to do so. And no man in his Wits ever understood
+this Question in any other sense.</P>
+<P><HI>But this you think cannot be my meaning; For</HI> accor∣cording
+to me, no Man is obliged to be a Member of one Sound
+Church more than another, provided the distance is not so
+great, but that he may Communicate with both.</P>
+<P>It is wonderful to me, Sir, how you should come to fa∣sten
+so many absurd Propositions upon me; and I would
+desire of you for the future, if you have no regard to
+your own Reputation, yet upon Principles of Com∣mon
+Honesty, not to write so hastily, but to take some
+time to understand a Book, before you undertake to con∣fute
+it.</P>
+<P>Where do I say, <HI>that no man is Obliged to be a Member
+of one Sound Church more than of another?</HI> I assert in∣deed,
+that no Baptized Christian is a Member of any par∣ticular
+Church, considered meerly as particular, but is a
+Member of the universal Church, and of all sound Ortho∣dox
+Churches, as parts of the Universal Church. This
+puts him into a State of Communion with the whole
+Church, without which he cannot be properly said to
+perform any Act of Church-Communion, though he
+should join in all the Acts and Offices of Christian
+worship: But is there no difference between being a
+Member of the Universal Church, and of all particular
+Churches, which are Parts and Members of the Uni∣versal
+Church, and <HI>not to be Obliged to be a Member of
+one Sound Church more than of another?</HI> The first sup∣poses,
+<PB N="19" REF="11"/>
+that every Christian, whatever particular Church
+he actually Communicates in, is a Member of the whole
+Christian Church, and of all particular Sound Churches;
+the second supposes the quite contrary, that Christians
+are so Members of one Church, as they are not of ano∣ther;
+that constant Communion in a particular Church
+confines their Church-Membership to that particular
+Church in which they Communicate.</P>
+<P>So that the question is not, what Church I must be
+a Member of; for every Christian is a Member of the
+whole Church, not meerly of this or that particular
+Church; but what particular Church I must Commu∣nicate
+in: now our Obligation to Communicate in a
+certain particular Church, results from the place where∣in
+we live; The Church in which we were Born and
+Baptized, and have our Ordinary abode and Residence,
+the Church which is incorporated into the State of
+which we are Natural Subjects, if it be a true and sound
+Christian Church, Challenges our Communion and
+Obedience.</P>
+<P>Now in the same place, there never can be any Com∣petition
+between two Churches, because there must be
+but one Church in the same place, and therefore there
+can be no dispute in what Church we must constantly
+Communicate, which must be the Church in which we
+live.</P>
+<P>But is there not a <HI>French,</HI> and a <HI>Dutch,</HI> as well as an
+<HI>English</HI> Church in <HI>London,</HI> and since distance of place does
+not hinder, may we not choose, which of these we will or∣dinarily
+Communicate with?</P>
+<P>I answer no, we have onely the Church of <HI>England</HI>
+in <HI>England.</HI> The <HI>French</HI> Church is in <HI>France,</HI> and the
+<HI>Dutch</HI> Church is in <HI>Holland,</HI> though there is a <HI>French</HI>
+and <HI>Dutch</HI> Congregation allowed in <HI>London.</HI> These Con∣gregations
+belong to their own Original Churches,
+<PB N="20" REF="12"/>
+and are under their Government and Censures; but there
+is no Church-Power and Authority in <HI>England,</HI> but on∣ly
+of the Church of <HI>England,</HI> and therefore though we
+may occasionally Communicate with the <HI>French</HI> Con∣gregation,
+our Obligation to constant Communion is
+with the Church of <HI>England,</HI> which alone has Authori∣ty
+and Jurisdiction in <HI>England</HI> to require our Commu∣nion
+and Obedience: one particular Church is distin∣guisht
+from another not by a distinct and separate
+Communion, which is Schismatical, but by distinct
+Power and Jurisdiction; and that Church within whose
+Jurisdiction we live, can onely Challenge our Commu∣nion;
+and I suppose no Man will say, that in this sence,
+we live in the <HI>French</HI> or <HI>Dutch</HI> Church, because there is
+a <HI>French</HI> and <HI>Dutch</HI> Church allowed among us.</P>
+<P>5. <HI>Your next Query is,</HI> Whether a true Christian,
+though not visibly admitted into Church-Communion, where
+he wants the Means, has not a virtual Baptism in the
+Answer of a good Conscience towards God, according to 1.
+<HI>Peter,</HI> 2. 21.</P>
+<P><HI>Ans.</HI> What this concerns me, I cannot tell. I speak
+onely of the Necessity of Visible Communion in Visible
+Members, you put a question, whether the want of
+Visible Admission by Baptism, when it can't be had,
+may not be supplied with the answer of a good Con∣science
+towards God. I hope in some cases it may,
+though I do not hope this from what St. <HI>Peter</HI> saies,
+who onely speaks of that Answer of a good Conscience,
+which is made at Baptism, not of that, which is made
+without it. But what God will accept of in this case, is
+not my business to determine; unbaptized Persons are no
+Visible Members of the Church, and therefore not ca∣pable
+of Visible Communion, and therefore not concer∣ned
+at all in this dispute.</P>
+<P>6. Query, Why a profest Atheist, who has been Bapti∣zed,
+<PB N="21" REF="12"/>
+and out of Secular Interest continues a Communicant
+with this Church, is more a Member of the Catholick Church
+than such as are above described.</P>
+<P><HI>Ans.</HI> Neither Atheists nor Schismaticks are Mem∣bers
+of the Catholick Church. But this is a vile insinu∣ation
+against the Governours and Government of our
+Church, as if profest Atheists were admitted to Com∣munion.
+Though possibly there may be some Atheists,
+yet I never met yet with one, who would profess him∣self
+an Atheist. If I should, I assure you, I would not
+admit him to Communion, and I hope there is no Mi∣nister
+of the Church of <HI>England</HI> would; and I am sure,
+no Man, who had any kindness for the Church, with
+which he pretends to hold Communion, would ask such
+a question.</P>
+<P>7. Query. Whether as the Catholick Church is compared
+to a Body of Men incorporated by one Charter should upon
+supposition of a possibility of the forfeiture of the Charter to
+the whole Body, by the Miscarriages of any of the Officers,
+does it likewise follow that the Miscarriages of any of the
+Officers, or the Church Representative, as I remember
+Bishop <HI>Sanderson</HI> calls the Clergy, may forfeit the Privi∣ledges
+given by Christ to his Church, or at least may su∣spend
+them? As suppose a Protestant Clergy taking their
+Power to be as large as the Church of <HI>Rome</HI> claim'd,
+should deny the Laity the Sacraments, as the Popish did in
+<HI>Venice,</HI> and here in King <HI>Johns</HI> time, during the Interdicts,
+<HI>quid inde operatur?</HI></P>
+<P><HI>Ans.</HI> Just as much as this Query does, the reason of
+which I cannot easily guess. I asserted indeed, that as
+there is but one Covenant on which the Church is foun∣ded,
+so there can be but one Church to which this Co∣venant
+belongs; and therefore those, who divide and
+separate themselves from this one Body of Christ,<NOTE PLACE="marg">Resol. of Cases, <HI>p. 8. &amp;c.</HI></NOTE> for∣feit
+their right to this Covenant, which is made onely
+<PB N="22" REF="13"/>
+with the one Body of Christ; which I illustrated by
+the instance of a Charter granted to a particular Corpo∣ration,
+which no Man had any interest in, who divi∣ded
+himself from that Corporation to which this Char∣ter
+was granted: but what is this to forfeiting a Char∣ter
+by the Miscarriages of Officers? I doubt Sir, your
+Head has been Warmed with Quo Warranto's, which
+so affect your Fancy, that you can Dream of nothing
+else.</P>
+<P>I was almost afraid, when your hand was in, I
+should never have seen an end of these Questions; and I
+know no more reason, why you so soon left off asking
+Questions, than why you askt any at all; for I would
+undertake to ask five hundred more, as pertinent to the
+business as most of these. You have not indeed done
+yet, but have a reserve of particular Queries; but gene∣ral
+Queries are the most formidable things, because it is
+harder to find what they relate to, than how to Answer
+them.</P>
+<P>You have three sets of Queries relating to three seve∣ral
+Propositions, besides a parting blow of four Queries
+relating to my Text.</P>
+<P>The first Proposition you are pleased to question me
+about is this, <HI>That our Saviour made the Apostles and
+their Successors Governours of his Church, with promise
+to be with them to the end of the World.</HI> Which I al∣ledged
+to prove, that when the Church is called <HI>the
+Body of Christ,</HI> it does not signifie a confused multitude
+of Christians, but a regular Society under Order and
+Government.</P>
+<P>Now Sir, is this true or false? if it be false, then
+the Church is not a governed Society, is not a Body,
+but a confused heap and multitude of Independent In∣dividuals,
+which is somewhat worse than Independent
+Churches. If it be true, why do you ask all these
+<PB N="23" REF="13"/>
+Questions, unless you have a mind to confute our Savi∣our,
+and burlesque his Institutions: but since I am con∣demned
+to answer questions, I will briefly consider them.</P>
+<P>1. Whether our Saviours promise of Divine Assistance,
+did not extend to all the Members of the Church, consider∣ing
+every man in his respective station and capacity, as well
+as the Apostles, as Church-Governours? For which you may
+compare St. <HI>John</HI> with St. <HI>Matthew.</HI></P>
+<P><HI>Ans.</HI> No doubt but there are promises, which relate to
+the whole Church, and promises which belong to parti∣cular
+Christians, as well as promises which relate peculi∣arly
+to the Apostles and Governours of the Church, in
+the exercise of their Ministerial Office and Authority:
+but what then? Christ is with his Church, with his Mi∣nisters,
+with particular Christians, to the end of the
+World, but in a different manner, and to different pur∣poses;
+and yet that promise there is peculiarly made to
+the Apostles, including their Successors also; for the A∣postles
+themselves were not to continue here to the end
+of the World, but an Apostolical Ministry was.</P>
+<P>2. <HI>Therefore Query,</HI> Whether it signifies any thing to
+say there is no promise to particular Churches, provided
+there be to particular Persons, such as are in charity with
+all Men, and are ready to communicate with any Church
+which requires no more of them, than what they conceive to
+be their duty; according to the Divine Covenant?</P>
+<P><HI>Ans.</HI> It seems to me to be a harder Query, what
+this Query means; or how it concerns that Authority,
+which our Saviour has given to his Apostles for the
+Government of the Church; to which this Query re∣lates.
+I asserted indeed, that Christ hath made no
+Covenant with any particular, but onely with the U∣niversal
+Church, which includes particulars as Mem∣bers
+of it; nor has he made any promise to particular
+Persons, but as Members of the Church, and in Com∣munion
+<PB N="24" REF="14"/>
+with it, when it may be had upon lawful terms.
+Whoever breaks the Communion of the Church
+without necessary reason, tho he may in other things
+be a very good natur'd man, yet he has not true Chri∣stian
+Charity, which unites all the Members of the
+same Body in one Communion; and tho the Church
+may prescribe Rules of Worship, which are not ex∣pressed
+in the Divine Covenant, this will not justifie
+a Separation, if she commands nothing which is for∣bid;
+for the very Authority Christ has committed to
+his Ministers, requires our obedience to them in things
+lawful; and if Men will adhere to their own private
+Fancies in opposition to Church-Authority, they are
+guilty of Schism, and had best consider, whether such
+pride and opinionativeness will be allowed for ex∣cuse.</P>
+<P>3. Whether if the promise you mention be confined to
+the Apostles, as Church-Governours, it will not exclude the
+Civil Power.</P>
+<P><HI>Ans.</HI> There are peculiar promises made to Church-Governours,
+and to Civil Magistrates; their Autho∣rity
+and Power is very distinct, but very consi∣stent.</P>
+<P>4. What was the extent of the promise, whether it was
+to secure the whole Church, that its Governours should
+never impose unlawful Terms of Communion, or that there
+never be a defection of all the Members of the Catholick
+Church, but that there should always be some true Mem∣bers?</P>
+<P><HI>Ans.</HI> The promise is, that Christ will be with be them
+in the discharge of their Ministry, and Exercise of their
+Power, and this is all I know of the matter; our Saviour
+gave them Authority to Govern the Church, and this
+was to last to the end of the World, as long as there is any
+<PB N="25" REF="14"/>
+Church on Earth, which is all I cited it for, and so much
+it certainly proves.</P>
+<P><HI>The Second Proposition: you raise Queries on, is this.</HI>
+'Tis absurd to gather a Church out of a Church of Baptized
+Christians.</P>
+<P>This I do indeed assert, that since the Church is
+founded on a Divine Covenant, and to be in Covenant
+with God, and to be Members of his Church, is the same
+thing; therefore Baptism whereby we are received in∣to
+Covenant with God, makes us Members of the
+Church also; and this makes it very absurd, to gather
+a Church out of Churches of Baptized Christians, which
+supposes that they were not a Church before: instead
+of considering the reason, whereon this is founded, as
+every honest Writer should do, you onely put a perverse
+Comment on it.</P>
+<P><HI>By which</HI> (say you) <HI>I suppose you mean, That Men
+ought not to Separate from such, and live in a distinct
+Church-Communion from any Church of Baptized Christi∣ans;
+which I conceive needs explaining.</HI> But if this were
+true, it were plain enough, but the fault is, that it is
+not true; for we may Separate from any Church of
+Baptized Christians, if their Communion be Sinful;
+which justifies a Separation from the Church of <HI>Rome,</HI>
+and answers your two first Queries.</P>
+<P>But indeed the Proposition, as asserted by me, does
+not so much as concern a Separation from a Church,
+let the cause be what it will, just or unjust. For the
+Independents, who are the Men for gathering Church∣es,
+do not own, that they Separate from any Church,
+but that they form themselves into a Church-State,
+which they had not before, and which no Christians,
+according to their Principle, have, who are not
+Members of Independent Churches. Baptism, they
+acknowledge, makes Men Christians at large, but not
+<PB N="26" REF="15"/>
+Church-Members, which I shewed must needs be very
+absurd, if the Church be a Body and Society of Men
+founded on a Divine Covenant; for then Baptism, which
+admits us into Covenant with God, makes us Members
+of the Church; and they may as well rebaptize Christi∣ans,
+as form them into new Church-Societies.</P>
+<P>This I suppose may satisfie you, how impertinent all
+your Queries are under this head.</P>
+<P>Your two first concern the Separation from the
+Church of <HI>Rome,</HI> which was not made upon Indepen∣dent
+Principles, because they were no Church, but be∣cause
+they were a corrupt Church.</P>
+<P>3. <HI>Whether every Bishoprick in England be not so ma∣ny
+Churches within the National. Ans.</HI> Every Bishop∣rick
+is a distinct Episcopal Church, and the Union of
+them in one National Communion, makes them not so
+many Churches, within a National, but one National
+Church; which you may see explained at large in the
+Defence of Dr. <HI>Still. Vnr.</HI> of Separation.</P>
+<P>4. And therefore Independent and Presbyterian
+Churches are indeed within the National (Churches
+within a Church, which is Schismatical) but not one
+National Church, as Bishopricks are.</P>
+<P>5. And therefore tho we should allow them to have
+the External Form and all the Essentials of a Church
+(which is a very liberal grant) yet they are not in Catho∣lick
+Communion, because they are Schismaticks.</P>
+<P>6. And this is all I am to account for, that they are
+not in Visible Communion with that one Church and
+Body of Christ to which the promises are made. But
+what allowances Christ will make for the mistakes of
+honest well-meaning Men, who divide the Communi∣on
+of the Church, I cannot determine. I can hope as
+Charitably, as any Man, but I dare not be so Cha∣ritable,
+as to make Church-Communion an indiffe∣rent
+<PB N="27" REF="15"/>
+thing, which is the great Bond of Christian Cha∣rity.</P>
+<P>3dly. You take occasion for your next Queries, from
+what I say of the Independent Church-Covenant; you
+say, I <HI>suppose, that the Independents exclude themselves
+from Catholick Communion, by requiring of their Members a
+new contract, no part of the Baptismal vow.</HI></P>
+<P>I prove indeed from their placing a Church-State in
+a particular explicite Covenant between Pastor and
+People, that they separate themselves from the whole
+Body of Christians; for no other Christians, which are
+not in Covenant with them, are Members of their
+Church, nor can they be Members of any other
+Church.<NOTE PLACE="marg">Resol. of Cases. <HI>p.</HI> 10. 32.</NOTE> And I proved that those are Separate Church∣es,
+which are not Members of each other, and do not
+own each others Members for their own. For the
+Notion of Church-Communion consists in Church-Membership,
+and therefore no Man is in Communion
+with that Church of which he is no Member; and if
+no Man can be a Member of a Church, but by such an
+explicite Independent Covenant, then he is a Member
+of no Church but that, with which he is in Covenant,
+and consequently is in Communion with no Church,
+but that particular Independent Congregation of which
+he is a Member by a particular Covenant. And if those
+be Schismaticks and Schismatical Churches, which are
+not in Communion with each other, then all Indepen∣dents
+must be Schismaticks, for they are in Communion
+with none, but their own Independent Congregations.
+Let us now hear your Queries.</P>
+<P>Q. 1. Whether any Obstack to Catholick Communion
+brought in by Men, may not be a means of depriving Men
+of it, as well as Covenant or Contract?</P>
+<P><HI>Ans.</HI> Yes it may, but with this Material difference:
+Other things hinder Communion as Sinful Terms of
+<PB N="28" REF="16"/>
+Communion, this Independent Covenant in its own
+Nature Shuts up, Encloses, and breaks Christian
+Communion into as many Separate Churches and
+Communions, as there are Independent Congregations.
+Sinful Terms of Communion are a just cause of Sepa∣ration;
+an Independent Church-Covenant is a State
+of Separation in its own Nature. The Communion of
+the Church may be restored by removing those Sinful
+Terms of Communion, but there can be no Catholick
+Unity or Communion in the Church under Independen∣cy.</P>
+<P>Q. 2. If it may, which I suppose you will not deny, will
+you not then upon this account, make the Church you live
+in more guilty than the Independents? Baptism you own
+is the onely thing, which admits into the Catholick Church,
+but they require no new Covenant at Baptism, <HI>Ergo,</HI> they
+admit into the Church without any clog or hindrance of hu∣mane
+Inventions.</P>
+<P><HI>Ans.</HI> Pray what comparison is there between the
+Church of <HI>England</HI> and Independency? Whatever fault
+the Church of <HI>England</HI> may be charged with, as to
+its Rites and Ceremonies (which I will not now di∣spute
+with you) yet all this is capable of a Remedy;
+she may give occasion to Schism, if she imposes any
+unlawful and Sinful Terms of Communion, but yet
+the Frame and Essential constitution of the Church is
+not Schismatical; but Independency is Schism in the
+very notion of it, and an Independent Conventicle is
+never capable of becoming a Member of the Catholick
+Church.</P>
+<P>But you say, <HI>I own that Baptism is the onely thing
+which admits into the Catholick Church,</HI> i. e. which
+makes us Members of the Universal Church, and all
+sound parts of it, and that nothing else is necessary to
+make a Church-Member. Very right! I do own this;
+<PB N="29" REF="16"/>
+but what is my owning this, to the Independents? For
+they do not, and will not own it; they admit into their
+Churches, not by Baptism, but by a Human and Vo∣luntary
+Covenant, and will own none for Church-Members
+but such. Baptism at most gives Men onely
+a disposition to be Church-Members, but does not make
+them Members of any Church.</P>
+<P><HI>But they require no new Covenant at Baptism,</HI> ergo,
+<HI>they admit into the Church without any clog or hindrance
+of human Invention,</HI> that is, they admit to Baptism with∣out
+any new Covenant: because Baptism does not, as they
+believe, admit into the Church, <HI>ergo,</HI> they admit into
+the Church without any clog of human Invention.
+And yet Sir, I perceive you do not understand this
+matter neither: for though what their practise is now
+I cannot tell, yet according to their Principles, and
+former Practise, though they required no new Covenant
+of the Child to be Baptized, yet they would Baptize
+no Children, but of such Parents, as were in Church-Covenant
+with them, which is the same thing; and a
+much greater clog to Baptism, than the Sign of the
+Cross, which when I know your exceptions against, I
+will consider them.</P>
+<P>And now Sir, nothing remains of your First Letter,
+but some few Queries relating to the meaning of my
+Text. Your Three first Queries come onely to this,
+whether every particular Church may not be called the
+Body of Christ. I answer, no doubt but it may, and
+yet Christ has but one Body, and all the sound Church∣es
+in the World are but one Body, and must be but one
+Communion. As you may see proved at large in the
+Defence of Dr. <HI>Still.</HI> and the Vindication of that Defence,
+and thither I refer you. But what you mean by Christs
+<HI>Metaphorical Body,</HI> I confess, I cannot tell, and therefore
+cannot answer that Question.</P>
+<P><PB N="30" REF="17"/>
+Your Fourth Query, concerns the nature of Schism,
+which you would not have consist in dividing Com∣munion
+through difference of Opinions, but through
+want of Charity, because the Apostle say, that the
+Members have the same care one of another. Now
+methinks in the natural Body, should the Members
+divide from each other, though they should pretend to
+love one another dearly, they would not be thought to
+have such care of one another, as the Members of the
+same Body ought to have. The Application is easy,
+and you may find this matter plainly stated in the De∣fence
+to which I have so often referred you.</P>
+<P>Thus Sir I have honestly answered all your Queries,
+which you sent me in your First Letter, and which
+you challenge me, and <HI>conjure me</HI> as a Protestant Di∣vine
+to answer <HI>Categorically</HI> in your Second; whether
+they were so very considerable as to deserve either to
+be Printed or Answered, I leave the Reader to con∣sider.</P>
+<P>Your Second Letter, though it be somewhat Pee∣vish,
+yet creates me but little trouble. It has brought
+forth but one Query, and half of that is already An∣swered.</P>
+<P>Whether, if the nature of Catholick Communion re∣quires
+a readiness to Communicate with any sound Church,
+and yet a Church obliges us to Communicate with that
+alone, while distance does not hinder the occasional and
+frequent Communion with others, is not that Church guilty
+of Schism in such an Injunction contrary to the nature of
+Catholick-Communion?</P>
+<P><HI>Ans.</HI> No Church can be so supposed to forbid Com∣munion
+with any Church, which is in Communion
+with her: and as for Schismatical Conventicles, which
+you are pleased to call sound Churches, it is the Duty
+of the Church to forbid all Communion with them,
+<PB N="31" REF="17"/>
+how near soever they be. For Catholick Communion
+obliges us only to Communicate in the Catholick
+Church, from whence Schismaticks have withdrawn
+and separated themselves; and whoever Communicates
+with Schismaticks, is in so doing a Schismatick.</P>
+<P>Or at least, <HI>(as you proceed)</HI> is it not impossible,
+that he who Communicates sometimes with one true
+Church, sometimes with another, can be a Schismatick, or
+any more than an Offender against a positive human
+Law?</P>
+<P><HI>Ans.</HI> If such true Churches be Schismatical, he that
+Communicates with a Schismatical Church, is Guilty
+of a Schismatical Act; and how is it possible, it
+should be otherwise? Should a Man sometimes joyn
+with his Princes Forces, and sometimes with his Ene∣mies,
+and Fight sometimes on the one side, and some∣times
+on the other, were he a Rebel or not? To be
+sure he is a Rebel when he Fights against his Prince,
+though sometimes he Fight for him. We may, and
+ought as occasion serves to Communicate with any
+Church, which is in Catholick Communion; but where
+there are two opposite and separate Communions, to
+Communicate with both, is like taking part on both
+sides; and if one be in the right, and the other in the
+wrong, such a man cannot be in the right al∣ways.</P>
+<P>Well but however, <HI>he is no Schismatick, but only an
+Offender against a positive human Law.</HI> Yes, certainly
+he is a Schismatick, and an Offender, not meerly against
+human positive Laws, but against the Unity of the
+Church, and the Evangelical Laws of Catholick Com∣munion.</P>
+<P><HI>But this mention of Law puts me in mind of a pas∣sage
+or two at the beginning of your Preface. You
+say,</HI> perhaps it's no absurdity to suppose, that Men may
+<PB N="32" REF="18"/>
+as well continue Members of the National Church, not∣withstanding
+their breaking many positive Laws, made for
+the outward management and ordering of it, though not
+Fundamental and necessary to its being; as he who in∣curs
+the penalty of any Statute of the Realm about Civil
+affairs, may however be a sound Member of the State,
+if he keep from Treason and other Capital Crimes.</P>
+<P>Very right Sir! While Men continue in the Com∣munion
+of the Church, they are Church-Members,
+though they may be irregular, and guilty of some Acts
+of Disobedience; but methinks it is a little absurd to
+say, that those continue Members of the Church,
+who separate from it: Schism and Separation from
+the Church, is just what Treason and Rebellion is in
+the State, and such persons by your own confession
+cease to be sound Members.</P>
+<P><HI>You add,</HI> Nay possibly, that there should be several
+Religious Assemblies, living by different Customs and
+Rules, and yet continuing Members of the National Church,
+is not more inconsistent, than, that particular places should
+have their particular Customs and By-Laws, differing
+from the Common Law of the Land, without making a di∣stinct
+Government.</P>
+<P><HI>Ans.</HI> Whatever variety and difference in the Rules
+of Worship in several Congregations, is consistent with
+one Communion, may be granted, when the prudence
+of Governours sees it fit and expedient. But Mr. <HI>Hum∣phry</HI>'s
+project, which I perceive you are nibling at, of
+making a National Church by an Act of Parliament,
+which should declare Presbyterians, Independants, <HI>&amp;c.</HI>
+to be Parts of the National Church, is certainly the
+cunningest way of curing Schism, that ever was thought
+on: but you may find that expedient for Union at
+large considered in the Vindication of the Defence
+of Dr. <HI>Still.</HI></P>
+<P><PB N="33" REF="18"/>
+And thus Sir I proceed to your Third Letter, and
+here you run nothing but Dregs and Lees; and I hope
+you will not think it any neglect of you, if I do not
+answer you Paragraph by Paragraph, as I have done
+your first Letter, there being little new in this, but
+only a Repetition of your old Queries: and though
+you know Repetitions are very <HI>convenient to lengthen a
+Sermon,</HI> there is no need of such Arts to lengthen this
+Answer, which is too long already.</P>
+<P>Your first Charge upon me is, that I only amuse
+People with Equivocal Words and Terms:<NOTE PLACE="marg">Letters 3. p. 16.</NOTE> that I play
+with the words, <HI>Church</HI> and <HI>Schism;</HI> which had been no
+fault, had I played the right way with them, that is, had
+I ridiculed them, as you do, who think them words on∣ly
+fit to be played with, who have found out a Church
+without any Government, which is,<NOTE PLACE="marg">p. 12.</NOTE> only <HI>an Intreague
+between Clergy-men on all sides,</HI> who will not allow
+<HI>causeless Separation from a Sound part of the Catholick
+Church</HI> to be Schism,<NOTE PLACE="marg">p. 17.</NOTE> but place Schism <HI>wholly in want of
+Charity,</HI> and make it nothing else but some Divisions
+and Contentions between the Members of the same
+Church, who still live in Communion with one another;
+a true Independent Notion to justifie causeless Separa∣tions.
+Divisions in the Church are certainly very Sinful,
+and a degree of Schism, as unnatural, as if the Mem∣bers
+of the same Body should fight with each other,
+while they are United to the same Body; but to divide
+from the same Body is the perfection of Schism, unless
+a quarrel be a Rent and Schism, but Separation be
+none.</P>
+<P>You desire me to define, what I mean by a Church,
+when considered as Catholick and Universal, and when
+taken in a more restrained sense. But this, I think I
+have done already, if you had eyes to see it; and you
+may find it done more largely in the Defence of Dr. <HI>Still.</HI>
+<PB N="34" REF="19"/>
+But would not any Man, who had ever seen this discourse,
+which you undertake to confute, wonder to hear you
+ask me;<NOTE PLACE="marg">p. 18.</NOTE> <HI>whether a Man has a right to be of a particular
+Church as he is a Christian;</HI> when the whole design of
+that Tract is to prove, that every Christian by being so,
+is a Member of the Catholick Church, and has a right
+to Communicate with all sound parts of the Catholick
+Church, and bound to Communicate with that part of
+it, in which he lives?</P>
+<P>In the next place you attempt to prove, that the
+Influences and Operations of the Holy Spirit, are not
+confined to the Visible,<NOTE PLACE="marg">p. 19.</NOTE> but Invisible Church: but not
+to examine your proof of it, which is nothing to the
+purpose, you may consider, that the Visible and Invi∣sible
+Church on Earth are not two, but one Church;
+not that every Member of the Visible Church is a
+Member also of the Invisible, that is, every profest
+Christian is not a true Believer; but whoever is not a
+Member of the Visible Church, and does not live in
+Communion with it, when it may be had, is not,
+that we know of, a Member of the Invisible
+Church.</P>
+<P>We have no way to prove, that any Man is a Mem∣ber
+of the Invisible, who is not a Member of the Visi∣ble
+Church; and what we do not, and cannot know,
+does not concern us; secret things belong to God, and
+with him it becomes us to leave them. But this also
+you may find more largely discourst in the Vindication
+of the Defence.</P>
+<P><HI>You urge the case of Pope</HI> Victor, <HI>who, as you say,</HI>
+in a Council or full representative of that Church,<NOTE PLACE="marg">p. 21.</NOTE> ex∣communicated
+the poor Asians <HI>upon the Paschal Contro∣versy.</HI>
+And that each Church was far enough from own∣ing
+each others Members for their own—What should the
+poor Lay-Christians do in this divided State? could they
+<PB N="35" REF="19"/>
+not Communicate with both, or either, without danger of
+Schism themselves?</P>
+<P><HI>Ans.</HI> It is an easie matter to put hard Cases, almost
+about any thing; and if a particular hard Case, which
+either may possibly happen, or has sometimes happen∣ed,
+is sufficient to overthrow a standing and general
+Rule, and to confute the most plain and convincing
+Evidence for it, there is nothing in Religion can be
+firm and stable. In the very same manner Men Di∣spute
+against the Being of a God, and a Providence,
+against the necessity of Baptism, and the Lords Sup∣per,
+against the Apostolical Power and Ministry, and
+all Church-Government, against the necessity of Be∣lieving
+many fundamental Articles of our Faith, be∣cause
+many, otherwise very good Men, from the
+Power and Prejudice of Education, or through weakness
+of understanding, may be guilty of some damnable He∣resies.</P>
+<P>But must there be no standing Laws or Rules, be∣cause
+there may happen some hard and difficult Cases?
+Does not humane Power make Provision against such
+Cases by Courts of Chancery, or the Prerogative of the
+Prince, and yet maintain the Authority and Sacredness
+of Laws? And will we not allow God himself a Power
+of Dispensing with Laws in hard Cases, without destroy∣ing
+the Authority of his Laws? Is not Church-Com∣munion
+a necessary Duty, because it may so happen,
+that sometimes I cannot Communicate with any
+Church? Is not Schism a very grievous and damning sin,
+because it may happen, that Men may be unavoidably,
+innocently, and without a Schismatical mind, engaged
+in a Schism?</P>
+<P>I have evidently proved the necessity of Church-Unity
+and Communion, and the evil and danger of
+Schism; and if you can answer the Scripture-Evidence
+<PB N="36" REF="20"/>
+produced in this Cause, I will carefully consider it;
+but it is no confutation of a plain Law, to urge hard
+Cases against it, which will overthrow all Laws, that
+ever were made. If you imagine, or can produce
+any real Case, wherein it is almost impossible for the
+Persons concerned to know, that they are guilty of
+Schism, or to discover on which side the Schism lies,
+or to avoid it without renouncing all Communion
+with the Church, which course soever they take, I
+leave all such Cases to God, who knows, when it is
+fit to dispence with his own Laws; and will take care
+of my own Duty according to Scripture-Rules, and
+not hope to justifie the ordinary breach of known Laws
+by some extraordinary Cases.</P>
+<P>And yet the Case, which you propose, is not so un∣answerable
+a difficulty, as you imagine. Several Coun∣cils
+in <HI>Palestine,</HI><NOTE PLACE="marg"><HI>Euseb.</HI> b. 5. cap. 23.</NOTE> in <HI>Rome,</HI> in <HI>Pontus,</HI> and other places,
+Determine the Celebration of <HI>Easter</HI> on the day of the
+Resurrection, not on the Fourteenth Day of the
+Month, which was the Jewish Passover, (which di∣spute
+you call <HI>a Mistake in Arithmetick,</HI> but for what
+reason I know not) the Bishops of <HI>Asia</HI> at the same
+time decree the observation of <HI>Easter</HI> on the Four∣teenth
+Day, whatever Day of the week it fell on, ac∣cording
+to the Ancient Observation of the <HI>Asian</HI>
+Churches. Pope <HI>Victor</HI> upon this, writes to several
+Bishops very bitterly against them, and was very de∣sirous
+to have them Excommunicated,<NOTE PLACE="marg"><GAP DESC="illegible" REASON="blotted" EXTENT="2 letters" DISP="••"/>p. 24.</NOTE> and did as much
+as in him lay, denounce the Sentence against them.</P>
+<P>But this was ill resented by other Bishops in Com∣munion
+with him; and particularly <HI>Ireneus</HI> wrote a
+Letter to him about it, and earnestly disswades him
+from it, and did prevent it from taking effect, if we
+will believe <HI>Eusebius.</HI> So far is it from being true, as
+you assert, that Pope <HI>Victor</HI> in a Council Excommu∣nicated
+<PB N="37" REF="20"/>
+the poor <HI>Asians;</HI> what he did was only his
+own Act, which was displeasing to other Bishops, and
+which he was forc't to undo. So that here was a great
+deal of Heat and Warmth, and tendency towards a
+Schism, but no Schism followed upon it, among the
+Catholick Churches.</P>
+<P>But suppose Pope <HI>Victor</HI> had Excommunicated the
+<HI>Asian</HI> Churches, and this Excommunication had taken
+effect, this could not make the <HI>Asian</HI> Churches Schis∣maticks:
+for there is a great deal of difference between
+being cast out of the Communion of a Church, and
+forsaking the Communion of a Church. The first is
+matter of censure, the second is our own choice; the
+First is an Ecclesiastical Punishment, the Second when it
+is causeless, is Schism.</P>
+<P>So that had the Church of <HI>Rome</HI> Excommunicated
+the <HI>Asian</HI> Churches, unless the <HI>Asian</HI> Churches upon
+this, had made a Separation from the Church of <HI>Rome,</HI>
+this Excommunication could not make them Schisma∣ticks,
+and therefore any one might safely Communi∣cate
+with them without partaking in a Schism.</P>
+<P>Nor was it a just reason for the <HI>Asian</HI> Churches to
+have renounced the Communion of the Church of
+<HI>Rome,</HI> though they had been Excommunicated by
+<HI>Victor;</HI> for this had been to do as ill a thing as <HI>Victor</HI>
+had done, for no other reason, but because Pope <HI>Victor</HI>
+had set them an example. And therefore we find
+Saint <HI>Cyprian</HI> of another temper, when he and the
+<HI>African</HI> Bishops were threatned in the same manner
+by Pope <HI>Stephen,</HI> upon occasion of that warm Dispute
+about rebaptizing Hereticks. At that very time, in his
+Epistle to <HI>Jubaianus,</HI> he declares his resolution, not to
+break Communion with any Church or Bishops upon
+that account, and therefore not with Pope <HI>Stephen</HI>
+himself, notwithstanding his rash and furious Censures.
+<PB N="38" REF="21"/>
+And concludes, that Patience and Forbearance was the
+best Remedy in such Cases, and therefore upon this
+occasion, he says, he wrote his Book <HI>de bono Patien∣tiae.</HI></P>
+<P>Well, but if the Asiatick Churches were not Schis∣maticks,
+yet Pope <HI>Victor</HI> had been a Schismatick, had
+he Excommunicated the Churches of <HI>Asia,</HI> or with∣drawn
+Communion from them. And this had made
+the case of the <HI>Roman</HI> Christians very hard: for they
+must either have suspended Communion with both
+these divided Churches, and lived without the comfort
+and advantages of Christian Communion; or they must
+have rejected the Communion of their own Bishop,
+and Churches, or have rejected the Communion of the
+Churches of <HI>Asia,</HI> or have maintained Communion
+with them both, that is, with two Separate Churches,
+which according to my Principles, is to Communicate
+in a Schism. If they Communicate with their own
+Schismatical Bishop, this is to Communicate in a
+Schism, by Communicating with a Schismatick; if
+they Renounce his Communion, when he imposes no
+new unlawful Terms of Communion upon them, this
+is to Separate from a Sound and Orthodox Church, for
+the sake of a Schismatical Bishop. If they Communicate
+with the Churches of <HI>Asia,</HI> this is to break Communion
+with their own Bishop, who has Excommunicated
+them▪ if they separate from the Churches of <HI>Asia</HI> for
+no other reason, but because they are unjustly Excom∣municated,
+this is to Separate for an unjust cause,
+which is a Schism; if they communicate with both,
+they Communicate with two Separate Churches, and
+therefore must be Schismaticks on one side or other. If
+you can find any more difficulties in this matter, you
+may. And yet after all this, I do believe the Christians
+of <HI>Rome</HI> might have Communicated both with the <HI>Ro∣man</HI>
+<PB N="39" REF="21"/>
+and <HI>Asian</HI> Churches without Schism; and this I be∣lieve
+upon these Principles, which I shall briefly explain,
+and confirm.</P>
+<P>1. That the Personal miscarriage of the Bishop in the
+exercise of <HI>Ecclesiastical</HI> Censures, cannot involve his
+whole Church in the guilt of Schism, though it may
+make him a Schismatick: and certainly since Bishops
+are but Men, and Subject to the like passions and in∣firmities,
+that other men are, it would be a very hard
+case, if his personal Schism should be imputed to the
+whole Church.</P>
+<P>Though the Bishop have the chief Authority in the
+Church, yet it is hard to say, that every abuse of his Au∣thority
+is the Act of the whole Church; and therefore
+the Church may not be Schismatical, when the Bishop
+is; and it is possible to Communicate with a Church,
+whose Bishop is a Schismatick, without Communicating
+in the Schism. And therefore though <HI>Victor</HI> had Schis∣matically
+Excommunicated the <HI>Asian</HI> Churches, the
+Christians of <HI>Rome</HI> at that time might have Communi∣cated
+with the Church of <HI>Rome</HI> without partaking in
+<HI>Victors</HI> Schism.</P>
+<P>For, tho a particular Church-Society consists in that
+Relation, which is between the Bishop and his Clergy
+and People, yet it is possible, that the Bishop in the ex∣ercise
+of his Authority may violate the Fundamental
+Laws of Communion, on which the Christians of such
+a Church unite into one Body and Society: and when
+he does so, it being an abuse of his Episcopal Autho∣rity,
+it is his personal fault, which cannot affect the
+whole Church.</P>
+<P>The case is very plain, where there is an Established
+constitution in a Church (as it is in the Church of <HI>Eng∣land</HI>)
+which obliges the Bishops as well as People.
+For should any <HI>English</HI> Bishop require any thing of his
+<PB N="40" REF="22"/>
+Clergy or People, which is contrary to the Establish't
+Laws and Canons of the Church, or should exercise
+any Authority in Censures and Excommunications,
+which is not allowed him by those Canons, this can
+in no sense be called the Act of the Church, nor is any
+one bound to obey him in it; and though such a Bi∣shop
+should do any Schismatical Act, the Church is
+not Schismatical, because he did not pursue the Laws
+of the Church, in what he did, but gratified his own
+Humour and Passion. If the Church indeed Unites
+upon Schismatical Principles, as the <HI>Novatians</HI> and <HI>Do∣natists</HI>
+did, whatever the Bishops do in pursuance of
+such Principles is the Act of the Church, and if the Bi∣shops
+be Schismaticks, the Church is so too; but when
+there is nothing Schismatical in the Constitution of the
+Church, the personal Schism of Bishops cannot make
+their Churches Schismatical.</P>
+<P>And though the Primitive Churches before the Em∣pire
+turned Christian had not such a Firm and Legal
+Constitution, as the Church of <HI>England</HI> now has, yet a
+Constitution they had, which consisted either of Apo∣stolical
+Rules handed down by Tradition, and confirmed
+by long custom and usage, or the Canons of particular
+Councils, which in ordinary cases made standing Laws
+of Discipline and Government, and in extraordinary
+cases provided for new Emergent difficulties; and ante∣cedently
+to all these positive Constitutions, they were
+all under the obligation of that great Law of Catho∣lick
+Communion. So that the Government of the
+Church since the Apostles days, was never so intirely
+in the Bishops Breast, that what he did, should be
+thought the Act of the Church, any farther than as
+he complied with those Laws, by which the Church
+was to be Governed: and therefore there was reason in
+<PB N="41" REF="22"/>
+those days to distinguish between the Act of the Bishop
+and the Act of the Church.</P>
+<P>As to shew you this particularly in the case before us.
+The Church of <HI>Rome</HI> from the time of the Apostles had
+observed <HI>Easter</HI> on the day of the Resurrection, which is
+the first day of the week, or the Lords day, the <HI>Asian</HI>
+Churches on the 14th day of the Month; and there∣fore
+the Bishop of <HI>Rome,</HI> according to the Laws of that
+Church, might require all the Members of his Church,
+to observe <HI>Easter</HI> according to the usage of the Church
+of <HI>Rome,</HI> and might regularly inflict Church-Censures
+upon the obstinate and refractory; and this would be
+accounted the Act of the Church, because it was in pur∣suance
+of the Laws and Constitutions of it. But there
+was no Canon, nor Custom in the Church of <HI>Rome,</HI>
+to deny Communion to Foreign Churches, who ob∣served
+their own Customs in this matter, and would
+not conform to the Custom of the Church of <HI>Rome.</HI>
+Nay, there was the Practise and Example of Former
+Times against it; for <HI>Anicetus</HI> Bishop of <HI>Rome</HI> received
+<HI>Polycarp,</HI> an <HI>Asian</HI> Bishop, to Communion, though they
+could not agree about this matter. And therefore when
+<HI>Victor</HI> Schismatically Excommunicated the <HI>Asian</HI>
+Churches for this different observation of <HI>Easter,</HI> it
+was his Personal Act, not the Act of the Church of
+<HI>Rome,</HI> which had no such Law, and owned no such
+Custom: and therefore though this might make Pope
+<HI>Victor</HI> a Schismatick, it could not make the Church of
+<HI>Rome</HI> Schismatical; the guilt went no farther than
+<HI>Victors</HI> Person, unless other Persons voluntarily made
+themselves guilty, by abetting and espousing the
+Quarrel.</P>
+<P>So that had <HI>Victor</HI> persisted in his Excommunica∣tion
+of the <HI>Asiatick</HI> Churches, none had been guilty
+of Schism but himself, and such as approved, and con∣sented
+<PB N="42" REF="23"/>
+to it, but the Body of the Clergy and People,
+who had not consented unto it, had been Innocent,
+and therefore any Catholick peaceable Christian, who
+lived in <HI>Rome</HI> in those Days, might have Communica∣ted
+with the Church of <HI>Rome</HI> without Schism.</P>
+<P>The like may be said of the Quarrels and Contro∣versies
+of particular Bishops, which have sometimes
+ended in formal Schisms, and denouncing Excommu∣nication
+against each other; which cannot make their
+Churches Schismatical, any further than they take
+part with their respective Bishops. For this is rather
+a Personal Schism and Separation, than a Church
+Schism: neither of them Separate from the Commu∣nion
+of the Church, under the Notion of such a
+Church, though they Separate from each others Com∣munion
+upon some personal Quarrels.</P>
+<P>This was the Case of St. <HI>Chrysostom</HI> and <HI>Epiphanius,</HI>
+and some other Bishops in those days, which were Ca∣tholick
+Bishops, and maintained Communion with the
+Catholick Church, but yet Separated from each other,
+which is a very great fault, as all Contentions and
+Divisions in the Church are, but has not the Evil and
+Destructive Nature of a Church Schism.</P>
+<P>But you will say, can we Communicate with a
+Church without Communicating with its Bishop? or
+can we Communicate with a Schismatical Bishop, with∣out
+Communicating in his Schism?</P>
+<P>I Answer, Yes, we may Communicate with a Schis∣matical
+Bishop, without Communicating in his Schism.
+When Schism is his personal fault, our Communion
+with him makes us no more guilty of it, than of any
+other Personal fault, our Bishop is guilty of. While we
+take care to Communicate with him in no Schismati∣cal
+Act, no Man is bound to forsake the Communion
+of the Church for the Personal faults of his Bishop.</P>
+<P><PB N="43" REF="23"/>
+So that the <HI>Roman</HI> Christians might Communicate
+with the Church of <HI>Rome</HI> without Schism, notwith∣standing
+Pope <HI>Victors</HI> Schismatical Excommunication
+of the <HI>Asian</HI> Churches. And now the only difficulty
+that remains is, whether the Christians of <HI>Rome</HI> might
+have Communicated with the <HI>Asiatick</HI> Churches not∣withstanding
+<HI>Victor</HI> had Excommunicated them, for if
+they could not, then they must inevitably partake in
+<HI>Victors</HI> Schism, if his sentence obliged them to deny
+Communion to the <HI>Asian</HI> Churches. And in answer to
+this we may consider.</P>
+<P>2. That those, who Condemned the Excommuni∣cation
+of the <HI>Asian</HI> Churches, did in so doing own their
+Communion, which is one way, and the Principal
+way of maintaining Communion, between Churches at
+a Distance, who cannot actually Communicate with
+each other.</P>
+<P>3. That <HI>Victor</HI> being the Bishop of <HI>Rome,</HI> who had
+the supreme Authority of receiving in, or shutting out
+of the Communion of that Church, if any Persons of
+the <HI>Asian</HI> Communion had come to <HI>Rome,</HI> private
+Christians could not receive them into the Communi∣on
+of the Church without the Bishops Authority, and
+therefore could not actually Communicate with them
+in the publick Offices of Religion, though they owned
+their Communion; but this is no more their fault, than
+the Excommunication of the <HI>Asian</HI> Churches was; they
+Communicate with their own Church, and would be
+very glad that the <HI>Asians,</HI> that are among them, might
+be received into Communion, but they have no Au∣thority
+to do it, and therefore the fault is not theirs,
+for this is not to Renounce the Communion of the <HI>A∣sian</HI>
+Christians, but is only a forc't Suspension of Com∣munion.</P>
+<P>4. If the Christians of <HI>Rome</HI> should Travel into <HI>Asia,</HI>
+<PB N="44" REF="24"/>
+I doubt not, but that they might very lawfully Com∣municate
+with the <HI>Asian</HI> Churches, notwithstanding
+they were Excommunicated by the Bishop of <HI>Rome.</HI>
+For the Bishop of <HI>Rome</HI> had no just cause to Excom∣municate
+the Bishops and Churches of <HI>Asia,</HI> and there∣fore
+the Sentence is void of it self; and the <HI>Roman</HI>
+Christians when they are in <HI>Asia,</HI> are not under the Au∣thority
+and Jurisdiction of the Bishop of <HI>Rome,</HI> and
+therefore must not forbear nor suspend Communion
+with the <HI>Asian</HI> Churches, unless they will justifie this
+Schismatical Excommunication. The Jurisdiction of a
+particular Bishop is confined within the Bounds of his
+own Church, and every Christian is Subject to the Au∣thority
+of the Church where he is; and therefore though
+the <HI>Roman</HI> Christians at <HI>Rome</HI> cannot receive the Ex∣communicated
+<HI>Asians</HI> to their Communion without the
+Authority of their Bishop, yet when they are in <HI>Asia,</HI>
+where the Bishop of <HI>Rome</HI> has no Authority over them,
+they may and ought to joyn themselves to the Com∣munion
+of the <HI>Asian</HI> Churches, during their abode a∣mong
+them, if the <HI>Asians</HI> would receive them without
+Commendatory Letters from their Bishop, which
+they could not have in such a case as this.</P>
+<P>Thus Sir, I have considered the Case you put about
+Pope <HI>Victors</HI> Excommunicating the <HI>Asian</HI> Churches,
+which is not a real, but a feigned Case, for there was no
+actual Schism upon it, as I perceive some body had told
+you, there was. And yet supposing it had been so, I
+have shewn you, how the <HI>Roman</HI> and <HI>Asian</HI> Churches
+might have maintained Communion with each other,
+and that the case of private Christians was not so despe∣rate,
+as you represent it.</P>
+<P>Your following exceptions concerning National
+Communion,<NOTE PLACE="marg">Latters 3. p. 22.</NOTE> and National Churches, and the possibi∣lity
+that there should be several Sound and Orthodox
+<PB N="45" REF="24"/>
+parts of the Church at the same place, have been suffi∣ciently
+considered already: and you twit me so often
+with my repetitions, that though I find you want ve∣ry
+frequent repetitions to make you understand the
+plainest sence, yet I will for my Readers sake and my
+own, correct that fault.</P>
+<P>Your attempt to prove Congregational Churches
+from 1 <HI>Cor.</HI> 14. 23. has been so often answered by<NOTE PLACE="marg">p. 24.</NOTE>
+the Presbyterian as well as Episcopal Divines, that to
+save my self the labour of transcribing, I shall refer
+you to them, and particularly to the Defence of Dr.
+<HI>Still. Vnr.</HI> of <HI>Separ. p. 392. &amp;c.</HI> where you may find
+this matter largely debated, in answer to Dr. <HI>Owen</HI>'s O∣riginal
+of Churches.</P>
+<P>You say, <HI>it is evident that one of these</HI> (Separate
+Churches) <HI>must needs be cut off from Christs Body.</HI><NOTE PLACE="marg">p. 26.</NOTE> I
+readily grant it; for Christ has but one Body, which
+is one Communion; and therefore two Churches,
+which are not in Communion with each other, cannot
+both belong to the same Body, or the one Catholick
+Church; but the Church which is the Schismatick, ac∣cording
+to the Language of the Primitive times, is out
+of the Catholick Church, <HI>extra Ecclesiam foris,</HI> as is dis∣courst
+at large in the Vindication of the Defence.</P>
+<P>In the next place you endeavour to make me con∣tradict
+my self, <HI>in talking of occasional Communion and
+occasional Membership,</HI> and <HI>different Relations,</HI> when
+else-where I assert, <HI>That the Communion of the Church does
+not make us Members of any particular Church.</HI> But pray
+Sir, where do I assert this? I am sure I assert the quite
+contrary, that Church-Communion consists in Church-Membership.
+I say indeed, <HI>That Church-Communion Pri∣marily
+and Principally refers to the Vniversal Church,</HI><NOTE PLACE="marg">Resol. of Cases. <HI>p.</HI> 13,</NOTE> <HI>not
+to any particular Church or Society of Christians. That a
+Member is a Member of the whole Body, not meerly of
+<PB N="46" REF="25"/>
+any part of it. That Baptism, which is the Sacrament of
+our admission into the Covenant of God, and the Commu∣nion
+of the Church, does not make us Members of any par∣ticular
+Church, as such, but of the Vniversal Church.</HI>
+And I do as plainly assert, <HI>that every true Catholick
+Christian is a Member of the Vniversal Church, and as
+such is a Member of every particular Church, which is a
+sound part of the Vniversal Church.</HI> That no Man can
+properly be said to Communicate with any Church,
+whatever Acts of Communion he may perform in it,
+who does not Communicate with it as a Member, and
+that therefore to talk of <HI>Occasional Communion,</HI> in the
+sense of our Dissenters, is as absurd as to talk of <HI>an Oc∣casional
+Membership;</HI> these are the very Principles on
+which I dispute against those absurd Distinctions of
+<HI>constant</HI> and <HI>occasional</HI> Communion,<NOTE PLACE="marg">p. 30.</NOTE> which I confess to
+be <HI>absurd, and a Contradiction to all the Principles of
+Catholick Communion,</HI> and therefore you are concerned
+to answer this absurdity, not I. I have charged this ab∣surdity
+upon our Occasional Communicants, and let
+any man take it off, that can.</P>
+<P>But are you not Sir, admirably qualified to Answer
+Books, without so much as understanding the general
+scope and design of the Book you Answer, without know∣ing
+what makes for you or against you?</P>
+<P>As for your next Question, <HI>How does it appear?
+that it is necessary to Communion with the Catholick
+Church, that we must perform the constant Acts of Com∣munion
+in that part of the Catholick Church, where we
+constantly live.</HI> You ought instead of asking this Questi∣on,
+to have shown, that what proofs I have alleadged
+for this are not conclusive, or do not sufficiently prove
+the thing; but your Question insinuates, that I have
+said nothing at all about it, or at least that you do not
+know, that I have, though it be the Principal Design
+<PB N="47" REF="25"/>
+of that discourse, and then I am a very careless writer,
+or you a very careless Reader. But the Answer to it in
+short is this, That every Christian is Bound to live in
+Communion with the Catholick Church, no Man lives
+in Communion with the Church, who does not perform
+the External visible Acts of Communion, when he
+may do it without sin; The whole Catholick Church
+being but one Communion, whoever Communicates
+with any sound part of it, Communicates with the
+whole; no Man can ordinarily Communicate in a
+Church, in which he does not ordinarily live, and
+therefore if he be bound at all to the External and vi∣sible
+Acts of Communion, he must perform them in
+the Church wherein he lives, and in so doing, if it be
+a true Catholick Church, he lives in Communion with
+the whole Catholick Church.</P>
+<P><HI>But you attempt to prove,</HI> That you are not bound to
+Communicate so much as sometimes with a sound part of
+the Catholick Church,<NOTE PLACE="marg">Ibid.</NOTE> because you live where there is such
+an one.</P>
+<P>And this you prove from Mr. <HI>Chillingworth</HI>'s Autho∣rity,
+who says, that <HI>if you</HI> (speaking to the Papists)
+<HI>require the belief of any Error among the conditions of
+your Communion, our Obligation to Communion with you
+ceaseth.</HI> Now is not this an admirable proof, that we
+are not bound to Communicate with a sound part of
+the Church, where we live, because we are not bound
+to Communicate with an erroneous Church, which
+imposes the belief of her Errours as Terms of Com∣munion?
+Is not this a wonderful sound Church? And
+are not you a very subtil Arguer?</P>
+<P>You produce another passage of Mr. <HI>Chillingworth,</HI>
+by which I cannot tell what you intend to prove, un∣less
+it be, that there is no need, there should be any
+External or Visible Church-Society, so Men do but
+<PB N="48" REF="26"/>
+Profess the Faith of Christ; which seems to be the
+sence of your foregoing Paragraph. But the words are
+these; <HI>I believe our Saviour ever since his Ascension,
+hath had in some place or other a Visible true Church on
+Earth, I mean, a Company of Men, that profest at least
+so much as was necessary to Salvation; and I believe there
+will be some where or other such a Church to the Worlds
+end.</HI> This is his answer to that Popish Question about
+<HI>the perpetuity of the Visible Church;</HI> whereby it appears,
+that this <HI>Company of Men</HI> he speaks of, are not single
+and scattered Individuals, which are no Visible Church,
+but he means a Formed and Visible Church-Society:
+and his Answer is true, though there were never a
+sound Church in the World. For a corrupt Church,
+which retains all the Essentials of Faith and Worship,
+is a true Visible Church, and this is the meaning of
+Mr. <HI>Chillingworth</HI>'s Answer; but how this proves, that
+there is no need there should be any Visible Church at
+all, or that Christians are not bound to actual Com∣munion
+with the sound and Orthodox Church where∣in
+they live, is past my understanding.</P>
+<P>At the same rate you defend your self against me in
+your Preface, by the Authority of those two excellent
+Persons, the Dean of <HI>Canterbury,</HI> and the Dean of
+Saint <HI>Pauls.</HI> Dr. <HI>Stillingfleet</HI> had asserted, <HI>That all
+things necessary to Salvation, are plain in Scripture, to
+all that sincerely endeavour to understand them;</HI> hence
+S. C. infers, <HI>That the Governours of our Church have no
+Authority to teach Truth, or to condemn Errours, and all
+the People are become Prophets,</HI><NOTE PLACE="marg">Answer to several Treatises, <HI>p. 272. &amp;c.</HI></NOTE> <HI>and all their Articles,
+Constitutions, and Ordinances, have been composed and
+enjoyned by an usurped Authority;</HI> and if he had added,
+as he might have done with the same reason, And all
+Church-Communion is needless, it had been exactly
+what you aim at in this Citation. The Dr. vindicates
+<PB N="49" REF="26"/>
+his Doctrine from such a wild Fanatical inference.
+1. By shewing <HI>the intention of those Principles, which
+was plainly to lay down the Foundations of a Christian
+Faith, living in the Communion of our Church.</HI> And if
+this was his design, as he says, it was, certainly he
+could neither before nor after say any thing, which
+should overthrow the necessity of Church-Commu∣nion;
+and then he can say nothing against me, nor for
+you. 2. He distinguishes between <HI>the necessaries to
+Salvation, and to the Government of the Church:</HI> that
+is, what is necessary for every Christian,<NOTE PLACE="marg">p. 275.</NOTE> considered in
+a private Capacity to know and believe, to make him
+capable of Salvation; and what care the Church must
+take <HI>to instruct the ignorant, to satisfie the doubting, to
+direct the unskilful, and to help the weak; and not barely
+to provide for necessity but safety, and not barely the
+safety of particular persons, but of it self;</HI><NOTE PLACE="marg">p. 276.</NOTE> <HI>which cannot
+be done without prudent Orders, setting the bounds of
+Mens Employments,</HI> &amp;c. i. e. though it is possible for
+a private Christian, who lives alone, and has the use of
+the Bible in a Language which he understands, by dili∣gent
+and honest inquiries to find out so much truth, as
+is absolutely necessary to Salvation, yet this does not
+overthrow the necessity of a setled Ministry, and a re∣gular
+Authority in the Church; all this I firmly assent
+to, and yet do as firmly believe the necessity of Church-Communion,
+when it may be had upon Lawful Terms,
+and so does this Reverend Person also: and therefore
+I cannot look upon your alleadging his Authority a∣gainst
+me, to have any other design than to affront the
+Dean for his excellent Pains in vindicating the Com∣munion
+of our Church, and shewing people the Evil
+and Danger of Separation. He has sufficiently declared
+what his Judgment is about Separation, and therefore
+<PB N="50" REF="27"/>
+I need not concern my self any farther to prove that he
+is not my Adversary in this Cause.</P>
+<P>At the same rate you deal with that <HI>great Man</HI> (as
+you deservedly call him) Dr. <HI>Tillotson,</HI> who says,<NOTE PLACE="marg">Preface.</NOTE> <HI>I
+had much rather perswade any one to be a good Man, than
+to be of any Party and denomination of Christians whatso∣ever;
+for I doubt not but the belief of the Ancient Creed,
+provided we entertain nothing that is destructive of it,
+together with a good life, will certainly save a Man; and
+without this, no man can have reasonable hopes of Salvation,
+no not in an Infallible Church, if there were any such to
+be found in the World.</HI> How does this oppose me, who
+assert the necessity of Church-Communion? Is the <HI>Catho∣lick
+Church</HI> then, and the <HI>Communion of Saints,</HI> no part
+of our Creed? and is not Schism destructive to these
+great Articles of our Faith? or is Schism, which is the
+breach of Christian Charity properly so called (which
+is the Love and Charity, which the Members of the
+same Body, ought to have for each other, and con∣sists
+in Unity and Communion) consistent with a
+good Life, if by that we understand an Universal good∣ness,
+of which Charity is the most vital and essential
+part?</P>
+<P>But do you indeed think, Sir, that the Dean believes
+a Man may be saved without Communion with any
+Church, when it may be had without Sin? when in
+the very next Paragraph he so earnestly exhorts them
+to Communion with the Church of <HI>England?</HI> I can ea∣sily
+forgive your usage of me, since I find you cannot
+Read the best Books without perverting them, and
+that you never spare any Mans Reputation to serve
+your Designes: for your Reproaches and your Com∣mendations
+are but different ways of abuse, though I
+confess, I should rather chuse to be reproached by
+you.</P>
+<P><PB N="51" REF="27"/>
+Your last Consideration is, whether it be a good
+way to convert Schismaticks,<NOTE PLACE="marg">Letter 3. <HI>p.</HI> 29.</NOTE> to prove <HI>that Schism is as
+Damning a Sin, as Murder or Adultery.</HI> Truly Sir, <HI>St.
+Cyprian</HI> and <HI>St. Austin,</HI> and all the Ancient Fathers of
+the Church, thought this a very good way, for they
+insisted very much upon this Argument; and if Men
+will not forsake their Schism, though the Salvation of
+their Souls be endangered by it, I am apt to think, that
+no other Arguments will perswade them. And if this
+be true (as I verily believe it is, and shall believe so,
+till I see the Third Chapter of the Vindication of the
+Defence of Dr. <HI>Still.</HI> fairly answered) I think it the
+greatest Charity in the World, to warn Men of it;
+and if it should prove by their perverseness no Charity
+to them, it is Charity to my own Soul, and delivers
+me from the guilt of their Bloud, whether such Do∣ctrine
+Preach Men into, or out of, the Church.</P>
+<P>And now for your parting Blow. <HI>Certainly if our
+Church required Conformity to its Rites and Ceremonies
+as necessary to Salvation, It could not blame Men for di∣viding
+from it. Yes certainly</HI> upon such a Supposition,
+the Church could and would blame Men for their Se∣paration,
+though it may be, they might not deserve to
+be blamed: for no doubt, the more necessary the
+Church judges her Constitutions, the more she will
+blame Dissenters.</P>
+<P>But <HI>he, who tells us, or he saies nothing, that the di∣vine
+Spirit confines his Influences and Operations to the
+Vnity of the Church in such Conformity, not only makes
+such Conformity necessary to Salvation, but imputes to the
+Church the Damnation of many Thousands of Souls,
+who might expect to be saved upon other Terms.</HI>
+That the Divine Spirit confines his influences
+(ordinarily) to the Unity of the Church I do
+assert, but that this is <HI>in Conformity to the Church
+<PB N="52" REF="28"/>
+of England,</HI> I do not assert. For Conformity to the
+Church of <HI>England</HI> is not Essential to the Unity of the
+Catholick Church: for every Church has authority to
+prescribe its own Rites and Ceremonies of Worship,
+in Conformity to the general Rules of the Gospel.
+And therefore though the Unity of the Church is
+necessary to intitle Men to the ordinary influences of
+Gods Grace, and consequently is necessary to Salvation,
+yet Conformity to the Church of <HI>England</HI> is not neces∣sary
+to the Unity of the Church, because Christians
+who live under the Government and Jurisdiction of
+other Churches, may and do preserve the Unity of the
+Church without conformity to the Church of <HI>England.</HI>
+Obedience indeed, and Subjection to Church-Authority
+in all Lawful things, is necessary to the Unity of the
+Church, and necessary to Salvation, and consequently it
+is a necessary Duty to conform to all the Lawful and
+Innocent Customs of the Church wherein we live; but
+this does not make the particular Laws of Conformity,
+which are different in different Churches, to be neces∣sary
+to Salvation, unless you will say the Church has
+no Authority but only in things absolutely neces∣sary
+to Salvation; which destroys all the external Or∣der
+and Discipline of the Church, and charges all the
+Churches in the World, with destroying Mens Souls,
+if any persons be so Humorsom and Peevish as to break
+Communion with them for such Reasons. But such
+kind of Cavils as these, you may find answered at large
+in the Vindication of the Defence; and thither I refer
+you, if you desire to see any more of it.</P>
+<P>Thus Sir, I have with great patience answered your
+Questions, not that they needed or deserved any An∣swer,
+but that you might not think your self too much
+despised, nor other weak People think your Questions
+<PB N="53" REF="28"/>
+unanswered. And now I have given you an Answer, I
+shall take the Confidence to give you a little Ghostly
+Counsel too, which you need a great deal more than an
+Answer.</P>
+<P>I have not troubled my Head to inquire Scrupulous∣ly,
+who you are, nor do I use to trust Common Fame
+in such matters: but though I know not you, yet I
+perceive you know me; and if as you say,<NOTE PLACE="marg">p. 1.</NOTE> <HI>you have of∣ten
+heard me with great Satisfaction, and as you hope not
+without edifying thereby,</HI> I think it would have become
+you to have treated me with a little more Civility
+than you have done, if it be in your Nature to be Civil
+to a Clergy-Man. And I wish more for your own sake,
+than for mine, you had done so; for I thank God I
+have learnt not only by the precepts and example of
+my great Master, but by frequent Tryals, to go through
+good Report and evil Report, and to bear the most in∣vidious
+and Spightful Reflections with an equal mind.
+But as contemptible as a Clergy-Man is now, these
+things will be accounted for another day.</P>
+<P>For it is very evident, that you have a great Spight
+at the whole Order, whatever personal kindness you
+may have for some Men; they are but <HI>a Herd of Cler∣gy-men,</HI>
+and you know no other use of a Bishop, but
+<HI>to oversee, admonish,</HI><NOTE PLACE="marg">Preface.</NOTE> <HI>and Censure those, who are apt to
+go beyond their due Bounds.</HI> I confess this way of Railery
+is grown very fashionable, and I perceive you are re∣solved
+to be in the Mode, and to be an accomplisht
+Gentleman; but I never knew a man that was seriously
+religious, who durst affront the Servants for their Ma∣sters
+sake.</P>
+<P>But you Sir, are in the very height of the fashion,
+and think their Office as contemptible, as their Per∣sons
+generally are thought to be: <HI>you hope to be saved
+without understanding the Notion of Church-Government as
+<PB N="54" REF="29"/>
+'tis intreagued by Clergy-men of all sides.</HI> And I hope
+you may be saved without understanding a great many
+other things besides Church-Government, or else I
+doubt your Salvation may be hazardous.</P>
+<P>But this is too plain a contempt of all Church-Au∣thority;
+for though the Church of <HI>Rome</HI> has usurpt an
+unlimited and Tyrannical Power under the Notion of
+Church-Government, yet what has the <HI>Sound Church
+of England</HI> (as you own it) done? What occasion did
+I give for this Censure? who have expresly confined
+<HI>the Exercise of Church-Authority to Church-Communion,</HI><NOTE PLACE="marg">Resol. of Cases, <HI>p.</HI> 39.</NOTE>
+<HI>to receiving in, and putting out of the Church.</HI> And if
+the Church be no Society, I would desire to know what
+it is; and if it be a Society, how can any Society sub∣sist
+without Authority in some Persons to receive in
+and to shut out of the Society? But the truth is, tho
+you pretend to be in Communion with the Church of
+<HI>England,</HI> you make the Church it self a very needless
+and insignificant thing, for you know no necessity of
+Communicating with any Church, you will not allow
+it to be Schism to Separate from the Church, you
+think it a pretty indifferent thing, whether Men be
+Baptized or not, or by whom they are Baptized: what
+your Opinion is about the Sacrament of the Lords Sup∣per
+I do not know, though if you are consistent with
+your self, I doubt that is a very indifferent Ceremony too.</P>
+<P>Truly to deal plainly with you, I think you have
+more need to be taught your Catechism than to set up
+for a Writer of Books; and let me in time warn you,
+what the consequence of this way you are in, is likely
+to be, which is no less than a contempt of all revealed
+and instituted Religion, and consequently of Christi∣anity.
+Natural Religion may subsist without any posi∣tive
+Institutions, but revealed Religion never did, and
+never can; for when God Transacts with Mankind in
+<PB N="55" REF="29"/>
+the way of a Visible Covenant, there must be some Vi∣sible
+Ministers, and Visible Sacraments of this Cove∣nant.
+And when the Evangelical Ministers and Sacra∣ments
+fall into contempt, Men must think meanly of
+Christianity, and return to what they call natural
+Religion, which is a Religion without a Priest and
+without a Sacrifice; which cannot save a Sinner, but
+by uncovenanted Grace and Mercy; which no Man
+can be sure of, and which no Man shall find, who re∣jects
+a Priest and Sacrifice of Gods providing.</P>
+<P>And to convince you of this, you may observe, that
+the contempt of the Notion of a Church, of the Evan∣gelical
+Priesthood and Sacraments, is originally owing
+to <HI>Deists</HI> and <HI>Socinians,</HI> to those who profess to believe
+in God, and to worship him according to the Laws
+of natural Religion, but believe nothing at all of
+Christ; or to those, who profess to believe in Christ,
+but believe him only to be a meer Man, and a great
+Reformer of Natural Religion, but make nothing at all
+of his Priesthood and Sacrifice. If Christ be our great
+High Priest, and we must hope for Salvation only in
+vertue of his Sacrifice, There must be some way ap∣pointed
+to apply his Merits and Salvation to us, and
+this will convince us of the necessity of Church-Com∣munion,
+and a visible Confederation by Sacraments
+of divine appointment:<NOTE PLACE="marg">See Vindic. of the Def. <HI>cap.</HI> 3.</NOTE> But if Christ came only as a
+great Prophet to instruct us more perfectly in the
+Rules of Vertue, and to give us more certain Hopes of
+a future State, there can be no more necessity of a
+Church now, than there was in a State of Nature.
+Christians may associate, if they please, for Acts of
+publick worship, and they may break Company, when
+they please, without any danger; and the Evangelical
+Sacraments can be only significant Ceremonies,
+<PB N="56" REF="30"/>
+which may be used or let alone, as every one likes
+best.</P>
+<P>At this Rate you every where discourse; and I be∣lieve
+so well of our Dissenters, that though they
+would be glad to be excused from the guilt of Schism,
+yet they will not thank you, for excusing them upon
+such Principles, as tend to undermine Christianity;
+and I believe so well of you, that though you affect
+to talk in the modish way, yet you do not understand
+whither it tends: and I hope this timely Caution may
+prevent your embracing those Principles, whereon
+your Conclusions are Naturally Built.</P>
+<P>Another thing I would warn you of, is, that these loose
+Principles of Church-Communion do not tempt you to
+Schism, and State-Factions, which usually go together.
+You pretend indeed to be in constant Communion
+with the Church of <HI>England;</HI> but according to the
+Principles of your Letters no Church in the World can
+have any hold of you, every Man is a Communicant
+at his own pleasure who thinks he may part without
+Sin; And it is much to be suspected, that no Man,
+who is a hearty lover of the Church of <HI>England,</HI> can
+make such a Zealous Defence for Dissenters, who has
+not some private reasons for his Zeal: and when Men
+are not Endeared to each other by one Communion, it
+is to be feared they are linked together by some other
+Common Interest. Now should you prove a Schisma∣tick,
+to say no worse, it will not excuse you, how many
+Fine Questions soever you can ask about it.</P>
+<P>And that which will greatly endanger you, is that
+great Opinion you have of your self: for some men are
+so wanton as to espouse a Schism or Faction only to
+shew their Wit in Defending it, and to make themselves
+considerable by espousing a Party. I will not so much
+wrong you, as to say that you have shewn any great
+<PB N="57" REF="30"/>
+Wit or Judgment in this Cause; but it is evident to
+every impartial Man, who reads your Letters, that
+you have betrayed too great a conceit of both, and
+that is a great deal the more dangerous of the two;
+for true Wit and Judgment will secure Men from those
+mischiefs, which a vain conceit of it betrays them
+to.</P>
+<P>And now Sir, all that I shall add, concerns your way
+of Writing, which neither becomes a wise Man, nor a
+fair Disputant; you have not offered any Argument to
+disprove any one thing I have said, you have no where
+shewn the weakness of my Arguments to prove what
+I undertook, but have at all Adventures askt a great
+many Questions, and generally nothing to the purpose.
+Now it had been easie to have askt you as many cross
+Questions, which had been as good an Answer to your
+Questions, as your Questions are to my Discourse; and
+thus People might have gazed on us, and have been ne∣ver
+the wiser. For to raise a great many difficulties
+onely tends to Scepticism, and will never end a Dispute.
+I am loth to mind you of the Proverb, because I do not
+think the application belongs to you; but yet it should
+make any Man of Wit ashamed of such Methods of
+Dispute, wherein he may be out-done by a Man of no
+Wit.</P>
+<P>I confess I have with some regret stole time from
+better Employment to answer your Letters, but do not
+think my self bound to do so, as often as you think
+fit to give a publick Challenge. This Controversie,
+if you had pleased, might have been ended more pri∣vately;
+which had been less trouble to me, though it
+may be you thought it might have been less glorious
+to your self, which I presume was your reason of first
+spreading your Letter in Writing, and then of Prin∣ting
+it. I shall not envy your Glory; I had rather con∣tinue
+<PB N="56" REF="31"/>
+mean and obscure in a humble Obedience to
+Church and State, than to raise the most Glorious
+Triumphs and Trophees to my memory, by giving the
+least disturbance to either. And that you and all sober
+Christians may be of the same mind, is the hearty
+Prayer of,</P>
+<CLOSER><SALUTE>SIR,</SALUTE>
+<SIGNED>Your very Humble Servant.
+<HI>W. S.</HI></SIGNED></CLOSER>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="publisher's advertisement">
+<PB REF="31"/>
+<HEAD>BOOKS Printed for FINCHAM
+GARDINER.</HEAD>
+<P>A Continuation and Vindication of the Defence of
+Dr. <HI>Stilling fleet</HI>'s Unreasonableness of Separati∣on,
+in Answer to Mr. <HI>Baxter</HI> and Mr. <HI>Lob, &amp;c.</HI></P>
+<P>Considerations of present use, considering the Dan∣ger
+resulting from the change of our Church-Govern∣ment.</P>
+<P>1. A Perswasive to Communion with the Church of
+<HI>England.</HI></P>
+<P>2. A Resolution of some Cases of Conscience which
+respect Church-Communion.</P>
+<P>3. The Case of Indifferent things used in the Wor∣ship
+of God, proposed and Stated, by considering these
+Questions, <HI>&amp;c.</HI></P>
+<P>4. A Discourse about Edification.</P>
+<P>5. <HI>The Resolution of this Case of Conscience,</HI> Whe∣ther
+the Church of <HI>Englands</HI> Symbolizing so far as it doth
+with the Church of <HI>Rome,</HI> makes it unlawful to hold Com∣munion
+with the Church of <HI>England?</HI></P>
+<P>6. A Letter to <HI>Anonymus,</HI> in answer to his three Let∣ters
+to Dr. <HI>Sherlock</HI> about Church-Communion.</P>
+<P>7. Certain Cases of Conscience resolved, concerning
+the Lawfulness of joyning with Forms of Prayer in
+Publick Worship. In two Parts.</P>
+<P>8. The Case of mixt Communion: Whether it be
+Lawful to Separate from a Church upon the account of
+promiscuous Congregations and mixt Communions?</P>
+<P>9. An Answer to the Dissenters Objections against the
+Common Prayers, and some other parts of Divine Ser∣vice
+prescribed in the Liturgy of the Church of <HI>England.</HI></P>
+<P>10. The Case of Kneeling at the Holy Sacrament
+stated and resolved, <HI>&amp;c.</HI> The first Part.</P>
+<P>11. Certain Cases of Conscience, <HI>&amp;c.</HI> The second
+Part.</P>
+<P><PB REF="32"/>
+12. A Discourse of Profiting by Sermons, and of go∣ing
+to hear where men think they can profit most.</P>
+<P>13. A serious Exhortation, with some important
+Advices, relating to the late Cases about Conformity,
+recommended to the present Dissenters from the
+Church of <HI>England.</HI></P>
+<P>14. An Argument for Union; taken from the true
+interest of those Dissenters in <HI>England</HI> who profess and
+call themselves Protestants.</P>
+<P>16. Some Considerations about the Case of Scandal,
+or giving Offence to Weak Brethren.</P>
+<P>17. The Case of Infant-Baptism, in Five Questions,
+<HI>&amp;c.</HI></P>
+<P>1. A Discourse about the charge of Novelty upon
+the Reformed Church of <HI>England,</HI> made by the Papists
+asking of us the Question, Where was our Religion
+before <HI>Luther?</HI></P>
+<P>2. A Discourse about Tradition, shewing what is
+meant by it, and what Tradition is to be received, and
+what Tradition is to be rejected.</P>
+<P>3. The difference of the Case between the Separa∣tion
+of Protestants from the Church of <HI>Rome,</HI> and the
+Separation of Dissenters from the Church of <HI>England.</HI></P>
+<P>4. The Protestant Resolution of Faith, <HI>&amp;c.</HI></P>
+<PB REF="32"/>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>
+

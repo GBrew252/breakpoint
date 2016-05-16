@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="2">A sermon preached before the King and Queen at White-Hall on the 19th day of October, 1690, being the day of thanksgiving for His Majesties preservation and success in Ireland by the Right Reverend Father in God, Gilbert Lord Bishop of Sarum.</TITLE><AUTHOR>Burnet, Gilbert, 1643-1715.</AUTHOR></TITLESTMT><EXTENT>Approx. 49 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2004-03 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A30435</IDNO>
+
+
+<IDNO TYPE="stc">Wing B5893</IDNO>
+
+<IDNO TYPE="stc">ESTC R4094</IDNO>
+
+<IDNO TYPE="eebo citation">13677451</IDNO>
+
+<IDNO TYPE="oclc">ocm 13677451</IDNO>
+
+<IDNO TYPE="vid">101261</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A30435)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 101261)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 839:12)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="2">A sermon preached before the King and Queen at White-Hall on the 19th day of October, 1690, being the day of thanksgiving for His Majesties preservation and success in Ireland by the Right Reverend Father in God, Gilbert Lord Bishop of Sarum.</TITLE><AUTHOR>Burnet, Gilbert, 1643-1715.</AUTHOR></TITLESTMT><EXTENT>[4], 36 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for Ric. Chiswell ...,</PUBLISHER>
+<DATE>1690.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Half title: The Bishop of Salisbury's thanksgiving-sermon for the King's preservation in Ireland.</NOTE><NOTE>Reproduction of original in Huntington Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Great Britain --  History --  William and Mary, 1689-1702 --  Sermons.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2003-11</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2003-11</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2004-01</DATE><RESPSTMT><RESP>Olivia Bottum</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2004-01</DATE><RESPSTMT><RESP>Olivia Bottum</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2004-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A30435">
+<STC T="W">B5893</STC>
+<BIBNO T="oclc">13677451</BIBNO>
+<VID>101261</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>A
+SERMON
+Preached before the
+KING and QUEEN,
+AT
+<HI>WHITE-HALL,</HI>
+On the 19<SUP>th</SUP> Day of <HI>OCTOBER,</HI> 1690.
+BEING THE
+Day of Thanksgiving,
+FOR
+His MAJESTIES PRESERVATION and
+SUCCESS in <HI>IRELAND.</HI></P>
+<P>By the Right Reverend Father in God, <HI>GILBERT</HI>
+Lord Bishop of <HI>SARVM.</HI></P>
+<P><HI>LONDON:</HI>
+Printed for <HI>Ric. Chiswell,</HI> at the <HI>Rose</HI> and <HI>Crown</HI> in
+St. <HI>Paul</HI>'s Church-Yard. MDCXC.</P>
+</DIV1>
+<DIV1 TYPE="half title">
+<PB REF="2"/>
+<P>THE
+Bishop of <HI>SALISBVRY</HI>'s
+Thanksgiving-Sermon
+FOR
+The KING'S PRESERVATION
+IN
+IRELAND.</P>
+<PB REF="3"/>
+<GAP DESC="duplicate" EXTENT="1 page" DISP="〈1 page duplicate〉"/>
+<PB REF="3"/>
+<GAP DESC="duplicate" EXTENT="1 page" DISP="〈1 page duplicate〉"/>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="sermon">
+<PB REF="4"/>
+<PB N="1" REF="4"/>
+<EPIGRAPH>
+<BIBL>PSALM CXLIV. 10, 11.</BIBL>
+<Q><P>It is He that giveth salvation unto Kings, who
+delivereth <HI>David</HI> his servant from the hurt∣ful
+sword.</P>
+<P>Rid me and deliver me from the hand of strange
+children, whose mouth speaketh vanity, and
+their right hand is a right hand of falshood.</P></Q>
+</EPIGRAPH>
+<P><SEG REND="decorInit">T</SEG>HIS Place as well as this Day
+is dedicated to the Honour of
+the great God, to the Celebra∣ting
+of his Praise, and the Glory
+of the Deliverance and Victory
+that he hath given us. Those
+whom he has made the Blessed Instruments of
+procuring it to us, do so entirely offer up the
+Acknowledgments due for it to that Provi∣dence
+which they signally Adore, that as they
+<GAP DESC="illegible" REASON="in gutter" EXTENT="1 letter" DISP="•"/>ould not endure so sacrilegious a thought, as
+<GAP DESC="illegible" REASON="in gutter" EXTENT="1 letter" DISP="•"/>he putting the Honour that belongs to Them in
+<GAP DESC="illegible" REASON="in gutter" EXTENT="1 letter" DISP="•"/>he least degree of Competition with the Praises
+<GAP DESC="illegible" REASON="in gutter" EXTENT="1 letter" DISP="•"/>hat are to be offered up to the Great KING of
+KINGS; so by a Modesty which gives a pecu∣liar
+Grace to all they do, they cannot bear even
+<PB N="2" REF="5"/>
+that which is just, and in some sort necessary
+upon such occasions. In other Places and Courts,
+Invention and Fancy are put to the rack to find
+out the highest Figures, and the noblest Expres∣sions
+to raise the Glory of Princes, even when
+their Successes do more eminently belong to some
+secret Design of Providence, since no share of
+them can be ascribed either to their Courage or
+Conduct. But here we are so confined by Or∣ders
+which one knows as little how to obey, as
+how to disobey, that how large soever the Field,
+and how rich soever the Prospect is, it must ei∣ther
+be quite overlookt, or if it be suffered to
+be shewed, it must be by Reversing the Tele∣scope
+in Little and contracted. Princes, whose
+Actions are their own Panegyricks, cannot bear
+that others should make any for them; for what
+they themselves do, exceeds all that can be said
+by others: Whereas the want of real Merit must
+be hid or supplied by the false appearances of it▪
+The Sun and Stars must be brought down, and
+in every comparison be humbled in the Prefer∣ence
+that is to be given to the Flatter'd Prince▪
+How many a Reproach must the Sun have endu∣red
+in some Courts, if when the day is at it
+longest, the Prince had for some hours prevent∣ed
+his Rising, and continued his watchful Fatigue
+<PB N="3" REF="5"/>
+till after he was Set; and that a Wound which
+made so wide a breach upon him by the certain∣est
+Instrument of Death, could scarce interrupt
+his Motion. Here had been a copious Theme
+for Hungry and Mercenary Flattery: The Sun
+would have been for ever after that, despised as
+a diminution to their Prince's Glory, when com∣pared
+to him. Impious Attempts which were
+once began, would have been pursued, of <HI>calling
+<GAP DESC="illegible" REASON="in gutter" EXTENT="1 letter" DISP="•"/>im the King of Glory, who is strong and mighty in bat∣<GAP DESC="illegible" REASON="in gutter" EXTENT="2 letters" DISP="••"/>l.</HI>
+One King was signally struck from Hea∣<GAP DESC="illegible" REASON="in gutter" EXTENT="1 letter" DISP="•"/>en,
+for admitting Divine Honours that were
+offered up to him: That Jealous God who will
+not suffer his Glory to be given to another,
+<GAP DESC="illegible" REASON="in gutter" EXTENT="1 letter" DISP="•"/>nows what are the properest Times and Me∣thods
+for Punishing all the Blasphemy that is in
+<GAP DESC="illegible" REASON="in gutter" EXTENT="1 letter" DISP="•"/>he Courts of Princes who encourage and en∣gage
+their Subjects, or rather their Slaves, to fly
+to such an extravagant pitch. But to us, who ac∣knowledg
+that Most <HI>High</HI> God, that <HI>rules in the
+Kingdom</HI> of <HI>men,</HI><NOTE PLACE="marg">Dan, 4. 25.</NOTE> and giveth it to whosoever he
+will, and that he sets up and pulls down accord∣ing
+to the hidden Designs of his Wise Providence;
+As all that approaches to such irreligious Excesses,
+<GAP DESC="illegible" REASON="in gutter" EXTENT="1 word" DISP="〈◊〉"/> matter of Horror; so the Princes we serve,
+make this an easie Duty to us, they being as
+deeply possessed with the Belief of Providence,
+<PB N="4" REF="6"/>
+as they are free from all those swellings which
+must be fed with gross and exorbitant Flat∣tery.</P>
+<P>And therefore I am not afraid to make this
+the Subject of my present Discourse: <HI>It ts God
+that giveth Salvation to Kings, that delivereth</HI> Da∣vid
+<HI>his servent from the hurtful sword.</HI> If any
+considers the scituation of these words, between
+those that go before, and those that come after,
+they will see, that the Sentence is cut by this as
+an abrupt Meditation, which probably was to
+be sung by the Chorus; whereas what is be∣fore
+and after, was, as is most likely, sung by
+single Voices in the person of <HI>David.</HI> The
+first part of this Verse contains a general Posi∣tion,
+That the Advancement of Kings, and the
+Progress of Empires, the Victories obtained by
+them, their Escapes and Deliverances, is of
+God, and is the effect of signal Providences,
+that watch over them. The words that follow
+relate more particulary to <HI>David</HI> himself.
+<GAP DESC="illegible" REASON="in gutter" EXTENT="1 word" DISP="〈◊〉"/> shall not determine whether the word <HI>hurtful</HI>
+or <HI>evil sword</HI> is only a Poetical Epithete, to
+swell up and beautifie the Period; or if it re∣lates
+to poisonous Swords, that gave a certain
+Death with every wound.</P>
+<P><PB N="5" REF="6"/>
+In the second Verse that I have read, there
+is a Prayer for a complete Deliverance; that
+which is here celebrated being yet imperfect:
+therefore the Psalmist, returning to his former
+Thread, says, <HI>Rid me and deliver me from the
+hand,</HI> that is, from the power, <HI>of strange children,</HI>
+or the children of the <HI>strange God,</HI> that is, Ido∣laters.
+Idols in the Scripture phrase are called
+<HI>strange Gods;</HI> and as the People of <HI>Israel</HI> are cal∣led
+the Children of God, so Idolaters are called
+the Children of the <HI>Stranger,</HI> or of the Idol.
+There follows a description of Idolaters by their
+Words, and by their Actions: <HI>Their mouth speak∣eth
+vanity;</HI> that is, either <HI>falshood,</HI> in which
+sense <HI>vanity</HI> frequently stands in Scripture; or
+words of arrogance and insolent scorn. <HI>Right-hand,</HI>
+in the phrase of the Old Testament, is to
+be understood, either of Oaths made by the
+Ceremony of lifting up the right-hand to Hea∣ven,
+or of Compacts and Agreements confirm∣ed
+by the joyning mens right-hands; from
+which came the phrase of the <HI>right-hand of fellow∣ship.
+Their right-hand,</HI> that is, either their Oaths
+or their Covenants, is a <HI>right-hand of falshood,</HI> or
+<HI>of a lie,</HI> according to that in <HI>Isaiah 44. 20. A lie
+is in their right-hand.</HI> Since in all these they were
+double and false. The Characters here given
+<PB N="6" REF="7"/>
+them, may either be thus understood; They
+are false both in their Words and Oaths: or
+thus; There is much haughtiness and pride in
+their Discourses, and as much falshood in all
+their Treaties and Engagements.</P>
+<P>To return to the first words in my Text.</P>
+<P>There appear often Eminent Characters of
+God's Providence, in the raising up and pre∣serving
+of Kingdoms, and in the Victories and
+Salvation given to Kings. If there is a Provi∣dence
+that watches over any part of this lower
+World, then certainly the most eminent parts
+of it, upon which the rest does so much depend,
+are its chief care: This has been so universally
+confessed, that those among the Philosophers
+who thought it below the Infinite Greatness of
+the Divine Being, that it should take care of the
+most inconsiderable parts of the Creation, did
+yet believe that the greater and more important
+Transactions were conducted by it: Tho' this
+slowed from the low and narrow Conceptions
+which they had of God, as if an Universal Pro∣vidence
+had been too great a distraction, and
+too mean a care for a Being infinitely Perfect.
+But there is such a Chain in all things, the most
+Important Matters taking oft their rise or turn
+<PB N="7" REF="7"/>
+from very inconsiderable Circumstances, that it
+is certain that either there is no Providence at all,
+or that it has no limits, and takes all things
+within its care. Yet God having put the whole
+Frame of Nature under certain Rules and Laws,
+the greatest part of Providence is only the Sup∣porting
+and Directing of those Beings that do
+still act according to their own Natures; and
+in these, tho' Providence is less discernable, yet
+it is still the Spring of the whole Machine, which,
+tho' covered and unseen, gives motion to all
+the parts of it. There are other more solemn
+Occasions, in which some second causes are
+raised above their own pitch, and are animated
+beyond the ordinary rate; and others are at the
+same time as far depressed below themselves, the
+Spirits of the One abating, as much as those of
+the Other are elevated. This has never appear∣ed
+with more eminent Characters than in the
+Revolutions of States and Empires, in which
+both the course of Natural Agents, the Winds
+and Seasons, and the tempers of mens minds,
+seem to have been managed by such a directi∣on,
+that not only every thing, but every cir∣cumstance
+has co-operated to carry on Great
+Designs in such a Conjunction, that those who
+observe them with due attention, are forced on
+<PB N="8" REF="8"/>
+many occasions to cry out, <HI>This is the finger of
+God! this is the Lord's doing!</HI> And we may the
+more certainly conclude, that such a Systeme of
+things is the effect of a special and directing
+Providence, when the tendency of it is to ad∣vance
+some Design in which the Honour of
+God is more particularly concerned.</P>
+<P><HI>Cyrus,</HI> in whom the second Great Monarchy
+began, and by whom God's Judgments against
+<HI>Babylon,</HI> and the bringing back the Captivity of
+the <HI>Iews,</HI> were to be executed, according to
+what <HI>Isaiah</HI> had prophesied above 150 years be∣fore
+he was born; <HI>Cyrus,</HI> I say, a small Prince, and
+doom'd to an early Death by a superstitious
+Grandfather, scaped that severe Fate, and was
+bred up in obscurity: He first dethroned <HI>Astya∣ges,</HI>
+his Grandfather; and after that, he extended
+his Conquests into <HI>Lydia</HI> and <HI>Asia</HI> the less: Du∣ring
+all the progress of his Glory, the <HI>Babylonians,</HI>
+instead of putting a timous stop to his Victories,
+thought only of fortifying their Capital City;
+which when they had done to a degree that al∣most
+passes belief, he, by diverting the Course
+of the River, made himself Master both of City
+and Empire; and sent the <HI>Iews</HI> back to rebuild
+their Temple, retaining still his Authority over
+them.</P>
+<P><PB N="9" REF="8"/>
+When the final Period of this Monarchy came,
+then one of the smallest Powers in <HI>Greece</HI> did
+effect it. The Kingdom of <HI>Macedon</HI> had been
+one of the most inconsiderable of all that Body,
+tho it was become more Powerful in <HI>Philip</HI>'s
+time. The <HI>Greeks</HI> had been twice attacked by
+the <HI>Persians,</HI> and vast numbers had fallen before
+handfuls of them; upon this, as had been pro∣phesied
+by <HI>Daniel, Alexander,</HI> a Haughty, a Vain,
+and a Dissolute Prince, with an Army of 37000
+men, invaded the <HI>Persian</HI> Empire, and after
+Three great Battels, in the First of which 200000
+came against him; 600000 in the Second, and
+a Million in the Third, he carried his Conquests
+on to the <HI>Ganges</HI> with such a Rapidity of Victo∣ry
+and Success, that nothing could stand in his
+way: Among the conquered Provinces, <HI>Tudea</HI>
+was one which came under his Protection, and
+continued for 146 years under that Branch of
+his Empire that reigned in <HI>Syria.</HI></P>
+<P>But to give another instance of this, that has
+a greater relation to the People of God, after the
+<HI>Iews</HI> had been long under the <HI>Syrian</HI> Yoke; <HI>An∣tiochus
+Epiphanes,</HI> not content with the Subjection
+that they had paid his Ancestors, set himself to∣tally
+to destroy both their Religion and their
+Nation; upon which <HI>Mattathias,</HI> the Father of
+<PB N="10" REF="9"/>
+<HI>Iudas,</HI> and his Brethren, a Priest full of Zeal for
+God and for his Countrey, was raised up to re∣sist
+that Fury; he only began the opposition,
+but dying soon after, he left the conduct of the
+Deliverance of his Countrey from Persecution
+and Tyranny, to his Son <HI>Iudas Maccabeus,</HI> from
+whom it passed to his Brethren, and to their Po∣sterity.
+A total Subversion of their Religion
+and Policy, was begun, and that according to
+the sense of all mankind, has ever been esteemed
+a Dissolution of Government; and <HI>Mattathias</HI> and
+his children their venturing on so dangerous an
+Undertaking, is reckoned up in the Epistle to the
+<HI>Hebrews,</HI> among the Heroical Attempts of Faith;
+it is reserved to the last place, and enlarged on in
+a variety of lofty Expressions, to shew that it
+was one of the greatest Performances of Faith:
+And it was so indeed, for it seemed to be a de∣sperate
+Attempt, in which the best Success that,
+reasonably speaking, they could have expected,
+was a speedy and a glorious Death; they had
+nothing to trust to, but Miracles of Providence;
+they were few in number, destitute of every
+thing, and the Kings of <HI>Syria</HI> were Masters of all
+the Strong Places in <HI>Iudea,</HI> and poured in at se∣veral
+times, Seven or Eight great Armies upon
+them: But that Deliverance which began in a
+<PB N="11" REF="9"/>
+Cloud that was no bigger than a hand-breadth,
+made such a Progress under several Heads who
+conducted the <HI>Iews</HI> with equal degrees of Pru∣dence
+and Courage, that tho they were unpro∣vided
+of all things, but what were afforded them
+from the Spoils of their Enemies; they, after a
+War of Twenty-four years Continuance, and a
+Series of constant and amazing Successes, be∣came
+at last a free People, both with relation to
+their Religion and Government.</P>
+<P>Shall I give you another Instance of him, du∣ring
+whose peaceful Reign, the Saviour of the
+World was born? <HI>Augustus</HI> was the Son of a <HI>Ro∣man</HI>
+Knight, and was but Eighteen years old
+when his Uncle <HI>Iulius Caesar</HI> was killed, whose
+Usurpation upon his Countrey had rendred him
+and his Family the Objects of the Hatred of
+<HI>Rome;</HI> yet he not only scaped the first Rages of
+that Popular Fury, but was very soon at the Head
+of their Armies; he entred into the <HI>Triumvirate,</HI>
+and was in a few years rid of the other two;
+and after that first scene of Artifice and Cruelty
+was over, he became the Wisest, the Moderatest,
+and was the Happiest Prince, and the longest
+<GAP DESC="illegible" REASON="in gutter" EXTENT="1 word" DISP="〈◊〉"/> of any in History, having had a course of
+Glory of Fifty-six years Continuance.</P>
+<P><PB N="12" REF="10"/>
+But not to weary you with a dry Recital of
+too much History, I shall conclude with one
+whose Circumstances were as remarkable in
+themselves, as in the Effects that followed on
+them: When <HI>Dioclesian</HI> and <HI>Maximian</HI> had, chiefly
+by the Instigation of <HI>Galerius,</HI> begun the last Per∣secution
+of the Christians, the Design seemed
+so well laid, and was managed with so much
+Fury, that by all the appearances of things, it
+could not miscarry, when Successors were pre∣pared
+to carry it on steddily; <HI>Galerius,</HI> that had
+been the most violent of all the Persecutors, ha∣ving
+chosen <HI>Maximinus Daia,</HI> that had been an or∣dinary
+Grazier, for his Successor, who had not
+any one quality to recommend him to that Ele∣vation,
+but his Fury against the Christians: It
+is true there was a part of the Empire that fell
+not under the common Calamity; it was in∣deed
+that part in which there were the fewest
+Christians. <HI>Constantius Chlarus</HI> had for Sixteen
+Years govern'd the <HI>West,</HI> first as <HI>Caesar,</HI> then as
+<HI>Emperor,</HI> in which time he had kept both <HI>Gaul</HI>
+and <HI>Spain</HI> in perfect quiet; he had reduced all
+<HI>Britain,</HI> and had frequently beat the <HI>Germains,</HI>
+and driven them beyond the <HI>Rhine:</HI> These Suc∣cesses
+made him so formidable, that tho he was
+favourable to the Christians, and would not per∣secute
+<PB N="13" REF="10"/>
+them in his share of the Empire, yet <HI>Ga∣lerius</HI>
+durst not plainly fall upon him, but he
+had got his Son <HI>Constantine</HI> into his hands, and
+kept him about him at his Court in <HI>Nicomedia:</HI>
+His Father began to languish, and upon that
+sent for him, but <HI>Galerius</HI> put him off by de∣lays;
+and tho he did not flatly refuse to let him
+go, yet he plainly saw that he had no mind to
+grant it. But <HI>Galerius</HI> happening as he often
+did, to get drunk, he obtained then his leave to
+be gone, and got his Seal for it. Upon this he
+went away immediately, and crossed the Sea,
+near to the place where <HI>Constantinople</HI> was after∣wards
+built by him; and because he apprehended
+that <HI>Galerius</HI> when he came to himself would
+send after him, he took up all the Horses that
+were in every Stage, and at the end of it disabled
+them; so he passed quite through to <HI>Italy,</HI> and
+it was impossible for those whom <HI>Galerius</HI> sent
+after him, ever to overtake him: He came to
+his Father at <HI>York,</HI> whom he found just expiring:
+He immediately declared him his Successor;
+which he was not willing to accept of, till the
+Soldiery in some sort forced him to it, and made
+him take the <HI>Purple.</HI> He went over after that
+into <HI>Gaul,</HI> where his Father-in-law <HI>Maximian,</HI>
+who had <HI>abdicated</HI> the Empire, came to him, and
+<PB N="14" REF="11"/>
+intending to return to it again, he pretended
+kindness to his Son-in-law, the more effectually
+to betray him: He was practising upon his Ar∣my,
+when he had advised himself to go on an
+Expedition with a small part of it; but <HI>Constan∣tine</HI>
+was inform'd of this in time, and came back
+so quick upon him, that he being both afraid
+and ashamed, fled to <HI>Marseilles: Constantine</HI> pur∣sued
+him, and those within refusing to stand by
+him, he delivered himself into his hands, who
+for two years after that, used him in all respects
+as became a Great Prince, and his Father-in-law.
+Yet nothing being able to overcome his restless
+Ambition, he solicited his Daughter to let him
+into her Bed-Chamber, while <HI>Constantine</HI> was in
+Bed; she thought her ties to a good Husband
+were stronger than to a bad Father, and there∣fore
+discovered all to him; so an Eunuch was
+laid in the bed, and a door being left open by
+the Empress, <HI>Maximian</HI> came in and killed the
+Eunuch; <HI>Constantine</HI> was in the next room, and
+rushed in with some of his Guards about him,
+and <HI>Maximian</HI> being so fully convicted of the
+Crime, all the Grace that <HI>Constantine</HI> thought fit
+then to shew him, was to leave the manner of
+his Death to his own choice; he chose the worst,
+for he hanged himself. Another signal Instance
+<PB N="15" REF="11"/>
+of God's care of <HI>Constantine,</HI> was, that when he
+advanced towards <HI>Rome</HI> to possess himself of the
+Seat of the Empire, <HI>Maxentius,</HI> that was <HI>Maximi∣an</HI>'s
+Son, who had assumed the Power there, came
+out to fight him: But he had taken care the
+night before, to cut the Timbers and Beams of
+the Wooden Bridg over the <HI>Tyber,</HI> so that they must
+have cracked, if any great weight had been up∣on
+them; and he reckoned according to the di∣sposition
+of the Battel, that <HI>Constantine</HI> should be
+forced to take that Bridg, and so perish with its
+fall; but the issue of the Battel was such, that
+he himself was forced to pass over the Bridg,
+which crackt under him, and he was drowned
+in the <HI>Tyber.</HI> Through this tract of wonderful
+circumstances, was <HI>Constantiue</HI> brought to the
+Possession of the Empire, by whom not only the
+Persecution of the Christians was put to an end,
+but in pursuance of the Dream he had the night
+before, he defeated <HI>Maxentius,</HI> that represent∣ed
+to him the Figure of the <HI>Cross,</HI> as that under
+which he was to conquer, he himself both turn∣ed
+Christian, and made it the Religion of the
+Empire.</P>
+<P>Such have been the Methods by which God
+has raised up Kings and Empires for the advan∣cing
+the Glory of his great Name, for the punish∣ing
+<PB N="16" REF="12"/>
+and humbling persecuting Tyrants, and for
+giving Salvation and Protection to his People.</P>
+<P>But we need not weary our selves in seeking
+instances of this in past times, when in our own
+days, we have seen a Prince, born indeed to have
+a rank among Sovereigns, but with no intrinsick
+Power to support any great Undertaking; born
+an Orphan and an Abortive both, and, as to all
+appearance, crushed under a double misfortune:
+A Royal Family to which he was allied, was be∣come
+an encumbrance to him, and his own was
+under a vast and a seemingly insuperable depres∣sion;
+his Country ty'd up by Oaths to exclude
+Him; and those from whom in Justice and Gra∣titude
+he ought afterwards to have promised
+himself a mighty Protection, leaving him to his
+own Strength and Conduct: yet, by a series of
+steps which need not be reckoned up, Him we
+have seen raised from a Plant that seemed to
+rise out of a dry ground, to be a Great Tree,
+under whose Shade all the Beasts of the Field
+come for shelter, and in whose Boughs all the
+Fowls of the Air come now to lodge. It is this
+very day two full years since he first set to Sea,
+to calm our Storms. The beginning was rough
+and inauspicious; yet even that seemed to be
+intended only to those about Him a Lesson
+<PB N="17" REF="12"/>
+which He had long before well learnt, of obser∣ving
+Providence, and depending upon it. Since
+that time, fair Winds, good Seasons, prosperous
+Undertakings, happy Discoveries, Success and
+Victory, seem to have been chained to Him,
+and bound to follow Him; and now He has not
+only the Necks of His Enemies, but the Hearts
+of all His People, as well as the Hopes of all
+<HI>Europe</HI> fastned on him. He triumphs over His
+Enemies, as well by His Mercy in pardoning,
+as by His Courage in conquering; and, which
+is more, He triumphs over all the Accidents of
+Life by such an unshaken Equality of Mind, that
+His most glorious days and His less-prosperous
+hours do not create in Him any varieties of tem∣per
+and behaviour. And what can we now think,
+but that a Life which has been a sequel of Won∣ders,
+will be carried on and concluded as it hath
+been hitherto advanced; and that if there is a <HI>Ne∣buchadnezzar,</HI>
+or an <HI>Antiochus Epiphanius,</HI> a <HI>Gale∣rius,</HI>
+or a <HI>Maximinian</HI> now in being, that God is by
+This Hand to deliver his Church from them?
+<HI>For it is God that giveth Salvation to Kings;<NOTE PLACE="marg">Psal. 2. 9.</NOTE> he puts
+down one, and setteth up another.</HI> He raiseth up
+Kings <HI>to break his Enemies with a rod of iron,<NOTE PLACE="marg">Ps. 5. 12.</NOTE> and to
+<GAP DESC="illegible" REASON="in gutter" EXTENT="2 letters" DISP="••"/>sh them in pieces like a Potters vessel; for the op∣pression
+of the poor, and for the sighing of the needy,
+God will at last arise, and set him in safety from him
+that puffeth at him.</HI></P>
+<P><PB N="18" REF="13"/>
+The second part of this Verse will also afford
+us matter of useful speculation, which is, the
+bringing the general Observation to a particular
+Head in the Instance of <HI>David,</HI> who was preser∣ved
+from many Dangers, the Accidents of War,
+as well as the Attempts of <HI>Saul;</HI> He was raised up
+from being the youngest of many Brethren, and
+from looking after his Father's Flock, to be the
+Shepherd of <HI>Israel.<NOTE PLACE="marg">Ps. 78. 71.</NOTE> God girded him with strength,
+and taught his hands to war, and his fingers to fight,
+and gave him the shield of his Salvation; he delivered
+him from the Lion and the Bear,<NOTE PLACE="marg">Ps. 18. 35.</NOTE> and from the Phili∣stine
+that defied the Armes of the living God;<NOTE PLACE="marg">Ver. 43.</NOTE> he de∣livered
+him also from the strivings of the people, and
+made him the Head of all the Nations round about him.</HI>
+Therefore it was that He, who had seen so ma∣ny
+Essays of the goodness of God to him, be∣sides
+his active Zeal when settled on the Throne
+for advancing God's Glory, and the beauty and
+solemnity of his Worship, he employ'd many of
+his thoughts and hours in composing this Book
+of Psalms, as the highest return he could make to
+God, that by the Elegance and Variety of those
+inspired Hymns, not only that Age and Nation,
+but all succeeding ones, might be furnished with
+a stock of the most elevating Devotions possible,
+which might give wings to their minds, and raise<GAP DESC="illegible" REASON="in gutter" EXTENT="1 letter" DISP="•"/>
+them up towards God. So much of the <HI>David in
+<PB N="19" REF="13"/>
+my Text,</HI> which leads me to say somewhat of
+the <HI>David of the Day.</HI></P>
+<P>Is it nothing to you all, that see and hear
+the signal steps of Providence, that have
+so gloriously watched over, and conducted
+this our <HI>David?</HI> I reckon not among the greatest
+of these, his being raised up to a Throne
+of such high Dignity among the Kingdoms
+of the Earth, by a Title, that, let ungrateful
+men say what they will, has more both from God
+and man in it, than any the World has seen for
+many Ages. But Kingdoms and Crowns are so
+distributed in the World according to the secret
+Designs of Providence, that this singly is but an
+ordinary Blessing, and given in common to him
+with other Crowned Heads. To be a Deliverer
+of Mankind, a Preserver of Religion, a Fence a∣gainst
+Tyranny and Cruelty; to have for his first
+Essay saved his own Countrey from utter ruine,
+when it seemed to be in its last Agonies; and to
+have not only resisted, but beat back a mighty
+Torrent that swept every thing before it; to have
+stopt the blackest Designs that were formed a∣gainst
+Religion and Liberty both there and here;
+for the preserving the United Provinces, and
+their Religion and Government, was at that time
+likewise the saving this Church and Nation; so
+soon did he begin to be a Deliverer to us: this,
+<PB N="20" REF="14"/>
+perhaps, was not then known to every one; but
+we do now all know, that we were to have been
+the second Sacrifice); All this, I say, one should
+think was Greatness and Glory enough to have
+fallen to any one mans share. But that a reserve of
+Blessings should yet be kept in store for the same
+Person, is a peculiar Favour of Heaven; and
+shews us, That <HI>this is the man whom God delights to
+honour, and whom he has made strong for himself.</HI> That
+the day of our Extremity being come, when we
+saw the Net spread over us, and that a little time
+was only wanting, to model the Army, and to
+make a Parliament, that just then the conjuncture
+of Affairs over all <HI>Europe,</HI> and the disposition of
+all mens minds in the <HI>Netherlands,</HI> the Errors and
+Follies of our Enemies, both within and without
+this Kingdom, with the zealous assistance of our
+Friends and Allies; but above all, That the In∣sensible
+Creation, the Seas, the Winds, and the
+Seasons, should all have joined together to pro∣mote
+that great Undertaking, shewed the care
+and tenderness of that wise Conduct that watched
+over us. Every one of these Particulars is extraor∣dinary
+in it self; but the conjunction of them
+all together is such a scene of Wonders, that no
+man who knows the contexture of all the parts
+of this Deliverance, can look upon them, without
+seeing such a prospect of Providence as raises his
+<PB N="21" REF="14"/>
+Mind into all the heights of Joy and Wonder. But
+to view next the second Scene of God's raising his
+Glory on this Stage, when our Sins had for a while
+retarded the progress and the finishing of our Hap∣piness,
+when many among our selves were wishing
+to be again in <HI>Egypt,</HI> and were saying, <HI>We will not
+have this Man to rule over us;</HI> when many of those
+who had formerly aggravated our Dangers, as much
+as any, were changing their Stile, and fancying
+that a Power thrust upon us from <HI>France,</HI> and sup∣ported
+and guarded from thence, was, or would be
+a tame and harmless thing, and seemed to forget all
+the Affections that Nature gives for our Country,
+and that Religion gives for the Church of God, so
+that a new and perhaps a greater Crisis than the for∣mer
+had returned upon us; then it was that our
+<HI>David</HI> resolved to be no longer a Spectator and a
+Director of his Forces, and to make War by Proxy,
+but again to venture that sacred Life, in which, if
+in a Day of rejoicing we may mix any Complaints
+with our Jubilee, we must venture to say, that by
+a Courage which is too prodigal of that in which
+we have all so great a share, even while he preserves
+us by his happy <HI>Genius,</HI> yet he exposes us too much
+by the repeated Dangers to which that Life is expo∣sed,
+by which as we all live, so all <HI>Europe</HI> is kept united
+against the great Destroyer and Enemy of Mankind.</P>
+<P>Here again; the Winds and Seasons, the Cou∣rage
+<PB N="22" REF="15"/>
+and Fidelity of all about him, the feeble Coun∣sels
+and Conduct of the Enemy, conspired of his
+his side; but above all, the Watchfulness of Provi∣dence
+shewed it self in Instances that Posterity will
+be tempted to think the Contrivances of a happy I∣magination
+to beautify our History. But Inventi∣on
+could hardly be so bold or so fruitful, as to re∣present
+a Prince just in the Eve of a Day, upon
+which not only the Security of his Throne, but that
+which to a Mind like his is much more valuable, the
+Preservation and Happiness of his People depended,
+receiving a Wound by that, which of all the Inven∣tions
+of giving Death, is the most infallible, and
+yet so slight a Wound, that it seemed sent upon no
+other Intent, but that the firmness of his Mind, upon
+so extraordinary an Accident, and the care of Heaven
+in so critical a minute, might be shewed in the pro∣perest
+time, and in the sight of all his Army, both
+for animating and assuring them, that there was an
+invisible Guard watching about the Person of him,
+under whose Standards they were to triumph next
+day. This prov'd so inconsiderable, that it neither hin∣dred
+the continuance of a Fatigue of nineteen hours
+that day, nor a return to one of sixteen the next, in
+which his Presence was every where so necessary,
+that the slightest Wound which had disabled him
+from that, might have proved a mortal one to us all.
+The Glories of that Day, that was neither stained
+<PB N="23" REF="15"/>
+with a great effusion of Blood, nor with any of that sort
+that might have lessened the beauty of the Victory,
+the entireness of the Defeat, the Consequences that
+followed upon it, the Quiet that it secured to us
+here as well as that it procured there; the unhappy
+State out of which it delivered us, when we were
+beginning to languish by a Misfortune which I un∣willingly
+mention, because nothing that is melan∣choly
+ought to be mixed with the Joys of this Day.
+All these things carry in them such matter of reflecti∣on,
+that tho I must now croud them together, yet
+they are capable of affording great variety of thoughts.
+Our Spirits here were as much depressed, as those
+of some unnatural English-men were exalted
+in the prospect they had of the approaching Ruin
+of their Country. Some were not ashamed to say,
+that we needed fear nothing from the <HI>French,</HI> they
+would not hurt us: and thus the terriblest of all the
+Calamities that can befal our Nation, was set forth
+by some as an innocent, or rather as a desirable thing,
+that would prove a Deliverance and not an Invasi∣on.
+While this Fermentation was working, even
+in the very moment in which we wanted so mighty
+a Support, came the happy News which put a new
+face upon our Affairs. Some feared that in the ab∣sence
+of our Sun we should have only had a faint
+Moon-light to guide us, and that the gentle Hand
+which then held the Rudder should have proved too
+<PB N="24" REF="16"/>
+feeble for such rough Work, especially when the
+first Essay was in a Storm, and that there was an E∣nemy
+so powerful triumphing in view, and on our
+Coasts, and so many ill Instruments at work within.
+But to our Admiration, and to the eternal Praise of
+Divine Providence, we found we had another Sun
+in our Firmament, and that Spirit which till then
+Gentleness and Modesty had shut in, now finding
+that the Conjuncture required it, shewed it self
+with so much firmness and so bright a lustre, that
+we began to doubt whether one Soul did not ani∣mate
+both, and give its Influences equally in both.
+So much Skill in Government, tempered with so
+much Softness, such a dexterity in Management,
+such a constancy of Devotion, and so unwearied an
+application to Business, are things so much out of all
+common Roads, that we must look up to Heaven,
+and acknowledge that this was of God, that has rai∣sed
+up and conducted these our Deliverers and Pre∣servers.
+He has also literally preserved our <HI>David</HI>
+from the <HI>hurtful</HI> or the <HI>evil Sword,</HI> since we know
+that the chief of our Enemies in the secret Correspon∣cies,
+encouraged themselves, when the prospect of
+their Affairs seemed melancholy and desperate, with
+a reserve of Hope from the Negotiation of an Assas∣sinate
+whom they had employed: but God has de∣livered
+his Servant even from this <HI>evil Sword;</HI> and
+to crown all the Blessings of this Year, he has now
+<PB N="25" REF="16"/>
+given Him the Hearts of his People, in so eminent
+a manner, that the Q. <HI>Elizabeth</HI>'s Days seem to return
+again upon us, in which the Purses of the Subject
+were that happy Queen's never-failing Treasure,
+who reckoned that their Money was never more
+their own, and never better placed, nor better im∣ployed,
+than when it was in the Queen's Hands.
+She twice discharged the Subjects of the Taxes
+they had given her for a War, when a Treaty of
+Peace put an end to her Warlike Preparations. Such
+a Justice to her self, and to her People, gave her so
+sure a Title to their Wealth, that she was indeed the
+Mistress of it all, and knew that she could call for
+as much of it as the Publick Occasions required.
+When we see the same Confidence in the Crown
+returning in the Nation, which has been so long
+and so fatally interrupted, we may then reckon that
+our Kings are become truly great, and the Masters
+of the whole Property of <HI>England,</HI> not by the strain∣ed
+and false Pretensions of a devouring Preroga∣tive,
+but by the surest and best-grounded Domini∣on,
+which they have over the Hearts of their Peo∣ple,
+which must infallibly draw every thing else
+after it: For a Nation can deny nothing that it can
+give, when it is both asked and laid out for their
+own Defence and Preservation.</P>
+<P>And now, DREAD SOVERAIGNS, suffer me, in the
+<PB N="26" REF="17"/>
+Name of God, to turn my self to You. It cannot
+seem a small thing in your Eyes, that he has not on∣ly
+raised you up to so sublime a Dignity, and set a
+Crown of pure Gold on your Heads, but that he
+has watched over your Persons, and blessed your
+Councils, that you both do now shine with the Lu∣stre
+becoming each Sex, the one with the Glory of
+a Conqueror of Enemies, and the other with the
+softer Rays of a Preserver of your People; that this
+has given you the Hearts of your Subjects, and
+made you the Terror and Dread of your Enemies,
+of which they have made an ample confession, in
+those barbarous Jollities upon the supposed Death
+of You, <HI>Great Sir,</HI> every extravagant Demonstra∣tion
+of that inhumane Joy, being a loud discovery
+of what they apprehended from You. God has
+drawn the Eyes of all the World upon You, who
+hope that by You that tempestuous Sea, whose
+Inundations have destroy'd so many Countries,
+shall be shut up within Bounds, and that You shall
+set Bars and Doors to it; and that by You God shall
+say to it, <HI>Hitherto shalt thou come, and no further▪
+and here shall thy proud Waves be staid.</HI> It is from
+You that <HI>Europe</HI> expects Liberty and Peace, and the
+Reformation a Recovery and a new lustre. By You
+exiled Princes hope to be restored to their Rights,
+and exiled Subjects to their Houses, Churches, and
+Edicts. It is from Your Influence that our Elder
+<PB N="27" REF="17"/>
+Brethren, the first begotten of the Reformation, or
+rather the last Remnant of True and Primitive Chri∣stianity,
+hope to be confirmed in the Settlement that
+their Prince hath granted them. It is from Your
+Counsels and Arms, that both Your Subjects and
+Your Allies expect a happy and a secure Peace.
+What more could have been hitherto done for the
+gradual raising of your Glory than has been done?
+You are now advanced to be as true Representatives
+of God, as Mortals can be made, since from your
+Power, your Justice, your Wisdom, and your
+Goodness, so great a part of the World waits for
+happy Influences, for great Undertakings, and for
+glorious Successes, that shall be the Joy of the pre∣sent
+Age, and the Wonder of the next.</P>
+<P>But remember, O ye Kings, that to whom much is
+given, of them much shall be required; and if You
+expect from those that You imloy, degrees of Fide∣lity,
+Zeal, and Application, proportioned to the Fa∣vours
+and Trusts You bestow upon them; think a
+little, I know You do a great deal, what Examples of
+Piety and Vertue You ought to set your People,
+and how much You ought to imploy your Autho∣rity
+in promoting his Glory, who has covered You
+with so much of his own Image. Ordinary degrees
+of Zeal may be accepted from those of a lower
+Form, but the highest pitch of it is the least Sacri∣fice
+that You can offer. The discountenancing
+<PB N="28" REF="18"/>
+and driving from You all that prophane scorn of
+Religion and Vertue, which has so deeply infected
+the Nation, that strong Remedies must be used
+before we are purged from it. The disgracing and
+punishing such as are not ashamed of the most open
+and crying Vices, the encouraging Vertue by all the
+distinguishing Marks of your Favour to those who
+pursue it. The Reforming your Court and your
+People, and particularly that Body which of all o∣thers
+should need your Care least, but I am afraid
+does it but too much, I mean those who Minister
+in Holy Things: these are the Returns that God ex∣pects
+from you. I know all cannot be done at
+once, and the leisure as well as the calm of Peace
+will be necessary to bring this about. But as your
+resolving on it inwardly before God, will be ac∣cepted
+by him who knows the sincerity of your
+Hearts, and does not oblige you to endanger the
+Publick too much, by a violent and precipitated
+Cure: So when it is once understood that You are
+settled in these Noble Purposes, this will make the
+execution of them easy to You. And to conclude,
+I must crave leave to add one thing more; Your
+Royal Grandfather, who had great Vertues in him∣self,
+was perhaps too easy to Vice in others, and from
+hence sprang in a great measure the ruin of his Af∣fairs;
+for dissolute and depraved Men will be al∣ways
+truer to their Vices, than to their Masters. I
+<PB N="29" REF="18"/>
+am not afraid of Your displeasure for this freedom,
+it becomes the Place I am in, and the Station You
+have raised me to; and I am sure the other parts of
+this Discourse, which the Occasion has made ne∣cessary,
+have been much more uneasy to You than
+this is.</P>
+<P>But <HI>David</HI>'s Joy was not so entire, when he com∣posed
+this Psalm, that there was no need of pray∣ing
+for a further and a more compleat Deliverance;
+therefore he adds to this joyful Note a mournful
+One; <HI>Rid me, and deliver me;</HI> he was yet encom∣passed
+with Idolaters, and not only common Idola∣ters,
+but Men whose Morals were as defiled as their
+Worship; who were Treacherous and Insolent, to
+whose Oaths and Treaties no regard was due, who
+in the time that they made up their Treaties, were
+intending to break them, which is imported in this,
+that a <HI>Lie was in their right Hand;</HI> and whose Mouths
+were full of Insolence, daring Pride, and haughty
+Scorn: who how much soever they depressed their
+God by their Idolatry, yet were swelled up in them∣selves
+to all the Caresses of lofty Arrogance; they
+perhaps loved to be celebrated by Statues, Titles, and
+Inscriptions, which might render their Names
+Immortal, tho they could not make their Persons
+so: They might delight in all the Contrivances of
+servile Flattery, to set them above all other Mortals,
+<PB N="30" REF="19"/>
+and by hearing that oft said, they might fancy
+themselves to be really so; they might suffer all the
+Topicks of Flattery to be exhausted, and all the Me∣thods
+of it to be imployed in adoring them with that
+Tinsel. It might be understood that it was the surest
+way of raising ones Fortune much more infallible
+than any Merit whatsoever, to find out some new
+Strains of Commendation; and when that once
+appear'd, then Minds made for nobler Purposes
+when pressed with a lowness of Fortune, would
+stoop to the abjectest Things of Humane Nature
+by turning their Wits to every Artifice that might
+give a false Light and Lustre to counterfeit Ware.</P>
+<P>But to compleat the Character of <HI>David</HI>'s Ene∣mies,
+we are to consider them as breaking through
+the sacredest Bonds, and protesting that they would
+maintain them in the midst of the most publick Vio∣lations
+of them, as if they had been equally voi<GAP DESC="illegible" REASON="in gutter" EXTENT="1 letter" DISP="•"/>
+both of Truth and Shame, giving and breaking
+their Faith as oft as either their Interests or their Va∣nity
+required it, violating the Ties of Nature, as wel
+as breaking the bonds of humane Society, robbin<GAP DESC="illegible" REASON="in gutter" EXTENT="1 letter" DISP="•"/>
+all their Neighbours, invading Orphans trusted t<GAP DESC="illegible" REASON="in gutter" EXTENT="1 letter" DISP="•"/>
+their Care, and ruining whole Provinces after the<GAP DESC="illegible" REASON="in gutter" EXTENT="1 letter" DISP="•"/>
+had purchased their Protection at the most extrava∣gant
+Rates, sparing neither Age nor Sex, but destroy∣ing
+both Cities and Countries, and hoping to com∣pensate
+<PB N="31" REF="19"/>
+for all the Crimes to which their Ambition
+<GAP DESC="illegible" REASON="in gutter" EXTENT="1 letter" DISP="•"/>nd Fury could lead them, by a pretence of Zeal for
+<GAP DESC="illegible" REASON="in gutter" EXTENT="2 letters" DISP="••"/>eir Idol, and that way of Idolatry which best plea∣<GAP DESC="illegible" REASON="in gutter" EXTENT="2 letters" DISP="••"/>d
+them; and yet sometimes with the basest sort
+<GAP DESC="illegible" REASON="in gutter" EXTENT="1 word" DISP="〈◊〉"/> Idolaters, who beat and whip their Idols when
+<GAP DESC="illegible" REASON="in gutter" EXTENT="2 letters" DISP="••"/>ey think they are not favourable enough to them,
+<GAP DESC="illegible" REASON="in gutter" EXTENT="2 letters" DISP="••"/>ey might even rob their own Idol, and profane eve∣<GAP DESC="illegible" REASON="in gutter" EXTENT="2 letters" DISP="••"/> thing
+that had relation to it, when they them∣<GAP DESC="illegible" REASON="in gutter" EXTENT="2 letters" DISP="••"/>lves
+were not made the chief Idol, and served with
+<GAP DESC="illegible" REASON="in gutter" EXTENT="1 word" DISP="〈◊〉"/> deepest Veneration: Such were many of the Ido∣<GAP DESC="illegible" REASON="in gutter" EXTENT="2 letters" DISP="••"/>ers
+of the Heathen Nations. Perhaps the Cha∣<GAP DESC="illegible" REASON="in gutter" EXTENT="3 letters" DISP="•••"/>ters
+I have set them out in, may not all frequent∣<GAP DESC="illegible" REASON="in gutter" EXTENT="2 letters" DISP="••"/>
+meet in the same Persons: yet tho many In∣<GAP DESC="illegible" REASON="in gutter" EXTENT="2 letters" DISP="••"/>ances
+of every part of this Description might soon
+<GAP DESC="illegible" REASON="in gutter" EXTENT="1 word" DISP="〈◊〉"/> found out, I will not interrupt the Chearfulness
+<GAP DESC="illegible" REASON="in gutter" EXTENT="1 word" DISP="〈◊〉"/> this Day, by setting before you Objects that
+<GAP DESC="illegible" REASON="in gutter" EXTENT="2 letters" DISP="••"/>st give horrour: Nor will I seek for any of these
+the present Scene of the World, nor examine any
+<GAP DESC="illegible" REASON="in gutter" EXTENT="1 word" DISP="〈◊〉"/> our <HI>David</HI>'s Enemies, and see how well these
+<GAP DESC="illegible" REASON="in gutter" EXTENT="2 letters" DISP="••"/>haracters may fit them. We serve Princes who
+<GAP DESC="illegible" REASON="in gutter" EXTENT="2 letters" DISP="••"/>e as little to hear their Enemies reproached, as
+<GAP DESC="illegible" REASON="in gutter" EXTENT="2 letters" DISP="••"/>emselves commended; but it will be no hard
+<GAP DESC="illegible" REASON="in gutter" EXTENT="2 letters" DISP="••"/>ing, upon a general Survey of the present State
+<GAP DESC="illegible" REASON="in gutter" EXTENT="1 word" DISP="〈◊〉"/> <HI>Europe,</HI> to pronounce who seem to be born to
+the Blessings, and who the Curses and Plagues
+the Age.</P>
+<P><PB N="32" REF="20"/>
+But what or whosoever our Enemies may be,
+both Kings and Subjects ought to join in their most
+earnest Prayers to God, that we may be delivered
+from all the Children of the strange God, who may
+think that the offering up those that are of a diffe∣rent
+Worship to that of their <HI>Baal,</HI> is a Sacrifice that
+will atone for all the Rapine and Bloodshed, and
+every others Immorality of which they may be guil∣ty.
+It was no wonder that <HI>David</HI> by repeated Pray∣ers
+desired to be delivered from such Enemies; for
+we find this Petition, and this Character of them is
+twice in this short Psalm, with this addition in the
+<HI>7th</HI> verse, that imports their Strength and Num∣bers;
+<HI>Send thy Hand from above, rid me and deliver
+me out of great Waters, from the Hand of strange Chil∣dren.</HI>
+We who are now the happiest Nation under
+Heaven, want nothing to make us the most mise∣rable,
+but to fall under the Power of those who
+have no remnants either of Truth or Goodness
+left in them.</P>
+<P>But while our Kings are consulting, and our Par∣liaments
+are assisting, while our Fleets and Ar∣mies
+are a preparing, and our Allies are uniting;
+while the joint Endeavours of so many within
+and without the Kingdom, are all at work to pro∣cure
+us an entire riddance and deliverance from the
+Hands, the rough and Iron Hands of these our
+<PB N="33" REF="20"/>
+Enemies; There is one thing I am afraid is too ge∣nerally
+neglected or forgotten, and that is, our pray∣ing
+to God earnestly to rid and deliver us from those
+false and cruel Men. We have been this last Sum∣mer
+frequently brought together to fast and pray
+for Success and Victory; God has heard our Pray∣ers,
+and in that has given us all possible encourage∣ment
+to continue our praying to him. We are
+now, as to outward appearance, following the Me∣thod
+that he has prescribed;<NOTE PLACE="marg">Psal. 50. 12.</NOTE> <HI>Call upon me in the day
+of Trouble; I will hear thee, and thou shalt glorify me.</HI>
+We have <HI>called,</HI> God has <HI>heard,</HI> and we are now
+<HI>glorifying</HI> his Name, and rejoicing in the great Sal∣vation
+that he hath wrought for us: And if we
+desire a return of such happy Occasions, we must
+in the mean while continue our most earnest Pray∣ers
+to God; and when we are called on to it, we must
+return to our monthly Fasts and Humiliations. It
+did not derogate neither from <HI>David</HI>'s Courage nor
+Conduct, that he acknowledged <HI>God was his For∣tress,<NOTE PLACE="marg">Ver. 2.</NOTE>
+his high Tower, his Shield and Deliverer, in whom
+he trusted;</HI> who subdued his People under him;
+and being full of the sense of his Glory, he reflect∣ed
+on himself, and on all his People as nothing;
+<HI>Lord, what is Man, that thou takest knowledg of him,
+or the Son of Man, that thou makest account of him?
+Man is like Vanity, his days are like a Shadow that pas∣seth
+<PB N="34" REF="21"/>
+away:</HI> Therefore it is that he prays earnestly,
+<HI>Bow the Heavens, O Lord, and come down.</HI></P>
+<P>Here is a Noble Pattern to excite and encourage
+our Devotion, and we have all reason to conclude,
+that the Blessings we now Celebrate, are in a great
+measure owing to the Prayers of those happy Souls
+that have been the Intercessors for the Nation, of
+which it is not to be doubted but we have a great
+many among us, for it is certain that we have never
+seen a more solemn Observation, as to all outward
+appearance, of such Days as was on those month∣ly
+Returns; and tho many were very bare-faced in
+their neglect of them, and others that should have
+animated the Publick Zeal, were extream cold in
+the observance of them, yet much earnestness and
+fervour shewed it self in many places. We see
+God has heard the Prayers of those who cried
+mightily to him; and we have all reason to hope,
+that he who has deliver'd us from so great a Cala∣mity
+as then threatned us, will still hear and deli∣ver
+us, if we continue still to call upon him.</P>
+<P>But let the Murmurers and the Troublers of our
+<HI>Israel</HI> say what they will, God hath wrought in the
+midst of us a mighty Deliverance, and he will
+perfect and stablish that which he hath wrought for
+us, if we do not, by our Ingratitude and Rebel∣lions,
+stop that course of Blessings that seems ready
+<PB N="35" REF="21"/>
+to flow in upon us, as soon as we are <HI>delivered from
+our Enemies, and from the Hands of all that hate us.</HI>
+Then we may hope to have the True Religion, and
+the best Church in the World established among
+us, and the Reformation by our Means secured
+and maintained elsewhere: We may hope to see
+this Nation become the Center of the Union and
+Peace of <HI>Europe,</HI> that shall assert and warrant it a∣gainst
+every bold or perfidious Invader: We may
+hope to see this vvhole Island become one Church
+and one Body, as it has one Head; and the
+neighbouring Island set upon a Foundation liable to
+no more Shakings nor Convulsions. We may
+hope to see Law and Justice become the constant
+and certain Measures of our Government; Chari∣ty
+and mutual Forbearance, become the Strength
+as vvell as the Ornament of our Church, and our
+Church become the Pattern, as vvell as the Glory,
+of the vvhole Reformation. And in conclusion,
+vve may hope to see our Princes Heads still co∣vered
+with fresh Lawrels, ever triumphing over
+their Enemies, and yet never making themselves
+Enemies to any, but to the Invaders and Enemies
+of Mankind; giving Security to all about them,
+and in a length of Days, and a stability of Peace,
+giving a fulness of Wealth and Happiness to all
+that are under them; an encrease of Trade, an
+<PB N="36" REF="22"/>
+improvement of Soil, and such an advancement
+of the Prosperity of the Nation, as is expressed in
+the followed words of the Psalm, <HI>That our Garners
+may be full, affording all manner of Store; that our
+Sheep may bring forth thousands, and ten thousands in
+our Streets: That our Oxen may be strong to labour; that
+there be no breaking in, nor going out; and that there
+be no complaining in our Streets. Happy</HI> are the Prin∣ces,
+and <HI>happy is that People that is in such a Case; yea,
+and happy</HI> are the Princes, and <HI>happy is that People whose
+God is the Lord.</HI></P>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

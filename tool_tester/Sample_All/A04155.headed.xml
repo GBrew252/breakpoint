@@ -1,0 +1,3642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The key of knowledge which is, a little booke intended to bee of good use, as for all degrees of Christians, so especially for religious families, and religious schooles. The full use and contents whereof must be enquired in the preface or introduction to the worke, which is (first) deliberately to be read of those who desire to receive profit by the booke. By John Jackson, rector of Marsk neere Richmond in York-shire.</TITLE><AUTHOR>Jackson, John, 1600-1648.</AUTHOR></TITLESTMT><EXTENT>Approx. 100 KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2004-11 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A04155</IDNO>
+
+
+<IDNO TYPE="stc">STC 14297A</IDNO>
+
+<IDNO TYPE="stc">ESTC S100135</IDNO>
+
+<IDNO TYPE="eebo citation">99835987</IDNO>
+
+<IDNO TYPE="proquest">99835987</IDNO>
+
+<IDNO TYPE="vid">225</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A04155)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 225)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1475-1640 ; 1313:05)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The key of knowledge which is, a little booke intended to bee of good use, as for all degrees of Christians, so especially for religious families, and religious schooles. The full use and contents whereof must be enquired in the preface or introduction to the worke, which is (first) deliberately to be read of those who desire to receive profit by the booke. By John Jackson, rector of Marsk neere Richmond in York-shire.</TITLE><AUTHOR>Jackson, John, 1600-1648.</AUTHOR></TITLESTMT><EXTENT>[128] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Imprinted by Felix Kingston for Robert Milbourne, and are to be sold at the signe of the holy Lambe in little Brittaine, neere S. Butolphs Church,</PUBLISHER>
+<DATE>1640.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Collation: A-E¹²  F⁴.</NOTE><NOTE>The first leaf is blank.</NOTE><NOTE>"A most briefe and contracted modell of knowledge", "A briefe, methodicall, plain, and full forme of doctrine", "A theologicall circle", and "An alphabet conteining the briefe of what is to bee knowne" have their own divisional title pages.</NOTE><NOTE>Some print show-through.</NOTE><NOTE>Reproduction of original in Cambridge University Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Christian life --  Early works to 1800.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2004-06</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2004-06</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2004-07</DATE><RESPSTMT><RESP>Rachel Losh</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2004-07</DATE><RESPSTMT><RESP>Rachel Losh</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2004-10</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A04155">
+<STC T="S">14297A</STC>
+<BIBNO T="umi">99835987</BIBNO>
+<VID>225</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y"/>
+<PB REF="1" MS="y"/>
+<P>The Key of Knowledge.</P>
+<P>which is,
+<HI>A little booke intended to bee of</HI>
+good use, as for all degrees of Chri∣stians,
+<HI>so especially for Religi∣ous</HI>
+Families, and Reli∣gious
+<HI>Schooles.</HI></P>
+<P>The full use and contents whereof must
+<HI>be enquired in the Preface or introdu∣ction
+to the worke which is (first)</HI>
+deliberately to be read of those
+<HI>who desire to receive pro∣fit</HI>
+by the Booke.</P>
+<P>By JOHN JACKSON, Rector of
+<HI>Marsk</HI> neere <HI>Richmond</HI> in <HI>York-shire.</HI></P>
+<Q><BIBL>Acts. 17. 23.</BIBL>
+As I passed by and beheld your Devotions, I found an
+Altar with this Inscription, <HI>To the unknowne God:</HI>
+Whom therefore yee ignorantly worship, him declare
+I unto you.</Q>
+<Q><BIBL>John 17. 3.</BIBL>
+This is lefe eternall, to <HI>know</HI> thee to bee that onely true
+God, and him whom thou hast sent, Jesus Christ.</Q>
+<P>LONDON,
+Imprinted by <HI>Felix Kingston</HI> for <HI>Ro∣bert
+Milbourne,</HI> and are to be sold at
+the signe of the holy Lambe in little
+Brittaine, neere S. <HI>Butolphs</HI>
+Church. 1640.</P>
+</DIV1>
+<DIV1 TYPE="illustration">
+<P>
+
+<PB REF="2" MS="y"/>
+<FIGURE>
+</FIGURE></P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2"/>
+<HEAD>TO THE WOR∣shipfull,
+and his ever
+honoured friends, the whole po∣sterity
+of his worthy Patron, Sir
+Timothy Hutton deceased, both
+to his Sonnes with their wives and
+Children, and to his Daughters
+with their husbands and children:
+namely, Mathew Hutton of
+Marsk. Esquire, Iustice of peace;
+Iames Maulleverer of Arncliffe
+Esquire; Iohn Dodsworth of
+Thornton-watlasse, Esquire, Iustice
+of peace: Edmund Cleburne of
+Cleburne, Esquire; Mr Timothy
+Hutton; Mr Philip Hutton decea∣sed
+his relict and issue; M<SUP>r</SUP>
+Iohn Hutton; and M<SUP>r</SUP>
+Thomas Hutton,
+Peace &amp;c.</HEAD>
+<P><SEG REND="decorInit">T</SEG>His little fol∣lowing
+book
+had beene in
+the Printers
+
+
+<PB REF="3"/>
+hands diverse daies ere
+ever I purposed any
+nuncupation, or dedi∣cation
+of it at all. At
+last, it came into my
+minde to addresse it
+this way, and that for
+these causes. first, out of
+honour to your chiefe,
+<HI>Arch-Bishop Hutton,</HI> of
+whom for his learning,
+and gravitie, this great
+Encomium was pub∣liquely
+given, that hee
+was <HI>worthy to sit Presi∣dent
+in a generall Coun∣cell.</HI>
+Secondly, because
+I was well ascertained,
+my book could receive
+
+
+<PB REF="3"/>
+no smut from you, be∣ing
+people of whole
+fame for native gentle∣nesse,
+innocency of
+manners, faire deport∣ment,
+and for the con∣stant
+and uniforme pro∣fession
+of Religion.
+Thirdly, for that the
+most of you are spread
+into a goodly posterity
+and have faire sonnes
+and daughters, unto
+whom these things may
+bee truely usefull to
+ground them soundly
+in Religion, so as nei∣ther
+<HI>Abundance</HI> can
+<HI>choake,</HI> nor <HI>Indigence</HI>
+
+
+<PB REF="4"/>
+ever <HI>starve</HI> in them those
+due respects they owe to
+divine powers. Would
+God parents would at
+last be wise, and thinke
+it were conduceable to
+the hopefull setling of
+a child, to aime at more
+of <HI>instruction</HI> and in∣stitution,
+though lesse
+of <HI>provision.</HI> Fourthly,
+in acknowledgement of
+that great love, sweet fa∣miliarity,
+and continuall
+intercourses of Christi∣an
+acquaintance which
+you were ever pleased
+to hold with mee, both
+affecting my person,
+
+
+<PB REF="4"/>
+and leaning to my mi∣nistery
+farre beyond
+the proportion of de∣sert.
+Lastly, and espe∣cially
+for the pious me∣mory
+of that worthy
+Knight Sir <HI>Timothy Hut∣ton,</HI>
+your deare Father,
+and my most incorrupt
+Patron. Into the menti∣on
+of whom being fal∣len,
+I cannot containe
+my pen, but to his great
+praise I must relate one
+or two things of him in
+this very regard: first
+that comming to settle
+his family at <HI>Marske,</HI>
+and finding the <HI>Rector</HI>
+
+
+<PB REF="5"/>
+there to be no more but
+a bare reader, he rested
+not till hee had com∣pounded
+forth the pre∣sent
+incumbent, and fil∣led
+the Church with a
+preaching Ministery.
+And when it was empty
+againe by the death of
+that incumbent, he most
+freely presented my selfe
+with out the least request
+made in my behalfe to
+him, either by my selfe,
+or any other; yea hee
+besought mee earnestly
+to take it, and when he
+signed the presentation
+he drew with his pen the
+
+
+<PB REF="5"/>
+forme of his heart be∣tweene
+his name and
+sir-name. and I can well
+take an accompt of my
+memory, that the Bpp
+of the diocesse, when he
+gave institution, asser∣ted
+vehemently that I
+had the best and most
+upright Patron living.
+This I say not onely for
+his <HI>honour,</HI> but also for
+the just <HI>defamation</HI> both
+of such <HI>Patrons</HI> (sonnes
+of the earth whosoever
+they be) as thinke hea∣ven
+and earth would
+faile them for mainte∣nance
+and support, if
+
+
+<PB REF="6"/>
+they should present a
+<HI>Father</HI> and <HI>Priest</HI> with∣out
+some sprinckling
+either of direct or indi∣rect
+symonie: and also
+of such <HI>Clerkes</HI> as pro∣fesse
+they believe the re∣surrection
+of their bo∣dies
+after they are cal∣cined
+to dust, and yet
+dare not trust God for
+food and raiment, with∣out
+these indirect and
+symoniacall contracts.
+But I containe.</P>
+<P>These things there∣fore
+(my much honou∣red,
+and most deerely
+respected friends) I pre∣sent
+
+
+<PB REF="6"/>
+unto you, and to∣gether
+with them what∣soever
+is worth accep∣tance
+either in the per∣son
+or function of</P>
+<CLOSER><SIGNED>Your most affectionate
+friend, and
+Servant in the things
+of Iesus Christ.
+<HI>IOHN IACKSON.</HI></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="preface">
+<PB REF="7"/>
+<PB REF="7"/>
+<HEAD>THE INTRO∣DUCTION,
+OR PRE∣face
+necessary to bee read
+by the Peruser of
+this Booke.</HEAD>
+<P><SEG REND="decorInit">T</SEG>He designe, and end which
+the Author hath in publi∣shing
+these few sheets of
+Paper, shall be made knowne unto
+thee in a few following Paragraphs.</P>
+<P>First, Being a man full of lei∣sure,
+hee thought they might <MILESTONE N="I"/>
+(through Gods blessing) prove a
+few well spent houres to compose
+some little <HI>Theologicall tractate,</HI>
+or <HI>manuall of Devotion,</HI> which
+might be truly usefull to militant
+Christians, either to <HI>beget,</HI> or <HI>pre∣serve</HI>
+Religion in their hearts.
+Wherein he had a speciall aime to
+serve the Salvation of two sorts
+of people: first, of his <HI>Parcchiall
+charge,</HI> or the slocke whereof hee
+is made an Over-seer; Secondly,
+
+
+<PB REF="8"/>
+of such <HI>Christian friends</HI> and ac∣quaintance
+(of what degree soever)
+dispersed here and there, as did
+more peculiarly love his person,
+or approve his work in the ministery
+thinking he might take more liber∣ty
+and boldnesse of speech to speake
+unto every of them in the lan∣guage
+of <HI>Saint Paul</HI> to his Schol∣ler
+<HI>Timothy: Thou hast fully
+knowne my doctrine: continue
+thou in the things which thou
+hast learned and hast beene assu∣red
+of, knowing of whom thou
+hast learned them.</HI> 2 Tim. 3.</P>
+<P><MILESTONE N="II"/> 2. His Second thoughts were,
+in so doing to practise <HI>selfe-deni∣all,</HI>
+in meerely serving Vertue, and
+not fame; and not to theame his
+pen with some high and applau∣ded
+subiect, but to apply him∣selfe
+to what should bee I. most
+plaine and easie for the <HI>understan∣ding.</HI>
+2 most short and contracted
+for the <HI>memory.</HI> 3 most methodi∣call
+and disposed, to take the <HI>fan∣cy.</HI>
+4. Serious and weighty, to
+
+
+<PB REF="8"/>
+worke on the <HI>Conscience,</HI> and la∣stly
+usefull and practicall in re∣gard
+of the <HI>will and affections,</HI>
+that thus it might have a kindly
+working on all the severall <HI>pow∣ers</HI>
+and <HI>faculties</HI> of the Soule.</P>
+<P>Thirdly, Hereupon hee resol∣ved <MILESTONE N="III"/>
+to draw and pourtray the
+whole entire <HI>body of divioitie</HI> com∣monly
+called <HI>The revealed will of
+God,</HI> and cast it into little moulds
+or formes, as <HI>Alexander</HI> did all
+<HI>Homers</HI> Iliads into a nut-shell, and
+as <HI>Regiomontanus</HI> did his exquisite
+motions into the little body of a flie,
+yet so as he endeavoured to free it
+from those two monstrosities both
+of Nature and Art, <HI>Defect</HI> of any
+thing necessary on the one hand, and
+<HI>redundancie</HI> or excesse of any thing
+superfluous on the other.</P>
+<P>Fourthly, Hee acquired and <MILESTONE N="IIII"/>
+looked into most of all the fa∣mous
+and notorious institutions of
+Religion, Systemes of Divinitie
+Common places, Theologicall the∣ses,
+Catechismes both of topi∣call
+
+
+<PB REF="9"/>
+Churches, and particular men,
+famed all over the Christian world,
+and cried up to be <HI>Orthodox, me∣thodicall</HI>
+and <HI>receaved,</HI> that at
+least observing the <HI>Oeconomie</HI> and
+<HI>fabricke</HI> of every one, and how the
+same truths did concurre in a di∣verse
+method and order of han∣dling,
+there might out of all of
+them together compared and col∣lated
+result and arise what the
+Author heereof doth now in these
+ensuing Schedules present.</P>
+<P><MILESTONE N="V"/> Fifthly, But then considering
+that there is the same danger in a
+spirituall flocke as was in <HI>Jacobs,</HI>
+Gen. 33. 13. the ghostly guide
+may over-drive the Children
+that are tender, and the heards
+that are with young, whereas to
+lead on softly, is safe; and consi∣dering
+againe that there are three
+sorts, or rather degrees in Religi∣on,
+First, <HI>Beginners</HI> or probatio∣ners,
+Secondly, <HI>Proficients,</HI> or
+growers, and lastly <HI>growne</HI> and
+full statured Christians, Ephesi∣ans
+
+
+<PB REF="9"/>
+4. 11, who may challenge the
+brave title and clogy of <HI>Mnason,</HI>
+Act 21, 16, <HI>an old disciple:</HI> yea
+that the Scripture it selfe allow∣eth,
+and beareth up this distincti∣on
+in two severall texts, both 1 Ioh.
+Epist. chap. 2. verse 13. under the
+titles of<SUP>1</SUP> <HI>Children,<SUP>2</SUP> Young men,
+and<SUP>3</SUP> Fathers;</HI> and also Marke
+4. 28. under the tearmes of<SUP>1</SUP>
+the <HI>blade,</HI> <SUP>2</SUP> the <HI>Eare,</HI> <SUP>3</SUP> the <HI>ripe
+corne in the eare:</HI> Hereupon the
+Author hath endeavoured to make
+sacred Divinitie hold proportion
+with the severall <HI>strengths</HI> and
+<HI>capabilities</HI> of Christians, casting
+it into three severall moulds or
+formes: The first of 12 Queries
+and Responses, according to the
+number of the howers of the day,
+or moneths of the Yeere, intended
+to bee the <HI>Childs Divinitie.</HI> the
+second of 31. after the number of
+daies in the moneth, which is the
+<HI>young mans Divinitie.</HI> The third
+into 52. as there are weekes in the
+yeere, which you may call the <HI>old
+
+
+<PB REF="10"/>
+mans Divinitie,</HI> as the severall
+Title-pages preceding each tra∣ctate
+will more fully declare.</P>
+<P><MILESTONE N="VI"/> Sixtly, and Lastly, whereas the
+worthy addressing of a mans selfe
+to the Lords table, to receive the
+blessed Sacrament of the body and
+bloud of Christ is, and hath ever
+beene esteemed an high piece of
+Pietie, and one of the most eminent
+performances which a militant
+Christian can goe about, as being
+one of the neerest approaches wee
+can make to God: therefore as a
+<HI>Coronis</HI> to the rest, here is anne∣xed
+an <HI>Alphabet,</HI> or <HI>Abecedary
+tractate</HI> concerning the Lords sup∣per,
+and our profitable comming
+thereunto, as the frontispice-lease
+thereof doth shew.</P>
+<P>And this is all the Author hath
+to say anent this little worke and
+his intent in publishing of it. There
+yet remaines something to be ad¦ded
+touching the right use thereof,
+in the behalfe of the <HI>usufructuary,</HI>
+or whosoever hands these treatises
+
+
+<PB REF="10"/>
+may fall into: in which regard the
+Authour proposeth these Counsels
+and Advertisements.</P>
+<P>First, Hee adviseth that by all
+meanes the <HI>chiefes</HI> and <HI>superin∣tendents</HI>
+of families, and schooles
+who are both <HI>Priests</HI> and <HI>Princes</HI>
+within their owne sept and verge,
+see that those who are under their
+goverment bee initiated and instru∣cted
+in the principles of Religion,
+whilst they are yet of very tender
+yeares. for it is scarce to be credi∣ted,
+if experience did not ascertaine
+the truth thereof, either how inept
+and indisposed unto divine know∣ledge
+such are, as are stept into
+yeeres, and having first filled their
+heads, and bardened their hearts
+with worldly-mindednesse have
+thereby prevented, aud praeoccu∣pated
+the enterance of the things
+of God: or on the other hand how
+naturally and sweetly Catechisme
+is <HI>sucked</HI> in with the Mothers
+milke, <HI>rocked</HI> in with the Nurse,<NOTE N="a" PLACE="marg">As in <HI>A∣thanasius,</HI> and his play-fel∣lowes, <HI>Ba∣ronius</HI> ad annum 311</NOTE>
+<HI>sported</HI> in with play-fellowes,
+
+
+<PB REF="11"/>
+<HI>hired</HI> in with nuts and apples, <HI>awed</HI>
+in with the twig of a rod, &amp;c. which
+howsoever at first in them it may
+be no more oft times than the bare
+letter, or<NOTE N="b" PLACE="marg">Rom. 2. 20. <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.</NOTE> <HI>forme of knowledge,</HI>
+yet by the Spirits worke ere long
+may bee improved unto <HI>Saving
+knowledge.</HI> This those worthy
+auncient Christians knew well,<NOTE N="c" PLACE="marg">Hieron ep. 7. &amp; 27. &amp; Baron. ad an. 384. n. 4.</NOTE>
+who taught their infants first to
+loose their tongues into the articu∣late,
+and syllabicall pronunciati∣on
+of the word <HI>Hallelujah.</HI> And
+surely it's as easie to teach Chil∣dren
+to say <HI>Hosanna</HI> to Christ,<NOTE PLACE="marg">Arist. me∣taphys. 1.</NOTE> as
+<HI>bald-pate</HI> to <HI>Elisha. Aristotle</HI> pro∣veth
+the sweetnesse of knowledge
+by this, that the mouths of Chil∣dren
+are so full of questions: and
+there is this reason further in Di∣vinitie,
+that those who are yet <HI>in∣nocent
+as doves,</HI> shall receive such
+irradiation of divine light from
+God, as to bee <HI>wise as Serpents,</HI>
+and those whose wills doe cleave
+unto <HI>good,</HI> their understanding
+shall approach unto <HI>Truth.</HI></P>
+<P>
+
+<PB REF="11"/>
+2. The second Advertisement
+is this, that the <HI>Catechist,</HI> that is,
+hee, or shee, who takes upon them
+the office to instruct, and Cate∣chize
+others, stand in some faire
+and neere relation to the <HI>Catechu∣menoi,</HI>
+that is, those who are taught
+and instructed: by which meanes it
+comes to passe that their principles
+are more <HI>authentick, authoritative</HI>
+and <HI>magisteriall,</HI> and the doctrine
+which they instill, proves both
+more <HI>strong,</HI> by reason of the cre∣dit
+of a Superiour, and more
+<HI>sweet,</HI> by reason of the love of a
+familiar. Oh then documents
+sticke, when wee can say, <HI>I know
+of whom I have learned them.</HI>
+Then rudiments and grounds are
+indeed <HI>Nailes</HI> to fasten in the
+memory, and <HI>goads</HI> to pricke on
+the Affections, Eccles. 12. 11.
+Thus <HI>Samuel</HI> was instructed by
+<HI>Eli,</HI> and young <HI>Jehoash</HI> by <HI>Jeho∣jadah,</HI>
+both Priests; the great
+Eunuch by <HI>Philip,</HI> a Deacon;
+<HI>Paul</HI> by his tutour <HI>Gamaliel; Ti∣mothy</HI>
+
+
+<PB REF="12"/>
+by his mother, and Grand∣mother,
+<HI>Lois</HI> and <HI>Eunice; Ori∣gen</HI>
+by his father <HI>Leonides; Gor∣gonia</HI>
+by her brother <HI>Nazianzene;</HI>
+Saint <HI>Basil</HI> by his nurse <HI>Macri∣na;</HI>
+and Saint <HI>Hierom</HI> comman∣ded
+the Lady <HI>Paula</HI> to set her
+maids to learne the Scriptures.
+Neither ought any one thinke they
+lesson themselves unto any low
+indecencies in playing the duty of
+a <HI>Catechist</HI> towards their <HI>No∣vices;</HI>
+whilst they see whole Chur∣ches,
+Counsels both nationall and
+oecumenicall, particular men of
+signall note and fame, such as <HI>Lu∣ther,</HI>
+and <HI>Calvin,</HI> calling off their
+pennes from learned Commenta∣ries,
+positive Divinitie, polemicall
+disputes, exquisite Sermons, and
+the like, even to write Cate∣chismes
+by way of question and
+answer. Yea how many fathers are
+there both of the Greeke and La∣tine
+Church which have their pe∣culiar
+<NOTE N="d" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, Rom 6. 17.</NOTE><HI>forme of doctrine,</HI> or<NOTE N="e" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> 2. Tim. 1. 13.</NOTE> <HI>hy∣potyposis
+of wholsome words?
+
+
+<PB REF="12"/>
+Clemens</HI> of <HI>Alexandira</HI> his Pae∣dagogue;
+<HI>Cyrill</HI> of <HI>Jerusalem</HI> his
+Catechisme, <HI>Origen</HI> that famous
+Catechist his bookes of principles,
+<HI>Theodoret</HI> his Epitome of divine
+precepts, <HI>Lactantius</HI> his instituti∣ons,
+<HI>Augustine</HI> his encheiridion,
+&amp;c. Neither could it bee credi∣ted,
+if the voucher were not histo∣ries
+of singular esteeme, how emi∣nent
+persons for learning, vertue,
+and honour have descended even
+unto the practiques herein, one I
+cannot omit: Saint <HI>Hierom, for
+learning</HI> so great a Clerke, as S.
+<HI>Augustine</HI> seriously wished to e∣quallize
+him, <HI>for sanctity</HI> so rare,
+as it is farre more easy to <HI>counter∣feit</HI>
+him then <HI>imitate</HI> him: hee ha¦ving
+exhorted <HI>Leta</HI> to send her
+daughter to her Grandmother
+<HI>Paula</HI> at <HI>Bethleem,</HI> to be educated
+there, addes certaine words, wher∣by
+hee binds himselfe to become
+master and Catechist to the child,
+saying hee will carry her upon his
+armes, and on his shoulders, and
+
+
+<PB REF="13"/>
+that as old as hee was, hee would
+teach her stammeringly to pro∣nounce
+her words, and that in this
+regard hee would not esteeme him∣selfe
+lesse glorious then <HI>Aristotle,</HI>
+who had <HI>Alexander</HI> the sonne of
+<HI>Philip,</HI> King of <HI>Macedon</HI> for his
+Scholler, &amp;c.</P>
+<P>3. The third Advertisement
+must be this, that the disciple or
+scholler be throughly acquainted by
+his Catechist and instructer with
+the <HI>Scheme</HI> and <HI>method</HI> of his in∣stitution
+or Catechisme, for as in
+reading of holy Scripture, who so
+meanes to understand what hee
+reades, must labour to get into his
+head the structure and fabricke,
+that is, the <HI>Oeconomie,</HI> and <HI>or∣der</HI>
+of that booke of holy writ, that
+he is reading: So whosoever would
+bee fully instructed in Christian
+Religion, must first get unto him∣selfe
+a perfect and methodicall
+forme of sound doctrine, and then
+before he goe to particulars, must
+possesse his understanding of the
+
+
+<PB REF="13"/>
+generall lineaments and portrai∣ture
+of that body of Divinitie,
+which hee meanes to make his com∣passe
+for his knowledge to saile by.
+To instance in these subsequent
+moulds and formes of Divinitie.
+The oeconomie and disposition of
+the first stands in the unfolding of
+three points, 1. Mans <HI>misery</HI> by <MILESTONE N="I"/>
+the fall. 2. His <HI>redresse</HI> from
+that misery. 3. His <HI>thankeful∣nesse</HI>
+for that redresse: which is
+also the manner and forme both
+of the Heidelberge Catechisme, au∣thorized
+through all the low Coun∣tries,
+and the Palatinate, and al∣so
+of Alstedius his Catechisme
+which hee calls the <HI>little bible,</HI> and
+the very same is the oeconomie of
+the Epistle to the Romans, which is
+called the <SUP>f</SUP> <HI>Key of scripture.</HI><NOTE PLACE="marg">Cla<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>i<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> Scripturae.</NOTE> The
+Oeconomie of the second is this, it
+takes the first hint and rise from <MILESTONE N="II"/>
+Saint Pauls dichotomie, Titus 1.
+1. which distinguisheth Religion
+into<NOTE N="g" PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/></NOTE> <HI>Truth,</HI> and <HI>Godlinesse,</HI> un∣der
+the first head of <HI>truth</HI> is ope∣ned
+
+
+<PB REF="14"/>
+and explained the Apostles
+Creed, and under <HI>Godlinesse</HI> the
+second head is handled the Com∣mandements,
+the Lords prayer,
+and the doctrine of the Sacra∣ments.
+<MILESTONE N="III"/> The third is of a circular
+forme, like a snake holding the
+taile in the mouth: of which forme
+also are divers of Davids Psalmes
+which are called circular Odes, as
+Psalm. 8. and 117. and the five
+last Psalmes. Enterance is made
+into it by the very same quere that
+Calvin doth into his so famous Ca∣techisme,
+that it is translated into
+all the 3. learned Languages, La∣tine,
+Greeke, and Hebrew; and
+from thence, like the river of E∣den,
+Gen. 2. 10. it spreads it selfe
+into 4 heads, the first of <HI>Faith,</HI> or
+thinges to bee beleeved, the se∣cond
+of <HI>Love,</HI> or thinges to bee
+done, The third of <HI>Prayer,</HI> or
+things to be asked, and the fourth
+of the <HI>Sacraments,</HI> or thinges to be
+sealed: and this is the Oeconomie
+of Canisius, and Bellarmines Ca∣echismes,
+
+
+<PB REF="14"/>
+&amp;c. And to adde a <MILESTONE N="IIII"/>
+word touching the mode and forme
+of the last tractate, concerning the
+holy Eucharist and the communi∣cants
+worthy receiving of it, it's
+method is pure Scripturall, for who
+so hath but saluted the holy ori∣giuall
+tongue of the old Testament
+knowes that<NOTE N="h" PLACE="marg">Quadru∣pliciplanxit alphabeto Hieron, praefat.</NOTE> Ieremies Threnes and
+<NOTE N="i" PLACE="marg">Psalm. 25. 34. 111. 112. 119. 145.</NOTE>diverse of Davids Psalmes are
+<HI>Alphabeticall,</HI> and that<NOTE N="k" PLACE="marg">Vt facilius disceretur, &amp; memoria te<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>eretur. Vatablus.</NOTE> to this end
+and purpose, to helpe memory both
+to <HI>attaine</HI> and <HI>retaine</HI> them with
+greater ease and lesse industry.
+And beside the authority of Scrip∣ture
+to warrant this way of com∣posing;<NOTE N="l" PLACE="marg">Baron. ad an. 392. num. 6.</NOTE>
+Ecclesiasticall History
+makes mention of an <HI>Abecedary
+Psalme,</HI> which Saint Augustine so
+made up against the Donatists.</P>
+<P>The 4. and last advertisement
+is this, that to make a brave know∣ing
+and intellectuall Christian in∣deed,
+the way is, to referre the Scrip∣ture
+which he reads, and the Ser¦mons
+he heares, unto those heads
+and points of Catechisme, where∣unto
+
+
+<PB REF="15"/>
+they specially and most pro∣perly
+belong. And to doe this
+the better, learners and beginners
+are not onely to make use of their
+owne dexterity and skill so farre
+as they are able, but also till they
+be well versed in this way, consult
+with their Superiours and teach∣ers,
+get them to looke over them
+while they practise, intreat them
+freely to use their <HI>asteriskes</HI> of
+approbation where they hit, and
+their spunges and <HI>obeliskes</HI> where
+they misse. The benefit redounding
+hence will be this, First, an ad∣mirable
+establishment and confir∣mation
+of the truth to see ser∣mons,
+bookes, Scriptures, &amp;c. all
+to concurre and be concentrique to∣gether.
+Secondly, an excellent in∣geny
+and quicknesse both in pro∣ving
+the principles and fundamen∣tals
+of Religion by Scripture, and
+in referring texts of Scripture, and
+Sermons to principles of Cate∣chisme,
+which may bee called the
+<HI>Genesis</HI> and <HI>Analysis</HI> of Divinity.
+
+
+<PB REF="15"/>
+And I doubt not but by practise a
+Lay Christian may doe as much as
+Cartwright,<NOTE PLACE="marg">See <HI>Cart∣wrights</HI> comment on the Proverbs.</NOTE> who hath referred
+every Proverbe of Solomon to one
+of the ten Precepts of the morall
+Law.</P>
+<P>The Author now thinkes hee
+hath prefaced sufficiently, and
+will remove <HI>manum de tabula</HI> as
+speedily as if hee heard an Angell
+from Heaven say, <HI>hold thy hand,
+it is enough;</HI> in all which if hee
+have iudged any thing <HI>truly,</HI> or
+<HI>wisely</HI> hee voweth onely to wor∣ship
+him who is the <HI>first truth,</HI> and
+<HI>chiefest wisdome.</HI></P>
+<P>Now the good will of him that
+dwelt in the bush be with all those
+who desire to know the <HI>first truth,</HI>
+and enioy the <HI>chiefe good;</HI> and
+to that end blesse this small labour
+in his Church, if it be but to the di∣spelling
+of ignorance and darke∣nesse
+from off one Soule, of which
+the Author is the more hopefull,
+as being conscions that he hath no
+other ayme in the Edition hereof
+
+
+<PB REF="16"/>
+save those two intimated in the
+first Paragraph of the Preface, to
+wit, to bee a <HI>tribute of duty</HI>
+to some, and a <HI>present
+of affection</HI> to
+others.</P>
+</DIV1>
+</FRONT>
+<GROUP>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="16"/>
+<P>A MOST BRIEFE
+and contracted modell of know∣ledge,
+<HI>and yet withall plaine for</HI>
+the understanding, and
+<HI>methodicall for the</HI>
+Memory.</P>
+<P>Wherein whatsoever is truely
+fundamentall in Christian religion, and
+absolutely necessary to salvation, is
+brought downe unto onely 12. Que∣stions
+and Answers, so as such Chil∣dren
+as are very pregnant, and of riper
+yeares may come to be well catechised in
+one day, by proportioning one question
+and answere to every hower of the day,
+and such as are more young for yeares,
+or dull for capacitie, in one yeare if their
+Parents or nurses (as it were playing,
+or doing another thing) doe but
+principle them with one que∣stion
+and answer eve∣ry
+Moneth</P>
+<LIST>
+<HEAD>The Collocu∣tours
+are</HEAD>
+<ITEM>1 <HI>Timothy,</HI> learning the holy Scrip∣tures
+from a child, 2 Tim. 3. 15.</ITEM>
+<ITEM>2 <HI>Lois</HI> the grand-mother, and <HI>Eu∣nice</HI>
+the mother, being the In∣structors,
+2 Tim. 1. 5.</ITEM>
+</LIST>
+<EPIGRAPH>
+<Q><BIBL>1 Iohn 2. 13.</BIBL>
+I write unto you little Children.</Q>
+</EPIGRAPH>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="catechism">
+<PB REF="17"/>
+<PB REF="17"/>
+<HEAD>THE FIRST
+Forme of Doctrine, or
+the Childs Cate∣chisme.</HEAD>
+<SP>
+<SPEAKER><SEG REND="decorInit">T</SEG>Imothy.</SPEAKER>
+<P><NOTE PLACE="marg">Quest. 1</NOTE> Unto
+what heads may
+Christian Reli∣gion
+be brought.</P>
+</SP>
+<SP>
+<SPEAKER>Lois and Eunice.</SPEAKER>
+<P><NOTE PLACE="marg">Answer.</NOTE> Unto 3.
+1. the sence and acknow∣ledgement
+of our miserable
+estate by nature. 2. A sight
+of the meanes of our delive∣rance
+from such a miserable
+estate. 3. Due gratitude, and
+thankefulnesse for that deli∣verance.</P>
+</SP>
+<SP>
+<SPEAKER>Timothy.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 2.</NOTE> How doth this
+miserable condition of ours
+appeare?</P>
+</SP>
+<SP>
+<SPEAKER>Lois and Eunice.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> It easily
+
+
+<PB REF="18"/>
+appeares by considering 1.
+the estate <HI>from whence</HI> wee
+are fallen, even from the I∣mage
+of God, consisting in
+soundnesse of judgement,
+cleerenesse of understan∣ding,
+sanctity of will, inte∣gritie
+of Conscience, beau∣ty
+and strength of body,
+majesty and empire over
+the creatures, immortalitie,
+and the like: and secondly,
+the condition <HI>to which</HI> we are
+fallen, to wit, sinnefullnesse
+and miserie, or doing things
+unworthy, and suffering
+things worthy of our doings</P>
+</SP>
+<SP>
+<SPEAKER>Timothy.</SPEAKER>
+<P><NOTE PLACE="marg">Quest. 3.</NOTE> They that are
+sicke need the Physitian,
+saith our Saviour, Math. 9.
+12. who then is this blessed
+Physitian?</P>
+</SP>
+<SP>
+<SPEAKER>Lois and Eunice.</SPEAKER>
+<P><NOTE PLACE="marg">Ans.</NOTE> Even Je∣sus
+Christ, who to this end
+
+
+<PB REF="18"/>
+is <HI>by nature</HI> both God and
+man in one person, and <HI>by
+office,</HI> is 1. our Prophet, 2.
+Priest, and 3. King.</P>
+</SP>
+<SP>
+<SPEAKER>Timothy.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 4.</NOTE> Why is it ne∣cessary
+he should have both
+a divine and humane nature
+united in one person?</P>
+</SP>
+<SP>
+<SPEAKER>Lois and Eunice.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> He must
+needs bee <HI>man,</HI> because di∣vine
+equitie requireth that
+the same nature that sinned
+should suffer, Ezech. 18. 4.
+and he must needs bee <HI>God,</HI>
+to give an infinite value to
+his satisfaction, proportio∣nable
+both to the infinite
+majesty offended, and the
+infinite sinnes and sinners
+offending. As also hee must
+be <HI>Man</HI> that he might die,
+and <HI>God,</HI> that he might o∣vercome
+death.</P>
+</SP>
+<SP>
+<SPEAKER>Timothy.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 5.</NOTE> Why is it ne∣cessary
+
+
+<PB REF="19"/>
+that hee should also
+have these three offices, pro∣pheticall,
+sacerdotall, and
+regall?</P>
+</SP>
+<SP>
+<SPEAKER>Lois and Eunice.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> It is ne∣cessary
+hee should bee 1. a
+<HI>Prophet,</HI> to illuminate us, and
+leade us into all truth; 2. a
+<HI>Priest</HI> to make satisfaction
+for our sinnes and to inter∣cede
+for us to the father; 3.
+a <HI>King,</HI> both to protect us,
+against our enemies, and to
+governe us by his spirit and
+word.</P>
+</SP>
+<SP>
+<SPEAKER>Timothy.</SPEAKER>
+<P><NOTE PLACE="marg">Quest. 6</NOTE> Is this then suf∣ficient
+to repaire our mise∣rable
+condition, and to re∣estate
+us in that primitive
+happinesse, from whence
+wee are fallen?</P>
+</SP>
+<SP>
+<SPEAKER>Lois and Eunice.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> It is in∣deed
+sufficient in it selfe, but
+not effectuall to any one,
+
+
+<PB REF="19"/>
+who for their part doth not
+performe those two grand
+commands of the Gospell,
+to <HI>repent</HI> and <HI>believe.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Timothy.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 7.</NOTE> Where is the
+summe of the gospell best
+comprised?</P>
+</SP>
+<SP>
+<SPEAKER>Lois and Eunice.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> In that
+auncient and Apostolicall
+Creed, which begins, <HI>I be∣lieve
+in God the Father,</HI> &amp;c.
+which Creed is the <HI>Key of
+faith, and Epitome of all things
+to be beleeved unto salvation,</HI>
+and which all Christians, as
+the badge of their professi∣on
+ought 1. to learne and get
+by heart, 2. often to repeat
+and professe to their com∣fort
+and establishment, 3. to
+give assent and credit to e∣very
+Article one by one,
+and lastly to apply each Ar∣ticle
+particularly to their
+
+
+<PB REF="20"/>
+owne soules: for all these
+foure severall acts of Faith
+are implied in the word <HI>I
+believe.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Timothy.</SPEAKER>
+<P><NOTE PLACE="marg">Qu. 8.</NOTE> I pray you, if
+that be so auncient, so per∣fect,
+and so excellent an a∣bridgement
+of the faith,
+give it me not in the lumpe,
+but breake unto mee that
+bread of life into the seve∣rall
+pieces thereof.</P>
+</SP>
+<SP>
+<SPEAKER>Lois and Eunice.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> It con∣sists
+of 12. short Articles:
+the 1. concernes God the
+Father; the 2. the name, na∣ture,
+office, and person of
+Christ; the 3, 4, and 5. the
+seven degrees of his <HI>Humi∣liation</HI>
+for our sinnes; the 6,
+7, and 8, the foure degrees
+of his <HI>Exaliation</HI> for our
+righteousnesse; the 9. con∣cernes
+the holy Ghost; the
+
+
+<PB REF="20"/>
+10, 11, and 12. concerne the
+Church of God, both in the
+<HI>properties</HI> and <HI>priviledges</HI> of it</P>
+</SP>
+<SP>
+<SPEAKER>Timothy.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 9.</NOTE> Being thus re∣stored,
+what owe we to God
+for so great a benefit?</P>
+</SP>
+<SP>
+<SPEAKER>Lois and Eunice.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> <HI>Thanke∣fullnesse,</HI>
+which consists espe∣cially
+in three things, first
+in conforming our life ac∣cording
+to the <HI>ten Comman∣dements</HI>
+of God; secondly,
+in calling upon his name,
+according to the substance
+of the <HI>Lords prayer;</HI> lastly in
+receiving and participating
+the <HI>Sacraments,</HI> after a prepa∣red
+and devout manner.</P>
+</SP>
+<SP>
+<SPEAKER>Timothy.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 10.</NOTE> I pray you also
+breake open unto mee those
+ten holy lawes, that I may
+better know how to keepe
+them.</P>
+</SP>
+<SP>
+<SPEAKER>Lois and Eunice.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> God him∣selfe
+
+
+<PB REF="21"/>
+hath <HI>divided</HI> them into
+two tables, <HI>subdivided</HI> them
+into ten words, <HI>contracted</HI>
+them into one monosylla∣ble,
+<HI>Love;</HI> the first en∣joynes
+mee whom to wor∣ship;
+the second prescribes
+the inward manner of his
+worship; the third the out∣ward;
+the fourth the so∣lemne
+time; the fifth en∣joynes
+my duty towards my
+inferiours, superiours, and
+equalls; the sixt to my
+neighboursperson; the se∣venth
+to his chastity; the
+eighth, to his estate; the
+ninth, to his good name;
+the tenth and last commands
+me to resist the first risings,
+and thoughts of sin, though
+even without consent of
+will.</P>
+</SP>
+<SP>
+<SPEAKER>Timothy.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 11</NOTE> But because I
+
+
+<PB REF="21"/>
+am not able to keepe these
+things of my selfe, and that
+prayer is the best meanes to
+fetch grace and helpe from
+heaven, and that the Lords
+prayer is a perfect patterne
+of prayer, therefore I pray
+you briefely unfold that
+forme of prayer unto mee.</P>
+</SP>
+<SP>
+<SPEAKER>Lois and Eunice.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> It consists
+of foure distinct parts: the
+first is the <HI>Preface,</HI> or prepa∣ration
+unto the praier [<HI>Our
+father, which art in Heaven</HI>]
+the second is the <HI>sixe Petiti∣ons,</HI>
+whereof the three first
+concerne Gods glory, and
+the three latter our owne
+bodily and ghostly necessi∣ties;
+the third is a <HI>thankesgi∣ving,</HI>
+or certaine forme of
+praising God [<HI>for thine is the
+kingdome, power, and glory, for
+ever and ever</HI>] the fourth is
+
+
+<PB REF="22"/>
+the <HI>close and scale [Amen]</HI></P>
+</SP>
+<SP>
+<SPEAKER>Timothy.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 12</NOTE> But seeing wee
+faile in all the former, so as
+our <HI>Faith</HI> is weake, our <HI>Obe∣dience</HI>
+is imperfect, and our
+<HI>praiers</HI> cold, what seales hath
+God given to confirme and
+strengthen us?</P>
+</SP>
+<SP>
+<SPEAKER>Lois and Eunice.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> The two
+Sacraments, of baptisme and
+the Lords supper, which
+through outward and visi∣ble
+signes doc both 1. signi∣fie,
+and 2. conveigh unto us
+most excellent inward, and
+spirituall graces.</P>
+</SP>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="22"/>
+<PB REF="23"/>
+<PB REF="23"/>
+<P>A BRIEFE,
+METHODICALL,
+plaine, and full forme of
+<HI>doctrine, reduced unto</HI> xxxi
+Questions and Answeres: so as
+<HI>by learning one onely Question and
+it's Answer every day, the Christi∣an</HI>
+Scholler shall within the space
+<HI>of one Moneth bee well
+principled in</HI> Re∣ligion.</P>
+<LIST>
+<HEAD>The Collocu∣tors
+are</HEAD>
+<ITEM><HI>Paul,</HI> the Que∣stionist,
+and
+<HI>Gamaliel,</HI> the
+Resolutor,
+<LIST>
+<ITEM>Acts. 22. 3,</ITEM>
+</LIST></ITEM>
+</LIST>
+<EPIGRAPH>
+<Q><BIBL>1. Iohn 2. 13.</BIBL>
+I write unto you Young men.</Q>
+</EPIGRAPH>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="catechism">
+<PB REF="24"/>
+<PB REF="24"/>
+<HEAD>THE SECOND
+Forme of Doctrine, or the
+young mans Cate∣chisme.</HEAD>
+<SP>
+<SPEAKER><SEG REND="decorInit">P</SEG>Aul.</SPEAKER>
+<P><NOTE PLACE="marg">Quest. 1</NOTE> What is Ca∣techisme,
+&amp; wher∣unto
+may it bee
+compared?</P>
+</SP>
+<SP>
+<SPEAKER>Gamaliel.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> It cannot bet∣ter
+bee defined then out of
+Heb. 6. 1. <HI>The principles of the
+doctrine of Christ:</HI> and it may
+be fitly compared to <HI>Samp∣sons</HI>
+haire, wherein was both
+<HI>strength</HI> and <HI>beauty,</HI> for so
+ought catechisme be <HI>strong</HI>
+in precepts, <HI>beautifull</HI> in or∣der
+and method.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Quest. 2</NOTE> What is Christian
+doctrine usually called, and
+how may it be defined?</P>
+</SP>
+<SP>
+<SPEAKER>Gamaliel.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> It is most usu∣ally
+called either <HI>Religion,</HI> or
+
+
+<PB REF="25"/>
+<HI>Divinitie,</HI> and may bee defi∣ned
+to be the <HI>Art or science
+of beleeving aright, and of li∣ving
+well.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Quest. 3</NOTE> How many parts
+are there then of <HI>Religion?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> Two, which Saint
+<HI>Paul</HI> Titus 1. verse 1. calls
+<HI>TRVTH,</HI> and <HI>GODLI∣NES,</HI>
+and they are the two
+pillars or supporters of
+Gods house, the shaking of
+either of which ruines the
+building.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 4.</NOTE> Where may bee
+found united, and gathered
+together those principall
+and fundamentall Truths,
+which a Christian is to be∣lieve
+to salvation.</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> They are abridg∣ed
+and contracted into the
+<HI>Apostles Creed,</HI> and are first,
+capable of this distinction,
+
+
+<PB REF="25"/>
+that they either concerne
+<HI>God,</HI> or the <HI>Church of God.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Qu. 5.</NOTE> Which is the grand
+truth wee are to embrace
+concerning God?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Ans.</NOTE> That in regard of
+nature, essence, and being
+there is but one God, yet in
+regard of divine relation,
+and reall respects, in that one
+Godhead there are three
+persons.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Qu. 6.</NOTE> Describe mee the
+nature and essence of God,
+so farre as he may (as it were
+through a glasse) he seene,
+and comprehended of our
+weake capacities.</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Ans.</NOTE> God is that most
+absolute, and first being,
+whose proper Attributes
+are, <SUP>1</SUP> Simplicitie, <SUP>2</SUP> Eterni∣tie, <SUP>3</SUP>
+Immensitie, <SUP>4</SUP> Perfecti∣on, <SUP>5</SUP>
+Immutability, <SUP>6</SUP> Immor∣tality,
+
+
+<PB REF="26"/>
+<SUP>7</SUP> Goodnesse,<SUP>8</SUP> Justice,
+<SUP>9</SUP> Truth,<SUP>10</SUP> Holinesse,<SUP>11</SUP> Om∣nipotency,
+<SUP>12</SUP> liberty or free∣dome,
+and lastly, glory and
+majestie.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Qu. 7.</NOTE> What now is that
+you call a person of the
+God-head?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> It is a relation or
+respect, which taketh no∣thing
+from, nor addeth any
+thing to the divine essence,
+but onely distinguisheth the
+Father, Son, and holy Ghost
+among themselves, and one
+from another, every one of
+them having both his in∣communicable
+propriety, or
+nature, and every one of
+them having his owne in∣communicable
+worke, or
+Counsell.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Qu. 8.</NOTE> Which is the in∣communicable
+propriety or
+
+
+<PB REF="26"/>
+nature of the Father, the first
+of the three persons?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> To <HI>beget,</HI> and
+not be begotten.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Quest. 9</NOTE> What is the Fathers
+proper and incommunica∣ble
+worke or counsell?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> <HI>Creation,</HI> for by
+his Almighty power in ma∣king
+heaven and earth, hee
+cast out <HI>vacuitie</HI> and <HI>empti∣nesse,</HI>
+that great enemy of
+nature, and by his provi∣dence,
+which is a continued
+creation, hee keepeth it out
+still.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 10</NOTE> Which is the pe∣culiar
+property of the sonne
+who is the second person in
+order, and manner of subsi∣stence?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> His relative pro∣pertie
+is to <HI>be begotten.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 11</NOTE> Which is his pecu∣liar
+
+
+<PB REF="27"/>
+worke?</P>
+</SP>
+<SP>
+<SPEAKER>Gamaliel.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> <HI>Redemption,</HI>
+which is a stisfaction made
+to the justice of God for the
+sinne of man: in which re∣gard,
+he hath 4. stiles in the
+Creed, 1. <HI>Iesus</HI> to note his
+office of mediatorship in ge∣nerall,
+2. <HI>Christ,</HI> to denote
+his three particular offices,
+sacerdotall, propheticall, and
+royall, 3. <HI>Sonne,</HI> to note his
+order and manner of subsi∣stence,
+fourthly and lastly,
+<HI>Lord,</HI> to note his purchase.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Q. 12</NOTE> How is our Re∣demption
+wrought?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> Partly by the <HI>Hu∣miliation,</HI>
+and partly by the
+<HI>Exaltation</HI> of the sonne of
+God, the severall degrees
+of which twaine are accu∣rately
+and punctually folded
+up in the very body of the
+
+
+<PB REF="27"/>
+said Creed, &amp;c.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 13</NOTE> Which bee the se∣verall
+degrees of his Humi∣lation?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Ans.</NOTE> They bee sixe in
+number, and are thus to bee
+enumerated in order, 1. his
+<HI>Conception [hee was conceived
+by the holy Ghost]</HI> 2. his <HI>nati∣vity
+[borne of the Virgin Ma∣ry]</HI>
+3. his <HI>passion [suffered un∣der
+Pontius Pilate]</HI> 4. his <HI>cru∣cifixion,</HI>
+which was the ex∣tremity
+of his passion [<HI>was
+crucified</HI>] 5. his <HI>death [dead]</HI>
+6. his <HI>buriall [and buried]</HI>
+through all which severall
+degrees of sorrow he passed,
+and was pressed with them
+as a cart with sheaves, that he
+might beare our sinnes, and
+heale our infirmities.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 14</NOTE> Which be the se∣verall
+degrees of his Exal∣tation?</P>
+</SP>
+<SP>
+<PB REF="28"/>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> They be five in
+number, and are thus to bee
+reckoned; 1. his <HI>triumph</HI> o∣ver
+Hell [<HI>hee descended into
+hell</HI>] 2. his <HI>Resurrection [hee
+rose againe the third day</HI>] 3.
+his <HI>Ascention [hee ascended
+into heaven</HI>] 4. his <HI>session at
+his Fathers right hand [there
+he sits at the right hand of God]
+5.</HI> his <HI>office of judicature [from
+thence hee shall come to judge
+both the quicke and the dead]</HI></P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 15</NOTE> What is the rela∣tive
+property of the Holy
+Ghost, the third person in
+manner of subsisting?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> To <HI>proceed.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 16</NOTE> What is his proper
+worke?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> <HI>Sanctification,</HI> or
+application, for Christ ha∣ving
+prepared the remedie
+
+
+<PB REF="28"/>
+leaves it to bee applied by
+the sanctification of his spi∣rit,
+and as hee <HI>justifies</HI> us by
+his <HI>merit,</HI> so hee <HI>sanctifies</HI> us
+by his <HI>Spirit.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 17</NOTE> Having seene those
+fundamentall truths which
+concerne <HI>God,</HI> and being
+now come to those which
+concerne the <HI>Church of God,</HI>
+tell mee what a Christian is
+bound to beleeve concer∣ning
+the Church?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answer.</NOTE> That it is a com∣pany
+of beleevers united to
+Christ by <HI>faith</HI> here, and by
+<HI>vision</HI> hereafter: and that
+the said company is inve∣sted
+with a double property,
+to wit, first, it is <HI>holy</HI> in re∣gard
+of the holinesse both
+of the outward meanes, and
+inward worke of the Spirit:
+and secondly it is <HI>Catholique</HI>
+
+
+<PB REF="29"/>
+and universall in regard both
+of time, persons, and pla∣ces.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 18</NOTE> What are the be∣nefits
+which arise to us from
+our being members of this
+holy Catholike Church?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Ans.</NOTE> Foure, two where∣of
+accrew in this life, to wit
+first, <HI>Communion of Saints,</HI>
+that is, that fellowship wee
+have both with Christ, and
+all his members, in grace,
+and glory; secondly, <HI>Remis∣sion
+of sinnes,</HI> both incove∣ring
+and curing them: and
+other two in the life to
+come, first <HI>Resnrrection of the
+body,</HI> when that which is
+sowne in corruption riseth
+againe in incorruption; se∣condly,
+<HI>Life everlasting,</HI>
+when there shall be a neces∣sary
+absence of all evill, and
+
+
+<PB REF="29"/>
+a necessary presence of all
+good.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Qu. 19</NOTE> Having learned the
+<HI>TRVTH</HI> of Religion, I
+desire now to goe on to the
+second part, the <HI>GODLI∣NESSE</HI>
+of it, tell mee
+first therefore I pray you,
+how it may best be divided.</P>
+</SP>
+<SP>
+<SPEAKER>Gama.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> Into three heads,
+first, our <HI>walking</HI> with God,
+in holy obedience, accor∣ding
+to the ten precepts of
+the decalogue. Secondly,
+our <HI>Talking</HI> with him in de∣vout
+prayer, according to
+the seven petitions of the
+Lords prayer. Thirdly; our
+<HI>Receiving</HI> from him in the
+two Sacraments of the new
+Testament.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Qu. 20</NOTE> How is our wal∣king
+with God according
+to the Law distributed?</P>
+</SP>
+<SP>
+<PB REF="30"/>
+<SPEAKER>Gama.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> Either into <HI>Holi∣nesse,</HI>
+which is our immedi∣ate
+worship of God requi∣red
+in the first table of the
+law, or into <HI>Righteousnesse,</HI>
+whereby God is mediately
+served through the love to
+our neighbour, as is requi∣red
+in the latter table.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 11.</NOTE> On how many feet
+stands the first table of the
+Law, which concernes our
+duty towards God?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> On foure;for it
+enjoyneth 1. that wee place
+and bestow divine worship
+on none, but the onely true
+God, choosing him to be our
+Jehovah, and to set our heart
+upon. <HI>Precept</HI> 1. 2. that we
+worship him with his owne
+prescribed worship, and not
+after our owne Imaginati∣ons
+or devices, <HI>Precept</HI> 2. 3.
+
+
+<PB REF="30"/>
+that wee shew him due ex∣ternall
+reverence also, in
+transacting his worship and
+service, <HI>Precept</HI> 3. 4. in re∣gard
+of the time, that wee
+performe it especially, and
+more solemnely on the
+Lords day, <HI>Precept</HI> 4.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 22</NOTE> On how many feet
+doth the second table stand,
+which concernes our duty
+to man?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> On sixe, for it
+enjoyneth, 1. that wee be
+diligent in all offices, and
+duties towards our superi∣ours,
+inferiours, and equals,
+<HI>Precept</HI> 5. 2. that wee pre∣serve
+life and health, both
+of our selves, and our neigh∣bour,
+to Gods glory, and
+the good both of Church
+and Common-weale, <HI>Pre∣cept
+6.</HI> 3. that wee preserve
+
+
+<PB REF="31"/>
+and keepe both inward cha∣stity
+of heart, and the out∣ward
+of the body, <HI>Precept 7.
+4.</HI> that wee preserve the e∣state
+and livelyhood both of
+our selves and neighbour, to
+our owne comfort, and the
+good of others, <HI>Precept 8.
+5.</HI> that wee beare up, and
+maintaine our owne and o∣thers
+fame and credit, ac∣compting
+it as a precious
+ointment, <HI>Precept</HI> 9. Lastly,
+that we resist and suppresse
+in the first risings thereof,
+all concupiscence, and evill
+motions, though they bee
+before consent of will, <HI>Pre∣cept
+10.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Qu. 23.</NOTE> Tell me now what
+prayer, or holy talking with
+God is, which was propo∣sed
+to be the second part of
+Godlinesse?</P>
+</SP>
+<SP>
+<PB REF="31"/>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> It is a moving of
+God the father,in the name
+of his Sonne, by the power
+of his holy Spirit, for such
+things as are agreeable to
+his will! the best president
+and platforme whereof is
+the Lords prayer.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 24</NOTE> How is this prayer
+divided?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> Into 4. parts, 1.
+the preface or preparation
+to prayer, <HI>Our Father which
+art in heauen.</HI> 2. the petitions
+or things asked, <HI>Hallowed be
+&amp;c.</HI> 3. the doxologie, or
+thanksgiving, <HI>for thine is &amp;c.</HI>
+4. the seale, or conclusion,
+<HI>Amen.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 25</NOTE> The petitions be∣ing
+the chiefe part,how ma∣ny
+are they in number, and
+how are they to be divided?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> They be six, and
+
+
+<PB REF="32"/>
+are usually referred to two
+heads, namely those that
+concerne God, which are
+the three first, and those
+which concerne our selves,
+which are the three last.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 26</NOTE> How doe you sub∣divide
+those 3.first which
+concerne God?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> They either con∣cerne
+his glory (1 <HI>Petition</HI>)
+where we pray that <HI>his name</HI>
+(which is himselfe) may be
+<HI>magnified,</HI> and hallowed: or
+else they concerne the
+meanes of his glory (<HI>Petiti∣on
+2 and 3</HI>) where wee pray
+for the <HI>comming of his King∣dome,</HI>
+both of power, grace,
+and glory, and for the <HI>doing
+of his will,</HI> both by us in active
+obedience, and upon us in
+passive.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 27</NOTE> How doe you sub∣divide
+
+
+<PB REF="32"/>
+the three last petiti∣ons,
+which concerne our
+selves.</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> They are either
+such as concerne this life,
+(<HI>petit.</HI> 4.) as the asking of
+<HI>daily bread,</HI> under which is
+comprehended all thinges
+necessary for our naturall
+life: or else they concerne
+the life to come, as the as∣king
+<HI>remission of sinnes,</HI> in re∣gard
+of what is past (<HI>petit.</HI> 5.)
+and <HI>deliverance of temptation,</HI>
+and the <HI>evill</HI> thereof, in re∣gard
+of what is to come (<HI>pe∣tition</HI> 6.)</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 28</NOTE> Wee are now come
+to the third and last piece of
+<HI>Pietie,</HI> the receiving the Sa∣craments,
+tell mee therefore
+what a Sacrament is, and
+how many there bee?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> A Sacrament can∣not
+
+
+<PB REF="33"/>
+better bee defined, then
+out of Romans 4. and 11. <HI>a
+seale of the righteousnesse by
+Faith:</HI> of which there are
+onely two, properly so cal∣led,
+Baptisme, and the Lords
+Supper.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 29</NOTE> What is Baptisme?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> A Sacrament of
+entring us into Christianitie
+or of engrafting us into
+Christ, consisting of the <HI>out∣ward
+signe,</HI> which is dip∣ping
+in, or sprinckling with
+water; and of the <HI>inward
+grace,</HI> which is washing a∣way
+of our sinnes, by our san∣ctification
+in the blood of
+Christ.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Qu. 30</NOTE> What is the Lords
+Supper?</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Ans.</NOTE> A Sacrament of
+our continuance and growth
+in Christianitie, consisting
+
+
+<PB REF="33"/>
+also of the <HI>outward visible
+signes</HI> of bread and wine pro∣portionate
+to the <HI>inward and
+invisible Grace</HI> of Christs
+blessed body and blood ea∣ten,
+and digested by faith.</P>
+</SP>
+<SP>
+<SPEAKER>Paul.</SPEAKER>
+<P><NOTE PLACE="marg">Que. 31</NOTE> At the first you
+compared Catechisme to
+<HI>Sampsons</HI> haire, which was
+<HI>strong</HI> and <HI>faire:</HI> as therfore
+you have given mee a suffi∣cient
+tast of the strength of
+it, in being the very pith
+and marrow of the Oracles
+of God, so now I pray you
+shew mee the beauty and
+fairenesse of it, in the order
+and method thereof.</P>
+</SP>
+<SP>
+<SPEAKER>Gamal.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> First wee did be∣gin
+with <HI>Faith,</HI> by which
+wee <HI>live;</HI> secondly we did
+come to the <HI>Law,</HI> by which
+wee <HI>walke;</HI> thirdly we pro∣ceeded
+on to <HI>Prayer,</HI> least
+
+
+<PB REF="34"/>
+wee should faint in faith, or
+waxe weary of good works;
+Lastly, finding faith but
+weake, obedience imper∣fect,
+and prayers cold and
+distracted, wee have the ob∣signation
+of the Sacraments
+which are as Gods seales to
+secure our estate in him:
+which also is observed to
+bee the very methode and
+oeconomie of th' authorized
+Catechisme of the Church
+of England.</P>
+</SP>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="34"/>
+<P><HI>A Theologicall Circle,</HI>
+OR
+THE WHOLE BO∣dy
+of Divinity, cast into the
+<HI>mould of the yeere, that is into
+52.</HI> Questions and Answers,
+<HI>according to the num∣ber</HI>
+of Lords
+<HI>Daies.</HI></P>
+<P>Whereby the Catechumenoi,
+<HI>learning one onely Question and An∣swer</HI>
+every Sunday, shall in the revolu∣tion
+<HI>of one yeare be instructed af∣ter
+a manner more then vulgar,</HI>
+and come to know all the
+<HI>grand and necessary truths</HI>
+of the Christian Re∣ligion.</P>
+<LIST>
+<HEAD>The Speakers
+are</HEAD>
+<ITEM>1. <HI>Mnason,</HI> an old disciple,
+Acts 21. 16.</ITEM>
+<ITEM>2. <HI>Apollos,</HI> one mighty in the
+Scriptures.</ITEM>
+</LIST>
+<EPIGRAPH>
+<Q><BIBL>1 Iohn 2. 13.</BIBL>
+I write unto you, Fathers.</Q>
+</EPIGRAPH>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="catechism">
+<PB REF="35"/>
+<PB REF="35"/>
+<HEAD>THE THIRD
+Forme of knowledge, or
+the Fathers Cate∣chisme.</HEAD>
+<DIV2 TYPE="season">
+<HEAD>Winter quarter.</HEAD>
+<SP>
+<SPEAKER><SEG REND="decorInit">M</SEG>Nason.</SPEAKER>
+<P><NOTE PLACE="marg">1 Sund. in Adv.</NOTE> <NOTE PLACE="marg">Que. 1.</NOTE> What is
+that which is
+the thirst of e∣very
+mans soule
+and the <HI>chiefe scope</HI> of mans
+life?</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> That very same
+thing which in one word or
+tearme is called <HI>Felicitie,</HI>
+<HI>happinesse,</HI> or <HI>beatitude:</HI> o∣thers
+call it the <HI>chiefe good.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">2. Sund. Adv.</NOTE> <NOTE PLACE="marg">Quest. 2</NOTE> Wherein doth
+mans <HI>chiefe good,</HI> or <HI>happi∣nesse</HI>
+consist?</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> Neither in <SUP>1</SUP> wis∣dome,
+
+
+<PB REF="36"/>
+or knowledg, nor in <SUP>2</SUP>
+glory and honour, nor <SUP>3</SUP> in
+pleasure, nor <SUP>4</SUP> in dignitie,
+nor <SUP>5</SUP> in riches, nor <SUP>6</SUP> in health
+and strength, nor<SUP>7</SUP> in favour
+and esteeme, nor <SUP>8</SUP> in mo∣rall
+vertue, nor <SUP>9</SUP> in tempo∣rall
+life, nor <SUP>10</SUP> in immorta∣lity
+it selfe. Neither any of
+these, nor all of these toge∣ther,
+nor any other created
+thing can quench the thirst
+of mans soule, nor be said to
+bee the chiefe good of the
+reasonable creature.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">3 Sund. Adv.</NOTE> <NOTE PLACE="marg">Quest. 3</NOTE> Why so, I pray
+you?</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> Because whatso∣ever
+may prove mans <HI>chiefe
+good,</HI> must necessarily be in∣vested
+with this double pro∣pertie,
+1. that it bee <HI>All-suf∣ficient,</HI>
+that is simply, and ab∣solutely
+able of it selfe to fill
+
+
+<PB REF="36"/>
+the heart, and satisfie the
+soule, 2. That it be <HI>indefici∣ent,</HI>
+and <HI>perpetuall,</HI> so as the
+Soule cannot bee made sad
+either with the <HI>sence</HI> or <HI>feare</HI>
+of loosing it. Now the ve∣ry
+best of created, and
+sublunary felicities, if they
+incline any thing to suffici∣encie
+or perfection, they are
+commonly very <HI>short</HI> and
+<HI>momentany:</HI> if they be more
+lasting, they are usually ve∣ry
+<HI>dilute</HI> and <HI>imperfect.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">4 Sunday Adv.</NOTE> <NOTE PLACE="marg">Quest. 4</NOTE> What then is,
+if these bee not, neither can
+be?</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P><NOTE PLACE="marg">Answ.</NOTE> Onely the <HI>All-suf∣ficient</HI>
+Lord himselfe, who is
+<HI>All in all</HI> both in himselfe,
+and unto us: and who is
+onely able and willing to
+fill every corner of the heart
+with sátietie and content,
+
+
+<PB REF="37"/>
+and to give us <HI>full measure,
+pressed downe, shaken together,
+and running over.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">Sund. after Christm. day</NOTE> <NOTE PLACE="marg">Quest. 5</NOTE> Whereby then
+may wee be so knit and uni∣ted
+unto God, as to be par∣takers
+of his All-sufficiency,
+and beatitude?</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P><HI>Religion</HI> is the
+thing which doth unite and
+cement man unto his God,<NOTE PLACE="marg">Religio à re∣ligando, qui∣a cultu di∣vino animas nostras Deo religemus, cum ab eo defeccramus Aug. lib. de vera religio∣ne, tom. 1.</NOTE>
+whence it hath its name
+from <HI>tying</HI> and <HI>knitting,</HI> be∣cause
+our soules which by
+lapse and sinning were dis∣severed
+from God, by reli∣gion
+and divine worship are
+conjoyned unto him againe.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">1. Sund. aft Epiphanie.</NOTE> <NOTE PLACE="marg">Que. 6.</NOTE> Can any <HI>Reli∣gion</HI>
+or kinde of divine wor∣ship
+doe this?</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>Noe; onely the
+<HI>true christian religion</HI> can doe
+it. To which purpose the
+
+
+<PB REF="37"/>
+words of the 18 Article a∣greed
+on by the whole cler∣gy
+of both provinces, Anno
+1562. are worthy obser∣ving:
+<HI>They also are to bee
+accursed that presume to say,
+that every man shall bee saved
+by the Law or sect which hee
+professeth, so that hee be dili∣gent
+to frame his life according
+to that law and the light of na∣ture:
+for holy Scripture doth
+set out unto us onely the name
+of Iesus Christ,whereby wee
+must bee saved.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">2 Sund. aft. Epiphanie.</NOTE> <NOTE PLACE="marg">Qu. 7.</NOTE> Who may true∣ly
+be called a <HI>Christian?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>Whosoever is
+<HI>admitted,</HI> and matriculated
+by baptisme into the church
+and being there doth <HI>pro∣fesse</HI>
+the wholsome doctrine
+of Iesus Christ, and withall
+is of such a <HI>reformed life,</HI> that
+
+
+<PB REF="38"/>
+his practise gives not his
+profession the lie, such an
+one is entituled to that ho∣nourable
+name and stile of a
+<HI>Christian.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">3 Sund. af∣ter Epiph.</NOTE> <NOTE PLACE="marg">Qu. 8.</NOTE> How many chiefe
+and principall parts or heads
+are there of Christian do∣ctrine?</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>Foure, 1. of <HI>Faith</HI>
+or thinges to bee beleeved,
+the rule whereof are the 12
+Articles of the Creed, 2. of
+<HI>Love,</HI> or things to be done,
+the rule whereof are the
+ten Commandements: 3. of
+<HI>Prayer,</HI> or things to be asked,
+the rule whereof are the six
+petitions of the Lords pray∣er:
+4. of the <HI>Sacraments,</HI> or
+thinges to be received.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">4 Sund. af∣ter Epiph.</NOTE> <NOTE PLACE="marg">Quest. 9</NOTE> What was the
+cause, why this <HI>Creed</HI> was
+thus first composed?</P>
+</SP>
+<SP>
+<PB REF="38"/>
+<SPEAKER>Apollos.</SPEAKER>
+<P>To be the<NOTE N="a" PLACE="marg">Ambr. serm. 38.</NOTE> <HI>key of
+Faith,</HI> and<NOTE N="b" PLACE="marg">Whitak. contr. Sta∣pl<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>t. de au∣tor. S. Scripturae, l. 1. c. 14. § 9. Durand. l. 3. dist. 25. qu. 2.</NOTE> <HI>Epitome or abridg∣ment
+of whole Scripture.</HI> For
+the canon of holy Scripture
+being large, and in many
+places hard to bee under∣stood,
+it was necessary to
+abridge those truths which
+were of absolute necessity to
+salvation, to the end that all
+might learne them, and take
+up the <HI>badge of their profession</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">5 Sund. af∣ter Epiph.</NOTE> <NOTE PLACE="marg">Que. 10</NOTE> Are all thinges
+which belong to Faith con∣tained
+herein?</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>All points neces∣sary
+to be knowne or belee∣ved
+to salvation, are either
+<HI>expresly</HI> and <HI>directly</HI> heerein
+set downe,<NOTE PLACE="marg">D. Tho. 22. q. 1. art. 6. 8. 9. ad 1.</NOTE> or else by way
+of <HI>reduction and reference</HI> may
+bee brought fitly to some
+one of these Articles.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">Septuages.</NOTE> <NOTE PLACE="marg">Que. 11</NOTE> Why is it cal∣led
+
+
+<PB REF="39"/>
+the <HI>Apostles</HI> Creed?</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>There are three
+Creeds famed all over the
+christian world: 1. this of
+the <HI>Apostles,</HI> made for <HI>instru∣ction</HI>
+in the faith. 2. the <HI>Ni∣cene</HI>
+creed,<NOTE PLACE="marg">Vifcherus, l. 5. c. 20. <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/></NOTE> made for the <HI>ex∣planation</HI>
+of the faith. 3. <HI>A∣thanasius</HI>
+his creed, made for
+the <HI>defence</HI> of the faith. Now
+there are two reasons why
+it is called the Apostles
+creed; th' one is at the most
+but <HI>probable,</HI> because the A∣postles
+themselves made it,
+every one adding his arti∣cle,
+and as it were <HI>casting
+in his shot;</HI> th' other is <HI>cer∣taine;</HI><NOTE PLACE="marg">Vrfin. Cate∣ch. q. 23.</NOTE>
+because it containes
+the summe and abridgment
+of all the Apostles doctrine.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">Se<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>agefima.</NOTE> <NOTE PLACE="marg">Que. 12</NOTE> What is the true
+and full importance of the
+word [<HI>I beleeeve.</HI>]</P>
+</SP>
+<SP>
+<PB REF="39"/>
+<SPEAKER>Apollos.</SPEAKER>
+<P>It imports and
+implies three thinges, 1. the
+<HI>knowledge</HI> of a divine truth,
+2. an <HI>assent</HI> unto it, 3. an <HI>affi∣ance</HI>
+and trust in it.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">Quinqua∣gesima.</NOTE> <NOTE PLACE="marg">Que. 13</NOTE> What is pro∣pounded
+to our faith to be∣leeve
+in the first Article, <HI>I
+beleeve in God, the father Al∣mighty,
+maker of heaven and
+earth?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>Two grand do∣ctrines,
+to wit, first the do∣ctrine
+of the <HI>Creation</HI> of the
+world by Gods omnipoten∣cie:
+and then the doctrine
+of <HI>divine providence,</HI> or pre∣servation
+of the same, ever
+since it was created. Which
+two differ onely thus, that
+<HI>Creation</HI> was a <HI>short provi∣dence,</HI>
+and <HI>Providence</HI> a <HI>long
+Creation.</HI></P>
+</SP>
+</DIV2>
+<DIV2 TYPE="season">
+<PB REF="40"/>
+<HEAD>Spring quarter.</HEAD>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">1 Sunday in Lent.</NOTE> <NOTE PLACE="marg">Que. 14</NOTE> What is the
+summe of the second Arti∣cle
+<HI>[and in Iesus Christ, his
+onely Sonne our Lord]?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>In it 5 things are
+propounded to our faith to
+beleeve, 1. that he is <HI>Iesus,</HI>
+that is, a Saviour, 2 that hee
+is <HI>Christ,</HI> that is, anointed
+and appointed by God to
+be our priest, prophet, and
+king, 3 that he is <HI>the Sonne of
+God,</HI> to wit, naturall and be∣gotten,
+4 that he is his <HI>onely</HI>
+sonne, 5 that he is our <HI>Lord</HI>
+to governe us, as well as our
+Iesus to save us.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">2 Sund. in Lent.</NOTE> <NOTE PLACE="marg">Que. 15</NOTE> What containes
+the third article <HI>[conceaved
+by the holy Ghost, borne of the
+virgine Mary]?</HI></P>
+</SP>
+<SP>
+<PB REF="40"/>
+<SPEAKER>Apollos.</SPEAKER>
+<P>It containes that
+great mystery of Godlinesse
+that a <HI>Spirit was generative and
+a virgin fruitfull,</HI> that is, the
+admirable way of the incar∣nation
+of our Lord Iesus
+Christ: of which Article
+this is the orthodoxe sence,
+that the holy Ghost did by
+it's immediate vertue, and
+divine power, without any
+seminall commixtion, pre∣pare,
+sanctifie, and secundate
+the wombe of the virgine
+Mary, so as at once, and in
+an instant the whole humāe
+body of Christ was formed,
+and then his reasonable
+soule was created and infu∣sed
+into his body.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">3 Sund. in Lent.</NOTE><NOTE PLACE="marg">Que. 16</NOTE> How much is
+comprized in the fourth ar∣ticle,
+<HI>hee suffered under Ponti∣us
+Pilate, was crucified, dead,
+
+
+<PB REF="41"/>
+and buried, descended into hell.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>The five degrees
+of his <HI>Humiliation,</HI> each sur∣passing
+other. Namely, first
+his <HI>Passion, hee suffered, &amp;c. 2</HI>
+his <HI>Crucifixion,</HI> or manner of
+suffering, which was the en∣crease
+of his passion, <HI>was cru∣cified,</HI>
+3 his <HI>death,</HI> a degree
+beyond his crucifixion, <HI>dead.</HI>
+4. his <HI>inhumation, and enter∣ment,</HI>
+more then his death,
+<HI>and buried, 5</HI> his <HI>descent</HI> into
+hell, a degree beyond the
+grave, <HI>hee went downe into hell</HI>
+unlesse you will make his
+descent into hell the first
+degree of his <HI>Exaltation,</HI> ra∣ther
+then the last of his <HI>Hu∣miliation.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">4 Sund. in Lent.</NOTE> <NOTE PLACE="marg">Que. 17</NOTE> What thinke
+you is the safest to hold in
+that vexed question of
+Christs descent into Hell?</P>
+</SP>
+<SP>
+<PB REF="41"/>
+<SPEAKER>Apollos.</SPEAKER>
+<P>I deeme it the sa∣fest
+way to hold the doctrin
+in generall, and implicite
+termes; that he went downe
+into hell, the place of the
+damned, as being the most
+ancient doctrine of the Ca∣tholique
+Church, but not
+too boldly or peremptorily
+to define either touching the
+<HI><SUP>1</SUP> subject,</HI> or <HI><SUP>2</SUP> manner,</HI> or <HI><SUP>3</SUP> end,</HI>
+or <HI><SUP>4</SUP> time</HI> of his descent.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">5 Sund. in Lent.</NOTE> <NOTE PLACE="marg">Qu. 18</NOTE> What is ex∣pressed
+in the fifth Article,
+<HI>hee rose againe the third day
+from the dead.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>The first degree
+of his <HI>Exaltation,</HI> to wit, his
+<HI>resurrection</HI> from the dead,
+together with the circum∣stance
+of time, <HI>the third day,</HI>
+upon which very point did
+depend all the credit both
+of his person, doctrine, and
+
+
+<PB REF="42"/>
+miracles, and even of the
+christian religion it selfe,
+which should bee dispersed
+to all the ends of the world.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">Sund. next before East.</NOTE> <NOTE PLACE="marg">Que. 19</NOTE> What is tende∣red
+to our faith in the sixth
+Article, <HI>hee ascended into hea∣ven,
+and sitteth at the right
+hand of God.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>The <HI>second</HI> and
+<HI>third</HI> degrees of his <HI>Exalta∣tion,</HI>
+to wit, first, <HI>his Ascenti∣on,</HI>
+that the fourth day after
+his resurrection, upon mount
+Olive<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>, he did visibly, local∣ly,
+and corporally according
+to his humane nature, and
+by the vertue of his owne
+Godhead, ascend into the
+third and highest heaven.
+Secondly, his <HI>session at his fa∣thers
+right hand,</HI> by which is
+ment, that hee was exalted
+farre above all Angells and
+
+
+<PB REF="42"/>
+men in his very humane na∣ture,
+and with his father is
+coeternall and coequall.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg"> <NOTE PLACE="marg">Que. 20</NOTE>Easter day.</NOTE> How expound
+you the seventh article, <HI>from
+thence shall hee come to judge
+both the quicke and the dead?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>It containes the
+<HI>fourth</HI> and highest <HI>degree</HI> of
+his <HI>Exaltation:</HI> and the mea∣ning
+of it is, that though
+the <HI>decree,</HI> and <HI>authoritie</HI> of
+judgement doe belong e∣qually
+alike to all the three
+persons, yet the <HI>externall vi∣sible
+act,</HI> or <HI>execution</HI> of judg∣ment
+shall wholly bee put
+into the hands of Christ, the
+sonne: when to the greater
+comfort of the godly, their
+<HI>Saviour</HI> shall bee their <HI>Iudge,</HI>
+and to the wickeds greater
+terrour, he whom they have
+<HI>crucified, shall sit upon them.</HI></P>
+</SP>
+<SP>
+<PB REF="43"/>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">1 Sund. aft. Easter.</NOTE> <NOTE PLACE="marg">Qu. 21</NOTE> How doe you
+sence the eighth Article,<HI>I
+beleeve in the holy Ghost?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>That there is an
+holy Spirit, which is a di∣stinct
+person from the father
+and the sonne, and yet e∣quall
+to, cōsubstantiall with,
+and proceeding from both:
+whose offices are,<NOTE N="*" PLACE="marg">Spiritus e<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ce <SUP>1</SUP> docet, <SUP>2</SUP> renovat, <SUP>3</SUP> copulat{que}, <SUP>4</SUP> regit{que}, &amp; <SUP>5</SUP> <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>consolatur <SUP>6</SUP> arrha salu∣tifera.</NOTE> <SUP>1</SUP> <HI>Illumi∣nation,</HI>
+or knowledge, <SUP>2</SUP> <HI>Re∣generation</HI>
+or sanctification,
+<SUP>3</SUP> to <HI>unite</HI> and joyne us to
+Christ our head, <SUP>4</SUP> to <HI>guide,</HI>
+and governe us in the right
+way to eternitie, <SUP>5</SUP> to <HI>comfort</HI>
+our hearts in both inward
+tentations, and outward
+crosses, and <SUP>6</SUP> lastly, to <HI>seale</HI>
+us unto the day of redemp∣tion.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">2 Sund. aft. Easter.</NOTE> <NOTE PLACE="marg">Qu. 22.</NOTE> How much is
+contained in the ninth arti∣cle,
+<HI>I beleeve the holy Catho∣lique
+
+
+<PB REF="43"/>
+Church, the communion
+of Saints?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P><HI>Foure</HI> particulars,
+1. that there is a <HI>Church,</HI> to
+wit, a congregation of men
+and women elected <HI>before
+time,</HI> and called <HI>in time</HI> by
+the word and Spirit out of
+the whole masse of man∣kind,
+to bee a chosen gene∣ration
+unto God. 2 that this
+Church is <HI>holy</HI> both in re∣gard
+of <SUP>1</SUP> <HI>Persons, <SUP>2</SUP> meanes,
+<SUP>3</SUP> time,</HI> and <SUP>4</SUP> <HI>place</HI> of Gods
+worship. 3. that it is <HI>Catho∣lique,</HI>
+that is, not circum∣scribed
+or limited, but uni∣versall
+in regard of <SUP>1</SUP> <HI>doctrine
+<SUP>2</SUP> members, <SUP>3</SUP> time,</HI> and <SUP>4</SUP> <HI>place.</HI>
+4. that in this holy Catho∣lique
+Church there is a <HI>Soci∣etie
+and communion of Saints,</HI>
+which have not onely <HI>union</HI>
+with Christ, but also <HI>Com∣munion</HI>
+
+
+<PB REF="44"/>
+one <GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/> another.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">3 Sunday after Easter</NOTE> <NOTE PLACE="marg">Que. 23</NOTE> Recite now the
+tenth article, and then ex∣plaine
+it.</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P><HI>I beleeve the remis∣sion
+of sinnes,</HI> that is, I be∣leeve
+that every transgressi∣on
+of the law, whereof I am
+guiltie since I had a being, is
+not onely <HI>pardonable,</HI> but
+(after faith and repentance)
+<HI>pardoned</HI> unto mee, and fur∣ther,
+that though none but
+God can properly, and of
+himselfe <HI>forgive</HI> my sinnes,
+yet a lawfull minister, who
+hath <HI>gifts from God,</HI> and <HI>cal∣ling
+from men,</HI> may both <HI>de∣clare</HI>
+it to the peace of my
+Conscience, and also bee
+Gods instrument to <HI>conveigh</HI>
+the same unto mee.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">4 Sunday after Easter</NOTE> <NOTE PLACE="marg">Que. 24</NOTE> What impor∣teth
+the eleventh Article,
+
+
+<PB REF="44"/>
+wherein wee professe <HI>the re∣surrection
+of the body?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>It importeth 3
+things, 1 that there shall bee
+the <HI>instauration</HI> of the same
+flesh, the <HI>recollection</HI> of the
+same bones and dust. 2 an <HI>e∣vocation</HI>
+of the same soule
+either out of the place of
+blisse or misery. 3 the <HI>reuni∣ting</HI>
+of them together, so as
+there shall be the same indi∣viduall
+compound after the
+resurrection, both for <HI>kinde</HI>
+and <HI>number,</HI> as was before
+death.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">5 Sunday after Easter.</NOTE> <NOTE PLACE="marg">Que. 25</NOTE> Tell me first the
+words, and then the mea∣ning
+of the twelfth and last
+Article, and so you shall
+have satisfied mee in the first
+head of Catechisme, which
+is touching <HI>thinges to bee be∣leeved.</HI></P>
+</SP>
+<SP>
+<PB REF="45"/>
+<SPEAKER>Apollos.</SPEAKER>
+<P>The wordes are
+these, <HI>I beleeve life everlasting</HI>
+the sence is this, that there
+is an unconceaveable, unut∣terable
+estate of perfect
+blisse, and full happinesse,
+where there shall be a neces∣sary
+<HI>absence of all evill,</HI> and a
+necessary <HI>presence of all good,</HI>
+which ere long shall bee the
+lot and portion of mee in
+particular, and in generall
+of all those who in this life
+are justified and sanctified.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">Sund. after Ascension.</NOTE> <NOTE PLACE="marg">Que. 26</NOTE> Why doe wee
+conclude the Creed with
+<HI>Amen?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>It makes it of a
+perfect and circular forme.
+For <HI>Amen</HI> the last word is
+neither more nor lesse in va∣lue
+and importance then <HI>I
+beleeve</HI> the first, including
+three thinges, <HI>I knowledge,
+
+
+<PB REF="45"/>
+2 assent,</HI> and 3 <HI>affiance.</HI></P>
+</SP>
+</DIV2>
+<DIV2 TYPE="season">
+<HEAD>Summer quarter.</HEAD>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">Whitsunday</NOTE> <NOTE PLACE="marg">Que. 27</NOTE> Proceed now
+to the second chiefe head of
+Catechisme: the <HI>ten Com∣mandements,</HI>
+the rule of <HI>love,</HI>
+or of <HI>thinges to be done;</HI> and
+first give mee the most aun∣cient
+and receaved division
+of them.</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>That is the ve∣ry
+same which was given by
+God, the Lawgiver him∣selfe,
+who divided these ten
+precepts into <HI>two tables,</HI> pla∣cing
+<HI>foure</HI> in the <HI>former,</HI> to
+point us out our duty to
+God; and <HI>sixe</HI> in the <HI>latter,</HI>
+to set forth our duty to man.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">Trinity. Sunday.</NOTE> <NOTE PLACE="marg">Que. 28</NOTE> What <HI>rule</HI> is
+most necessary to be premi∣sed
+for the better under∣standing
+
+
+<PB REF="46"/>
+of these ten holy
+lawes?</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P><NOTE PLACE="marg">1 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 29</NOTE> <HI>This, that</HI> eve∣ry
+Commandement hath either
+expressed, or understood, both
+an affirmative part to bar sinns
+of Omission, and a negative
+part to barre sinnes of Commis∣sion.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P>Shew mee both
+those parts in the <HI>first Com∣mandement.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>The affirmative
+part is this, <HI>Thou shalt choose
+Iehovah to bee thy God,</HI> and
+him onely shalt thou know,
+feare, love, trust in, and
+serve. The <HI>negative</HI> is ex∣pressed,
+<HI>Thou shalt not have
+any other Gods,</HI> by which is
+prohibited 1. <HI>Atheisme,</HI> or
+the having of noe God to
+worship, 2. <HI>Polytheisme,</HI> or
+the having of diverse Gods,
+
+
+<PB REF="46"/>
+3. <HI>Idolatrie,</HI> or the having of
+a false God.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">2 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 30</NOTE> Shew mee the
+affirmative, and negative
+parts of the <HI>second Comman∣dement.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>This is the <HI>affir∣mative:</HI>
+thou shalt worship
+God by such meanes, and
+after such a manner as is a∣greeable
+to his nature, and
+prescribed in his word, to
+wit, in spirit and in truth,
+John 4. 24. the <HI>negative</HI> is
+this: Thou shalt not wor∣ship
+the true God after a
+false manner.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">3 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 31</NOTE> Doe the like in
+the third commandement, I
+pray you.</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>The <HI>affirmative</HI> part
+of it is this, in all things give
+God his due glory, or con∣ferre
+all due honour to God
+
+
+<PB REF="47"/>
+that is, both to his divine
+nature, and essence, to his
+word, and to his workes.
+The <HI>negative</HI> is this, thou
+shalt neither with unreve∣rend
+<HI>thoughts,</HI> or with blas∣phemous
+<HI>words,</HI> or with pro∣phane
+and irreligious <HI>actions</HI>
+strike through the glorious
+and ever blessed name of
+God, or bereave him of the
+honour due unto him.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">4. Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 32</NOTE> Proceed on to
+the fourth commandement,
+the last of the first table.</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>It's <HI>affirmative</HI> part
+is this, <HI>Remember to keepe
+holy the Sabboth day,</HI> where∣by
+we are commanded two
+things, first, to keepe an
+<HI>outward rest,</HI> or cessation
+from labour: Secondly, to
+<HI>sanctifie,</HI> or keepe holy that
+rest. The <HI>negative</HI> part is
+
+
+<PB REF="47"/>
+this: Thou shalt not pro∣phane
+the Lords Saboth, ei∣ther
+in the <HI>excesse</HI> by a Judai∣call
+and superstitious obser∣vation
+of the outward rest,
+or in the <HI>defect,</HI> by negle∣cting
+either the publique or
+private sanctification there∣of;
+as namely by taking li∣bertie
+to doe any manner
+of worke, which falls not
+under one of these three
+heads, workes of <HI>Pietie, Cha∣ritie,</HI>
+or <HI>necessitie.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">5 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 33</NOTE> What say you to
+the fifth commandement,
+<HI>Honour thy father and mother?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>It is a comman∣dement
+of <HI>relations,</HI> prescri∣bing
+the mutuall offices of
+all <HI>inferiours</HI> and <HI>superiours.</HI>
+The <HI>affirmative</HI> part enjoy∣neth
+all reverence, love, o∣bedience,
+and gratitude to∣wards
+
+
+<PB REF="48"/>
+our elders, betters in
+gifts of body, mind, estate,
+patrons, and benefactors,
+domesticall parents, scho∣lasticall
+parents, ecclesiasti∣call
+parents, politicall pa∣rents:
+and back againe all
+care, governement, prote∣ction,
+provision, and indul∣gence
+of them to us downe∣ward.
+The <HI>negative</HI> part pro∣hibiteth
+all manner of disre∣spects,
+and disregards either
+of superiours towards their
+inferiours, or of inferiours
+towards their superiours.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">6 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 34</NOTE> Unfold now
+the sixt commandement,
+<HI>Thou shalt not kill.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>The <HI>affirmative</HI>
+part is this: Thou shalt by
+all direct and lawfull means
+safeguard and defend the
+life and person both of thy
+
+
+<PB REF="48"/>
+selfe, and of thy neighbour.
+The <HI>negative</HI> is this: Thou
+shalt neither with a <HI>violent</HI>
+hand, nor a <HI>virulent</HI> tongue,
+nor a hanging countenance,
+no nor so much as an uncha∣ritable
+thought hurt limme
+or life, soule or body of thy
+selfe, or thy neighbour.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">7 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 35</NOTE> Expound the 7.
+commandement:<HI>Thou shalt
+not commit adulterie.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>The <HI>affirmative</HI>
+part is thus much, thou shalt
+preserve to thy selfe, and to
+thy neighbour both the <HI>in∣ward</HI>
+puritie of the soule, and
+the <HI>outward</HI> chastlty of the
+body. The <HI>negative</HI> thus
+much: thou shalt shun all
+fleshly uncleanenesse, both
+of the <HI>heart</HI> in motions and
+passions, and of the <HI>eyes</HI> in
+lookes and speculations, and
+
+
+<PB REF="49"/>
+of the <HI>eares</HI> in listening to fil∣thy
+talke, and of the <HI>tongue</HI>
+in wanton speaking, and of
+the <HI>body</HI> in perpetrating any
+sort of uncleane action.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">8 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 36</NOTE> Explaine the
+eigth commandement, <HI>Thou
+shalt not steale.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>In it God makes
+an hedge about our estate;
+and the <HI>affirmation</HI> of it is
+this: thou shalt first by <HI>just
+getting,</HI> and then by <HI>faith∣full
+disposall</HI> and steward∣ship
+of thy goods, beare up
+thine owne, and thy neigh∣bours
+estate, that you may
+bee rather helpefull then
+needfull to others. The <HI>ne∣gation</HI>
+is this, thou shalt nei∣ther
+by idlenesse, nor im∣providence,
+nor cousenage,
+nor injustice, nor riot, or by
+any other meanes wast, or
+
+
+<PB REF="49"/>
+impoverish the lively-hood
+and estate of thy selfe, or
+thy neighbour, whereby
+you <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ought to provide for
+your selves, and your fami∣lies,
+and relieve the necessi∣ties
+of the Saints.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">9 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Qu. 37.</NOTE> Give mee the
+sence of the ninth comman∣dement,
+<HI>Thou shalt not beare
+false witnesse against thy neigh∣bour.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>In it God setteth
+a watch before the doore
+of our lips, and the <HI>affirma∣tive</HI>
+of it is this: thou shalt
+not onely thy selfe not hurt
+or give a willing eare to the
+detractors tongue, but thou
+shalt uphold and propugne
+according to truth and ju∣stice,
+the credit and good
+name of thy selfe and neigh∣bour.
+The <HI>negative</HI> is this:
+
+
+<PB REF="50"/>
+thou shalt neither by pub∣lique
+slander, nor by pri∣vate
+backbiting, nor by se∣cret
+whispering, nor by
+causlesse suspitions, nor by
+wrested misconstructions,
+nor by listening to others
+accusations and suggestions
+scandalize thine owne, or
+thy neighbours fame.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">10 Sund. after Trin.</NOTE> <NOTE PLACE="marg">Qu. 38.</NOTE> Lastly Sir, what
+meaneth the tenth and last
+of the commandements, <HI>thou
+shalt not covet, &amp;c.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>Oh this precept
+is able to humble, and smite
+on the knees, the most pre∣varicating
+sinner, and proud
+Pharisie in the world, for if
+there be any that be concei∣ted
+on his owne righteous∣nesse,
+and thinke hee hath
+kept the 9 former, yet must
+he needs confesse his guilt
+
+
+<PB REF="50"/>
+in this last, for the <HI>affirma∣tive</HI>
+part of it enjoynes us
+holy <HI>thoughts,</HI> holy <HI>desires,</HI>
+sanctified <HI>imaginations,</HI> pure
+and unpolluted <HI>fantasies;</HI> and
+the <HI>negative</HI> forbids not one∣ly
+<HI>formed concupiscences,</HI> or
+those second motions which
+are accompanied with acts
+of reason, and consent of
+will, but even the <HI>first stir∣rings,</HI>
+and ticklings of the
+minde to sin, and even such
+<HI>imperfect concupiscences,</HI> as
+whereunto wee yeeld no li∣king
+or consent.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">11 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 39</NOTE> Who then can
+be saved? can any man keep
+the Law?</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>Yea, as it is qua∣lified
+by the Gospell, for <HI>E∣vangelicall
+obedience</HI> abateth,
+and taketh off the rigour of
+the Law, and is satisfied
+
+
+<PB REF="51"/>
+with weake performances,
+if so be they bee filled up
+with <HI>repentance,</HI><NOTE PLACE="marg">Greg. Qui non potest agnum offe∣rat colum∣bam, i. <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>qui non potest innocentiā offerat poe∣nitentiam.</NOTE> and <HI>faith</HI> in
+the bloud of Christ. The
+poore who could not offer
+a <HI>lambe</HI> were to offer a <HI>dove,</HI>
+that is, they who cannot per∣forme
+<HI>innocencie,</HI> must offer
+<HI>penitencie.</HI></P>
+</SP>
+</DIV2>
+<DIV2 TYPE="season">
+<HEAD>Autumne quarter.</HEAD>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">12 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 40</NOTE> Proceed on to
+<HI>Prayer,</HI> the third Catechu∣menall
+head, and first tell
+mee why the <HI>preface</HI> of the
+Lords prayer is in these,
+and none other words, <HI>Our
+father which art in heaven.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>To strengthen our
+faith before wee pray, in the
+persuasion, and acknow∣ledgement
+first of his <HI>good∣nesse</HI>
+in that he is <HI>Our father,</HI>
+
+
+<PB REF="51"/>
+and therefore <HI>will</HI> helpe us,
+and secondly of his <HI>power</HI> in
+that hee is in <HI>heaven,</HI> and
+therefore <HI>can</HI> helpe us.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason,</SPEAKER>
+<P><NOTE PLACE="marg">13 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 41</NOTE> What doe we
+implore in the first petition,
+<HI>hallowed be thy name.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>That Gods name
+that is, first <HI>himselfe,</HI> second∣ly
+his <HI>word,</HI> thirdly his <HI>works</HI>
+may bee magnified and hal∣lowed,
+and honoured, and
+praised, and glorified, and
+sanctified both of <HI>himselfe,</HI> of
+<HI>Angels,</HI> of <HI>men,</HI> of <HI>bruites,</HI> of
+<HI>vegetables,</HI> and of all <HI>creatures</HI>
+according to the power and
+language given them by
+God.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">14 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 42</NOTE> What doe you
+aske in the second petition,
+<HI>thy kingdome come?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>That whereas
+Gods kingdome is 3 fold,
+
+
+<PB REF="52"/>
+of <HI>power,</HI> of <HI>grace,</HI> and of <HI>glo∣ry,</HI>
+wee pray that the king∣dome
+of his power may
+come <HI>upon us,</HI> the kingdome
+of his grace may come <HI>into
+us,</HI> and for the kingdome of
+his glory, that we may come
+<HI>into it.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">15 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 43</NOTE> What is the mea∣ning
+of the third petition,
+<HI>thy will be done?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>Wee pray, first
+that Gods will may be done
+<HI>actively by us,</HI> that nothing
+that wee doe may displease
+God, and <HI>passively upon us,</HI>
+that nothing that God doth
+may displease us. And wee
+further pray that this both
+our active obedience in re∣ference
+to Gods <HI>commanding</HI>
+will, and passive obedience
+in reference to Gods <HI>dispo∣sall</HI>
+will, may be as cheerful∣ly,
+
+
+<PB REF="52"/>
+speedily, sincerely, uni∣versally,
+and constantly per∣formed
+by us, as it is by the
+Saints and Angells in hea∣ven.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">16 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 44</NOTE> What is contai∣ned
+in the fourth petition,
+<HI>give us this day our daily bread</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>In it wee beg all
+necessary blessings, and eve∣ry
+word of the petition is to
+have the full weight: for
+the word <HI>bread</HI> teacheth <HI>con∣tentation,</HI>
+the word <HI>our</HI> teach∣eth
+us <HI>justice</HI> and <HI>diligence:</HI>
+the word <HI>us</HI> teacheth us <HI>cha∣ritie:</HI>
+the word <HI>give, Grati∣tude:</HI>
+the words <HI>to day and
+daily, moderation of minde,</HI> in
+regard of too much and sol∣licitous
+caring for to mor∣row.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">17 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 45</NOTE> What beg wee
+of God in the fifth petition,
+
+
+<PB REF="53"/>
+<HI>forgive us our trespasses, &amp;c.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>As in the 3 peti∣tion
+God was mans patterne,
+so here in this man is Gods
+patterne,<NOTE PLACE="marg"><GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>▪ &amp;c. Theophil.</NOTE> for wee beg that
+God would remit unto us
+all our sinnes, whether <HI>actu∣all</HI>
+or <HI>originall,</HI> whether of
+<HI>omission,</HI> or <HI>commission,</HI> whe∣ther
+of <HI>ignorance,</HI> or <HI>know∣ledge,</HI>
+whether <HI>open</HI> or <HI>secret,</HI>
+whether <HI>great beames and ca∣mels,</HI>
+or <HI>small moates and gnats</HI>
+whether <HI>raigning,</HI> or onely
+<HI>molesting,</HI> whether of our
+<HI>child hood, youth, manhood,</HI> or
+<HI>old age,</HI> whether lastly of
+<HI>thought, word,</HI> or <HI>deed,</HI> and all
+this according to the rule,
+and stander<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> of our owne
+charity, <HI>as wee forgive them
+that trespasse against us:</HI> so
+that wee burthen our selves,
+and bind our selves with
+
+
+<PB REF="53"/>
+most grievous ferrers,<NOTE PLACE="marg">Gravissemis vinculis nos alligamus, nisi quod profitemur impleamus, Leo serm. 5. de quadra∣ges.</NOTE> if we
+our selves perform not what
+we undertake, and professe.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">18 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Qu. 46</NOTE> What beg wee
+in the sixt petition, <HI>leade us
+not into temptation, but deliver
+us from evill.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>That whether
+tentations be <HI>ascending,</HI> or <HI>in∣jected,</HI>
+whether they be ten∣tations
+of <HI>probation</HI> or <HI>decep∣tion,</HI>
+whether they be tenta∣tions
+<HI>to sinne,</HI> or <HI>for sin,</HI> whe∣ther
+we be tempted by <HI>God,</HI>
+or by <HI>Sathan,</HI> or by <HI>man,</HI> or
+by our <HI>owne lusts</HI> and concu∣piscences,
+yet wee pray that
+God would deliver us from
+<HI>the evill</HI> of tentation, which
+is, that hee will not suffer us
+to bee tempted <HI>above our
+strength, but give a gracious
+issue together with the tenta¦tion.</HI></P>
+</SP>
+<SP>
+<PB REF="54"/>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">19 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 47</NOTE> What imports
+the word <HI>Amen?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>It is the seale of
+this prayer, and is both the
+voice of <HI>faith,</HI> and the voice
+of <HI>desire,</HI> as much as to say,
+Lord I <HI>beleeve</HI> these thinges
+shall be so, and I <HI>desire</HI> ear∣nestly
+they may be so, both
+for thy glory, and the
+Churches good.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">20 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 48</NOTE> Which is the
+fourth, and last part of Ca∣techisticall
+divinitie?</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>Of the <HI>sacraments,</HI>
+which in one word cannot
+better be defined, then that
+they are the <HI>visible word,</HI>
+wherein, and whereby
+Christ crucified is preached
+and declared to <HI>our eyes.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">21 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 49</NOTE> Now whereas
+the most perfect and exqui∣site
+knowledge of any thing
+
+
+<PB REF="54"/>
+is to see it in its causes,<NOTE PLACE="marg">Scire est per causas scire.</NOTE> and
+that there are foure causes
+of a thing, the <HI>efficient,</HI> from
+which it is, the <HI>matter</HI> of
+which it is, the <HI>forme</HI> by
+which it is what it is, and th'
+<HI>end</HI> for which it is, first
+shew mee which be the effi∣cient
+causes of a sacrament.</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P><HI>Christ himselfe,</HI> the
+head of his Church is the
+onely <HI>Author,</HI> or <HI>principall
+efficient cause</HI> of a Sacrament,
+none but hee alone having
+power to <HI>institute,</HI> or ordain
+one in the Church, but a
+lawfull minister is <HI>the instru∣mentall,</HI>
+or <HI>secondary efficient
+cause;</HI> hath power to <HI>admi∣nister</HI>
+and <HI>officiate,</HI> as Christ
+had to <HI>institute.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">22 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Que. 50</NOTE> Which is the
+<HI>matter</HI> of which a sacrament
+consists?</P>
+</SP>
+<SP>
+<PB REF="55"/>
+<SPEAKER>Apollos.</SPEAKER>
+<P>It is threefold,
+1 the <HI>outward signe</HI> represen∣ting,
+2 the <HI>inward grace</HI> re∣presented,
+3 the <HI>word</HI> sancti∣fying.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">23 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Qu. 51</NOTE> wherein consists
+the <HI>inward forme,</HI> or essence
+of a Sacrament?</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P><HI>In</HI> the <HI>analogy and
+proportion</HI> betwixt the out∣ward
+signe, and the inward
+grace, which may be called
+a <HI>sacramentall union,</HI> or con∣junction.</P>
+</SP>
+<SP>
+<SPEAKER>Mnason.</SPEAKER>
+<P><NOTE PLACE="marg">24 Sunday after Trin.</NOTE> <NOTE PLACE="marg">Qu. 52.</NOTE> How manifold is
+the <HI>end</HI> of a Sacrament.</P>
+</SP>
+<SP>
+<SPEAKER>Apollos.</SPEAKER>
+<P>Twofold, 1. to
+<HI>signifie,</HI> 2. to <HI>exhibit</HI> the gra∣ces
+of God therein specified
+and sealed. And the 12 ar∣ticles
+thus <HI>beleeved,</HI> the ten
+commandements thus <HI>kept,</HI>
+the sixe petitions thus <HI>pow∣red
+forth,</HI> and the two Sa∣craments
+
+
+<PB REF="55"/>
+thus <HI>administred
+and receaved,</HI> bring a man a∣bout
+in a blessed circular
+motion unto the first-point
+of all, to wit,
+<HI>true blessednesse</HI>
+or <HI>happi∣nesse.</HI></P>
+</SP>
+<TRAILER>FINIS.</TRAILER>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="56"/>
+<PB REF="56"/>
+<P>AN
+ALPHABET
+CONTEINING
+THE BRIEFE OF
+what is to bee either knowne,
+or done by them, who unfeig∣nedly
+desire to make acceptable
+approches to the Lords
+Table.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="catechism">
+<PB REF="57"/>
+<PB REF="57"/>
+<HEAD>The Communicants
+Alphabet.</HEAD>
+<P><NOTE PLACE="marg">1 The defi∣nition of a Sacrament.</NOTE> <SEG REND="decorInit">A</SEG> Sacrament is the
+<HI>visible word,</HI> as the
+Scripture is the
+<HI>word audible.</HI> By
+it Christ crucified is spoken
+and preached to our <HI>eyes,</HI> as
+in the scripture to our <HI>eares.</HI></P>
+<P><NOTE PLACE="marg">2 The diffe∣rence be∣twixt the two Sacra∣ments.</NOTE> BAptisme is the Sacra∣ment
+of our <HI>matriculati∣on,</HI>
+and <HI>admission</HI> into the
+Church, and the Lords sup∣per
+is the Sacrament of our
+<HI>establishment</HI> there, and <HI>confir∣mation</HI>
+after wee are admit∣ted.</P>
+<P>
+
+<PB REF="58"/>
+<NOTE PLACE="marg">3 The effici∣ent causes of a Sacra∣ment.</NOTE> Christ is the <HI>principall
+Author,</HI> or <HI>efficient
+cause</HI> of a Sacrament in the
+Church. A lawfull minister
+is the <HI>secondary,</HI> or <HI>instru∣mentall
+cause.</HI> None but
+Christ alone who is the
+head of the Church can <HI>or∣daine</HI>
+or <HI>institute</HI> one, none
+but a lawfull minister, that
+is, who hath <HI>gifts</HI> from God
+and <HI>calling</HI> from men, can
+<HI>officiate</HI> or <HI>administer</HI> one.</P>
+<P><NOTE PLACE="marg">4 The mat∣ter.</NOTE> DIstinguish wisely be∣twixt
+the three parts
+which concurre to the con∣stituting
+of a sacrament, to
+wit, first, the <HI>outward signes</HI>
+representing: secondly the
+<HI>inward</HI> and <HI>invisible graces</HI> re∣presented;
+lastly the word
+of <HI>benediction,</HI> or <HI>consecration</HI>
+meeting with both.</P>
+<P>
+
+<PB REF="58"/>
+<NOTE PLACE="marg">5 Arule or Canon of S. Aug.</NOTE> EXcept the <HI>word</HI> accede,
+and be added unto the
+<HI>Elements,</HI> it is noe Sacra∣ment,
+but common water,
+common bread, common
+wine.</P>
+<P><NOTE PLACE="marg">6 The inter∣nall forme.</NOTE> <HI>FOrme inward,</HI> or the es∣sence
+of a Sacrament,
+stands in the proportion or
+analogie betweene the out∣ward
+signe, and inward
+grace, which may bee cal∣led
+a <HI>Sacramentall union,</HI> or
+conjunction of the signe,
+and the thing signified, as
+namely, the proportion
+which outward washing
+holds with inward sanctifi∣cation
+is the essentiall form
+of baptisme, and the propor∣tion
+which bread and wine
+hold with the body and
+bloud of Christ is the es∣sence,
+
+
+<PB REF="59"/>
+and forme of the
+Lords supper.</P>
+<P><NOTE PLACE="marg">7 The exter∣nall forme.</NOTE> GIve diligent heed also
+all the while of cele∣bration
+to the whole leitur∣gie
+or office of the Church,
+that is, to all the words and
+actions of the minister,
+which are said and done ac∣cording
+to the institution of
+Christ, and according to
+the rule and prescript of the
+Church, whereof thou art a
+member: for so much is
+called the <HI>outward forme</HI> of
+a sacrament.</P>
+<P><NOTE PLACE="marg">8 The ends.</NOTE> HAve a stedfast regard
+withall to the three∣fold
+end of a sacrament,
+which are, first to be <HI>signes</HI>
+to represent; secondly, <HI>seales</HI>
+to confirme; thirdly <HI>instru∣ments</HI>
+
+
+<PB REF="59"/>
+to conveigh Grace,
+for Sacraments were but
+poore thinges to what they
+are, if they had not an <HI>exhi∣bitive</HI>
+vertue, as well as a
+<HI>significative.</HI></P>
+<P><NOTE PLACE="marg">9 A two∣fold worthi∣nesse requi∣red in a Communi∣cant.</NOTE> IN preparation to the
+Lords table due respect
+must bee had,both to the
+worthinesse of the <HI>receiver,</HI>
+and to the worthinesse of
+<HI>receiving,</HI> that is called <HI>pre∣cedent
+worthinesse,</HI> or the
+<HI>worthinesse of the Person,</HI>
+and is to goe before; this
+is called <HI>concurrent Worthi∣nesse,</HI>
+or the <HI>worthinesse of
+handling,</HI> and is to goe a∣long
+with the act of recei∣ving.</P>
+<P><NOTE PLACE="marg">10 The wor¦thinesse of the person consists in Righteous∣nesse.</NOTE> KNow then that as only
+sinne doth avile, and
+
+
+<PB REF="60"/>
+<HI>unworthy</HI> our persons, so
+nothing but <HI>Righteousnesse</HI>
+doth <HI>dignifie</HI> them, and re∣estate
+them in their former
+worthinesse and excellency.</P>
+<P><NOTE PLACE="marg">11 This Righteous∣nesse is dou∣ble, of faith, and workes</NOTE> LEarne further that this
+righteousnesse must bee
+twofold; the one of Christ,
+which must bee <HI>imputed</HI> un∣to
+us, and therefore called
+the <HI>Righteousnesse of faith:</HI>
+the other our owne, which
+must bee <HI>imparted</HI> to us, and
+<HI>inherent</HI> in us, and therefore
+called the <HI>Righteousnesse of
+workes.</HI></P>
+<P><NOTE PLACE="marg">12 Thewor∣thinesse of handling consists in selfe exa∣mination.</NOTE> MOreover the worthi∣nesse
+of handling, or
+of receiving consists chiefly
+in putting in practice that
+grand Apostolicall rule, 1
+<HI>Cor. 11. 28. Let a man exa∣mine
+
+
+<PB REF="60"/>
+himselfe, and so let him
+eate of that bread and drinke
+of that cup.</HI></P>
+<P><NOTE PLACE="marg">13 Yet selfe examination is not e∣nough with¦out selfe ap∣probation.</NOTE> NEither is it sufficient to
+<HI>prove,</HI> unlesse (ou<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>
+weaknesses and infirmities
+being mercifully abated us
+in Christ) we be able to <HI>ap∣prove</HI>
+our selves both to our
+owne hearts, and to God,
+who is greater then our
+hearts.</P>
+<P><NOTE PLACE="marg">14 Faith and man∣ners are the two thinges to be taken into exami¦nation.</NOTE> OMit not then to exa∣mine
+diligently the
+present condition, first, of
+the <HI>Faith,</HI> and then of thy
+<HI>manners</HI> and <HI>life:</HI> the touch∣stone
+of the former is the
+<HI>Creed;</HI> and of the latter, the
+decalogue, or <HI>ten comman∣dements.</HI></P>
+<P>
+
+<PB REF="61"/>
+<NOTE PLACE="marg">15 The A∣postles creed is the rule of Faith.</NOTE> PLace first before thine
+eyes the 12 Articles of
+that most auncient and Apo∣stolique
+creed, and examine
+thy selfe as in the presence
+of God, first whether thou
+be able to give stedfast cre∣dit,
+and firme <HI>assent</HI> unto
+each of them one by one;
+and secondly, whether thou
+canst <HI>apply</HI> each article par∣ticularly
+unto thine owne
+selfe, and interest thine own
+soule by <HI>affiance and trust,</HI> in
+the benefits and comforts
+which result from each Ar¦ticle.</P>
+<P><NOTE PLACE="marg">16 The de∣calogue is the rule of manners.</NOTE> QUestion nextly thy life
+and manners, and ther∣in
+place before thee the ten
+precepts of the morall law,
+carefully searching by most
+diligent scrutiny through
+
+
+<PB REF="61"/>
+each commandement, wher∣in
+thou hast transgressed,
+and broken either the <HI>affir∣mative
+part</HI> of the comman∣dement
+by sinnes of omissi∣on,
+or the <HI>negative</HI> by sinnes
+of commission.</P>
+<P><NOTE PLACE="marg">17 Repen∣tance is the onely salve for sinne.</NOTE>REpent from the bot∣tome
+of thine heart,
+where thou findest ought a∣misse
+in either, and give not
+thy spirit rest, till thou hast
+brought it to a bleeding
+plight, and wrought it to
+some measure of godly con∣trition.
+For where wee can∣not
+offer a <HI>lambe,</HI> wee must
+offer a <HI>dove,</HI> that is, where
+wee cannot performe <HI>inno∣cency</HI>
+wee must pay <HI>penitency.</HI></P>
+<P><NOTE PLACE="marg">18 Sorrow and refor∣mation are the two parts of true repentance.</NOTE> <HI>SOrrow</HI> for what hath been
+amisse for the time <HI>past▪</HI>
+
+
+<PB REF="62"/>
+and carefull both <HI>resolution,</HI>
+and endeavour to amend,
+and reforme for the time to
+<HI>come,</HI> are the two parts of
+true and formall repentance
+God will neither accept our
+sorrow without reformatiō,
+nor our reformation with∣out
+sorrow and contrition.</P>
+<P><NOTE PLACE="marg">19 The com∣municants carriage whilst he is receaving.</NOTE> TAke heed with all thy
+might, that whilst thou
+art at that holy exercise, nei∣ther
+eyes nor mind wander,
+least thou offer the sacrifice
+of fooles; but strive both to
+confine the thoughts of thy
+heart, and to fixe the specu∣lation
+of thine eye. For (as
+was said before) it is the <HI>visi∣ble
+word,</HI> sermoning and
+preaching Christ <HI>crucified,</HI>
+yea Christ <HI>crucifying</HI> unto
+the eyes; in which regard
+
+
+<PB REF="62"/>
+not onely the Elements
+themselves, but also every
+action of the minister, while
+he is officiating is <HI>significa∣tive</HI>
+and <HI>representative.</HI></P>
+<P><NOTE PLACE="marg">20 The com∣municants carriage and disposi¦tion after∣wards. viz.</NOTE> UNto all this one thing
+more is to bee added,
+which is the <HI>consequent,</HI> or
+<HI>subsequent disposition</HI> and tem∣per
+of soule, which is to fol∣low
+the holy Communion:
+for <HI>the end crownes the
+worke.</HI> Praeexistent congru∣ities,
+and coexistent con∣currences,
+and subsequent
+dispositions must all meet
+to make a good worke per∣fect
+and absolute. There is
+required first a right <HI>ingresse</HI>
+into, and then a right <HI>pro∣gresse</HI>
+in, and lastly a right <HI>e∣gresse</HI>
+out of every holy and
+pious performance, before it
+
+
+<PB REF="63"/>
+can bee put upon the file of
+<HI>good Workes.</HI> An action
+may miscarry upon one cir∣cumstance,
+it cannot bee
+good but upon all.</P>
+<P><NOTE PLACE="marg">21 In thank¦fullnesse.</NOTE> WHen therefore thou
+hast received, and
+that the holy businesse is en∣ded,
+<HI>thanke God</HI> heartily for
+so great a favour, as to vouch¦safe
+to feast thee with his
+owne body and blood, and
+so make it as it is, an <HI>Eucha∣rist,</HI>
+that is, a sacrifice of
+praise and thankesgiving.</P>
+<P><NOTE PLACE="marg">22 And in newnesse of life.</NOTE> YIeld also unto God re∣all
+thankefullnesse, that
+is, constant and uniforme
+<HI>obedience,</HI> eschewing even the
+least of sinnes which may
+defile the soule, and setting
+upon the most difficult of
+
+
+<PB REF="63"/>
+vertues, which may ingrati∣ate
+thee with God. <HI>Having
+washed thy feet, doe not defile
+them againe; having put
+off thy ragges, put
+them not on a∣gaine.</HI></P>
+</DIV1>
+</BODY>
+</TEXT>
+</GROUP>
+<BACK>
+<DIV1 TYPE="imprimatur">
+<OPENER><DATELINE><DATE>Novemb. 28. 1639.</DATE></DATELINE></OPENER>
+<P>Imprimatur</P>
+<CLOSER><SIGNED>Iohannes Hansley.</SIGNED></CLOSER>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>
+

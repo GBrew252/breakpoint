@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="3">An elegy on the death of the Queen written by Peter Gleane.</TITLE><AUTHOR>Gleane, Peter, Sir, 1672 or 3-1735?</AUTHOR></TITLESTMT><EXTENT>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2008-09 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A42841</IDNO>
+
+
+<IDNO TYPE="stc">Wing G848</IDNO>
+
+<IDNO TYPE="stc">ESTC R21668</IDNO>
+
+<IDNO TYPE="eebo citation">12180432</IDNO>
+
+<IDNO TYPE="oclc">ocm 12180432</IDNO>
+
+<IDNO TYPE="vid">55631</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A42841)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 55631)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 762:14)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="3">An elegy on the death of the Queen written by Peter Gleane.</TITLE><AUTHOR>Gleane, Peter, Sir, 1672 or 3-1735?</AUTHOR></TITLESTMT><EXTENT>4 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for Sam. Heyrick, and are to be sold by J. Whitlock ...,</PUBLISHER>
+<DATE>1695.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2007-08</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2007-09</DATE><RESPSTMT><RESP>Apex CoVantage</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2007-10</DATE><RESPSTMT><RESP>Emma (Leeson) Huber</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2007-10</DATE><RESPSTMT><RESP>Emma (Leeson) Huber</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2008-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A42841">
+<STC T="W">G848</STC>
+<BIBNO T="oclc">12180432</BIBNO>
+<VID>55631</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<P><PB REF="1"/><!-- PDF PAGE 15 -->
+AN ELEGY ON THE DEATH OF THE QUEEN. Written by <HI>Peter Gleane,</HI> Gent.</P>
+<P><TEXT>
+<BODY>
+<DIV1 TYPE="license">
+<P>Licensed, </P>
+<CLOSER><DATE><HI>February</HI> 18<HI>th,</HI> 1694/5.</DATE><SIGNED>D. Poplar.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT> </P>
+<P><HI>LONDON:</HI> Printed for <HI>Sam. Heyrick,</HI> and are to be Sold by <HI>J. Whitlock,</HI> near <HI>Stationers-Hall.</HI> M DC XCV.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB REF="2"/><!-- PDF PAGE 16 -->
+<PB N="3" REF="2"/><!-- PDF PAGE 16 -->
+<HEAD>AN ELEGY.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>COnvuls'd with Grief, whilst Nature's Organs strain,</L>
+<L>At last I'm forc'd to breath a Vein;</L>
+<L>Or break it must with what it can't contain▪</L>
+<L>A Vein Elegiack, I mean,</L>
+<L>A Flood of Tributary Verse,</L>
+<L>Sacred, and fitted to Rehearse</L>
+<L><HI>Britannia</HI>'s Fate,</L>
+<L>And from its Date</L>
+<L>The like Convulsions in the Church and State.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L><HI>Albion!</HI> Unhappy Isle! what thou hast lost</L>
+<L>Defies the Richest Ages to repair;</L>
+<L>A <HI>Queen</HI> that Buoy'd thy sinking Honour up,</L>
+<L>Who whilst She held the Regal Chair,</L>
+<L>Suckl'd thy Hectick Church and State,</L>
+<L>Both Languid grown and Ripe for Fate:</L>
+<L>She! Great by Nature, Birth, and Education,</L>
+<L>O'er look'd the Envy of thy Pievish Nation;</L>
+<L>Yet Lov'd thee so,</L>
+<L>And Pity'd too,</L>
+<L>As to disturb her solid Ease,</L>
+<L>With Anxious Cares about thy Peace</L>
+<L>Her Gen'rous Soul was always bent</L>
+<L>About the Peaceful Arts of Government;</L>
+<L>And when th' unhappy Exigence</L>
+<L>Of War Recall'd her Royal Consort hence;</L>
+<L>Above the Reason of her Sex,</L>
+<L>She Taught the Board a Scheme of Politicks,</L>
+<L>When to Resolve, How to Debate;</L>
+<L>And where to bound Reason of State:</L>
+<L>The want of which, and which alone,</L>
+<L>Has Widowed many a Realm,</L>
+<L>And Emptied many a Throne.</L>
+</LG>
+<LG N="3">
+<PB N="4" REF="3"/><!-- PDF PAGE 17 -->
+<HEAD>III.</HEAD>
+<L>Whilst this Incomparable Lady stood,</L>
+<L>Blest with a Natural Delight in Good;</L>
+<L>She could not pass Religion by,</L>
+<L>But Understood, and Kend that too,</L>
+<L>And Lov'd, and Practis'd what she knew:</L>
+<L>Those that have her Devotion seen,</L>
+<L>Thought her an Abbess, not a Queen:</L>
+<L>And as she could to Heaven Bow,</L>
+<L>She could be humble to her Subjects too,</L>
+<L>Great and not Proud, Affable and not Base,</L>
+<L>All o'er Decorum, All o'er Grace;</L>
+<L>Never were Virtues so well fix'd,</L>
+<L>Never Passions so well mix'd,</L>
+<L>Never Nature so alloy'd,</L>
+<L>So well temper'd, so employ'd,</L>
+<L>That 'twill be difficult to find</L>
+<L>Amongst th' Inferiour Sex behind,</L>
+<L>So Great a Soul, and so Sedate a Mind.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>If these Conspicuous Virtues could Revoke,</L>
+<L>And Pray'rs could Intercept a high Decree,</L>
+<L>Or stop the Sin-born Monster's stroke;</L>
+<L>Those Balmy Orisons which went,</L>
+<L>Dear Saint! in Hecatombs to Heaven for thee,</L>
+<L>From Pious Prelates most familiar there,</L>
+<L>Must needs have chang'd Divine Assent,</L>
+<L>And kept thee here</L>
+<L>To Crown us many a happy Year.</L>
+<L>But all the Incense, all the Suppliant Oils,</L>
+<L>From City Altars, and from Rural Piles,</L>
+<L>From Prelates Censers too the Vows which we</L>
+<L>Put up when <HI>Albion</HI> was one Censory;</L>
+<L>Although they were our All,</L>
+<L>Were too too small</L>
+<L>A Bidding for the fix'd Decree.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>But now the Fatal Signal's giv'n,</L>
+<L>The complicated Evil's join'd;</L>
+<L>She took the best Viaticum for Heaven,</L>
+<L>And then lay down,</L>
+<L>Her Life resign'd,</L>
+<L>With that Serenity of Mind</L>
+<L>With which she took the Crown:</L>
+<L>Stript into naked Spirit, up she Climb</L>
+<L>From all this muddy Continent of Time,</L>
+<L>By Angels Guarded from new Fears,</L>
+<L>Wrapt in a Cloud of Balmy Dew,</L>
+<L>Leaving her Kingdoms drown'd in Tears,</L>
+<L>Away to Heaven She flew.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

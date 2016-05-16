@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">More knaues yet? The knaues of spades and diamonds. With new additions.</TITLE><AUTHOR>Rowlands, Samuel, 1570?-1630?</AUTHOR></TITLESTMT><EXTENT>Approx. 52 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2005-12 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A68679</IDNO>
+
+
+<IDNO TYPE="stc">STC 21392.3</IDNO>
+
+<IDNO TYPE="stc">ESTC S121856</IDNO>
+
+<IDNO TYPE="eebo citation">99857018</IDNO>
+
+<IDNO TYPE="proquest">99857018</IDNO>
+
+<IDNO TYPE="vid">22678</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A68679)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 22678)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1475-1640 ; 858:10, 1780:15)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">More knaues yet? The knaues of spades and diamonds. With new additions.</TITLE><AUTHOR>Rowlands, Samuel, 1570?-1630?</AUTHOR></TITLESTMT><EXTENT>[48] p. : ill. (woodcuts)  </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>[Printed by Edward Allde for John Tap,</PUBLISHER>
+<DATE>1613?]</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Dedication signed: Samuel Rowlands.</NOTE><NOTE>In verse.</NOTE><NOTE>Title page in red and black.</NOTE><NOTE>Imprint below "London" cropped in most complete known copy; remainder supplied by STC.</NOTE><NOTE>Signatures: A-F⁴.</NOTE><NOTE>Vertical chain lines.</NOTE><NOTE>Identified as STC 21392 on UMI microfilm reel 858.</NOTE><NOTE>Reproductions of the original in the Henry E. Huntington Library and Art Gallery.</NOTE><NOTE>Appears at reel 858 and at reel 1780 (same copy filmed twice).</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2005-08</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2005-08</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2005-09</DATE><RESPSTMT><RESP>Andrew Kuster</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2005-09</DATE><RESPSTMT><RESP>Andrew Kuster</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2005-10</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A68679">
+<STC T="S">21392.3</STC>
+<BIBNO T="umi">99857018</BIBNO>
+<VID>22678</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>More Knaues yet.</P>
+<P>The Knaues of Spades
+and <HI>Diamonds.</HI></P>
+<P>With new Additions.</P>
+<P><FIGURE>
+</FIGURE></P>
+<P>LONDON</P>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>THE EPISTLE TO
+any Man, but especially
+to Fooles and
+Mad-men.</HEAD>
+<L>FOR custome sake, and for no other cause,</L>
+<L>Seeing ensample Imitation drawes,</L>
+<L>I am content to vse a Dedication,</L>
+<L>Which shall be framed of a new-found fashion,</L>
+<L>Not vnto this, or that, great mighty Lord,</L>
+<L>To flatter what his bounty will affoord,</L>
+<L>Nor vnto such a rare and worthy Knight,</L>
+<L>To praise him farre beyond his worships right.</L>
+<L>Nor to this Maddam, and the tother Lady,</L>
+<L>My freeborne Muse is <GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>o such seruile baby,</L>
+<L>I will not fawne with Matchlesse, valorous,</L>
+<L>Rarely renown'd, diuine Ingenious;</L>
+<L>Admired wonder, Map of clemency,</L>
+<L>Applauded, lauded magnanimity,</L>
+<L>The <HI>Mercurie</HI> of perfect eloquence,</L>
+<L>True spheare of bountie and Magnificence:</L>
+<L>The feirce and cruell warre God at the sharpe:</L>
+<L><HI>Appollo's</HI> better on the Lute and Harpe.</L>
+<L><PB REF="3"/>
+Olde <HI>Hector's</HI> ouer-match at Pike and Launce,</L>
+<L>Disgrace to <HI>Inno</HI> for a stately daunce,</L>
+<L>The very <HI>Nonesuch</HI> of true courtesie,</L>
+<L>A Treasurer to liberallity,</L>
+<L>No, I will call men by their owne names thus:</L>
+<L>To the prophane and gracelesse impious,</L>
+<L>To carelesse creatures brutishly inclynd;</L>
+<L>To humane shape, possest with deuils mind.</L>
+<L>To wretched worldling, either he or shee:</L>
+<L>To fooles and mad-men, such as most men bee.</L>
+<L>To them that ne're will thanke me for my paine:</L>
+<L>And such of whome I doe expect no gaine.</L>
+<CLOSER><SIGNED>Samuel Rowlands.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="3"/>
+<HEAD>The Knaues, of Spades and Diamonds.</HEAD>
+<L>OVR fellow <HI>Harts</HI> did late Petition frame</L>
+<L>To Cardmakers, some better sutes to claime.</L>
+<L>And for vs all, did speake of all our wrongs:</L>
+<L>Yet they to whome redresse her ein belongs</L>
+<L>Amend it not, and little hope appeares.</L>
+<L>I thinke before the Conquest many yeares,</L>
+<L>We wore the fashion which we still retaine:</L>
+<L>But seeing that our sute is spent in vaine,</L>
+<L>Weele mend our selues as meanes in time doth grow,</L>
+<L>Accepting what some other friends bestow,</L>
+<L>As now the honest Printer hath beene kinde,</L>
+<L>Bootes, and Stockings, to our Legs doth finde</L>
+<L>Garters, Polonia Heeles, and Rose Shooe strings,</L>
+<L>Which somewhat vs two Knaues in fashion brings.</L>
+<L>From the Knee downeward, Legs are well amended,</L>
+<L>And we acknowledge that we are befreinded;</L>
+<L>And will requite him for it as we can:</L>
+<L>A knaue sometime may serue an honest man,</L>
+<L>To doe him pleasure, such a chance may fall,</L>
+<L>Although indeed no trust in knaues at all.</L>
+<L>He that must vse them, take this rule from mee,</L>
+<L>Still trust a knaue no further then you see.</L>
+<L><PB REF="4"/>
+Well, other friends I hope we shall beseech</L>
+<L>For the great large abhominable breech</L>
+<L>Like Brewers Hopsacks: yet since new they be</L>
+<L>Each knaue will haue them, and why should not we</L>
+<L>Some Laundresse we also will entreat,</L>
+<L>For Bands and Ruffes, which kindnes to be great</L>
+<L>We will confesse, yea and requite it too,</L>
+<L>In any seruice that poore knaues can doe,</L>
+<L>Scarffes we do want to hang our weapons by,</L>
+<L>If any puncke will deale so courteously,</L>
+<L>As in the way of fauour to bestow-them,</L>
+<L>Rare cheating trickes we will protest to owe them.</L>
+<L>Or any pander with aring in seare,</L>
+<L>That is a gentleman (as he doth sweare)</L>
+<L>And will affoord vs hats of newest blocke,</L>
+<L>A paire of Cards shall be his trade and stocke,</L>
+<L>To get his liuing by for lacke of Lands,</L>
+<L>Because he scornes to ouerworke his hands,</L>
+<L>And thus ere long we trust we shall be fitted,</L>
+<L>Those knaues that cannot shift, are shallow witted.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="4"/>
+<P><FIGURE>
+</FIGURE></P>
+<L>The Knaue of <HI>Diamonds</HI> promised before,</L>
+<L>That he would be for Sea, and <HI>Spade</HI> for Shore.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>Neptunes owne Knauery.</HEAD>
+<LG>
+<L>THe <HI>Ocean</HI> Monarch <HI>Neptune,</HI> in whose Pallace,</L>
+<L><HI>Thetis,</HI> with all her <HI>Mermaids</HI> made abode:</L>
+<L>Mounted the crooked <HI>Dolphin</HI> for his solace,</L>
+<L>And from his Court vnto the Shore he rode,</L>
+<L>Where he encounterd with his lustfull eyes,</L>
+<L>A richer beauty then was <HI>Paris</HI> prize.</L>
+</LG>
+<LG>
+<L><HI>Caneus,</HI> sweetest faire <HI>Thessalian</HI> mayd,</L>
+<L>Her did his lust with rauishment defile:</L>
+<L>As <HI>Tarquin</HI> delt with <HI>Lucrese,</HI> so he play'd.</L>
+<L>The <HI>Dolphin</HI> was his pander: all the while,</L>
+<L>To <HI>Iupiter</HI> shee did lament the rape:</L>
+<L>And he transform'd her into manly shape.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="5"/>
+<HEAD>The Picture of a Pirat.</HEAD>
+<LG>
+<L>MY dwelling is vpon the raging waues,</L>
+<L>My house by stormes is tost and carried still:</L>
+<L>My seruants are a crew of theeuish Knaues,</L>
+<L>To <HI>Neptunes</HI> rage I Tennant am at will,</L>
+<L>My Neighbours are the Monsters of the Seas:</L>
+<L>The great Leuiathan, and worse then these.</L>
+</LG>
+<LG>
+<L>My life is spent in all outragious euils,</L>
+<L>Vertue abhors the place of my abode:</L>
+<L>My Ship is man'd euen with Incarnate deuils,</L>
+<L>My heart (with <HI>Dauid's</HI> foole) denies a God,</L>
+<L>And those same lawes (they say) he gaue to men:</L>
+<L>My lawlesse nature keepes not one of ten.</L>
+</LG>
+<LG>
+<L>When for a time I haue run on my race,</L>
+<L>As former Pirates, my vngratious Fellowes:</L>
+<L>I must expect a fatall dying place:</L>
+<L>And make account to Anker at the Gallowes:</L>
+<L>There like a Swan, to sing my dying hower,</L>
+<L>That liu'd a Rauen, onely to deuoure.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="5"/>
+<HEAD>To a Reprobate Pirat that hath renounced
+Christ and is turn'd Turke.</HEAD>
+<L>THou wicked lumpe of onely sin, and shame,</L>
+<L>(Renouncing Christian faith &amp; Christian name)</L>
+<L>A villaine, worse then he that Christ betray'd,</L>
+<L>His Maister, for Gods Son, he ne're denay'd,</L>
+<L>But did confesse him Iust and Innocent,</L>
+<L>When with his bribe backe to the Priests he went.</L>
+<L>Thou that art worse then deuils, they confest</L>
+<L>Christ was the Son of God, thou Hellish Beast,</L>
+<L>That hast liu'd cursed Theife vpon the Seas,</L>
+<L>And now a Turke on shore dost take thine ease,</L>
+<L>Like a deuouring monster in a den,</L>
+<L>All that thou hast, being spoyles of other men.</L>
+<L>Thou that doest serue both Turke, and deuill so well,</L>
+<L>Thou seek'st to draw (as they doe) soules to Hell,</L>
+<L>Hauing a garment ready in thy hall,</L>
+<L>For him that next from Christian Faith doth fall,</L>
+<L>Receiue this warning from thy natiue Land;</L>
+<L>Gods fearefull Iudgements (villaine) are at hand.</L>
+<L>Deuils attend, Hell fier is prepar'd:</L>
+<L>Perpetuall flames is reprobates Re-ward.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="6"/>
+<HEAD>The Fox taken, comming to take.</HEAD>
+<L>STrange is the strife, where Sathan is deuided,</L>
+<L>Two theeues would haue a true mans cause decided</L>
+<L>Betweene them twaine, for taking him at Seas,</L>
+<L>Or else they swore each other to displease.</L>
+<L>One would haue all the ready Coyne was found</L>
+<L>For boarding first, were it ten thousand pound;</L>
+<L>And then the other goods, equall diuide:</L>
+<L>Quoth tother, first ile sincke euen by thy side.</L>
+<L>So too't they goe with fierce and cruell fight,</L>
+<L>Vntill the one of them was sonke downe right,</L>
+<L>And tother had his men euen almost slaine:</L>
+<L>And those sore wounded, did aliue remaine,</L>
+<L>With that the prisoners being in the prize,</L>
+<L>For their recouery, with themselues deuise,</L>
+<L>And of a manly resolution, fall</L>
+<L>Vpon the Pirats, and subdue them all.</L>
+<L>Recouering that sea-losse they had before,</L>
+<L>So brought them kindly to be hang'd a shore.</L>
+<L>And the old ancient Prouerbe true did make,</L>
+<L>Some Fox is taken when he comes to take.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="6"/>
+<HEAD>Like will to Like.</HEAD>
+<L>SEa Theife, and Land Theife, met by accident,</L>
+<L>Vpon the way: and so consorted went,</L>
+<L>Vnto a Towne, where they together Inne:</L>
+<L>There talke in what great dangers they haue bin,</L>
+<L>And in their cups comparisons did make:</L>
+<L>Which of them did most danger vndertake.</L>
+<L>I (quoth purse-taker) that doe liue a Land,</L>
+<L>Prepare my foes to fight, in bidding stand,</L>
+<L>Drawing my weapon like a Martiall man,</L>
+<L>Hauing no woodden wals to hide me than,</L>
+<L>And creepe into a Cabbin from a shot:</L>
+<L>Quoth tother, slaue, my goods is manlier got</L>
+<L>A thousand times, then such night-crowes and Owles,</L>
+<L>That lurke in bushes, like hedge-creeping fowles,</L>
+<L>And cowardly vpon a man will set:</L>
+<L>Through fire and water I my liuing get,</L>
+<L>By thundring shot and stormy raging seas,</L>
+<L>When thou wilt picke a pocket at thine ease.</L>
+<L>Pocket (quoth he) and stabs him sodainly:</L>
+<L>Tother againe with ponyard did reply,</L>
+<L>Each charging th'other for an arrant theife.</L>
+<L>So Constable came in, and to be breife,</L>
+<L>Wapping, and Tyburne chaunc'd to be their ends:</L>
+<L>And so the hangman made them quiet friends.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="7"/>
+<HEAD>Lightly come, Lightly goe.</HEAD>
+<L>CAptaine, ti's we do make things cheape or deare,</L>
+<L>As by our peny-worths it doth appeare.</L>
+<L>A yard with vs is iust in length a pike:</L>
+<L>To buy silkes so, what man is't will dislike,</L>
+<L>Or say we vse our customers amisse?</L>
+<L>Your London measure (friends) comes short of this,</L>
+<L>Bee't three pile Veluet, Sattin, Taffaty,</L>
+<L>A Souldiers Pike's the Ell we measure by.</L>
+<L>Thus much for Mercers: next for Grocers trade,</L>
+<L>Our weight is like vnto our measure made,</L>
+<L>Our pound's a Cannon bullet, good downe waight,</L>
+<L>In Spice, or Suger, this is no deceit.</L>
+<L>Then for our wines (the squeaking Vintners Art)</L>
+<L>WE can affoord them for a penny a quarte.</L>
+<L>Yea fill yon pintes euen by the bucket full,</L>
+<L>But how can this be, saith some simple gull,</L>
+<L>That neuer trauail'd out of Bow bell sound?</L>
+<L>Marry Sim-simple heare and stand thy ground.</L>
+<L>That which we haue, we steale from friends and foes,</L>
+<L>It comes good cheape, and so good cheape it goes.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="7"/>
+<HEAD>When theeues fall out true men come
+by their goods.</HEAD>
+<L>WHen theeues fall out, it hath bin often known,</L>
+<L>True men by their contention get their own.</L>
+<L>A sharing sort, extreamely did fall out</L>
+<L>For true mens goods, they long had been about</L>
+<L>At seas (a theeuing) and being come a shore:</L>
+<L>Some had too much, and others claimed more.</L>
+<L>So 'mongst them all there was extreame adoe,</L>
+<L>For that which none of them had right vnto.</L>
+<L>To law they durst not goe about their claime,</L>
+<L>Fearing 'twould out how they had got the same.</L>
+<L>So in a furie euen as hot as fier:</L>
+<L>To fight it out in field they had desire.</L>
+<L>And being met in strange tumultuous sort:</L>
+<L>Great companies to see them did resort,</L>
+<L>Who (after many wounds) do part the fray:</L>
+<L>And carry those that doe the burt away.</L>
+<L>They that were wounded made account to dye,</L>
+<L>And therefore told the truth most willingly,</L>
+<L>Of this contention how the quarrell grew:</L>
+<L>So true men got their owne, and theeues their due.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="8"/>
+<HEAD>All's Fish that comes to net.</HEAD>
+<L>THese damned Dice (I thinke) if truth were known,</L>
+<L>Are made of diuels horne, or Diues bone.</L>
+<L>Aboue a hundred pound I lost last night,</L>
+<L>But woe to them that next appeare in sight:</L>
+<L>For whome they are, or whence so e're they bee,</L>
+<L>My money double and their deaths Ile see.</L>
+<L>Bring me a Canne of wine boy, quickly lad,</L>
+<L>Put in Gun-powder, for ile drinke me mad.</L>
+<L>Get cords and sticks to turne about their braines:</L>
+<L>They'le ne're confesse vnlesse a man take paines,</L>
+<L>And wring it out of them euen in despight:</L>
+<L>Or burne their fingers ends with candle light.</L>
+<L>Where they haue hid their money they'le denie:</L>
+<L>What mercy to such villaines, that will lie</L>
+<L>To gentlemen like we, that ventrous winne,</L>
+<L>And haue no other trade of comming in?</L>
+<L>I make asmuch account to kill a flea,</L>
+<L>As rob my father if we meet at sea.</L>
+<L>Be who it will, a stranger or my brother:</L>
+<L>Conscience is one thing, stealing is another.</L>
+<L>As Constables forget their friends in watch:</L>
+<L>So weele know no man, when his goods we catch.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="8"/>
+<HEAD>False Knaues will neuer be true.</HEAD>
+<L>TWo wicked villaines of the cursed crue,</L>
+<L>Did vow to be vnto each other true;</L>
+<L>In all they got vpon the high way side,</L>
+<L>What ere it was, most equall to diuide.</L>
+<L>Remaining sharers thus, too well they sped,</L>
+<L>Till one of them fell sicke and kept his bed.</L>
+<L>The partner theife, then took the trade alone,</L>
+<L>And desp'ratly did venter, fearing none.</L>
+<L>As phrase is vsd, without both feare or wit,</L>
+<L>Many bold robberies he did commit,</L>
+<L>And scapt them all, but yet with many a wound,</L>
+<L>Meane time the other was recouered sound:</L>
+<L>And comes to question with his fellow theefe,</L>
+<L>Acquainting him with wants and money griefe:</L>
+<L>Demanding of him by their league and vow,</L>
+<L>The halfe that he had gotten to allow,</L>
+<L>For fellow (saith he) we are bound by oath,</L>
+<L>To share all purchase equall twixt vs both.</L>
+<L>Tis true (quoth tother) Ile not be forsworne,</L>
+<L>To breake my promise with thee, I do scorne.</L>
+<L><PB REF="9"/>
+So drawes a Bag of mony, and his sword,</L>
+<L>And sayes behold, I meane to keepe my word,</L>
+<L>There's halfe the mony for thee thou dost craue,</L>
+<L>And come and take thee halfe the wounds I haue▪</L>
+<L>We will be halfes aswell in th'one as th'other,</L>
+<L>Ile bate you not a scar, good Theefe sworne brother,</L>
+<L>When he had heard his resolution thus,</L>
+<L>Pray' Iudas (quoth he) keepe the Bagge for vs,</L>
+<L>Share wounds, I like not, thou maist sheath thy blade▪</L>
+<L>Weele haue a Scriuener, when next match is made.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>Curelesse, and Carelesse.</HEAD>
+<L>IN cruell stormes at Sea, and great distresse.</L>
+<L>The rage of Neptune seeming mercilesse,</L>
+<L>Ship-wracke expected, each man full of greife,</L>
+<L>A desp'rate fellow fell to eate salt Beefe:</L>
+<L>Feeding so greedy that the rest admir'd,</L>
+<L>And what might moue him therevnto requir'd?</L>
+<L>Marry (quoth he) you see we must be drown'd,</L>
+<L>And I doe feede vpon salt Meat, thus sound,</L>
+<L>As the best victuals to cause thirst, Ithinke.</L>
+<L>For we in Sea shall haue but too much drinke.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="9"/>
+<HEAD>One good turne asketh another.</HEAD>
+<L>ONe put a iest on's wife, (whose name I show not)</L>
+<L>To try her wit or pacience, which, I know not.</L>
+<L>Walking together, they a wench did meet,</L>
+<L>A proper one, of beautie passing sweet,</L>
+<L>Of whome, vnto his wife (my loue he said)</L>
+<L>Behold and note well yonder dainty Maid,</L>
+<L>She was my Mistris ere I met with thee,</L>
+<L>A kinder creature I did neuer see,</L>
+<L>So affable and gentle in her louing,</L>
+<L>That of her like I neuer had the prouing,</L>
+<L>But she hath one exceeding imperfection,</L>
+<L>Neglecting euen her credit's chiefe protection:</L>
+<L>For, what we wantons, euer did amisse,</L>
+<L>She told her Mother, euen to a kisse.</L>
+<L>Husband (quoth she) that proues your wench a foole,</L>
+<L>My selfe am better taught in Venus Schoole,</L>
+<L>For ere I met with you, I lou'd yong-men,</L>
+<L>And we had meetings too like Cocke and Hen:</L>
+<L>But I was neuer such a seely asse</L>
+<L>To tell my Mother what good sport did passe:</L>
+<L>Troth wife (quoth he) I hope you do but iest:</L>
+<L>Husband (said she) because plaine dealing's best,</L>
+<L>If you meane earnest, or your selfe belye,</L>
+<L>Iust in the humor you are, so am I.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="10"/>
+<HEAD>Like Maister like Man.</HEAD>
+<L>TWo Seruing-men, or rather two men seruers.</L>
+<L>(For vnto God they were but ill deseruers,)</L>
+<L>Conferd together kindly, Knaue, with Knaue,</L>
+<L>What fitting Maisters, for their turnes they haue▪</L>
+<L>Mine (quoth the one) is of a bountious sprite,</L>
+<L>And in the Tauerne will be drunke all night:</L>
+<L>Spending most lauishly he knowes not what,</L>
+<L>But I haue wit to make good vse of that.</L>
+<L>Mine (quoth the tother) loues to drinke carowse▪</L>
+<L>And is for Tauerne and for bawdy house.</L>
+<L>For if he meet a whoore that's to his mind,</L>
+<L>No money parts them, oh hee's pockey kind,</L>
+<L>He hath some humors very strange and odde:</L>
+<L>As euery day at Church, and ne're serue God</L>
+<L>With secret hidden vertues otherwayes,</L>
+<L>As often on his knees, yet neuer prayes,</L>
+<L>Quoth tother how dost proue this obscure talke?</L>
+<L>Why man he haunts the Church, that's <HI>Paules</HI> to walke,</L>
+<L>And for his often being on the knee,</L>
+<L>Tis drinking healths, as drunken humors be.</L>
+<L><PB REF="10"/>
+It's passing good (I doe protest) quoth tother,</L>
+<L>I thinke thy maister be my maisters brother,</L>
+<L>For sure in qualities they may be kinne:</L>
+<L>Those very humors he is daily in,</L>
+<L>For drinking healths, and being churched so,</L>
+<L>They cheeke by iowle, may with each other goe,</L>
+<L>But pre thee let vs two in loue goe drinke,</L>
+<L>And on these matters, for our profit thinke,</L>
+<L>To handle such two maisters, turne vs loose,</L>
+<L>Sheare thou the sheepe, and I will plucke the goose.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>To the olde yong Man.</HEAD>
+<L>TH'art old and graue, and onely fit for graue,</L>
+<L>And hast all griefes that aged gray ones haue,</L>
+<L>Deafe eares, blind eyes, the palfie, gout, and mur,</L>
+<L>And cold would kill thee but for fire and fur.</L>
+<L>Yet thou dost hate to heare of old and weake,</L>
+<L>And of thy end wilt neither thinke or speake,</L>
+<L>Nor measure life by length of <HI>Dauids</HI> span,</L>
+<L>But wilt be held a strong and lusty man,</L>
+<L>Well, since thy age of youth doth loue to lye,</L>
+<L>Ile say th'art yong (in grace) to learne to dye.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="11"/>
+<HEAD>The Country cunning Man.</HEAD>
+<L>STand backe you figure stingers, and giue place,</L>
+<L>Here's goodman Gosling will you all disgrace.</L>
+<L>You that with heauen's 12. houses deale so hie,</L>
+<L>You oft want chambers for your selues to lie.</L>
+<L>Wise Gosling, did but heare the scrich-owle crie,</L>
+<L>And told his wife, and straight a pigge did die.</L>
+<L>Another time, (after that scuruie Owle)</L>
+<L>When Ball his Dog at twelue a clocke did howle,</L>
+<L>He iogd his wife, and ill lucke Madge did say,</L>
+<L>And Fox by morning stole a Goose away.</L>
+<L>Besides he knowes foule weather, raine or haile,</L>
+<L>Euen by the wagging of his dun Cowes taile.</L>
+<L>When any Theeues, his Hens and Duckes pursew,</L>
+<L>He knowes it by the Candles burning blew.</L>
+<L>Or if a Rauen cry iust o're his head,</L>
+<L>Some in the Towne haue lost their maiden head.</L>
+<L>For losse of Cattell, and for fugitiues,</L>
+<L>Heele find out with a Siue, and rustie kniues.</L>
+<L>His good daies are when's Chaffer is well sold,</L>
+<L>And bad daies when his wife doth braule and scold.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="11"/>
+<HEAD>To the Saint in shew, and Deuill in practise.</HEAD>
+<L>THou best of all men, for thy outside praise,</L>
+<L>Yet worst of all men as thy inside faies,</L>
+<L>That like a Tradesmans ware vpon his stall,</L>
+<L>Sets out the good, to vtter bad withall.</L>
+<L>Thou doest abhor all swearing (and dost well)</L>
+<L>Yet for thy gaine a lie wilt smoothly tell.</L>
+<L>Thou hat'st a drunkards vice (which hate is good)</L>
+<L>Yet wilt deceiue, pretending Brother-hood.</L>
+<L>Thou doest condemne the Prodigals expence,</L>
+<L>Yet wilt embrace the Vsurers offencè,</L>
+<L>And in a word thou think'st it may suffice,</L>
+<L>If thou canst maske thy sins from humane eies,</L>
+<L>Consorting with the vertuous and most ciuill,</L>
+<L>Like <HI>Iobs</HI> audacious, bold and saucie deuill:</L>
+<L>Who compassing the earth (soules to molest)</L>
+<L>Amongst the Sons of God, stood with the best:</L>
+<L>How euer thou dost thinke thy faults obscure,</L>
+<L>And mak'st account to be estee med pure,</L>
+<L>There is an eye that no man can delude,</L>
+<L>Such hypocrites, from mercie will exclude.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="12"/>
+<HEAD>The Country Cormorant.</HEAD>
+<L>WIfe 'tis the onely yeare since we were borne,</L>
+<L>To make vs rich by hording vp our corne,</L>
+<L>I heare rare newes, the markets rise apace:</L>
+<L>The world will mend if this hold out a space.</L>
+<L>Within my barne is that must bring in Gold,</L>
+<L>Wheat, Rie, and Barlie will be brauely sold.</L>
+<L>Let these same hungry needy Rats and Myce</L>
+<L>Famish, I care not, I will haue my price,</L>
+<L>And let spice conscience fellows talke their fill,</L>
+<L>Mine owne's mine owne, to vse it as I will:</L>
+<L>Shall I be taught to buie and sell by any?</L>
+<L>No, Ile make profit to the vtmost penny,</L>
+<L>Let our sir <HI>Domine</HI> preach peace and plenty,</L>
+<L>And let me sell my wheat by bushell at twenty,</L>
+<L>For all his prating I not care a fig,</L>
+<L>I know he will not loose a tything pig,</L>
+<L>Nor will I let aduantage slip away:</L>
+<L>If this yeare (wife) proue not as I doe say,</L>
+<L>Ile take a halter and go hang me then.</L>
+<L>Let all that hate a villaine, say, Amen.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="12"/>
+<HEAD>Patience Perforce.</HEAD>
+<L>A Quiet man (to wrath and anger slow)</L>
+<L>Match'd with a queane (a most she-deuill shrow)</L>
+<L>That kept him in obedience with her fist,</L>
+<L>To doe, or leaue vndone, euen what she list.</L>
+<L>Vpon a time (choller growne very hot,</L>
+<L>Against the haire) a broken pate he got,</L>
+<L>But patiently wore night cap sickeman like,</L>
+<L>And vow'd a woman he would neuer strike,</L>
+<L>Being content to pocket that abuse,</L>
+<L>And keepe true manhood for a better vse.</L>
+<L>A friend met with him, and demanded why</L>
+<L>He wore a linnen cap so pensiuely?</L>
+<L>Alas (quoth he) sorrow doth much offend,</L>
+<L>My wife's so ill I feare she n'ere will mend,</L>
+<L>No Doctor that will vndertake her cure,</L>
+<L>For greife where of great head-ache I endure.</L>
+<L>And had besides a flux of blood of late</L>
+<L>To thinke vpon her desperate estate:</L>
+<L>Shee's sencelesse growne, and will no reason heare,</L>
+<L>And so will lie long on my hand I feare.</L>
+<L><PB REF="13"/>
+When the fit comes she is outragious mad,</L>
+<L>Oh tis an old disease her mother had,</L>
+<L>Runs through the blood, because t'was bred i'th bone,</L>
+<L>But here's my comfort, I am not alone:</L>
+<L>Diuers my Neighbours I doe vnderstand,</L>
+<L>Haue wiues with like diseases on their hand,</L>
+<L>Whose fits they must endure as I doe mine,</L>
+<L>Which makes me beare my crosse with lesse repine.</L>
+<L>A Doctor that did view her vrine late,</L>
+<L>Hath thus describ'd her desperate estate,</L>
+<L>She hath a female frenzie in the braine,</L>
+<L>Her tongue the curelesse palsie doth containe,</L>
+<L>In speach growne sencelesse, reason doth abhor it,</L>
+<L>Her heart is heart-burn'd, there's no cooling for it:</L>
+<L>Her stomacke full of choller, corrupt gall,</L>
+<L>Her fingers, fists, and nailes, rancke venim all,</L>
+<L>No potion, nor no pill, can do her good,</L>
+<L>Sweet gentle Doctor Death come let her blood.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>Tobacco carted to Tyburne.</HEAD>
+<L>A Fleming late that kild one with a knife,</L>
+<L>Carried by cart to end his wretched life,</L>
+<L><PB REF="13"/>
+Toward <HI>Tibur<GAP DESC="illegible" REASON="blotted" EXTENT="2 letters" DISP="••"/></HI> riding did <HI>Tobacco</HI> take,</L>
+<L>(To purge his head against his heeles did shake.)</L>
+<L>But I durst lay ten pounds to twenty shilling,</L>
+<L>To take his purge no wise-man will be willing:</L>
+<L>Though Englishmen are apt for imitation,</L>
+<L>Yet Maisters, let the Dutchman keepe his fashion:</L>
+<L>For howsoere it with his liking stood,</L>
+<L>The smoaking did his choaking little good.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>To smokey Noses, and stinking Nostrils.</HEAD>
+<L>GReat <HI>Iupiter</HI> being at a solemne feast</L>
+<L>With all the Gods, <HI>Vulcan</HI> that sootie beast,</L>
+<L>A Pipe of his Tabacco fell to drinke:</L>
+<L><HI>Venus</HI> displeas'd, said fye sweet loue you stinke,</L>
+<L>And I am sure that <HI>Iuno</HI> you offend:</L>
+<L>Neither will <HI>Pallas</HI> hold you for her friend,</L>
+<L><HI>Ceres</HI> will say the fume will blast her corne,</L>
+<L>And <HI>Floraes</HI> flowers such lothsome smell <GAP DESC="illegible" REASON="blotted" EXTENT="1 word" DISP="〈◊〉"/> scorne,</L>
+<L>Put vp your pipe, smoke here no more you <GAP DESC="illegible" REASON="blotted" EXTENT="1 word" DISP="〈◊〉"/></L>
+<L>The very steeme makes <HI>Mars</HI> his armor rust,</L>
+<L>And cloudes <HI>Appolloe's</HI> glorious sun-bright face,</L>
+<L><HI>Saturne</HI> you see spits at it in disgrace,</L>
+<L><PB REF="14"/>
+What rhume's in <HI>Bacchus</HI> eyes, how red they looke?</L>
+<L>How long ist loue since you Tobacco tooke?</L>
+<L>Marry (quoth he) late sitting on my trough,</L>
+<L>(With that he whift till all the Gods cry'd fough)</L>
+<L>Came a young deuill of th'infernall nation,</L>
+<L>And brought me that with <HI>Plutoes</HI> commendation.</L>
+<L>And said, to drinke with me he had desire,</L>
+<L>Because I traded like to him with fire.</L>
+<L>Now they drinke neither wine, nor ale, nor beare,</L>
+<L>But fire, and stinke, and smoke, as this is here.</L>
+<L>When <HI>Ioue</HI> heard this, well <HI>Vulcan</HI> (quoth he) well,</L>
+<L>For shame let vs distinguish Heauen from Hell.</L>
+<L>Cast hence your rowle, and your Tobacco ball:</L>
+<L>Or else with thunder ile destroy it all,</L>
+<L>My lightning shall consume it from your Nose,</L>
+<L>With that from Heauen Mercury it throwes,</L>
+<L>And downe amongst the Blackamores it lights:</L>
+<L>Whome <HI>Ioues</HI> wing'd Herald did suppose were sprites.</L>
+<L>So by that error they Tobacco got,</L>
+<L>And fell to smoke it very burning hot,</L>
+<L>As common and frequent with euery Moore,</L>
+<L>As with th'infernall furies t'was before.</L>
+<L>Not long fire drinking was at their dispose,</L>
+<L>But that the smell came to the Spaniards Nose,</L>
+<L><PB REF="14"/>
+And he would teach his braine some smother too;</L>
+<L>French, Dutch, Italian, they the like would doe:</L>
+<L>But th'English to disgrace them all did striue,</L>
+<L>His Nose should smoke with any Nose aliue.</L>
+<L>Thus like an ill weed that growes fast, 'tis come,</L>
+<L>To stinke in Nostrils throughout Christendome,</L>
+<L>So that of most it may be truely spoke,</L>
+<L>Their tongues yeeld idle breath, their Noses smoke.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>To beggerly Contention.</HEAD>
+<L>GOose late sude goose, for goodman Ganders land,</L>
+<L>And Fox the Lawyer tooke the cause in hand:</L>
+<L>Whose long demurs, and new delaies together,</L>
+<L>Left both of them in th'end not worth a feather.</L>
+<L>Then being brought as poore, as poore might be:</L>
+<L>Fooles they fell out, and beggers thus agree;</L>
+<L>Each tooke a man, to end their idle brawle,</L>
+<L>Who made them friends when Fox had finger'd all.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="15"/>
+<HEAD>To a Domesticall Cowardly Coxcombe.</HEAD>
+<L>IT saues thy head from many a bloudy knocke,</L>
+<L>To play the Hen and let thy wife turne Cocke,</L>
+<L>Thou dar'st not chide, thy wife hath tongue at will,</L>
+<L>Thou dar'st not fight, thy wife hath Fencers skill,</L>
+<L>Thou dar'st not speake, if she dislike thy speech,</L>
+<L>Thou dar'st do nothing, she hath won the breech.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>On an ill Conscience.</HEAD>
+<L>THe wicked wretch whom inward guilt doth sting,</L>
+<L>Most trembling hearted fearing euery thing,</L>
+<L>He feareth God, for God's his enemy,</L>
+<L>Sathan he feares to be tormented by,</L>
+<L>He feares all creatures 'gainst him will assemble,</L>
+<L>He feares himselfe, himselfe doth make him tremble.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>To Machiauill the Deuils Statesman.</HEAD>
+<L>TO thee that art impos'd of villanie,</L>
+<L>The Deuils States-man for all trecherie.</L>
+<L><PB REF="15"/>
+That art of that religion beares most sway,</L>
+<L>A Papist now, a Protestant next day,</L>
+<L>Or any thing with any man for gaine:</L>
+<L>That canst all humors flatt'ring entertaine,</L>
+<L>To please the world, that it may pleasure thee,</L>
+<L>Iust fashon'd as incarnate Deuils bee,</L>
+<L>With gluttons, <HI>Diues:</HI> murderers, a <HI>Caine:</HI></L>
+<L>With Theeues, an <HI>Achan:</HI> and with <HI>Indas</HI> traine,</L>
+<L>A false and bloody vile <HI>Iscariot,</HI></L>
+<L>That wilt be brib'd to any damned plot.</L>
+<L>With <HI>Corah's</HI> crew, murmuring malecontent,</L>
+<L>Grudging at Maiestrate, and gouernment,</L>
+<L>To thee that in thy life deny'st saluation,</L>
+<L>A wilfull worker of thine owne damnation,</L>
+<L>Know that thy howers doe hasten on to death,</L>
+<L>And that a Deuill at thy parting breath,</L>
+<L>Will find that soule, which thou deny'st to haue,</L>
+<L>And all thy life thou did'st neglect to saue.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>To Mr. Mony-bag the Vsurer.</HEAD>
+<L>THat riches swell the heart, it seemes by thee,</L>
+<L>For th'art as bold with God as wretch may bee,</L>
+<L><PB REF="16"/>
+Who in more fearefull case hath euer bin,</L>
+<L>Then he that stoutly dar<GAP DESC="illegible" REASON="faint" EXTENT="1 letter" DISP="•"/>s dispute a sin.</L>
+<L>Gods law endures no change nor alteration,</L>
+<L>It is not formed after humane fashion.</L>
+<L>That which he once decrees remaineth still,</L>
+<L>He that hath said thou shalt not steale, nor kill,</L>
+<L>Blaspheme his name, commit adultery:</L>
+<L>That dreadfull God prohibites vsury,</L>
+<L>There is no place in all his sacred Booke,</L>
+<L>Doth tollerate that int'rest may be tooke,</L>
+<L>Yet thou dost hold it a good christian trade,</L>
+<L>And very honest gaines thereby is made,</L>
+<L>Tis but gratuitie that men doe giue:</L>
+<L>And were it not there's thousands could not liue.</L>
+<L>Well ten j'th hundred, th'ast a friend in hell,</L>
+<L>Tis thought he got his mony eu'n aswell.</L>
+<L>For tis not said he liu'd vpon his land,</L>
+<L>Or got his wealth by any Tradesmans hand,</L>
+<L>Or that he was a Marchant, none of these,</L>
+<L>But he was onely rich, and tooke his ease.</L>
+<L>And who more easie gathers riches then</L>
+<L>The Churle that gaines by sweat of other men?</L>
+<L>Yet to the poore that pyning mourn'd and wept,</L>
+<L>He was more dogged then the Dogs he kept,</L>
+<L><PB REF="16"/>
+For they lickt sores when he deny'd his cromes:</L>
+<L>But when the ender of all mortalls comes,</L>
+<L>Pale Death, and brings the deuill for his due,</L>
+<L>To carry thee vnto the howling crew,</L>
+<L>Then shalt thou cry with horrors fearefull sound,</L>
+<L>Oh wearie waies on earth I wretch haue found,</L>
+<L>The Sun of righteousnes yeelds me no grace;</L>
+<L>Come hils and hide me from the Iudges face,</L>
+<L>Whose heauie wrath and iust incensed ire,</L>
+<L>Hath sentenc'd me to euerlasting fire.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>To complement the dissembling Counterfait.</HEAD>
+<L>A Smooth-tongu'd fellow of our Citty fashion,</L>
+<L>That with what lacke you? giues his salutation:</L>
+<L>And fleering fawnes, and fawning flatterers all,</L>
+<L>Claim'd quaintance of a country-man at's stall,</L>
+<L>Demaunding how his friends and neighbours fare,</L>
+<L>And if he wanted any of his ware?</L>
+<L>The Country fellow by the fist did take him,</L>
+<L>And in plaine rusticke manner did beshake him,</L>
+<L>He leaues the hand, and giues him the embrace,</L>
+<L>Aboue the Knees, the Thighes, and pissing place,</L>
+<L><PB REF="17"/>
+Sir, saies the clowne forbeare, it is enough,</L>
+<L>You once deceiu'd me in a piece of stuffe,</L>
+<L>Which makes me thinke the world is wondrous grown</L>
+<L>In outward trickes, to that which I haue knowne.</L>
+<L>The time hath beene, on tearmes men did not stand,</L>
+<L>But bargaines held, with shaking by the hand,</L>
+<L>Now in the armes we doe embrace each other,</L>
+<L>And in the heart false Knauery doe smother,</L>
+<L>Well Citizen, friend Tradesman, and so forth,</L>
+<L>Your kindnes is scarsce God a mercy worth:</L>
+<L>I like a handfull of old loue and true,</L>
+<L>Better then these whole armefuls of your new.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>Harme watch, Harme catch.</HEAD>
+<L>OF late when <HI>Boreas</HI> blustring blasts had blowne</L>
+<L>Down mighty trees, &amp; chimnies tops orethrown:</L>
+<L>In th'interim of this fierce combustious weather,</L>
+<L>A Tyler and a Surgion met together,</L>
+<L>Whose congees past, and salutations don,</L>
+<L>The Tylers further speach he thus begun:</L>
+<L>This wind he saith blowes profit still to mee,</L>
+<L>In liew whereof, two pots ile giue to thee,</L>
+<L><PB REF="17"/>
+The motions lik'd, and so they passe the street,</L>
+<L>Till with a painted Lattis they doe meet,</L>
+<L>The sounding well they like, so in they went,</L>
+<L>And budge not till the Tylers pots were spent,</L>
+<L>When comming forth with sage and sober gate,</L>
+<L>Downe drops a Tyle vpon the Tylers pate,</L>
+<L>Who seeing the bloud run downe his cheekes amaine,</L>
+<L>Amaz'd he cryed that he was almost slaine.</L>
+<L>The Surgion hauingh's box of plasters there:</L>
+<L>Straight stancht the blood to put him out of feare,</L>
+<L>And saith withall, twas more then he did know,</L>
+<L>The selfe same wind to him should profit blow,</L>
+<L>But seeing I was beholding to the aire:</L>
+<L>In liquid substance you shall haue a share,</L>
+<L>So in againe they goe, and twixt them twaine,</L>
+<L>They dranke out part of what they hope to gaine.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>To all Londons Naballs.</HEAD>
+<L>LIke to the body of some carion beast,</L>
+<L>Whereon the Rauens and the Crows doe feast,</L>
+<L>So is't with churlish misers when they die,</L>
+<L>To share their goods their friends and kinsfolks hye,</L>
+<L><PB REF="18"/>
+Who rifle chests and ransacke bags of gold:</L>
+<L>When they with <HI>Diues</HI> are in deuils hold.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>On vaine and curious Monuments.</HEAD>
+<L>WHat trust of future praise in sencelesse stones,</L>
+<L>Containing rotten and worme-eaten bones?</L>
+<L>What doe the gazers on report, but this?</L>
+<L>Faire Monument wherein fowle carcase is.</L>
+<L>Vertue dies not, her fame her selfe will raise:</L>
+<L>Let them trust Tombs that haue out-liu'd their praise.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>Of a wicked Maiestrate.</HEAD>
+<L>A Wicked Maiestrate is like to those</L>
+<L>That shoot at birds in pieces and stone-bowes,</L>
+<L>As with one eye their leuell they attaine,</L>
+<L>So tother wincke at faults, and shoot at gaine.</L>
+<L>For if a bribe doe entertainment find,</L>
+<L>Iustice must feele, because her eyes be blind.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="18"/>
+<HEAD>To a Gentleman foole.</HEAD>
+<L>THou boasts of scutchions, armes, &amp; high descent,</L>
+<L>That on fooles legges euen from thy cradle went.</L>
+<L>What credite to an idiot will arise,</L>
+<L>To heare him say he had a father wife?</L>
+<L>What honour can from Ancestor proceed</L>
+<L>To foole his son, that ne're did vertuous deed?</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>The Picture of a Swagerer.</HEAD>
+<L>A Bedlam looke, shag haire, and staring eyes,</L>
+<L>Horse coursers tongue, for oths and damned lies,</L>
+<L>A Pickt-hatch paire of pockey limping legs,</L>
+<L>And goes like one that sees in shackles begs.</L>
+<L>A Nose that smoketh with Tobacco still,</L>
+<L>Stinking as lothsome as doth Hecla hill.</L>
+<L>His fist with hang-mans fire-worke closely fild,</L>
+<L>His itching backe with Bridewell medicine kild,</L>
+<L>His Rapier pawn'd, that borrowed which he weares,</L>
+<L>And dares not see a Sergeant for his eares.</L>
+<L><PB REF="19"/>
+His richest ware-house is a greasie pocket,</L>
+<L>And two pence in Tobacco still doth stocke it,</L>
+<L>His bootes that keepe his legs from nakednesse,</L>
+<L>Holding a paire of stockins but excesse)</L>
+<L>Came to him from a friend that late did dye,</L>
+<L>Being indeed a Tyburne legacie.</L>
+<L>For there they cap'red to their owners paine,</L>
+<L>And there he meanes to bring them backe againe.</L>
+<L>Which showes some conscience in the cursed crew,</L>
+<L>That will not cheate the hangman of his due.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>To the Deuils Secretarie.</HEAD>
+<L>HOw can a man refraine but he must laugh,</L>
+<L>To see old birds deceiu'd and caught with chaffe?</L>
+<L>This age hath beene by such experience taught,</L>
+<L>A man would thinke no Conie could be caught.</L>
+<L>VVho will be drawne at Dice and Cards to play,</L>
+<L>VVith one he meets as stranger on the way,</L>
+<L>And be fetch'd in for all that's in his purse,</L>
+<L>Except some franticke madman, foole, or worse?</L>
+<L>I pitty not such asses, I haue knowne</L>
+<L>To borrow mony when th'aue lost their owne,</L>
+<L><PB REF="19"/>
+To feed a cheater in his rogish play,</L>
+<L>Yea from their backs haue pawn'd their cloaks away,</L>
+<L>Such rather ought with shame to be derided,</L>
+<L>That of their wits haue been so ill prouided,</L>
+<L>Nor such as will in secret (like close Foxes)</L>
+<L>Be guld with these same gold and counter boxes,</L>
+<L>Made both as like in fashion and in show,</L>
+<L>As those are like to fooles, are cousned so.</L>
+<L>For when they thinke they haue good gold in pawne,</L>
+<L>On which some twentie pounds away is drawne,</L>
+<L>Viewing the lyning of the box within,</L>
+<L>They find but copper Counters, lead, or tinne.</L>
+<L>But roome for one that thinkes his art far better,</L>
+<L>The deuils secretarie with his letter,</L>
+<L>And tels you he is sent from such a friend,</L>
+<L>For certaine mony he entreats you lend,</L>
+<L>And for assurance, shews the parties hand,</L>
+<L>Whereby his meaning you may vnderstand.</L>
+<L>Or with acquittance, else to you he's sent</L>
+<L>From such a Lord or Lady, for some rent,</L>
+<L>Hauing their hands so cunning counterfait,</L>
+<L>Many are wronged with most false deceit.</L>
+<L>But <HI>Plutoe's</HI> pen-man you did late mistake</L>
+<L>The deuils errand for your Maisters sake,</L>
+<L><PB REF="20"/>
+To bring a letter in a Maltmans name</L>
+<L>Vnto a Brewer, twenty pounds to claime.</L>
+<L>Such customers they neuer will abide,</L>
+<L>The deuils Malt is filthy ouer-dride:</L>
+<L>It stincks of Brimstone, bad for beere and ale,</L>
+<L>As you by this <GAP DESC="illegible" REASON="blotted" EXTENT="1 word" DISP="〈◊〉"/> stincke in Newgate Iayle.</L>
+<L>Where we will leaue you till the Cart do call,</L>
+<L>To ride vp Holborneto the Hangmans Hall,</L>
+<L>To be made free, after some howers swing,</L>
+<L>To cheate, to cosen, to doe any thing.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>To a Gormondizing Glutton.</HEAD>
+<L>ONe like to <HI><GAP DESC="illegible" REASON="blotted" EXTENT="1 word" DISP="〈◊〉"/></HI> for a monstrous eater,</L>
+<L>Or rather of a glutton somewhat greater,</L>
+<L>Inuited was vnto a Gentleman,</L>
+<L>Who long'd to see the fame Hungarian,</L>
+<L>And note his feeding: being set to dinner,</L>
+<L>A leg of Mutton was the first beginner.</L>
+<L>Next he deuoured vp a loyne of Veale,</L>
+<L>Vpon foure Capons then his teeth did deale.</L>
+<L>And sent them downe into his pudding house,</L>
+<L>So tooke the cup, and drinking a carowse,</L>
+<L><PB REF="20"/>
+Fell to his Rabe<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>s, and dispatching foure,</L>
+<L>Some wisht him choakt that he might eat no more.</L>
+<L>After all this he tooke bake't-meats in hand,</L>
+<L>And spared nothing did before him stand.</L>
+<L>The Gentleman then tooke a bowle of wine,</L>
+<L>And drinking to his guest (the filthy swine)</L>
+<L>Said, you are welcome sir, I pray you eate,</L>
+<L>Me thinks your stomacke doth not like my meate,</L>
+<L>I thanke you sir (quoth he) for your good will,</L>
+<L>But all last night I haue been very ill,</L>
+<L>And that's the cause my stomacke is but small,</L>
+<L>When I am well ile make amends for all.</L>
+<L>If this be thy sicke feeding, shame require thee,</L>
+<L>When thou art well the deuill shall inuite thee.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>Fooles and Babes tell true.</HEAD>
+<L>TWo friends that met would giue each other wine,</L>
+<L>And made their entrance at next bush and signe,</L>
+<L>Calling for Clarret, which they did agree,</L>
+<L>(The season hot) should qualified bee</L>
+<L>With water and sugar, so the same being brought,</L>
+<L>By a new boy in Vintners trickes vntaught.</L>
+<L><PB REF="21"/>
+They bad him quickely bring faire water in,</L>
+<L>Who lookt as strange as he amaz'd had been.</L>
+<L>Why dost not stirre (quoth they) with nimble feete?</L>
+<L>Cause Gentlemen (said he) it is not meet</L>
+<L>To put in too much water in your drinke,</L>
+<L>For there's enough alreadie, sure I thinke:</L>
+<L><HI>Richard</HI> the drawer, by my troth I vow,</L>
+<L>Put in great store of water euen now.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>To Madam Maske or Francis Fan.</HEAD>
+<L>WHen Conq'ring <HI>William</HI> had subdu'd this Land,</L>
+<L>Saue onely <HI>Kent,</HI> which opposite did stand,</L>
+<L>On tearmes of antient priuiledge they held,</L>
+<L>The <HI>Norman</HI> Prince, with all his troops in field,</L>
+<L>In great amazement on a suddaine stood,</L>
+<L>To see (as seem'd to him) a walking wood,</L>
+<L>For Kentish-men came marching all with bowes,</L>
+<L>To offer peace, if he their sute allowes,</L>
+<L>If not, to fight it out with manly blowes,</L>
+<L>Before their Priuiledges they would lose.</L>
+<L>Like wandring wood, as did that time appeare,</L>
+<L>May now be met withall in euery Sheire,</L>
+<L><PB REF="21"/>
+Women are vp in armes on euery side,</L>
+<L>About a priuiledge they claime in pride.</L>
+<L>Brauing it out with woods vpon their backes,</L>
+<L>Except the Husband his poore Tenant rackes,</L>
+<L>And deales extreamely in the hardest manner,</L>
+<L>There is no peace, but with the bloudy banner,</L>
+<L>They sound defiance and domesticke warre,</L>
+<L>Such Peacocke-tailes proud foolish women are.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>Or thus.</HEAD>
+<L>WHen men amazed at their busines stood,</L>
+<L>A speech was vsed; Faith I am in a wood:</L>
+<L>To make an end of that same wooden phrase,</L>
+<L>There's order taken for it now a daies,</L>
+<L>To cut downe wood with all the speed they can,</L>
+<L>Transforming trees to maintaine Maske and Fan,</L>
+<L>So that the former speech being errour tryed,</L>
+<L>A new way turn'd it must be verified.</L>
+<L>My Ladies worship euen from head to foot,</L>
+<L>Is in a wood (nay scarse two woods will doo't)</L>
+<L>To such a height <HI>Lucifers</HI> sinne is growne,</L>
+<L>The deuill, pride, and Maddam, are all one.</L>
+<L><PB REF="22"/>
+Rents raisd, woods sold, house-keeping laid aside,</L>
+<L>In all things sparing for to spend on pride.</L>
+<L>The poore complaining Country thus doth say,</L>
+<L>Our Fathers lopt the boughs of trees away;</L>
+<L>We that more skill of greedy gaine haue found,</L>
+<L>Cut downe the bodies leuill with the ground.</L>
+<L>The age that after our date shall succeed,</L>
+<L>Will dig vp roots and all, to serue their need.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>A hote Contention.</HEAD>
+<L>A Controuersie there did happen late,</L>
+<L>Where strangers met about a hot debate,</L>
+<L>Which I hope (Reader) ne're shall trouble vs:</L>
+<L>A sweating thing, cald <HI>Morbus Gallicus,</HI></L>
+<L>The Frenchman swore they did his Nation wrong</L>
+<L>That said the pox did vnto them belong,</L>
+<L>Giuing it nick names by the tearme of French,</L>
+<L>As though no other had the fault to wench.</L>
+<L>For he would proue to the Italians face,</L>
+<L>That it was borrow'd from their stocke and race.</L>
+<L>Th'Italian look'd vpon him sterne and grim,</L>
+<L>And said the Spaniard had it before him,</L>
+<L><PB REF="22"/>
+Threatning the Frenchman for his lying sin,</L>
+<L>The pox, or he, would pull his Beard from's Chin.</L>
+<L>The Spaniard vow'd he manifest could show,</L>
+<L>He fetch'd it from the Indies long ago.</L>
+<L>When first they went for Gold and Siluer <GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>hether,</L>
+<L>They brought home mettall, and the pox together.</L>
+<L>At length came certaine English, Scots, and Dutch.</L>
+<L>Who hearing their contention grow so much,</L>
+<L>Would take vpon them an arbitterment</L>
+<L>To make all friends, so vnto cups they went,</L>
+<L>Powring in wine, taking Tobacco so,</L>
+<L>Vpon them all the Frenchman did bestow</L>
+<L>His pockey kindnes, which doth so appeare,</L>
+<L>That none can boasting say, his Nations cleare.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>Of Ghoasts and Goblins.</HEAD>
+<L>IN old wines daies, that in old time did liue.</L>
+<L>(To whose odde tales much credit men did giue)</L>
+<L>Great store of Goblins, Fairies, Bugs, Night-mares,</L>
+<L>Vrchins, and Elues, to many a house repaires.</L>
+<L>Yea far more Sprites did haunt in diuers places.</L>
+<L>Then there be women now weare deuils faces.</L>
+<L><PB REF="23"/>
+Amongst the rest was a good fellow deuill,</L>
+<L>So cal'd in kindnes, cause he did no euill,</L>
+<L>Knowne by the name of Robin (as we heare)</L>
+<L>And that his eyes as broad as sawcers were,</L>
+<L>Who came<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/> nights and would make Kitchins cleane,</L>
+<L>And in the bed bepinch a lazie queane.</L>
+<L>Was much in Mils about the grinding Meale,</L>
+<L>(And sure (I take it) taught the Miller steale)</L>
+<L>Amongst the Creame-bowles &amp; Milke-pans would be,</L>
+<L>And with the Country wenches, who but he</L>
+<L>To wash their dishes for some Fresh-cheese hire:</L>
+<L>Or set their Pots and Kettles 'bout the fire.</L>
+<L>Twas a mad Robin that did diuers pranckes,</L>
+<L>For which with some good cheare they gaue him thāks,</L>
+<L>And that was all the kindnes he expected,</L>
+<L>With gaine (it seemes) he was not much infected.</L>
+<L>But as that time is past, that Robin's gone,</L>
+<L>He and his night-mates are to vs vnknowne,</L>
+<L>And in the steed of such good-fellow Sprites,</L>
+<L>VVe meet with Robin-bad-fellow a nights,</L>
+<L>That enters houses secret in the darke,</L>
+<L>And onely comes to pilfer, steale, and sharke,</L>
+<L>And as the one made Dishes cleane (they say)</L>
+<L>The other takes them quite and cleane away.</L>
+<L><PB REF="23"/>
+What ere it be that is within his reach,</L>
+<L>The filching tricke he doth his fingers teach.</L>
+<L>But as good fellow-Robin had reward,</L>
+<L>With Milke and Creame that friends for him prepar'd,</L>
+<L>For being busie all the night in vaine,</L>
+<L>(Though in the morning all things safe remaine:)</L>
+<L>Robin-bad-fellow wanting such a supper,</L>
+<L>Shall haue his breakfast with a Rope and Butter.</L>
+<L>To whcih let all his fellowes be invited:</L>
+<L>That with such deeds of darknesse are delighted.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="24"/>
+<HEAD>The Seauen deadly Sins all Horst and
+riding to Hell.</HEAD>
+<LG N="1">
+<HEAD>1</HEAD>
+<L>THus rides to Hell the seauen deadly sins,</L>
+<L>The deuill leads, and <HI>Pride</HI> the way begins,</L>
+<L>Mounted vpon a Lyon, sterne of face,</L>
+<L>Of surley carriage, and as proud a pace.</L>
+<L>Ambitious, hauty, of vaine-glorious mind,</L>
+<L>To vaunting and presumptuous thoughts inclin'd,</L>
+<L>Boasting of beauty, riches, kindred, friends:</L>
+<L>Which like a bubble in a moment ends.</L>
+</LG>
+<LG N="2">
+<HEAD>2</HEAD>
+<L><HI>Lust</HI> on a Goat afrer her sister <HI>Pride,</HI></L>
+<L>The selfe same iourney doth consorted ride.</L>
+<L>Rich in attire, all outward lures to sin:</L>
+<L>Full of diseases, and the pox within.</L>
+<L>Seducing fooles by her bewitching charmes</L>
+<L>To buy destruction, with soules endlesse harmes.</L>
+<L>Which sorrow out of season oft bewailes,</L>
+<L>When vnrepentant sin of mercie failes.</L>
+</LG>
+<LG N="3">
+<PB REF="24"/>
+<HEAD>3</HEAD>
+<L><HI>Wrath</HI> on a Bore, (incens'd by furious mood)</L>
+<L>With case of Rapiers drawne, and dyed in blood,</L>
+<L>All cholericke, not caring what he speakes:</L>
+<L>Nor whome he hurts, nor how the peace he breakes:</L>
+<L>Vpbraiding all men of a diuelish hate,</L>
+<L>Still quarrelling, and wilfull obstinate,</L>
+<L>And euer of a damned resolution,</L>
+<L>To put his cruell rage in execution.</L>
+</LG>
+<LG N="4">
+<HEAD>4</HEAD>
+<L><HI>Couetousnes</HI> doth backe an Elephant,</L>
+<L>He of his wealth and mony still doth vaunt,</L>
+<L>And counts his poore (though honest) neighbour base,</L>
+<L>(Although farre richer then himselfe in grace)</L>
+<L>God he neglecteth for the loue of gold,</L>
+<L>His soule for money euery day is sold,</L>
+<L>To scrape and get his care is night and day,</L>
+<L>And in a moment Death takes all away.</L>
+</LG>
+<LG N="5">
+<HEAD>5</HEAD>
+<L><HI>Gluttonie</HI> mounted on a greedy Beare,</L>
+<L>To belly-cheere and banquets lends his eare:</L>
+<L>Though by excesse he finds diseases breeding,</L>
+<L>Yet his insatiate gut is euer feeding.</L>
+<L>With abstinence he neuer can agree:</L>
+<L>And shunnes the dinner where no gluttons bee.</L>
+<L><PB REF="25"/>
+An Epicure, inhumane, brutish beast,</L>
+<L>That pampers flesh, and of his soule thinkes least.</L>
+</LG>
+<LG N="6">
+<HEAD>6</HEAD>
+<L><HI>Enuie</HI> vpon a Woolfe; his inside gall,</L>
+<L>And neuer smiles, except at some mans fall,</L>
+<L>Hates equals, scornes superiours, loueth none,</L>
+<L>Ne're wisheth good but to himselfe alone.</L>
+</LG>
+<LG N="7">
+<HEAD>7</HEAD>
+<L><HI>Sloath</HI> on an Asse, with heauie pace behind,</L>
+<L>Of lumpish body, and as drowsie mind,</L>
+<L>Inclin'd to onely ease and idlenesse,</L>
+</LG>
+<LG>
+<L>Makes vp the seauenth for the Deuils messe.</L>
+<L>The Knaues are delt, the Game is plaid,</L>
+<L>And with this wish concludeth <HI>Spade:</HI></L>
+<L>I would all Knaues who ere they bee,</L>
+<L>Were knowne by sight as well as wee.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="25"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

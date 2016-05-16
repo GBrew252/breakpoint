@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The curtaine drawne, or, The Parliament exposed to view the names of the members yet living of both houses of Parliament forceably secluded by the army in 1648, or since excluded by a few of their fellow members, confirming that force which they formerly disowned.</TITLE><AUTHOR>Prynne, William, 1600-1669.</AUTHOR></TITLESTMT><EXTENT>Approx. 30 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2003-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A56152</IDNO>
+
+
+<IDNO TYPE="stc">Wing P3935</IDNO>
+
+<IDNO TYPE="stc">ESTC R21828</IDNO>
+
+<IDNO TYPE="eebo citation">12361779</IDNO>
+
+<IDNO TYPE="oclc">ocm 12361779</IDNO>
+
+<IDNO TYPE="vid">60267</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A56152)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 60267)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 222:20)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The curtaine drawne, or, The Parliament exposed to view the names of the members yet living of both houses of Parliament forceably secluded by the army in 1648, or since excluded by a few of their fellow members, confirming that force which they formerly disowned.</TITLE><AUTHOR>Prynne, William, 1600-1669.</AUTHOR></TITLESTMT><EXTENT>8 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for Henry Brome ...,</PUBLISHER>
+<DATE>1659.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Caption title.</NOTE><NOTE>Attributed to William Prynne. Cf. BM.</NOTE><NOTE>Imprint from colophon.</NOTE><NOTE>Reproduction of original in Harvard University Libraries.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>England and Wales. --  Parliament.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2002-04</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2002-05</DATE><RESPSTMT><RESP>SPi Global</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2002-06</DATE><RESPSTMT><RESP>Emma (Leeson) Huber</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2002-06</DATE><RESPSTMT><RESP>Emma (Leeson) Huber</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2002-07</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A56152">
+<STC T="W">P3935</STC>
+<BIBNO T="oclc">12361779</BIBNO>
+<VID>60267</VID>
+</IDG>
+<TEXT>
+<BODY>
+<DIV1 TYPE="text">
+<PB N="1" REF="1"/>
+<HEAD>THE CURTAINE DRAWNE, Or the Parliament exposed to view. The Names of the Members yet living of both Houses of Parliament forceably secluded by the Army in 1648. or since excluded by a few of their fellow Members, confirming that force which they formerly disowned.</HEAD>
+<DIV2 TYPE="part">
+<LIST>
+<HEAD>The House of Peeres Earles.</HEAD>
+<ITEM>The Earle of <HI>Northumberland.</HI></ITEM>
+<ITEM>The Earle of <HI>Rutland.</HI></ITEM>
+<ITEM>The Earl<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> of <HI>Pembrock.</HI> and s<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>tting as Commons</ITEM>
+<ITEM>The Earle of <HI>Saulsbury,</HI> and s<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>tting as Commons</ITEM>
+<ITEM>The Earle of <HI>Warwick.</HI></ITEM>
+<ITEM>The Earle of <HI>Exeter.</HI></ITEM>
+<ITEM>The Earle of <HI>Lincolne.</HI></ITEM>
+<ITEM>The Earle of <HI>Nottingham,</HI></ITEM>
+<ITEM>The Earle of <HI>Manchester.</HI></ITEM>
+<ITEM>The Earle of <HI>Denbigh.</HI></ITEM>
+<ITEM>The Earle of <HI>Oxford.</HI></ITEM>
+<ITEM>The Earle of <HI>Bridgwater.</HI></ITEM>
+<ITEM>The Earle of <HI>Elgi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>.</HI></ITEM>
+<ITEM>The Earle of <HI>Winchelsey.</HI></ITEM>
+<ITEM>The Earle of <HI>Dorset.</HI></ITEM>
+<ITEM>The Earle of <HI>Middlesex.</HI></ITEM>
+</LIST>
+<LIST>
+<HEAD>Viscounts.</HEAD>
+<ITEM>The Lord <HI>Viscount.</HI> Say and Seale.</ITEM>
+<ITEM>The Lord <HI>Viscount Conway.</HI></ITEM>
+</LIST>
+<LIST>
+<HEAD>Barons.</HEAD>
+<ITEM>The Lord <HI>Gray</HI> of <HI>Warke.</HI></ITEM>
+<ITEM>The Lord <HI>Dacres.</HI></ITEM>
+<ITEM>The Lord <HI>North.</HI></ITEM>
+<ITEM>The Lord <HI>Roberts.</HI></ITEM>
+<ITEM>The Lord <HI>Montague.</HI></ITEM>
+<ITEM>The Lord <HI>Wharton.</HI></ITEM>
+<ITEM>The Lord <HI>Barckley.</HI></ITEM>
+<ITEM>The Lord <HI>Brook.</HI></ITEM>
+<ITEM>The <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ord <HI>Rochford.</HI></ITEM>
+<ITEM>The Lord <HI>Daincourt,</HI></ITEM>
+<ITEM>The Lord <HI>Stanbose.</HI></ITEM>
+<ITEM>The Lord <HI>Maynard.</HI></ITEM>
+<ITEM>The Lord <HI>Craven.</HI></ITEM>
+</LIST>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Of the House of Commons.</HEAD>
+<LIST>
+<HEAD>Bed<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ordsheire.</HEAD>
+<ITEM><LIST>
+<HEAD> Knight.</HEAD>
+<ITEM>Sir <HI>Roger Burg<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>yne.</HI></ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM>Sir <HI>B<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>achamp Saint Iohn.</HI> </ITEM>
+<ITEM>Sir <HI>Samuell Luke.</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Buckinghamsheire.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM>Major Generall <HI>Browne.</HI></ITEM>
+<ITEM><HI>William Drak.</HI> Esquire.</ITEM>
+<ITEM><HI>Francis Drak.</HI> Esquire.</ITEM>
+<ITEM><HI>Peregrin Hobby.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Barksheire<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Richard Winwood.</HI> Esquire.</ITEM>
+<ITEM><HI>Robert Packer.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Cornwell.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM><HI>Hugh. Buskawen.</HI></ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Thomas <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ewen.</HI> Esquire.</ITEM>
+<ITEM><HI>George K<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>kewich.</HI> Esquire.</ITEM>
+<ITEM><HI>Thomas Pouey.</HI> Esquire.</ITEM>
+<ITEM><HI>Fr<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ncis Hollis.</HI> Esquire.</ITEM>
+<ITEM><HI>Thomas Walller.</HI> Esquire.</ITEM>
+<ITEM><HI>Iohn Thomas.</HI> Esquire.</ITEM>
+<ITEM><HI>Iohn Thynne.</HI> Esquire.</ITEM>
+<ITEM><HI>Henry Willes.</HI> Esquire.</ITEM>
+<ITEM><HI>Iohn Arundell.</HI> Esquire.</ITEM>
+<ITEM><HI>Francis Buller.</HI> Esquir.</ITEM>
+<ITEM>Sir <HI>Thomas Tre<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>or.</HI></ITEM>
+<ITEM><HI>Iohn Carew.</HI> Esquire.</ITEM>
+<ITEM><HI>William Prynn.</HI> Esquire.</ITEM>
+<ITEM><HI>Lionell Copley.</HI> E<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>quire.</ITEM>
+<ITEM><PB N="2" REF="2"/>Mr. <HI>Tempell.</HI></ITEM>
+<ITEM><HI>Charles L. Car.</HI> Earle of <HI>An<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ram<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></HI></ITEM>
+<ITEM><HI>Richard Eris<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>y.</HI> Esquire.</ITEM>
+<ITEM><HI>William Pries<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ley.</HI> E<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>quire.</ITEM>
+<ITEM><HI>Thomas Dacres.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Cumberland.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM><HI>Richard Tolson.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Cambridgshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knights.</HEAD>
+<ITEM>Sir <HI>Dudly North.</HI></ITEM>
+<ITEM>Sir <HI>Francis Russell.</HI></ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Henry Lucas.</HI> Esquire.</ITEM>
+<ITEM><HI>Nathaniell Bacon.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Cheshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM>Sir <HI>George Booth.</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Chester Citty.</HEAD>
+<ITEM><LIST>
+<HEAD>Ci<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>t.</HEAD>
+<ITEM><HI>William Edward.</HI> Esquire.</ITEM>
+<ITEM><HI>Iohn Ratcliffe.</HI> Kecor<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/>.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Darbyshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM>Sir <HI>Iohn Curson.</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Devons<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knigh<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></HEAD>
+<ITEM><HI>William Morrice.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Citt.</HEAD>
+<ITEM><HI>Simon Sno<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM>Sir <HI>Iohn Young.</HI></ITEM>
+<ITEM><HI>Iohn Mainard.</HI> Serjant at Law.</ITEM>
+<ITEM>Sir <HI>Edmuud Powell.</HI></ITEM>
+<ITEM><HI>Edmund Powell.</HI> Esquire.</ITEM>
+<ITEM><HI>Eliez. Crimes.</HI> Esquire.</ITEM>
+<ITEM><HI>Charles Pim.</HI> Esquire.</ITEM>
+<ITEM>Sir <HI>Francis Drake.</HI> Baronelt.</ITEM>
+<ITEM><HI>Robert Shapcot.</HI> Esquire.</ITEM>
+<ITEM>Sir <HI>Io. Northcot.</HI> Kn. and Baronet.</ITEM>
+<ITEM><HI>Cha<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>les Vaughan.</HI> Esquire.</ITEM>
+<ITEM><HI>Edward Thomas.</HI> Esquire.</ITEM>
+<ITEM><HI>Samuell Browne.</HI> Serjant at Law.</ITEM>
+<ITEM><HI>Christopher Martin.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Dorsetshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>George Scutt.</HI> Esquire.</ITEM>
+<ITEM><HI>Denzell Hollis.</HI> Esquire.</ITEM>
+<ITEM>Sir <HI>Walter Earle.</HI> Knight.</ITEM>
+<ITEM><HI>Iohn Bond.</HI> D<SUP>r</SUP>. of Law.</ITEM>
+<ITEM><HI>Thomas Ceelie.</HI> E<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>quire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Essex</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM>Sir <HI>Harbo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>le Grimston.</HI></ITEM>
+<ITEM>Sir <HI>Iohn Clo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>worthy.</HI></ITEM>
+<ITEM><HI>Capel Luckin.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Gloucestershire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knigh<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></HEAD>
+<ITEM>Sir <HI>Iohn Seymer.</HI></ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Nathaniell Stephens.</HI> Esquire.</ITEM>
+<ITEM><HI>Edward Stephens.</HI> Esquire.</ITEM>
+<ITEM><HI>Iohn Stephens.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Huntingtonshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM><HI>Edward Montague.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>George Montague.</HI> Esqui<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Har<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>ordshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knights.</HEAD>
+<ITEM>Sir <HI>William Litton.</HI></ITEM>
+<ITEM>Sir <HI>Thomas Dacres.</HI></ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Richard Iennings.</HI> Esquire.</ITEM>
+<ITEM><HI>Edward Wingate.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Herefordshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM><HI>Edward Harly.</HI> E<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>quire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Hereford Citty.</HEAD>
+<ITEM><LIST>
+<HEAD>Citt.</HEAD>
+<ITEM><HI>Benet Hoskins.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+<ITEM><PB N="3" REF="2"/><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Robert Andrewes.</HI> Esquire.</ITEM>
+<ITEM><HI>Iohn Birch.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Kent.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM><HI>Iohn Boyes.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Thomas Twisdin.</HI> Serjant at Law.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Linc<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>nshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM>Sir <HI>Anthony Irby.</HI></ITEM>
+<ITEM><HI>William Wray.</HI> Esquire.</ITEM>
+<ITEM>Coll. <HI>Edward Rossiter.</HI></ITEM>
+<ITEM><HI>Thomas Hatcher.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Lancashire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knights.</HEAD>
+<ITEM>Sir <HI>Ralph Ashton.</HI></ITEM>
+<ITEM>Sir <HI>Richard Haughton.</HI></ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM>Sir <HI>Robert Benloes.</HI></ITEM>
+<ITEM>Coll. <HI>Robert Shuttleworth.</HI></ITEM>
+<ITEM><HI>Peter Brock.</HI> Esquire.</ITEM>
+<ITEM><HI>Richard Shuttleworth.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Middlesex.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM>Sir <HI>Gilbert Gerard.</HI> Baronet.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Westminster.</HEAD>
+<ITEM><LIST>
+<HEAD>Citt.</HEAD>
+<ITEM><HI>Iohn Glynne.</HI> Serjant at Law.</ITEM>
+<ITEM><HI>William Bell.</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>London.</HEAD>
+<ITEM><LIST>
+<HEAD>Citt.</HEAD>
+<ITEM>Sir <HI>Thomas Sonme.</HI></ITEM>
+<ITEM><HI>Samuell Vassall</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Monmouthshire. Northamptonshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>William</HI> Lord <HI>Fitzwilliams.</HI></ITEM>
+<ITEM>Sir <HI>Richard Nappier.</HI></ITEM>
+<ITEM><HI>Richard Knightley.</HI> Esquire.</ITEM>
+<ITEM><HI>Iohn Crew.</HI> Esquire.</ITEM>
+<ITEM>Sir <HI>Martin Lister.</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Norfolk.</HEAD>
+<ITEM><LIST>
+<HEAD>Knights.</HEAD>
+<ITEM>Sir <HI>Iohn Potts.</HI></ITEM>
+<ITEM>Sir <HI>Iohn Palgrave.</HI></ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM>Sir <HI>Iohn Holland.</HI></ITEM>
+<ITEM><HI>Iohn Spilman.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Northumberland.</HEAD>
+<ITEM><LIST>
+<HEAD>Knights.</HEAD>
+<ITEM>Sir <HI>Iohn Fennick.</HI></ITEM>
+<ITEM><HI>William Fennick.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Robert Ellison.</HI> Esquire.</ITEM>
+<ITEM><HI>Robert Scowen.</HI> Esquire.</ITEM>
+<ITEM><HI>Iohn Fienni<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Oxfordshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knights.</HEAD>
+<ITEM><HI>Thomas Viscount Wenman.</HI></ITEM>
+<ITEM><HI>Iames Fiennes.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Oxford Citty.</HEAD>
+<ITEM><LIST>
+<HEAD>Citt.</HEAD>
+<ITEM><HI>Iohn Dayly.</HI> Esquire.</ITEM>
+<ITEM><HI>Iohn Nixon.</HI> Alderman.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM>Sir <HI>Robert Pye.</HI></ITEM>
+<ITEM><HI>Nathaniell Fiennis.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Surrey.</HEAD>
+<ITEM><LIST>
+<HEAD>Knights.</HEAD>
+<ITEM>Sir <HI>Richard Onslow.</HI></ITEM>
+<ITEM>Sir <HI>Ambrose Browne.</HI></ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Iohn Eveling.</HI> Esquire.</ITEM>
+<ITEM><HI>Edward Bish.</HI> Esquire.</ITEM>
+<ITEM><HI>George Eveling.</HI> Esquire.</ITEM>
+<ITEM><HI>William Owfeild.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Staffordshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knght.</HEAD>
+<ITEM><HI>Iohn Bower.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+<ITEM><PB N="4" REF="3"/><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Iohn Swin<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>en.</HI> Esquire.</ITEM>
+<ITEM>Coll. <HI>Edward Leigh.</HI></ITEM>
+<ITEM><HI>Samuell Terrick</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Shropsheire</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM>Sir <HI>Iohn Corbet.</HI></ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Thomas Hunt.</HI> Esquire,</ITEM>
+<ITEM><HI>Robert Clives.</HI> Esquire.</ITEM>
+<ITEM><HI>William Pierpoint.</HI> Esquire.</ITEM>
+<ITEM><HI>Esay Thomas.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Southampton.</HEAD>
+<ITEM><LIST>
+<HEAD>Knights.</HEAD>
+<ITEM>Coll. <HI>Rich. Whitehead.</HI> Esquire.</ITEM>
+<ITEM>Coll. <HI>Richard Norton.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM>Sir <HI>Iohn Leigh.</HI></ITEM>
+<ITEM>Sir. <HI>Iohn Barrington.</HI></ITEM>
+<ITEM>Sir <HI>William W<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ller.</HI></ITEM>
+<ITEM><HI>Iohn Button.</HI> Esquire,</ITEM>
+<ITEM>Sir <HI>William Lewis.</HI></ITEM>
+<ITEM>Sir <HI>Henry Worsley.</HI></ITEM>
+<ITEM><HI>Iohn Bunckley.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Suffolke.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM>Sir <HI>Philip Parker.</HI> Knt.</ITEM>
+<ITEM><HI>Alexander Bence.</HI></ITEM>
+<ITEM><HI>Maurice Barrow.</HI> Esquire</ITEM>
+<ITEM>Sir <HI>Thomas Barnardiston.</HI></ITEM>
+<ITEM><HI>Francis Bacon.</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Somersetsheire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM><HI>George H<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>rner.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Bristoll Citty. <HI>00.</HI></HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Alexander Popham.</HI> Esquire.</ITEM>
+<ITEM>Coll. <HI>William Strode.</HI> Esquire.</ITEM>
+<ITEM><HI>Thomas Hodges</HI> Esquire.</ITEM>
+<ITEM><HI>Thomas Grove.</HI> Esquire.</ITEM>
+<ITEM><HI>William Carrent.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Sussex. <HI>00.</HI> Chishester. Citty.</HEAD>
+<ITEM><LIST>
+<HEAD>Citt.</HEAD>
+<ITEM>Sir <HI>Iohn Temple.</HI></ITEM>
+<ITEM><HI>Henry Peck.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Harbert Springe<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>.</HI> Esquire.</ITEM>
+<ITEM><HI>Arthur Onslow.</HI> Esquire.</ITEM>
+<ITEM><HI>Paul Ravenscroft.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Westmorland.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM><HI>Henry Laurence.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Wiltsheire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM><HI>Iames Harbert.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>William Wheeler.</HI> Esquire.</ITEM>
+<ITEM><HI>Edward Baynton.</HI> Esquire.</ITEM>
+<ITEM><HI>Thomas Moore</HI> Esquire.</ITEM>
+<ITEM>Sir <HI>Nevill Poole.</HI></ITEM>
+<ITEM><HI>Henry Hung<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>rford.</HI> Esquire.</ITEM>
+<ITEM>Sir <HI>Iohn Eveling.</HI></ITEM>
+<ITEM><HI>Walter Long.</HI> Esquire.</ITEM>
+<ITEM><HI>Edward Poole.</HI> Esquire.</ITEM>
+<ITEM>Major Gen. <HI>Edward M<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ssey</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Worcestersheire. <HI>00.</HI></HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Iohn Nash.</HI> Esquire.</ITEM>
+<ITEM><HI>Samuell Gardner.</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Warwicksheire. <HI>00</HI> Coventry.</HEAD>
+<ITEM><LIST>
+<HEAD>Citt.</HEAD>
+<ITEM><HI>Iohn Barker.</HI> Alderman.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Yorksheire. <HI>00.</HI></HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM>Sir <HI>Charles Egerton</HI></ITEM>
+<ITEM><HI>Henry Stapleton.</HI> Esquire.</ITEM>
+<ITEM><HI>William Ayscough.</HI> Esquire.</ITEM>
+<ITEM><HI>Iohn Nelthorpe.</HI></ITEM>
+<ITEM><HI>Henry Arthington.</HI></ITEM>
+<ITEM>Sir <HI>Henry Cholmley.</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Cinque Ports.</HEAD>
+<ITEM>Sir <HI>Iohn Pelham.</HI></ITEM>
+<ITEM><HI>Henry Oxenden,</HI> Esquire.</ITEM>
+<ITEM><HI>Samuell Gott.</HI> Esquire.</ITEM>
+<ITEM><PB N="5" REF="3"/>Sir <HI>Norton Knatchboull.</HI></ITEM>
+<ITEM>Sir <HI>Edward Partrige.</HI></ITEM>
+<ITEM><HI>Charles Rich.</HI> Esquire.</ITEM>
+<ITEM>Sir <HI>Thomas Parker.</HI></ITEM>
+<ITEM><HI>Frantis Gerard.</HI> Esquire.</ITEM>
+</LIST>
+<LIST>
+<HEAD>Wales.</HEAD>
+<ITEM><LIST>
+<HEAD> Anglesey. <HI>0.</HI></HEAD>
+<ITEM><HI>William Iones.</HI> Burg,</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Brecknock.</HEAD>
+<ITEM><HI>Lodowick Lewis.</HI> Burg.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Cardigansheire.</HEAD>
+<ITEM>Sir <HI>Richard Price.</HI> Knight.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Carmarthensheire.</HEAD>
+<ITEM>Coll. <HI>Iohn Lloyd.</HI> Knight.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Carnaruansheire.</HEAD>
+<ITEM><HI>Richard Wynne.</HI> Esquire. Knight</ITEM>
+<ITEM><HI>William Foxwi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>t.</HI> Burg.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Denbighsheire.</HEAD>
+<ITEM>Sir <HI>Thomas Middleton,</HI> Knight</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Flintsheire.</HEAD>
+<ITEM><HI>Iohn Trevor.</HI> Esquire. Knight.</ITEM>
+<ITEM><HI>Thomas Middleton.</HI> Burg.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Pembrocksheire.</HEAD>
+<ITEM><HI>Arthur Owin</HI> Esquire. Knight.</ITEM>
+<ITEM>Sir <HI>Robert Needham.</HI> Burg.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Montgomerysheire.</HEAD>
+<ITEM><HI>Edward Vaughan.</HI> Esquire. Knight</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>R<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>dnorsheire.</HEAD>
+<ITEM><HI>Arthur Annesly.</HI> Esquire. Knight.</ITEM>
+<ITEM><HI>Robert Harley.</HI> Esquire. Burg.</ITEM>
+</LIST></ITEM>
+</LIST>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>The Remainder of the House of Commons, which have excluded both Houses, and yet sit themselves.</HEAD>
+<LIST>
+<HEAD>Buckinghamsheire</HEAD>
+<ITEM><LIST>
+<HEAD>Knights.</HEAD>
+<ITEM><HI>Edmund West.</HI> Esquire.</ITEM>
+<ITEM><HI>George Fleetwood.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Brg.</HEAD>
+<ITEM><HI>Iohn Do<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>mer.</HI> Esquire.</ITEM>
+<ITEM><HI>Thomas Scot.</HI></ITEM>
+<ITEM><HI>Simon Mayne.</HI></ITEM>
+<ITEM><HI>Rich. Ingolsby.</HI> Esquire.</ITEM>
+<ITEM><HI>Bulstrode Whitlock.</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Berksheire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM><HI>Henry Martin.</HI> Esquire,</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Cornelius Holland.</HI></ITEM>
+<ITEM><HI>Daniell B<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>agrave.</HI></ITEM>
+<ITEM><HI>Edward Dunch.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Cornwall.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>William Say.</HI></ITEM>
+<ITEM>Sir <HI>Iohn Trevor.</HI></ITEM>
+<ITEM><HI>Iohn Feilder.</HI> Esquire.</ITEM>
+<ITEM><HI>Nicholas Gold.</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Cambridge Vniversity.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Iohn Lowrey.</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Cheshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM>Sir <HI>VVilliam Brereton</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Derby-<HI>Town.</HI></HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Nathaniel Hollowes</HI> Alderman.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Devonshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Oliver Saint<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>Iohn</HI> Esq.</ITEM>
+<ITEM><HI>Philip Skipp<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>n</HI> Esq.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Dorsetshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Iohn Pyne</HI> Esquire</ITEM>
+<ITEM><HI>Roger Hill</HI> Esq,</ITEM>
+<ITEM><HI>John Bingham</HI> Esq.</ITEM>
+<ITEM><HI>John Tranchard</HI> Esq</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Essex.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM>Sir <HI>Henry Mildmay</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Gloucester.</HEAD>
+<ITEM><LIST>
+<HEAD>Citt.</HEAD>
+<ITEM><HI>Thomas Pury.</HI></ITEM>
+<ITEM><HI>John Lenntal</HI> Esq.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Huntingtonshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM><HI>Valentine VValton,</HI> Esq.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Kent.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM><HI>Augustin Skinner</HI></ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM>Sir <HI>Thomas Walsingham.</HI></ITEM>
+<ITEM>Sir <HI>Michael Lievesey.</HI></ITEM>
+<ITEM><HI>Augustine Garland.</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Lincolnesheire.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Thomas Lister.</HI> Esquire.</ITEM>
+<ITEM><HI>William Ellis.</HI> Esquire.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Leicestersheire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM>Sir <HI>Arthur H<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>sel<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ig</HI></ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg:</HEAD>
+<ITEM><HI>Peter Temple</HI> Esq. </ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>London.</HEAD>
+<ITEM><LIST>
+<HEAD>Citt.</HEAD>
+<ITEM><HI>Isaac Pennington</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Northamptonsheire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM>Sir <HI>Gilbert Pickering</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Nottinghamsheire.</HEAD>
+<ITEM><PB N="6" REF="4"/><LIST>
+<HEAD>Knights.</HEAD>
+<ITEM><HI>John Hutchinson</HI> Esq.</ITEM>
+<ITEM><HI>Jeruise Piggot</HI> Esq</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Gilbert Millington.</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Norfolke.</HEAD>
+<ITEM><LIST>
+<HEAD>Citt.</HEAD>
+<ITEM><HI>Erasmus Earle</HI> Esq.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Miles Corbet.</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Northumberland,</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM>Sir <HI>Thomas Widdrington</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Oxfordshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>William Lenthall</HI> Esq.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Rutlandshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knights.</HEAD>
+<ITEM>Sir <HI>James Harrington,</HI></ITEM>
+<ITEM><HI>Thomas VVaite</HI> Esq.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Surry.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>George Thompson,</HI></ITEM>
+<ITEM>Lord <HI>Mouns<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>n,</HI></ITEM>
+<ITEM><HI>John. Goodwin.</HI> Esq.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Staffordshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM><HI>Thomas Crompton</HI> Esq.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM>Sir <HI>Peter VVentworth</HI></ITEM>
+<ITEM><HI>John Corbet</HI> Esq.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Southampton.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>John Lisle</HI> Esq.</ITEM>
+<ITEM><HI>Nicholas Love</HI> Esq</ITEM>
+<ITEM>Lord <HI>Lis<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>le,</HI></ITEM>
+<ITEM><HI>VVilliam Hevingham.</HI></ITEM>
+<ITEM><HI>Robert VVallop</HI> Esq.</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>S<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ffolk.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg:</HEAD>
+<ITEM><HI>John Gurdon,</HI></ITEM>
+<ITEM><HI>Brampton Gu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>don.</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Somersettshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>James Ash</HI> Esq.</ITEM>
+<ITEM>Sir <HI>Thomas VVorth.</HI></ITEM>
+<ITEM><HI>VValter St<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ickl<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>n,</HI></ITEM>
+<ITEM>Dr <HI>Palmer</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Sussex.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>William Cawley</HI> Esq.</ITEM>
+<ITEM><HI>Harbert Morley</HI> Esq.</ITEM>
+<ITEM><HI>Robert Goodwin</HI> Esq.</ITEM>
+<ITEM><HI>John Baker</HI> Esq.</ITEM>
+<ITEM><HI>John Downes.</HI></ITEM>
+<ITEM><HI>Harbert Hayes.</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Wiltshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Knight.</HEAD>
+<ITEM><HI>Edmund Ludlow.</HI></ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Citt.</HEAD>
+<ITEM><HI>Michaell Oldsworth.</HI></ITEM>
+<ITEM><HI>John Dove.</HI></ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Robert Reynolds.</HI></ITEM>
+<ITEM><HI>Robert <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>icell</HI> Esq,</ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Worcestersheire.</HEAD>
+<ITEM><HI>John Wild</HI> Serj<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>nt at Lavv.</ITEM>
+</LIST>
+<LIST>
+<HEAD>Yorkshire.</HEAD>
+<ITEM><LIST>
+<HEAD>Burg.</HEAD>
+<ITEM><HI>Luke Robinson</HI> Esq.</ITEM>
+<ITEM>Sir <HI>John Bourcher.</HI></ITEM>
+<ITEM><HI>Thomas Chaloner.</HI></ITEM>
+<ITEM><HI>Franeis Thorpe.</HI></ITEM>
+<ITEM><HI>James Nelthorp.</HI></ITEM>
+<ITEM><HI>VVilliam VVhite,</HI></ITEM>
+<ITEM><HI>Henry Darley,</HI></ITEM>
+<ITEM><HI>Richard Darly,</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<HEAD>Cinque Ports.</HEAD>
+<ITEM><HI>John Fagg,</HI> Esq.</ITEM>
+<ITEM><HI>Benjamin VVilson,</HI> Esq.</ITEM>
+</LIST>
+<LIST>
+<HEAD>VVales.</HEAD>
+<ITEM><LIST>
+<HEAD> Cardigan.</HEAD>
+<ITEM><HI>Thomas VV<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>gan,</HI> Burg.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Glamorganshire</HEAD>
+<ITEM><HI>Algernon Sidney,</HI> Burg.</ITEM>
+</LIST></ITEM>
+<ITEM><LIST>
+<HEAD>Merione<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>hshire.</HEAD>
+<ITEM><HI>John Jones.</HI> Knight.</ITEM>
+</LIST></ITEM>
+</LIST>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>By this List of the Members of both Houses, it appears that the Members now sitting, or having li∣berty to sit, which call themselves the Parliament, are in number but eighty nine, viz. Sixteen Knights of Shires, Six Citizens, Sixty seven Burgesses.</HEAD>
+<P><TABLE>
+<ROW>
+<CELL>wherof for</CELL>
+<CELL>Kn<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>.</CELL>
+<CELL>Citt.</CELL>
+<CELL>Burg.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Buckinghamshire</HI></CELL>
+<CELL>2</CELL>
+<CELL>0</CELL>
+<CELL>5</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Berkshire</HI></CELL>
+<CELL>1</CELL>
+<CELL>0</CELL>
+<CELL>3</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Cornwall</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>4</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Cam<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ri<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>g</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>1</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Cheshire</HI></CELL>
+<CELL>1</CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Derby</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>1</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Devonshire</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>2</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Dorse<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>shire</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>4</CELL>
+</ROW>
+<ROW>
+<CELL COLS="3"><HI>Essex</HI> Sir <HI>Henry Mildmay</HI> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>lone</CELL>
+<CELL>1</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Gloucester</HI></CELL>
+<CELL>0</CELL>
+<CELL>2</CELL>
+<CELL>0</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Huntingtonshire</HI></CELL>
+<CELL>1</CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Kent</HI></CELL>
+<CELL>1</CELL>
+<CELL>0</CELL>
+<CELL>3</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Lincolnshire</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>2</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Leicestershire</HI></CELL>
+<CELL>1</CELL>
+<CELL>0</CELL>
+<CELL>1</CELL>
+</ROW>
+<ROW>
+<CELL><HI>London</HI></CELL>
+<CELL>0</CELL>
+<CELL>1</CELL>
+<CELL>0</CELL>
+</ROW>
+<PB N="7" REF="4"/>
+<ROW>
+<CELL><HI>Northamptonshire</HI></CELL>
+<CELL>0</CELL>
+<CELL>1</CELL>
+<CELL>0</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Nottinghamshire</HI></CELL>
+<CELL>2</CELL>
+<CELL>2</CELL>
+<CELL>0</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Norfolk Norwich</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>1</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Northumberland</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>1</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Oxfordshire</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>1</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Ru<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>landshire</HI></CELL>
+<CELL>2</CELL>
+<CELL>2</CELL>
+<CELL>0</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Surrey</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>3</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Staffordshire</HI></CELL>
+<CELL>1</CELL>
+<CELL>1</CELL>
+<CELL>2</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Sou<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>ampton</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>5</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Suffolke</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>2</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Sumersetshire</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>4</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Sussex</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>6</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Wiltshire, Salsbury</HI></CELL>
+<CELL>1</CELL>
+<CELL>2</CELL>
+<CELL>2</CELL>
+</ROW>
+<ROW>
+<CELL><HI>VVorcestershire</HI></CELL>
+<CELL>1</CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Yorkshire</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>8</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Cinqu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/> Ports</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>2</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Wales Marioneth</HI></CELL>
+<CELL>1</CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Cardigan</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>1</CELL>
+</ROW>
+<ROW>
+<CELL><HI>Glamorgan</HI></CELL>
+<CELL>0</CELL>
+<CELL>0</CELL>
+<CELL>1</CELL>
+</ROW>
+</TABLE></P>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>So that th<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters" DISP="•••"/> are dead, or excluded, or vvithdravvn, by reason of the Secl<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>sion. Seventy foure Knights of Shires, thirty tvvo Citizens, three hundred and fourteen Burgesses.</HEAD>
+<LIST>
+<LABEL>Wh<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>rof <HI>Bedfordshire</HI> Knights.</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Berkshire</LABEL>
+<ITEM>1</ITEM>
+<LABEL>Cornwall</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Cambridgeshire</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Cheshire</LABEL>
+<ITEM>1</ITEM>
+<LABEL>Darbyshire</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Devonshire</LABEL>
+<ITEM>2</ITEM>
+<LABEL><HI>Do<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>setshire</HI></LABEL>
+<ITEM>2</ITEM>
+<LABEL>Essex</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Gloucestershire</LABEL>
+<ITEM>2</ITEM>
+<LABEL><HI>H<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ntingtons<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ire</HI></LABEL>
+<ITEM>2</ITEM>
+<LABEL>Hartfordshire</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Herefordshire</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Kent</LABEL>
+<ITEM>1</ITEM>
+<LABEL>Lincolnshire</LABEL>
+<ITEM>2</ITEM>
+<LABEL><HI>Leicest<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>rshire</HI></LABEL>
+<ITEM>2</ITEM>
+<LABEL><HI>La<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>cashire</HI></LABEL>
+<ITEM>2</ITEM>
+<LABEL>Middlesex</LABEL>
+<ITEM>2</ITEM>
+<LABEL><HI>Monmouthshir<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></HI></LABEL>
+<ITEM>2</ITEM>
+<LABEL>Northamptonshire</LABEL>
+<ITEM>1</ITEM>
+<LABEL><HI>Norf<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>lk</HI></LABEL>
+<ITEM>2</ITEM>
+<LABEL>Northumberland</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Oxfordshire</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Surrey</LABEL>
+<ITEM>2</ITEM>
+<LABEL><HI>Staffordshir<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/></HI></LABEL>
+<ITEM>1</ITEM>
+<LABEL>Shropshire</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Southampton</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Suffolke</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Somersetshire</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Sussex</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Westmerland</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Wiltshire</LABEL>
+<ITEM>1</ITEM>
+<LABEL>Worcestershire</LABEL>
+<ITEM>1</ITEM>
+<LABEL>Warwickshire</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Yorkshire</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Walor Anglesey</LABEL>
+<ITEM>1</ITEM>
+<LABEL>Breaknock</LABEL>
+<ITEM>1</ITEM>
+<LABEL>Cardiganshire</LABEL>
+<ITEM>1</ITEM>
+<LABEL>Carmarthenshire</LABEL>
+<ITEM>1</ITEM>
+<LABEL>Carnarvanshire.</LABEL>
+<ITEM>1</ITEM>
+<LABEL>Denbighshire</LABEL>
+<ITEM>1</ITEM>
+<LABEL>Flintshire</LABEL>
+<ITEM>1</ITEM>
+<LABEL><HI>Glam<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>rganshire</HI></LABEL>
+<ITEM>1</ITEM>
+<LABEL>Pembrockshire</LABEL>
+<ITEM>1</ITEM>
+<LABEL>Mongomeryshire</LABEL>
+<ITEM>1</ITEM>
+<LABEL>Radnashire</LABEL>
+<ITEM>1</ITEM>
+</LIST>
+<LIST>
+<HEAD>Citiz<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ns Dead or Excluded of the Citties of</HEAD>
+<LABEL>London</LABEL>
+<ITEM>3</ITEM>
+<LABEL>Yorke</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Bristoll</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Norwich</LABEL>
+<ITEM>1</ITEM>
+<LABEL>Chester</LABEL>
+<ITEM>2</ITEM>
+<LABEL><HI>Ex<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ester</HI></LABEL>
+<ITEM>2</ITEM>
+<LABEL>Oxford</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Lincoln</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Worcester</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Chicester</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Carlisle</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Cantorbury</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Rochester</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Bath, &amp;c.</LABEL>
+<ITEM>1</ITEM>
+<LABEL>Winchester.</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Coventry, &amp;c.</LABEL>
+<ITEM>2</ITEM>
+<LABEL>Westminster</LABEL>
+<ITEM>2</ITEM>
+</LIST>
+<P><PB N="8" REF="5"/>So that all the Cities and Countreys almost in <HI>England</HI> and <HI>Wales,</HI> have no Knights nor Citizens to represent them in Parliament, <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>t the affairs of the three Kingdoms, are carried by the Bur∣gesses of a fevv inconsiderable Burroughs, vvho have excluded the rest of the Members of both Houses.</P>
+<P>They have also discharged the Parliament of <HI>Scotland,</HI> and the Parliament of <HI>Ireland,</HI> give Lavvs to impose Taxes on both, vvhich no English Parliament did in former times, nor they novv do by Lavv. By vvhich means, instead of three famous Parliaments of th<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>se three renovvned Kingdomes, vve have nothing left, if the vvill and force of a fevv men may prevail, but a small piece of the Parliament of <HI>Eng∣land.</HI></P>
+</DIV2>
+<DIV2 TYPE="observation">
+<HEAD>Observations upon the afore mentioned List.</HEAD>
+<LIST>
+<ITEM>1. That in former times, and in the Primitive condition of this Parliament, upon the death or dis∣abling of any Member, the Keeper or Speaker gave his Warrant for a nevv Writ, that no place might vvant some to represent them.</ITEM>
+<ITEM>2. Former Ages never knevv that vvay, or rather counted it dishonest, as vvell as unjust and illegal, for a fevv, and those not the chief of the House of Commons, to make use of a mercenary force of inva<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>e<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>al and Apostate Englishmen, to possesse themselves of the Legislative Povver, to the injurie of the vvhole Parliament, (vvhich should consist of above six hundred) and all the people.</ITEM>
+<ITEM>3. The Major part of the House of Commons, vvhich are excluded by force, are so used, for over-vo∣ting the House from the minor part; Whereas till this Iron Age (though bin for dissenting in the House) never any that attended, vvere hindred from sitting, or excluded from free voting.</ITEM>
+<ITEM>4. If those fevv vvho sit, had convenient modestie, they vvould not think the vvisdom of these three Kingdoms vvere under their Hoods, vvhen there are so many and vvise Personages in them nor Judge their own forcible exclusion by the Arm <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters" DISP="••"/>min<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter" DISP="•"/>ions, vvhen so fevv, vvhen themselves by force seclude and eject so many.</ITEM>
+</LIST>
+</DIV2>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="colophon">
+<P>LONDON, Printed for <HI>Henry Brome,</HI> at the Gun in <HI>Ivy-lane.</HI> 1659.</P>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>
+

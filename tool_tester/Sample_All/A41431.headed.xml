@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The sum of a conference had between two divines of the Church of England and two Catholic lay-gentlemen at the request and for the satisfaction of three persons of quality, August 8, 1671.</TITLE><AUTHOR>Gooden, Peter, d. 1695.</AUTHOR></TITLESTMT><EXTENT>Approx. 77 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2008-09 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A41431</IDNO>
+
+
+<IDNO TYPE="stc">Wing G1099</IDNO>
+
+<IDNO TYPE="stc">ESTC R34918</IDNO>
+
+<IDNO TYPE="eebo citation">14908430</IDNO>
+
+<IDNO TYPE="oclc">ocm 14908430</IDNO>
+
+<IDNO TYPE="vid">102856</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A41431)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 102856)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 1571:5)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The sum of a conference had between two divines of the Church of England and two Catholic lay-gentlemen at the request and for the satisfaction of three persons of quality, August 8, 1671.</TITLE><AUTHOR>Gooden, Peter, d. 1695.</AUTHOR></TITLESTMT><EXTENT>40 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed by Henry Hills ... for him and Matthew Turner,</PUBLISHER>
+<DATE>1687.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Attributed by Wing and NUC pre-1956 imprints to Gooden.</NOTE><NOTE>"The two divines : Edward Stillingfleet and Gilbert Burnet. The two Catholic lay-gentlemen: Edward Coleman and Edward Meredith"--NUC pre-1956 imprints.</NOTE><NOTE>Reproduction of original in the Trinity College Library, Cambridge University.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Burnet, Gilbert, 1643-1715.</TERM><TERM>Stillingfleet, Edward, 1635-1699.</TERM><TERM>Schism.</TERM><TERM>Reformation --  England.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2007-09</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2007-10</DATE><RESPSTMT><RESP>Apex CoVantage</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2007-11</DATE><RESPSTMT><RESP>Judith Siefring</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2007-11</DATE><RESPSTMT><RESP>Judith Siefring</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2008-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A41431">
+<STC T="W">G1099</STC>
+<BIBNO T="oclc">14908430</BIBNO>
+<VID>102856</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<P>
+
+The Sum of a CONFERENCE Had between TWO DIVINES OF THE <HI>Church of England.</HI> And Two <HI>CATHOLIC LAY-GENTLEMEN.</HI> At the Request, and for the Satisfaction of Three Persons of Quality, <HI>August</HI> 8. 1671.</P>
+<P><HI>Publisht with Allowance.</HI></P>
+<P><HI>LONDON,</HI> Printed by <HI>Henry Hills,</HI> Printer to the King's Most Ex∣cellent Majesty, for His Houshold and Chappel, for him and <HI>Matthew Turner.</HI> 1687.</P>
+</DIV1>
+<DIV1 TYPE="publisher to the reader">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>THE PUBLISHER TO THE READER.</HEAD>
+<P>SInce Printing of Conferences seems now in Vogue, I will venture to be in the new Mode; I have so good an Example of it before me, that I hope no body will take it ill if I follow it. In the Year <HI>1676.</HI> there happen'd a Conference about Points of Religion, be∣tween some Protestant Divines, and some Roman-Catholic Gentlemen, which after a long silence, has been now lately set out the <NOTE PLACE="marg"><HI>A Relation of a Con∣ference,</HI> Apr. <HI>3. 1676.</HI></NOTE> second time, in a fine Dress, and with a long Preface: This gave me the Curiosity to seek
+<PB REF="3"/>
+further into those Matters, and meeting accidentally with a Copy of another Con∣ference held in <HI>1671.</HI> wherein some of the same Persons were concern'd, I thought good to present you with it. By it's plain Expressions and unstudied Discourse, you may easily judge it to be the naked Truth of what was then spoken. Peruse it, and think seriously of it.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB N="5" REF="3"/>
+<HEAD>The Sum of a Conference had between Two Divines of the Church of <HI>England,</HI> and Two Catholic Lay-Gentlemen, at the Request and for the Satisfacti∣on of Three Persons of Qua∣lity, <HI>Aug.</HI> 8. 1671.</HEAD>
+<P>THE Persons for whom the Conference was intended, desir'd the Subject might be <HI>Schism.</HI></P>
+<P>Subject agreed.</P>
+<SP>
+<SPEAKER>Drs.</SPEAKER>
+<P>It is fit we presuppose some Prin∣ciples before we enter into dispute.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>Content.</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>1. <HI>Schism</HI> is a wilful Separation from the Commu∣nion of the Church, without cause.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>Tho' we know very well there can be no cause of Schism, yet we will admit (to come quickly to the Question) your notion of <HI>Schism</HI> with these words <HI>with∣out cause</HI> in your Definition of it.</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>2. Another Principle is, Men may without Crime separate from a Communion, in which they cannot con∣tinue without Sin.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>Agreed.</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>3. There are certain Laws antecedent to Commu∣nion,
+<PB N="6" REF="4"/>
+by which every particular person ought to judge what Communion he ought to be of, or forsake.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>We do admit, that there are <HI>external Motives</HI> antecedent to Communion, which do induce and ob∣lige a particular person to choose the Communion of which he ought to be a Member, and to which he ought, being a Member, to submit in Faith and Government, of which every particular person may and ought to judge: But we do deny, that the interior Doctrins or general Practices of a Communion are subject to the Judgment of every particular Man; so that every private person judging this or that Doctrin or Practice to be False, Here∣tical, or Idolatrous, (tho' the Communion, of which he is a Member, judges it Catholic and Orthodox,) has lawful cause to separate himself from that Communion, without being guilty of Criminal Schism; for without this Distinction there could be no such thing as <HI>Schism</HI> in the World.</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>You must prove us guilty of <HI>Criminal Schism.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>We will. In the year 1517, you wilfully se∣parated from the Communion of the Church, without cause; <HI>Ergo</HI> you are Criminal Schismatics.</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>I do deny that the Separation in the year, 1517, do's concern us; nor do we think our selves oblig'd to defend or justifie it; we do only maintain, that the Church of <HI>England</HI> is not guilty of Criminal Schism.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>The same Argument presses the <HI>Church of</HI> Eng∣land, as the <HI>Lutherans;</HI> Let it be therefore put thus. In King <HI>Hen.</HI> the <HI>8th. Ed.</HI> the <HI>6th.</HI> or Queen <HI>Elizabeths</HI> Days (date the Birth of your Church from what time you please) you wilfully separated from the Commu∣nion of the Church without cause; <HI>Ergo</HI> you, the Church of <HI>England,</HI> are guilty of <HI>Criminal Schism.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>I deny your Antecedent, we did not separate without cause.</P>
+</SP>
+<SP>
+<PB N="7" REF="4"/>
+<SPEAKER>Cath.</SPEAKER>
+<P>I prove it. If you had lawful cause, you can assign it; but you cannot assign any lawful cause; <HI>Ergo</HI> you did separate without cause.</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>I will assign the cause, It was thus. In the—Year of <HI>Henry</HI> the <HI>8th.</HI> the Parliament declared, That the Right of Reforming the Church of this Kingdom was in the King; upon which the King did reform, and upon this Reformation the Pope did Excommunicate the King and Kingdom, which Excommunication was confirm'd by another Pope in Queen <HI>Elizabeths</HI> days; so that the Pope by Excommunicating made the Schism, and not we by Reforming.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>The Declaration above mentioned, and the Re∣formation thereupon, were antecedent to the Excom∣munication; so that you must prove that the Parliament had just Power and Authority to make that Declaration, and to Reform upon it, and that they did indeed Reform, and not spoil the Doctrin they undertook to mend; for if it had not, all its Proceedings were unjust and criminal; and Excommunication was but the just and proper Punishment for that Crime: And then sure it would be reckoned very strange, to say, That a lawful Authority punishing an Offender, is made guilty of the Crime it punishes, by inflicting that Punishment.</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>The Parliament did not ascribe any new Power to the King; but only declar'd that the same was in him, which all Ages appropriated to their Kings, and was allow'd by all; And I can shew from time to time, that the Popes Authority has been refus'd, and his Legats forbid entrance into the Kingdom several times.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>I pray shew substantially (if you can) that the Church of <HI>England</HI> before the Reformation, did never at any time accept, or (which is positive) did at all times refuse the Pope all sort of Authority and Superiority over them; else to quarrel sometimes with his Authority, or
+<PB N="8" REF="5"/>
+some part of it, or stop his Legats, might be just: For that it is possible for a Power which has lawful Autho∣rity, to challenge and demand some sort of Authority which is more than what is lawfully his; and in such case the Inferiors may at least remonstrate to their Supe∣riors, if not oppose them in such unlawful Demands; and this might be the case between the Pope and the King of <HI>England</HI> at some particular time: At other times In∣feriors might be stubborn and disobedient, and for a time deny that to their Superiors which is really due. Therefore to say, that the Kings of <HI>England</HI> did for a time oppose the Pope in some things, is not enough to prove the Declaration aforesaid (which was univer∣sal, denying him all Authority whatsoever,) to be no ascribing of new Power, but only a Declaration, that the same Power was in That King, which all Ages ap∣propriated to their Kings, and was allow'd by all; but the contrary, to what is now demanded to be prov'd (and must be prov'd before that Declaration can excuse the Declarers from the guilt of causeless Separation, and consequently Criminal Schism, and consequently of de∣serving justly Excommunication) is so evident, that I appeal to these present worthy persons, who are to judge in this point, whether this be not sufficiently ma∣nifest from the Histories which they themselves have read, and the general Confessions, which they them∣selves have met withal from very many even learned Protestants, That the Pope of <HI>Rome</HI> was at least Patriarch of the West, and, as such, had Patriarchal Authority, at least over the Church of <HI>England,</HI> and therefore was allow'd to be the proper Judge of Ecclesiastical Matters, the very day before the foresaid Declaration was made; and therefore was the only proper Judge of the said Declaration, and the Authors of it, whether it were well and legally made: And this said Judge having judi∣cially
+<PB N="9" REF="5"/>
+determin'd the said Declaration to be Schismati∣cal, condemned it legally, and justly Excommunicated the Authors. Most certainly a Declaration made by every one, that pretends Power to make one, is not pre∣sently lawful, because it is pretended to be so. The late long Parliament pretended to declare, That the Su∣pream Power of <HI>England</HI> was in the People, and that the said People might Judge and Depose the King when∣ever he misused that Power, which the People entrusted him withal; and we know what followed upon it. I hope the Doctor will not justifie that Declaration, nor can he shew a disparity between this and the other, both being made by those, who were universally e∣steem'd, at the time they made them, Subjects and In∣feriors to those against whose Authority they made them, in those very Points, concerning which they did then declare.</P>
+</SP>
+<SP>
+<SPEAKER>Drs.</SPEAKER>
+<P>The Pope was never content to be esteem'd bare∣ly the Patriarch of the West; and there is great dif∣ference between the two Declarations, that in <HI>Hen.</HI> Eighth's time against the Pope, and that in King <HI>Charles</HI> the First's time against his Majesty.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>It matters not now, whether the Pope were content or no to be barely esteem'd Patriarch of the West; if he had reason to challenge more, that no ways justifies you; Do you allow, that he was Patriarch? If you do, answer the difficulty; and say, how his Inferiors came by a Power to Depose him; and as to the difference be∣tween the two Declarations, you must shew it us, be∣fore we believe there is any.</P>
+</SP>
+<SP>
+<SPEAKER>Gentlemen</SPEAKER>
+<STAGE>to the Doctors.</STAGE>
+<P>Sirs, we do not doubt, but that the Pope was allow'd some Authority in <HI>England</HI> before the Separation, we do not therefore desire to dispute that; but supposing he had not, you separated your selves from the great Body of
+<PB N="10" REF="6"/>
+all Christians United before in one Communion, we de∣sire to know what cause you could have for that.</P>
+</SP>
+<SP>
+<SPEAKER>Drs.</SPEAKER>
+<P>We had cause to separate, for that the Com∣munion from which we separated, taught false Faith, and were guilty of Idolatry; I instance particularly in their Doctrin of Transubstantiation, and their Adoring the Host.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<STAGE>To the Company.</STAGE>
+<P>Tho' you may be pleas'd to remember, that we did at first deny, that any particular person, (and the same holds of particular Diocesses, Provinces, and Nations, all which United make but one Catholic Church, and therefore the biggest of them all to be consider'd only as a Member of the whole Body) has Power to judge, and condemn the Doctrins and Practices of the whole Church as false or Idolatrous, when the Body against this Mem∣ber says, that the said Doctrins or Practices are Ortho∣dox and Catholic, so as to have lawful cause to se∣parate from the said whole Communion, without being guilty of criminal Schism; That what we said of a particular Person, holds to a Nation, or any Inferior Au∣thority to a Superior, is evident, upon supposition, that God has requir'd and commanded, that his Church be one, which could not be, if a Secular Sovereign Power has Authority to break its Unity, upon pretence of judging any one of it's Doctrins or Practices false or I∣dolatrous: For if one may, another may; and then <HI>Swisserland</HI> may have as many Religions and Commu∣nions, as Cantons, and the World as many Churches as Secular Sovereigns, tho' God has said he will have but One: And here in <HI>England</HI> the Bishops may as well wave the Arch-bishops Authority, private persons pre∣tend to Judge and Censure the Bishops Power and Authority, or any one Man controul the Authority of his Pastor. Tho' this we deny'd at first, and might there∣fore
+<PB N="11" REF="6"/>
+well refuse to proceed, till the Doctors had prov'd, that a single Person might condemn a whole Church's Do∣ctrin legally, or a lesser Authority, judge and censure a greater; yet because perhaps this Method may have been propos'd by your selves, we are content to do any thing for your satisfaction: but then you must be pleas'd (con∣sidering our Communion at the time of the Separation was infinitly greater than the Reformers, as Learned and as Holy, for ought any body knows, and in possession for many hundred years of the Doctrins and Practices now condemn'd by these Reformers) to demand <HI>more clear</HI> and <HI>evident proofs</HI> against our Doctrins than we bring for them: for upon but equal proof, we that are forty to one (and every whit as learned as the others, especi∣ally having receiv'd, what we profess, from our Fore-fathers, from Christs time, for ought any body knows; for no body can say when what we hold and practise be∣gun) have no reason to submit to so much a less number, at the charge of so great a confusion, as must needs hap∣pen, and God's Command of Unity be broke into the bargain. You must therefore demand the most evident proofs that Nature can admit of, to prove those Doctrins of theirs, upon which they ground their Separation, or else it will be <HI>criminal</HI> Schism, and you must desert their Communion. If they attempt to prove it from Scri∣pture, they must not bring obscure passages out of it, to oppose or interpret clear ones; for that is not to explicate, but to confound; not to draw Light and Truth out of Scri∣pture, but to cast more Darkness upon it. Neither can an obscure and doubtful Title lawfully or reasonably cast any Body out of the possession of a belief, for which he has clear and evident ones to shew. They must there∣fore bring Texts that prove their Points in Terms; for their interpretation is no more to be allow'd of than ours, and Scripture ought to be taken literally,
+<PB N="12" REF="7"/>
+where the literal sense does not imply a contra∣diction.</P>
+</SP>
+<SP>
+<SPEAKER>Note.</SPEAKER>
+<P>It may be reasonably suppos'd, that these unde∣niable Principles were the cause, why the Doctors (as it will appear in all this Conference) would never ven∣ture upon any citation of the Scripture to prove their Doctrin, for which they separated from the Roman Church, acknowledged then universally for the true Church, but were forc'd to fly to some obscure Sen∣tences of the Fathers, even which will yet appear to make more for the Roman Church, than for the Re∣formers.</P>
+</SP>
+<SP>
+<SPEAKER>Drs.</SPEAKER>
+<P>All Scriptures ought not to be expounded literally, which do not imply a Contradiction in a literal sense: <HI>I am a Vine,</HI> ought not to be expounded literally, yet it im∣plies no Contradiction, or at least no more than this, <HI>Christ is Bread.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P><HI>I am a Vine</HI> does imply a Contradiction, for Christ cannot be <HI>Christ</HI> and a <HI>Vine</HI> at the same time; <HI>Christ is Bread,</HI> is also a Contradiction; but where is that Proposi∣tion in Scripture? or what Catholic in the World holds it? We say, <HI>that which was Bread ceases to be Bread, and be∣comes the Body of Christ,</HI> which is no more a Contradiction than to say, that which was Water, ceases to be Water, and becomes Wine.</P>
+</SP>
+<SP>
+<SPEAKER>Drs.</SPEAKER>
+<P>That Text you build your Faith upon, <HI>This is my Body,</HI> implies a Contradiction; for it must signifie, <HI>This Bread is my Body,</HI> which is as much a Contradiction, as <HI>Christ is a Vine,</HI> or <HI>Christ is Bread,</HI> which you have ac∣knowledg'd already for a Contradiction; or else it must be an identical enuntiation, and signifie, <HI>This my Body is my Body.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P><HI>This Bread is my Body,</HI> is a Contradiction, but cannot be meant in the Text; for in all Languages (but English) where the <HI>word</HI> which signifies <HI>this</HI> is alter'd
+<PB N="13" REF="7"/>
+according to the different Gender the Antecedent is of, to which this word should relate, it is always put in the Neuter Gender, <HI>hoc</HI> in Latin, and <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> in Greek, which it could not be, if it were to agree with <HI>Bread,</HI> or have relation to it, that being always Masculin, as <HI>panis</HI> in Latin, and <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> in Greek; therefore to say, <HI>this Bread</HI> in the Latin or Greek Language, would be false Gram∣mer; and English, I suppose, has no reason to govern the other Languages, but they it, they being more and old, against one and new. Nor need it be, <HI>This Body is my Body;</HI> the Particle <HI>this</HI> is a Pronoun demonstrative, sig∣nifying only some exterior Object undetermind'd, as to its Nature or Name, without some other additional Word, as <HI>this is a Horse, this is a Hat,</HI> are, I hope, proper Speeches, and therefore no Identical Enuntiations. <HI>This</HI> only sup∣poses an Object existing and expos'd to Sense, and de∣termin'd by the following word <HI>Hat</HI> or <HI>Horse,</HI> of what Nature and Quality it is. Besides, <HI>This is my Body,</HI> is an Efficient Proposition, and is the cause of the change, which is not wrought till the Proposition be compleated, and therefore <HI>this</HI> is not determin'd till the whole be pro∣nounc'd.</P>
+</SP>
+<SP>
+<SPEAKER>Drs.</SPEAKER>
+<P>It is impossible it should be taken in your sense, for Transubstantiation cannot be without a Miracle; and no Miracle can be without appearing so to Sense; Nay, it would destroy all possibility of judging of any other Mi∣racle, they being not to be discern'd but by Sense, which cannot be rely'd upon, if it may be deceiv'd in this.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>A Miracle may be, and yet not appear to Sense to be so, yet ought to be believ'd: For the hypostatical Union was never discern'd by Sense, yet is believ'd a true Miracle; so that your first Proposition is false. To your second, I pray say, whether it be possible for God to make a thing appear to Sense to be, what it is not: Then sup∣posing it possible, may not God discover to Man that he
+<PB N="14" REF="8"/>
+has made a thing to appear one thing, and to be another, as well as he has discover'd, that the Divinity was uni∣ted to Christs Humanity, tho' no such thing appear'd? If he may and do's, ought I to believe Gods Word against my own Senses, or my Senses against Gods Word? Not∣withstanding this, my Senses shall judge of a Miracle at all times, unless when God assures me upon his Word, that his Omnipotency has interpos'd between my Senses and their Natural Object.</P>
+</SP>
+<SP>
+<SPEAKER>Drs.</SPEAKER>
+<P>But we will shew you by the <HI>Fathers,</HI> and not of the first 300 years, but since, that your Doctrin was not held, neither in the Greek nor Latin Church.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>We do expect you should shew us by the Scrip∣ture and Fathers of all Ages, (and do not care to be complemented or spar'd as to the first 300 years, if you have any Authority from those times, let us see them) and very clearly, that your contrary Doctrin was held, else you cannot be justified or excused from Schism in your separation.</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>It is sufficient to shew against you, that your Doctrin has not had that constant Succession you boast of: And that I will do by producing Instances plain and clear, that your Doctrin was not maintain'd in one cer∣tain Age since Christ.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>Tho' that can never justifie your separation, or make your Communion safe; for if it were not safe to stay in the Roman Communion, because a Doctrin be∣liev'd by them, was in one Age since Christs time, not believ'd, it can never be safe to abide in yours, where many Doctrins are now believ'd, which you acknow∣ledge were not believ'd by the true Church for many Hundred years together: Yet let us hear your proofs.</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>I will shew you a Homily us'd in the Saxon Church, from which you shall see how that Church and <HI>your Augustin</HI> agree in this Doctrin.</P>
+</SP>
+<SP>
+<PB N="15" REF="8"/>
+<SPEAKER>Cath.</SPEAKER>
+<P>At least 'tis some kindness to grant <HI>Augustin</HI> to be <HI>ours,</HI> who Converted <HI>England</HI> above 1000 years ago.</P>
+</SP>
+<SP>
+<SPEAKER>Narr.</SPEAKER>
+<P>Truly the Homily we did never see before, nor never heard of it, nor do we know what credit it bears, nor can I remember the words exactly; but in the first place the Doctor quoted, for he produc'd two, the sense was, that the Bread and Wine which the Priest Con∣secrated at Mass, was turn'd into the True Body and Blood of Christ; which Text we pray'd the Doctor to read in English, which he did; and after a little stumble at the word <HI>Missam,</HI> he told us, he car'd not tho' he render'd it <HI>Mass,</HI> which he did; This very Quotation we urg'd against him; but he told us this must be ex∣plain'd by another, in which he brought us the same, or like words again concerning the change, but at the end of the Sentence were these words in a distinct re∣markable Character, <HI>not Corporally but Spiritually.</HI> Where, or by whom this Book was Printed, we could not learn, or what Authority it was of; but it might very well be Authentick, for all that distinction, it being fre∣quently us'd by Modern Catholics, who are not deny'd to hold the Doctrin of Transubstantiation; They com∣monly say, that it is not chang'd <HI>Corporally,</HI> taking <HI>Cor∣porally</HI> to signifie <HI>carnally;</HI> as the Capharnaits under∣stood our Blessed Lord, when he spoke of this Mystery; but <HI>Spiritually,</HI> taking that to signfie, as St. <HI>Paul</HI> uses the word <HI>Spiritual,</HI> speaking of the Resurrection, where he says, it is sown a <HI>natural Body,</HI> it rises a <HI>Spiritual Body.</HI> there is a natural Body, and there is a Spiritual Body; Now if this way of speaking be frequently us'd by those who are, notwithstanding such an expression, confess'd to hold Transubstantiation; why must it signifie more evidently the contrary Doctrin in this Author, than it do's in others, especially when this Author delivers the Roman Doctrin in this point, in his other expressions, as
+<PB N="16" REF="9"/>
+evidently and plainly as can be, and cites the <HI>Mass</HI> as the Doctor confesses? But he stood not much upon this Que∣stion, but laid his whole stress upon two others.</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>I will prove now evidently, that your Doctrin was contradicted in the fifth Age, both by the Greek and Latin Church; nay by a <HI>Pope</HI> of <HI>Rome</HI> himself: For <HI>Gelasius</HI> disputing against the <HI>Eutychians,</HI> who main∣tain'd, that the Human Nature of Christ was <HI>chang'd</HI> into the Divine Nature, so that there was but one nature in Christ; confuted their Heresie, by shewing, that the Human Nature was no more chang'd into the Divine Na∣ture, than <HI>Bread</HI> was <HI>chang'd</HI> into the <HI>Body</HI> of Christ; that is, not at all; for <HI>Gelasius</HI> has these express words: <HI>Certe Sacramenta, quae sumimus, corporis &amp; sanguinis Christi, divina res est, propter quod &amp; per eadem efficimur divinae consortes naturae; &amp; tamen esse non desinit substan∣tia vel natura panis &amp; vini; &amp; certe imago &amp; similitudo corporis &amp; sanguinis in actione mysteriorum celebrantur;</HI> which is in English thus, <HI>Truly the Sacraments of the Body and Blood of Christ which we take, is a Divine thing, and by them we are made partakers of the Divine Nature; and yet the Substance or Nature of Bread and Wine, do not cease to be; and truly the Image and Similitude of the Body and Blood of Christ are celebrated in the action of the Mysteries:</HI> Where it is evident, that the substance of Bread and Wine, is not chang'd into the Body and Blood of Christ. <HI>Theodoret</HI> proves the same thing; for he says, the Mystical Signs after Consecration do not recede from their Nature, but do remain in their former Substance, Figure and Form, and may be seen, and touch'd as before; this evidently contradicts Transub∣stantiation.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<STAGE>To the Company.</STAGE>
+<P>We desire you to remember, that you must have clear proofs to justifie the Alteration, much clearer than those
+<PB N="17" REF="9"/>
+in possession can bring for the Doctrin they continue to hold, and which the others would Reform: Be pleas'd to consider these two Quotations here brought (I suppose the clearest they have, if not all they have) and if they do not appear clear against them, I am con∣fident they will appear, either Non-sense or Contra∣dictions, and far enough from being clearer for them, than any we can bring for our Doctrin; which yet they ought to be, to excuse their Schism from being wilful and Criminal. We will examin <HI>Theodoret</HI> first. He writes against <HI>Eutyches</HI> (as the Doctor has told you) which he do's by way of Dialogue between <HI>Eranistes</HI> an <HI>Eutychian,</HI> and <HI>Orthodoxus,</HI> which is himself, in these words.</P>
+<Q><SP>
+<SPEAKER>Eranist.</SPEAKER>
+<P>It happens luckily that you speak of the Di∣vine <NOTE PLACE="marg"><HI>Theod.</HI> Tom. 2. Dial. 2. pag. 236. Edit. Colon. 1617.</NOTE> Mysteries, for even from that very thing I will shew you, that the Body of our Lord is chang'd into a∣nother Nature; answer me therefore to what I ask.</P>
+</SP><SP>
+<SPEAKER>Orthodox.</SPEAKER>
+<P>I will answer.</P>
+</SP><SP>
+<SPEAKER>Eran.</SPEAKER>
+<P>What do you call that Gift which is brought, before the Invocation of the Priest?</P>
+</SP><SP>
+<SPEAKER>Orth.</SPEAKER>
+<P>That which is made Nourishment of a certain Grain.</P>
+</SP><SP>
+<SPEAKER>Eran.</SPEAKER>
+<P>How do we call the other Sign?</P>
+</SP>
+<SP>
+<SPEAKER>Orth.</SPEAKER>
+<P>A Common Name, which signifies a kind of Drink.</P>
+</SP>
+<SP>
+<SPEAKER>Eran.</SPEAKER>
+<P>But after Consecration what do you call them?</P>
+</SP>
+<SP>
+<SPEAKER>Orth.</SPEAKER>
+<P>The Body of Christ, and the Blood of Christ.</P>
+</SP>
+<SP>
+<SPEAKER>Eran.</SPEAKER>
+<P>And do you believe that you are made Parta∣ker of the Body and Blood of Christ?</P>
+</SP>
+<SP>
+<SPEAKER>Orth.</SPEAKER>
+<P>I do believe it.</P>
+</SP>
+<SP>
+<SPEAKER>Eran.</SPEAKER>
+<P>As therefore the Symbol of the Lord's Body and Blood are one thing before the Invocation of the Priest, and after the Invocation are chang'd and are made another thing: So the Body of our Lord after
+<PB N="18" REF="10"/>
+Assumption is chang'd into the Divine Substance.</P>
+</SP><SP>
+<SPEAKER>Orth.</SPEAKER>
+<P>Thou art catch'd in the Net, which thou thy self hast woven: For the Mystical Signs after Conse∣cration do not recede from their Nature, but do re∣main in their former Substance and Figure and Form, and may be touch'd as before; but are understood to be what they are made, and are believ'd, and are Ador'd as being the same things which they are believ'd.</P>
+</SP></Q>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>I pray be pleas'd to ask the Doctor whether this whole Discourse now cited be not built and founded up∣on the Supposition of Transubstantiation.</P>
+</SP>
+<SP>
+<SPEAKER>Drs.</SPEAKER>
+<P>I do acknowledge the Argument is founded up∣on that Supposition; but it is brought by an Heretic, an <HI>Eutychian,</HI> which is not much for the credit of your Doctrin.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>Yes, we account it much for the credit of our Doctrin, that you cannot name any Age, in which you are not forc'd to allow, that it was Profess'd. You say it was Profess'd in this Age only by Heretics: Make that out, if you can, more clear than I will the contrary; I do assure you, your two Quotations will not do it, as I will shew you presently; but the contrary seems evident, <HI>viz.</HI> That the Heretics did not differ from the Catholics in this Point: For <HI>Eutyches,</HI> who was Condemn'd at a General Council, for maintaining one Nature only in Christ, would certainly have been Condemn'd at the same time for holding Transubstantiation, had it been esteem'd an Error by that Age, especially so Absurd, Monstrous, and Idolatrous an one, as Doctor—calls it in his new Book; but he was not Condemn'd, nor so much as Accus'd of Error in this Point, either by Council, or any particular Writer of those many, which have wrote against him, and yet you do acknowledge, that he and his Adherents held Transubstantiation: Be∣sides, you confess that his Argument was against an
+<PB N="19" REF="10"/>
+Orthodox Catholic, founded upon this Supposition; therefore most certainly he took it for granted, that the Catholics allow'd the Supposition; for it would have been ridiculous to dispute upon a Supposition, which he knew his Adversary deny'd. I should account it absurd for me to argue against a Protestant upon supposition of Transubstantiation, which I know they deny; and so it would have been in <HI>Eranist,</HI> if he had not known that his Adversary own'd that Doctrin▪ which he made the Foundation of his Argument. Besides, <HI>Theodoret</HI> him∣self, an Orthodox Catholic, making this Discourse by way of Dialogue, would make himself ridiculous to frame it upon a Supposition which he deny'd. After all this, the place now cited, is so far from being so clear against us, as it ought to be to vanquish our standing Possessi∣on, that the Century-Writers of <HI>Magdeburg,</HI> who were <NOTE PLACE="marg"><HI>Magd</HI> Cent. 5. cap. 4. <HI>de Inclinatione Doct. tit. de Coena Domini.</HI></NOTE> great Enemies of Popery and Transubstantiation, do condemn <HI>Theodoret</HI> of <HI>that Doctrin</HI> from this very place, and do say he speaks dangerously of the Lords Sup∣per, in saying, <HI>that after Consecration the Symbols of our Lords Body and Blood are changed and made another thing.</HI> And the words next after these, which you quote as such clear ones against our Doctrin, must either import Ido∣latry according to the aforesaid new Book, or Non∣sense, if they do not imply the Actual Presence of Christs Person by Transubstantiation; for he says, <HI>they</HI> (the Mystical Signs) <HI>are understood what they are made and be∣liev'd, and are Ador'd as being the same things they are be∣liev'd:</HI> So that the whole Sense is thus; The Symbols of our Lord's Body and Bloud are one thing before, and an∣other after Consecration; yet they continue so in their Nature, Substance, Figure, and Form, as to be seen and touch'd as before; but are understood to be what they are made by Consecration, and are Believ'd, and are Ador'd as being the same thing they are believ'd, <HI>i. e.</HI> notwith∣standing
+<PB N="20" REF="11"/>
+they are chang'd, they appear to our Sense (as to their Nature, Substance, <HI>&amp;c.)</HI> to be seen and touch'd as before: but are believ'd to be somewhat else, <HI>i. e.</HI> what they are made: And this Belief is not Chimerical or Ima∣ginary, but the things are really what they are believ'd to be, and for that they are so, are Ador'd; so that they must be really chang'd into Christ's Body, for else they could not be Ador'd without Idolatry: The very Words, as they lay, convinc'd the <HI>Magdeburgenses,</HI> that <HI>Theodoret</HI> held <HI>Transubstantiation;</HI> and, I suppose, had not these two Words <HI>Nature</HI> and <HI>Substance</HI> been in the Quotation but only <HI>Figure</HI> and <HI>Form,</HI> we had never heard of it at this time. If therefore I shew you, that <HI>Nature</HI> and <HI>Substance</HI> are frequently taken to signifie that which is as consistent with our Exposition, and the Catholic meaning of <HI>Theo∣doret,</HI> as <HI>Figure</HI> and <HI>Form</HI> in this place are, I shall not only make it cease to be clear against us, but also shew that it will be clear for us. <HI>Nature</HI> and <HI>Sub∣stance</HI> do sometimes signifie what the Philosophers call properly <HI>Substance,</HI> as distingush'd from Accidents, <HI>i. e.</HI> Matter and Form. And thus taken it can be no Object of Sense, can neither be seen nor touch'd. Sometimes it signifies the Properties, natural Qualities, and Accidents with which those Substances are cloathed. Physicians frequently say, that they have the Substance of Herbs in their Medicins, when they have only the Vertue of those Herbs, and not all the Matter and Form: So we say of Meat, that it has but little Juice or <HI>Substance,</HI> when it has but little Vertue or good natural Qualities. The Fathers say, that the <HI>Substance</HI> of Man was deprav'd by Original Sin, <HI>i. e.</HI> the Inclinations and natural Affecti∣ons: St. <HI>Paul</HI> says, that by <HI>Nature</HI> we are the Children of Wrath, that the Gentiles by <HI>Nature</HI> perform the Law: In all which Speeches, and a hundred other, <HI>Nature</HI> and <HI>Substance</HI> do not signifie strictly, as Philosophers use
+<PB N="21" REF="11"/>
+those Words, when they are oppos'd to <HI>Accidents,</HI> but Popularly and Vulgarly, and signifie no more than Pro∣perties, Conditions, Qualities, <HI>&amp;c.</HI> Now supposing <HI>Theo∣doret</HI> to take <HI>Substance</HI> and <HI>Nature</HI> in this place, in the latter Sense, and to mean by them no more than the <HI>ex∣terior Substance,</HI> or visible and sensible <HI>Qualities</HI> of Bread and Wine, the Text is evidently for us. And that the Father must take the Words in this popular Sense, is evi∣dent from the whole Discourse: For he says first, That before Consecration they are <HI>one thing,</HI> and after Conse∣cration they are chang'd and made <HI>another thing:</HI> Now if they be chang'd and made another <HI>thing,</HI> the change must be either in the Interior or Exterior Substance; but it is most plain, they are not chang'd in the Exterior Substance, for as to that, they remain visibly the same, and do not recede from their Nature, as Sense assures us; <HI>Ergo,</HI> it must be in their Interior Substance, which is not liable to Sense; and therefore, as the Father in this very place says, <HI>They are seen and touch'd as before, but are be∣liev'd to be another thing,</HI> i. e. <HI>what they are made, and are ador'd as being what they are believ'd.</HI> The Doctor has told you in the late Book I mentioned, the danger of adoring any thing but God; therefore, according to him, this Father must hold these Symbols he here speaks of, to be chang'd into the Body of our Lord, before they be∣come the Object of Adoration, or else he must be guilty of Idolatry, in teaching that something besides God ought to be Ador'd, <HI>i. e.</HI> Worship'd with Divine Honor. As to the place quoted out of <HI>Gelasius,</HI> the same distinction above of the sense of the Words, <HI>Nature</HI> and <HI>Substance,</HI> solves that; And that there must be such a distinction in the Words of this Father, is most evident; for without that, he contradicts himself in the Words quoted; for he has two Words five times in ten lines; and if in all these Places they must signifie strictly, the Father talks Non∣sense,
+<PB N="22" REF="12"/>
+and so, far enough from being a good Authority to justifie a Separation. But if the Words must be taken in divers Senses, and it not being evident which Sense is applicable to this or that place, then it is at least uncer∣tain and dark, and consequently not fit (as not being so clear as it should) to justifie a Separation. But if the Place it self, from its own terms, disposes us to apply the strict Sense in this or that Part, and the popular Sense in this or that other, so as to countenance Transubstantiati∣on, then this Quotation will be very far from doing them any Service. Now let us consider the Words: He says, <HI>By the Sacrament we are made Partakers of the Divine Nature, yet the Substance or Nature of Bread and Wine do not cease to be.</HI> If <HI>Nature</HI> must be taken strictly and philosophi∣cally in both places, then we are made Partakers of the Divine Nature strictly and philosophically, and not only effectually or virtually: then the Divine Nature must be actually there, and yet the Nature of Bread and Wine will not cease to be there; so that this perhaps thus far might favour Lutheranism, but can no way help the Church of <HI>England:</HI> Then follow these words, <HI>And surely the Image and Similitude of the Body and Blood of Christ are celebrated in the Action of those Mysteries.</HI> We do own this Expression, and do acknowledge it is frequent a∣mongst the Fathers to say, that the blessed Sacrament is a Figure of Christ's Passion, and that the Exterior Sub∣stances, which we see, are a Figure to us of the Interior Substance of Christ's Body and Blood, which we see not, but are to believe to be contain'd under those Species: Then he goes on and says, <HI>Therefore it appears evidently enough to us, that that is to be understood by us in our Lord Christ himself, which we profess in the Image of him,</HI> Ob∣serve, that <HI>Image</HI> is here us'd, as we said above, <HI>We ce∣lebrate and take them, and even as they pass into this, to wit, the Divine Substance, by the Power of the Holy Spirit, re∣maining</HI>
+<PB N="23" REF="12"/>
+<HI>notwithstanding in the Property of their Nature,</HI> &amp;c. We spoke to the signification of the Word <HI>Nature</HI> above, speaking to the foregoing Words of this Father: Now let us consider the Word <HI>Substance,</HI> which the Protestants must have to signifie strictly and philosophically in the Words before, or else this Quotation proves nothing: But that being suppos'd, they must shew us, that it signifies o∣therways in these last Words, <HI>They pass into the Divine Substance,</HI> or else they must grant, that it signifies strictly here also; and then it is Nonsense, for it amounts to thus much, The Elements of Bread and Wine pass into <HI>the Divine Substance</HI> strictly and philosophically, and we are made partakers of the Divine Nature strictly, <HI>&amp;c.</HI> Yet <HI>the Substance and Nature of Bread and Wine do not cease to be strictly and philosophically.</HI> Can any Body un∣derstand this? What does pass into the Divine Sub∣stance? Nothing sure, if the Nature and Substance of Bread and Wine taken strictly and philosophically do remain: But the Internal Substance of Bread and Wine may well pass into the Divine Substance, and yet the Exterior Nature and Substance of Bread and Wine, sig∣nifying the Properties and Accidents of Bread and Wine, may well remain. And that this must be the Sense of the Father, is plain enough from his own words; for he says absolutely, and without any limitation, <HI>That they pass into the Divine Substance,</HI> which must be meant of the Interior Substance of Bread and Wine, if any; for 'tis clear, the Exterior remains, and does not pass. But then again, he qualifies too the Nature, which he says remains, and calls it the <HI>Property of their Nature remaining:</HI> Which Expression does, as we think, clear the distincti∣on, and determins to which side the <HI>strict,</HI> and to which the <HI>popular</HI> Sense ought to be apply'd: At least, we are sure there can be no clear Evidence from hence against us, which yet we must have before we can be remov'd
+<PB N="24" REF="13"/>
+from the long possession, which we have had of a Do∣ctrin and Practice of such concern as this.</P>
+</SP>
+<SP>
+<SPEAKER>Drs.</SPEAKER>
+<P>The Exposition now given, cannot be possibly the Fathers meaning, for that that Sense would quite enervate the force of the Answer; for the Answer must be proper to the Argument, which it is intended to An∣swer, and to the Point which the Argument was made use of to prove: Now the Point to be prov'd was the Doctrin of the <HI>Eutychians,</HI> viz. <HI>That the Human Nature of Christ was chang'd into the Divine;</HI> to prove which, the <HI>Eutychians</HI> urg'd the change in the <HI>Sacrament,</HI> and from thence urg'd to the change of the <HI>Natures;</HI> to which the Father answer'd, that there was <HI>no change</HI> in the Sa∣crament, nor <HI>no more</HI> change in the Natures, than there was in the other: This must needs be the meaning of the Father.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>The Exposition above given by us makes the Fa∣thers words very much more a proper Answer to the <HI>Eutychians</HI> Argument, than they could be otherways; for whereas he asserted an absolute and total Conversion of the Human Nature in Christ, into the Divine, so that it was wholly devour'd and swallow'd up by it, like a drop of Hony by the Sea; and endeavor'd to illu∣strate <NOTE PLACE="marg">Ibid. Dial. 2. pag. 234.</NOTE> it from the <HI>change</HI> of the <HI>Bread</HI> and <HI>Wine</HI> in the Sacrament into the <HI>Body</HI> and <HI>Blood</HI> of <HI>Christ,</HI> as a Point acknowledg'd by both Parties; to this the Father answer'd, that the very Instance he gave was against himself; for that after the change in the Sacrament, there were still <HI>two Natures</HI> remaining, <HI>viz.</HI> the <HI>Nature</HI> of <HI>Christs Body</HI> in the strict Sense, and the <HI>Nature of Bread</HI> as above Explicated, for the <HI>Natural Properties,</HI> in the popular Sense. And this being sufficient to retort the <HI>Eutychian</HI>'s Argument upon himself, by shewing him there was not <HI>such a change</HI> in the <HI>Sacrament,</HI> as he vain∣ly imagin'd in the <HI>Incarnation,</HI> it was all that was ne∣cessary
+<PB N="25" REF="13"/>
+for the Father's design in that place: For as for the Interior change, himself acknowledged it, as well as the <HI>Eutychian.</HI> Are these all the Authorities you have?</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>These are enough, for they are very plain.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>We will leave that to judgment: But withal, we hope the Company will remember, they must be much plainer than any we can bring for our selves: We therefore desire now to shew some for us. And because we will shew how truly the Doctor has asserted, That in an Age since the first 300 years, this Doctrin was generally contradicted, and the contrary Doctrin, <HI>viz.</HI> that of the Church of <HI>England,</HI> generally profess'd and taught (for that he must be suppos'd to have de∣sign'd to prove, or else he do's nothing in Justification of his Separation) and has pitch'd upon the fifth Cen∣tury to make good his Assertion, we will insist particu∣larly upon the Authority of Fathers of that very Cen∣tury: And first, we desire him to consider, St. <HI>Austin,</HI> Tom. 8. in <HI>Psal.</HI> 98. Printed at <HI>Venice, An.</HI> 1584. Where he says, <HI>Exaltate Dominum Deum nostrum, &amp; a∣dorate Scabellum pedum ejus, quoniam sanctum est: Quid habemus adorare? Scabellum pedum ejus; sed videte Fratres, quid nos jubeat adorare. Alio loco Scriptura dicit, coelum mihi sedes est, terra autem scabellum pedum meorum. Ergo terram nos jubet adorare, quia alio loco dixit, quod sit sca∣bellum Dei, &amp; quomodo adorabimus terram, cum dicat aperte Scriptura, Dominum Deum tuum adorabis, &amp; hic dicit, Adorate scabellum pedum ejus? Exponens autem mihi quid sit scabellum pedum ejus, dicit, Terra autem scabellum pedum meorum: Anceps factus sum, timeo adorare terram, ne damnet me, qui fecit coelum &amp; terram: Rursum timeo non adorare scabellum pedum Domini mei, quia Psalmus mihi dicit, Adorate scabellum pedum ejus. Quaero quid sit sca∣bellum pedum ejus, &amp; dicit mihi Scriptura, Terra scabellum</HI>
+<PB N="26" REF="14"/>
+<HI>pedum meorum. Fluctuans converto me ad Christum, quia ipsum quaero hic, &amp; invenio quomodo sine impietate adoretur terra, sine impietate adoretur scabellum pedum ejus: Sus∣cepit enim de terra terram, quia caro de terra est, &amp; de carne</HI> Mariae <HI>carnem accepit; &amp; quiain ipsa carne hic ambulavit, &amp; ipsam carnem nobis manducandam ad salutem dedit; ne∣mo autem illam carnem manducat, nisi prius adoraverit; inventum est quomodo adoretur tale scabellum pedum Domini &amp; non solum non peccemus adorando, sed peccenius non adorando.</HI> We desire the Doctor will be pleas'd to put this place of the Father into English, that the Company may judge of the Sense of it, especially at the latter end, which is chiefly to our purpose.</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>I will, it is thus. <HI>Wavering I turn my self to Christ, because I seek him here, and I find how the Earth may be Ador'd without impiety; without impiety his Foot-stool may be Ador'd; For of Earth he took Earth, because Flesh is of Earth, and he took Flesh of the Flesh of the Virgin</HI> Mary; <HI>and because he walked here in that Flesh, and gave that Flesh to us to Eat for our Salvation; but no Man Eats that Flesh, unless he first Adores; we have found out how such a Foot∣stool of our Lord may be Ador'd, and not only not sin by A∣doring, but we sin by not Adoring,</HI> This is the English of the words quoted, which makes nothing against us, for we in the Church of <HI>England,</HI> do always Adore when we do receive.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>What do you Adore when you receive? Do you Adore that which you do receive? If you do, then that which you receive is the Flesh of Christ, or you are Idolaters, as lately great pains has been taken to prove. If you do not Adore that which you receive, as the Object of your Adoration, but something else, then you will find that St. <HI>Austin</HI> is against you, for that he Ador'd the <HI>Footstool,</HI> that is, <HI>the Flesh i. e.</HI>
+<PB N="27" REF="14"/>
+that Flesh which is eaten; for it were impossible to think, that the Father could be in that <HI>doubt</HI> and <HI>trouble</HI> which he expresses, about the Question, <HI>whether Christ were to be Ador'd or no?</HI> He is con∣cern'd about the Footstool, which he endeavors to make so plain, that he repeats the same thing over and over again, and tells his fear of Adoring or not Adoring: At length he says, By <HI>Footstool,</HI> (because Earth is the Footstool) is meant <HI>Christs Flesh,</HI> in which <HI>Flesh</HI> he walk'd here, which very <HI>Flesh</HI> he gave to us to Eat, which very Flesh no Man Eats, but he first Adores, what? The Flesh of Christ sure: And if <HI>that Flesh</HI> he gave to Eat, be the same <HI>Flesh</HI> he took from our Blessed Lady, and in which he walk'd, as the Father says here most absolutely, then surely <HI>Flesh to be</HI> Eaten, is as much the Object of Adoration, as <HI>that</HI> he took and walked in, which I hope the Doctor will not deny, but was to be Ador'd. So that now, says the Father (having just before spoken of the Flesh which Christ gave us to Eat, and which no Man Eats without first Adoring) <HI>I have found out how such a Footstool ought to be Ador'd, and that we do not only not sin by Adoring, but we sin by not Adoring such a Footstool,</HI> to wit, <HI>Flesh,</HI> which was given us to Eat. Besides the Adoration the Doctor speaks of, may be given at any time, and before any thing, as well as <HI>Bread</HI> and <HI>Wine</HI> in the Sacrament; for if it be only the person of Christ sitting in Hea∣ven, which ought to be Ador'd, and is Ador'd when we are put in mind of him by such Instruments; we might as well fall down and Adore the Person of Christ in Heaven, when we see an <HI>Image</HI> of him, because that puts us in mind of him (which yet the above named Doctor says is Idolatry) or take a piece of <HI>common Bread</HI> at ones House, remembring
+<PB N="28" REF="15"/>
+by it what <HI>Christ</HI> once did with Bread, fall down and Adore before that Bread.</P>
+</SP>
+<SP>
+<SPEAKER>Nar.</SPEAKER>
+<P>St. <HI>Ambrose,</HI> who was somewhat Elder than St. <HI>Austin,</HI> and his Master, has the Plainest Quotati∣ons to prove this Point that can possibly be, in his Book, <HI>De iis qui Mysteriis initiantur. Cap.</HI> 9. in his fourth Book, <HI>de Sacramentis, Cap.</HI> 4. <HI>&amp; Cap.</HI> 5. which Books we desir'd; but the Doctor being in his own House (tho' he confess'd he had the Books) he might chuse whether he would let us have them or no. And indeed for one reason or other we had them not, nor St. <HI>Chrysostom</HI> of the same Age, out of whom we would have shewn only his 83 <HI>d. Homily,</HI> upon the <HI>26th.</HI> of St. <HI>Matthew,</HI> and his <HI>Sermon</HI> of the <HI>Eucharist in Encoeniis,</HI> to prove our Doctrin; we would have shewn very many places from that Fa∣ther; but having not these Books, nor others we ask'd for, we were forc'd to quote some places without Book, as one out of St. <HI>Gregory Nyss. Orat. Catechet.</HI> Cap. 37. <HI>Verbo Dei Sanctificatum panem in Dei Verbi Corpus credo transmutari,</HI> &amp;c. <HI>hoc autem fit virtute Benedictionis in illud transelement at â eorum quae apparent naturâ. I do believe the Bread Sanctified by the Word of God to be chang'd into the Body of God the Word,</HI> &amp;c. <HI>but this is done by the Power of Consecration (or bles∣sing) the nature of those things which appear being Trans∣elementated into it.</HI> St. <HI>Cyril</HI> of <HI>Jerusalem</HI> we had, out of whom we desir'd the Doctor to read these following words in English. <HI>Cum igitur Christus ipse sic affirmet at que dicat de pane,</HI> HOC EST CORPUS MEUM; <HI>Quis deinceps audeat dubitare? Ac eodem quoque confir∣mante ac dicente,</HI> HIC EST SANGUIS MEUS, <HI>quis in∣quam, dubitet &amp; dicat non esse illius sanguinem? A∣quam aliquando mutavit in Vinum, quod est Sanguini propinquum in Cana Galileae sola voluntate, &amp; non erit</HI>
+<PB N="29" REF="15"/>
+<HI>dignus cui credamus, quod Vinum in Sanguinem transmu∣tasset? Si enim ad nuptias Corporeas invitatus stupendum miraculum operatus est, &amp; non multo magis Corpus &amp; Sanguinem suum Filiis sponsae dedisse illum confitebimur? Quare, cum omni certitudine Corpus &amp; Sanguinem Christi sumamus: Nam sub specie Panis datur tibi Corpus, &amp; sub specie Vini datur Sanguis, ut sumpto Corpore &amp; San∣guine Christi efficiaris ei comparticeps Corporis &amp; San∣guinis,</HI> <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>Christopheri erimus, hoc est, Christum fe∣rentes, cum ejus Corpus &amp; Sanguinem in membra nostra receperimus, atque ita, ut beatus Petrus dicit, Divinae Na∣turae consortes efficiemur,</HI> &amp;c. <HI>Hoc sciens, &amp; pro certis∣simo habens Panem hunc, qui videtur à nobis non esse Panem, etiamsi gustus Panem esse sentiat, sed esse Corpus Christi, &amp; Vinum quod à nobis conspicitur tametsi sensui gustus Vinum esse videatur, non tamen Vinum, sed Sanguinem esse Christi.</HI> Sir, if you please, I will spare you the trouble, and render them my self; and pray tell the Company when I wrong the Text: The English then of these words, is thus:</P>
+<P><HI>When therefore Christ himself affirms and says of Bread,</HI> THIS IS MY BODY; <HI>Who afterwards will dare to doubt? And the same also confirming and saying,</HI> THIS IS MY BLOOD; <HI>Who, I say, may doubt and say, That it is not his Blood? He once chang'd Water into Wine, which is next to Blood, in</HI> Cana <HI>of</HI> Galilee, <HI>by his only Will; and shall he not be worthy that we be∣lieve him that he chang'd Wine into his Blood? For if being invited to a corporal Wedding, he wrought so won∣derful a Miracle, shall we not much more confess, that he gave his Body and Blood to the Sons of his own Spouse? Wherefore let us take the Body and Blood of Christ with all assurance; for under the Species (or Ap∣pearance) of Bread, the Body is given thee; and under the Species of Wine, the Blood is given: so that the Body</HI>
+<PB N="30" REF="16"/>
+<HI>and Blood of Christ being taken, thou art made to him a Fellow-partaker of his Body and Blood. We are made</HI> Christophori, i. e. <HI>Bearers of Christ, when we take his Body and Blood into our Members. So as blessed St.</HI> Peter <HI>says, We are made Partakers of the Divine Nature,</HI> &amp;c. <HI>Knowing this, and holding it for most certain, that the Bread which we see is not Bread, though our Tast judges it to be Bread, but the Body of Christ: And the Wine which we see, though it may ap∣pear Wine to our Sense of Tasting; yet is not Wine, but the Blood of Christ.</HI> Doctor, Is this plain English, and is the Father faithfully Translated?</P>
+</SP>
+<SP>
+<SPEAKER>Drs.</SPEAKER>
+<P>We do not deny, but the Fathers now cited, have the Words quoted in their Writings; nor do we deny but that they are well enough English'd: but we do confess all they say; for we of the Church of <HI>England</HI> do own and acknowledge a very great Change and Alteration in the Sacrament, and do not deny, but that the Fathers do frequently make mention of some wonderful Change; but we do not undertake to determin Magisterially, and say what manner of Change this is, nor does our Church impose such a Determination, as a neccessary Con∣dition of Communion with us, as the Church of <HI>Rome</HI> does; and such a one as the Fathers contra∣dict, as we have shewn out of <HI>Theodoret</HI> and <HI>Gelasius.</HI> And this very Father quoted here, <HI>viz.</HI> St. <HI>Cyril,</HI> calls it <HI>Bread</HI> and <HI>Wine,</HI> at the same time that he calls it the <HI>Body</HI> and <HI>Blood of Christ:</HI> For the first Words of his Quotation are, <HI>When Christ affirms of Bread,</HI> &amp;c. You must shew that the <HI>Substance</HI> of Bread ceases.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>The Evidence you pretend to from <HI>Theodoret</HI> and <HI>Gelasius,</HI> we think we have spoke to sufficiently already. If the Fathers do mention some wonder∣ful Change in the Sacrament, and the Protestants do
+<PB N="31" REF="16"/>
+agree with them in allowing that there is such a Change, but cannot say what a one it is, what cause have they to separate from a great Communion, even the whole visible Catholic Church upon Earth; when, for ought they know, this <HI>Change</HI> which they grant, may be <HI>Transubstantiation,</HI> which they deny, and make the Cause of their Separation, as being false? For they acknowledge they <HI>know not how</HI> it is chang'd, and in such Cases as this, I cannot imagine how they can attain a Negative Knowledge without a Positive, <HI>i. e.</HI> how they can be certain it is not <HI>Transubstantia∣tion,</HI> when the whole Catholic Church said it was; and not to be able to know Certainly what it is; espe∣cially when to believe right of this Point, is an Ar∣ticle of Faith, conditional of Man's Salvation; and therefore necessary to be believed in its true Sense; especially when the Consequence of believing wrong will be <HI>Blasphemy</HI> or <HI>Idolatry</HI> in the Practice. For if <HI>Transelementation</HI> in St. <HI>Gregory,</HI> and <HI>Transmuta∣tion</HI> in St. <HI>Cyril,</HI> both which terms the Doctor owns and allows, should mean as much as <HI>Transubstantia∣tion;</HI> then are the Protestants guilty of Heresie, in believing the wrong side of a Proposition, which con∣tains in it an Article of Faith; and of <HI>Blasphemy in practice,</HI> in robbing God of his Honor, and using him like a Creature. Now what should make them think (for know, I am sure they cannot) that <HI>Transelemen∣tation</HI> signifies less than <HI>Transubstantiation?</HI> For sure by <HI>Elements</HI> are meant <HI>Substances.</HI> Moreover, in all Changes, there must a Term from which, and a Term to which. In this Change I desire to know the Term from which, and to what it is chang'd: From <HI>Bread</HI> to <HI>Christ's Body,</HI> were an Answer intelligible, and agreeable to the Terms by which the Change is express'd: But to say from Common Bread to San∣ctified
+<PB N="32" REF="17"/>
+Bread, is to talk very unintelligibly, and very unanswerably to the expression you use to this Change; for this would not be at all <HI>wonderful.</HI> We see Churches and Church-yards thus chang'd every day, from <HI>Common</HI> to <HI>Consecrated</HI> or <HI>Sanctified</HI> Places, and yet we think it no Wonder, or account it no Miracle; yet we should wonder to hear one say, after conse∣crating a Church or a Churchyard, it were Transele∣mentated or chang'd wonderfully <HI>by the Word of God,</HI> as St. <HI>Gregory</HI> says; or <HI>By the power of the holy Spirit,</HI> as <HI>Gelasius</HI> has it; or <HI>By the Omnipotency of God,</HI> as St. <HI>Cyprian</HI> says, and many other Fathers in such like Ex∣pressions. You say, you do <HI>not determin</HI> the Change, <HI>&amp;c.</HI> the more to blame you. For if it be necessary to Sal∣vation, to believe right in this Point, <HI>i. e.</HI> to believe that the Object present to you after Consecration, is the Body of Christ, if it be so; and to believe it it is not, if it be not so; then ought you at least to determin whether it be so or no, and make a firm Assent to that your Determination a necessary Con∣dition of Communion with you (a firm and actu∣al Belief of one of these two Propositions, <HI>It is really the Body of Christ,</HI> or <HI>it is not,</HI> being a necessary Con∣dition of Mans Salvation.) For sure you will hold, that that which is a necessary Condition of Salvation, ought to be made a necessary Condition of Communion; therefore if you do not determin at least so far, as to say, <HI>It is,</HI> or <HI>it is not the Body of Christ,</HI> and require that this your Determination be believ'd as a Condi∣tion of Communion with you, you do by the first, <HI>i. e.</HI> not <HI>determining,</HI> leave all People in your Com∣munion in a very great uncertainty, as to the Condi∣tion of their Salvation: For how can private persons have any kind of certainty in a disputed Point, with∣out some judicial Determination of that dispute?
+<PB N="33" REF="17"/>
+After which indeed, they may have Certainty, or Pro∣bability answerable to the Authority of the Determinati∣on, which will be infallible, if the Authority be infal∣lible; or only a Probability; and that greater or less, ac∣cording to the Degrees of Credit, which the Authority may challenge, if that Authority be but able to give a probable Determination. By the second, <HI>viz.</HI> not re∣quiring the belief of your Determination, as a Conditi∣on of Communion, in case you do determin, you do con∣sess that <HI>Heretics</HI> and <HI>Blasphemers,</HI> or <HI>Heretics</HI> and <HI>Ido∣laters,</HI> may be of your Communion, tho' professedly such, <HI>i. e.</HI> you do allow your Communion to them who observe not the Condition of their Salvation. For if de∣termining it <HI>not to be the Body of Christ,</HI> you do not make the belief of this Determination, a Condition of Com∣munion, you do allow those that believe contradictori∣ly, <HI>(i. e.</HI> that <HI>it is the Body Christ,</HI> and in conse∣quence of that belief make it the formal Object of Ado∣ration,) to be of your Communion; and yet if your De∣termination be true, these last, who believe and adore, as a aforesaid, are <HI>Idolaters,</HI> and do break thereby the Con∣dition of their Salvation. Now I leave to the judgment of the Company, whether this undetermined Doctrin of yours be a lawful cause for you to separate from the Church you were once Members of, and was acknow∣ledg'd the true Church, to believe you know not what your selves; for I am sure you cannot determin what change it is.</P>
+<P>As to the Term <HI>Bread</HI> used by the Father, it can create no difficulty; for when we said, as we did at first, that all Scripture was to be expounded Literally, if the li∣teral Sense did not imply a Contradiction; we did sup∣pose that in case it did imply a Contradiction, it ought to be expounded otherwise. Instance was given in this, <HI>I am a Vine:</HI> What we suppos'd of the Scripture, must
+<PB N="34" REF="18"/>
+hold of all Speeches, if the literal Sense implies a Con∣tradiction, they must be expounded otherwise. Now mark the Father, he says, Christ affirming of Bread, <HI>this is my Body, &amp;c.</HI> This Bread is my Body is a Con∣tradiction, therefore Bread or Body must not be taken Literally. At the latter end of this Quotation, the Fa∣ther says, the <HI>Bread</HI> which we see is <HI>not Bread,</HI> but the Body of Christ; there cannot be a plainer Contradiction than <HI>is,</HI> and <HI>is not;</HI> therefore <HI>Bread</HI> the Subject in this Proposition, of which so palpable a Contradiction is pre∣dicated, must needs be under some other Signification besides it's Literal one, because this Predicate so pe∣remptorily Negative, <HI>is not Bread,</HI> and so determin'd positively, <HI>but Christs Body,</HI> are so evident and plain, that they are not capable of being misconstrued, especially being Predicates, which always limit and determin the Subject. So that <HI>Bread</HI> is so call'd, because it once was Bread (as <HI>Moses</HI> his Rod, tho' chang'd into a Ser∣pent, was notwithstanding call'd a Rod, because it had been so) and still appears to the Senses to be Bread, as the Father here tells us, with this Reduplication for fear of mistake, <HI>yet it is not Bread.</HI> I cannot use plainer words to explicate the Father, than his own. He that can make Protestantism out of these Texts, may ex∣pound <HI>Bellarmin</HI> and the Council of <HI>Trent,</HI> when they please, and make them <HI>Protestants</HI> too.</P>
+<P>As to your Demand, that we should shew that the <HI>Substance</HI> of Bread ceases; I think you never need have it shewn plainer than in the words before you, which say, <HI>that that which seems Bread is not Bread;</HI> I suppose by <HI>Substance</HI> of Bread, you mean the <HI>Being</HI> of Bread; therefore the <HI>Being</HI> ceasing, the <HI>Substance</HI> must cease; but the <HI>Being</HI> ceases according to this Text; <HI>for that which was Bread is not Bread,</HI> therefore the Substance ceases, and there is a change, which you grant <HI>wonderful;</HI> and what
+<PB N="35" REF="18"/>
+can this change be, but this Substance ceasing to be is chang'd into another Substance, which we call Transub∣stantiation? And yet</P>
+<P>Because St. <HI>Cyprian</HI> lies here before us, I will shew <NOTE PLACE="marg"><HI>St.</HI> Cyp. <HI>de C<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>en. Domini.</HI></NOTE> you a Quotation out of him, where he says, <HI>that Bread is chang'd, not only in Effigie, or Similitude, but in Nature, being by the Omnipotent Power of God made Flesh.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>I wonder you should quote that place out of St. <HI>Cyprian,</HI> which is notoriously known to be none of his, for the Manuscript of that Work is now in <HI>Oxford Li∣brary,</HI> and bears the Name of another Author, some Hundred Years younger than St. <HI>Cyprian.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>But do you acknowledge that the words quo∣ted out of this Work (be it whose it will) do signifie Transubstantiation?</P>
+</SP>
+<SP>
+<SPEAKER>Drs.</SPEAKER>
+<P>We do not deny, but that many Authors of latter Ages have writ very odly of that Point, and we do think this, among the rest, one of them.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>This is the first time, that ever we heard of any such Manuscript of this work in <HI>Oxford;</HI> and yet I have met with many Protestants that have made it their busi∣ness to prove it none of St. <HI>Cyprians;</HI> and 'tis much that none of them should ever hear of this Manuscript and urge it, if it were so evidently known to be another Man's, and whose, and of what Age. But this I am sure, that <HI>Cocus,</HI> the famous Man for excepting against places brought by <HI>Catholics</HI> for their Doctrins, do's im∣pugn this Book chiefly from <HI>Bellarmin's</HI> Confessions, who indeed do's say, <HI>that it may seem to be none of St.</HI> Cyprians; but adds immediately after, <HI>that it was the work of some Learned Man of the same Age, as our Ad∣versaries acknowledge,</HI> to which <HI>Cocus</HI> says nothing, and therefore may well be thought to allow it. Mr. <HI>Fulk</HI> against the <HI>Rhemish</HI> Testament, upon 1 <HI>Cor. cap.</HI> 7. <HI>fol.</HI> 282. says, <HI>the Author de Coena Domini,</HI> which is the
+<PB N="36" REF="19"/>
+Work now mentioned, <HI>was not in time much Inferior to</HI> Cyprian: And <HI>Erasmus</HI> (a great Man with the Prote∣stants) in his Annotations annexed to St. <HI>Cyprians</HI> Works, Printed at <HI>Basil,</HI> 1558. <HI>fol.</HI> 287. affirmeth it to be the Work of some Learned Man of that Age; so that taking <HI>Cocus</HI> his silence to what <HI>Bellarmin</HI> says, and Mr. <HI>Fulk</HI> and <HI>Erasmus</HI> their plain affirmations of the Age of this Work, to be worth any thing; and taking this Doctors Con∣fession, that the words in this Work are <HI>odd,</HI> as savor∣ing of Transubstantiation, you have an Argument of <HI>Transubstantiation</HI> in St. <HI>Cyprians</HI> Age, or at least of a time not much inferior.</P>
+</SP>
+<SP>
+<SPEAKER>Gentlem.</SPEAKER>
+<STAGE>to the Doctor.</STAGE>
+<P>Sir, I have observ'd the Discourse as well as I could, and I find the great Point in Dispute, is, what the Fa∣thers held a great while ago. As to the Doctrin in de∣bate, you have brought places of both sides, which we must consider more at leisure; but at present will you be pleas'd to Answer me a Question or two, which oc∣cur to me to ask?</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>With all my Heart.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>How long is it since Transubstantiation (the word I mean) has been Establish'd?</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>Ever since the <HI>Lateran Council,</HI> about 450 Years ago.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>Did the Church understand the word <HI>Transub∣stantiation,</HI> then to signifie any new Doctrin, or only to express the very self same Doctrin which they be∣liev'd before?</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>We do believe that the <HI>word</HI> was not taken to signifie any thing but what was believ'd before.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>When did the Church begin to believe that Doctrin, which it seems it did believe at and before the <HI>Lateran Council,</HI> and thought then well express'd by the word <HI>Transubstantiation?</HI></P>
+</SP>
+<SP>
+<PB N="37" REF="19"/>
+<SPEAKER>Dr.</SPEAKER>
+<P>We confess we cannot tell, for great Errors arrive often from little beginnings and do grow up insensibly.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>How long was it after the <HI>Lateran Council</HI> before this Doctrin was complain'd of?</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>About three hundred years.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>How came we to discern this to be an Error three hundred years after, which our Forefathers held for a Truth three hundred years together in express Terms, and no body knows how much longer they held the same thing in other Terms? Is it not much, an Error could be so general, and so long maintain'd without any Opposition or Notice taken of its Birth or Origin?</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>It was not so General, but that some oppos'd it, as the <HI>Waldenses;</HI> but it is not strange that an Error should be general and long maintain'd; for the Church of <HI>Rome</HI> says, that the <HI>Greek Church</HI> err'd generally and long, in teaching that the <HI>Holy Ghost</HI> proceeds not from the Son.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>But the Church of <HI>Rome</HI> never taught, that the <HI>whole Catholic Church</HI> err'd in teaching that Doctrin; for though that part which is now call'd the <HI>Greek Church,</HI> be condemn'd for that Error, yet we know how and when it began, and who oppos'd it; we know that very many of the <HI>Greeks</HI> never consented to it, but did then, and have always since continued in Communion with the Church of <HI>Rome;</HI> so that that Error was so far from being general, that it was always oppos'd by the <HI>Latin Church,</HI> and great part of the <HI>Greeks</HI> too; where∣as no Body oppos'd Transubstantiation, but known He∣retics, who began before the <HI>Lateran Council</HI> we speak of, and were condemn'd by it; and were such as the <HI>Waldenses,</HI> (a People, as I suppose, you would be loath to own for your Predecessors.) And that all the World should, consent so quietly all at one time to adore that for God, which the day before was universally believ'd to be but a piece of Bread, and was us'd accordingly; and no Man
+<PB N="38" REF="20"/>
+living in the World take notice when this was done, nor upon what occasion, or give it the least Opposition, is a Miracle ten times greater (if there be any Degrees in Miracles) than this, which you cannot believe for its diffi∣culty, <HI>viz. Transubstantiation;</HI> especially when we can shew in every Age, when any Opposition was made to this Doctrin, who they were that did it, and what be∣came of them. <HI>Berengarius</HI> was above a hundred years before the <HI>Lateran Council;</HI> yet we can shew that he was oppos'd by Bishops and Fathers of almost all Countries, as by <HI>Lanfranck</HI> of <HI>Canterbury, Durandus Troaernensis, Guitmundus,</HI> four Bishops of <HI>Rome,</HI> and by the Pastors of all Countries, how he recanted three times, and how he died. <HI>Joannes Scotus Erigena,</HI> who lived about two hun∣dred years before, and had laid some Grounds for <HI>Beren∣garius</HI> his Error, was treated as an <HI>Innovator</HI> by <HI>Hincma∣rus</HI> and others, himself forced to retire out of <HI>France,</HI> and <HI>his Book</HI> not heard of again till two hundred years after; and no Man living can tell us, when this absurd Doctrin (as the Doctor calls it) which has had such Success in the World, as to obtain Belief universally, for several hundred years, ever had any Beginning, or any considerable Oppo∣sition. For though the Word <HI>Transubstantiation</HI> was not commonly us'd before the Council of <HI>Lateran,</HI> it matters not, nor makes any new Belief, since it has always been the constant practice of the Church in the General Councils, when it did condemn Heretical Opinions, or decide any Point in debate, to expound the true Sense of Scripture, upon that very Point, by some very signi∣ficant Word, to leave no occasion of Cavilling or Dis∣puting upon its Decisions, declaring by an explicit Act and positive Definition, what was the true Sense of Soripture, and what implicitly all the whole Catholic Church did believe before, as it appears in several other Councils, as in that of <HI>Nice</HI> against the <HI>Arians,</HI> where the
+<PB N="39" REF="20"/>
+Word <HI>Consubstantial</HI> was found out to condemn their He∣resie, they pretending that the Son was <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, that is, of <HI>like Substance</HI> to the Father, when the Council defin'd him to be <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>, <HI>i. e.</HI> of the <HI>same Substance</HI> or <HI>Consub∣stantial.</HI> The same you may observe in the Council of <HI>Chalcedon,</HI> where <HI>Nestorius</HI> was condemn'd by the new distinction of <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/> and <GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>.</P>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P>Supposing, Sir, that the Roman Doctrin in this Point be false, and their practice <HI>Idolatry,</HI> and yet both were Universal for several Ages together, which way can the <HI>Church</HI> of <HI>England</HI> pretend to good and lawful Ordi∣nation? for they pretend to none, but what they receiv'd from <HI>Idolaters, i. e.</HI> the Church of <HI>Rome.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>Very well, for though they were <HI>Idol<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ters,</HI> they might give <HI>good</HI> and <HI>lawful</HI> Ordinations, for the very Church of <HI>Rome</HI> holds, that <HI>mortal sin</HI> do's not hinder a Bi∣shop or Priest from executing his Function.</P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>All Mortal Sins may not hinder a Bishop from executing his Function, or giving good and lawful Or∣dination, yet some may: For if a Bishop should become a <HI>Jew,</HI> (and the same thing may be said if he becomes an <HI>Idolater)</HI> you surely will not allow him to give good and lawful Christian Ordination: For that which de∣stroys the Essence of a Church or a Christian, must needs disable those it falls upon, from giving <HI>legal</HI> Commissions at least, to others to govern the Church, or to administer the Sacraments of <HI>Christ.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Drs.</SPEAKER>
+<P>There are <HI>two sorts</HI> of <HI>Idolatry,</HI> one of the <HI>Hea∣thens,</HI> and another (if you will have it) of the <HI>Church of Rome.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Cath.</SPEAKER>
+<P>We will have any thing that you will make evi∣dent; but when you tell us of <HI>two sorts</HI> of <HI>Idolatries,</HI> I hope you do not mean <HI>Material</HI> and <HI>Formal</HI> Idolatry, the first of which, if purely such, is no Crime. We speak all along of Formal <HI>Idolatry,</HI> which you must ac∣cuse
+<PB N="40" REF="21"/>
+the Church of <HI>Rome</HI> of, or else, <GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/> nothin<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> <GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/> if you do, I pray shew how the natur<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> of <HI>formal</HI> <GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/> becomes chang'd by its relation to <HI>Heathens,</HI> from what it is when it relates to a <HI>Papist.</HI> I doubt you mean by your <HI>two sorts</HI> of <HI>Idolatry, Idolatry</HI> which is <HI>Idolatry,</HI> and <HI>Idolatry</HI> which is <HI>not Idolatry,</HI> like the honest Preacher <GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/> talk'd of <HI>three sorts</HI> of <HI>Seekers,</HI> one that sought and found, another who sought and did not find, and a third which neither sought nor found; the <HI>first Idolatry</HI> <GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/> belong to the <HI>Heathens;</HI> and the second, the <HI>no Idolatry,</HI> to the <HI>Papists.</HI></P>
+<P>And now we shall leave it to the Judgment of this worthy Company to consider, how clear and evident you have made it, that you had such just Cause to sepa∣rate from the <HI>whole Church,</HI> as to excuse you from <HI>formal</HI> or Criminal <HI>Schism.</HI></P>
+</SP>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="21"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

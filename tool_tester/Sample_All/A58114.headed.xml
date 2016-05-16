@@ -1,0 +1,6077 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">King Edgar and Alfreda a tragi-comedy : acted at the Theatre-Royal / written by Edward Ravenscroft ...</TITLE><AUTHOR>Ravenscroft, Edward, 1654?-1707.</AUTHOR></TITLESTMT><EXTENT>Approx. 174 KB of XML-encoded text transcribed from 43 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2005-10 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A58114</IDNO>
+
+
+<IDNO TYPE="stc">Wing R331</IDNO>
+
+<IDNO TYPE="stc">ESTC R14144</IDNO>
+
+<IDNO TYPE="eebo citation">13336001</IDNO>
+
+<IDNO TYPE="oclc">ocm 13336001</IDNO>
+
+<IDNO TYPE="vid">99094</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A58114)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 99094)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 473:15)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">King Edgar and Alfreda a tragi-comedy : acted at the Theatre-Royal / written by Edward Ravenscroft ...</TITLE><AUTHOR>Ravenscroft, Edward, 1654?-1707.</AUTHOR></TITLESTMT><EXTENT>[12], 71, [1] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for M. Turner ...,</PUBLISHER>
+<DATE>1677.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Reproduction of original in Huntington Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Edgar, --  King of England, 943 or 4-975 --  Drama.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2003-04</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2003-05</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2005-03</DATE><RESPSTMT><RESP>Emma (Leeson) Huber</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2005-03</DATE><RESPSTMT><RESP>Emma (Leeson) Huber</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2005-04</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A58114">
+<STC T="W">R331</STC>
+<BIBNO T="oclc">13336001</BIBNO>
+<VID>99094</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>KING
+EDGAR
+AND
+ALFREDA. A
+Tragi-Comedy,
+Acted at the
+<HI>Theatre-Royal.</HI> Written
+By EDWARD RAVENSCROFT, Gent.</P>
+<Q>Illud quod medium est atque inter utrumque probamus.</Q>
+<BIBL>Mart.</BIBL>
+<P><HI>LONDON,</HI>
+Printed for <HI>M. Turner</HI> near <HI>Turn-Style</HI> in
+<HI>Holbourn.</HI> M.DC.LXXVII.</P>
+</DIV1>
+<DIV1 TYPE="note to the reader">
+<PB REF="2"/>
+<PB REF="2"/>
+<OPENER><SALUTE>READER,</SALUTE></OPENER>
+<P>INstead of a <HI>Preface,</HI> I will only treat you with the
+<HI>Life</HI> of <HI>Edgar,</HI> as I find it in our <HI>English Chronicles;</HI>
+No <HI>Romance</HI> Affords more variety in so few words;
+and the pleasure of reading it will recompence the
+trouble.</P>
+</DIV1>
+<DIV1 TYPE="biography">
+<HEAD>The LIFE of EDGAR, King of the
+West Saxons.</HEAD>
+<P><HI>EDgar,</HI> by his Brother's death, became King of all
+<HI>England</HI> at Sixteen Years of age; but his Coro∣nation
+when, and where, and by whom; is un∣certain.
+Some say he was Crown'd at <HI>Kingston</HI> upon
+<HI>Thames</HI> by <HI>Otho</HI> Archbishop of <HI>Canterbury,</HI> in the First
+Year of his Reign; others say not till the Twelfth;
+and <HI>William of Malmsbury</HI> not till the Thirtieth. An∣other
+Chronicle saith in his Eleventh year, and that
+in the City of <HI>Bath,</HI> by the hands of <HI>Dunstan,</HI> whom he
+call'd home out of <HI>Flanders,</HI> where he liv'd in Exile.
+This King had no Warr all his Reign, yet always well
+prepar'd for Warr; he govern'd the Kingdome in
+great Peace, Honour and Prosperity, gaining thence
+the Sirname of <HI>Peaceable.</HI> The <HI>Saxons</HI> acknowledg'd
+him their sole Soveraign without Division of Provin∣ces
+and Titles; under him ended the <HI>Heptarchy;</HI> till
+<PB REF="3"/>
+then the Land was cantl'd out into Seven Principali∣ties.</P>
+<P>His Acts were some Virtuous, some Politick, some
+Just, and some Pious, and some with a mixture of
+Vice; but those related to Women.</P>
+<P>His Care and Wisdome was great in guarding the
+Coast round with Ships, to the Number of Three
+thousand six hundred, which he divided into Four
+Squadrons to sayl to and fro about the Four Quarters
+of the Land, meeting each other. Thus he kept out
+wisely the Force of Strangers, prevented Foreign Warr,
+and secur'd the Coasts from Pyrats. He would him∣self
+sayl round his Kingdome once every Summer. In
+the Winter and Spring time he usually Rode the Cir∣cuit
+as a Judge Itinerant through all his Provinces, to
+see Justice well administer'd, and the poor not op∣pressed;
+he severely punish'd his Judges, if he found
+them corrupted with Bribes.</P>
+<P>To repress Drunkenness which the <HI>Danes</HI> had
+brought in, he made a Law, ordaining a size by certain
+pinns in the Cup, with penalty to any that shou'd pre∣sume
+to drink deeper then the Mark.</P>
+<P>To clear the Land from Wolves which in his dayes
+did great annoyance to his Country, he wholly remit∣ted
+the Tribute imposed on the Princes of <HI>Wales</HI> by
+King <HI>Athelston,</HI> appointing in lieu thereof a certain
+Number of Wolves yearly to be paid, whereof the
+Prince of <HI>North Wales</HI> for his part was to pay Three
+hundred, which continu'd for Three years space, and
+in the fourth year there was not a Wolf to be found,
+and so the Tribute ceas'd.</P>
+<P><PB REF="3"/>
+Towards the end of his Reign the <HI>Welsh-men</HI> mov'd
+some Rebellion, against whom he went with a
+Mighty Army, and chastis'd the Authors; but when
+his Souldiers had gotten great Spoyls, and made prey
+upon the Innocent Country people, he commanded
+them to restore it all back again, which if it made
+some few <HI>English</HI> angry, it pleas'd the whole Country
+of the <HI>Welsh,</HI> and rais'd him high in their admiration.</P>
+<P>His Pious Acts were, that he built and re-edify'd
+seven and forty Monasteries, and meant to have made
+them up Fifty, but was prevented by Death.</P>
+<P>In his Progress going to <HI>Chester,</HI> he summon'd to his
+Court there all the Kings that held of him, took ho∣mage
+of them, their names are <HI>Kened,</HI> King of <HI>Scots;
+Malcolm</HI> of <HI>Cumberland; Maccuse</HI> of the <HI>Iles;</HI> Five of
+<HI>Wales, Duffnall, Howell, Griffith, Iago, Iudethil.</HI> These
+he had in such awe, that going one day into a Gally
+he caus'd them to take each man an Oar and row him
+down the River <HI>Dee,</HI> whilst himself sate at the Stern,
+saying, <HI>That his Successors might then glory to be Kings of</HI>
+England, <HI>when they had such Honour done them.</HI></P>
+<P>The same Year he gave to <HI>Kened</HI> the <HI>Scottish</HI> King
+many Rich Presents, and the whole Country of <HI>Law∣dian</HI>
+or <HI>Lothien,</HI> to hold of him on condition, That he
+and his Successors shou'd repair to the <HI>English</HI> Court at
+high Festivals when the King sate Crown'd; gave
+him also many Lodging places by the way, which till
+the dayes of <HI>Henry</HI> the Second, were still held by the
+Kings of <HI>Scotland.</HI></P>
+<P>He was of Stature not tall, of body slender, yet so
+well made, that in strength he chose to contend with
+<PB REF="4"/>
+such as were thought strongest, and dislik'd nothing
+more, then that they shou'd spare him for Respect or
+fear to hurt him. <HI>Kened</HI> King of <HI>Scots</HI> then in the
+Court of <HI>Edgar;</HI> sitting one day at Table, was heard
+to say jestingly among his Servants, <HI>He wondered how
+so many Provinces could be held in subjection by such a little
+dapper man.</HI> His words were brought to the King's
+Ear, he sends for <HI>Kened</HI> as about some private business,
+and in talk drawing him forth to a secret place, pro∣duces
+two Swords, gave one of them to <HI>Kened, And
+now,</HI> saith he, <HI>it shall be try'd; which ought to be the Subject;
+for it is shameful for a King to boast at Table, and shrink in
+Fight. Kened</HI> abash'd demanded his pardon for what
+he had simply spoken and no way intended in con∣tempt,
+or to his disparagement, wherewith the King
+was satisfy'd.</P>
+<P>His Faults were, that he deflowr'd a sacred Nunn
+call'd <HI>Wolsechild,</HI> on whom yet he begot a Saint, the
+Chaste <HI>Edyth.</HI> After her, he took another Virgin out
+by force, call'd <HI>Ethelf<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ede;</HI> where she was placed by
+her Friends to avoid his pursuit. For her excellent
+Beauty she was call'd <HI>Ethelf<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>ed</HI> the <HI>White;</HI> He kept
+her as his Concubine, but liv'd not obstinately in the
+offence; for sharply reproved by the Archbishop
+<HI>Dunstan,</HI> he submitted to seven years penance.</P>
+<P>Another Story there goes of him, that he chanc'd
+to hear of a Virgin, Daughter to a Western Duke, ex∣ceedingly
+prais'd for Beauty, and coming to <HI>Andover,</HI>
+commanded her to his Bed; The Mother not daring
+flatly to deny, yet abhorring that her Daughter shou'd
+<PB REF="4"/>
+be so deflowr'd, brought in the dark her Maid to him
+dress'd in her Daughters Cloaths. A Wench it seems
+not unhandsom nor unwitty, who supply'd the place
+of her Young Lady. In the Morning making haste
+to rise, daylight scarce yet appearing, was by the King
+ask'd <HI>Why she made such haste?</HI> She answered, <HI>To do the
+Work her Lady had set her, not daring to hazard her displea∣sure
+by a longer stay.</HI> By which words the King per∣ceiv'd
+the Deceit, and turn'd it to a Jest. But so well
+lik'd her company, that he kept her with him, advanc'd
+her in Honour above her Mistress, and made her take
+place of her in publick; Lov'd her and accompany'd
+her only till he marry'd <HI>Alfreda.</HI></P>
+<P><HI>Alfreda</HI> was the only Daughter of <HI>Ordgar</HI> Duke of
+<HI>Devonshire,</HI> Founder of <HI>Tavestock</HI> Abby in that Coun∣ty.
+She was extreamly cry'd up for a Beauty; the
+King hearing the loud Commendations, sent his Fa∣vourite
+Earl <HI>Ethelwold</HI> to see her, intending if she were
+found such as answer'd report, to demand her in Mar∣riage.
+The Young Earl at sight of the Lady was so
+surpriz'd with Love, that he began to court her for
+himself, and concealing the Kings Intentions, got her
+Fathers consent. Hereupon the Earl posted to the
+King, told him that the Lady was fair indeed, but no∣thing
+answerable to the fame that went of her; yet
+desir'd the King that he might marry her, as being her
+Fathers Heir, thereby to raise his Fortunes: The
+King consented, and he took another Journey to con∣summate
+the Marriage. Soon after the Fame of her
+Beauty began to spread more than before; The King
+<PB REF="5"/>
+began to doubt he had been abus'd, and to find out
+the truth, sent the Earl word, that he would come
+and hunt with him in his Park. <HI>Ethelwold</HI> fearing the
+Event, and to cover his deceit from the Kings Eyes,
+acquainted his Wife with the wrong he had done both
+her and the King, and earnestly requested her to de∣form
+her self what she could either in Dress or other∣wise,
+lest the King whose Amorous inclination was
+not unknown, shou'd chance to be attracted. But she
+considering, that now was the time to make the most
+of her Beauty, and longing to be a Queen wou'd not
+be accessary to her own wrong. Against his coming
+she us'd all her Art in Dressing, put on her Richest
+Cloaths, and omitted nothing might make her appear
+charming in his Eyes; which took effect, for the
+King at first sight was struck with admiration, and in
+mind resolv'd to recover his intercepted right, and to
+punish the Interloper of his destin'd Spouse: But hid
+his resentments under a clear brow, appointing, as
+was usual, a day of Hunting in a Forrest now call'd
+<HI>Harewood,</HI> where in the midst of the Sport singling out
+the Earl, struck him through with a Dart of Javelin.
+It chanced that the Earl's base Son coming by upon
+the Fact, the King sternly ask'd him, <HI>How he lik'd this
+Game?</HI> He submisly reply'd, That <HI>Whatever pleas'd the
+King, must not displease him.</HI> The King for this Answer
+took an Affection to the Youth, and ever after highly
+favour'd him, making amends in the Son for what he
+had done to the Father. <HI>Alfreda</HI> was not long a Wi∣dow;
+for after this he made her his Queen, who to
+expiate her former Husband's death, though therein
+<PB REF="5"/>
+she had no hand, cover'd the place of his blood shed
+with a Monastery of Nunns to sing over him.</P>
+<P>This King built the Monastery of <HI>Ramsey</HI> in
+<HI>Hampshire.</HI> He Reigned Sixteen years, Liv'd Seven
+and thirty, and with great Funeral Pomp was
+Buried in the Abby of <HI>Glassenbury.</HI></P>
+<P>These only are his Faults upon Record, rather
+to be wonder'd how they were so few, and so soon
+left, he coming at Sixteen to the Licence of a Scep∣ter;
+and that his Virtues were so many, and so ma∣ture,
+he dying before the age wherein Wisdom can
+in others attain to any ripeness: However, with
+him dy'd all the <HI>Saxon</HI> Glory. After him was no∣thing
+heard but their Decline and Ruine.</P>
+<P>For the Fact of <HI>Ethelwold</HI>'s Death, this King is
+Censur'd by most Historians as Cruel and Tyranni∣cal;
+but consider'd well, it may be judg'd more
+favourably, and that no Man of sensible spirit, but
+in his place, without extraordinary Perfection, wou'd
+have done the like; for next to Life, what worse
+Treason cou'd have been committed against him?
+From this last Act of his I draw the Argument of
+this <HI>Play,</HI> taking notice of no passage of his Life, but
+his Love to <HI>Alfreda.</HI></P>
+<P>I have introduced new Persons to raise a Plott,
+and vary'd from the <HI>Chronicle,</HI> to better the Cha∣racter
+of the King; Knowing that the Criticks in
+Poetry are more Censorious and Severe, than the
+Historians.</P>
+<P>Several Forreign Authors have writ upon this
+part of the Story; some have disguis'd it under bor∣row'd
+<PB REF="6"/>
+Names, but all of 'em were at a loss when
+they came towards a conclusion, and have left it
+imperfect, fearing to blemish the Character of the
+King: I found it difficult, but hope I have succeeded
+so well as to make the last Act the best, and the
+Catastrophe in that point not blameable; the Hus∣band
+receives his death from another hand, whence
+it appears just, yet accidental. I have mix'd with
+it a run of Comedy, but not after the manner of
+our Old <HI>Tragi-Comedies,</HI> where one half of the <HI>Play</HI>
+are Heroes, and the other Mechanicks and Buffoons.
+The Character of <HI>Durzo,</HI> I presume is so well judg'd,
+that none may count his presence in the Court im∣pertinent
+or unsuitable to the business of the Place.
+But I submit all to a free Censure, careless of the
+Fate of any trifle in this nature.</P>
+<CLOSER>Farewell.</CLOSER>
+</DIV1>
+<DIV1 TYPE="errata">
+<HEAD>ERRATA.</HEAD>
+<P>PAge 11. line 18. r. <HI>Oswo.</HI> Come. p. 25. l. 12. f. then will I, r. then I
+will. p. 36. l. 25. f. Vere off, r. Sheere off. p. 143. l. 15. f. to your,
+r. o're your.</P>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="6"/>
+<HEAD>PROLOGUE to EDGAR.</HEAD>
+<L>THis <HI>Play</HI> at least Ten Years ago was writt;</L>
+<L>A time, when th' Author had more Zeal than Witt;</L>
+<L>But pondring on't he found it wou'd not do,</L>
+<L>Without Romantick Love and mighty show.</L>
+<L>And nothing pleas'd you in those dayes but Rymes,</L>
+<L>From Four to Seven we daily rung the Chymes▪</L>
+<L>Long did you hear, and long the sound did please,</L>
+<L>But now—</L>
+<L>Y<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/> are surfeited, and Verse grows a Disease,</L>
+<L>Well he forbore, and well has nick'd the time,</L>
+<L>If Sense may do that is not shodd with Ryme.</L>
+<L>If Heroes too that are no more than men,</L>
+<L>May be allow'd to tread the Stage agen,</L>
+<L>If Lovers may be Lovers, yet not by fits</L>
+<L>Rave and discourse like Folks beside their witts.</L>
+<L>But if you'll still have Poets wrack their Brain</L>
+<L>For Sense that shall your Understandings strain—</L>
+<L>To Verse we will return—</L>
+<L>And once more let the Goss-Hawk fancy fly,</L>
+<L>That beats the Aire and flutters in the Sky,</L>
+<L>Sports for a while in view, but takes a flight</L>
+<L>On th<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/> sudden, and flyes clearly out of sight.</L>
+<L>Still there remains the Musick of her Heells,</L>
+<L>And all you hear's the gingle of her Bells.</L>
+<L>But Humane Actions now in <HI>Playes</HI> allow,</L>
+<L>And bus'ness such as does from Nature slow,</L>
+<L>Let not what's natural be counted Low;</L>
+<L>We have no Rant, no Rapture, nor high flight,</L>
+<L>The <HI>Poet</HI> makes us Men and Women all to Night,</L>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="7"/>
+<HEAD>The Persons Names.</HEAD>
+<LIST>
+<LABEL><HI>Edgar</HI> King of the <HI>West Saxons.</HI></LABEL>
+<ITEM>By Mr. <HI>Mohun.</HI></ITEM>
+<LABEL><HI>Ethelwold</HI> A Lord and Favourite in Court,</LABEL>
+<ITEM>By Mr, <HI>Goodman.</HI></ITEM>
+<LABEL><HI>Ruthin</HI> An Ambitious design∣ing Lord, Father to the Queen.</LABEL>
+<ITEM>By Mr. <HI>Burt.</HI></ITEM>
+<LABEL><HI>Aldernald</HI> A Young Admiral, Brother to <HI>Alfreda.</HI></LABEL>
+<ITEM>By Mr. <HI>Clark.</HI></ITEM>
+<LABEL><HI>Oswold</HI> A Gentleman of the Court, Brother to <HI>Hillaria,</HI></LABEL>
+<ITEM>By Mr. <HI>Wiltshire.</HI></ITEM>
+<LABEL><HI>Durzo.</HI> A Blunt Sea Captain.</LABEL>
+<ITEM>By Mr. <HI>Grissin.</HI></ITEM>
+<LABEL>Courtiers and Guards.</LABEL>
+<ITEM> </ITEM>
+</LIST>
+<LIST>
+<HEAD>WOMEN.</HEAD>
+<LABEL>The <HI>Queen</HI></LABEL>
+<ITEM> By Mrs. <HI>Knight.</HI></ITEM>
+<LABEL><HI>Matilda</HI> The Princess.</LABEL>
+<ITEM> By Mrs. <HI>Bowtell.</HI></ITEM>
+<LABEL><HI>Alfreda</HI> Bride to <HI>Ethelwold,</HI> and Daughter to <HI>Ordgare</HI> Earl of <HI>Devonshire.</HI></LABEL>
+<ITEM> By Mrs. <HI>Frances Baker.</HI></ITEM>
+<LABEL><HI>Hillaria</HI> A Young Lady at Court</LABEL>
+<ITEM> By Mrs. <HI>Katherine Baker.</HI></ITEM>
+<LABEL><HI>Alicia</HI> Confident to the Princess</LABEL>
+<ITEM> By Mrs. <HI>Rutter.</HI></ITEM>
+<LABEL>Court Ladies and Attendants.</LABEL>
+<ITEM> </ITEM>
+</LIST>
+<STAGE>The SCENE,
+<HI>Mercia,</HI> or Middle <HI>England,</HI></STAGE>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 N="1" TYPE="act">
+<PB N="1" REF="7"/>
+<HEAD>ACT I. SCENE I.</HEAD>
+<STAGE>The Curtain drawn up, an Altar is discovered, <HI>Alder∣nald</HI>
+giving <HI>Alfreda</HI> to <HI>Ethelwold</HI> in Marriage, an Ab∣bot
+joining their hands, with Monks attending him.
+<HI>Ruthin</HI> looking and smiling. After a while the Scene
+closes. Then enters Lord <HI>Ruthin</HI> and a Servant.</STAGE>
+<STAGE>Scene the Body of the Church.</STAGE>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>'TIs done, 'tis done!</L>
+<L><HI>Alfreda</HI> is to <HI>Ethelwold</HI> a Bride.</L>
+<L>Now let the busie tongues of Flatterers</L>
+<L>No more whisper her praises to the King,</L>
+<L>But speak 'em loud, till their enchanting Ecchoes</L>
+<L>Again reach his ear.</L>
+<L>Now in his love, my Daughter will have no Corrivals</L>
+<L>And when this Marriage is divulg'd</L>
+<L>I in his favour shall have no Competitors.</L>
+<L>Go find out the common Musick of the Town,</L>
+<L>Place 'em in the street, near <HI>Ethelwold</HI>'s Apartment</L>
+<L>Close to the Pallace Garden wall.</L>
+<L>Thence will their noise o're all the Court be heard.</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>I shall my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>Give 'em instructions, and let 'em be in readiness.</L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>Yes my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>This credulous <HI>Aldernald</HI> will put a stop</L>
+<L>To thy early rising greatness.</L>
+<L>Brave thou art, but young and unexperienc'd:</L>
+<L>Of thy Friend too consident, of thy King</L>
+<L>Too suspitious, of Honour too jealous.</L>
+<L>But to thee, rash amorous <HI>Ethelwold</HI></L>
+<L>That art ensnar'd by Beauty,</L>
+<L>Enchanted by a face, and in Love besotted,</L>
+<L>To thee it will give a lasting fall.</L>
+<STAGE><PB N="2" REF="8"/>
+<HI>Enter</HI> Aldernald.</STAGE>
+<L>My Lord where is the Bridegroom and your Sister?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>I have taken my leave of 'em at present.</L>
+<L>That Company which is coming to their Devotions</L>
+<L>May not suspect what has been done.</L>
+<L>I would not have the King Know of their marriage</L>
+<L>Before the Queen has perfectly recover'd her health.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>She has not of three days felt any symptoms</L>
+<L>Of her Feaver, she rested well last night:</L>
+<L>I was with her this morning early.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Holds she her last nights resolution</L>
+<L>To venture abroad to day?</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>Yes.</L>
+<L>This I count will be her wedding day too.</L>
+<L>For though the Marriage-Rites have been perform'd▪</L>
+<L>The greatest Ceremony is yet to come.</L>
+<L>Marriages begin at the Altar,</L>
+<L>But in the bed are Consummate.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>I have not heard the like accident,</L>
+<L>She sickn'd at the Altar?</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>Yes, at the very instant the Priest join'd their hands,</L>
+<L>Her health was so vigorously assayl'd,</L>
+<L>That the Ceremony was scarce finish'd</L>
+<L>When she fell into her womens arms.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Has not the King e're since bin much concern'd?</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>'T has been a melancholly week with him,</L>
+<L>But her recovery will wipe away</L>
+<L>All sad resentments from his soul.</L>
+<L>You will not long be absent.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>I'le but dispatch an express to my Father,</L>
+<L>To let him understand that in your presence</L>
+<L>I have resign'd the Charge of my Sister.</L>
+<L>I know the return of his Letters</L>
+<L>Will be fraught with thanks to your Lordship</L>
+<L>For your advice and friendship in this affair.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>I wish he were here himself</L>
+<L>To share the mirth and pleasures of the day.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Age has render'd him unfit for Journeys.</L>
+</SP>
+<SP>
+<PB N="3" REF="8"/>
+<SPEAKER>Ruth.</SPEAKER>
+<L>My Lord I'le to Court before, you'l be there anon?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>My appearance will give a surprize</L>
+<L>For my arrival last night was so private</L>
+<L>It cannot yet be known to any.</L>
+<L>I had advice too early this morning</L>
+<L>That the Fleet is coming up the River—</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>That's very lucky, wee'l meet anon.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>My Lord your Servant.</L>
+</SP>
+<STAGE><HI>Exeunt</HI> severally.</STAGE>
+<STAGE>Enter <HI>Ethelwold</HI> and <HI>Alfreda,</HI> as from the Altar into the
+Body of the Church.</STAGE>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>'Till now I shar'd but Heavens imperfect Bounty,</L>
+<L>Which when it gave thy heart,</L>
+<L>Snatch'd me from thy embrace,</L>
+<L>Not permitting us as other Lovers</L>
+<L>To repeat our amorous vows:</L>
+<L>But now it gives thee to me for ever.</L>
+<L>And hastens on the happy minute</L>
+<L>Which I have wish'd, and languish'd for so long.</L>
+<L>Now is our Fate entirely kind</L>
+</SP>
+<SP>
+<SPEAKER>Alfred.</SPEAKER>
+<L>Kind indeed to me my Lord, it gives</L>
+<L>What I never yet enjoy'd, Liberty.</L>
+<L>No more, now your wife shall I be confin'd</L>
+<L>To Country solitude, and life obscure.</L>
+<L>No more be debarr'd the gaieties of Courts,</L>
+<L>The delights of Cities, and publick Gallantries,</L>
+<L>Which yet I never knew but by Relation.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>Thy presence from thy Fathers Palace</L>
+<L>Had banish'd solitude and turn'd it to a Court,</L>
+<L>Though far from any Town or City,</L>
+<L>Yet all around came there to admire</L>
+<L>And to adore thy heavenly form.</L>
+</SP>
+<SP>
+<SPEAKER>Alfred.</SPEAKER>
+<L>Such as pass for great ones there</L>
+<L>Told me that I was fair and beautiful.</L>
+<L>But men are not more apt to dissemble,</L>
+<L>Then women to believe their flatteries,</L>
+<L>Valuing it from their praises.</L>
+<L>I dispis'd their little Courtships:</L>
+<L>I had a fond opinion this face</L>
+<L><PB N="4" REF="9"/>
+Might not shame the Court, therefore resolv'd</L>
+<L>That Marriage should transfer me to that Sphear.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>O Pride! thou untaught vice in woman</L>
+<L>That from her very nature tak'st thy being</L>
+</SP>
+<SP>
+<SPEAKER>Alfred.</SPEAKER>
+<L>When yo<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/> Lord <HI>Ethelwold</HI> appear'd</L>
+<L>With the many Charms of Court about you,</L>
+<L>Great in your Family and long descent,</L>
+<L>Greater in the favour of your Prince,</L>
+<L>I thought my Pride not much above your Glory</L>
+<L>And therefore taught my heart submission.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>She does confess her Pride.</L>
+<STAGE>Aside.</STAGE>
+<L>And with't Ambition too appears,</L>
+<L>To what ills do's Love perswade, how fatal</L>
+<L>The fury of an Amorous King will be</L>
+<L>And the Revenge of an Ambitious Woman,</L>
+<L>I'le trace her Ambition yet farther,</L>
+<L>And see how far it goes beyond her Love.</L>
+<L>Suppose a Lady to have two Lovers,</L>
+<L>One her equal, whom with an unbyass'd</L>
+<L>Affection she esteems:</L>
+<L>Another, less lov'd by her, but greater much</L>
+<L>In Titles and in Riches then his Rival;</L>
+<L>Which ought she to make her choice?</L>
+</SP>
+<SP>
+<SPEAKER>Alfred.</SPEAKER>
+<L>It is noble to aspire, and argues a great Soul▪</L>
+<L>Therefore I think Ambition should raise</L>
+<L>Her Love, Love not debase her Pride.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>But to choose where most she loves</L>
+<L>Argues the truest Love.</L>
+</SP>
+<SP>
+<SPEAKER>Alfred.</SPEAKER>
+<L>But not the wisest.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>Did any thing but Love negotiate for me</L>
+<L>In your thoughts? Love, true Love I mean,</L>
+<L>Sets no regard on wealth or honours.</L>
+</SP>
+<SP>
+<SPEAKER>Alfred.</SPEAKER>
+<L>Without them I might have lov'd</L>
+<L>But not marry'd.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>Your beauty alone, made me your Captive,</L>
+<L>And your virtues will make the conquest</L>
+<L>Of your eyes a lasting victory.</L>
+</SP>
+<SP>
+<SPEAKER>Alfred.</SPEAKER>
+<L>This little Prudence which the World calls Pride,</L>
+<L>Is the best Guard and Ornament to Beauty.</L>
+<L>Yet had it lost its triumph over Love,</L>
+<L><PB N="5" REF="9"/>
+If Love o're my Soul had not a greater made.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>You so exactly have determin'd</L>
+<L>That I must praise your judgment.</L>
+<L>And your Love admire—</L>
+<L>How inquisitive I've been to know my Fate,</L>
+<STAGE>Aside.</STAGE>
+<L>Which now I have not power to avoid.</L>
+<L>Forewarn'd I was, yet could not retreat,</L>
+<L>But still prest forward to my ruine</L>
+<L>Come my divine <HI>Alfreda,</HI> let us go</L>
+<L>Where we our joys more freely may express,</L>
+<L>To shady walks, where Love has no restraint:</L>
+<L>There sit and look, and from our eyes dart beams</L>
+<L>That in our Souls shall kindle vigorous flames,</L>
+<L>Till both of us grow red with inward fire,</L>
+<L>And both do burn, and glow with one desire:</L>
+<L>There we will sit, and wish away the Light,</L>
+<L>And chide the Day for keeping back the Night.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>The King and Queen sleeping in an Arbor hand in hand.
+<HI>Matilda</HI> sitting on the other hand of the King awake▪
+<HI>Alicia</HI> playing a soft Ayr on the Lute, and singing to't.</STAGE>
+<SP>
+<LG>
+<HEAD>SONG.</HEAD>
+<L>How sweet a torment 'tis to love?</L>
+<L>And ah how pleasant is the pain?</L>
+<L>I would not if I could remove</L>
+<L>And now put off the amorous chain.</L>
+<L>Though <HI>Chloris</HI> eyes do give me Laws.</L>
+<L>And me of liberty beguile</L>
+<L>I like a Martyr love my cause</L>
+<L>And on my fair to mentor smile.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L><HI>Alicia</HI> lay aside thy Lute</L>
+<L>For sleep has rob'd them of the sound.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>The King asleep.</L>
+</SP>
+<SP>
+<SPEAKER>Mart.</SPEAKER>
+<L>Sure Souls are neer ally'd to harmony.</L>
+<L>That Musick so strangely can affect them▪</L>
+<L>Mine sweetly languish'd with each dying sound</L>
+<L>And from the pleasing trance as often wak'd,</L>
+<L><PB N="6" REF="10"/>
+As thy skilful fingers gave bolder touches</L>
+<L>To the strings.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>From this relation Madam I may guess</L>
+<L>You are inclin'd to Melancholy.</L>
+<L>But you are a Princess and in all things happy▪</L>
+<L>And therefore rather then judge that your temper,</L>
+<L>I may with more reason conclude it th'effect</L>
+<L>Of my unskilful Play. For if not melancholy,</L>
+<L>Such ill Musick was enough to make you so.</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>Condemning your skill you wrong my Judgment</L>
+<L>But why infer'd you that a Princess could not be melancholy.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>A Princess cannot except it be for Love.</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>Then I am far from it.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>You are Madam.</L>
+<L>Your youth and beauty gives you</L>
+<L>A universal Empire over hearts:</L>
+<L>You cannot love in vain, therefore can be</L>
+<L>No melancholy Loyer.</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>Suppose I lov'd one that was dead?</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>O Madam I have a better opinion of your wit</L>
+<L>Then to think you can love any but the living.</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>Suppose he be absent or in danger?</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>Then I suppose he would soon be here if he knew it,</L>
+<L>And from ill, your love is Divinity</L>
+<L>Sufficient to defend him,</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>To put an end to these Arguments,</L>
+<L>Tell me <HI>Alicia</HI> your opinion of that Picture:</L>
+<L>Is it not an excellent piece of Art?</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>Admirably well done and rarely handsom,</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>Sure too handsom for a man.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>Here's much of Gallantry in's looks.</L>
+<L>If I may be so bold, pray Madam whose is't?</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>'Tis no secret,</L>
+<L>'Tis <HI>Aldernalds</HI> the young Admiral,</L>
+<L>That has done such glorious things at Sea.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>Fame speaks his praises loud.</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>The King my Brother gave it me, and with it</L>
+<L>This Relation of his last great action.</L>
+<L>That in the late Engagement</L>
+<L>He gave such remarks of's valour,</L>
+<L><PB N="7" REF="10"/>
+That the old Admiral by wounds disabled,</L>
+<L>Whilst yet he had life gave him his sword,</L>
+<L>Who took it with a resolution</L>
+<L>To stand in's place a Conqueror or dye.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>It was a noble resolve.</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>Then sayling in the midst of his Enemies,</L>
+<L>Grapl'd with their insulting Admiral,</L>
+<L>Himself the first man that boarded him;</L>
+<L>Made way to that proud Commander,</L>
+<L>And in the crowd of his opposers</L>
+<L>Reach'd his heart, and soon clear'd all the Decks.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>He bravely then Reveng'd his Admirals fall.</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>And now Commander of his Enemies ship,</L>
+<L>With the dead Admiral lying at his foot,</L>
+<L>The great Flag up and all the gaudy Streamers</L>
+<L>Wavering in the air, in triumph sayl'd</L>
+<L>From the midst of them to his disheartn'd Fleet,</L>
+<L>Who took such courage at that sight,</L>
+<L>Each Captain strove which first shou'd wonders do:</L>
+<L>And fighting by that brave example,</L>
+<L>Destroy'd their foes, and ruin'd their whole Fleet.</L>
+<L>For this brave service the King confirm'd him Admiral,</L>
+<L>And think he's still indebted to his valour.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>O how I cou'd love so brave a man!</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>Thou love him <HI>Alicia.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Alic,</SPEAKER>
+<L>Oh Madam, are you jealous? then I perceive</L>
+<L>You love him.</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>I love him? I have never seen him.</L>
+<L>Follow me <HI>Alicia</HI> to the next walk.</L>
+</SP>
+<STAGE>Exit. <HI>Mat.</HI> cum Ali.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Ha! he sleeps still.</L>
+</SP>
+<STAGE><HI>Enter</HI> Ruthin.</STAGE>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>The King asleep.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Yes Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>How was his humor this morning.</L>
+<L>Show'd he any signs of mirth?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Not extraordinary.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>Was he kind to thee?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Yes Sir.</L>
+</SP>
+<SP>
+<PB N="8" REF="11"/>
+<SPEAKER>Ruth.</SPEAKER>
+<L>But was he fond of thee?</L>
+<L>Was he glad to see thy health restor'd?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>He exprest so much in words.</L>
+<L>But from his looks I guess'd</L>
+<L>He had some trouble in his mind,</L>
+<L>Which by his kind expressions he endeavour'd</L>
+<L>To conceal from me.</L>
+<L>I believe the Princess observ'd it too,</L>
+<L>For after some discourse past betwixt us</L>
+<L>She commanded a Lady to fetch a Lute,</L>
+<L>To play and sing to't to relieve his mind,</L>
+<L>Which she did till the sweetness of the Musick</L>
+<L>Depriv'd him of the pleasure of hearing it.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>He begins to wake</L>
+<L>Retire to the Princess in the next walk</L>
+<L>Till I have had discourse with him</L>
+<L>Concerning business of State—</L>
+</SP>
+<STAGE><HI>Exit</HI> Queen.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ha! she's gone.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>The Queen and Princess, Sir, are in the next walk</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>Alfreda</HI>'s gone.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L><HI>Alfreda</HI> still revels in his thoughts.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>O <HI>Ruthin!</HI> in my Dream I saw a cloud descend</L>
+<L>Beautiful as if it had pass'd the blushes</L>
+<L>Of the setting Sun, adorn'd with streaks of red,</L>
+<L>And little sprays of light, as if some beam</L>
+<L>Had been untwisted into Golden threads</L>
+<L>And through his airy Fleece had shot</L>
+<L>Their trembling lustres.</L>
+<L>Admiring it, and fixt in wonder I thought</L>
+<L>I saw it open, and like Curtains draw.</L>
+<L>Divided thus, O what did I not see?</L>
+<L>I beheld Heaven in it's glory. I saw</L>
+<L>A Woman with blushes more beautiful</L>
+<L>And eyes more radiant, an Army of <HI>Cupids</HI></L>
+<L>Flew brandishing their Darts above her head,</L>
+<L>As if she came to conquer all mankind</L>
+<L>With love. My heart told me this could be none</L>
+<L>But <HI>Alfreda,</HI> I call'd her to my embrace,</L>
+<L>And stretching out my arms to receive her,</L>
+<L>(My eyes which till then never descended</L>
+<L><PB N="9" REF="11"/>
+From the bright glories of her Face) espy'd</L>
+<L>About her waste a Serpent in Folds,</L>
+<L>Which hissing snatch'd her from me.</L>
+<L>The clouds, and all this Scene of Beauty vanish'd.</L>
+<L>With the surprize I started, then wak'd:</L>
+<L>My Dreams conspire with same t'exalt her Beauty.</L>
+<L>Though my Imaginations err, why should that?</L>
+<L>She is still the favourite of Report</L>
+<L>And Opinions Idol.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>A Glow-worm in the Country is thought as luminous</L>
+<L>As a Star, she is a beauty though homely, where</L>
+<L>No one is fairer than her self.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>In this her picture brought me by the Earl</L>
+<L>I discover something excellent,</L>
+<L>But nothing to admiration.</L>
+<L>The Queens Beauty much excells.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>When she shin'd in a firmament alone</L>
+<L>Her beauty was thus magnifi'd by Fame,</L>
+<L>But in the Court-Sphear it appears not</L>
+<L>Of so extraordinary a magnitude.</L>
+<L><HI>Alfreda</HI> too, plac'd in the throng of Beauties,</L>
+<L>And look'd on by Court-eyes,</L>
+<L>Wou'd not appear so great a wonder,</L>
+</SP>
+<STAGE><HI>Enter</HI> Queen, Matilda, Alicia, Oswold <HI>at another
+Door.</HI></STAGE>
+<SP>
+<SPEAKER>Oswo.</SPEAKER>
+<L><HI>Aldernald,</HI> the young Admiral is arriv'd.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Admit him.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L><HI>Aldernald</HI> arriv'd?</L>
+</SP>
+<SP>
+<SPEAKER>Oswo.</SPEAKER>
+<L>Yes Madam.</L>
+</SP>
+<STAGE><HI>Enter</HI> Aldernald.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Come thou man of honour and of valour:</L>
+<L>Thou early aspirer to fame and virtue:</L>
+<L>Come near, let my armes receive thee,</L>
+<L>As a blessing sent from heaven.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>I wish I merited the bounty of your expressions.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Thou art the wonder of young men.</L>
+<L><PB N="10" REF="12"/>
+Your honours spread with the wide Ocean,</L>
+<L>And your virtues first make you man.</L>
+<L><HI>Matilda,</HI> here turn thine eyes,</L>
+<L>This is the man,</L>
+<L>Whose glorious deeds of late have been</L>
+<L>The subject of our discourse and fame:</L>
+<L>This is that brave young warriour,</L>
+<L>I often told thee of with praise and wonder.</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>Fame is the Mistress of his Soul,</L>
+<L>Whom he does Court with so much gallantry,</L>
+<L>He fills the world with admiration.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>He is the glory of the young, &amp; wonder of the old.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>My little services are paid with too great acknowledg∣ments,</L>
+<L>And I must blush my merits are no more.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>Yes, you shall have cause to blush anon</L>
+<L>These smiles shall vanish like winter-Sun</L>
+<STAGE>Aside.</STAGE>
+<L>And thy Laurels soon wither on thy brow.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Madam your health makes this a happy day.</L>
+<L>It shall be dedicate to mirth and pleasure,</L>
+<L>And your presence will much encrease our joy.</L>
+</SP>
+<STAGE><HI>To</HI> Alder.</STAGE>
+<STAGE><HI>Enter</HI> Oswold <HI>and</HI> Durzo.</STAGE>
+<SP>
+<SPEAKER>Oswo.</SPEAKER>
+<L>Look you Sir, there's your Admiral.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Why here's a place a man can't find the way</L>
+<L>In or out with both his eyes open. I can walk</L>
+<L>All about my I rigot in my sleep,</L>
+<L>Fore and aft, upper Deck and lower Deck.</L>
+<L>And return to my Cabin without waking.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L><HI>Durzo</HI> here!</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Admiral our Fleet is come into the River▪</L>
+<L>We want your further Orders. Our men</L>
+<L>Are all for coming ashoar, they leap</L>
+<L>Over board as if their ships were on fire.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Be uncover'd you are in the presence of the King.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Who is this?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>The valiant <HI>Durzo:</HI></L>
+<L>One that shar'd with me the hazards</L>
+<L>And the glories of the last great fight.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Heaven bless the King say I.</L>
+</SP>
+<SP>
+<PB N="11" REF="12"/>
+<SPEAKER>Alder.</SPEAKER>
+<L>A stout Souldier tho a blunt Courtier,</L>
+<L>He was born in a ship, and never was</L>
+<L>Five miles on shoar in his life;</L>
+<L>He scarce knows any thing of Land affairs</L>
+<L>Beyond a Sea-port Town or Haven.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I like him well, he looks</L>
+<L>As if fighting was his business.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>He is yet but Commander of a small ship</L>
+<L>But hopes his merits may advance him.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I'le think to do it so that he shall own</L>
+<L>To hold part of our favours from our bounty.</L>
+</SP>
+<SP>
+<SPEAKER>Oswo.</SPEAKER>
+<L>Come Captain, now wee'l have you to the Wardrobe.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>What place is that? do they fight or drink there?</L>
+</SP>
+<SP>
+<SPEAKER>Oswo.</SPEAKER>
+<L>'Tis one of his Majesties Store-houses,</L>
+<L>You must be new rigg'd Captain,</L>
+<L>The Ladies won't like the smell of pitch and tar.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Not like it, which of 'em won't like it?</L>
+<L>Come Captain, follow me</L>
+</SP>
+<STAGE>Exeunt Os. <HI>&amp;</HI> Dur.</STAGE>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>So great a beauty have I never seen.</L>
+</SP>
+<STAGE><HI>Looking at</HI> Matilda.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Thy looks <HI>Matilda</HI> are not chearful▪</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>Mine is but a Copy of that Melancholy</L>
+<L>Which of late like a Cloud hung on your brow.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>That Cloud is now dispers'd. Come my Queen, my Friend,</L>
+<L>This day restores peace to my mind.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>But here engenders war.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>Her unsteady looks</L>
+<L>And the quick changes of her Countenance,</L>
+<L>Betray some alteration in her mind;</L>
+<L>And when she turn'd away she sigh'd.</L>
+<L>If from Love it does proceed,</L>
+<L>Shee'l soon the secrets of her heart Reveal;</L>
+<L>Lovers but seldom can their flames conceal.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+</DIV1>
+<DIV1 N="2" TYPE="act">
+<PB N="12" REF="13"/>
+<HEAD>ACT II.</HEAD>
+<STAGE><HI>Enter</HI> Aldernald <HI>and</HI> Durzo.</STAGE>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L><HI>Durzo</HI> hast thou observ'd the glorious tincture</L>
+<L>The rising Sun spreads 'ore the Eastern skie</L>
+<L>When he begins his Circuit?</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>I have.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>And have you not heard tell of Nations</L>
+<L>That fall down to adore its brightness?</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Yes, but the more fools they.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>They would be so, had They beheld the sight</L>
+<L>That Thou and I have seen to day</L>
+<L>Without forgetting former worship,</L>
+<L>And here pay their Reverence;</L>
+<L>'Twou'd turn that which we call in them</L>
+<L>Idolatry, to just adoration.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Why what have we seen to day?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>A form whose excellent brightness mocks</L>
+<L>The most beauteous shapes that Angels</L>
+<L>Ever were invested with; a form, that would</L>
+<L>Give Verity to Fiction, and make that truth</L>
+<L>Which was related once for wonder.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>What mean you Admiral?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>I mean the Princess.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>She's a woman.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Something sure much finer.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Why Admiral? a woman's the finest thing▪</L>
+<L>I ever saw, except a Canon mounted,</L>
+<L>And a ship under fail, but now I talk</L>
+<L>Of ships, wou'd I were aboard agen.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Why Captain?</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>There I should understand what yosay▪</L>
+<L>As I am a living man, you speak nothing</L>
+<L>But Riddles on land—Why Admiral</L>
+<L><PB N="13" REF="13"/>
+What means this glorious tincture,</L>
+<L>Resplendent Deity, Beauteous Shapes,</L>
+<L>Forms, Angels, and the Devil and all.</L>
+<L>What's all this to the Princess, I am a shark if I can</L>
+<L>Guess at your meaning. 'Sbud I say she's a woman.</L>
+</SP>
+<STAGE><HI>Enter</HI> Matilda.</STAGE>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Behold, all I was talking of appears.</L>
+<L>Observe her perfections, and thy dull sense</L>
+<L>Will be instructed to mend its errours.</L>
+<L>Dost thou not think the sight of her</L>
+<L>Makes thee Immortal?</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Immortal! what a rare thing would that be</L>
+<L>For a Souldier?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Oh <HI>Durzo,</HI> that I might ever</L>
+<L>Gaze upon the glories of that form?</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>His Form, his Meen, his Looks, how great</L>
+<L>In each, how much of Gallantry I see!</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Love in my heart has rais'd its sacred Altar,</L>
+<L>And there I pay a secret adoration</L>
+<L>To the Divinity of that face.</L>
+<L>That it were permitted</L>
+<L>I might more than Contemplate.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>He regards me at distance,</L>
+<L>But moves not nearer; O that he wou'd</L>
+<STAGE><HI>Ald. &amp; Matt.</HI> advance on
+the Stage, looking on one
+another at distance.</STAGE>
+<L>But speak to me t'oblige my stay</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>O Love!</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>O my heart!</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>O Conquering eyes!</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>O resistless charms!</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>I'de speak but dare not,</L>
+<L>She's a Princess, and my Love is presumption.</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>I'de tell him, but must not,</L>
+<L>He's a Subject, and my Love is below me.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>O tyrannical Love!</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>O tyrannical Honour?</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>My passions more raging.</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>My slames more tormenting.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Be silent I cannot,</L>
+</SP>
+<SP>
+<SPEAKER>M.</SPEAKER>
+<L>To conceal't is impossible.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Madam,</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>Sir,</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>O my heart!</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>O Heaven!</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>What confusion!</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>What distraction!</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Admiral, what makes you start?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>She's unconcern'd and minds me not.</L>
+</SP>
+<STAGE><PB N="14" REF="14"/>
+<HI>Enter</HI> Oswold, Alicia <HI>and</HI> Hilaria.</STAGE>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>There, <HI>Hilaria,</HI> is the Captain I told you of.</L>
+</SP>
+<SP>
+<SPEAKER>Hila.</SPEAKER>
+<L>He looks as rough as a storm.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>I'le bring him amongst the Ladies anon.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>His Company will be good divertisement.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>O here's another crew.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Wee'l avoid 'em,</L>
+<STAGE>Ald. <HI>gazing at</HI> Mat. <HI>and she at him, with</HI> Durzo, Osw. Ali. Hil. <HI>follow.</HI></STAGE>
+<L>I am not now for Company—Come <HI>Durzo</HI></L>
+<L>I turn from glory, and from heaven.</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>Heart hold thy seat in spite of all his charms,</L>
+<L>The liberty thou strugl'st for is Bondage,</L>
+<L>His conquest will enslave thee—but my eyes</L>
+<L>Are too much thy friends, with the enemy</L>
+<L>They hold Intelligence, but I'le break it off. So</L>
+<L>My heart is once more</L>
+<STAGE>Turns away her head laying her right hand on her eyes. Then starts and claps the other on her breast, then both.</STAGE>
+<L>Seated in its Throne</L>
+<L>But had he stai'd the field he must have won.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>I see Madam the Admiral is gotten into harbour.</L>
+</SP>
+<SP>
+<SPEAKER>Matt.</SPEAKER>
+<L>Hold <HI>Alicia:</HI> Trust not thy thoughts to words</L>
+<L>Least they be heard by others, with care conceal</L>
+<L>This secret, which I had not power to hide.</L>
+<L>Hard Law of Custome to impose restraint</L>
+<L>On minds Impartial Nature ordain'd free.</L>
+<L>She knew the seeds of Passion which she sow'd</L>
+<L>In humane breasts, were in each Sex the same,</L>
+<L>And wou'd with time grow up to equal strength:</L>
+<L>And wisely therefore left our wills</L>
+<L>As unconfin'd as man's. O Tyrant Custome!</L>
+<L>But more Tyrants men, whose Censures do</L>
+<L>Uphold that power is usurpt of thee.</L>
+<L>They blame the Passions we unurg'd reveal;</L>
+<L>Yet feel the same, but cannot theirs conceal.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><PB N="15" REF="14"/>
+<HI>Enter</HI> King <HI>and</HI> Aldernald.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I wish <HI>Alfreda</HI>'s form had given report</L>
+<L>Just ground to proclaim her Natures miracle.</L>
+<L>The Earl by me was sent to view her Beauties.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Heavens! Did he for this call me from the Camp?</L>
+<L>Shall I, ungrateful King, from thy own mouth</L>
+<STAGE>Aside.</STAGE>
+<L>Be told how ill thou didst intend to requite</L>
+<L>The service I have done?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>If <HI>Ethelwold</HI> had confirm'd my belief</L>
+<L>That in <HI>Alfreda</HI> those many graces met</L>
+<L>Fame so loudly has bestow'd on her,</L>
+<L>She should have been my Queen.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Your Queen!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Yes <HI>Aldernald,</HI> if Love, or that title</L>
+<L>Had charmes to win her heart.</L>
+<L>I ever thought thy loyal Family</L>
+<L>Worthy my Allyance, and by this tye</L>
+<L>Design'd t'advance its antient glory.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Indeed Sir, had she been your Queen?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Yes <HI>Aldernald,</HI> my Queen—why this wonder?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>I cannot Sir but wonder,</L>
+<L>If she should have been your Queen, why she was not.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Look there, and let all wonder cease.</L>
+<STAGE>Gives him two Pictures.</STAGE>
+<L>Not wanting Allyes, nor necessitated</L>
+<L>To marry for State-Interest,</L>
+<L>I propos'd to indulge my Genius,</L>
+<L>That Beauty should Crown my Nuptials with Love,</L>
+<L>The solid blessing of a married life,</L>
+<L>A blessing Princes but rarely find.</L>
+<L>No Country more than this for Beauty fam'd;</L>
+<L>My intents conceal'd, a general Collection</L>
+<L>Of their Pictures that were much renown'd</L>
+<L>I procur'd. Of all that number</L>
+<L>None but that one excell'd <HI>Alfreda.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>This the Queens, it do's her beauty Justice.</L>
+<L>This <HI>Alfreda</HI>'s—This my Sister's?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Yes, is it not like her?</L>
+</SP>
+<STAGE>Takes a Picture out of his pocket, shews it the King.</STAGE>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>I have a piece more exact.</L>
+</SP>
+<SP>
+<PB N="16" REF="15"/>
+<SPEAKER>King.</SPEAKER>
+<L>O what Charmes are here!</L>
+<L>How like the Beauty of my mornings dream!</L>
+<L><HI>Alfreda</HI> was that Heav'nly form, <HI>Ethelwold</HI></L>
+<L>Was the Serpent that bore away that Scene of Glory.</L>
+<STAGE><HI>Enter</HI> Ruthin.</STAGE>
+<L>I have been betray'd.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>Sir, in what?</L>
+<STAGE>Gives <HI>Ruthin</HI> the Pictures.</STAGE>
+<L>There read the Treason, thence guess the Traytor:</L>
+<L>What Musick is this so loud?</L>
+</SP>
+<STAGE>Musick without.</STAGE>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>This Musick will discover all.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Not all my Lord.</L>
+</SP>
+<STAGE><HI>Enter</HI> Oswold.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>The occasion of this Publick joy?</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Earl <HI>Ethelwold</HI> is this morning married,</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>And who is his Bride?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>My Sister Sir?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Thy Sister! in Town! and married! this morning!</L>
+<L>And to <HI>Ethelwold!</HI> when came she?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>With me last night.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What reasons urg'd this hast?</L>
+<L>And to conceal your self and her?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>To preserve her Honour.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Her Honour? what danger cou'd attend it?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>The Earl sent by you to my Father, declared that</L>
+<L>you design'd—</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>My Faith's so criminal</L>
+<L>Shame will not let me speak it.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What said he I design'd?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Sir, read it in my blushes,</L>
+<L>Or think the worst and that is it.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>O my apprehensions!</L>
+<L>Speak <HI>Aldernald,</HI> what was't?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>The dishonour of our Family.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>O Impiety!</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>That you wou'd make her not your Queen, but whore</L>
+</SP>
+<SP>
+<PB N="17" REF="15"/>
+<SPEAKER>King.</SPEAKER>
+<L>O Prophanation!</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Our hope's not so ambitious to believe</L>
+<L>Our Family merited that Honour:</L>
+<L>With ease gave credit to the other.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>When Fame had made such often repetitions</L>
+<L>Of her Excellencies, you on his single assertion</L>
+<L>Might as justly suspect my Virtue,</L>
+<L>As I her Beauty. If you yet doubt me,</L>
+<L>There's one can witness, my intentions</L>
+<STAGE>[Turns to <HI>Ruthin.</HI></STAGE>
+<L>To her and to your Family were just.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>And he can witness too the Earl's deceit.</L>
+<L>So positively he affirm'd this for truth,</L>
+<L>That he believ'd it too,</L>
+<L>For my Father was guided by his Counsels,</L>
+<L>Which he receiv'd by Letters.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>How!</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>After the Earl return'd to Town,</L>
+<L>And had obtain'd your leave to marry her,</L>
+<L>Being to return agen into the Countrey,</L>
+<L>When upon account of business</L>
+<L>You countermanded his journey,</L>
+<L>We grew suspicious of your intents;</L>
+<L>And then my Lord there, zealous in our service,</L>
+<L>Counsel'd she should be brought to Town,</L>
+<L>And married here.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>He counsel this?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Wisely concluding, that when you knew</L>
+<L>The Honour of two such Families were concern'd,</L>
+<L>'Twou'd be a prevailing argument</L>
+<L>To alter your Intentions.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>He advis'd like a Friend—Earl <HI>Odgare</HI></L>
+<L>Acted as a Father, you like a Brother:</L>
+<L>'Tis a Virtue to be jealous of our Honour.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>But not of our Prince.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>The fault was <HI>Ethelwold's,</HI>—but I pardon all;</L>
+<L>His Crimes were but Errors of Love,</L>
+<L>Which is the madness of the mind.</L>
+<L>Tell him I'le be his Guest this day at dinner,</L>
+<L>But conceal my knowledge of his Guilt.</L>
+<L>I'de have his mind rest in a confidence</L>
+<L><PB N="18" REF="16"/>
+I think him Innocent. That all his Thoughts</L>
+<L>May be imployed to heighten the pleasures</L>
+<L>He this night must ravish from his Bride.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Mercy is the Monarch-Virtue in a Prince,</L>
+<STAGE>[Exeunt Ruth. Alder.</STAGE>
+<L>And that is the Ornament of your Soul.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>False Traitor! has Love his Loyalty betray'd?</L>
+<L>Those Eyes must have powerful Charmes can draw</L>
+<L>The hearts of Subjects from their Allegiance.</L>
+</SP>
+<STAGE>[Exit.</STAGE>
+<STAGE><HI>Enter</HI> Oswold, Durzo.</STAGE>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>But what do you with these Ladies here?</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>We Court, Complement, and Gallant 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>What is that Courting 'em?</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Sometimes 'tis call'd making Love to 'em:</L>
+<L>You must have a Mistress if you stay long at Court.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Must I, which of 'em?</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Her you like best.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Why I like 'em all.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>You must appropriate but one.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>I'de have a whole Tier of 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Every man must have his share:</L>
+<L>Make choice of her you think most handsome.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>But how may a man know a handsome Woman?</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>I<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>le give you the description of my Mistress</L>
+<L>For a Pattern to choose one by.—</L>
+<L>She has Hair, I know not how to term it;</L>
+<L>Nature affords not a comparison.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>I like not That; she's like no body then.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Her Fore-head high and fair, eyes black and sparkling,</L>
+<L>They twinkle like the Stars.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>They are then <HI>Gemini.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Her Brows like Arches</L>
+<L>Cut out of purest Snow, consolidate.</L>
+<L>A Nose exactly to the square of Beauty.</L>
+<L>Her Cheeks plump, not by Art but Nature painted.</L>
+<L>Her mouth little, red Lips, and white Teeth;</L>
+<L>A Pearly Portcullis, with a Ruby Gate.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Ay—that's fine.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>A Chin dimpl'd, but in that little Pitt</L>
+<L><PB N="19" REF="16"/>
+A thousand hearts lie bury'd.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>They are thrown in then as fast as we heave dead</L>
+<L>Men over board in a Sea-fight.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Her neck smooth, fat, white, and soft</L>
+<L>as the Down on Swans.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Ay, That—</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Her Breasts, those milky Fountains, snowy <HI>Alpes,</HI></L>
+<L>Round and not limber, their motions pant</L>
+<L>Beholders hearts into an Extasie.</L>
+<L>No Pride about her but what they swell with,</L>
+<L>They rise and fall like Waves blown up by gentle winds.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>O, O, O, feel here.</L>
+</SP>
+<STAGE>[Pulls <HI>Owald</HI>'s hand to his breast.</STAGE>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Auh your heart beats high:</L>
+<L>We shall have boisterous weather, I perceive it coming.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Ay, my heart begins to leap and play</L>
+<L>Like a Porpice before a Storm.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>An Arm, a Hand, small, white, and</L>
+<L>Round; the bloud blushing through the fair skin,</L>
+<L>Like a Lawn Veil spred o're a Bed of Roses.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Me thinks I see this fair Creature;</L>
+<L>Yes and touch her too: Oh how fine it is</L>
+<L>To stroak such Limbs!</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Yes, Captain, very fine: Beauty I see will soften</L>
+<L>And polish you.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Your words have painted something more than</L>
+<L>Woman in my fancy.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>She is as valiant as fair, a brave <HI>Virago:</HI></L>
+<L>She fans her beauty with a Shield, and darts</L>
+<L>A Javelin with as much courage as an <HI>Amazon.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Ay That's a Woman.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Take this Picture, 'tis very like her.</L>
+<L>When you see the Lady this resembles,</L>
+<L>Claim her for your Mistress; Love her,</L>
+<L>Court her, Gallant her, and do your best;</L>
+<L>Win her and wear her, that's fair play.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Will you give her me?</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Yes, if you can get her.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Why, I can take her up in my Arms</L>
+<L>And run away with her.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>And whither will you carry her?</L>
+</SP>
+<SP>
+<PB N="20" REF="17"/>
+<SPEAKER>Dur.</SPEAKER>
+<L>Aboard my Frigot, and he that dares come</L>
+<L>To take her from me there, had as good leap</L>
+<L>Into a blazing Fire-ship, or kiss Thunder.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>But she's no lawful Prize if you take her by force;</L>
+<L>By the Laws of Love you must, as I told you, Court her,</L>
+<L>And win her fairly; you must get her good Will.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>I thought I had had her Will when I had her.</L>
+<L>But now I think on't, I have heard a Womans Will</L>
+<L>Shifts into more Points than the Wind.</L>
+<L>But if she sail under any Point of the Court-Compass,</L>
+<L>I'le hale her in I warrant you.</L>
+</SP>
+<STAGE>[Exeunt.</STAGE>
+<STAGE><HI>Enter</HI> Ethelwold, Aldernald. <HI>The Scene</HI> Ethelwold's
+<HI>Apartment.</HI></STAGE>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>May their wishes of Joy</L>
+<L>Convert to Curses on themselves, and every Curse</L>
+<L>Attended with a mischief greater than this</L>
+<L>They've brought on me. O untimely discovery!</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>This News is much unwelcom to you.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>As Frost is to early Flowers,</L>
+<L>It blasts my new born Joys.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>But thou, treacherous <HI>Ethelwold,</HI> in their</L>
+<STAGE>[Aside.</STAGE>
+<L>Bud did'st stifle the glories of our Family;</L>
+<L>You are too apprehensive of the consequence.</L>
+<L>He designs his coming as a particular favour;</L>
+<L>His presence will grace your Nuptials.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>I know his temper, and foresee the Event.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>He is now married, his Love is engag'd,</L>
+<L>But were it not, and was he free,</L>
+<L>To <HI>Alfreda</HI> it could have no access.</L>
+<L>Her Honour's strongly guarded; she's your Wife,</L>
+<L>If that is not enough, she is yet more,</L>
+<L>My Sister,—her wrongs will call on me</L>
+<L>To own the title of Brother.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>With what temper did he receive the News?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>He shew'd no great surprize,</L>
+<L>For had he been concern'd, or should he yet</L>
+<L>Resent the Marriage ill—</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>He conceals his Thoughts.</L>
+</SP>
+<SP>
+<PB N="21" REF="17"/>
+<SPEAKER>Alder.</SPEAKER>
+<L>Be confident and cheerful.—</L>
+<L>Suspect of mischief hastens mischief on,</L>
+<L>He fewest dangers meets that doth fear none.</L>
+<L>I must attend him hither—</L>
+<L>O <HI>Alfreda,</HI> were I but assur'd</L>
+<STAGE>[Aside.</STAGE>
+<L>Thou could'st receive the knowledge of this wrong,</L>
+<L>And thy Ambition not transport Revenge</L>
+<L>To the loss of Honour and Virtue,</L>
+<L>Not the command of <HI>Edgar</HI> should make me tame.</L>
+</SP>
+<STAGE>[Exit Ald.</STAGE>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>To dinner, unwelcome Guest!</L>
+<L>I know the dish thy greedy eye will feast on.</L>
+<L>But his Reception shall be with smiles,</L>
+<L>That in my looks he may not read my fears,</L>
+<L>And thence conclude me conscious of a Guilt.</L>
+</SP>
+<STAGE><HI>Enter</HI> Alfreda.</STAGE>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>My Brother tells me the King will be here.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>Yes, <HI>Alfreda,</HI> the King will be here.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>This Country Dress will shame me;</L>
+<L>I wou'd appear in more Gallantry.</L>
+<L>I'le wear my Jewels.—</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>Thy beauty has its native purity,</L>
+<L>With Art not injur'd, nor with Age impair'd,</L>
+<L>Not broke with Surfeits, nor worn with Cares,</L>
+<L>Nor by late Revelings decay'd, you, <HI>Alfreda,</HI></L>
+<L>Want not the ornament of Dress.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>But I am a Bride.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>The Court makes no distinction.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>You look on me, my Lord, with eyes</L>
+<L>Full of Love and Sadness, as if your Breast</L>
+<L>Gave entertainment to some thoughts</L>
+<L>Injurious to the blessings of the Day.</L>
+<L>My Brother's Brow too wore an unwonted frown.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>Did he acquaint you with the Cause?</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>No.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>'Tis then a Secret to us both.—But mine</L>
+<L>Proceeds from an apprehension that you</L>
+<L>Will suddenly be angry or unkind.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>This day shou'd know no Grief,—</L>
+<L><PB N="22" REF="18"/>
+What can have power to make me so to you?</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>A request I would have you grant,</L>
+<L>And not demand the reason why I ask it.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Your words a little surprize me,</L>
+<L>For they import some Diffidence.</L>
+<L>Yet you may dismiss your fears,</L>
+<L>Since all I can with honour grant</L>
+<L>You now are priviledg'd to ask.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>Then, to oblige me, instead of adorning,</L>
+<L>Resolve to cloud that bright Orb of Beauty,</L>
+<L>And in a meaner Dress obscure those Beams.</L>
+<L>Let a pale Green-sickness Paint be drawn,</L>
+<L>As a Veil o're the Roses of thy Cheeks;</L>
+<L>A tawny Die spread o're thy Neck and Breasts;</L>
+<L>Let the same Art instruct thee to sully</L>
+<L>That excellent whiteness of thy Hands.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>You forget the King will be here.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>No, I had rather he would forget to come.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>You are jealous then, my Lord!</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>Not of thee by Heaven, <HI>Alfreda.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>This injurious Caution shews you are.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>Of the King I am, for thou art so fair,</L>
+<L>And he so amorous.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Poor suspicious man, dost thou believe,</L>
+<L>That should my Beauty have Charms to conquer his Heart,</L>
+<L>He can find any to or'ecome my Virtue.</L>
+<L>Now I perceive the Mark at which you levell'd</L>
+<L>Your Discourse this morning. Tho ambition</L>
+<L>Of all Passions, in my Soul has the Ascendant,</L>
+<L>Yet my aspiring thoughts pursue</L>
+<L>The bright Tracts of Honour, and take no slight</L>
+<L>Where Virtue towrs not above, your Thoughts.</L>
+<L>When I told you Ambition did guide my Love,</L>
+<L>Were too injurious to conclude,</L>
+<L>It had the conduct of my Virtue too.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>No man less jealous is than I.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Suck not that Poyson in, which would burst out:</L>
+<L>You have already done me Injuries,</L>
+<L>Not to be repair'd, and scarce forgiven.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>Let not reproaches add to my sorrows.</L>
+<L><PB N="23" REF="18"/>
+I swear to thee I am not jealous:</L>
+<L>Imagine not this strange Request</L>
+<L>Proceeds from suspicions of your Virtue:</L>
+<L>But grant if possible what I ask,</L>
+<L>Without farther obliging me to declare</L>
+<L>The Reasons that compell me to't.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>No, no, my Lord, you can have no other</L>
+<L>Sentiments in your Soul, nothing but Jealousie</L>
+<L>Has eyes to foresee the future so far off.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>Unkind <HI>Alfreda,</HI> thou wilt force my tongue</L>
+<L>To an acknowledgment that will destroy</L>
+<L>Thy peace, my guilt made known:</L>
+<L>If thou hast not a noble stock of Courage,</L>
+<L>Thy Thoughts will soon grow mutinous,</L>
+<L>And Passion 'gainst thy Reason will rebell.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Then to suspect my Virtue there can be</L>
+<L>No greater crime.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>Yes, <HI>Alfreda;</HI> yet 'tis a crime may be forgiven too,</L>
+<L>Since but from the excess of Love it grew.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>What is't, my Lord?</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>I dare not tell thee.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Dare not?</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>No, must not.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Yes, you must.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>I wou'd not, but I must.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Come out with it.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>I have lov'd you too well.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Is that a Crime?</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>I wish it were not;</L>
+<L>And I fear you scarce will thank me for't.</L>
+<L>By the King I was sent to view your Charms.</L>
+<L>If my Tongue had confirm'd the report of your Beauty,</L>
+<L>You had been Queen of <HI>Mercia,</HI> but your Eyes</L>
+<L>Made me a Traitor to my Prince.</L>
+<L>When I had gain'd an interest in your heart</L>
+<L>To advance my Love, I falsify'd</L>
+<L>The intentions of my King, I told</L>
+<L>Your Father he design'd your dishonour.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Then at your return to Court</L>
+<L>Degraded my Beauty?—</L>
+</SP>
+<SP>
+<PB N="24" REF="19"/>
+<SPEAKER>Ethel.</SPEAKER>
+<L>I did.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>And this you call Love?</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>To incur the King's displeasure—</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Was Treachery.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>To hazard Life and Honour to purchase thee—</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Was folly.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>But does th' excess of Love declare.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>No, it argues self interest, had you lov'd me</L>
+<L>You had not robb'd my Beauty of its Glories,</L>
+<L>And interpos'd 'twixt me and a Crown.</L>
+<L>You would have been more pleas'd to have seen me</L>
+<L>Fixt in the Glories of a Throne</L>
+<L>Than confin'd to your low Embrace.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>Pardon the Treason I have committed,</L>
+<L>And be content to reign absolute</L>
+<L>In the heart of one that truly loves you.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Had your Love been true it had been generous,</L>
+<L>Then you'd have declar'd the King's intentions,</L>
+<L>And by this high act of Exemplar Virtue</L>
+<L>Taught me to value your Love above a Crown.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>Love its greatness shews in rash effects:</L>
+<L>That had exprest more Generosity,</L>
+<L>But less Love; if you wou'd prevent my ruin,</L>
+<L>And cherish my affection,</L>
+<L>You must submit to be less beautiful.</L>
+<L>If his eye catch but one limb or feature</L>
+<L>Undisguis'd, it hastens my confusion,</L>
+<L>Damns his Soul, and ruins Thee.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>The injuries you have done me</L>
+<L>Permit not you should be my Counsellour.</L>
+<L>I will consult my own thoughts, at present</L>
+<L>Expect to know no more than this,—</L>
+<L>What Honour does oblige, I'le do.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>Let Pity in your thoughts have share.</L>
+</SP>
+<STAGE>[Exit.</STAGE>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>You should first have pitied your self.</L>
+<L>Bold man! that durst expose his safety</L>
+<L>To the frailty of a Woman's Virtue!</L>
+<L>Cou'd he know, we covet all that's fair,</L>
+<L>That we love to be envied for our Greatness,</L>
+<L>Ador'd for our State, fear'd for our Power,</L>
+<L><PB N="25" REF="19"/>
+Flatter'd in hopes of Rewards and Favours.</L>
+<L>Yet durst he rob me of all these,</L>
+<L>And hope a Refuge in my Virtue?</L>
+<L>Ah too presumptious man! Thy folly gives</L>
+<L>My virtue too severe a tryal.</L>
+<L>Yet i'le give thee a farther Testimony,</L>
+<L>And it shall be as daring, as the proof</L>
+<L>Of thy injurious Love was bold.</L>
+<L>I'le work thy fears to punishment,</L>
+<L>My Looks shall court Enticements, 'till they've rais'd</L>
+<L>Thy Jealousie to a dispairing height,</L>
+<L>Then will I make a brave Retreat,</L>
+<L>And Greatness, which I seem'd to covet, slight,</L>
+<L>And glory in that proud Defeat.</L>
+</SP>
+<STAGE>[Exit.</STAGE>
+<TRAILER>The End of the Second Act.</TRAILER>
+</DIV1>
+<DIV1 N="3" TYPE="act">
+<HEAD>Act the Third.</HEAD>
+<STAGE>The King seen at a Banquet, holding <HI>Alfreda</HI> by one hand, gazing
+on her Face. <HI>Ethelwold,</HI> as conversing with <HI>Ruthin,</HI> but
+turning his head, and looking Reverse on the King, with an
+angry jealous Countenance. <HI>Aldernald</HI> in discourse with
+<HI>Matilda. Durzo</HI> and <HI>Oswold</HI> in discourse with Ladies.</STAGE>
+<LG>
+<HEAD>SONG.</HEAD>
+<LG>
+<L>PHillis do not slight your Prize,</L>
+<L>And scorn my Heart, because your Eyes</L>
+<L>At first did conquer me and win it:</L>
+<L>Nor think mine's not a real flame,</L>
+<L>'Cause it so on a sudden came,</L>
+<L>Burst forth and rag'd all in a Minute.</L>
+</LG>
+<LG>
+<L>Meaner Beauties by their Arts</L>
+<L>More than their force do conquer hearts,</L>
+<L>And by degrees a flame engender▪</L>
+<L><PB N="26" REF="20"/>
+Small Armies so do Sieges form,</L>
+<L>Whilst Royal Ones take Towns by Storme,</L>
+<L>And bravely force 'em to surrender.</L>
+</LG>
+<LG>
+<L>They but lie in Ambuscade,</L>
+<L>Whilst nobly you a heart invade,</L>
+<L>And conquer it in your first advance.</L>
+<L>Of Victories thus gain'd by you,</L>
+<L>The Glory's to your Beauty due;</L>
+<L>They their Conquests poorly owe to Chance.</L>
+</LG>
+</LG>
+<STAGE>A DANCE.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>SHe's wonderous Beautiful.</L>
+<L>Nature in this fair Original has excell'd;</L>
+<L>As most great Artists do, in some one Piece,</L>
+<L>All they have done before or after can.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>A King is sure on Earth a God.</L>
+<L>How great, how glorious are his Looks!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Here I must as on some blessed Vision gaze,</L>
+<L>Where still our Sight enlarges our Desires,</L>
+<L>And greedy to see more, at last we find</L>
+<L>Our Eyes too narrow for the Object,—but still</L>
+<L>Unsatisfied, we look, and look, and thus look on.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>On his Brow sits Majesty enthron'd,</L>
+<L>Whilst his Eyes dart Glories round him,</L>
+<L>And from his Form, amazing Greatness flows.</L>
+<L>Thus like the Sun, encircled with his Beams,</L>
+<L>He dazles with excess of Light.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>His Eyes dart pointed beams at hers,</L>
+<L>And hers repay 'em with their trembling lustres.</L>
+<L>Their Hearts play the Wantons in their Eyes.</L>
+<L>O fatal Enterview! I am ruin'd</L>
+<L>If it longer last—</L>
+<L>Madam, I fear the King is not well.</L>
+</SP>
+<STAGE>[To the Queen.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Sir, are you not well?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>A strange unusual pain on the sudden</L>
+<L>Has seiz'd my heart.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>How quickly Love takes root!</L>
+</SP>
+<SP>
+<SPEAKER><GAP DESC="illegible" RESP="oxf" EXTENT="1 word" DISP="〈◊〉"/></SPEAKER>
+<L>Sure I have seen that face before:</L>
+<L><PB N="27" REF="20"/>
+O 'twas in that Picture.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>What is the Captain doing?</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Making comparisons 'twixt the Shadow</L>
+<L>And the Substance.</L>
+<L>I gave him my Sisters Picture,</L>
+<L>With a description of her to prepare him for Love.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>Her Beauty warrants all you cou'd say of it;</L>
+<L>If her Carriage holds, 'twill be a fierce Encounter.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>My heart begins to fail me already,</L>
+<L>But I'le huff it out as long as I can.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Now lead the way to cool Walks, and shady Groves.</L>
+<L>Madam, your Hand, and thine, <HI>Alfreda,</HI></L>
+<L>By so much Beauty on every side attended,</L>
+<L>No Prince so happy but would envy my Triumphs.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Hold, Sir, I am not well.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ladies, take care of the Queen, be assistant</L>
+<L>To her health.—Come, <HI>Alfreda.</HI></L>
+</SP>
+<STAGE>[Exeunt omnes praet. Queen, Ladies, and <HI>Ruthin.</HI></STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>So, I thank you all, my Illness is o're.</L>
+<L>Ladies, pray retire a while.</L>
+<L>O my dear Father, is this my Nuptial Treatment?</L>
+<L>This my Welcome to a Throne? are these the Joys</L>
+<L>Attend on Crowns! If such they are, who'd sigh to</L>
+<L>Be a Bride, or be ambitious to be a Queen?</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>O my <HI>Leonora!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Love, the path that leads to Marriage</L>
+<L>Is strew'd with Wreaths and Flowers;</L>
+<L>And when at distance we behold a Throne,</L>
+<L>How pleasant is the prospect! and we ascend to</L>
+<L>It by Golden Steps. O cruelty of Nature!</L>
+<L>Oh Tyranny of Fate!</L>
+<L>To lead to pain through such delightful ways,</L>
+<L>And make the Journeys end so differing from the Road.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>Afflict not thy self,</L>
+<L>Let this thought warm thy breast with Joy;</L>
+<L>Though <HI>Alfreda</HI> usurp his Heart, his Throne</L>
+<L>She cannot, thou art still his Partner there.</L>
+<L>Fate by Death alone can remove thee thence;</L>
+<L>Tho not his Love, thou shar'st his Glory.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>I willingly wou'd change my Throne for hers,</L>
+<L><PB N="28" REF="21"/>
+In his Heart I would reign—</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>Remember thou art a Queen;</L>
+<L>Let this thought inspire a Courage in thee</L>
+<L>To own that Title, and maintain its Rights.</L>
+<L>If as a Wife, Love softens thee to tears,</L>
+<L>Yet be embolden'd by thy Quality.</L>
+<L>Exalt thy Looks to awful Greatness</L>
+<L>With haughty Frowns, and an Imperious Brow,</L>
+<L>Check the advance of that bold Invader:</L>
+<L>And with the Grandieur of a Queen</L>
+<L>Dispute the Empire of his Heart.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Tho she retreat, his heart will not return,</L>
+<L>But with the Flames her Eyes have kindled, burn.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>Not fed by her, those Flames not long can live.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>But he'l no new ones from these Eyes receive.</L>
+<L>Or'e Hearts we can no second Conquest boast,</L>
+<L>A Heart once gone, for ever, ever's lost.</L>
+<L>To me I never more shall see him kind▪</L>
+<L>His Love is as unconstant as the Wind.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>But thence some ground for better hopes I find.</L>
+<L>For Winds that vere from Point to Point so fast,</L>
+<L>Chop round to the same Point they left at last.</L>
+<L>Thy longer absence may injurious prove,</L>
+<L>Freedom and Privacy do nourish Love.</L>
+<L>Joyn with the Earl to hinder their converse,</L>
+<L>To stop Love's progress cut off all Commerce.</L>
+</SP>
+<STAGE>[Exeunt.</STAGE>
+<STAGE>Enter <HI>Aldernald,</HI> and Matilda.</STAGE>
+<STAGE>The Scene, the <HI>Garden.</HI></STAGE>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>That Passion's weak that cannot move the Tongue</L>
+<L>To court the Object, which the Soul affects:</L>
+<L>Or else the Object has no strong attractions.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>All that is excellent may justly be attributed</L>
+<L>To her Honour, Beauty, Virtue, and what e're can enter</L>
+<L>In the perfect composition of a Woman.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>Much Commendation does much Love discover;</L>
+<L>O were he not in Love, or else my Lover.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>In every limb and feature I read the greatness.</L>
+<L>Of her Soul, a Form so rare and beautiful</L>
+<L><PB N="29" REF="21"/>
+She has, that where I fix my eye, I stand amaz'd,</L>
+<L>And think my Love wou'd grow Presumption</L>
+<L>If I exceed a silent admiration.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>A Gallant man should not his Flame conceal;</L>
+<L>Should you the Sent'ments of your Soul reveal,</L>
+<L>Fame, and your own great Deeds wou'd nobly plead</L>
+<L>Your cause, no other Orators you need.</L>
+<L>Were she like me a Princess, nay were't me,</L>
+<L>Were't me you lov'd; and I as fair as she,</L>
+<L>Tho I perhaps cou'd not accept your flame,</L>
+<L>Yet shou'd your Love less than your Silence blame.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Madam, suppose 'twere you I lov'd?</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>That Supposition does my blushes raise,</L>
+<L>Because I know I merit not such praise.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>You blame my silence now, because you know</L>
+<L>I love some other, and that 'tis not you.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>I wish this truth had not so plain been told,</L>
+<L>But now I think on't, Love may be too bold.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>My hopes are dasht agen, Joys came so fast</L>
+<STAGE>[Aside.</STAGE>
+<L>And thick, I knew they were too great to last.</L>
+<L>In that good mind had she one minute longer stayd,</L>
+<L>My too rash tongue had my presumptuous Love betray'd.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>Since I am not the Mistress of his Vows,</L>
+<STAGE>[Aside.</STAGE>
+<L>Still may he fear the Secret to disclose.</L>
+<L>But tell me, what your Resolutions are,</L>
+<L>Will you love one, and not your Love declare?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>I still must love, but know not what to do;</L>
+<L>I'le not discover't to her.—</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>Never?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>No.</L>
+<L>Never, unless I'me counsell'd to 't by you.</L>
+<L>This shall be silenc'd too, this I design'd,</L>
+<STAGE>[Shews a Letter.</STAGE>
+<L>Because my Tongue durst not, shou'd tell my mind.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>To read that Letter what wou'd I not give?</L>
+<L>My Love's grown curious and inquisitive,</L>
+<L>I guess there's much of Passion in your stile.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>It is too mean a trifle for your sight.</L>
+<L>Yet if you think it will reward your pains</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>If it no secret but your love contains.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>I have no Secret which from you I'le hide,</L>
+<L><PB N="30" REF="22"/>
+For in my love I chose you for my Guide.</L>
+</SP>
+<STAGE>[She takes the Letter, and reads the Super.</STAGE>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>To your fair Self.—</L>
+</SP>
+<STAGE>[Starts.</STAGE>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Madam, what makes you start?</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>To me?</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Madam, to her that has my Heart.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>That is not I.</L>
+<STAGE>[Aside.</STAGE>
+<L>One dull as I am this might well surprize.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>When to her hands I'ad given this—my Eyes</L>
+<L>Would at first instant the Contents discover,</L>
+<L>She'd in my looks first read I was her Lover.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>'Tis true Love cannot be conceal'd by Art,</L>
+<L>A Lover's Eye reveals a Lover's Heart,</L>
+<L>And gives of Love the first Intelligence.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>Then sure I have no Love, or she no Sence.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>How dull!</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>How ignorant!</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>By Love besotted, he can nothing learn.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>That read, she cannot but my Love discern.</L>
+<L>Madam, the King.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>Let us remove to the next Walk,</L>
+<L>I'le read it there.</L>
+</SP>
+<STAGE>[<HI>Exeunt</HI> Ald. <HI>&amp;</HI> Mat.</STAGE>
+<STAGE>Enter <HI>Alfreda</HI> and the King.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>Alfreda,</HI> wert thou a Queen and absolute,</L>
+<L>That in thy breast didst bear a secret flame,</L>
+<L>For some one Gallant and deserving Subject;</L>
+<L>How would you treat the <HI>Lady</HI> you had rais'd</L>
+<L>To the high honour of your Confident,</L>
+<L>If perfidiously she should expose</L>
+<L>Her Charms, and by treacherous enticements</L>
+<L>Deprive you of that onely man, whom now,</L>
+<L>Tho you can't have, you cannot chuse but love.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Great persons should do great things,—if a Queen,</L>
+<L>My deeds shou'd not receive a lustre</L>
+<L>From that name, but add new Glories to it.</L>
+<L>I would forget the flame, and fault forgive.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>That generous Act wou'd too much encourage</L>
+<L>Subjects to grow bold. Since Ambition</L>
+<L>Is a Passion not less powerful than <HI>Love.</HI></L>
+<L><PB N="31" REF="22"/>
+They that dare snatch from your heart a Lover,</L>
+<L>Wou'd from your head a Crown.—</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Crowns admit of a precedent claim,</L>
+<L>But Love, like new-found Land, is theirs</L>
+<L>That first can get possession of it.</L>
+<L>Here, shou'd I punish the Offender's crime,</L>
+<L>'Twou'd make me guilty of the same.</L>
+<L>For the offence is, not that she lov'd him,</L>
+<L>But that her Love depriv'd me of him.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>No, the punishment is not due, because</L>
+<L>She depriv'd you of your Lover,</L>
+<L>But him of those Glories he with your Love</L>
+<L>Might have enjoy'd.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>But since a man in all Estates, not finds</L>
+<L>But makes his Happiness, he may not think</L>
+<L>Her Love has injur'd him. Then I ought to act</L>
+<L>The Generous Lover, and for the satisfaction</L>
+<L>He enjoys, pardon my Rival's fault, for in her Love</L>
+<L>He meets content, then crowns a greater blessing</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>But in your love, this fancied blessing had come</L>
+<L>Attended with the Glories of a Throne.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Love is a bliss so absolute, and high,</L>
+<L>It no additions does from Accidents receive,</L>
+<L>But like an Infinite, is uncapable</L>
+<L>Of change, to more or less.</L>
+<L>Thus he being in her love nor less happy</L>
+<L>Than in mine, I ought to think him so:</L>
+<L>And thus as a Lover I am always</L>
+<L>Debarr'd from punishing the Offender.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You have subt'ly mannag'd the Argument,</L>
+<L>To shew the Excellency of your wit.</L>
+<L>Wit, like a towring Hawk, flies high in Speculative notions,</L>
+<L>Whilst Judgment, like the Hound, pursues his Game,</L>
+<L>And follows Truth upon the level.</L>
+<L>Now, <HI>Alfreda,</HI> tell me thy real thoughts.</L>
+<L>Do you apprehend you should</L>
+<L>So perfect a Contentment find</L>
+<L>In any Subjects love, not to imagine</L>
+<L>You might more happy in a Monarch's be?</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>The flame ascends not more naturally,</L>
+<L><PB N="32" REF="23"/>
+Than to a Throne our Thoughts aspire.</L>
+<L>If free, I think I cou'd not force my self</L>
+<L>To refuse the bright temptations of a Crown:</L>
+<L>But my heart being before engag'd,</L>
+<L>As now it is, I cannot, as I am,</L>
+<L>Resolve; but if I were in that condition,</L>
+<L>And the very person, I could, because I should</L>
+<L>Then know my own thoughts.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Know then, thou art in that condition.</L>
+<L>False <HI>Ethelwold</HI> snatch'd thee from my Embrace;</L>
+<L>Now can you resolve the Question?</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Sir, I can.—</L>
+<L>If I had been acquainted with your love,</L>
+<L>It should have been as absolute in my breast,</L>
+<L>As you are in your Kingdoms.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You strangely bless me, in but discovering</L>
+<L>That you cou'd have lov'd me▪</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Hold Sir—</L>
+<L>The same temper that had inclin'd me then</L>
+<L>To have receiv'd your flame, permits not now</L>
+<L>I shou'd so much as think I might have been</L>
+<L>More happy, much less declare it.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>If thou art not miserable, I am,</L>
+<L>And though you may not declare it, I must.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>But I must not hear it.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Hear it, and pity me.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Pity for a King, is in a Subject's breast Presumption.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>A Duty rather.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>In others it may, but in me 'twoud be a Crime.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Alas, <HI>Alfreda,</HI> if you are rigorous</L>
+<L>I shall hate <HI>Ethelwold:</HI> your Pity shou'd,</L>
+<L>Like healing Balm be powr'd into the wounds he made.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>That Pity would not heal your wounds,</L>
+<L>But make 'em fester, and deeper to my Honour give.</L>
+<L>Tho I may be sorry for his fault,</L>
+<L>I must not be concern'd at your Complaints,</L>
+<L>My Honour suffers if I longer stay.</L>
+</SP>
+<STAGE>[Turns from the King and meets <HI>Ethelwold.</HI></STAGE>
+<STAGE><PB N="33" REF="23"/>
+<HI>Enter</HI> Ethelwold.</STAGE>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>What, <HI>Alfreda,</HI> does my coming fright you hence?</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>No, nor wou'd your departure much please me.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>I know you had a good Game,</L>
+<L>You had no reason to throw up your Cards.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Do you play my Hand out,</L>
+<L>And anon tell me, what you are a winner.</L>
+<STAGE>[<HI>Exit</HI> Alfreda.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>How much the Remedy she gives to cure,</L>
+<L>Encreases my disease.</L>
+<L>While she appears thus charming fair,</L>
+<L>Thus exactly virtuous, and thus truly great,</L>
+<L>With what temper can I bear the loss of her?</L>
+<L><HI>Ethelwold,</HI> thou hast robb'd me of a Woman,</L>
+<L>So made to be my Queen</L>
+<L>Thou seem'st to have foyl'd Destiny,</L>
+<L>And prevented Fates disposal of her. Speak,</L>
+<L>Why did you tell me she was not beautiful?</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>I judg'd her Beauty by your Greatness.</L>
+<L>I did not think it merited the honour</L>
+<L>To be plac'd in so great a Monarch's Throne.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>The world contains not such another Woman.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>If I am guilty, your Opinion is my Crime;</L>
+<L>For Fancy gives beauty its estimate.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>In meaner beauties what you say is true;</L>
+<L>But <HI>Alfreda</HI> has Excellencies so much</L>
+<L>Above the rest of woman-kind, that none</L>
+<L>Could behold her matchless Charms, and not know</L>
+<L>She was and is the fairest of her Sex.</L>
+<L>This was the reason why you depriv'd me of her.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>I requested not <HI>Alfreda</HI> of you 'cause she was</L>
+<L>Fair, but because I lov'd her.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>If it be true that you deceiv'd me</L>
+<L>'Cause you lov'd her, it is also true</L>
+<L>That you lov'd her 'cause you thought her beautiful.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>I humbly askt your leave to marry her.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Yes, after thou had'st profan'd her beauty,</L>
+<L>And said she had more than her Equals here.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>If Sir, I thought—</L>
+</SP>
+<SP>
+<PB N="34" REF="24"/>
+<SPEAKER>King.</SPEAKER>
+<L>The Thought was Blasphemy, and blacks thy Soul,</L>
+<L>But this was an arch peice of Treachery.</L>
+<L>Look there, then there: two Copies how different,</L>
+<L>Yet from the same Original! This to th' Eye</L>
+<L>Belies, profanes, blasphemes Divinity.</L>
+</SP>
+<SP>
+<SPEAKER>Ethel.</SPEAKER>
+<L>If, Sir, the Painter err'd, must I be blam'd?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>For this conspiracy you'l both be damn'd.</L>
+<L>Traytor, thy Crimes shall not go unpunish'd.</L>
+<L>Guards there—</L>
+<STAGE>[Enter Guards. <HI>Ruthin,</HI> Queen, <HI>Alfreda</HI> (from one side,) Aldernald, Matilda, (<HI>from the other.</HI>)</STAGE>
+<L>Seize that Traitor.</L>
+<L>In Dungeons thou shalt celebrate thy Nuptials.</L>
+<L>Chains shall embrace thee, not <HI>Alfredas</HI> armes.</L>
+<L>And that thou may'st even in this life be damn'd,</L>
+<L>Thou shalt quite be depriv'd o'th' sight of her.</L>
+<L>Still may her Beauty haunt thy restless mind,</L>
+<L>Despair be the attendant of each thought.</L>
+<L>This Heaven of Beauty in thy hopeless fancy see,</L>
+<L>A Heaven that ne're shall be possest, enjoy'd, by thee.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Sir, on my knees—</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Away to prison with him.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Brother, Madam, my Lord, will no one speak?</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>His offence—</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You shou'd be the last shou'd speak.</L>
+<L>You was his Counsellour, and shar'd his Guilt.</L>
+<L>He was by Love, you by Ambition led;</L>
+<L>Yo've rais'd your Daughter to my Throne and Bed.</L>
+<L>But your ambitious ends I<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>le thus destroy,</L>
+<L>Shee shall my Throne, but not my Bed enjoy.</L>
+<L>Thou to a Crown shalt not be long ally'd,</L>
+<L>With her ends thy Ambition, and thy Pride.</L>
+<L>Madam—</L>
+<L>To you Respect and Honour I will pay,</L>
+<L>Though not my Heart, you shall my Scepter sway.</L>
+<L>You in the Grandeur of a Queen shall move,</L>
+<L>Depriv'd of nothing but the Rights of Love.</L>
+<L>To punish him, those joys must be deny'd,</L>
+<STAGE>[Points at <HI>Ruthin.</HI></STAGE>
+<L><PB N="35" REF="24"/>
+But shall by a kind friendship be supply'd.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Unhappy Woman, that art made wretched</L>
+<L>To be great!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>The first proof of my friendship this shall be,</L>
+<L>For the Queens sake enjoy your liberty.</L>
+</SP>
+<STAGE>[Exeunt K. Q.</STAGE>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>I am resolv'd the King shall hear me speak.</L>
+</SP>
+<SP>
+<SPEAKER>Alder.</SPEAKER>
+<L>To <HI>Ethelwold</HI> I will a visit make,</L>
+<L>And tell him that his cause you undertake.</L>
+</SP>
+<STAGE>[Exeunt <HI>Ald.</HI> and <HI>Alfreda</HI> severally.</STAGE>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>The Watchful Chymist, that with pregnant hopes</L>
+<L>Waits the Return of his long labours,</L>
+<L>And in that minute he expects should give</L>
+<L>Perfection to the precious <HI>Elixir,</HI></L>
+<L>Sees the Stills fall, and all the rich Production</L>
+<L>Buried in the ruins, receives not a defeat</L>
+<L>Than this more unexpected.—</L>
+<L>Fortune to th' Wise, and the industrious shews</L>
+<L>Her spight, but unto Fools success allows.</L>
+</SP>
+<STAGE>[Exit.</STAGE>
+<STAGE>Enter <HI>Durzo, Hillaria, Alicia</HI> meeting him.</STAGE>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>O here's your man of War.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>Captain, you look as if you were not well.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>I am not, I have Wild-fire in my veins,</L>
+<L>My bloud is a Circulating Flame,</L>
+<L>Hot as the Current of melted Metals,</L>
+<L>That flows from the Entrails of burning Mountains;</L>
+<L>It spouts against the upper Region of my Brain,</L>
+<L>Like a tempestuous Hurricane; I have a red-hot Devil in me.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>O Terrible!</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>Do you know what this strange Disease is?</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Know? I know nothing.</L>
+<L>But Nature is at war within me:</L>
+<L>My Brain's revers'd, all, all my Senses on the Rack.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>We had best begone, he'l beat us presently.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>By the description, this should be Love.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>Yes Love, Captain, that's the little hot Devil</L>
+<L>You talk of.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>He plays mad Reaks, when first he enters a</L>
+<L>Breast, and finds Resistance.</L>
+</SP>
+<SP>
+<PB N="36" REF="25"/>
+<SPEAKER>Hill.</SPEAKER>
+<L>Love, like the small Pox, as any seldom escape it,</L>
+<L>So the longer we live without it, the more</L>
+<L>Dangerous 'tis when it comes.</L>
+</SP>
+<STAGE><HI>Enter</HI> Oswold.</STAGE>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L><HI>Hillaria,</HI> what execution have you done?</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>I have discharg'd my upper Teer;</L>
+<L>I have pepper'd him with small Shot.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>How is't, Captain, are you in Love yet?</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>Yes, yes, he is furiously infected with Love.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>But can you tell him how to cure this Disease?</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>To cure Love, he must look for Love again,</L>
+<L>Bear up close, speak to her, Captain.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>I cou'd speak better to the great Guns</L>
+<L>Of an <HI>Armada,</HI> that answer in leaden syllables,</L>
+<L>Whose Oratory is nothing but fire and noise.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Bear up with the little Pinnace,</L>
+<L>Clap her aboard briskly.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>If I was but once Master of her Fore-deck!</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>That's easie, she's leaky, Captain, she's leaky.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Then she'l founder in the Hold anon.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Come, I'le bring you both to Grapling,</L>
+<L>Get clear of one another as you can.</L>
+</SP>
+<STAGE>[<HI>Oswold</HI> brings them together.</STAGE>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>Here will be an excellent Scene of Love.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Let us vere off, and give 'em Sea-room.</L>
+</SP>
+<STAGE>[<HI>Exeunt</HI> Osw. Alic.</STAGE>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Can you love?</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>Yes, Captain.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Me? say but that word, and this Sword,</L>
+<STAGE>[Draws his Sword.</STAGE>
+<L>If you command, shall unpeople half the World</L>
+<L>To give us and our Progeny Elbow-room.</L>
+<L>Discharge but that word from your mouth,</L>
+<L>And command me to still Tempests, to split Rocks asunder.</L>
+<L>Lady, do but feel the weight on't;</L>
+<L>See, is't not an excellent Blade?</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>I have no great skill.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Feel, has it not a brave edge, and</L>
+<L>What a point is here!</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>'Tis dangerous medling with edg-tools,</L>
+<L>Pray put it up.</L>
+</SP>
+<SP>
+<PB N="37" REF="25"/>
+<SPEAKER>Dur.</SPEAKER>
+<L>Have you any Enemies? if you have</L>
+<L>I'le make their bodies Scabberds.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>No Captain, put it up.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Will you love me then?</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>I love not danger, any thing but killing.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Did you ever see one kill'd?</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>No.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Heaven, had you been with me in our last</L>
+<L>Engagement, you might have seen a sight, that would have</L>
+<L>Made a Coward in love with death; there you might</L>
+<L>Have seen our Enemies bear up in a half Moon,</L>
+<L>Exposing to our view the terrour of their Wooden Castles,</L>
+<L>The mouths of their great Guns, which were made</L>
+<L>To swallow leaden morsels that might lie heavy on</L>
+<L>Their stomachs, 'till they were disgorg'd in our faces.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>Faugh, faugh.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>We with Top-sails out, Flags and Streamers</L>
+<L>Flourishing in the Wind, and Trumpets sounding</L>
+<L>Unite our force, then like Thunder fall in amongst 'em:</L>
+<L>There like the Sons of Terrour we are seen</L>
+<L>In Clouds of fire and Smoak, Slaughter puts on</L>
+<L>Her Purple Robes.—</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>Hold, good Captain.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>We play at Tennis with Iron Balls, and death comes</L>
+<L>Whizzing by our Ears: Heads take fire in their</L>
+<L>Brain-pans, and burst asunder like Granadoes,</L>
+<L>Scattering the Wild-fire of their Brains</L>
+<L>In their Fellow Soldiers faces.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>You fright me horribly.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Other heads fly from one Ship with the bullets</L>
+<L>That saluted them, to visit their friends in another.</L>
+<L>Limbs like Langrel-shot, mount scattering in the air,</L>
+<L>And hands that cou'd not reach the Enemy before,</L>
+<L>Now fly into distant Vessels to give their foes a box</L>
+<L>Of the ear; other hands grasping their swords,</L>
+<L>Clear a whole Deck in the slight.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>What shall I do?</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>We are now in a confusion, the Fireships</L>
+<L>Flame, and their half-Moon is divided</L>
+<L>Into blazing Stars.—</L>
+</SP>
+<SP>
+<PB N="38" REF="26"/>
+<SPEAKER>Hill.</SPEAKER>
+<L>Enough, good Captain.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Some burn, the men leap over board,</L>
+<L>And drown themselves to save their lives,</L>
+<L>Other Ships reel, drunk with the Sea-brine,</L>
+<L>And at last sink to the bottom, to follow</L>
+<L>Those brave men, who fought in 'em</L>
+<L>With as much courage as they drank.</L>
+</SP>
+<SP>
+<SPEAKER>Hil.</SPEAKER>
+<L>Have you yet done?</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>The Flags and Streamers—</L>
+</SP>
+<SP>
+<SPEAKER>Hil.</SPEAKER>
+<L>Yet more?</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>That hung wantonly playing in the air,</L>
+<L>Now on the Deck lie stain'd in bloud,</L>
+<L>And their tall Masts lie in their Hulls</L>
+<L>As in Coffins. How like you it? is it not brave?</L>
+</SP>
+<SP>
+<SPEAKER>Hil.</SPEAKER>
+<L>I am almost dead with fear.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>I thought you valiant.</L>
+</SP>
+<SP>
+<SPEAKER>Hil.</SPEAKER>
+<L>Yes, Captain, in Land matters a very Lioness,</L>
+<L>But in Sea-affairs a meer Coward.</L>
+<L>The very Terms are Bullets to me;</L>
+<L>I wou'd not hear such another Relation.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Not hear! Can you fear when I stand by?</L>
+<L>My voice is gentle, but I have something</L>
+<L>That can speak louder to your Enemies,</L>
+<STAGE>[Shews a Pistol.</STAGE>
+<L>See—</L>
+</SP>
+<SP>
+<SPEAKER>Hil.</SPEAKER>
+<L>What's that, a Pistol?</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>'Tis the Spawn of a Cannon, a little Spit-Devil.</L>
+</SP>
+<SP>
+<SPEAKER>Hil.</SPEAKER>
+<L>Pray conjure him down again.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Frighted at my voice, you shall hear</L>
+<L>What a brave Language this speaks.</L>
+<STAGE>[Fires.</STAGE>
+<L>Sure she'l love me anon.</L>
+</SP>
+<STAGE><HI>Enter</HI> Oswold, Matilda, Alicia.</STAGE>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>What warning-piece was that?</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>Alas, poor <HI>Hillaria,</HI> how thou trembl'st!</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>O Madam, the Captain's in his hot Fit,</L>
+<L>And I am in my cold.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>What has he done to you?</L>
+</SP>
+<SP>
+<SPEAKER>Hil.</SPEAKER>
+<L>Frighted me horribly, he has not spoke a word</L>
+<L>But what was terrible as the roaring of Cannons.</L>
+</SP>
+<SP>
+<PB N="39" REF="26"/>
+<SPEAKER>Alic.</SPEAKER>
+<L>The Captain wou'd be a rare Physician to cure</L>
+<L>Ladies of the Ague, if frighting will do't.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>What was you doing Captain?</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Only saluting his Mistress.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>Right, I gave her a Gun, and that's Sea-Courtship.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>Your Complement was very loud.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L><HI>Hillaria,</HI> admit him agen into your Service,</L>
+<L>He will forget he is a Soldier, and turn</L>
+<L>Courtier for your sake.</L>
+</SP>
+<SP>
+<SPEAKER>Hil.</SPEAKER>
+<L>No, let him still retain his valour,</L>
+<L>But not o'reshoot himself in his Complements,</L>
+<L>And express his Love in such terrible Rhetorick.</L>
+</SP>
+<SP>
+<SPEAKER>Dur.</SPEAKER>
+<L>I know not how to court you in a Silken phrase,</L>
+<L>But in down-right Reality I will do't.</L>
+<L>I am your Friend Star-board and Lar-board.</L>
+</SP>
+<SP>
+<SPEAKER>Hil.</SPEAKER>
+<L>Then Captain, out with your Sails again;</L>
+<L>Top and Top-gallant you shall be my Lover.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>Well perform'd, <HI>Hillaria.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Hil.</SPEAKER>
+<L>Whilst I my heart under your Conduct steer,</L>
+<L>No coasting Pyrate Lovers I, nor Rovers fear.</L>
+</SP>
+<TRAILER>The End of the Third Act.</TRAILER>
+</DIV1>
+<DIV1 N="4" TYPE="act">
+<HEAD>Act the Fourth. Scene First.</HEAD>
+<STAGE><HI>Enter</HI> Aldernald <HI>and</HI> Matilda.</STAGE>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>THat my Injoyment might be the greater,</L>
+<L>I deferr'd the perusal of your Letter</L>
+<L>'Till the Court-disturbances were past.</L>
+<L>Peaceful minutes suit best with Love affairs.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>I wish, Madam, you had read it in my absence,</L>
+<L>And prevented my blushes.</L>
+<STAGE>[<HI>Matilda</HI> opens the Letter, and reads.</STAGE>
+<L>I have a Heart that is amorous, but a Tongue</L>
+<L>That is timerous, I would speak but dare not,</L>
+<L>I would be silent but cannot; I am urg'd by Love,</L>
+<L>Detain'd by Fear. If I conceal my Flame,</L>
+<L><PB N="40" REF="27"/>
+I torment my self, if I reveal it I offend her I love.</L>
+<L>What is she, <HI>Aldernald?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>A Princess.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>A Princess!</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Yes.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>A Princess too!</L>
+<L>Then I in vain my hopes of Love pursue.</L>
+<L>What forein Princess can this be?</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Oh ill construction, unlucky evasion!</L>
+<STAGE>[<HI>Matilda</HI> reads agen.</STAGE>
+<L>Thus am I doom'd by rigorous Destiny</L>
+<L>To be the scorn of Fate, Beauties Slave,</L>
+<L>And Love's Martyr! It is for her I languish</L>
+<L>That now reads this Paper.—</L>
+<L>It is for her I languish, that now reads this Paper▪</L>
+<L>Oh were that meant to me! how fate conspires</L>
+<L>To indulge my hopes, and flatter my desires!</L>
+<STAGE>Aside</STAGE>
+<L>The Invention is pretty, this fully expresses</L>
+<L>Your Love, and is an evidence too of your</L>
+<L>Respect—Your approach is modest, and such</L>
+<L>As I could not blame,</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>How void of apprehension!</L>
+<STAGE>[Aside,</STAGE>
+<L>She cannot, will not understand.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>Now, <HI>Aldernald,</HI> I'le make you my Confident.</L>
+<L>It was my fate once to admit of a flame,</L>
+<L>Yet not unworthy my Breast, if Merit</L>
+<L>May excuse the want of Royal descent.</L>
+<L>For the man I lov'd, though not born to a Crown,</L>
+<L>Had done Actions deserving one.—</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>He had more than a Kingdom in your Love.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>But he never knew it: I conceal'd my Flame.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Much more than mine your silence was too blame.</L>
+<L>Monarchs your Love upon their knees would meet,</L>
+<L>And throw thems<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>lves and Scepters at your feet.</L>
+<L>Then what would not the proudest Subject do?</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>But Modesty forbids our Sex to woo.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Love might have found ways without blame t' impart</L>
+<L>To him you lov'd the conquest of your heart.</L>
+<L>Against your silence lies a just complaint.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>My Birth too on my Love impos'd restraint.</L>
+</SP>
+<SP>
+<PB N="41" REF="27"/>
+<SPEAKER>Ald.</SPEAKER>
+<L>What Charms had he could such a Princess move?</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>Great Actions first dispos'd my heart to love,</L>
+<L>And then his Picture.—</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>That's but an empty Shade.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>Yet on my heart a strong Impression made.</L>
+<L>But when I saw him, he or felt no flame,</L>
+<L>Or else like you was ignorant and tame.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>What do I hear? her heart has been possest,</L>
+<STAGE>[Aside.</STAGE>
+<L>And Love still holds Dominion in her breast;</L>
+<L>She do's relate it with so much concern,</L>
+<L>That I no hopes but of my Ruin learn.</L>
+<L>A burning blush still covers all her face.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>This stupid man will force me to disgrace.</L>
+<L>I am not well on th' sudden.—</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Not well?</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>Some other time I'le tell you more,—</L>
+<L>Since words will not, let that the myst'ry clear.</L>
+</SP>
+<STAGE>[Exit.</STAGE>
+<STAGE>[As she goes off, she pulls out a Handkerchief, which
+draws a Picture out of her Pocket.</STAGE>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Ha, what is this?—</L>
+<L>Blessedsight! my Picture here</L>
+<L>It is, at least it much resembles me.</L>
+<L>'Tis mine, if I can judg of what I see.</L>
+<L>How dull have I been, not to apprehend</L>
+<L>I am the man she lov'd?</L>
+<L>And therefore did my Silence discommend.</L>
+<L>My thoughts are now crowded with things she spoke,</L>
+<L>How each the others meaning has mistook!</L>
+<L>How both by Jealousie have been misled!</L>
+<L>Each shun'd th' Approaches which the other made.</L>
+<L>But though she love, and do's her Love disclose,</L>
+<L>A Princess cannot of her self dispose.</L>
+<L>And when the King—</L>
+</SP>
+<STAGE>Enter Durzo.</STAGE>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>Admiral! Yes 'tis he; How he stands,</L>
+<L>As if he was but th' appearance of a man!</L>
+<L>I have seen him in the heat of an Engagement,</L>
+<L>In the posture of that Heroe Angel,</L>
+<L><PB N="42" REF="28"/>
+That pitcht the Devil headlong out of Heaven.</L>
+<L>So ho, who's within?</L>
+</SP>
+<STAGE>[<HI>Durzo</HI> knocks with his hand at <HI>Aldernald</HI>'s breast.</STAGE>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Are you here, Captain?</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>That's a Lover's question right. B'ne let your Eyes</L>
+<L>Answer you: but I thought you had not been at home,</L>
+<L>Your Body lookt as if 't had been the forsaken</L>
+<L>Tenement of some great Soul, that stood empty,</L>
+<L>And wanted an Inhabitant. Whirlwinds take</L>
+<L>This Love, it has made a Fool of me too. When</L>
+<L>I am spoken to, I am thinking of Ladies; my</L>
+<L>Wits and Sences are gone a rambling, like Sailors</L>
+<L>Gotten a shore in their Long Boat, and my Body</L>
+<L>Left without motion like their Ship at Anchor.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>You had fair warning not to fall in love.</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>Here's the Devil on't, I know not how it</L>
+<L>Comes about—Well believe me, Admiral,</L>
+<L>Tho Women from the Wast upwards look like</L>
+<L>Angels, there's Witchcraft under their Petticoats.</L>
+<L>And I'le tell you, if a Woman does but fetch</L>
+<L>This long Heave, with the lifting up of her head,</L>
+<L>And the bending in of her back, two little</L>
+<L>Round plump pouting Devils peep from</L>
+<L>Underneath her Gorget, which put such a glowing</L>
+<L>Heat into my veins, that my blood in a moment</L>
+<L>Grows too hot for its channels, and I could</L>
+<L>O'retun a score of 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>You are heated at the very thoughts of Women.</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>Now I am in one of my Fits. Oh Admiral</L>
+<L>That I had but half a dozen Ladies now in my Cabin,</L>
+<L>How I'de rummidg 'em together!</L>
+<L>I'de make 'em smoak agen—</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Since you are so hot, take a Walk with me</L>
+<L>In the open Air to cool you.</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>That won't do't; if we were going to ingage,</L>
+<L>Perhaps the loss of a Leg, or an Arm, or forty</L>
+<L>Ounces of blood, might something abate my Feaver.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Your Distemper has gotten such hold,</L>
+<L>That you must lose a Leg, or an Arm,</L>
+<L>For every handsom Lady you see,</L>
+<L>Or you'l not be thorougly cur'd.</L>
+</SP>
+<SP>
+<PB N="43" REF="28"/>
+<SPEAKER>Durz.</SPEAKER>
+<L>Say you so, then I'le indure't still,</L>
+<L>And try what time and chance will do.</L>
+</SP>
+<STAGE>[Exeunt.</STAGE>
+<STAGE>Enter King, and <HI>Alfreda.</HI></STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Have you, <HI>Alfreda,</HI> consider'd his crimes,</L>
+<L>And whom he has offended?</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>I have consider'd that your clemency</L>
+<L>In this act, will most brave and God-like shew,</L>
+<L>Because you pardon wrongs done to your self.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>That for a Lover is too Heroical,</L>
+<L>With less regret I could pardon him</L>
+<L>Had robb'd me of a Crown, than thee.</L>
+<L>The King would pardon him, but the Lover cannot.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Is the Lover than the King less generous?</L>
+<L>Forgive him, Sir, if but to shew</L>
+<L>You can be to your self a King.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>That he durst offend, declar'd the greatness</L>
+<L>Of his Love; to forgive him will shew mine less.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>No, his offences were not proofs of Love,</L>
+<L>But Self-interest; but your forgiveness</L>
+<L>Will be an argument of a generous passion.</L>
+<L>He acted for himself, but you for her you lov'd.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>How should an ill-living Divine, who preaches</L>
+<L>'Gainst Licentiousness, convert his Hearers,</L>
+<L>When he is himself the greatest Libertine?</L>
+<L>So do thy Words and Actions disagree,</L>
+<L>Whilst you endeavour to make me tame,</L>
+<L>You, <HI>Alfreda,</HI> act the Tyrant.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Not I, but Virtue is the Tyrant.</L>
+<L>Virtue directs to keep your Passions</L>
+<L>In severest awe,—to treat 'em like Slaves</L>
+<L>If they rebel, to banish 'em.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>When Love first took possession of my Breast,</L>
+<L>He fortified so fast, and is so strongly seated,</L>
+<L>He will not now be forc'd to quit his Hold.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Though not your Love, you may o'recome your Rage.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>My Anger from my injur'd Love does rise,</L>
+<L>'Till that abates, I cannot this asswage.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>But if from Love you cut off all supplies,</L>
+<L><PB N="44" REF="29"/>
+His strength will weaker grow, his power decay.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>From your bright beauty it receives its force.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Then from my beauty turn your eyes away.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>But that will not my thoughts from you divorce.</L>
+<L>My fancie still will represent you fair,</L>
+<L>And I in all your Charms shall see you there.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Though still your fancie does my Form pursue,</L>
+<L>It represents me in a Husband's arms,</L>
+<L>Of me it gives you but a hopeless view:</L>
+<L>Love stript of hope the heart but gently warms.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>How you a Lover's hopes destroy, beware,</L>
+<L>We are all Rage and Madmen in despair:</L>
+<L>If you would anger from my Soul remove,</L>
+<L>Say something that is kind, and speak of Love.</L>
+<L>Treat me as you would do a froward Child,</L>
+<L>Sooth me 'till I'me by flattery beguil'd.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Whilst <HI>Ethelwold</HI> in Prison you detain,</L>
+<L>To 'scape the censures of th' misjudging Crowd,</L>
+<L>I even that common freedom must refrain,</L>
+<L>Which is to all the Court besides allow'd.</L>
+<L>I must reserv'd and sullen now appear,</L>
+<L>Or every gazing eye, and hearkning ear,</L>
+<L>Will take false measures of my mirth and me.</L>
+<L>My Lord,—</L>
+<L>Already wants no ground for Jealousie.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Must Liberty, must it to one be given?</L>
+<L>Whose crimes offend beauty, a King, and Heaven.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Whilst he by your commands remains confin'd,</L>
+<L>You imprison too the freedom of my mind,</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Command my death, but not his liberty.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Restoring him you set <HI>Alfreda</HI> free.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>But freed, what will the fair <HI>Alfreda</HI> do,</L>
+<L>When she has power to grant, and I must sue.</L>
+<L>Quickly impose on me some lesser task,</L>
+<L>For this you will want power to requite.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>A meaner favour I disdain to ask.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Meet me then, <HI>Alfreda,</HI> meet me to night.</L>
+<L>In th' Garden when 'tis dark.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Meet him? what for?</L>
+<L>I'le meet you, Sir.</L>
+</SP>
+<SP>
+<PB N="45" REF="29"/>
+<SPEAKER>King.</SPEAKER>
+<L>To <HI>Ethelwold</HI> his Freedom I restore.</L>
+<L>You'l meet?</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>I will.—You'l not recall this Grant?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>My Promise firm as Fates Decree shall stand.</L>
+<L>A King's word I gage.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>If from me you want a Pledge,</L>
+<L>Sir, in assurance take my hand—</L>
+</SP>
+<STAGE><HI>Enter</HI> Aldernald.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Come, <HI>Aldernald,</HI> be thou a Witness,</L>
+<L>With what severity I treat my self;</L>
+<L>That robb'd of all my happiness, resolve to lose</L>
+<L>The pleasure of Revenge, and neither to complain;</L>
+<L>Nor punish the Offender.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>The noblest conquest is o're our selves.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You left me a King, an angry <HI>Iove,</HI></L>
+<L>Then I held Thunder in my hand,</L>
+<L>Of which <HI>Alfreda</HI> has disarm'd me; now</L>
+<L>Onely to my self I am a Tyrant.</L>
+<L>Go,—let <HI>Ethelwold</HI> have his Enlargement,</L>
+<L>Tell him my after-rage he need not fear,</L>
+<L>My Passions I enslave, and him let loose</L>
+<L>To play the luxurious Wanton, in the yet</L>
+<L>Untasted pleasures of thy fair Sisters love.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>'Tis a less glory to conquer Kingdoms,</L>
+<L>Than thus to subdue our Passions.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Now fair cruel one, let him enjoy thy Love,</L>
+<L>Whilst I in secret mourn my unkind Fate.</L>
+<L>If any Sigh by chance shall reach thy Ear,</L>
+<L>Let it not breed disquiets in you,</L>
+<L>For after this your pity will be vain,</L>
+<L>Nor will I of your cruelty complain.</L>
+</SP>
+<STAGE>[Exit King.</STAGE>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>So, this hard Task is o're.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>I know not which has most generous been,</L>
+<L>You <HI>Alfreda</HI> to intreat, or the King</L>
+<L>To grant a Pardon, fot both alike were injur'd.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L><HI>Ethelwold</HI> perhaps will make but an ill Return,</L>
+<L>Advise him to correct his jealous temper,</L>
+<L>For Jealousie is the restless worm of the Brain</L>
+<L><PB N="46" REF="30"/>
+As Guilt is of the Conscience,</L>
+<L>Full of causeless fears and apprehensions.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>This Act of Virtue will compose his thoughts,</L>
+<L>And wipe away his fears,—but</L>
+<L>Remit the management of this to me,</L>
+<L>I'le undertake to cure his Jealousie.</L>
+</SP>
+<STAGE>[Exit.</STAGE>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>I am run into a Labyrinth of dangers,</L>
+<L>And know not which way to escape:</L>
+<L>The Queen is suspicious, the King amorous,</L>
+<L>My Husband jealous.—To gain him Liberty,</L>
+<L>I have ingag'd to meet the King to night:</L>
+<L>If I do not, I fear his anger will relapse;</L>
+<L>If I do, I expose my Honour.—</L>
+<L>Unfortunate state! I have no Guide,</L>
+<L>No Counseller if I erre.—Malicious Fortune</L>
+<L>Has so contriv'd it,—the fault must be all</L>
+<L>My own,—let Heaven, that knows my Innocence,</L>
+<L>Take care of it.</L>
+<STAGE>Enter the Queen and Ladies.</STAGE>
+<L>The Queen brings anger in her brow:</L>
+<L>I'le stand the shock.—</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Ladies, why do you follow me?</L>
+<L>Why do you press on my Retirement?</L>
+</SP>
+<SP>
+<SPEAKER>1 Lady.</SPEAKER>
+<L>Madam, you are melancholly,</L>
+<L>We hope our company may divert it.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Why this care of me? why to me so kind?</L>
+</SP>
+<SP>
+<SPEAKER>2 Lad.</SPEAKER>
+<L>It is our duty, Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Your duty, to whom?</L>
+</SP>
+<SP>
+<SPEAKER>2 Lady.</SPEAKER>
+<L>To you, Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Why, who am I?</L>
+</SP>
+<SP>
+<SPEAKER>1 Lad.</SPEAKER>
+<L>You are the Queen, Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>The Queen? how you all mistake?</L>
+<L>There is the Queen, you misplace your Service;</L>
+<L>Go attend on her, that is the Queen.</L>
+<L>You seem not to believe me—</L>
+<L>Doth not the whole Court bow to her?</L>
+<L>Do they not in Crowds follow her?</L>
+<L>What State, what Train have I? who follows me</L>
+<L>Except your selves? Foolish Virgins,</L>
+<L><PB N="47" REF="30"/>
+There make your Court!</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>She is much troubled in mind, and her discontent</L>
+<L>Reflects on me with great severity.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Go, be Attendants there; blest with her influence</L>
+<L>You'l pass through merry Spheres, she'l conduct you</L>
+<L>To Courts of State, and Palaces of delight,</L>
+<L>Where Kings shall make Love, and Princes court you;</L>
+<L>Where all the year is spent in Balls, Masques, Treats,</L>
+<L>And your whole lives in pleasures melt away.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>My Soul, stand firm to generous Resolutions.</L>
+<L>It is not noble to insult o're Griefs.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>I shall lead you but to silent Grotto's,</L>
+<L>To lonely Walks, and melancholly Groves,</L>
+<L>The Recesses of the Forsaken and Afflicted,</L>
+<L>Places sit onely to sigh and mourn in,</L>
+<L>Where rapt in serious contemplation,</L>
+<L>I shall a while forget my sorrows,</L>
+<L>And though I weep, and sigh, not know I do.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>The King's late Resolutions impress'd</L>
+<L>These mournful characters so deeply on her heart.</L>
+</SP>
+<SP>
+<SPEAKER>1 Lad.</SPEAKER>
+<L>Let us still follow her.</L>
+</SP>
+<STAGE>[Ex. Queen and Ladies.</STAGE>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>I have o'recome all that was Woman in me.</L>
+<L>Inspir'd by my injuries, I could severely</L>
+<L>Have retorted,—But that had been too</L>
+<L>Womanish.—The wrongs thou didst were</L>
+<L>In obedience to a Father,—thy Ignorance</L>
+<L>In part excuses the Guilt.</L>
+<L>But here he comes—</L>
+<STAGE><HI>Enter</HI> Ruthin.</STAGE>
+<L>Whose confederacy was malice and design,</L>
+<L>For he knew the secrets of the King's soul.</L>
+<L>Sir, I have heard the Queen lament,</L>
+<L>And seen her Griefs.</L>
+<L>How soon they're grown to an excess!</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>Tides blown by strong winds role in apace,</L>
+<L>And quickly swell above their banks.</L>
+<L>Her sorrow is already next distraction,</L>
+<L>And just breaking o're the bounds of Reason.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>The expressions of her Discontent were such</L>
+<L><PB N="48" REF="31"/>
+As call'd my Honour into question,</L>
+<L>And arraign'd my Virtue.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>There needs no greater evidence to shew</L>
+<L>The sudden discomposure of her mind,</L>
+<L>Than her Doubts of Virtue, that is guarded</L>
+<L>By duty and obedience to a Father:</L>
+<L>By the Glories of a Family,</L>
+<L>None more Noble, none more Ancient;</L>
+<L>By Love and Friendship to a Brother,</L>
+<L>By his acquir'd Fame and high Renown,</L>
+<L>By Fath and Loyalty to a Husband,</L>
+<L>And Conjugal affection.—</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>True, my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>Though urg'd by Love and Inclination,</L>
+<L>No Lady but would mak't her choice</L>
+<L>Rather to sacrifice her life to Virtue,</L>
+<L>And die the Martyr of her Passions,</L>
+<L>Than part with Honour, when the loss of it</L>
+<L>Would taint her whole blood, and entail disgrace</L>
+<L>On two such Great and Noble Families.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Right my Lord—</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>For such a deed the present Age in Songs</L>
+<L>Would celebrate her Shame, and History</L>
+<L>To after-ages bear her memory</L>
+<L>With long Traditions of her Infamy,</L>
+<L>And on her name fix an eternal Blot.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Through these aggravations I perceive</L>
+<L>Your fears, my Lord; but know, that I have yet</L>
+<L>Than these a stronger Guard, my Virtue.</L>
+<L>Perchance some Lady of a common temper</L>
+<L>Gladly would embrace the fair occasion,</L>
+<L>Grow proud of her interest, and meanly</L>
+<L>Insult o're you, a Husband, and a Queen,</L>
+<L>And count such Revenge glorious.</L>
+<L>But my Thoughts are more transcendent.</L>
+<L><HI>Ethelwold</HI> already owes his life to me.</L>
+<L>My Lord, come with me to the Queen,</L>
+<L>I have something to impart to her and you</L>
+<L>Will ease your minds of half your fears,</L>
+<L>And take away your mean Suspitions.</L>
+<L><PB N="49" REF="31"/>
+If ought I can contribute to her peace</L>
+<L>I'le do it, the Revenge I prosecute</L>
+<L>Shall be to make you all asham'd,</L>
+<L>And blush at your so vulgar apprehensions.</L>
+</SP>
+<STAGE>[Exit.</STAGE>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>Virtue may protect her, but her absence</L>
+<L>Is th' onely remedy against the King's love:</L>
+<L>Be her Absence then decreed, be it,</L>
+<L>The constant subject of my meditation.</L>
+</SP>
+<STAGE>[Exit.</STAGE>
+<STAGE><HI>Enter</HI> Oswald <HI>and</HI> Durzo.</STAGE>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>But, Captain, you should first have parlied,</L>
+<L>And demanded satisfaction fairly.</L>
+<L>Did you think to take her heart by storm,</L>
+<L>As men do Towns?</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>It was more like a Soldier.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>But not like a Lover. Love is a gentle Passion—</L>
+<L>Here she comes, you had best steer a new course.</L>
+</SP>
+<STAGE><HI>Enter</HI> Hillaria.</STAGE>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>What, in the dumps, Captain?</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>He's in a contemplation of Love.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>Let not such idle thoughts trouble your head,</L>
+<L>I am almost weary on't my self.</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>Say sou so?</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>Yes, you and I will be friends for all that:</L>
+<L>Such a trifle as Love shall break no squares.</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>There's the Devil of Love now.</L>
+<L>Had she been as forward as I am,</L>
+<L>I had been indiff'rent as she is;</L>
+<L>That is one Experiment I have made in this Voyage.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>When Lovers pause, it is a sign Love cools;</L>
+<L>And since you know not what to think on't,</L>
+<L>E'ne let us fairly part stakes—I will have</L>
+<L>My heart agen, and you shall have yours;</L>
+<L>Thus we'l make a handsom Retreat,</L>
+<L>And so Captain tack about to the next.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>A fair proposal.</L>
+</SP>
+<SP>
+<PB N="50" REF="32"/>
+<SPEAKER>Durz.</SPEAKER>
+<L>But by your leave, in the faith of a Soldier,</L>
+<L>'Tis more honourable to stand in to rights,</L>
+<L>Than to make a Tacque, and say and sing</L>
+<L>The Devil's head off.—</L>
+<L>I will judge of Love by the Rules of Honour,</L>
+<L>Therefore sink or swin I'le bear up close with you.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>I like a man of resolution well;</L>
+<L>Then give me thy hand, my trusty Tarpolin,</L>
+<L>You shall find me no Flincher neither</L>
+</SP>
+<STAGE>[Exeunt.</STAGE>
+<STAGE><HI>Enter</HI> Ethelwold, <HI>and</HI> Aldernald.</STAGE>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>Which ought I most to admire,</L>
+<L>The King's high act of Clemency,</L>
+<L>Or <HI>Alfreda's</HI> unexampled Generosity?</L>
+<L>Revenge had been a milder punishment:</L>
+<L>For conscious of the Injuries I have done,</L>
+<L>I cannot without blushes meet his Pardon,</L>
+<L>Or her Love, and must wear a Shame about me,</L>
+<L>As lasting as the memory of these Favours.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>You acknowledge the wrongs done to the King?</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>With so great a sence of sorrow,</L>
+<L>That were not thy Sister a Heaven of Blessings,</L>
+<L>My Penitence would rob me of future joy.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Nor do you longer doubt my Sister's virtue?</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>Her Virtue rather makes me doubt,</L>
+<L>That I have sinn'd beyond repentance,</L>
+<L>Offending so much Innocence.</L>
+<L>Oh that 'twere permitted we might exchange,</L>
+<L>Or could recall our Matrimonial Vows;</L>
+<L>Then would I, to appear grateful,</L>
+<L>Resign my interest in <HI>Alfreda</HI></L>
+<L>To the King, and to both be just.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>To them you cannot, but to me you may.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>The injuries I have done your Family,</L>
+<L>Are too great to be repair'd.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>They are then too great to be forgiven</L>
+<L>But to the brave, no wrongs can be above</L>
+<L>The satisfaction of the Sword,—That is the</L>
+<L>Justice, That the Requital I demand.</L>
+</SP>
+<SP>
+<PB N="51" REF="32"/>
+<SPEAKER>Eth.</SPEAKER>
+<L>The King and <HI>Alfreda</HI> are generous Examples;</L>
+<L>Will <HI>Aldernald</HI> less noble be?</L>
+<L>'Twas in them a more Glorious Act</L>
+<L>To pardon than to punish; but in me</L>
+<L>Forgiveness is dishonourable. I am free</L>
+<L>To call thee to a strict account: thy Lyes</L>
+<L>rais'd thoughts in my breast, which like a Nest</L>
+<L>Of Snakes, shot their poysonous Stings</L>
+<L>At my Prince's Virtue: Thy Falsities</L>
+<L>Fool'd me to Actions, which I blush to own.</L>
+<L>Come on, the Valiant ne're capitulate.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>If I appear to want a courage,</L>
+<L>Or my arm but feebly guide my Sword,</L>
+<L>Think 'tis the love I bear thy Sister</L>
+<L>Directs it slowly to the Brother's heart,</L>
+<L>Within me is a Power that takes your part.</L>
+</SP>
+<STAGE>[They fight.</STAGE>
+<STAGE>Enter King <HI>Alfreda,</HI> and Guards.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Hold, part 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>We are prevented.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Oh my Lord, you bleed!</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>To my Breast he has added one wound more,</L>
+<L>The Sister's beauty, and the Brother's valour,</L>
+<L>Alike successful prove.</L>
+<L>Against your Eyes is no resistance,</L>
+<L>Against his Sword no defence.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What, <HI>Aldernald,</HI> provok'd you to this deed?</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Sir, has he not offended?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I sent you to restore his Liberty,</L>
+<L>I had pardon'd him.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Yes, Sir, Offences done to your self,</L>
+<L>Not those he did our Family:</L>
+<L>He ignobly sought my Sister's love,</L>
+<L>With lies and gross inventions abus'd</L>
+<L>My Fathers ears and mine, and drew me in</L>
+<L>To be his property.</L>
+<L>These affronts requir'd my Sword.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Thy scrupulous Honour has too far engag'd thy va∣lour.</L>
+</SP>
+<SP>
+<PB N="52" REF="33"/>
+<SPEAKER>Ald.</SPEAKER>
+<L>In honour I could not less than fight him.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Brother, your Presumption was too great,</L>
+<L>When you thought your self concern'd to punish,</L>
+<L>Where the King had mercy shewn.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Forgiveness is in Kings a mercy, 'cause</L>
+<L>They are above us, and have power to punish;</L>
+<L>But when th' Offended and Offenders equal are,</L>
+<L>Forgiveness looks like want of Courage.</L>
+<L>And if you well consider Circumstances,</L>
+<L>You will find, <HI>Alfreda,</HI> he had done wrongs,</L>
+<L>Which the Kings Pardon could not wipe away,</L>
+<L>And those concern'd the honor of our Family:</L>
+<L>For those no one but I was fit to call him</L>
+<L>To account.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>You mistake, those wrongs were mine,</L>
+<L>Till I had declar'd them Injuries,</L>
+<L>They were not so to you—to me belong'd</L>
+<L>The Prerogative to Revenge, or Pardon:</L>
+<L>Nor could your Love, or Hatred claim in him</L>
+<L>An Interest, but subordinate to mine.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>Cease, cease this Generous Strife.</L>
+<L>You, <HI>Alfreda,</HI> have too obliging been,</L>
+<L>Me you forgave, and will you not your brother?</L>
+<L>His Crime, if it be one to vindicate</L>
+<L>The honor of his Family, was at least necessary.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>He has been too forward, and assum'd too much;</L>
+<L>A Sister's Husband cannot be a Brother's Enemy,</L>
+<L>'Till she has first declar'd him so.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>I onely wish his cause had been less just,</L>
+<L>For I have so offended him, thy Self,</L>
+<L>My King, and Heaven, that if my Death</L>
+<L>Could attone for my Offences,</L>
+<L>I'de beg it from this wound;</L>
+<L>For though thou art a Heaven of Blessings,</L>
+<L>The sence of my Guilt in possessing thee</L>
+<L>Is a torment above the joy I have</L>
+<L>To see my self enrich'd.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>Aldernald,</HI> your quarrel must end here,</L>
+<L>Let this be the last resentment of your wrong;</L>
+<L>That Generosity, which so highly you</L>
+<L><PB N="53" REF="33"/>
+Did applaud in me, now imitate.</L>
+<L>If in me Forgiveness was a worthy act,</L>
+<L>'Tis an Example fit for you to follow.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>When you command, my obedience</L>
+<L>Wants not to be prompted by Example,</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>My Lord, how do you, how do you feel your wound?</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>I believe it slight,</L>
+<L>But with loss of blood grow faint.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Lead him off—</L>
+<L>When the Surgeons have search'd his wounds,</L>
+<L>Let me, <HI>Alfreda,</HI> from you be inform'd</L>
+<STAGE>[Guards lead <HI>Ethel∣wold</HI> off.</STAGE>
+<L>What their judgments are of the danger.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Sir I will not fail.</L>
+</SP>
+<STAGE>[<HI>Exit</HI> Aldernald.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>To meet to night in the Garden.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Yes.</L>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<L>At the Grotto?</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Yes, Sir, at the Grotto.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I have perform'd my promise.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>I le be as punctual.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>This accident lets you command your liberty.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Which I'le imploy in thanking you for <HI>Ethelwold</HI>'s.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>When 'tis dark I will expect you.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>When 'tis dark, you shall not expect</L>
+<L>But find me there.</L>
+</SP>
+<STAGE>[<HI>Exit</HI> Alfr.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Fly fast you lazy minutes,</L>
+<L>Swift as my Wishes fly,</L>
+<L>And with more nimble wings bear hence the Light.</L>
+<L>Let Day resign its Empire soon,</L>
+<L>And Night set up it's black Standard.</L>
+<L>I am impatient, but why am I so?</L>
+<L>What do I hope, design, or what resolve?</L>
+<L>Oh I dare not examine my thoughts,</L>
+<L>They are yet confus'd and indistinct.</L>
+<L>My Wishes are unform'd, my Resolutions</L>
+<L>Not quite born; and yet I think, hope, wish,</L>
+<L>Design, resolve, but what I know not.</L>
+<L>Honour and Love for Victory strugling are,</L>
+<L>And make my breast their present seat of War.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<TRAILER>The End of the Fourth Act.</TRAILER>
+</DIV1>
+<DIV1 N="5" TYPE="act">
+<DIV2 N="1" TYPE="scene">
+<PB N="54" REF="34"/>
+<HEAD>Act the Fifth. Scene First.</HEAD>
+<STAGE><HI>Enter King</HI> Ethelwold, Aldernald, Ruthin, Alfreda, <HI>and Ladies Attendants.</HI></STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>THis, <HI>Alfreda,</HI> should have been</L>
+<L>A night of pleasure to you and <HI>Ethelwold,</HI></L>
+<L>A night of Extasie and Delights;</L>
+<L>But this amorous Conflict must be deferr'd</L>
+<L>'Till <HI>Ethelwold</HI> recovers his health.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>My wound is slight, the Surgeons</L>
+<L>Have declar'd it so; but with all</L>
+<L>Humble thankfulness I own your care</L>
+<L>Of my health, as an Honour and a Blessing.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I'de have you meet your Bride in your</L>
+<L>Full strength, in all your vigour.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Since you have begun to make his health</L>
+<L>Your care; Sir, command him to let it be</L>
+<L>His own chief concern, <GAP DESC="illegible" RESP="oxf" EXTENT="1 word" DISP="〈◊〉"/> too rashly</L>
+<L>To expose himself abro<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>.</L>
+<L>The open air, late hours, <GAP DESC="illegible" RESP="oxf" EXTENT="1 word" DISP="〈◊〉"/> Court-attendance</L>
+<STAGE>[<HI>To</HI> Eth.</STAGE>
+<L>You should avoid.</L>
+</SP>
+<STAGE>Enter <HI>Ruthin</HI> at distance.</STAGE>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>Depriv'd of you, how shall I pass this night</L>
+<L>Without sad thoughts and great inquietude?</L>
+<L>Like one just grasping of his long wish'd store</L>
+<L>Of wealth, I am snatch'd back.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Commit your Lord to my care.</L>
+<L>Good night, <HI>Alfreda.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Good night, my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>Soft and gentle slumbers close your Eyes.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Your Wedding night is yet to come.</L>
+</SP>
+<STAGE>[Exit <HI>Alfreda</HI> and Ladies.</STAGE>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>How many unexpected accidents, retarda</L>
+<L>Lover's progress, and delay his bliss?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>To divert your thoughts from Melancholly,</L>
+<L>And to give my own mind a Truce from cares,</L>
+<L><PB N="55" REF="34"/>
+We'l pass one hour at Chess,</L>
+<L>You have excellent cunning in that Game;</L>
+<L>I have many nights try'd the Experiment,</L>
+<L>And found it 'gainst the minds distempers</L>
+<L>A most prevailing remedy.—Come,</L>
+<L>I know your sleep will be more sound and quiet.</L>
+</SP>
+<STAGE>[Exeunt <HI>Ald.</HI> &amp; <HI>Osw.</HI></STAGE>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>My Lord all this is design.</L>
+<L>The King and <HI>Alfreda</HI> have appointed</L>
+<L>A private meeting this night in the Garden,</L>
+<L>Near the Marble Grotto.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>O subtlety, O woman Devil!</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>Be calm, but circumspect.</L>
+<L>This my friendship obliged me to discover.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>I thank you for your intelligence.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>No ceremony, but away.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>Woman, woman, what art thou but deceit!</L>
+</SP>
+<STAGE><HI>Exit</HI> Eth.</STAGE>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>I'le keep him thus alarm'd, his Jealousie</L>
+<L>May rouse his fury to some desperate act.</L>
+<L>From Court this will induce him to remove her,</L>
+<L>Perhaps he may think Heaven a fit place for her.</L>
+</SP>
+<STAGE>[Exit.</STAGE>
+</DIV2>
+<DIV2 N="2" TYPE="scene">
+<HEAD>Scene 2d.</HEAD>
+<STAGE>Enter <HI>Oswald</HI> and <HI>Durzo.</HI></STAGE>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Well met, Captain, how go squares</L>
+<L>Now 'twixt you and your Mistress?</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>She has sent me a Letter here,</L>
+<L>I wanted you to read it to me.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Cannot you read?</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>Neither write nor read, 'tis out of my Element:</L>
+<L>The Sea breeds Soldiers, but not Scholars.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>You shall hear it then.</L>
+<STAGE><HI>Oswald</HI> reads the Letter.</STAGE>
+<LETTER>
+<P>My roaring Boy, I can love no longer at your fierce rate, my
+heart is sailing under another Convoy; give Chase to a fresh
+Mistress, I am making all Sail after a new Rigg'd Gallant, and
+now bid you defiance, and so a boon Voyage to you, Captain, and
+Farewell.</P>
+<CLOSER><SIGNED>Hillaria.</SIGNED></CLOSER>
+</LETTER>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>What, turn'd Renegade?</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Short warning, this.</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>Steal away like a cowardly Enemy in a dark night.</L>
+</SP>
+<STAGE><PB N="56" REF="35"/>
+Enter <HI>Hillaria</HI> and <HI>Alicia,</HI> led over the Stage by two Courtiers.</STAGE>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>See, she's not out of Hemisphere,</L>
+<L>Give her chase, you see how she's mann'd.</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>Meer' Hulls of men.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>They Tack about agen.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>How dejected my Lover looks, now I've taken</L>
+<L>Away his Commission!</L>
+</SP>
+<SP>
+<SPEAKER>1 Court.</SPEAKER>
+<L>Captain, what think you?</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>Think I.</L>
+</SP>
+<SP>
+<SPEAKER>1 Court.</SPEAKER>
+<L>Of Love?</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>As of Folly.</L>
+</SP>
+<SP>
+<SPEAKER>2 Court.</SPEAKER>
+<L>Is it not a fine Pastime?</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>Yes for fools.</L>
+</SP>
+<SP>
+<SPEAKER>1 Court.</SPEAKER>
+<L>What think you of Women?</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>As of light Sailers.</L>
+</SP>
+<SP>
+<SPEAKER>Omnes.</SPEAKER>
+<L>Ha, ha, he.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>That Shot hits you 'twixt wind and water.</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>Or as of Ships that want Ballast,</L>
+<L>That are toss'd about with every Wave,</L>
+<L>And cannot be steer'd in any true course.</L>
+</SP>
+<SP>
+<SPEAKER>Omnes.</SPEAKER>
+<L>Ha, ha, he.</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>Do you play with my anger?</L>
+<L>Am I so tame to be laugh'd at?</L>
+<L>Sure I have seem'd more terrible,</L>
+<L>When with this Sword I have lopt off limbs,</L>
+<L>Strew'd the Decks with Carcasses, turn'd Fleets</L>
+<L>To floating Hospitals, sent Navies to their Ports</L>
+<L>To cut down Masts, and hew the Timber of their</L>
+<L>Shattered Vessels into wooden Legs and Crutches,</L>
+<L>To underprop the Criples they brought home.</L>
+<L>Love, hast thou disarm'd my Looks of Manhood?</L>
+<L>Phew—with that Gale be gone.</L>
+</SP>
+<SP>
+<SPEAKER>Omnes.</SPEAKER>
+<L>Ha, ha, he.</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>Are you laughing agen? have amongst you Picca∣roons.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Hold Captain, what do you mean?</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>I'le shatter their Tacklin,—</L>
+</SP>
+<SP>
+<PB N="57" REF="35"/>
+<SPEAKER>Osw.</SPEAKER>
+<L>Let 'em go, they are not worth pursuit▪</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>Come on, bold Captain, if you are for fighting,</L>
+<L>See here your Enemy.</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>Beauty, that raises storms of Love,</L>
+<L>Allays those of Anger; you the Object,</L>
+<L>I can look my self into a Calm.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>Captain, you have a Qualm coming</L>
+<L>O're your stomach, you are either Sea-sick,</L>
+<L>Or Love-sick still.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>Captain, Love is still in Port, he went not out</L>
+<L>With that strong Puff.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>No, Love has not yet weigh'd Anchor.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>Captain, if you are not for fighting, let</L>
+<L>Me know what you think of Love in good earnest.</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>Love is a Sea, a dangerous Sea,</L>
+<L>Where Wind and Tide are still contrary.</L>
+<L>Men are the Barks that venture out,</L>
+<L>Whose ruines still its waves conspire.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>But what are women in this Ocean, Captain?</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>You are Pirates that rob us of our hearts:</L>
+<L>You are <HI>Laplanders,</HI> that give us a fair wind</L>
+<L>To leave safe Harbours, and when we're out at Sea</L>
+<L>Make it swell to a Tempest to drown us.</L>
+<L>I have out-rid the Storm, thanks to my</L>
+<L>Lusty Vessel, and now being gotten safe into</L>
+<L>Harbour, can look back and say,</L>
+<L>Yonder I had like to have suffer'd Wreck.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Well said, Captain, you have given the women</L>
+<L>A whole Broad-side.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>For all that, I see he's but a Fresh-water</L>
+<L>Lover yet; now you think your self past danger,</L>
+<L>You are in greatest peril to be cast away.</L>
+<L>What think you, if that Letter, which rais'd</L>
+<L>This Tempest, was but a plot to see</L>
+<L>How my Lover could brook a Rival.</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>What Wind do you call this? By what Point</L>
+<L>Of the Compass will you sail now?</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>I think I had best tack about agen</L>
+<L>And make what hast I can to fall</L>
+<L>In a Stern of her.</L>
+</SP>
+<SP>
+<PB N="58" REF="36"/>
+<SPEAKER>Hill.</SPEAKER>
+<L>That it was so, here's my hand on't.</L>
+<L>Now if you dare put off to Sea agen,</L>
+<L>My heart shall run the Risque with yours</L>
+<L>In all adventures.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>'Tis very true, this plot was but to try your love.</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>Why then I'le count my self your Lover still.</L>
+<L>And if the wind hold thus fair for me</L>
+<L>You'l quickly lie by the Lee.</L>
+</SP>
+<STAGE>[<HI>To</HI> Oswold.</STAGE>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>You are not quite undeceiv'd yet,</L>
+<L>She's not my Mistress but my Sister.</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>If you are not my Rival, I fear no Reprizal.</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>You must reckon our two Gallants your Enemies</L>
+<L>No more, their Rival-ship is ended.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>They have struck Sail to you:</L>
+<L>You now with Triumph in Love's Ocean steer,</L>
+<L>Calm is the Sea, and from all Pirats clear.</L>
+</SP>
+<STAGE>[Exeunt.</STAGE>
+<STAGE>The Scene opens, and discovers the King and <HI>Ethelwold</HI> play∣ing
+at Chess, Courtiers looking on. After a while enter <HI>Oswald</HI> and <HI>Durzo.</HI></STAGE>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>How stands the Game?</L>
+</SP>
+<SP>
+<SPEAKER>1 Court.</SPEAKER>
+<L>The Earl won the first,</L>
+<L>But of this the King has th' advantage▪</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Sit down, and play my Game, if this end</L>
+<L>Before my Return, begin another, <HI>Oswald.</HI></L>
+</SP>
+<STAGE>[Exeunt the King and <HI>Oswold.</HI> A Courtier sits down to play. After a while <HI>Ethelwold</HI> rises.</STAGE>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>Cousen, I'le trust my Game to your management;</L>
+<L>Pray use your skill 'till my Return.</L>
+</SP>
+<STAGE>[Exit.</STAGE>
+<STAGE>[Another Courtier sits down to play. The Scene shuts upon them.</STAGE>
+</DIV2>
+<DIV2 N="4" TYPE="scene">
+<HEAD>[Scene 4th.</HEAD>
+<STAGE>Enter the Queen and <HI>Alfreda</HI> in the Garden.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>This Secret you have reveal'd, takes from me</L>
+<L>All suspicions of your Virtue.</L>
+<L>I have not now one jealous thought of you;</L>
+<L><PB N="59" REF="36"/>
+But the King still does, and will love you.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>But after this night I will no more</L>
+<L>Be seen at Court, not that I doubt my Virtue</L>
+<L>Or my Courage; no, Madam, 'tis for your sake</L>
+<L>I go, because I know my absence will with</L>
+<L>More speed and ease restore you to the King's love:</L>
+<L>I would else stand my ground, and my Virtue</L>
+<L>Should from this Trial grow exemplar.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Let the excess of love I bear the King</L>
+<L>Excuse the wrongs my Jealousies have done,</L>
+<L>Which are so much the greater, because</L>
+<L>The Virtue they have offended is so highly eminent.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>That my Honour may not receive a blemish</L>
+<L>From this nights private conference,</L>
+<L>I have intreated your presence in the Garden.</L>
+<L>Assisted by the darkness of the night,</L>
+<L>You may, unperceiv'd by the King,</L>
+<L>Hear our Discourse, and thence know his intents.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>My heart is on the sudden much opprest,</L>
+<L>Something fills my mind with sad presages,</L>
+<L>And makes me grow suspicious of th' event.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Those thoughts are the dictates of your Melancholly.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>I would fain retreat.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Oh Madam, let me importune your stay,</L>
+<L>To witness for me, if by any chance</L>
+<L>Our meeting be discover'd, that nothing past</L>
+<L>Injurious to my Lord, or unworthy</L>
+<L>A Ladies publick vindication.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Hark, I heard the Garden-gate clap too.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>He is coming, stand conceal'd.</L>
+</SP>
+<STAGE>[The Queen absconds.</STAGE>
+<STAGE>Enter the King and <HI>Oswold</HI> in disguise, with a dark Lan∣thorn,
+and a naked Sword.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Here, expect my Return.</L>
+</SP>
+<STAGE>[<HI>To</HI> Oswold.</STAGE>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Who's there?</L>
+</SP>
+<STAGE>[The King advances.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>'Tis I, the King, Oh my <HI>Alfreda.</HI></L>
+<L>Oh most blest and happy minute of my life!</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Why are you, Sir, so much rejoyc'd?</L>
+</SP>
+<SP>
+<SPEAKER>King</SPEAKER>
+<L>How sweet are stollen minutes in love!</L>
+<L><PB N="60" REF="37"/>
+Of this kind compliance That be the Reward.</L>
+</SP>
+<STAGE>[Puts a Casket of Iewels into <HI>Alfreda</HI>'s hand.</STAGE>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>What is it, Sir?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>A rich Present of Jewels,</L>
+<L>Wealth enough to purchale a Kingdom,</L>
+<L>Or ransom a Captive Monarch.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>To receive so rich a Present from you</L>
+<L>Will surely bring my Honour into question,</L>
+<L>And to my Husband's Jealousies</L>
+<L>Add the censures of the world.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Take 'em, and with 'em take my heart.</L>
+<L>Take me a King, one that has power</L>
+<L>To authorize and justifie his Love,</L>
+<L>One that will be thy Lover and Protector.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Sir, I have now a Lover, and Protector,</L>
+<L>That has than yours a more unlimited Power.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Than mine?</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>My honour forfeited, your Power can weak</L>
+<L>Defence afford. None to my face perchance</L>
+<L>May dare to call me Strumpet, but in</L>
+<L>Their hearts they'l brand me with that Title,</L>
+<L>And there call you Tyrant. Now I have</L>
+<L>Heaven for my Protector; Heaven, that</L>
+<L>Protects the virtuous, and the innocent.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Sin repeated, and to a Habit grown,</L>
+<L>Removes us from the state of Virtue,</L>
+<L>But one single act will not destroy</L>
+<L>Thy Innocence.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>For ever it would blot my Soul, and</L>
+<L>Darken my honour.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>The world shall never know it.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>It never shall, for I will never—</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Oh hold—</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>What wou<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/>d you Sir?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Lead me to thy Apartment,</L>
+<L>And there make satisfaction for</L>
+<L><HI>Ethelwold</HI>'s Crimes. I would have thee</L>
+<L>Give thy self up to me, and love.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Your discourse is too urging,</L>
+<L>I can no longer bear it.</L>
+</SP>
+<SP>
+<PB N="61" REF="37"/>
+<SPEAKER>King.</SPEAKER>
+<L>Speak lower.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Let them speak low that speak amiss▪</L>
+<L>I speak what I ought, and fear not to be heard.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Are you then resolv'd not to comply?</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>From a woman of my quality</L>
+<L>That Question for an Answer merits Silence or Death.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Comply then, and kill me after.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>No, kill me first, and live in peace; kill me,</L>
+<L>And with my bloud quench your unlawful fires.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Behold a King that languishes,</L>
+<L>A King that courts you with</L>
+<L>His Wealth and State, and to your merits</L>
+<L>Dedicates his Life and Honours.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Oh King, Here at your feet a wretched woman falls,</L>
+<L>That with her tears and prayers beseeches you,</L>
+<L>That asks for nothing but her Liberty;</L>
+<L>And, except her honour, gives you all,</L>
+<L>And to ransom That, offers her life.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Without that you give me nothing.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>I give you all I can.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Your love—</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>That is my Husband's Right.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>He is a Traitor, and his life is mine.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Your Pardon has acquitted him.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>He is still in my power; his Life,</L>
+<L>And your Honour are at my mercy.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Your word is past and cannot be recall'd.</L>
+</SP>
+<SP>
+<SPEAKER>King;</SPEAKER>
+<L>I am a King, and can do what I please:</L>
+<L>And now, <HI>Alfreda,</HI> as a King I speak,</L>
+<L>I love, and must enjoy.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Since as a King you have declar'd your mind,</L>
+<L>And as Monarch of these Dominions.</L>
+<L>I will return you my Answer,</L>
+<L>As I am a Queen of my own free Will,</L>
+<L>And Mistress of my Affections.</L>
+<L>Your Love from me shall meet with no return:</L>
+<L>If me you love, with hopeless fires you burn.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I can act too as a King, but in deeds</L>
+<L>You want power to shew your self a Queen:</L>
+<L><PB N="62" REF="38"/>
+See there—</L>
+</SP>
+<STAGE>[Gives a sign. <HI>Oswald</HI> at a distance shews a Light, and a naked Sword.</STAGE>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>What means this Sight?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>See there the fate of Traitors,</L>
+<L>Of such Traitors as is <HI>Ethelwold.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>What shall I do?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Besides the fate that threatens him, consider</L>
+<L>You are a Woman, alone, defenceless;</L>
+<L>I have Power, have Followers, and am resolute.</L>
+<L>Retreat not, you are guarded on every side.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Sir, I request one favour.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What is't?</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Sir, give me but my choice which to part with,</L>
+<L>My Honour, or my Life.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Life must not be at your dispose.</L>
+<L>I love, I burn, and must quench my Flame.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>If I consent not, what can you do?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Force you.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>who values not life, fears not force.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Force must prevail.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Then force oppos'd by force must be</L>
+<L>The remedy. You are resolv'd to attempt my Honour?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I am resolv'd to procure my peace.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>To this then I owe my deliverance</L>
+<STAGE>[Puls out a dagger.</STAGE>
+<L>To this, which my care provided for a refuge.</L>
+<L>Come, begin your assault—</L>
+<L>Come Sir, make your Amorous approaches:</L>
+<L>See, I'me ready to receive your Imbraces.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What art thou doing, my Life?</L>
+<L>Oh <HI>Alfreda,</HI> what are your intentions?</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Approach not, If you do,</L>
+<L>You press this forward to my heart.</L>
+<L>Tho you'd not grant me my choice which to part with,</L>
+<L>Life or Honour, yet I'le give you your freedom,</L>
+<L>To see me live with honour, or with honour die.</L>
+<L>If, barbarous man, I snatch my life from thee,</L>
+<L>My Honour will eternally be safe.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Oh cruel one, what do I behold?</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>A woman that has courage above her Sex,</L>
+<L>And honour equal to the best.</L>
+<L><PB N="63" REF="38"/>
+You behold a Ladies hand arm'd against</L>
+<L>Her own soft breast, and ready</L>
+<L>T' encounter Death to 'scape thy Tyranny;</L>
+<L>One that by death will immortalize her Name.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Unheard of bravery!</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Pause not but away, hence,</L>
+<L>Or this minute is my last.</L>
+<L>Resolve with speed, for I am resolute.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I would not kill thee, cruel one.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Be gone then, Sacrilegious man!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>If in despair I part, I die.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Your longer stay kills me.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Live, and I'le be gone.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Be gone, that I may live.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>She has a hardned Virtue, she's brave</L>
+<L>To the last degree.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>If you return, this posture I resume.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Grant me, <HI>Alfreda,</HI> one request.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>It must be very small.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Consent I may leave thee a few minutes,</L>
+<L>And find thee here at my return.</L>
+<L>In my absence think on <HI>Ethelwold</HI>'s Treason,</L>
+<L>Think by his guilt how wretched I am made,</L>
+<L>That some attonement for his crimes should be,</L>
+<L>That for his grant of life thou art indebted.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>I will.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Love is the sum I ask.</L>
+<L>This night let me be blest with thy Imbraces,</L>
+<L>And after live ever free from importunities.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Sir?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>A sudden answer cannot be favourable,</L>
+<L>Keep it back 'till my return; but then</L>
+<L>Let thy first words declare thy Resolution.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>They shall.</L>
+</SP>
+<STAGE><HI>Alfreda</HI> enters the Grotto. The King goes to <HI>Oswold. Oswold</HI> appears.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Thy unalterable Resolution.</L>
+<L>Oswald?</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>Sir.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>She's invincible.</L>
+<L>What other woman could have stood this test?</L>
+<L><PB N="64" REF="39"/>
+Calms delude her not, nor Storm; affright her,</L>
+<L>Go bring <HI>Ethelwold</HI> into the Garden;</L>
+<L>I'le act it o're again, let him stand conceal'd,</L>
+<L>Tell him I do this to give him a proof,</L>
+<L>That his past Suspicions wrong'd her Virtue,</L>
+<L>And to root out remaining jealousies,</L>
+<L>Find out her Brother too.</L>
+<STAGE>[Enter <HI>Alicia</HI> with Lights. <HI>Aldernald</HI> and <HI>Matilda</HI> at a distance.</STAGE>
+<L>What Lights are these?</L>
+</SP>
+<SP>
+<SPEAKER>Alic.</SPEAKER>
+<L>Go forward with your Lights</L>
+<L>To the Princes Lodgings.</L>
+</SP>
+<STAGE>[Exit Lights.</STAGE>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>The Princess is going to bed,</L>
+<L>And <HI>Aldernald</HI> attends her cross the Garden.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Go quickly, bring <HI>Ethelwold</HI> here,</L>
+<L>I'le speak to him my self.</L>
+</SP>
+<STAGE>[<HI>Exit</HI> Oswald.</STAGE>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Love has the the same dimensions as our Souls;</L>
+<L>It's as impossible that either should admit</L>
+<L>Degrees, as Parts.</L>
+</SP>
+<SP>
+<SPEAKER>Mat,</SPEAKER>
+<L>Yes, <HI>Aldernald,</HI> I want no Arguments to convince me</L>
+<L>That a real Lover's flame breaks forth like</L>
+<L>Lightning, in a moment, and at one flash</L>
+<L>Shews all that Heaven inflam'd in which it is.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>This obliging acknowledgment makes my hopes</L>
+<L>Grow up to confidence, that as you have done me</L>
+<L>An Act of Grace, with circumstances so</L>
+<L>Convincing, to give my Passion Language,</L>
+<L>And to raise my humble thoughts to an</L>
+<L>Aspiring flame; that now you will compleat</L>
+<L>My happiness, and let me here receive</L>
+<L>Assurance, that this presumption of my love</L>
+<L>Is not esteem'd a Crime.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>In my blushes you may read my mind,</L>
+<L>They too officiously betray my heart,</L>
+<L>And like the Flag set up in Towns besieg'd,</L>
+<L>Give joyful notice of Surrender.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>The blessings this minute gives, are greater</L>
+<L>Than all my former life e're knew.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Their conference will hold too long.</L>
+</SP>
+<STAGE>[The king makes a noise.</STAGE>
+<SP>
+<PB N="65" REF="39"/>
+<SPEAKER>Mat.</SPEAKER>
+<L>What noise was that?</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>I heard some one tread!</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>Quickly let's shift our ground,</L>
+<L>Or rather quit me here, that we may not</L>
+<L>Be surpriz'd together, and our love from</L>
+<L>Thence discours'd in publick.</L>
+</SP>
+<STAGE>[The King treads agen.</STAGE>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>The noise is that way, this leads to your Lodgings.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>I'le find the way alone.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Let me not lose one step of this pleasant Journey,</L>
+<L>And by the way I'le make you Vows, shall shew</L>
+<L>My love of an Immortal birth.</L>
+</SP>
+<STAGE>Exeunt <HI>Aldernald</HI> and <HI>Matilda,</HI> The King follows them.</STAGE>
+<STAGE>Enter the Queen and <HI>Alfreda.</HI></STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>They are gone.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>It was <HI>Aldernald</HI>'s voice.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>'Twas he and the Princess, Success attend their</L>
+<L>Vows. But what do you resolve on? the King</L>
+<L>Will soon return.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>I have found the means, he shall meet a kind</L>
+<L>Reception; when he finds me compliant to his love</L>
+<L>Hee'l be all on fire, and in eager hast</L>
+<L>Hurry me away; I'le speak to him,</L>
+<L>And to all he says return an Answer.</L>
+<L>But when he leads me off I'le step back,</L>
+<L>And into his hand put yours:</L>
+<L>The Night is favourable to our design,</L>
+<L>'Tis very dark; me he shall court,</L>
+<L>But you he must enjoy.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>A fainting joy spreads gently o're my breast,</L>
+<L>But how can that approach my heart</L>
+<L>In the crowd of so many fears?</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Madam, be comforted, your Embraces have charms</L>
+<L>Will re-instate you in his love,</L>
+<L>Make him repent his rash unlawful Oath,</L>
+<L>And establish a blest peace betwixt you.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>I fear the deceit will more enrage him.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>It cannot, at least your issue, if it successful</L>
+<L><PB N="66" REF="40"/>
+Prove to that degree, will inherit his Crown.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Hark, I hear a noise in the Garden.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Be near me, let me hold your hand in mine;</L>
+<L>When I deliver you to his, suffer your self</L>
+<L>To be led in the dark to my Apartment.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>You instruct, and Love perswades me to comply.</L>
+</SP>
+<STAGE>Enter <HI>Ethelwold.</HI></STAGE>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>No Whisper yet has reach'd my Ear,</L>
+<L>They're very still in their Amours.</L>
+<L>Oh they cannot vent their breath for Kisses;</L>
+<L>They are close, close, and silent,</L>
+<L>I am near the place.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Sir, is it you?</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>'Tis I.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>I fear my late Repulse has much incens'd you,</L>
+<L>That it has arm'd your Love with Rage,</L>
+<L>And now that you return with fiercer resolutions,</L>
+<L>And more determin'd to execute your purpose.</L>
+<L>But now with love alone make your approach,</L>
+<L>For since your departure, I have considered</L>
+<L>Your promise, which o'recomes my obstinacy.</L>
+<L>Pardon me, Sir, for first transgressions</L>
+<L>Are not without great reluctancy.</L>
+<L>From one bred up in the strict Rules of Virtue;</L>
+<L>Honour parts not without strong convulsions,</L>
+<L>As life from men by nature strong and</L>
+<L>Healthful; If this night I yield to your Embraces,</L>
+<L>Will you no more disturb my quiet?</L>
+<L>Shall I not again be urg'd by you</L>
+<L>To wrong my Honour, and my Lord?</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>Never.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Shall your Hate not persecute him,</L>
+<L>Nor your Love me? Shall both then live in peace?</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>Ever.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>This one thing more, Sir, you must promise,</L>
+<L>Remov'd from hence to use no more discourse,</L>
+<L>Lest your voice betray my Honour;</L>
+<L>Nor expect any light in my Apartment:</L>
+<L><PB N="67" REF="40"/>
+Let all be done in silence and in darkness,</L>
+<L>Now I have consented I hate the light,</L>
+<L>And should you see my face, you'd find it all confus'd,</L>
+<L>Let Night conceal my Blushes and my Guilt.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>It shall.</L>
+</SP>
+<STAGE><HI>Alfreda</HI> puts the Queens hand into his, and changes places.</STAGE>
+<STAGE>Enter King and <HI>Aldernald.</HI></STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>Oswold</HI>'s not yet return'd?</L>
+</SP>
+<STAGE>[<HI>Ethelwold</HI> kisses the Queens hand, and draws
+out a Dagger.</STAGE>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>This may better <HI>Ethelwold</HI>'s opinion</L>
+<L>Of her, it cannot mine.</L>
+<L>What she has already done, is proof enough</L>
+<L>To me, and should be so to him.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Now, Sir, take my hand, and as you please</L>
+<L>Dispose of me, but take care to preserve my Honour.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>I will.</L>
+<STAGE>[Pistols the Queen.</STAGE>
+<L>Die, false lascivious Woman.</L>
+</SP>
+<STAGE>[She falls.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Oh I am kill'd.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Oh Murder Treason, Treason Murder!</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Treason—</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Guards—</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Treason—</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Retire, Sir, I'le stand 'twixt you and danger.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Lights, lights—</L>
+</SP>
+<STAGE>[The King goes off.</STAGE>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Who's there? stand.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>I will not.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Stand, or dye.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>Avoid, be gone.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Who e're thou art thou shalt.</L>
+</SP>
+<STAGE>[They fight.</STAGE>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Oh Madam speak! Oh she's dead!</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Thy Career is stopt,</L>
+<STAGE>[Eth. <HI>falls.</HI></STAGE>
+<L>We shall see who thou art,</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>I heard Swords clash—Oh my fears!</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Who's there?</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>A Woman half dead with fear!</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Is not that <HI>Alfreda</HI>'s voice?</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Brother!</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>What's the matter?</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Oh the Queen, the Queen is murder'd!</L>
+</SP>
+<SP>
+<PB N="68" REF="41"/>
+<SPEAKER>Ald.</SPEAKER>
+<L>Here then lies the Murderer.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Oh what have you done! you have kill'd the King!</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>The King?</L>
+</SP>
+<STAGE>Enter <HI>Matilda,</HI> Ladies, and Lights at one door. The King,
+<HI>Oswald, Durzo,</HI> Courtiers, and Guards, at the other.</STAGE>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>What Cryes are these?</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>The Queen is murder'd!</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L>Murder'd—She's dead!</L>
+</SP>
+<STAGE>[Runs to the body.</STAGE>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>See, the King is safe.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>The Innocent then is fal'n by your hand,</L>
+<L>And the guilty Murderer lives,</L>
+<L>Tyrant, Barbarian, Murderer!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Why this unjust Accusation?</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Me you thought you had murder'd,</L>
+<L>But the mistake proves yet more fatal</L>
+<L>Than your Intention; there behold your Queen,</L>
+<L>The best of Women, murder'd!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Murder'd, by whom? had he ten thousand lives,</L>
+<L>My revenge should reach 'em all.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Oh rare Dissembler!</L>
+</SP>
+<SP>
+<SPEAKER>Osw.</SPEAKER>
+<L>This is my Lord <HI>Ethelwold.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>My Husband slain too, Oh Monster, Monster!</L>
+<L>Oh my dear Lord!—</L>
+</SP>
+<STAGE>[Runs to embrace <HI>Eth.</HI></STAGE>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>False Woman—</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Whence proceeds all this?</L>
+<L>Who can clear this Riddle?</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>If any can, quickly let 'em speak</L>
+<L>Before my little breath that's left is spent;</L>
+<L>I would not die in so much ignorance.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Attempting your flight, you</L>
+<L>Fell by my Sword.</L>
+</SP>
+<STAGE>[To <HI>Eth.</HI></STAGE>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>And the Queen by thy barbarous hand.</L>
+<STAGE>[To the King.</STAGE>
+<L>Mistaking her for me, you kill'd her.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>I struck that blow to punish thy Lust</L>
+<STAGE>To <HI>Alfreda.</HI></STAGE>
+<L>And Falshood.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Now I find the Fatal error.</L>
+<L>After you left me at the Grotto, Sir.</L>
+<L>To think what Answer I should give your love,</L>
+<L><PB N="69" REF="41"/>
+Which you had urg'd with so much violence,</L>
+<L>I resolv'd to feign a kind compliance,</L>
+<L>Thinking it was you that return'd,</L>
+<L>I put the Queen into his hand, whom my</L>
+<L>Intreaties had drawn into the Garden,</L>
+<L>And who by my Perswasions there stood ready</L>
+<L>To be lead off in the dark instead of me.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>What do I hear?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You conspir'd my breach of Vows—</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Them we judg'd unlawful, we hop'd</L>
+<L>Her Embraces might reconcile your love,</L>
+<L>And call home your wandring loose affections.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>Oh Innocence! What Expiation can I make!</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Live, live my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>My Death's ascertain'd, and the time draws nigh,</L>
+<L>Oh had I dy'd this truth unreveal'd,</L>
+<L>The joys of Heaven could not have made me blest.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I grieve the Tragical Event,</L>
+<L>Here are some can witness my Innocence:</L>
+<L>I came to make a tryal of thy Virtue,</L>
+<L>And if I found it absolute, to send for</L>
+<L>Thy Husband, and thy Brother</L>
+<L>In their hearing, to act the Scene o're agen.</L>
+<L>In <HI>Ethelwold</HI>'s breast I was sure</L>
+<L>The lees of Jealousie were yet remaining.</L>
+<L>When I retired, 'twas not with expectation</L>
+<L>Or desire that thou should'st change thy mind,</L>
+<L>But to accomplish that Design. <HI>Oswald</HI> I sent</L>
+<L>To call thy Husband, where I thought</L>
+<L>I had fix'd him, and in the <HI>interim</HI></L>
+<L>I declar'd thus much to you, <HI>Aldernald.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>You did▪ Sir.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>But how came <HI>Ethelwold</HI> to the unlucky</L>
+<L>And untimely knowledge of our meeting.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>My Lord <HI>Ruthin</HI> discover'd that to me.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>And I to him.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>His Discovery waken'd my Jealousie.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>And of all this mischief is the cause.</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>How strangely Fate baffles humane Reason</L>
+<L>In all designs man's Prudence frames,</L>
+<L><PB N="70" REF="42"/>
+And where our Wisdom most labours for success!</L>
+<L>Lets us our greatest disappointments meet.</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>Give me thy hand, <HI>Alfreda,</HI></L>
+<L>That e're I am depriv'd of the Glory,</L>
+<L>I may dispose of what I could not merit.</L>
+<L>With my last breath, Sir, I bequeath her to You;</L>
+<L>Accept the Legacy,—I resign her,</L>
+<L>As dying Penitents restore ill-gotten Wealth.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Thy Penitence to Heaven is not more grateful</L>
+<L>Than this Gift to me!</L>
+</SP>
+<SP>
+<SPEAKER>Eth.</SPEAKER>
+<L>The Fatal minute crowds on apace.</L>
+<L>If in my death, <HI>Alfreda,</HI> you permit</L>
+<L>I retain an Interest in you, Love the King,</L>
+<L>For I am Thine no more—</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Ah my Lord!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Curs'd Instrument, here behold the end</L>
+<STAGE>[<HI>To</HI> Ruthin.</STAGE>
+<L>Of all thy Polices! Here see the painted bubble of Ambition</L>
+<L>Broken, and all thy Hopes dash'd to air!</L>
+</SP>
+<SP>
+<SPEAKER>Ruth.</SPEAKER>
+<L>Nothing remains in the world I value now:</L>
+<L>In a Cloyster I'le spend the remainder of my life,</L>
+<L>Where I'le thank Heaven, which timely lets me see</L>
+<L>How fruitless and how vain are Earthly hopes.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>Ah Sir, he's dead, no Sigh nor breath remains!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>Alfreda,</HI> weep not.</L>
+<L>Each precious drop that falls from your bright eyes,</L>
+<L>Will raise in me an envy of his death.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>I Know your heart does feel a tenderness.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>His and the Queens death I grieve;</L>
+<L>But Fate's hand was in't, and Justice</L>
+<L>Seem'd to strike the blow.</L>
+<L>Forbear thy tears, and now only remember</L>
+<L>Thou art his Legacy.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>To requite that Generous act, I ask Supplies</L>
+<L>To found a Monastery o're the place of his Interment.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>'Tis granted. This more I'le do to merit thee.</L>
+<L>Blush not, <HI>Matilda,</HI> nor wonder, <HI>Alderlnald,</HI></L>
+<STAGE>King takes <HI>Ald.</HI> and <HI>Matilda</HI>'s hands, and joyns em.</STAGE>
+<L>If uniting thus your hands, I reveal</L>
+<L>The Secrets of your hearts.</L>
+<L>Love of your Souls has a strict union made,</L>
+<L>And Vows, which Heaven records, have seal'd it.</L>
+<L><PB N="71" REF="42"/>
+This I learnt to night from your discourse,</L>
+<L>Whilst here in the Garden I stood conceal'd.</L>
+<L>Take her, brave young man.</L>
+</SP>
+<SP>
+<SPEAKER>Ald.</SPEAKER>
+<L>Here I possess what does transport,</L>
+<L>And lead my Soul to an <HI>Elizium.</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Now, <HI>Alfreda,</HI> to my Throne ascend,</L>
+<L>Bright as the Constellation that shin'd</L>
+<L>At thy Nativity, and cast its glorious Influence on thee.</L>
+</SP>
+<SP>
+<SPEAKER>Alfr.</SPEAKER>
+<L>One Month I dedicate to Virgin-Widdowhood,</L>
+<L>Sir, the rest of my whole life to you.</L>
+<L>Captain, why stand you single, are</L>
+<L>Not you a Lover too?</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>Yes, and this is the very thing I love.</L>
+</SP>
+<SP>
+<SPEAKER>Durzo.</SPEAKER>
+<L>To reward your merit, and promote</L>
+<L>Your Love, we make you our Rear-Admiral.</L>
+</SP>
+<SP>
+<SPEAKER>Mat.</SPEAKER>
+<L><HI>Hillaria,</HI> you must now strike sail to him.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>Madam, did not your Example encourage me,</L>
+<L>I durst not give my heart to a Soldier.</L>
+</SP>
+<SP>
+<SPEAKER>Durz.</SPEAKER>
+<L>I thank your Grace, now I'le board her to rights.</L>
+</SP>
+<SP>
+<SPEAKER>Hill.</SPEAKER>
+<L>Now, Captain, we are sailing out of the Haven</L>
+<L>Of Love, into the tempestuous Sea of Matrimony.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You must a while forget Wars rough Alarms,</L>
+<L>Love does invite you to reap gentler Spoils:</L>
+<L>To you most Kind Fortune the Glory gives</L>
+<L>In these more pleasing Triumphs to advance,</L>
+<L>Whilst she delays my happiness. But when</L>
+<L><HI>Alfreda's</HI> month of Widdowhood is past,</L>
+<L>Our Solemnities shall raise new joys.</L>
+<L>Then we with Nuptial Rites will consummate</L>
+<L>The yet imperfect bounty of our Fate.</L>
+</SP>
+<TRAILER>FINIS.</TRAILER>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="epilogue">
+<PB REF="43"/>
+<HEAD>EPILOGVE.</HEAD>
+<L>FAin I would ask your Iudgments of the Play,</L>
+<L>But you imploy your Wit still the wrong way.</L>
+<L>You reckon up the Faults tho near so small,</L>
+<L>Pass by the Good, and so like none at all.</L>
+<L>You Criticks are like Sives, you onely shew</L>
+<L>The Bran, and let the finest Flower run thro.</L>
+<L>But do not now impute it for a Crime,</L>
+<L>That we do mention Guns in <HI>Edgar</HI>'s time;</L>
+<L>Nor let the Critick that is deeply read</L>
+<L>In <HI>Baker, Stow,</HI> and <HI>Hollinshead,</HI></L>
+<L>Cry Da<GAP DESC="illegible" RESP="oxf" EXTENT="1 letter" DISP="•"/> me, the Poet is mistaken here,</L>
+<L>For <HI>Ethelwold</HI> was kill'd hunting the Deer,</L>
+<L>To these Objections this he bid me say,</L>
+<L>They writ a Chronicle, but he a play.</L>
+<L>Poets may as they please with Truth make bold,</L>
+<L>And Stories to the best advantage mould.</L>
+<L>How easily might the Remedy have been,</L>
+<L>By alt'ring Names or changing of the Scene?</L>
+<L>Tho not these faults, yet others you'd have found;</L>
+<L>Your Censures give to every play a wound.</L>
+<L>Leave off this finding fault, it spoils Delight;</L>
+<L>Commend what's good t'encourage them that write.</L>
+<L>When ye wou'd pleasure in enjoyment find,</L>
+<L>Who calls his Mistresses Defects to mind?</L>
+<L>We'l think upon her Charms, the more to raise</L>
+<L>The Fancy to a Pitch;</L>
+<L>As 'tis in Love, so let it be your rule at Playes.</L>
+<PB REF="43"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

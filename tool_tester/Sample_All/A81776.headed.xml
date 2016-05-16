@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">To his sacred maiesty [sic], a panegyrick on his coronation. By John Dryden.</TITLE><AUTHOR>Dryden, John, 1631-1700.</AUTHOR></TITLESTMT><EXTENT>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2008-09 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A81776</IDNO>
+
+
+<IDNO TYPE="stc">Wing D2386</IDNO>
+
+<IDNO TYPE="stc">Thomason E1080_22</IDNO>
+
+<IDNO TYPE="stc">ESTC R207888</IDNO>
+
+<IDNO TYPE="eebo citation">99866909</IDNO>
+
+<IDNO TYPE="proquest">99866909</IDNO>
+
+<IDNO TYPE="vid">169349</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A81776)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 169349)</NOTE><NOTE>Images scanned from microfilm: (Thomason Tracts ; 161:E1080[22])</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">To his sacred maiesty [sic], a panegyrick on his coronation. By John Dryden.</TITLE><AUTHOR>Dryden, John, 1631-1700.</AUTHOR></TITLESTMT><EXTENT>8 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>printed for Henry Herringman, at the Anchor on the Lower walk in the New Exchange,</PUBLISHER>
+<DATE>1661.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>In two states: state 1, pg. 4, line 18 has 'Not only king of us but of the year'; state 2, pg. 4, line 18 has 'Not king of us alone but of the year'.</NOTE><NOTE>Reproduction of the original in the British Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Charles --  II, --  King of England, 1630-1685 --  Coronation --  Poetry --  Early works to 1800.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2007-06</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2007-07</DATE><RESPSTMT><RESP>Apex CoVantage</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2007-10</DATE><RESPSTMT><RESP>Elspeth Healey</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2007-10</DATE><RESPSTMT><RESP>Elspeth Healey</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2008-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A81776">
+<STC T="W">D2386</STC>
+<STC T="T">E1080_22</STC>
+<BIBNO T="umi">99866909</BIBNO>
+<VID>169349</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<P>TO HIS SACRED MAIESTY, A PANEGYRICK ON HIS CORONATION.</P>
+<P><HI>BY</HI> JOHN DRYDEN.</P>
+<P><HI>LONDON,</HI> Printed for <HI>Henry Herringman,</HI> at the <HI>Anchor</HI> on the Lower walk in the New Exchange. 1661.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="panegyric">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>TO HIS SACRED MAJESTY, A PANEGYRICK ON HIS <HI>CORONATION.</HI></HEAD>
+<L><SEG REND="decorInit">I</SEG>N that wild Deluge where the World was drownd,</L>
+<L>When life and sin one common tombe had found,</L>
+<L>The first small prospect of a rising hill</L>
+<L>With various notes of Joy the Ark did fill:</L>
+<L>Yet when that flood in its own depths was drownd</L>
+<L>It left behind it false and slipp'ry ground;</L>
+<L>And the more solemn pomp was still deferr'd</L>
+<L>Till new-born Nature in fresh looks appeard:</L>
+<L>Thus (Royall Sir) to see you landed here</L>
+<L>Was cause enough of triumph for a year:</L>
+<L>Nor would your care those glorious Joyes repeat</L>
+<L>Till they at once might be secure and great:</L>
+<L>Till your kind beams by their continu'd stay</L>
+<L>Had warm'd the ground, and call'd the Damps away.</L>
+<L><PB N="4" REF="3"/>
+Such vapours while your pow'rfull influence dryes</L>
+<L>Then soonest vanish when they highest rise.</L>
+<L>Had greater hast these sacred rights prepar'd</L>
+<L>Some guilty Moneths had in your triumphs shar'd:</L>
+<L>But this untainted year is all your own,</L>
+<L>Your glory's may without our crimes be shown.</L>
+<L>We had not yet exhausted all our store</L>
+<L>When you refresh'd our joyes by adding more:</L>
+<L>As Heav'n of old dispenc'd Caelestial dew,</L>
+<L>You give us Manna and still give us new.</L>
+<L>Now our sad ruines are remov'd from sight,</L>
+<L>The Season too comes fraught with new delight;</L>
+<L>Time seems not now beneath his years to stoop</L>
+<L>Nor do his wings with sickly feathers droop:</L>
+<L>Soft western winds waft ore the gaudy spring</L>
+<L>And opend Scenes of flow'rs and blossoms bring</L>
+<L>To grace this happy day, while you appear</L>
+<L>Not King of us alone but of the year.</L>
+<L>All eyes you draw, and with the eyes the heart,</L>
+<L>Of your own pomp your self the greatest part:</L>
+<L>Loud shouts the Nations happiness proclaim</L>
+<L>And Heav'n this day is feasted with your name.</L>
+<L>Your Cavalcade the fair Spectators view</L>
+<L>From their high standings, yet look up to you.</L>
+<L><PB N="5" REF="3"/>
+From your brave train each singles out a prey,</L>
+<L>And longs to date a Conquest from your day.</L>
+<L>Now charg'd with blessings while you seek repose,</L>
+<L>Officious slumbers hast your eyes to close:</L>
+<L>And glorious dreams stand ready to restore</L>
+<L>The pleasing shapes of all you saw before.</L>
+<L>Next to the sacred Temple you are led,</L>
+<L>Where waites a Crown for your more sacred Head:</L>
+<L>How justly from the Church that Crown is due,</L>
+<L>Preserv'd from ruine and restor'd by you!</L>
+<L>The gratefull quire their harmony employ</L>
+<L>Not to make greater but more solemn joy.</L>
+<L>Wrapt soft and warm your Name is sent on high,</L>
+<L>As flames do on the wings of Incense fly:</L>
+<L>Musique her self is lost, in vain she brings</L>
+<L>Her choisest notes to praise the best of Kings:</L>
+<L>Her melting strains in you a tombe have found,</L>
+<L>And lye like Bees in their own sweetnesse drown'd.</L>
+<L>He that brought peace and discord could attone,</L>
+<L>His Name is Musick of it self alone.</L>
+<L>Now while the sacred Oyl annoints your head,</L>
+<L>And fragrant scents, begun from you, are spread</L>
+<L>Through the large Dome, the peoples joyful sound</L>
+<L>Sent back, is still preserv'd in hallow'd ground:</L>
+<L><PB N="6" REF="4"/>
+Which in one blessing mixt descends on you,</L>
+<L>As heightned spirits fall in richer dew.</L>
+<L>Not that our wishes do increase your store,</L>
+<L>Full of your self you can admit no more:</L>
+<L>We add not to your glory, but employ</L>
+<L>Our time like Angels in expressing joy.</L>
+<L>Nor is it duty or our hopes alone</L>
+<L>Create that joy, but full fruition;</L>
+<L>We know those blessings which we must possesse,</L>
+<L>And judge of future by past happinesse.</L>
+<L>No promise can oblige a Prince so much</L>
+<L>Still to be good as long to have been such.</L>
+<L>A noble Emulation heats your breast,</L>
+<L>And your own fame now robbs you of your rest:</L>
+<L>Good actions still must be maintain'd with good,</L>
+<L>As bodies nourish'd with resembling food.</L>
+<L>You have already quench'd seditions brand;</L>
+<L>And zeal (which burnt it) only warms the Land.</L>
+<L>The jealous Sects that dare not trust their cause</L>
+<L>So farre from their own will as to the Laws,</L>
+<L>You for their Umpire and their Synod take,</L>
+<L>And their appeal alone to <HI>Caesar</HI> make.</L>
+<L>Kind Heav'n so rare a temper did provide</L>
+<L>That guilt repenting might in it confide.</L>
+<L><PB N="7" REF="4"/>
+Among our crimes oblivion may be set,</L>
+<L>But 'tis our Kings perfection to forget.</L>
+<L>Virtues unknown to these rough Northern climes</L>
+<L>From milder heav'ns you bring, without their crimes:</L>
+<L>Your calmnesse does no after storms provide,</L>
+<L>Nor seeming patience mortal anger hide.</L>
+<L>When Empire first from families did spring,</L>
+<L>Then every Father govern'd as a King;</L>
+<L>But you that are a Soveraign Prince, allay</L>
+<L>Imperial pow'r with your paternal sway.</L>
+<L>From those great cares when ease your soul unbends</L>
+<L>Your pleasures are design'd to noble ends:</L>
+<L>Born to command the Mistress of the Seas,</L>
+<L>Your thoughts themselves in that blue Empire please.</L>
+<L>Hither in Summer ev'nings you repair</L>
+<L>To take the fraischeur of the purer air:</L>
+<L>Vndaunted here you ride when Winter raves,</L>
+<L>With <HI>Caesars</HI> heart that rose above the waves.</L>
+<L>More I could sing but fear my Numbers stayes;</L>
+<L>No Loyal Subject dares that courage praise.</L>
+<L>In stately Frigats most delight you find,</L>
+<L>VVhere well-drawn Battels fire your martial mind.</L>
+<L>VVhat to your cares we owe is learnt from hence,</L>
+<L>VVhen ev'n your pleasures serve for our defence.</L>
+<L><PB N="8" REF="5"/>
+Beyond your Court flows in th' admitted tide,</L>
+<L>Where in new depths the wondring fishes glide:</L>
+<L>Here in a Royal bed the waters sleep,</L>
+<L>VVhen tir'd at Sea within this bay they creep.</L>
+<L>Here the mistrustfull foul no harm suspects,</L>
+<L>So safe are all things which our King protects.</L>
+<L>From your lov'd <HI>Thames</HI> a blessing yet is due,</L>
+<L>Second alone to that it brought in you;</L>
+<L>A Queen, from whose chast womb, ordain'd by Fate,</L>
+<L>The souls of Kings unborn for bodies wait.</L>
+<L>It was your Love before made discord cease:</L>
+<L>Your your love is destin'd to your Countries peace.</L>
+<L>Both <HI>Indies</HI> (Rivalls in your bed) provide</L>
+<L>VVith Gold or Jewels to adorn your Bride.</L>
+<L>This to a mighty King presents rich ore,</L>
+<L>VVhile that with Incense does a God implore.</L>
+<L>Two Kingdomes wait your doom, and as you choose,</L>
+<L>This must receive a Crown, or that must loose.</L>
+<L>Thus from your Royal Oke, like <HI>Jove's</HI> of old,</L>
+<L>Are answers sought, and destinies fore-told:</L>
+<L>Propitious Oracles are beg'd with vows,</L>
+<L>And Crowns that grow upon the sacred boughs.</L>
+<L>Your Subjects, while you weigh the Nations fate,</L>
+<L>Suspend to both their doubtfull love or hate:</L>
+<L>Choose only, (Sir,) that so they may possesse</L>
+<L>VVith their ovn peace their Childrens happinesse.</L>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="5"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

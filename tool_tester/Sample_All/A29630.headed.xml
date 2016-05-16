@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="2">A sermon preached in St. Maries Church in Dover, June the first, 1694 before the right honourable Henry Earl of Romney, being the day in which he entered upon the office of constable of Dover-Castle and Lord Warden of Cinque-ports / by James Brome ...</TITLE><AUTHOR>Brome, James, d. 1719.</AUTHOR></TITLESTMT><EXTENT>Approx. 33 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2007-10 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A29630</IDNO>
+
+
+<IDNO TYPE="stc">Wing B4860</IDNO>
+
+<IDNO TYPE="stc">ESTC R34383</IDNO>
+
+<IDNO TYPE="eebo citation">14395377</IDNO>
+
+<IDNO TYPE="oclc">ocm 14395377</IDNO>
+
+<IDNO TYPE="vid">102277</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A29630)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 102277)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 1565:18)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="2">A sermon preached in St. Maries Church in Dover, June the first, 1694 before the right honourable Henry Earl of Romney, being the day in which he entered upon the office of constable of Dover-Castle and Lord Warden of Cinque-ports / by James Brome ...</TITLE><AUTHOR>Brome, James, d. 1719.</AUTHOR></TITLESTMT><EXTENT>[4], 23 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for Eben Tracy ...,</PUBLISHER>
+<DATE>MDCXCIV [1694]</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Reproduction of original in the British Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Sermons, English --  17th century.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2006-05</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2006-05</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2006-09</DATE><RESPSTMT><RESP>Judith Siefring</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2006-09</DATE><RESPSTMT><RESP>Judith Siefring</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2007-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="OX" ID="A29630">
+<STC T="W">B4860</STC>
+<BIBNO T="oclc">14395377</BIBNO>
+<VID>102277</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<P>A
+SERMON
+Preached in
+St. <HI>MARIES</HI> Church
+IN
+DOVER,
+<HI>June the First,</HI> 1694. BEFORE
+The Right Honourable
+<HI>HENRY</HI> Earl of <HI>Romney,</HI>
+BEING
+The Day in which he Enter'd upon the Office
+of Constable of <HI>DOVER-CASTLE,</HI> and
+Lord Warden of the <HI>CINQUE-PORTS.</HI></P>
+<P>By <HI>JAMES BROME,</HI> A. M. Rector of
+<HI>Cheriton</HI> in <HI>Kent,</HI> and Chaplain to His
+Lordship in the <HI>Cinque-Ports.</HI></P>
+<P><HI>LONDON,</HI>
+Printed for <HI>Eben Tracy</HI> at the <HI>Three Bibles</HI> on <HI>London-Bridge,</HI>
+MDCXCIV.</P>
+</DIV1>
+<DIV1 TYPE="half title">
+<PB REF="2"/>
+<PB REF="2"/>
+<P>Mr. <HI>BROME</HI>'s
+SERMON
+Preached before
+The Right Honourable
+<HI>HENRY</HI> Earl of <HI>Romney,</HI>
+IN
+St. <HI>Maries</HI> Church in <HI>DOVER,
+June</HI> 1<HI>st.</HI> 1694.</P>
+</DIV1>
+<DIV1 TYPE="imprimatur">
+<PB REF="3"/>
+<HEAD><DATE>June 1. 1694.</DATE></HEAD>
+<P><NOTE PLACE="marg">Dover ss.</NOTE>ORdered by the Mayors, Bayliffs, and
+Jurates of the <HI>Cinque-Ports,</HI> Two An∣tient
+Towns, and their Members, that the
+Thanks of this Assembly be given unto Mr.
+<HI>James Brome</HI> Chaplain to The Right Ho∣nourable
+Our <HI>Lord Warden</HI> for his Sermon
+this day Preached before his Lordship and
+this Assembly, and the said Mr. <HI>Brome</HI> is
+desired to Print his Sermon.</P>
+<CLOSER><SIGNED>Sandwich, <HI>Speaker.</HI></SIGNED></CLOSER>
+<CLOSER>Imprimatur, <SIGNED>Ra. Barker.</SIGNED> <DATELINE><DATE>July 9th.
+1694.</DATE></DATELINE></CLOSER>
+<PB REF="3"/>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB REF="4"/>
+<PB N="1" REF="4"/>
+<HEAD>A
+SERMON
+Preached before the
+Earl of Romney.</HEAD>
+<EPIGRAPH>
+<BIBL>Proverbs xxix. v. 2.</BIBL>
+<Q>When the righteous are in authority the peo∣ple
+rejoyce, but when the wicked beareth
+rule, the people mourne.</Q>
+</EPIGRAPH>
+<P>IN all Nations Two things are Causes of
+a Common Prosperity, good Government,
+and Good Obedience; a good Magistrate
+over a Perverse People is a Sound Head, as
+hath been well observed, on a surfeited Body,
+a good Commonwealth and a bad Ruler is a
+healthful Body with a Head Aching; A good
+Governour is a skilful Ship-Master, that takes
+the safest and the shortest Course, and conti∣nually
+<PB N="2" REF="5"/>
+so steers as the Rocks and Shelves, which
+might Ship-wrack the State, be avoided, and
+the Voyage ever made with the greatest speed,
+best profit, and most ease; but a wicked Ma∣gistrate
+is a Wolf made Leader of a Fold, that
+both satiates his Cruelty, and betrays his Flock
+to danger.</P>
+<P>Upon which account no doubt it was, that
+we find <HI>Solomon</HI> so frequently advising all in
+Authority to the constant practice of Vertue
+and Goodness, as knowing full well that no∣thing
+would prove more Instrumental to pro∣mote
+any Nations happyness, then Men of
+such Sober and Excellent Principles: For 'tis
+too visible in the World, that when the
+Wicked get up into Power, and such as take
+no care to oppose the growth of wickedness,
+and to keep every Man within the bounds of
+his Duty, are in Places of Trust and Authori∣ty,
+as they open a Sluce to all manner of Im∣piety,
+so such as are Vertuous must of necessi∣ty
+groan under the intolerable weight of their
+grievous Oppressions; but when Just and
+Merciful Governours make Vertuous Men by
+their Example become more numerous, then
+doth a Kingdom begin to Thrive and grow
+Happy; then appears a Publick Joy and Satis∣faction
+throughout all the Community, then do
+<PB N="3" REF="5"/>
+all Fears cease, all Jealousies are laid aside, all
+dreadful apprehensions of the Peoples Insecu∣rity
+do perfectly vanish, the Face of Publick
+Affairs appears Fair and Serene, and nothing
+move's eccentrically, but in a Just and Regular
+Order, which seems to be the full Sense and
+Meaning of the Wise-man's Aphorisme, <HI>When
+the Righteous are in Authority the People rejoyce, but
+when the Wicked beareth Rule, the People mourn.</HI></P>
+<P>From which words,</P>
+<P><MILESTONE N="I"/> I shall consider first, That there is always
+great Joy when Righteous and Good Men bear
+Publick Rule and Authority.</P>
+<P><MILESTONE N="II"/><HI>Secondly,</HI> I shall endeavour to shew you, that
+there is very great reason for such Publick Joy
+and Exultation, because as God is on their side,
+so the whole Kingdom feels the Blessed Effects
+of it:<NOTE PLACE="marg">Prov. 28. 12.</NOTE> For as <HI>Dionysius Carthusianus</HI> observes well
+upon <HI>Prov.</HI> 28. 12. <HI>Ex hoc bonum Commune, &amp;c.</HI>
+From hence the Common Good and Safety of
+the People, and the Glory of God are procu∣red,
+preserved, and promoted: And St. <HI>Austin,</HI>
+whom he there quotes, agrees with him in his
+Notion concerning this matter, <HI>Illi qui vera pie∣tate
+praediti, &amp;c.</HI> They who being endued,
+saith he, with true Principles of Piety, live
+Good and Vertuous Lives, if withal they have
+but attained to any Skill and Knowledge of
+<PB N="4" REF="6"/>
+governing the People, must needs render that
+Community extreamly happy, where God is so
+propitious to confer upon them Authority:
+<HI>But when the Wicked beareth Rule, the People mourn,
+gemet populus,</HI> saith the same <HI>Dionysius</HI> upon the
+place, <HI>timens exactionari, gravari, &amp; opprimi, &amp;c.</HI>
+dreadfully fearing the great Exactions, Grie∣vances,
+and Oppressions, that will most cer∣tainly
+ensue.</P>
+<P><MILESTONE N="III"/> And lastly, I shall apply all to our selves by
+some necessary and seasonable Inferences.</P>
+<P><MILESTONE N="I"/><HI>First,</HI> I shall consider that there is ever great
+Joy, when Good Men are in Rule and Autho∣rity;
+for if as St. <HI>Bernard</HI> observes, <HI>Rebus rari∣tas
+pretium facit,</HI> the rarity of any thing adds a
+Price and Value to it; then if Vertue in a Go∣vernour
+appear more Orient than ordinary,
+the uncommonness of the thing usually creates
+a greater Respect and Veneration for the
+Person.</P>
+<P>For Vertue hath an Innate Beauty and Com∣liness
+which is very taking, whereever it is
+visible, and if in a private Sphere, its Charms
+are very great; Virtue and Goodness, when
+in Men of Birth and Power, like a Curious
+Picture inchased with Gold and Diamonds is
+set off with a far greater Lustre.</P>
+<P><PB N="5" REF="6"/>
+Men have naturally a great Opinion, Value,
+and Veneration for true Goodness, and what∣ever
+others may think of it, Vice can never so
+far change its own Nature, or so fairly coun∣terfeit
+Vertue as by the most Alluring Charms
+or Features to gain the same esteem.</P>
+<P>And although Virtue and Vice are reputed
+by some Persons only to be Arbitrary things,
+founded either in Mens Imaginations, or in
+the Customs and Constitutions of the World,
+and not in the Nature of the things themselves,
+and so there is no Good and Evil, but what the
+Supreme Authority of a Nation declares to be
+so, yet it will most certainly appear, that there
+is a vast difference betwixt Good and Evil, a
+Natural Comeliness in Virtue, and a Natural
+Deformity in Vice by the Universal Agree∣ment
+of Mankind about it, and by the ge∣neral
+Verdict of Humane Nature concerning
+it.</P>
+<P>And to make this a little more Intelligible by
+some particular instances to this purpose; Will
+Violence and Injustice, will Perjury and Perfi∣diousness,
+will Unrighteousness and Ingrati∣tude,
+and such like horrid Crimes pass off
+with as great Esteem, Honour and Reputation,
+as the contrary Virtues are wont to do? Sup∣pose
+then the Reverse of all that which we now
+<PB N="6" REF="7"/>
+call Virtue were solemnly Enacted, and the
+Practice of Fraud and Rapine, Perjury, and
+Falseness to a Mans Word, and all manner of
+Vice and Wickedness were Established by a
+Law; I ask now in the words of a very great
+and Learned Divine, <HI>If the case betwixt Vertue and
+Vice was thus alter'd, would that which we now call
+Vice in process of time gain the reputation of Vertue,
+and that which we call Vertue grow odious and contemp∣tible
+to Humane Nature?</HI> Is it possible a Man,
+that by all unjust and indirect means imagina∣ble
+takes away from his Neighbour, that which
+is really his own, and daily builds his Fortunes
+upon the Ruines of other Men, shall either
+have the same credit while he lives, which he
+hath, that deals fairly and honestly with all
+the World, or when he dies, shall leave the
+same Monument of lasting Honour and Repu∣tation
+behind him, which Truth and Fidelity
+perpetuate to Mankind?</P>
+<P>Nay is it not common with some even of
+those, who are of the vitious part of the World,
+to revile and speak against, and pretend to de∣test
+and abhor those who have been more noto∣rious
+than themselves for their Crimes and
+Villanies?</P>
+<P>Not but that wicked Persons may be some∣times
+honoured by such as do not know them
+<PB N="7" REF="7"/>
+to be wicked, and on the other side those that
+are good may by others be esteemed and used as
+the Rubbish and Off-scowring of all things, but
+this is to be ascribed to their mistake and igno∣rance
+of them; but the generality of Mankind
+have heretofore, and still do pay the greatest
+Reverence and Respect to any Persons, whom
+they believe to be Innocent and Vertuous,
+whereas Shame, Scorn, and Disgrace is com∣monly
+the Lot and Portion of wicked Men,
+which is plain from that of <HI>Solomon, Prov.</HI> 13.
+5. <HI>A wicked man is loathsome and cometh to shame;</HI>
+which word <HI>loathsome</HI> denotes all such kind
+of Persons to be as nauseous and offensive to
+the judgment of others, as the most loathsome
+and unsavoury things are to their Taste and
+Smell.</P>
+<P>On the contrary the Wise Man speaking of
+Religion saith, <HI>It shall be an ornament of grace to thy
+head, and as a chain about thy neck; exalt her and she
+shall promote thee, she shall bring thee to honour, when
+thou dost embrace her</HI><NOTE N="*" PLACE="marg">Prov. 4. 8.</NOTE>: By which we may see
+that nothing will sooner raise Mens Esteem,
+and make them Great in the World than a
+Righteous Conversation, for this will render
+them illustrious both in the sight of God and
+Man; <HI>For</HI><NOTE N="*" PLACE="marg">Ps. 84. 11.</NOTE> <HI>the Lord will give grace and glory, and
+no good thing will he withhold from them that walk up∣rightly;</HI>
+<PB N="8" REF="8"/>
+and to this purpose may the words
+of the <HI>Psalmist</HI> not improperly be understood,
+<HI>Psal.</HI> 97. 11. <HI>Light is sown for the righteous, and
+gladness for the upright in heart:</HI> Besides the inward
+satisfaction, which all good Men doe natural∣ly
+reap by Vertuous Actions, the Publick Ac∣clamations
+that do daily likewise Accompany
+them from those that have received the Com∣mon
+Benefit of them, are a Publick Testimony
+how grateful and endearing they are in gene∣ral
+to Mankind.</P>
+<P><MILESTONE N="II"/> But I proceed to the second thing, to shew,
+<HI>That there is great reason to rejoyce when righteous men
+are in authority,</HI> because as God is on their side,
+so the whole Kingdom feels the Blessed Effects
+of it.</P>
+<P><MILESTONE N="I"/><HI>First,</HI> God is on their side, and takes the part
+of such as are Righteous Governours, and
+therefore the People have great reason to re∣joyce
+under such a Government: Nothing doth
+more endear Men to God, and render them
+Gratious and Acceptable in his sight than an
+Holy and Vertuous Conversation: Now it is
+Natural to take care of, and preserve such
+things as are of the highest Value and Estima∣tion,
+and by consequence good Rulers being
+God's more special Favourites, hence hath
+he a more peculiar regard for them, esteeming
+<PB N="9" REF="8"/>
+them as the very apple of his Eye, and profes∣sing
+it as possible for the Sons of Violence to
+come near and touch that, as to do them any
+Injury by their malitious Machinations.</P>
+<P>Nay still further, as God claims a peculiar
+propriety in them, so he sets the highest Marks
+and Signatures of his Favour and Affection
+upon them; <HI>For they shall be mine, saith the Lord
+of Hosts, in that day when I make up my jewels, and
+I will spare them as a man spareth his own Son that
+serveth him.</HI><NOTE N="*" PLACE="marg">Mal. 3. 1<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>.</NOTE></P>
+<P>When the Wicked shall arise up in Tumults
+against them, when they encompass them like
+Bees, flaming with Rage and Fury, as if they
+would presently consume them, then saith
+God, Mine Hand shall hold them fast, and
+mine Arm shall strengthen them, the Enemy
+shall not be able to do them violence, the Son
+of wickedness shall not hurt them, I shall smite
+down their Foes before their Face, and plague
+them that hate them; nay, he will certainly de∣fend
+them under his wings, his Faithfulness
+and Truth shall be their Shield and Buckler.</P>
+<P>And what should be the reason of all this
+kind Care and Regard, of this favourable Pa∣tronage
+and Protection, which God affords
+them, but because those Persons indeavour to
+imitate God in those his excellent perfections
+<PB N="10" REF="9"/>
+of Justice and Truth? God as he is the Sove∣reign
+of the Universe, and the Great Gover∣nour
+of the World performs his promises and
+impartially distributes his Justice to Mankind,
+and those who are his Vice-Gerents and Dele∣gates
+here on Earth cannot more ingratiate
+themselves in his favour, then when Judgment
+runs down like Water, and Righteousness like
+a Mighty Stream; <HI>For to do Justice and Judgment
+is more acceptable to the Lord than any Sacrifice.</HI><NOTE N="*" PLACE="marg">Prov. 21. 3.</NOTE></P>
+<P><MILESTONE N="II"/><HI>Secondly,</HI> As God doth constantly Patronize
+all such Righteous Officers, so the whole King∣dom
+feels the Blessed Effects of it, and this is
+a further reason for the Peoples Joy and Exul∣tation:
+Now we cannot better know the well∣come
+Fruits of a Righteous Government, then
+by the Joyful Experience of it, for from hence
+it is, that true Religion is incouraged, and
+kept up, maugre all opposition in its true Lu∣stre
+and Glory, whilest all Prophaneness and
+Impiety is utterly discountenanc'd and sup∣press'd
+as the very Bane and Pest of all Hu∣mane
+Society; whereas under Evil Gover∣nours
+Vice grows Daring and Couragious, it
+throws off all the Vizors and Masks of blushing
+Modesty, and becomes Brazen-fac'd, Ventu∣rous
+and highly Impudent, and by being open∣ly
+countenanc'd by such as are in Authority,
+<PB N="11" REF="9"/>
+it gains too great Reputation and Authority to
+it self.</P>
+<P>Again. When good Men sit at the Helm of
+Government, Oaths are not reputed Withs,
+nor Laws as Cob-webbs, which every vile Ma∣lefactor
+may be allowed to break through, the
+Princes Rights are inviolably secured, and the
+Peoples Properties as safely hedged about;
+Oppression and Violence dare not in the least
+peep abroad, nor Perjury and Detraction ap∣pear
+bare-fac'd at Noon-day as Advocates for
+Truth; Fraud and Treachery sculk about in
+the dark, and can hardly escape undiscovered
+from their watchful Eye. Their Diligence and
+Integrity is very signal and remarkable, and
+all the Wheels of Government being kept up
+and preserved in a very regular motion, the
+good and wellfare of the whole Community is
+most entirely promoted by their prudent Con∣duct
+and Management of Affairs, by seasona∣ble
+Debates, and sober Counsels, by serious
+Advice and proper Resolutions, and God doth
+many times by his secret Providence so concur
+with their Endeavours, so strengthen their
+Counsels, so prosper their Debates, and Crown
+with Success all their Projects and Designs,
+that they enjoy such measures of Temporal
+Felicity, as neither the Plots of Foreign Ene∣mies,
+<PB N="12" REF="10"/>
+nor the Machinations of Domestick In∣cendiaries
+can ever be able to undermine.</P>
+<P>Nay God is many times pleased to enrich a
+Nation with Peace and Plenty, with Ease and
+Liberty, and with all the outward Blessings
+both of the upper and neather Springs for the
+sake of good Men, they in their respective Sta∣tions
+being very instrumental likewise towards
+the procuring such things; whereas wicked
+Men carry a Curse with them, wherever they
+come, and like the dreadful <HI>Basilisk,</HI> dart out
+nothing but Ruine and Destruction before
+them; so that no People are safe where such
+Persons are in Authority, because all their Po∣licies
+and Projects prove commonly Fruitless
+and Abortive.</P>
+<P>And if under all Governments Wickedness
+hath been the main Obstruction to all the brave
+Designs and most Glorious Exploits, that have
+been set on foot, then Vertue and Holyness is
+the most prevailing Interest in the World, be∣cause
+God is ever sure to be on that side; I
+confess indeed Policy and Courage are the two
+great Pillars of any Government, but unless
+Vertue be the Basis to support those very Pil∣lars,
+they will prove like the Earthen Legs of
+<HI>Nebuchadnezzar</HI>'s Image, which will at last grow
+feeble and impotent, and fall away to nothing:
+<PB N="13" REF="10"/>
+It is therefore both a wise and a true observa∣tion
+of <HI>Solomon,</HI> which hath been sufficiently
+experienc'd in all Ages, <HI>Righteousness exalteth a
+Nation, but sin is a reproach to any people. Prov.</HI> 14.
+34. That is, Religion and Vertue are the great
+causes of all Publick Happyness, for they raise
+a Nation to the highest degree of Temporal
+Felicity and Glory, and make both Officers and
+People to flourish in the greatest Reputation
+and Renown.</P>
+<P>This it were easie to enlarge upon from the
+Records of Time and Annals of History: The
+<HI>Jewish</HI> Commonwealth is a very signal instance
+of this Nature, for whil'st both Rulers and
+People made it the chief of their business to do
+Justice and love Mercy, and walk humbly with
+their God; How did the <HI>Jewish</HI> Church tri∣umph,
+and the State prosper, and nothing in∣terven'd
+to Eclipse their Glory?</P>
+<P>And thus again, whil'st <HI>Greece</HI> flourished,
+<HI>Reges Philosophabantur, &amp; Philosphi regebant,</HI> those
+Common-wealths being more numerous than
+their Neighbours in nothing but in the sincere
+Exercise of their Reason: And we find though
+<HI>Lycurgus</HI> in <HI>Lacedemon, Aristides</HI> in <HI>Athens,</HI> and
+<HI>Epaminondas</HI> at <HI>Thebes</HI> were not born to Com∣mand,
+their Vertue bestowed on them what
+their Birth deny'd: And when Tyranny and
+<PB N="14" REF="11"/>
+Pride had by wasting these Common-wealths
+made place for the <HI>Roman</HI> Glory, nothing did
+so enlarge the Conquest of that Renowned
+State (whose Center, as one speaks, was Ver∣tue,
+and Circumference Fame) as their Hero∣ick
+Actions: Upon which account <HI>Attalus</HI> King
+of <HI>Pergamus</HI> did by Legacy leave them his
+Kingdom, as to those whose Vertues deserv'd
+it as a Reward, which occasion'd St. <HI>Austin</HI> to
+fall into that Eloquent Expression, <HI>Because God</HI>
+(saith he) <HI>would not bestow Heaven on the</HI> Romans,
+<HI>they being Pagans, he bestowed the Empire of the
+World upon them, because they were Vertuous.</HI></P>
+<P>And though <HI>Nobis non licet esse tam beatis,</HI> tho'
+we cannot at present be as great as other Na∣tions,
+and such Conquests and Enlargements
+of our Dominions are not in this Age as yet
+the Fate and Portion allotted to us; and more
+the pity, that under so Great and Puissant a
+Prince, who by his Matchless Courage and
+Conduct would make us as Renown'd and For∣midable
+as ever, our own Vices should clip
+the Wings of His Triumphant Victories; Yet
+would we once be perswaded to become Con∣querours
+over our selves, and over all our Ir∣regular
+Passions and Appetites, we might then
+at least have this assurance, that we shall ne∣ver
+be Conquered, and triumph'd over by
+<PB N="15" REF="11"/>
+those, who now apparently watch for our Ru∣ine
+and Destruction.</P>
+<P>And if we are not so happy now as we de∣sire
+to be, 'tis because we are not so Vertuous
+and Honest as is necessary for such happyness,
+for till our Vices lessen, our Success will never
+be great, nor can we hope to retrieve the Re∣nown
+and Honour of our Illustrious Ancestors,
+till we resolve to fetch back amongst us their
+Ancient Manners and Heroick Gallantry: And
+indeed if we could but recover the good <HI>English</HI>
+plainness of Heart and Habit and Integrity of
+Spirit, for which our Progenitors were so wor∣thily
+Renown'd, we should then quickly find
+the Tide turn upon us with an over-flowing
+Torrent of Glory and Prosperity.</P>
+<P>But whil'st there is so much Artifice and
+Guile, so much Treachery and Selfishness a∣mongst
+us, while like prophane <HI>Esau</HI> we can be
+willing to sell all our <HI>English</HI> Birth-rights and
+Properties only for a Mess of * Pottage;<NOTE PLACE="marg">Gen. 25. 33, 34.</NOTE> and
+under the Mask of True <HI>English</HI> Patriots do our
+Enemies Work to their hands, what can we
+expect indeed at this rate, but to become a mi∣serable
+and forlorn People, a Scorn to others,
+and a Reproach to our selves? Nay what can
+we expect, but to be made, as a just punishment
+for such impardonable perfidiousness, Tributa∣ry
+<PB N="16" REF="12"/>
+Vassals at last without another Miracle of
+Providence to the most Domineering Monarch
+in the Universe?</P>
+<P>Since then Prosperity and good Success doth
+usually attend Righteousness, and such Honest
+Governours as are the Patrons of it, since Pro∣vidence
+resists Vice, and Vices do not only
+make Enemies to themselves, but by a Civil
+War as a Just Judgment upon them destroy one
+another, happy must that People needs be,
+where God is pleased to bestow upon them so
+Unvaluable a Blessing, and there cannot be
+occasion of greater Joy, than when such Men
+are advanc'd into Power and Authority by rea∣son
+of that mighty influence, which both their
+Actions and Examples have commonly upon
+all Inferiour Persons who are under their Go∣vernment.</P>
+<P><MILESTONE N="III"/> What remains then but in the third place to
+apply all to our selves by some seasonable Infe∣rences,
+and so to draw to a Conclusion.</P>
+<P><MILESTONE N="I"/> And first, If Righteous Men in Authority
+occasion great Joy, then the Choice of such
+Governours appears from hence to be a thing
+of the greatest moment and consequence: For
+when the Lot of Government falls into the Lap
+of good Men, Oh, how happy are the conse∣quences
+in the investitures of such Persons?
+<PB N="17" REF="12"/>
+and what Advantages do accrue both to the
+City and Countrey from the Wisdom of their
+Counsels and Excellent Administrations? The
+Voice of Oppression then utterly ceaseth, and
+there are no Complaints to be heard in the
+Streets, when Justice is Administred, it is done
+without partiality, and the Poor and Destitute
+receive Comfort and Relief, the Widow and
+the Fatherless find Patronage and Protection,
+and their Souls are redeemed from Deceit and
+Violence, the Rights of the Injured are with
+great Equity asserted, and all things are settled
+upon the most durable Foundations of Truth
+and Righteousness.</P>
+<P>For the True Statesman is inviolably con∣stant
+to his most Excellent Principles of Virtue,
+and Religious Prudence, his Ends are Noble,
+and the Means he useth Innocent, he hath a
+single Eye on the Publick Good, and meets it
+in its several Pressures with sutable Reliefs.
+Nay if the Ship of the State miscarry, he had
+rather perish in the Wreck, then preserve him∣self
+upon the Plank of an Inglorious Subterfu∣ge;
+his Worth had led him to the Helm, the
+Rudder he useth is an Honest and Vigorous
+Wisdom, the Star he looks to for Direction is
+in Heaven, and the Port he aims at is the
+joynt-well-fare both of Prince and People.</P>
+<P><PB N="18" REF="13"/>
+So that when such places of Trust are thus
+carefully disposed of, and such Noble Ensigns
+of Honour conferr'd upon Worthy Patriots,
+the greatest happyness doth then most certain∣ly
+accrue to that Community, which they are
+deputed to govern, that their hearts can possi∣bly
+wish or desire.</P>
+<P><MILESTONE N="II"/><HI>Secondly,</HI> If the Power of good Men admini∣ster
+great Joy, then Self-Interest as well as the
+general good of that Community to which they
+belong should make all Men in Authority ve∣ry
+Active in all such Religious Performances,
+and Righteous Practices: Nothing sure can be
+a more powerful Encouragement to goodness,
+than to consider what an Universal Satisfaction
+it generally creates in the Minds of Men,
+for the very Old Men in the Gates will rise
+up and pay it a just Deference and Veneration,
+and the Children cannot but warble forth its
+Praise in the most Melodious Acclamations;
+for every one looks upon a Righteous Ruler as
+a Tutelar Guardian to the People, and the
+greatest Blessing to his Countrey, whereas
+they who are Wicked are the greatest Traitors
+to their Nation as well as their God, and they
+frequently betray both Prince and People into
+the most Dismal Calamities by the Crying Sins
+of Unrighteousness and Injustice.</P>
+<P><PB N="19" REF="13"/>
+So that no Man that is a well-wisher either
+to himself or Country, but will resolve upon
+such Virtuous and Upright Courses; for is
+it not much better to be instrumental towards
+a Blessing than a Curse, the first of which is
+only attainable by Vertuous Actions? Is it
+not a greater satisfaction to be capable to pro∣mote
+the Prosperity of a People, than to hasten
+their Ruine and procure their Destruction?
+Is it not more grateful to the Ear to receive
+the joyful applauses of Worthy Atchievements,
+than to be harass'd even to Death with the bit∣ter
+Taunts and Execrations of a flouting Mul∣titude
+for the Vilest Misdemeanours! and to
+be in the midst of the Congratulations and
+happy Wishes of the People, whose Hearts
+and Affections they entirely possess, then to
+have only the Command of their Bodies, and
+not the least of Charming Empire over their
+Souls, which is the more Noble part of Domi∣nion?
+If Men then in Authority would but
+consult their own Interest, they cannot do bet∣ter
+for themselves, they cannot do better for
+the People, than by an inviolable Observation
+of the Laws of Equity and Justice, which some
+Unfortunate Politicians having neglected to
+do, have too often made a woful Shipwrack
+both of their Honour and Happiness.</P>
+<P><PB N="20" REF="14"/>
+Which brings me to the third and last thing,
+That whenever God affords us such Publick
+Blessings by such Righteous Rulers, we ought
+to give him all the Praise and the Glory of it:
+And this is <HI>Dionysius Carthusianus</HI> his Gloss again,
+<HI>In exaltatione justorum multa gloria est, exultant enim
+in Deo:</HI> There is great cause of rejoycing in
+God, when he sends just Governours amongst
+a People, for by that means they glorifie God,
+who confers on them that happyness.</P>
+<P>And since perhaps to the very Envy of our
+Adversaries this is our Case at this time, Let
+us not any longer affect to be the most Natu∣ral
+Pictures of such horrible Ingratitude
+and Ill-Nature, as our <HI>English</HI> Climate is not
+usually acquainted with, nor by a down-look't
+Male-Contentedness, and Unreasonable Mur∣murs,
+by our repining against Providence,
+and Carping at the Government provoke God
+to deprive us of so great a happiness.</P>
+<P>I confess if Ignorance and Blind Devotion,
+if Superstition and Idolatry, if Subjection to
+His Holiness, and a Tame Condescension to
+his Unjust Usurpations be things in themselves
+so desirable and to be admired, if it be a thing
+<PB N="21" REF="14"/>
+so Meritorious to advance the Interest of <HI>Rome,</HI>
+and make this Kingdom again part of St.
+<HI>Peter</HI>'s Patrimony, and so to introduce <HI>French
+Dragoons</HI> and <HI>Popish Janezaries</HI> to be our constant
+Guests and Companions; if such a new Re∣volution
+will prove so Comfortable a <HI>Jubilee,</HI>
+and changing the present Scenes after such a
+fashion will become so Advantageous to us,
+there is reason enough indeed for our vehement
+striving and impatient struggling for it.</P>
+<P>But if there is a Train of Blessings clear of
+another Nature, which doth manifestly attend
+us, if we are now under such an Heroick King,
+who is as Tender of our Religious as Civil
+Rights, under such Wise Councillors, who will
+neither flatter their Prince to His Ruine, nor
+dispense with his Laws to the prejudice of his
+People, if under such Worthy Governours,
+which though Loyal to the Crown will never∣theless
+not forget the True Interest of the Sub∣ject;
+then where is any room left for Murmurs
+or Complaints? Or what reason is there for
+any one to Rail or Revile, to bespatter or Re∣pine
+against such a Government, whose Yoke
+compared with others round about us is easie,
+and whose Burden is Light?</P>
+<P><PB N="22" REF="15"/>
+Nay if these be such Mercies as would cer∣tainly
+be esteemed so by all but a few Unthank∣ful
+peevish Spirits of our own Nation, who do
+not deserve the Benefit of what they so basely
+Despise, let us who have learned better things,
+think of nothing else but what we shall render
+unto the Lord for such benefits as these which
+he hath bestowed upon us.</P>
+<P>Any Nation but we would never think they
+could thank God enough for them, let us then
+not be worse than other People, but let us by
+our outward Testimonies of Joy declare our
+inward satisfaction for the present Govern∣ment,
+and let us turn all our Fears and Jealou∣sies
+into Prayers and Supplications for the pre∣servation
+of it; let us constantly pray for the
+Well-fare and Prosperity of such as are in Au∣thority,
+that we may lead quiet and peaceable
+Lives in all Godliness and Honesty; and let
+us have no reserve in our Prayers against any
+of them, and hope to come off at last with
+some such like trimming Apology as that of
+<HI>Naaman,</HI> the Old <HI>Syrian</HI> Courtier, <HI>In this thing
+the Lord pardon me</HI><NOTE N="*" PLACE="marg">2 Kings 5. 18.</NOTE>, for this is but in plain
+terms to equivocate with God Almighty, and
+to pray backward, as Conjurers, they say, are
+<PB N="23" REF="15"/>
+wont to do when they raise up their Familiars,
+or as Bells are wont to ring at General Confla∣grations.</P>
+<P>To Conclude all, let us zealously endeavour
+to promote in earnest what we so fervently
+pray for, not by Calumnies and Reproaches,
+not by be-spattering Their Majesties, or any
+of Their Ministers of State, and blackning and
+defaming the Established Government, not by
+rendring every thing both in Church and State
+odious and abominable in the sight of all the
+People by Forgery and Detraction; but by an
+unfeigned integrity to God in the first place,
+by a ready submission to all our Superiours in
+the next, by a generous Condescension to our
+Inferiours, and by a meek and quiet and
+peaceable Deportment amongst our Equals, let
+us make our Kingdom Glorious, and our selves
+entirely happy. <HI>Which God of his Infinite Mercy
+grant we may be for the sake of Christ Jesus our Sa∣viour,
+To whom with the Father,</HI> &amp;c.</P>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="publisher's advertisement">
+<PB REF="16"/>
+<HEAD>Books Printed for and Sold by Eben Tracy
+at the Three Bibles on London-Bridge.</HEAD>
+<LIST>
+<ITEM>THE Elements of the Mathematical Art,
+commonly called <HI>Algebra,</HI> expounded in
+four Books, by <HI>John Kerzey.</HI></ITEM>
+<ITEM><HI>Lloyd</HI>'s Dictionary.</ITEM>
+<ITEM><HI>Sanderson</HI>'s Sermons.</ITEM>
+<ITEM>Mariners Magazine.</ITEM>
+<ITEM><HI>Reynold</HI>'s of Murther.</ITEM>
+<ITEM>Royal Practical Chymistry, by <HI>Oswaldus
+Crollus,</HI> and <HI>John Hartman.</HI></ITEM>
+<ITEM>All Dr. <HI>Salmon</HI>'s Books.</ITEM>
+<ITEM><HI>Markham</HI>'s Master-piece.</ITEM>
+<ITEM>De Grey's <HI>Horseman.</HI></ITEM>
+<ITEM><HI>Norwood</HI>'s Doctrine of Triangles.</ITEM>
+<ITEM>The famous History of the destruction of
+<HI>Troy.</HI></ITEM>
+<ITEM>Valentine <HI>and</HI> Orson.</ITEM>
+<ITEM><HI>Montelion</HI> Knight of the Oracle.</ITEM>
+<ITEM>The Seaman's Glass.</ITEM>
+<ITEM>The Boatswain's Art.</ITEM>
+<ITEM>The Compleat Modelist.</ITEM>
+<ITEM><HI>Waple</HI>'s Shipwright.</ITEM>
+<ITEM><HI>Schamozzy</HI>'s Architecture.</ITEM>
+<ITEM><HI>Palladio</HI>'s Architecture.</ITEM>
+<ITEM>Safeguard for Sailers.</ITEM>
+<ITEM>Pilot's Sea-Mirror.</ITEM>
+<ITEM><HI>Newhouse</HI>'s Art of Navigation.</ITEM>
+</LIST>
+<PB REF="16"/>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>
+

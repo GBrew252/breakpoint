@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The case between Doctor John Badger and the College of Physicians in London who in July, August and September in the year 1683 presented himself to the president and censors to be examined ...</TITLE><AUTHOR>Badger, John, fl. 1693.</AUTHOR></TITLESTMT><EXTENT>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2007-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A28878</IDNO>
+
+
+<IDNO TYPE="stc">Wing B383</IDNO>
+
+<IDNO TYPE="stc">ESTC R25905</IDNO>
+
+<IDNO TYPE="eebo citation">09288152</IDNO>
+
+<IDNO TYPE="oclc">ocm 09288152</IDNO>
+
+<IDNO TYPE="vid">42607</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A28878)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 42607)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 1299:36)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The case between Doctor John Badger and the College of Physicians in London who in July, August and September in the year 1683 presented himself to the president and censors to be examined ...</TITLE><AUTHOR>Badger, John, fl. 1693.</AUTHOR></TITLESTMT><EXTENT>4 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>[London :</PUBPLACE>
+<PUBLISHER>s.n.,</PUBLISHER>
+<DATE>1693.]</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Caption title.</NOTE><NOTE>Badger's claim that he was unfairly excluded from the Society.</NOTE><NOTE>Reproduction of original in the British Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Badger, John, fl. 1693.</TERM><TERM>Royal College of Physicians of London.</TERM><TERM>Physicians --  Licenses --  England.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2006-03</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2006-03</DATE><RESPSTMT><RESP>Apex CoVantage</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2006-05</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2006-05</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2006-09</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A28878">
+<STC T="W">B383</STC>
+<BIBNO T="oclc">09288152</BIBNO>
+<VID>42607</VID>
+</IDG>
+<TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="text">
+<PB N="1" REF="1" MS="y"/>
+<HEAD>The <HI>CASE</HI> between Doctor <HI>John Badger</HI> and the Colledge of <HI>Physicians London:</HI></HEAD>
+<HEAD TYPE="sub">Who in <HI>July, August,</HI> and <HI>September,</HI> in the year 1683, Presented himself to the <HI>President</HI> and <HI>Censors</HI> to be examined:
+<LIST>
+<ITEM>Doctor <HI>Thomas Coxe</HI> President.</ITEM>
+<ITEM>Doctor <HI>Thomas Collins</HI> Senior Register.
+<LIST>
+<HEAD>Censors▪</HEAD>
+<ITEM>Doctor Walter Charleton,</ITEM>
+<ITEM>Doctor Thomas Allen,</ITEM>
+<ITEM>Doctor Nathaniel Hodges,</ITEM>
+<ITEM>Doctor Edward Hulst,</ITEM>
+</LIST></ITEM>
+</LIST></HEAD>
+<P>AND was by them examined Three several Times in Latine, according to the Form of the Statutes in that Case provided; and was approved by them, and had leave given by the President and Censors, after Examination to visit the Fellows, and did accordingly visit all the Fellows, in order to be admitted Li∣centiate, and at the same time was requested and desired by them, in the behalf of the whole Colledge; and withal com∣plemented, how extreamly I should oblidge and highly honour that Society, if I would be pleased to suspend my Admission of Licentiate (and which they confest they could not deny) till such time as I had quitted my Imployment in Pharmacy, and compleated my Degree (being then Batchelour in Physick) of Doctor in the University; and that then, without any far∣ther trouble of visiting the Fellows, or other Examinations, and for the very same Fees, by vertue of those Examinations standing registred in their Books (if they escape the fate of be∣ing cut out, as some other things have been) I might be ad∣mitted Candidate, the more honourable station in their Society, and which I better deserved, and they did then propose to me
+<PB N="2" REF="2" MS="y"/>
+Doctor <HI>Lister</HI>'s Case, as a President for the same thing: On these Considerations I submitted to and gratified their Request.</P>
+<P>Four years now elapsed, and by their advice, having regu∣larly compleated my Degree of Doctor in Physick <HI>(July</HI> 6. 1687.) performing all Exercises required by the Statutes of the University of <HI>Cambridge</HI> (and as 14, 15 of <HI>Hen.</HI> 8. accomplish∣ing all things for his Form, without any grace) as my Diplo∣ma to them shewn, and the Register in that University will sufficiently testifie; I applied my self to the then President of the Colledge in the year 1687, for my Admission (as former∣ly directed and promised, by the President and Censors, in the behalf of the whole Colledge in the year 1683.) from whom I had a courteous reception, and acknowledgement that it was all the Reason and Justice in the World that I should have my Admission, besides, saith he, we cannot deny it you; and then advised me to wait till next Colledge day, and there give my attendance; which I accordingly did, and was then de∣ferred to another opportunity, by reason the Colledge was then ingaged in private business <HI>(viz.</HI> Making New Statutes of Exclu∣sion) and no publick business would at that time be entred on; I attended again and again, and was still deferred: During these delays the private business is effected, and the New Statutes of Exclusion are made, and promulgated in the Theatre, <HI>Septem∣ber</HI> 28. 1687.</P>
+<P>After these New Statutes were made, I was advised to wait on the President and Censors on a private Colledge day, to de∣mand my Admission, and did accordingly; and had for Answer from them their New Statutes, which Mr. Register would needs read: To which I answered, These Statutes cannot relate to my Case, being made above four years since the desires, requests, and directions of this Board, in behalf of the whole Colledge, were made to me to suspend my Admission till I had compleated my Degree of Doctor; besides, I have lately attended several times on the Colledge for my Admission in <HI>July, August, Septem∣ber</HI> 1687. since I was Doctor in Physick, and before these Sta∣tutes were made or promulgated.</P>
+<P><PB N="3" REF="2"/>
+However, so it was, that unless I would abjure the Company of Apothecaries (as well as I had, by their advice and directions, quitted my imployment in Pharmacy in the year 1684.) and bring it attested under the hand, or by the person of a Publick Notary, that I had relinquish'd and abjured that Society, I should not be admitted.</P>
+<P>And now, I will give you some Statutes of the Colledge, as also an Advertisement publish'd in the Gazette; with what they have annexed to his most Sacred Majesties Letters, and publish'd by the consent of the whole Colledge, to shew to the World their fair dealing with all men, and care for the Publick Good.</P>
+<DIV2 TYPE="part">
+<HEAD>STATUTES of the Colledge of PHYSICIANS.</HEAD>
+<DIV3 N="11" TYPE="chapter">
+<HEAD>Chap. 11.</HEAD>
+<P><HI>Of the Candidates.</HI> We will and ordain, That each Candidate and Licentiate, before they be admitted, visit all the Fellows of the Colledge twice, to ask leave, to wit, the first time before any Examination, the second, when the Examinations are ended.</P>
+</DIV3>
+<DIV3 N="15" TYPE="chapter">
+<HEAD>Chap. 15.</HEAD>
+<P><HI>Of Licentiates.</HI> Seeing by no means (unless by Exa∣mination) it can be manifest to us, how every one is qualified, to be admitted to the Practice of Physick according to the Laws of the Kingdom; We appoint and ordain, That none be admitted to the Practice of Physick within the City, Suburbs, and seven miles round about, unless he has been first examined thrice (on so many days ap∣pointed for that purpose) by the President and Censors, and by them approved and permitted to the Practice of Physick.</P>
+<P>For we think it just, That the Censors and Fellows should admit to the Practice of Physick all examined persons, as many as they shall find qualified, as well for Learning as Manners, lest our Colledge should be accused of a Monopoly; yet so that they obey the Statutes of the Colledge.</P>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>Gazette N. 2325. <DATE>Thursday 1 <HI>March</HI> 1687.</DATE></HEAD>
+<P>WHere as there are in and about this City several Persons practi∣sing Physick, who have not yet been examined and licensed by the President and Censors of the Colledge of Physicians, these are
+<PB N="4" REF="3"/>
+to require all such persons forthwith to repair to the said President and Censors, for their Examination and Licence to practise, that they may hereby prevent their being prosecuted according to the Laws and his Majesties special Command.</P>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>A short Account of the Institution and Nature of the Colledge of Physicians <HI>London.</HI></HEAD>
+<HEAD TYPE="sub">Published by the Colledge 1688.</HEAD>
+<P><Q>THe Colledge of Physicians in <HI>London,</HI> being constituted of Men of generous and liberal Education, and insti∣tuted for publick benefit, out of which no person of sufficient Capacity and Learning can be excluded, consists of a <HI>President, Fellows, Candidates, Honorary Fellows,</HI> and <HI>Licentiates.</HI></Q></P>
+<P><Q>Now, of all these several Ranks and Degrees of Practisers in Physick, none of them is confined to any certain number, but the Fellows and Candidates; so that the rest being wholly unli∣mited, no person can be excluded out of the Colledge, or de∣barred from Practice, but such as are so wholly illiterate and unskilful, that they dare not adventure to submit themselves to the Examination and Judgement of the President and Cen∣sors of the Colledge, either as to the goodness of their Medi∣cines, or their own skill in all or any part of Physick, though the President and Censors be men strictly sworn to do Justice to all persons who shall present themselves or their Medicines to their Scrutiny and Examination.</Q></P>
+<P><Q>From hence it manifestly follows that the Colledge of Phy∣sicians is very far from being a Monopoly, since it cannot reject any of the King's Subjects who are duly qualified for the Exer∣cise of all, or any part of Physick.</Q></P>
+<P>From all these their <HI>Statutes</HI> and published Advertisements to the World, it manisestly follows that Doctor <HI>John Badger</HI> is and has been legally and duly a Member of the Colledge of Physicians <HI>London</HI> for these Ten years last past, although his Name be not printed in their New Catalogue of 1693. Or the Colledge guilty of publishing to the World most notorious falshoods; and to use their own words, is very far from being any other then a perfect Monopoly and Confederacy, that excludes regularly Commenced Doctors in our own Universities, and the King's Native Subjects, duly qualified for the Exercise of all and every part of Physick.</P>
+</DIV2>
+<PB REF="3"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">Beauties triumph a masque / written by T. Duffett.</TITLE><AUTHOR>Duffett, Thomas.</AUTHOR></TITLESTMT><EXTENT>Approx. 42 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2003-07 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A36756</IDNO>
+
+
+<IDNO TYPE="stc">Wing D2444</IDNO>
+
+<IDNO TYPE="stc">ESTC R4284</IDNO>
+
+<IDNO TYPE="eebo citation">12269092</IDNO>
+
+<IDNO TYPE="oclc">ocm 12269092</IDNO>
+
+<IDNO TYPE="vid">58173</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A36756)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 58173)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 182:2, 2353:3)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">Beauties triumph a masque / written by T. Duffett.</TITLE><AUTHOR>Duffett, Thomas.</AUTHOR></TITLESTMT><EXTENT>[5], 22, [1] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>[s.n.],</PUBLISHER>
+<DATE>1676.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>"Presented by the scholars of Mr. Jeffery Banister and Mr. James Hart at their new boarding-school for young ladies and gentlewomen, kept in that house which was formerly Sir Arthur Gorges at Chelsey"</NOTE><NOTE>Reproduction of originalsl in: Henry E. Huntington Library and Folger Shakespeare Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2003-01</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2003-02</DATE><RESPSTMT><RESP>SPi Global</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2003-04</DATE><RESPSTMT><RESP>John Latta</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2003-04</DATE><RESPSTMT><RESP>John Latta</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2003-06</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A36756">
+<STC T="W">D2444</STC>
+<BIBNO T="oclc">12269092</BIBNO>
+<VID>58173</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<P>Beauties Triumph; A MASQUE.</P>
+<P>Presented by the Scholars of Mr. Jeffery Banister, AND Mr. James Hart, At their New BOARDING-SCHOOL for Young Ladies and Gentlewomen, kept in that House which was for∣merly Sir <HI>Arthur Gorges,</HI> AT CHELSEY.</P>
+<P>Written by <HI>T. Duffett.</HI></P>
+<Q><L>— tutus, &amp; intra</L>
+<L>Spem veniae cautus —</L></Q>
+<P><HI>LONDON,</HI> Printed in the year MDCLXXVI.</P>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD><HI>Prologue,</HI> spoken by a young Lady.</HEAD>
+<OPENER><SALUTE>Ladies,</SALUTE></OPENER>
+<L>Y'Are welcome, — and we hope y'are all sharp set,</L>
+<L>Good Appetites excuse a homely Treat;</L>
+<L>This was intended for our selves alone,</L>
+<L>From whom our Masters fear'd no cens'ring frown:</L>
+<L>But aw'd, and dazl'd by your piercing eyes,</L>
+<L>(For, though expected, you like Death surprize)</L>
+<L>They humbly bow, — and beg a kind excuse,</L>
+<L>For straiten'd time, and a disorder'd House;</L>
+<L>Hoping, the want of practice, fitting dress,</L>
+<L>And glorious Scenes, may make our failings less:</L>
+<L>As if defects could purchase good success.</L>
+<L>This might appease an accidental Guest;</L>
+<L>But you'r invited, and expect a Feast:</L>
+<L>Enlarged hopes, and longing looks y'have brought,</L>
+<L>Fine Dances, Songs, and Shew, swell ev'ry thought:</L>
+<L>Such things our Masters meant; but strove so fast</L>
+<L>To win the prize, we fall with too much hast.</L>
+<L>Like eager Gard'ners, that make Nature post</L>
+<L>The Flow'rs to early births, which being forc'd,</L>
+<L>Their sweet perfume and native beautie's lost.</L>
+<L>If we miscarry, let them feel the smart,</L>
+<L>They hardly gave us time to read a Part:</L>
+<L>Yet — if w'are out, — I fear 'twill break my heart. —</L>
+<L>Courage! be gone dull fear, and sullen doubt:</L>
+<L>The Cause! the Cause we fight shall bear us out.</L>
+<L><HI>Beauties Triumph,</HI> — Beauty! your joy and care,</L>
+<L>The crown of Peace, and the reward of War.</L>
+<L><HI>Ladies,</HI> Your int'rest your assistance calls;</L>
+<L>Your Empire's lost if <HI>Beauties Triumph</HI> falls:</L>
+<L>If any Lover his applause denies,</L>
+<L>Kill the Rebel, — stab him with your eyes.</L>
+<L>Sound a charge, — we'l nor take no quarter,
+<STAGE>Musick flourish.</STAGE></L>
+<L>She that falls is Educations Martyr.</L>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="masque">
+<PB REF="3"/>
+<PB N="1" REF="3"/>
+<HEAD>Beauties Triumph; A MASQUE.</HEAD>
+<DIV2 N="1" TYPE="scene">
+<HEAD>SCENE I.</HEAD>
+<STAGE>The Curtain being drawn, <HI>Fate</HI> is discover'd sitting on a Throne, dress'd in a dark-colour'd Robe, powder'd with Swords, Stars, Daggers, Books, Flames and Crowns, <HI>&amp;c.</HI> — a Crown on his head, a Globe at his feet, and a great Book open be∣fore him: near his feet sit the Three Fatal Sisters, one holding a Distaff, another Spinning and drawing out Threads, and the third cutting them. On the Stage stand a King and Queen crown'd, and richly habited; a Hero crown'd with Laurel, and a Slave chain'd: — near him a beautiful Lady, and a de∣spairing Lover: — a man and woman, whose dress express Poverty and Misery: in the midst of all stands Death, threat∣ning with his Dart and Hour-glass. — Thus all continue, while a solemn Ayr is play'd by Violins, Rechorders, <HI>&amp;c.</HI> — which done, all but Death kneel to <HI>Fate</HI> and the Three Sisters.</STAGE>
+<STAGE>The King and Queen sing together.</STAGE>
+<L>STern <HI>Fate</HI> relent, change thy obdurate will,</L>
+<L>Canst thou without remorse see Monarchs kneel?</L>
+<L>For ev'ry moment added to our breath,</L>
+<L>We'l send whole Hecatombs of Slaves to death.</L>
+<STAGE>This repeated by a full Chorus of Voices, and Musick.</STAGE>
+<STAGE><PB N="2" REF="4"/>The Lady sings alone.</STAGE>
+<L>O gentle <HI>Fate</HI> my beauty spare;</L>
+<L>Is there no pity for the Fair?</L>
+<L>All the Stars and the Glories my Lovers e're gave,</L>
+<L>I'le part from to buy a release from the Grave.</L>
+<STAGE>The Heroe rises up and sings.</STAGE>
+<L>Shall a Heroe whose valour no force e're o'recame,</L>
+<L>Submit his great heart to an Aiery name?</L>
+<L>Thou Deity of slaves and fools,</L>
+<L>Let me and my Subjects alone,</L>
+<L>Or I'le pull thee from thy gloomy Throne,</L>
+<L>And make thy Spinsters quit their tools.</L>
+<STAGE>The Lover sings, and one of the Unfortunate.</STAGE>
+<L>We court the fate from which they fly,</L>
+<L>For death, for death the wretched cry,</L>
+<L>Oh change our doom, Oh change our doom, Oh change our doom</L>
+<L>Or let us dye.</L>
+<STAGE>Chorus of the Lover, Slave, and the two Unfortunate.</STAGE>
+<L>We court, <HI>&amp;c.</HI></L>
+<SP>
+<SPEAKER>Fate</SPEAKER>
+<STAGE>sings.</STAGE>
+<L>Mortals give o're,</L>
+<L>In vain like raging Seas your passions roar,</L>
+<L>In vain for pity you implore:</L>
+<L>The fix'd decrees which Fate has pass'd,</L>
+<L>No threats or pray'rs can stop or hast;</L>
+<L>The Vassal shall tread</L>
+<L>On the Conquerour's head;</L>
+<L>And the Beggar that lies</L>
+<L>In the dust shall arise</L>
+<L>To a Crown,</L>
+<L>While Vsurpers and Tyrants fall down:</L>
+<L><PB N="3" REF="4"/><HI>Fate</HI> crops the gayest, sweetest Rose,</L>
+<L>While the prickly Thistle grows;</L>
+<L>The creeping Bramble still looks green,</L>
+<L>When he lops the lofty Pine:</L>
+<L>Some shall love and sigh in vain,</L>
+<L>For her that is by others slighted,</L>
+<L>And the coyest Nymphs disdain</L>
+<L>Shall be requited</L>
+<L>By as proud a Swain.</L>
+<L>Some shall dye laughing, and some shall dye sad,</L>
+<L>For the deformed the fair shall be mad,</L>
+<L>And the glittering Scepter be chang'd to a Spade.</L>
+<STAGE>Chorus of Fate and the Three Sisters.</STAGE>
+<L>Some shall, <HI>&amp;c.</HI></L>
+<L>For the deformed, <HI>&amp;c.</HI></L>
+<L>And the glittering, <HI>&amp;c.</HI></L>
+</SP>
+<STAGE>A Dance.</STAGE>
+<STAGE>In which Death kills the King and Queen, the Slave stabs the Hero, the Unfortunate seize the Crowns, and the Lady courts her despis'd Lover.</STAGE>
+<SP>
+<SPEAKER>Fate</SPEAKER>
+<STAGE>sings.</STAGE>
+<L>With cares and contrivance their Fate to avoid,</L>
+<L>Men lose the short pleasures that may be enjoy'd;</L>
+<L>Their fears are too swift, and their wishes too late,</L>
+<L>For nothing can alter the dictates of Fate.</L>
+<STAGE>Chorus by Fate and the Three Sisters.</STAGE>
+<L>With cares, <HI>&amp;c.</HI></L>
+</SP>
+<STAGE>While the Chorus is singing, the Stage is clear'd of the rest. <HI>Fate</HI> spurns the Globe, throws down his Book, and rises in anger; the Three Sisters follow him.</STAGE>
+<SP>
+<PB N="4" REF="5"/>
+<SPEAKER>Fate.</SPEAKER>
+<L>Give o're —</L>
+<L>Spin no more lives, burn all the sacred Tow,</L>
+<L>Let hasty births to sudden fun'rals go,</L>
+<L>Till the vast world a second Chaos know.</L>
+</SP>
+<SP>
+<SPEAKER>1 Sister.</SPEAKER>
+<L>Dread King of all the skies great lights, disclose</L>
+</SP>
+<SP>
+<SPEAKER>2 Sister.</SPEAKER>
+<L>What weighty cause</L>
+<L>Obstructs thy Laws,</L>
+</SP>
+<SP>
+<SPEAKER>3 Sister.</SPEAKER>
+<L>What does thy haughty spirit discompose?</L>
+</SP>
+<SP>
+<SPEAKER>Fate.</SPEAKER>
+<L><HI>Juno</HI> and <HI>Pallas</HI> with proud <HI>Venus</HI> joyn,</L>
+<L>The awfull Throne of <HI>Fate</HI> to undermine:</L>
+<L>Ingratefull pow'rs! I'le break your close design.</L>
+<L>Hoe <HI>Discord!</HI> hoe! —
+<STAGE>Enter Discord.</STAGE></L>
+<L>Whence com'st thou, Mignion, from the shades below?</L>
+<L>Or from dark caves where struggling winds do grow?</L>
+</SP>
+<SP>
+<SPEAKER>Discord.</SPEAKER>
+<L>Ah — no!</L>
+<L>In Courts and Cities now I dwell;</L>
+<L>The sullen man and wanton wife,</L>
+<L>Have more imployment found for strife,</L>
+<L>Then all the winds</L>
+<L>The Seaman finds,</L>
+<L>Or all the Fiends in Hell.</L>
+<L><STAGE>Chorus.</STAGE>
+The sullen man, <HI>&amp;c.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Fate.</SPEAKER>
+<L>From the <HI>Hesperian</HI> Tree with nimble wing,</L>
+<L>The fairest, largest golden Apple bring:</L>
+<L>Hast! hast! I seal'd the watchfull Dragons eyes.</L>
+</SP>
+<SP>
+<SPEAKER>Discord.</SPEAKER>
+<L>Great Ruler of the World, thy Servant flies.</L>
+</SP>
+<STAGE>Exit Discord.</STAGE>
+<SP>
+<PB N="5" REF="5"/>
+<SPEAKER>Fate.</SPEAKER>
+<L>When power and wisedom with beauty unite,</L>
+<L>Mankind will be drown'd in such Seas of delight,</L>
+<L>My frowns they'l despise, and my favours they'l slight.</L>
+<L>Proud Deities, dare you oppose my Yoke,</L>
+<L>When your poor petty Cobweb plots are broke?</L>
+<L>I'le make you cringe and tremble at my stroke.</L>
+<L>The fiercest Gods with all their Titles swell'd,</L>
+<L>Ev'n <HI>Jove</HI> himself to <HI>Destiny</HI> shall yield.</L>
+<STAGE>Chorus of Fate and the Three Sisters.</STAGE>
+<L>The fiercest Gods, <HI>&amp;c.</HI></L>
+<L>Ev'n <HI>Jove, &amp;c.</HI></L>
+</SP>
+<STAGE>Enter <HI>Discord</HI> with a golden Apple; <HI>Fate</HI> writes on it, and gives it her again.</STAGE>
+<SP>
+<SPEAKER>Fate.</SPEAKER>
+<L>Be gone, to <HI>Ida</HI>'s flow'ry Mount make hast,</L>
+<L>There thou shalt find</L>
+<L>Three Goddesses joyn'd,</L>
+<L>And by <HI>Concord</HI> embrac'd;</L>
+<L>Before their eyes this guilded poison cast:</L>
+<L>Take all the <HI>Furies</HI> with fierce Adders curl'd,</L>
+<L>Let their envenom d<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>spight a' round be hurl<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>d,</L>
+<L>And ghastly mischief fright the sleepy world.</L>
+<STAGE>Chorus.</STAGE>
+<L>Take all the <HI>Furies, &amp;c.</HI></L>
+</SP>
+<STAGE>Exeunt Fate and the Three Sisters.</STAGE>
+<SP>
+<SPEAKER>Discord.</SPEAKER>
+<L>What hoe! you dismal haggs, —</L>
+<L>What hoe! you dismal haggs, — that hate the light,</L>
+<L>Daughters of dreadful Styx, and dreary Night;</L>
+<L>You snakie Sisters rise with threatning hands,</L>
+<L>Shake your steel'd whips, and wave your smoakie brands.</L>
+</SP>
+<STAGE><PB N="6" REF="6"/>Enter the Three Furies.</STAGE>
+<SP>
+<SPEAKER>1 Fur.</SPEAKER>
+<L>The news, —</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>The news, —</L>
+</SP>
+<SP>
+<SPEAKER>3.</SPEAKER>
+<L>The news,</L>
+</SP>
+<SP>
+<SPEAKER>All.</SPEAKER>
+<L>The news, fierce <HI>Discord,</HI> quickly tell the news.</L>
+</SP>
+<SP>
+<SPEAKER>Discord.</SPEAKER>
+<L>Listen dire messengers of angry fate.</L>
+</SP>
+<STAGE>All whisper and mutter together.</STAGE>
+<SP>
+<SPEAKER>1 Fur.</SPEAKER>
+<L>Enough,</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Enough,</L>
+</SP>
+<SP>
+<SPEAKER>3.</SPEAKER>
+<L>Enough, we will about it strait.</L>
+</SP>
+<SP>
+<SPEAKER>All.</SPEAKER>
+<L>Enough, we will about it strait.</L>
+</SP>
+<STAGE>A Song in two Stanza's.</STAGE>
+<SP>
+<SPEAKER>Disc.</SPEAKER>
+<L>Lean Vertue shall down with her barren reward,</L>
+<L>When <HI>Discord</HI> comes on she'l no longer be heard.</L>
+</SP>
+<SP>
+<SPEAKER>1 Fur.</SPEAKER>
+<L>Great Power, and Wisedom, and Beauty we'l sever,</L>
+</SP>
+<SP>
+<SPEAKER>2 Fur.</SPEAKER>
+<L>And singly destroy what would conquer together:</L>
+</SP>
+<SP>
+<SPEAKER>3 Fur.</SPEAKER>
+<L>The fair shall be foolish, the wise shall be mad,</L>
+<L>And by their delusions the great be misled.</L>
+<L><STAGE>Chorus.</STAGE>
+The fair, <HI>&amp;c.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Disc.</SPEAKER>
+<L>The Gallant shall swear, and the Nymph shall be kind,</L>
+<L>But both shall prove false to the Love they design'd:</L>
+</SP>
+<SP>
+<SPEAKER>1 Fur.</SPEAKER>
+<L>The wise shall for power and wealth be too zealous;</L>
+</SP>
+<SP>
+<SPEAKER>2 Fur.</SPEAKER>
+<L>The great of their plotting and pride shall be jealous.</L>
+</SP>
+<SP>
+<SPEAKER>3 Fur.</SPEAKER>
+<L>And when the whole World's in confusion again,</L>
+<L>The <HI>Furies</HI> and <HI>Discord</HI> shall pleasantly reign.</L>
+<L><STAGE>Chorus.</STAGE>
+And when, <HI>&amp;c.</HI></L>
+</SP>
+<STAGE>A Dance by <HI>Discord</HI> and the <HI>Furies.</HI></STAGE>
+<STAGE>Exeunt all.</STAGE>
+<STAGE>The Scene is chang'd to a pleasant Landschape of a flowrie Mountain, <HI>&amp;c. Iuno, Pallas</HI> and <HI>Venus</HI> enter, attended by <HI>Iris</HI> and many Nymphs; the Goddesses lay their hands on a Garland of Laurel, Bayes and Myrtle. — It Thunders and Lightens.—</STAGE>
+<STAGE><PB N="7" REF="6"/>[<HI>All this Scene is spoken.</HI>]</STAGE>
+<SP>
+<SPEAKER>Iuno.</SPEAKER>
+<L>Our Sacred Union all the Gods approve,</L>
+<L>And send this thundring message from above,</L>
+<L>To grace the Sister and the Wife of <HI>Iove.</HI></L>
+<L><HI>Iris</HI> my swift Embassadress, be gone,</L>
+<L>Clap thy light wings and shining colours on,</L>
+<L>And let our Union round the world be known.</L>
+</SP>
+<SP>
+<SPEAKER>Iris.</SPEAKER>
+<L>Great Queen of Gods, and Empress of the Skies,</L>
+<L>Whose fair plum'd team adorn'd with <HI>Argus</HI> eyes,</L>
+<L>Eclipse the splendour of my brightest Dyes:</L>
+<L>My painted Throne with watry Clouds I'le build,</L>
+<L>Which with more various colours shall be fill'd,</L>
+<L>Then flowrie Springs, or gaudy Summers yield.</L>
+<L>When wondring Mortals from their houses run,</L>
+<L>To see my Glories far out-shine the Sun,</L>
+<L>The will of Royal <HI>Iuno</HI> shall be known.</L>
+</SP>
+<SP>
+<SPEAKER>Iuno.</SPEAKER>
+<L>Rich Embassies the wills of Kings declare:</L>
+<L>What then should mine, to whom great Monarchs are</L>
+<L>Like twinkling Glow-worms to the Morning-Star?</L>
+</SP>
+<STAGE>Juno <HI>and</HI> Iris <HI>seem to talk together.</HI></STAGE>
+<SP>
+<SPEAKER>Venus.</SPEAKER>
+<L>Is this the Union, this the equal sway?</L>
+<L>I'le rather <HI>Fate</HI>'s than <HI>Iuno</HI>'s pow'r obey:</L>
+<L>The will of Royal <HI>Iuno</HI> —</L>
+<L>And is not <HI>Venus</HI> worthy of a name?</L>
+<L>My Beautie's greater, and as great my Fame.</L>
+</SP>
+<SP>
+<SPEAKER>Pallas.</SPEAKER>
+<L>Fair Queen of Love, let not the rash mistake</L>
+<L>Of that untutor'd Maid a diff'rence make;</L>
+<L>My honour is an equal suff'rer made,</L>
+<L>And with your fame shall <HI>Pallas</HI> shine or fade:</L>
+<L>But let not Passion be too fast obey'd.</L>
+<L>Passion commits more crimes then it can find,</L>
+<L>It shakes the soul like a tempestuous wind;</L>
+<L>The Senses slave, but Tyrant of the mind.</L>
+</SP>
+<SP>
+<SPEAKER>Venus.</SPEAKER>
+<L>Sister of much-lov'd <HI>Mars,</HI> Goddess of Arms,</L>
+<L>Thy Prudence conquers whom thy Beauty warms,</L>
+<L>I yield as all must to thy pow'rfull charms.</L>
+</SP>
+<SP>
+<PB N="8" REF="7"/>
+<SPEAKER>Pallas.</SPEAKER>
+<L><HI>Iuno</HI> does private pow'r in vain pursue,</L>
+<L>While Beauties Goddess is to <HI>Pallas</HI> true;</L>
+<L>Beauty and Wit the highest pow'rs subdue.</L>
+</SP>
+<SP>
+<SPEAKER>Iuno,</SPEAKER>
+<L><STAGE>to Iris.</STAGE>
+Thou dost the full of our great purpose know,</L>
+<L>Ascend and from thy party-colour'd bow,</L>
+<L>Proclaim it to the list'ning world below.
+<STAGE>Exit Iris.</STAGE></L>
+<L>Now <HI>Fate,</HI> deluded mortals shall no more</L>
+<L>Dread thy feign'd Laws, and thy fantastick pow'r,</L>
+<L>But with glad hearts our sacred Shrines adore.</L>
+<L>Our Rites were lost, our Temples were prophan'd,</L>
+<L>No Praise or Sacrifice our Altars gain'd,</L>
+<L>No pow'r, forsooth, could change what <HI>Fate</HI> ordain'd.</L>
+</SP>
+<SP>
+<SPEAKER>Pallas.</SPEAKER>
+<L>So far this wild Imposture has been hurl'd,</L>
+<L>Gypsies and Star-gazers command the world.</L>
+</SP>
+<SP>
+<SPEAKER>Venus.</SPEAKER>
+<L>Th'are <HI>Fate</HI>'s Viceroys, dispose of ev'ry heart;</L>
+<L>From Sacred Love the giddy Youth depart,</L>
+<L>And marry by the Stars: — vain rules of Art.</L>
+</SP>
+<SP>
+<SPEAKER>Iuno.</SPEAKER>
+<L><HI>Iuno</HI>'s not call'd to kindle <HI>Hymen</HI>'s fire,</L>
+<L>And bless the Nuptial-bed with chast desire,</L>
+<L>But <HI>Fate</HI> with <HI>Avarice</HI> base knots conspire.</L>
+</SP>
+<SP>
+<SPEAKER>Pallas.</SPEAKER>
+<L>Then bloudy <HI>Discord</HI> with a Hellish throng</L>
+<L>Of Furies, houl the <HI>Hymeneal</HI> Song,</L>
+<L>And make the hated Marriage-night seem long.</L>
+</SP>
+<SP>
+<SPEAKER>Iuno.</SPEAKER>
+<L>They rise, seek lawless Love in sev'ral rooms,</L>
+<L>And cry, Alas! who can avoid their dooms?</L>
+<L>Thus rigid <HI>Fate</HI> a gentle Bawd becomes.</L>
+</SP>
+<SP>
+<SPEAKER>Venus.</SPEAKER>
+<L>Then with unhallow'd breath they spot my name,</L>
+<L>And on my Innocence would lay their shame;</L>
+<L>I cherish none but chast and virtuous flame.</L>
+</SP>
+<SP>
+<SPEAKER>Iuno.</SPEAKER>
+<L>The lazie drone lies stretch'd upon the floor,</L>
+<L>Cries, <HI>Destiny</HI> compels him to be poor:</L>
+<L>He lyes, — What am not I the Queen of Pow'r?</L>
+</SP>
+<SP>
+<SPEAKER>Pallas.</SPEAKER>
+<L>The wild debauch 'gainst Heav'n makes open War,</L>
+<L>And lays his crimes upon his harmless Star,</L>
+<L>As if that caus'd that did the guilt declare.</L>
+</SP>
+<SP>
+<SPEAKER>Iuno.</SPEAKER>
+<L>Mankind no more in slav'ry shall remain,</L>
+<L>Long banish'd Justice shall to Earth again,</L>
+<L>And Vertue o're insulting Fate shall reign.</L>
+<L><PB N="9" REF="7"/>I'le give her pow'r unlimited to share</L>
+<L>The highest blessings of the Field or Chair,</L>
+<L>Among the good, the painfull, chast and fair.</L>
+</SP>
+<SP>
+<SPEAKER>Pall.</SPEAKER>
+<L>Prudence I'le give, and an enlighten'd mind,</L>
+<L>To teach her where she may be wisely kind.</L>
+</SP>
+<SP>
+<SPEAKER>Ven.</SPEAKER>
+<L>Beauty I'le give in blooming youth enshrin'd;</L>
+<L>Beauty which Monarchs more than Empire prize,</L>
+<L>Which makes the Hero brave, and States-man wise;</L>
+<L>For which the wretched lives, and happy dies.</L>
+</SP>
+<SP>
+<SPEAKER>Iuno.</SPEAKER>
+<L>Fortune shall still command the ign'rant Fool,</L>
+<L>But those that live in spotless Virtue's School,</L>
+<L>O're the severest Destiny shall rule.</L>
+</SP>
+<STAGE><HI>Enter</HI> Iris.</STAGE>
+<SP>
+<SPEAKER>Iris.</SPEAKER>
+<L>Hail mighty Queens of conquer'd Fate.</L>
+</SP>
+<SP>
+<SPEAKER>Iuno.</SPEAKER>
+<L>Quickly thy progress and success relate.</L>
+</SP>
+<SP>
+<SPEAKER>Iris.</SPEAKER>
+<L>No sooner from my arched Throne,</L>
+<L>Which with unusual Beauties shone,</L>
+<L>Did I Fate's sudden fall proclaim,</L>
+<L>But ev'ry word by greedy Fame</L>
+<L>Was to a thousand ecchoes sent,</L>
+<L>And posted through each Element;</L>
+<L>Like Lightning 'twas dispers'd a-round,</L>
+<L>And Thunder eccho'd from the ground:</L>
+<L>Such joyfull shouts were upward sent,</L>
+<L>As shook Heav'ns lofty battlement:</L>
+<L>My painted bow their vigour felt,</L>
+<L>And to a pearlie show'r did melt.</L>
+<L>Heark! the impatient Crowd draws near,
+<STAGE>Musick heard.</STAGE></L>
+<L>To let their hasty joys appear;</L>
+<L>Two of Fate's notorious cheats,</L>
+<L>About the Mount the Rabble beats.</L>
+</SP>
+<SP>
+<SPEAKER>Iuno.</SPEAKER>
+<L>In yond bright cloud conceal'd let's lye,</L>
+<L>While the rejoycing Crowd pass by.</L>
+</SP>
+<STAGE>Exeunt omnes.</STAGE>
+<STAGE><PB N="10" REF="8"/>After a flourish of Violins, Rechorders, Flajolets, <HI>&amp;c.</HI> an Astro∣loger with a Globe in his hand, and a Fortune-telling woman enter, pursu'd by Shepherds and Shepherdesses.</STAGE>
+<STAGE>Chorus of Shepherds and Shepherdesses, to which all Dance, and drive off the Astrologer and woman.</STAGE>
+<L>Be gone you Deluders, your Traffick is o're,</L>
+<L>Your Figures and Canting shall cheat us no more.</L>
+<STAGE>Song by a Shepherdess.</STAGE>
+<L>Come, come away,</L>
+<L>To solemnize this happy day;</L>
+<L>With joyfull cries</L>
+<L>Let's rend the skies,</L>
+<L>For Fortune's fall is Virtue's rise.</L>
+<STAGE>Chorus of all with Musick. <HI>Come, come away,</HI> &amp;c.</STAGE>
+<SP>
+<SPEAKER>2 Shepherdess</SPEAKER>
+<STAGE>sings.</STAGE>
+<L>Sing, sing aloud,</L>
+<L>And you that love the coy or proud,</L>
+<L>No more complain,</L>
+<L>But chuse again,</L>
+<L>For Fate must yield to Virtue's reign.</L>
+<L><STAGE>Chorus.</STAGE>
+Sing, sing aloud, <HI>&amp;c.</HI></L>
+</SP>
+<STAGE>Song by a Shepherd.</STAGE>
+<L>Fortune's a drab, though the fool and the knave</L>
+<L>Proclaim her a Goddess, and Court her;</L>
+<L>Because they deserve not the blessings they have,</L>
+<L>They think the blind Quean their supporter:</L>
+<L>But the wise and the brave</L>
+<L>Still make her a slave,</L>
+<L>They laugh at her frowns and her favour,</L>
+<L><PB N="11" REF="8"/>And now the deceiver</L>
+<L>Is ruin'd for ever,</L>
+<L>Her Cracks and her Cullies shall leave her.</L>
+<L>The Iilt to her own rouling-wheel shall be ty'd,</L>
+<L>And the three Fatal Sisters be hang'd in their thread.</L>
+<L><STAGE>Chorus.</STAGE>
+The Iilt, <HI>&amp;c.</HI></L>
+<STAGE>A Dance by a Shepherd alone.</STAGE>
+<STAGE>Song by a Shepherd.</STAGE>
+<LG>
+<L>I love and am lov'd, but dare not declare</L>
+<L>The beauty that reigns in my breast,</L>
+<L>She's smoother then Lillies, she's softer then Air,</L>
+<L>She's all that can make a man blest:</L>
+<L>But alas she's confin'd to the pleasure</L>
+<L>Of one more unhappy then I;</L>
+<L>An Indian that knows not the worth of his treasure,</L>
+<L>But slights that for which I would dye.</L>
+</LG>
+<LG>
+<L>The Dragon still wakes, and guards with fierce eyes</L>
+<L>The fruit which he cares not to tast,</L>
+<L>But Virtue and Honour are watchfuller spies,</L>
+<L>Their tyranny ever will last:</L>
+<L>When in secret our flames we discover,</L>
+<L>We bow to the Laws they ordain,</L>
+<L>How short are the joys of a virtuous Lover,</L>
+<L>But Ah there's no end of his pain!</L>
+</LG>
+<STAGE>A Dance by a Shepherdess alone.</STAGE>
+<STAGE>A Song by a Shepherd and Shepherdess.</STAGE>
+<SP>
+<SPEAKER>Shepherd.</SPEAKER>
+<L>Ioy sits smiling on each brow,</L>
+<L>In each dimpl<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>d cheek's a furrow,</L>
+<L>Made by mirth to bury sorrow;</L>
+<L>All are happy, — All are happy now,</L>
+<L><PB N="12" REF="9"/>Only <HI>Celia</HI>'s cruel, cruel, cruel eye,</L>
+<L>Dooms <HI>Amintor</HI> still to dye.</L>
+</SP>
+<SP>
+<SPEAKER>1 Shep.</SPEAKER>
+<L>Poor <HI>Amintor</HI>'s doom'd to dye.</L>
+</SP>
+<SP>
+<SPEAKER>2 —</SPEAKER>
+<L>Poor <HI>Amintor</HI>'s doom'd to dye.</L>
+</SP>
+<SP>
+<SPEAKER>3 —</SPEAKER>
+<L>Poor <HI>Amintor</HI>'s doom'd to dye.</L>
+</SP>
+<SP>
+<SPEAKER>All Shep.</SPEAKER>
+<L><STAGE>Chorus.</STAGE>
+Only <HI>Celia &amp;c</HI></L>
+</SP>
+<SP>
+<SPEAKER>Shepherdess.</SPEAKER>
+<L>Oh <HI>Amintor</HI> hide thy pains,</L>
+<L>If thy tempting tongue had won me,</L>
+<L>Lawless passion had undone me,</L>
+<L>Sacred Virtue, — Sacred Virtue reigns.</L>
+<L>All that Virtue, All that Virtue grants I'le give,</L>
+<L>For thy hopeless love I'le grieve,</L>
+</SP>
+<SP>
+<SPEAKER>1 Shep.</SPEAKER>
+<L>And <HI>Amintor</HI> still shall live.</L>
+</SP>
+<SP>
+<SPEAKER>2 —</SPEAKER>
+<L><HI>Celia</HI> bids <HI>Amintor</HI> live.</L>
+</SP>
+<SP>
+<SPEAKER>3 —</SPEAKER>
+<L><HI>Celia</HI> bids, <HI>&amp;c.</HI></L>
+<L><STAGE>Chorus.</STAGE>
+All that Virtue, <HI>&amp;c.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Shepherd.</SPEAKER>
+<L>Then the longing eyes may gaze,</L>
+<L>In each others beams uniting,</L>
+<L>And the trembling hands uniting,</L>
+<L>Break not Virtues, — Break not Virtues Laws.</L>
+<L>Chastest Vestals, Chastest Vestals thus may kiss,</L>
+<L>Thus may Saints repeat their bliss,</L>
+</SP>
+<SP>
+<SPEAKER>1 Shep.</SPEAKER>
+<L>Virtue will not blush at this.</L>
+</SP>
+<SP>
+<SPEAKER>2 —</SPEAKER>
+<L>Virtue will, <HI>&amp;c.</HI></L>
+</SP>
+<SP>
+<SPEAKER>3 —</SPEAKER>
+<L>Virtue will, <HI>&amp;c.</HI></L>
+<L><STAGE>Chorus.</STAGE>
+Chastest Vestals, <HI>&amp;c.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Shepherdess.</SPEAKER>
+<L>Hold, fond Shepherd, keep thy vow,</L>
+<L>Love deny'd 's an humble waiter,</L>
+<L>But a bold insulting traytor,</L>
+<L>When the Virtuous, — when the Virtuous bow.</L>
+<L><PB N="13" REF="9"/>Dear <HI>Amintor,</HI> Dear <HI>Amintor</HI> pray give o're,</L>
+<L><HI>Celia</HI> cannot grant thee more,</L>
+<L>Alas she would but has not pow'r.</L>
+</SP>
+<SP>
+<SPEAKER>1 Shep.</SPEAKER>
+<L>Virtue, makes thy <HI>Celia</HI> poor.</L>
+</SP>
+<SP>
+<SPEAKER>2 —</SPEAKER>
+<L>Virtue, <HI>&amp;c.</HI></L>
+</SP>
+<SP>
+<SPEAKER>3 —</SPEAKER>
+<L>Virtue, <HI>&amp;c.</HI></L>
+<L><STAGE>Chorus.</STAGE>
+Dear <HI>Amintor, &amp;c.</HI></L>
+</SP>
+<STAGE>A Dance to the following Song, the Re∣chorders and Flajolets playing.</STAGE>
+<STAGE>Song.</STAGE>
+<LG>
+<L>Let's love, and let's laugh, let's dance, and let's sing,</L>
+<L>While shrill ecchoes ring,</L>
+<L>Our wishes agree, and from cares we are free,</L>
+<L>Then who are so happy, so happy as we.</L>
+</LG>
+<LG>
+<L>We press the soft Grass, each Swain with his Lass,</L>
+<L>Or follow the chase,</L>
+<L>When weary we be, we sleep under a Tree,</L>
+<L>And who are so happy, so happy as we.</L>
+</LG>
+<LG>
+<L>By flatt'ry or fraud no Shepherd's betray'd,</L>
+<L>Or cheats the fond Maid,</L>
+<L>No false supple knee to deceive us we see,</L>
+<L>Then who are so happy, so happy as we.</L>
+</LG>
+<LG>
+<L>We envy no pow'r, nor cannot be poor,</L>
+<L>Who wish for no more;</L>
+<L>Some richer may be, and of higher degree,</L>
+<L>But none are so happy, so happy as we.</L>
+</LG>
+<STAGE>The three Furies rise up in the middle of them, and fright them all off: — Then the Furies dance, — <HI>&amp; Exeunt.</HI></STAGE>
+<STAGE><PB N="14" REF="10"/><HI>Enter</HI> Juno, Pallas <HI>and</HI> Venus, <HI>embracing:</HI> Discord <HI>enters observing them.</HI></STAGE>
+<STAGE>[Discord <HI>speaks this.</HI>]</STAGE>
+<L>Now injur'd Fate thy gloomy den forsake,</L>
+<L>Raise all thy forces from the Stygian Lake;</L>
+<L>Thy foes are mighty, and thy Crown's the stake.</L>
+<L>Burning Ambition and revengefull Pride,</L>
+<L>Heart-gnawing Envy, and all ill beside,</L>
+<L>Attend, and Hell and Furies be your guide.
+<STAGE>Discord <HI>throws the Golden Apple, which the God∣desses strive for, and go off.</HI></STAGE></L>
+<L>Hoh, ho, ho, hoe, 'tis done, 'tis done:</L>
+<L>Methinks I see the frighted world look pale,</L>
+<L>And Nature to her secret mansion crawl,</L>
+<L>As if she fear'd an everlasting fall.</L>
+<L>To <HI>Ida</HI>'s Mount the striving pow'rs retire,</L>
+<L>Prophetick Spirits my hot brains inspire,</L>
+<L>And swell my thoughts with ruine, blood and fire.</L>
+<L><HI>Venus</HI> obtains the prize from <HI>Priam</HI>'s Son:</L>
+<L>Good, good, then Rapes and Murthers shall be done,</L>
+<L>Whose stories shall make future Ages groan.</L>
+<L>Now Fate, let thy tormenting Furies rest,</L>
+<L>Since my wild Empire's fix'd in ev'ry breast,</L>
+<L>The Goddesses themselves shall do the rest.</L>
+<L>Virtue shall into several factions fall;</L>
+<L>Strictness, Pride; Freedom, it shall Looseness call:</L>
+<L>Where <HI>Discord</HI> raigns, swift ruine swallows all.</L>
+<STAGE>Exit Discord.</STAGE>
+<STAGE>Musick plays.</STAGE>
+<STAGE>Enter <HI>Paris</HI> and <HI>Oenone,</HI> crown'd with Garlands of Flowers, with Sheep-hooks in their hands, attended by Shepherds and Shepherdesses.</STAGE>
+<STAGE>Song in Dialogue.</STAGE>
+<SP>
+<SPEAKER>Paris.</SPEAKER>
+<L>Tell me dearest <HI>Oenone,</HI></L>
+<L>Why such sadness clouds my Sun;</L>
+<L><PB N="15" REF="10"/>A pearly deluge from thy eyes,</L>
+<L>Spreads thy rosie cheeks around,</L>
+<L>Where poor <HI>Cupid</HI> mourning lyes,</L>
+<L>To see his World of beauty drown'd.</L>
+</SP>
+<SP>
+<SPEAKER>Oenone.</SPEAKER>
+<L>Oh my <HI>Paris,</HI> Oh my Swain,</L>
+<L>Thou darling of the flow'ry Plain,</L>
+<L>I fear — But Ah my grief's too much to speak,</L>
+<L>I fear, I fear my swelling heart will break.</L>
+</SP>
+<SP>
+<SPEAKER>Paris.</SPEAKER>
+<L>Has the fierce Woolf devour'd a bleating Lamb,</L>
+<L>Or robb'd the Fondling of his Dam?</L>
+</SP>
+<SP>
+<SPEAKER>Oenone.</SPEAKER>
+<L>Ah! — no, those losses are</L>
+<L>Which changing time or prudent care</L>
+<L>Would soon repair.</L>
+</SP>
+<SP>
+<SPEAKER>Paris.</SPEAKER>
+<L>Say what does thy heart invade,</L>
+<L>I conjure thee, charming Maid,</L>
+<L>By those secret Bowers,</L>
+<L>Which the twining Myrtles shade;</L>
+<L>By those banks of flowers,</L>
+<L>Where our sacred vows were made;</L>
+<L>By the Spring, and by the Grove,</L>
+<L>And by the soft delights of Love.</L>
+</SP>
+<SP>
+<SPEAKER>Oenone.</SPEAKER>
+<L>Among the sweets this Garland bears,</L>
+<L>Say which the greatest glory wears.</L>
+</SP>
+<SP>
+<SPEAKER>Paris.</SPEAKER>
+<L>That —</L>
+<L>Whose bright leaves round yellow seeds are grown,</L>
+<L>Like sparkling Gems about a Golden Crown.</L>
+</SP>
+<SP>
+<SPEAKER>Oenone.</SPEAKER>
+<L>That does my sudden sorrow move,</L>
+<L>It will I fear thy Emblem prove,</L>
+<L>That gaudy flower's call'd <HI>Shepherd's Love.</HI></L>
+<L><PB N="16" REF="11"/>How far his sweet perfumes do spread,</L>
+<L>How proudly shines his painted head:</L>
+<L>A dazling Crown's less gay then this,</L>
+<L>And that excels <HI>Arabian</HI> Spice.</L>
+<L><STAGE>Chorus.</STAGE>
+How far, <HI>&amp;c.</HI></L>
+<L>How proudly, <HI>&amp;c.</HI></L>
+<L>A dazling, <HI>&amp;c.</HI></L>
+<L>And that, <HI>&amp;c.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Paris.</SPEAKER>
+<L>My Shepherdess more glorious shews,</L>
+<L>And sweeter breath perfumes her vows.</L>
+</SP>
+<SP>
+<SPEAKER>Oenone.</SPEAKER>
+<L>But e're yond' Sun the world survey,</L>
+<L>And chase a second night away,</L>
+<L>This glory of the Spring will fade,</L>
+<L>And shrink into perpetual shade.</L>
+</SP>
+<SP>
+<SPEAKER>Paris.</SPEAKER>
+<L>His stalk will stoop,</L>
+</SP>
+<SP>
+<SPEAKER>Oenone.</SPEAKER>
+<L>His head will droop,</L>
+</SP>
+<SP>
+<SPEAKER>Paris.</SPEAKER>
+<L>His fragrant scents will fly;</L>
+</SP>
+<SP>
+<SPEAKER>Oenone.</SPEAKER>
+<L>His beauteous leaves no more will shine,</L>
+</SP>
+<SP>
+<SPEAKER>Paris.</SPEAKER>
+<L>But this proud Shepherds love will die,</L>
+</SP>
+<SP>
+<SPEAKER>Oenone.</SPEAKER>
+<L>And so alas, and so I fear will thine.</L>
+</SP>
+<SP>
+<SPEAKER>Paris.</SPEAKER>
+<L>The Sun shall be fix'd, the Earth shall remove,</L>
+<L>But never shall <HI>Paris</HI> be false to his Love.</L>
+</SP>
+<SP>
+<SPEAKER>Oenone.</SPEAKER>
+<L>And will you always be thus kind to me?</L>
+</SP>
+<SP>
+<SPEAKER>Paris.</SPEAKER>
+<L>By all those powers that our actions see</L>
+<L>I will. —</L>
+</SP>
+<SP>
+<PB REF="11"/>
+<SPEAKER>Oenone.</SPEAKER>
+<L>Yet! yet! yet you may deceive.</L>
+</SP>
+<SP>
+<SPEAKER>Paris.</SPEAKER>
+<L>O cruel! will you ne're believe?</L>
+</SP>
+<SP>
+<SPEAKER>Oenone.</SPEAKER>
+<L>I do, I do, and will no longer grieve.</L>
+</SP>
+<SP>
+<SPEAKER>Paris.</SPEAKER>
+<L>We'l love while we live, and we'l live without care,</L>
+<L>Together we'l dye, and we'l make but one Star,</L>
+<L>To which happy Lovers shall offer their pray'r.</L>
+<STAGE>Chorus of all Voices and Instruments.</STAGE>
+<L>We'l love, <HI>&amp;c.</HI></L>
+<L>Together, <HI>&amp;c.</HI></L>
+<L>To which, <HI>&amp;c.</HI></L>
+</SP>
+<STAGE>A Dance.</STAGE>
+<STAGE><HI>Enter</HI> Iris <HI>and speaks to</HI> Paris.</STAGE>
+<SP>
+<SPEAKER>Iris.</SPEAKER>
+<L>Hail thou most beauteous youth, hail Princely Swain!</L>
+<L>Thou pride of Shepherds, glory of the Plain!</L>
+<L>The motto on this Golden Apple writ,</L>
+<L>Three pow'rfull Goddesses at strife has set;</L>
+<L>Let it be giv'n to her that is most fair,</L>
+<L>Thy prudent Judgment must their right declare.</L>
+<L>To thee their doubtfull Titles they submit,</L>
+<L>Thou now art Lord of Beauty, Pow'r, and Wit.</L>
+</SP>
+<STAGE><HI>Enter</HI> Juno, Pallas, <HI>and</HI> Venus, <HI>attended by a great Train.</HI></STAGE>
+<SP>
+<SPEAKER>Iuno.</SPEAKER>
+<L><STAGE>Spoken.</STAGE>
+If for <HI>Iuno</HI> thou declare,</L>
+<L>Crowns and Empire are thy share;</L>
+<L>Laurels on thy brow I'le show'r,</L>
+<L>And all the tempting sweets of pow'r.</L>
+</SP>
+<STAGE><PB REF="12"/>Enter a <HI>Spaniard,</HI> with a Crown in one hand and a Laurel in the other, he lays them at <HI>Paris</HI>'s feet.</STAGE>
+<STAGE>Song in praise of Power.</STAGE>
+<L>Oh how sweet it is to reign!</L>
+<L>How delightfull 'tis to see</L>
+<L>The begging eye and bended knee,</L>
+<L>To hear the guilded Palace ring</L>
+<L>With praises of the King:</L>
+<L>Kings are Gods, and from the lofty Throne,</L>
+<L>On all the rest of men look down;</L>
+<L>All bow to them, but they submit to none.</L>
+<L>With frowns they kill,</L>
+<L>And with a smile</L>
+<L>More ravishing delights they move,</L>
+<L>Then all the fading sweets of Love.</L>
+<L>Pleasure and Treasure and Beauty are theirs,</L>
+<L>To sweeten their Cares;</L>
+<L>All Nature gives or Art can find,</L>
+<L>To please the sense and ease the mind,</L>
+<L>The Gods for Monarchs did ordain:</L>
+<L>Oh how sweet it is to reign!</L>
+<STAGE>The <HI>Spaniard</HI> dances a Saraband in honour of <HI>Iuno,</HI> —</STAGE>
+<STAGE>Et Exit.</STAGE>
+<STAGE>Enter an <HI>Amazon</HI> with a Mitre and Sword, which she lays at <HI>Paris</HI>'s feet.</STAGE>
+<SP>
+<SPEAKER>Pallas.</SPEAKER>
+<L><STAGE>Spoken.</STAGE>
+If <HI>Pallas</HI> gain the envy'd prize,</L>
+<L>Though thou to Empire dost not rise,</L>
+<L>Great Monarchs shall yield</L>
+<L>To thy Counsel at home, and thy Sword in the field.</L>
+</SP>
+<STAGE><PB REF="12"/>Song in praise of Wisdom.</STAGE>
+<L>Why should short-liv'd mortals strive to gain</L>
+<L>Guilded cares and glorious pain,</L>
+<L>'Tis not powers boundless sway,</L>
+<L>Nor all the guards that wait upon</L>
+<L>A shining Throne,</L>
+<L>Can drive intruding care away.</L>
+<L>Wisdom's sacred pow'r can bind</L>
+<L>The raging passions of the mind,</L>
+<L>He that has attain'd to that,</L>
+<L>Is the Emperour of Fate.</L>
+<L>Rough tempests that make Kingdoms roul,</L>
+<L>Against his breast in vain do beat,</L>
+<L>They cannot shake his fixed soul,</L>
+<L>But must like vanquish'd waves retreat.</L>
+<L>No restless wish, no trembling fear,</L>
+<L>Or fierce despair can enter there;</L>
+<L>Vain love, cold death, or hasty time,</L>
+<L>Have neither darts nor wings for him;</L>
+<L>When life forsakes his quiet breast,</L>
+<L>He does but change his place of rest:</L>
+<L>'Tis he, 'tis he alone is blest.</L>
+<STAGE>The <HI>Amazon</HI> dances in honour of <HI>Pallas, — &amp; Exit.</HI></STAGE>
+<STAGE>Enter a beautifull well-dress'd Woman, with a Garland of Flowers, and a wounded Heart, which she lays at <HI>Paris</HI> his feet.</STAGE>
+<SP>
+<SPEAKER>Venus.</SPEAKER>
+<L><STAGE>Spoken.</STAGE>
+If thou grant'st the prize to me,</L>
+<L>None shall be so blest as thee;</L>
+<L>Killing eyes and charming faces,</L>
+<L>Beauties deck'd with all the Graces,</L>
+<L>Shall submit to thy embraces.</L>
+</SP>
+<STAGE><PB REF="13" MS="y"/>Song in praise of Beauty.</STAGE>
+<L>When Beauty arm'd with smiling eyes,</L>
+<L>And in betraying features drest,</L>
+<L>For wandring hearts in Ambush lyes,</L>
+<L>She beats the valiant, cheats the wise,</L>
+<L>And gains a Throne in ev'ry breast;</L>
+<L>To so many bright forms she varies her shape,</L>
+<L>No God nor no Hero can ever escape.</L>
+<L>Who pleasing looks and mirth disdain,</L>
+<L>She wounds with more Majestick Art,</L>
+<L>And where the haughty meen proves vain,</L>
+<L>Such pearlie show'rs of tears she'l rain,</L>
+<L>As can dissolve the hardest heart:</L>
+<L>So deep is her cunning, so sweet is hes stroke,</L>
+<L>That all must be subject to Beauties soft yoke.</L>
+<L>But Oh how sweet 'tis to possess</L>
+<L>The secret wishes beauty move,</L>
+<L>The joys no language can express,</L>
+<L>Nor any wretched mortal guess,</L>
+<L>That has not try'd successful love;</L>
+<L>Such raptures of pleasure from Beauty proceed,</L>
+<L>That none but true Lovers are happy indeed.</L>
+<STAGE>The Lady dances in honour of <HI>Venus, — &amp; Exit.</HI></STAGE>
+<STAGE>Song by <HI>Paris.</HI></STAGE>
+<LG>
+<L>The wise and the great</L>
+<L>To Beauty submit,</L>
+<L>It reigns in the Study, and conquers in fight;</L>
+<L>Then let my fair Mistress for ever be true,</L>
+<L>And Beauty shall Power and Wisdom subdue.</L>
+</LG>
+<LG>
+<L>So sweet are her charms,</L>
+<L>I'le quit without terms,</L>
+<L>The splendour of Empire and Trophies of Arms;</L>
+<L><PB REF="13" MS="y"/>Oh let me be blest in my dear <HI>Oenone,</HI></L>
+<L>And give the Ambitious the Mitre and Crown.</L>
+</LG>
+<STAGE><HI>Paris</HI> gives the Golden Apple <HI>to Venus, at which Iuno</HI> and <HI>Pallas</HI> seem to storm.</STAGE>
+<SP>
+<SPEAKER>Iuno.</SPEAKER>
+<L>Thy fondness, silly Shepherd, shall destroy</L>
+<L>The late enlarged Monarchy of <HI>Troy</HI>;</L>
+<L>When <HI>Grecian</HI> Swords and Fire thy house devour,</L>
+<L>No God shall guard thee from my injur'd power.</L>
+</SP>
+<SP>
+<SPEAKER>Pallas.</SPEAKER>
+<L>I'le your infatuated minds prepare,</L>
+<L>To urge swift ruine and destructive War;</L>
+<L>Neglected Wisdom near that fatal hour,</L>
+<L>Shall leave the City, when I quit the Tow'r.</L>
+</SP>
+<STAGE><HI>Exeunt</HI> Juno, <HI>&amp;</HI> Pallas.</STAGE>
+<SP>
+<SPEAKER>Venus.</SPEAKER>
+<L><HI>Saturn</HI>'s proud daughter, to thy office hie,</L>
+<L>Go mind thy Match-making and Midwifrie.</L>
+<L>And what's dame <HI>Pallas</HI> with her pining train?</L>
+<L>A sordid Insect, bred of <HI>Iove</HI>'s hot brain.</L>
+<L>Go threaten Children with your Bug-bear rods,</L>
+<L>My Son, my Husband, and Gallant are Gods.</L>
+<L>Love! — Love's thy Province! — let Fools and Stoicks care,</L>
+<L>I rule the mighty Gods of Fire, Love, and War.</L>
+</SP>
+<STAGE><HI>Exit</HI> Venus.</STAGE>
+<STAGE>Song between <HI>Paris</HI> and <HI>Oenone.</HI></STAGE>
+<SP>
+<SPEAKER>Paris.</SPEAKER>
+<L>To the Grove, gentle Love, let us be going,</L>
+<L>Where the kind spring and wind all day are wooing;</L>
+<L>He with soft sighing blasts strives to o'retake her,</L>
+<L>She would not, though she flies, have him forsake her.</L>
+</SP>
+<SP>
+<SPEAKER>Oenone.</SPEAKER>
+<L>But in circling rings returning,</L>
+<L>And in purling whispers mourning,</L>
+<L>She swells and pants as if she'd say,</L>
+<L>Fain I would but dare not stay.</L>
+</SP>
+<SP>
+<SPEAKER>Paris.</SPEAKER>
+<L>Strait he gets all the sweets on the banks spreading,</L>
+<L>Which he brings on his wings where his Nymph's hiding,</L>
+<L>In some close hollow creek kind Nature shades her,</L>
+<L>In the green Willow tree he Serenades her.</L>
+</SP>
+<SP>
+<PB REF="14" MS="y"/>
+<SPEAKER>Oenone.</SPEAKER>
+<L>— And to gain her chast embraces,</L>
+<L>Sends his notes to losty places;</L>
+<L>In calms they lye and seem to say,</L>
+<L>Stormy care drives love away.</L>
+</SP>
+<SP>
+<SPEAKER>Paris.</SPEAKER>
+<L>—There the loud busie Croud never shall part us,</L>
+<L>Nor no kind fawning friend from love divert us;</L>
+<L>We'l to each other be friends, fame and treasure,</L>
+<L>And no unruly thought shall stain our pleasure.</L>
+</SP>
+<SP>
+<SPEAKER>Oenone.</SPEAKER>
+<L>— Time and Nature ever smiling,</L>
+<L>Shall forget their Arts of killing;</L>
+<L>And all the Gods aloud shall say,</L>
+<L>Love so chast should ne're decay.</L>
+</SP>
+<STAGE>A Dance by <HI>Paris</HI> and <HI>Oenone.</HI></STAGE>
+<STAGE>Sung by several.</STAGE>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>Oh, how delightfull is Love, and how strong,</L>
+<L>When Beauty and Virtue are joyn'd in the young.</L>
+<L><STAGE>Chorus.</STAGE>
+Oh how, <HI>&amp;c.</HI></L>
+<L>When, <HI>&amp;c.</HI></L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>The flashes of Vices intemperate joys,</L>
+<L>Are haunted with noise of Drunkards and Boys:</L>
+</SP>
+<SP>
+<SPEAKER>3.</SPEAKER>
+<L>And when the short blaze of Beauty decays,</L>
+<L>With spight and contempt on the ashes they gaze.</L>
+<L><STAGE>Chorus.</STAGE>
+Oh how, <HI>&amp;c.</HI></L>
+<L>When, <HI>&amp;c.</HI></L>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<L>For the ruine of Virtuous Beauties are still,</L>
+<L>Ador'd like old Temples where Deities dwell.</L>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<L>Fair Virtue keeps love still alive in the heart,</L>
+<L>When Age has o'recome Youth, Beauty and Art.</L>
+<STAGE>Chorus of all Voices and Instruments.</STAGE>
+<L>Oh how, <HI>&amp;c.</HI></L>
+<L>When, <HI>&amp;c.</HI></L>
+</SP>
+<STAGE>A Dance to this Chorus.</STAGE>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="epilogue">
+<PB REF="14"/>
+<HEAD><HI>Epilogue,</HI> spoken by a young Lady.</HEAD>
+<L>LIke cloister'd Nuns with virtuous zeal inspir'd,</L>
+<L>From publick noise, and vicious ease retir'd,</L>
+<L>Here we have all that's by the good admir'd.</L>
+<L>While thus the loosest of our time is spent,</L>
+<L>'Tis advantageous, sweet, and innocent.</L>
+<L>And when our thoughts to serious things are bent,</L>
+<L>One in rich works with lively colours tells</L>
+<L><HI>Lucretia</HI>'s Rape, or mourning <HI>Philomels:</HI></L>
+<L>Each chast beholder sighs and drops a tear,</L>
+<L>To burn the well-wrought Silk they scarce forbear,</L>
+<L>So sad and moving does the work appear:</L>
+<L>Oh that the Ravisher were here! one cries,</L>
+<L>Thus would I rend the bloudy Tyrant's eyes;</L>
+<L>Then for his crime some harmless Flower dyes,</L>
+<L>Whose falling head, as if indeed 'twere pain'd,</L>
+<L>Sheds dewie tears upon the murth'rers hand.</L>
+<L>Some Hero's praise in sacred Verse kept long,</L>
+<L>Another sings to th'Lute —</L>
+<L>While ev'ry string seems turn'd into a tongue,</L>
+<L>And sends soft ecchoes to the joyfull Song.</L>
+<L>Anothers diff'rent mind more pleasure takes,</L>
+<L>In various forms to mould the painted Wax;</L>
+<L>Such shape, such beauty in each piece is shown,</L>
+<L>Nature sits pale, or blushing on her own,</L>
+<L>To see her pride by curious Art out-done.</L>
+<L>While buzzing Infamy, with venom'd wing,</L>
+<L>Haunts clam'rous pleasures that in Cities ring,</L>
+<L>Thus we enjoy the sweets without the sting.</L>
+<L>When riper age with flatt'ring care's oppress'd,</L>
+<L>Toil'd with false joys, 'twill sadly be confess'd,</L>
+<L>Of all our lives these happy hours were best.</L>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>
+

@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="2">A poem dedicated to the memory of the Reverend and excellent Mr. Urian Oakes, the late pastor to Christ's flock and præsident of Harvard Colledge in Cambridge ...</TITLE><AUTHOR>Mather, Cotton, 1663-1728.</AUTHOR></TITLESTMT><EXTENT>Approx. 30 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2003-07 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A50154</IDNO>
+
+
+<IDNO TYPE="stc">Wing M1142</IDNO>
+
+<IDNO TYPE="stc">ESTC R31243</IDNO>
+
+<IDNO TYPE="eebo citation">11796594</IDNO>
+
+<IDNO TYPE="oclc">ocm 11796594</IDNO>
+
+<IDNO TYPE="vid">49323</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A50154)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 49323)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 1487:42)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="2">A poem dedicated to the memory of the Reverend and excellent Mr. Urian Oakes, the late pastor to Christ's flock and præsident of Harvard Colledge in Cambridge ...</TITLE><AUTHOR>Mather, Cotton, 1663-1728.</AUTHOR></TITLESTMT><EXTENT>[4], 16 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>Boston in New-England :</PUBPLACE>
+<PUBLISHER>Printed for John Ratcliff,</PUBLISHER>
+<DATE>1682.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>"Mather's first published work" cf. NUC pre-1956 imprints.</NOTE><NOTE>Imperfect: cropped with some loss of print.</NOTE><NOTE>Reproduction of original in the Harvard University Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Oakes, Urian, 1631-1681.</TERM><TERM>American poetry-Colonial period, ca. 1660-1775.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2003-02</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2003-03</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2003-04</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2003-04</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2003-06</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A50154">
+<STC T="W">M1142</STC>
+<BIBNO T="oclc">11796594</BIBNO>
+<VID>49323</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<P>A POEM
+<HI>Dedicated to the Memory</HI>
+OF
+The Reverend and Excellent
+Mr. <HI>VRIAN OAKES</HI>
+the late Pastor to Christ's Flock,
+and Praesident of Harvard-Colledge,
+<HI>in Cambridge▪</HI></P>
+<P>Who was gathered to his People on 25<SUP>d</SUP> 5<SUP>mo</SUP> 16<GAP DESC="illegible" REASON="page cropped" EXTENT="2 letters" DISP="••"/>
+In the fifty'th Year of his Age.</P>
+<BIBL>1 Sam. 25. 1.</BIBL>
+<Q>And SAMUEL dyed, an<GAP DESC="illegible" REASON="page cropped" EXTENT="1 letter" DISP="•"/>
+the Israelites were gathered together, and Lame<GAP DESC="illegible" REASON="page cropped" EXTENT="4 letters" DISP="••••"/>
+him.</Q>
+<Q><L>Scindentur Vestes, Gemmae frangentur, et Aurum</L>
+<L>Carmina quam tribuunt Fama perennis erit.</L></Q>
+<BIBL>O<GAP DESC="illegible" REASON="page cropped" EXTENT="1 span" DISP="〈…〉"/></BIBL>
+<Q><L>Magna dabit qui magna potest; mihi parva potent<GAP DESC="illegible" REASON="page cropped" EXTENT="1 letter" DISP="•"/></L>
+<L>Parva{que} poscenti, parva dedisse sat est.</L></Q>
+<BIBL><GAP DESC="illegible" REASON="page cropped" EXTENT="1 span" DISP="〈…〉"/></BIBL>
+<P>BOSTON IN NEW-ENGLAND,
+<HI>Printed for</HI> Iohn Ratcliff. 1682.</P>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="2" MS="y"/>
+<PB REF="2"/>
+<HEAD>TO THE
+READER</HEAD>
+<LG>
+<L>WOrthies <HI>to</HI> Praise <HI>is a</HI> Praise-worthy thing</L>
+<L>Christ <HI>did it; and will do it! And to Sing▪</HI></L>
+<L><HI>The</HI> Elogyes <HI>of Saints departed in</HI></L>
+<L><HI>The</HI> Rhythm <HI>of</HI> Elegyes, <HI>has alwayes been</HI></L>
+<L><HI>Esteemed</HI> Reason! David <HI>bids me</HI> go</L>
+<L><HI>My Christian Reader! and like him</HI> do so.</L>
+</LG>
+<LG>
+<L><HI>Cotton</HI> Embalms great <HI>Hooker; Norton</HI> Him▪</L>
+<L>And <HI>Norton</HI>'s Herse do's <HI>Poet-Wilson</HI> trim</L>
+<L>With Verses: <HI>Mitchel</HI> writes a Poem on</L>
+<L>The Death of <HI>Wilson;</HI> And when <HI>Mitchel</HI>'s gone▪</L>
+<L><HI>Shepard</HI> with fun'ral Lamentations gives</L>
+<L>Honour to Him: and at his Death receives</L>
+<L>The like from the <HI>[like-Maro]</HI> Lofty Strain</L>
+<L>Of admirable <HI>Oakes!</HI> I should be vain</L>
+<L>To thrust into that gallant <HI>Chorus:</HI> Pride</L>
+<L>Ne'er made mee such an <HI>Icharus:</HI> I cry'd</L>
+<L>Of <HI>good Exemples [Ahimaaz</HI> his Thought]</L>
+<L><HI>How if I should run after them?</HI> And brought</L>
+<L>These as a <HI>Pattern,</HI> and a <HI>Plea</HI> for what</L>
+<L>I do; that my cross Reader blame me not.</L>
+</LG>
+<LG>
+<L>But why so <HI>late?</HI> my <HI>Naenia's</HI> some will deem</L>
+<L>Both out of <HI>Time,</HI> and <HI>Tune!</HI> To some I seem</L>
+<L><HI>Grief</HI>'s <HI>Resurrection</HI> to essay; and bee</L>
+<L>Iust like the <HI>Trojans</HI> who came late to see</L>
+<L><PB REF="3"/>And sorrow with <HI>Tiberius!</HI>—Only this</L>
+<L>Shall be Reply'd! The fond <HI>Bookseller</HI> is</L>
+<L>Now guilty of this Paper's <HI>ravishment</HI></L>
+<L>When long supprest: Give him thy Discontent!</L>
+<L>Since <HI>Oakes</HI> (as <HI>Homer)</HI> has all Places <HI>Claim▪</HI></L>
+<L>Let <HI>Boston</HI> too forget its <HI>Anagram!</HI></L>
+</LG>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="1" REF="3"/>
+<HEAD>Memoirs
+of the Life and Worth▪
+Lamentations
+for the Death, and Loss
+of
+the every way admirable
+Mr. VRIAN OAKES.</HEAD>
+<LG>
+<L>WEep with me, Reader! Never <HI>Poet</HI> had</L>
+<L>His Quill employ'd upon a <HI>Theme</HI> so sa<GAP DESC="illegible" REASON="page cropped" EXTENT="1 letter" DISP="•"/></L>
+<L>As what just Providence (Grief <HI>grumble</HI> not)</L>
+<L>Do's with black <HI>Warrant Press</HI> mee to! O what?</L>
+<L>This! <HI>OAKES is dead!</HI> One of the bittrest <HI>Pil<GAP DESC="illegible" REASON="page cropped" EXTENT="1 letter" DISP="•"/></HI></L>
+<L>(Compounded of <HI>three Monosyllables)</HI></L>
+<L>That could have been dispensed! <HI>Absalom</HI></L>
+<L>Sure felt not more <HI>Distress, Death, Danger,</HI> come</L>
+<L>With the <HI>three Darts</HI> of <HI>Ioab!</HI>—</L>
+<L>Blest <HI>Shade!</HI> an <HI>Vniversal Tax</HI> of Sorrow</L>
+<L>Thy Country ows thee! Ah! we need not borrow</L>
+<L>The <HI>Praefica's:</HI> Say, <HI>Oakes is dead!</HI> and there!</L>
+<L>There is enough to squeese a briny Tear</L>
+<L>From the most flinty <HI>Flint:</HI> Once at the <HI>Blow</HI></L>
+<L>Of <HI>Moses,</HI> from a <HI>Rock</HI> a <HI>Stream</HI> did flow;</L>
+<L>But look! th' <HI>Almightye</HI>'s <HI>Rod</HI> now smites us home</L>
+<L>Oh! what <HI>Man</HI> won't a <HI>Mourner</HI> now become?</L>
+<L><PB N="2" REF="4"/>Dear Saint! I cannot but thy Herse bedew</L>
+<L>With dropping of some <HI>Fun'ral Tears!</HI> I Rue</L>
+<L>Thy Death! I must, <HI>My Father! Father!</HI> say,</L>
+<L>Our Chariots and our Horsemen where are they?</L>
+<L>I the <HI>dumb Son</HI> of <HI>Craesus</HI> 'fore mine Eyes</L>
+<L>Have sett, and will <HI>cry</HI> when my <HI>Father</HI> dyes.</L>
+<L>Oh! but a <HI>Verse</HI> to wait upon thy Grave,</L>
+<L>A <HI>Verse</HI> our <HI>Custome,</HI> and thy <HI>Friends</HI> will have:</L>
+<L>And must I <HI>brue</HI> my Tears? ah! shall I <HI>fetter</HI></L>
+<L>My Grief, by studying for to <HI>mourn</HI> in <HI>Metre?</HI></L>
+<L>Must too my <HI>cloudy</HI> Sorrows <HI>rain</HI> in <HI>Tune,</HI></L>
+<L>Distilling like the softly Showrs of <HI>Iune?</HI></L>
+<L>Alas! My <HI>Ephialtes</HI> takes me! See't!</L>
+<L>I strive to <HI>run,</HI> but then I want my <HI>feet.</HI></L>
+<L>What shall I do? Shall I go invocate</L>
+<L>The <HI>Muses</HI> to mine aid? No▪ That I hate!</L>
+<L>The sweet <HI>New-England-Poet</HI> rightly said,</L>
+<L>It is a most Vnchristian Vse and Trade</L>
+<L>Of some that Christians would be thought. <HI>If I</HI></L>
+<L>Call'd Help, the <HI>Muses</HI> mother <HI>Memory</HI></L>
+<L>Would be enough: He that <HI>Remembers</HI> well</L>
+<L>The <HI>Vse</HI> and <HI>Loss</HI> of <HI>Oakes,</HI> will grieve his fill.</L>
+<L>Ih'd <HI>rather</HI> pray, that Hee, in whose just <HI>Eyes</HI></L>
+<L><HI>The Death</HI> of his dear <HI>Saints</HI> most <HI>preciose is,</HI></L>
+<L>And Hee who helped <HI>David</HI> to bewail</L>
+<L>His <HI>Ion'than,</HI> would not my Endeavours fail.</L>
+<L>A sprightly <HI>Effort</HI> of <HI>Poetick Fire</HI></L>
+<L>Would e'en Transport mee to a mad Desire:</L>
+<L>How could I wish, Oh! that the nimble <HI>Sun</HI></L>
+<L>Of thy short Life before thy Day was done</L>
+<L><PB N="3" REF="4"/>Might <HI>backward Ten Degrees</HI> have moved! or</L>
+<L>Oh! that thy <HI>Corps</HI> might but have chanced for</L>
+<L>To have been buried near <HI>Elisha</HI>'s <HI>bones!</HI></L>
+<L>Oh! that the Hand which rais'd the <HI>Widows Sons</HI></L>
+<L>Would give thee to thy Friends again! But, Fy!</L>
+<L>That Passion's vain! To sob, <HI>Why didst thou dy?</HI></L>
+<L>Is but an <HI>Irish Note:</HI> Death won't Restore</L>
+<L>His <HI>Stolen Goods</HI> till Time shall be no more.</L>
+<L>Shall I take what a <HI>Prologue Homer</HI> hath</L>
+<L>Lett mee Relate the Heavenly Powers Wrath?</L>
+<L>Or shall I rather join with <HI>Ieremie,</HI></L>
+<L>And o're our great and good <HI>Iosiah</HI> sigh,</L>
+<L>O that my Head were waters, and mine Eyes</L>
+<L>A fountain were, that Hadadrimmon's Cryes</L>
+<L>Might bubble from mee! O that Day and Night</L>
+<L>For the Slain of my People weep I might!</L>
+<L>Ah! why delay I? Reader, step with mee,</L>
+<L>And what is for thee on <HI>Grief</HI>'s <HI>Table</HI> see</L>
+<L>Memoria Praeteritorum <HI>is</HI></L>
+<L>The <HI>Dish</HI> I call thee to: Come taste of this.</L>
+<L><HI>Oakes vvas!</HI> Ah! miserable word! But what</L>
+<L><HI>Hee vvas,</HI> Let Never, Never be forgot.</L>
+<L>Beleeve mee once, It were a worthy thing</L>
+<L>Of's <HI>Life</HI> and <HI>Worth</HI> a large Account to bring</L>
+<L>To publick <HI>Vievv,</HI> for general <HI>Benefit.</HI></L>
+<L>I would essay (with Leave, Good Reader) it,</L>
+<L>So far as <HI>feet</HI> will carry mee▪ but know it</L>
+<L>From first to last, <HI>Grief never made good Poet.</HI></L>
+<L>Hee that <HI>lasht</HI> with a <HI>Rod</HI> could <HI>versify,</HI></L>
+<L>Attain'd, and could pretend far more than I!</L>
+<L><PB N="4" REF="5"/><HI>Short</HI> was thy <HI>Life!</HI> Sweet Saint! &amp; quickly run</L>
+<L>Thy <HI>Race!</HI> Thy Work was, oh! how quickly done!</L>
+<L>Thy <HI>Dayes</HI> were <HI>(David</HI>'s <HI>measure)</HI> but a <HI>Span;</HI></L>
+<L><HI>Five Tens</HI> of Years roll'd since thy Life began.</L>
+<L>Thus I remember a <HI>Greek Poet</HI> Rhimes,</L>
+<L>They whom God Loves are wont to dy betimes.</L>
+<L>Thus <HI>Whit<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>ker, Perkins, Preston,</HI> Men of Note,</L>
+<L>Ay! many such, Never to <HI>fifty</HI> got.</L>
+<L>And thus <HI>(Rachel</HI> New-England!) many Seers</L>
+<L>Have left us in the <HI>akme</HI> of their Years.</L>
+<L>Good Soul! Thy <HI>Iesus</HI> who did for thee <HI>dy,</HI></L>
+<L>In Heaven longed for thy <HI>Company.</HI></L>
+<L>And let thy <HI>Life</HI> be measur'd by thy <HI>Deeds,</HI></L>
+<L>Not by thy <HI>Years;</HI> Thy <HI>Age</HI> strait nothing needs.</L>
+<L>Divert, My Pen! Run through the <HI>Zodiac</HI></L>
+<L>Of <HI>Oakes</HI> his <HI>Life:</HI> And cause I knowledge lack</L>
+<L>Of most Occurrents, let mee now and then</L>
+<L>Snatch at a Passage worthy of a Pen.</L>
+<L><HI>Our Mother</HI> England, <HI>ev'n a</HI> Village <HI>there</HI></L>
+<L>(Fuller, <HI>insert it!) did this</HI> Worthy <HI>bear.</HI></L>
+<L><HI>Over the</HI> Ocean <HI>in his</HI> Infancy</L>
+<L>His Friends with him into <HI>New-England</HI> fly:</L>
+<L><HI>Here, while a lad, almost a</HI> miracle</L>
+<L>(As I have heard his Aged Father tell)</L>
+<L>Sav'd him from <HI>drowning</HI> in a River: Hee</L>
+<L><HI>Would (guess) a</HI> Miracle <HI>and</HI> Moses <HI>bee.</HI></L>
+<L><HI>Now did</HI> Sweet Nature <HI>in him so appear</HI></L>
+<L><HI>A</HI> Gentlewoman <HI>once cry'd out,</HI> If ere</L>
+<L>Good Nature could bring unto Heaven, then</L>
+<L>Those wings would thither carry Vrian.</L>
+<L><PB N="5" REF="5"/><HI>Prompt</HI> Parts, <HI>and early</HI> Pitty now made</L>
+<L>Men say of him, what once observers said</L>
+<L><HI>Of great</HI> Iohn Baptist, <HI>and of</HI> Ambrose <HI>too,</HI></L>
+<L>To what an one will this strange Infant grow?</L>
+<L><HI>Her</HI> Light <HI>and</HI> Cup <HI>did happy</HI> Harvard <HI>give</HI></L>
+<L>Unto him; and from her he did receive</L>
+<L><HI>His</HI> Two Degrees: (<HI>A</HI> double Honour <HI>to</HI></L>
+<L><HI>Thee</HI> (Harvard! Own it!) <HI>did by this accrue!)</HI></L>
+<L>So being furnisht with due burnisht <HI>Tools</HI></L>
+<L><HI>The</HI> Armour <HI>and the</HI> Treasure <HI>of the</HI> Schools,</L>
+<L><HI>To</HI> Temple-work <HI>he goes: I need not tell</HI></L>
+<L><HI>How he an</HI> Hiram, <HI>or</HI> Bezaleel</L>
+<L>Did there approve himself; I'le only add</L>
+<L>Roxbury <HI>his</HI> first-fruits (first Sermon) <HI>had▪</HI></L>
+</LG>
+<LG>
+<L>Some things invite: Hee back to <HI>England</HI> goes;</L>
+<L>With God and Man hee there in favour growes;</L>
+<L>But whilst he lives in that Land, <HI>Tichfield cryes</HI></L>
+<L><HI>Come over, Sir, and help us!</HI> He complyes:</L>
+<L>The <HI>Starr</HI> moves thither! There the <HI>Orator</HI></L>
+<L>Continu'd charming sinful mortals for</L>
+<L>To close with a sweet Jesus: Oh! he woo'd,</L>
+<L>He Thundred: Oh! for their eternal good</L>
+<L>How did he bring the <HI>Promises,</HI> and how</L>
+<L>Did he discharge flashes of <HI>Ebal?</HI> Now</L>
+<L>Hee held Love's <HI>golden Scepter</HI> out before</L>
+<L>The Humble Soul; Now made the <HI>Trumpet</HI> roar</L>
+<L>Fire, Death, and Hell against Impenitent</L>
+<L>Desp'rates, untill hee made their hearts relent.</L>
+<L><PB N="6" REF="6"/>There did hee merit <HI>Sibs</HI>'s Motto, <HI>I</HI></L>
+<L>Iust like a Lamp, with lighting others dy.</L>
+<L>Ah! like a <HI>Silk-worm,</HI> his own <HI>bowels</HI> went</L>
+<L>To serve his Hearers, while he soundly spent</L>
+<L>His <HI>Spirits</HI> in his Labours. O but there</L>
+<L>He must not dy (except <HI>Death Civil)</HI> Here</L>
+<L>(Why mayn't we Sigh it! here dark <HI>Bartholmew</HI></L>
+<L>This gallant and heroic <HI>Witness</HI> slew.</L>
+<L><HI>Silenc't</HI> he was! not <HI>buried</HI> out of sight!</L>
+<L>A worthy <HI>Gentleman</HI> do's him invite</L>
+<L>Unto him; and like <HI>Obadiah,</HI> hide</L>
+<L>Him, dear to them with whom he did reside,</L>
+<L>Finding his <HI>Prayers</HI> and <HI>Presence</HI> to produce</L>
+<L>An <HI>Obed-Edom</HI>'s blessing on the House.</L>
+<L>A <HI>Spirit of great Life from God</HI> do's enter</L>
+<L>Within a while into him: Hee do's venture</L>
+<L>To <HI>stand upon</HI> his <HI>feet:</HI> Hee prophesy's;</L>
+<L>And to a <HI>Congregation Preacher</HI> is,</L>
+<L>Join'd with a loving <HI>Collegue;</HI> who will not</L>
+<L>Be buried, till <HI>Symmons</HI> be forgot.</L>
+</LG>
+<LG>
+<L>But our <HI>New-England Cambridge</HI> wants him, and</L>
+<L>Sighs, "<HI>Of my Sons</HI> none takes me by the hand,</L>
+<L>"Now <HI>Mitchel</HI>'s gone! Oh! where's his parallel?</L>
+<L>"Call my Child <HI>Vrian!</HI> Friendly Strangers tell</L>
+<L>"An <HI>OAKE</HI> of my own breed in <HI>England</HI> is,</L>
+<L>"That will support mee Pillar-like; and this</L>
+<L>"Must be resolv'd; I'le <HI>Pray</HI> and <HI>Send!</HI> Agreed!</L>
+<L>Messengers go! and calling <HI>Council,</HI> speed!</L>
+<L><PB N="7" REF="6"/>The good <HI>Stork</HI> over the <HI>Atlantic</HI> came</L>
+<L>To nourish and cherish his Aged <HI>Dam.</HI></L>
+</LG>
+<LG>
+<L>Welcome! great Prophet! to <HI>New-England</HI> shore!</L>
+<L>Thy <HI>feet</HI> are <HI>beautiful!</HI> A number more</L>
+<L>Of Men like thee with us would make us say,</L>
+<L>The <HI>Moral</HI> of <HI>More</HI>'s fam'd <HI>Vtopia</HI></L>
+<L>Is in <HI>New-England!</HI> yea, (far greater!) wee</L>
+<L>Should think wee <HI>Twisse</HI>'s <HI>guess</HI> accomplisht see,</L>
+<L>When New Ierusalem comes down, the Seat</L>
+<L>Of it, the wast <HI>America</HI> will bee't.</L>
+<L><HI>Cambridge!</HI> thy Neighbours must congratulate</L>
+<L>Thy Fate! Oh! where can thy <HI>Triumvirate</HI></L>
+<L>Meet with its Mate? A <HI>Shepard! Mitchel!</HI> then</L>
+<L>An <HI>Oakes!</HI> These <HI>Chrysostoms,</HI> these <HI>golden Men,</HI></L>
+<L>Have made thy <HI>golden Age!</HI> That fate is thine</L>
+<L>(To bee blest with the Sun's perpetual Shine)</L>
+<L>What <HI>Sylvius</HI> sais of <HI>Rhodes.</HI> Sure thou mayst call</L>
+<L>Thy Name <HI>Capernaum!</HI> But oh! the <HI>fall</HI></L>
+<L>Of that enlightened Place wee'l humbly pray</L>
+<L>Dear Lord! Keep <HI>Cambridge</HI> from it!—</L>
+<L>But Quill! where fly'st thou? Let the Reader know</L>
+<L><HI>Cambridge</HI> some years could this brite <HI>Iewel</HI> show,</L>
+<L>Yet here a <HI>Quartane Ague</HI> does arrest</L>
+<L>The Churches Comfort, &amp; the Countryes Rest.</L>
+<L>But this (Praise Mercy) found some <HI>Ague-frighter,</HI></L>
+<L>Hee mends, and his Infirmity grows lighter,</L>
+<L>Ev'n that his dear <HI>Orestes</HI> smil'd, <HI>So small</HI></L>
+<L>Your Illness, you'd as good have none at all.</L>
+<L><PB N="8" REF="7"/>Well! the poor Colledge faints! <HI>Harvard</HI> almost</L>
+<L>(An <HI>Amnesty</HI> cryes'<HI>st!)</HI> gives up the ghost!</L>
+<L>The <HI>branches</HI> dwindle! But an <HI>OAK</HI> so near</L>
+<L>May cherish them! 'T was done! The gloomy fear</L>
+<L>Of a <HI>lost Colledge</HI> was dispell'd! The Place,</L>
+<L>The Learning, the Discretion, and the Grace</L>
+<L>Of that <HI>great Charles,</HI> who long since slept &amp; dy'd</L>
+<L>Lov'd, and Lamented, worthy <HI>Oakes</HI> supply'd.</L>
+<L>His <HI>Nurse</HI> he <HI>suckles;</HI> and the <HI>Ocean</HI> now</L>
+<L>Refunds what th' <HI>Earth</HI> in <HI>Rivers</HI> did bestow.</L>
+<L><HI>Pro Tempore</HI> (a sad <HI>Prolepsiis)</HI> was</L>
+<L>For a long time his <HI>Title;</HI> but just as</L>
+<L>Wee had obtain'd a long'd for Alteration,</L>
+<L>And fixt him in the <HI>Praesident</HI>'s firm Station,</L>
+<L>The wrath of the Eternal wields a blow</L>
+<L>At which my Pen is gastred!—</L>
+<L>But Up!—Lord! wee're undone!—Nay! Up! and Try!</L>
+<L>Heart! Vent thy <HI>grief!</HI> Ease <HI>Sorrow</HI> with a <HI>Sigh!</HI></L>
+<L>Lett's hear the matter! Write <HI>de Tristibus!</HI></L>
+<L>Alas! Enough!—<HI>Death hath bereaved us!</HI></L>
+<L>The <HI>Earth</HI> was parch't with horrid <HI>heat:</HI> We fea'rd</L>
+<L>The <HI>blasts</HI> of a Vast <HI>Comet's flaming Beard.</HI></L>
+<L>The dreadful <HI>Fire</HI> of Heaven inflames the <HI>blood</HI></L>
+<L>Of our <HI>Elijah</HI> carrying him to God.</L>
+<L>Innumerable <HI>Sudden Deaths</HI> abound!</L>
+<L>Our <HI>OAKES</HI> a <HI>Sudden blow</HI> laid on the ground,</L>
+<L>And gives him blessed <HI>Capel</HI>'s wish, which the</L>
+<L>Letany <HI>prayes'gainst,</HI> To dy Suddenlie.</L>
+<L><PB N="9" REF="7"/>The Saints hope to have the <HI>Lord's Table</HI> spread;</L>
+<L>But with astonishment they find him <HI>dead</HI></L>
+<L>That us'd to <HI>break</HI> the <HI>Bread of Life:</HI> O wee</L>
+<L>Deprived of our <HI>Ministers</HI> often bee</L>
+<L>At such a <HI>Season.</HI> Lord, thy Manna low</L>
+<L>In our blind Eyes we fear is wont to go!</L>
+<L>The <HI>Man of God</HI> at the first <HI>Touch</HI> do's feel</L>
+<L>[With a <HI>Praesage]</HI> his Call to Heavens weal;</L>
+<L>Hee sits himself for his <HI>last Conflict;</HI> Saw</L>
+<L>The ghastly <HI>King of Terrors</HI> Icy claw;</L>
+<L>Ready to grapple with him; then he gives</L>
+<L>A Look to him who <HI>dy'd and ever lives;</HI></L>
+<L>The great <HI>Redeemer</HI> do's <HI>disarm</HI> the <HI>Snake;</HI></L>
+<L>And by the Hand his faithful <HI>Servant</HI> take,</L>
+<L>Leading him thorow <HI>Death's black Valley,</HI> till</L>
+<L>Hee brings him in his arms to <HI>Zion's Hill.</HI></L>
+<L>Fall'n Pillar of the Church! This <HI>Thy</HI> Translation</L>
+<L>Has turn'd our Joyes into this <HI>Lamentation!</HI></L>
+<L>Sweet Soul! Disdaining any more to <HI>trade</HI></L>
+<L>With <HI>fleshly Organs,</HI> that a <HI>Prison</HI> made,</L>
+<L>Thou'rt flown into the <HI>World of Souls,</HI> and wee</L>
+<L>Poor, stupid Mortals lose thy Companie.</L>
+<L>Thou join'st in Consort with the Happy <HI>gone,</HI></L>
+<L>Who (happ'er than <HI>Servants of Solomon)</HI></L>
+<L>Are standing round the Lamb's illustrious Throne</L>
+<L>Conversing with great <HI>Isr'el's-Holy-One.</HI></L>
+<L>Now could I with good old <HI>Grynaeus</HI> * say</L>
+<L>"Oh! that will be a bright and gloriose Day,</L>
+<L>"When I to that Assembly come; and am</L>
+<L>"Gone from a world of guilt, filth, sorrow, shame!</L>
+<L><PB N="10" REF="8"/>I read how Swan-like <HI>Cotton</HI> joy'd in Thought,</L>
+<L>That unto <HI>Dod,</HI> and such he should be brought.</L>
+<L>How <HI>Bullinger</HI> deaths grim looks could not fright</L>
+<L>Because twould bring him to the <HI>Patriarchs</HI> Sight.</L>
+<L>(Well might it be so! <HI>Heathen Socrates</HI></L>
+<L>In hopes of <HI>Homer,</HI> Death undaunted sees.)</L>
+<L>Who knows but the Third Heaven may sweeter be</L>
+<L>Thou <HI>Citizen</HI> of it! (dear <HI>Oakes!)</HI> for thee?</L>
+<L>Sure what of <HI>Calvin Beza</HI> said; and what</L>
+<L>Of thy forerunner <HI>Mitchel, Mather</HI> wrote,</L>
+<L>I'le truly add, <HI>Now</HI> Oakes <HI>is dead, to mee</HI></L>
+<L>Life will less sweet, and Death less bitter bee.</L>
+<L>Lord! Lett us follow!—</L>
+</LG>
+<LG>
+<L>Nay! Then, Good Reader! Thou and I must try</L>
+<L>To <HI>Tread</HI> his <HI>Steps!</HI> Hee walk't <HI>Exemplar'ly!</HI></L>
+<L><HI>Plato</HI> would have none to be prais'd, but those</L>
+<L>Whose <HI>Praises profitable</HI> wee suppose:</L>
+<L>Oh! that I had a <HI>ready Writer's Pen,</HI></L>
+<L>(If not <HI>Briareus hundred Hands!)</HI> and then</L>
+<L>I might limn forth a <HI>Pattern.</HI> Ah! his own</L>
+<L>Fine <HI>Tongue</HI> can his <HI>own worth Describe</HI> alone</L>
+<L>That's it I want; and poor I! Shan't I show</L>
+<L>Like the man, whom <HI>an Hero hired to</HI></L>
+<L>Forbear his Verses on him! <HI>Yet a</HI> lame</L>
+<L><HI>Mephibosheth</HI> will scape a <HI>David</HI>'s blame.</L>
+</LG>
+<LG>
+<L>Well! Reader! Wipe thine Eyes! &amp; see the <HI>Man</HI></L>
+<L>(Almost too <HI>small</HI> a word!) which <HI>Cambridge</HI> can</L>
+<L><PB N="11" REF="8"/>Say, I have lost! In <HI>Name</HI> a <HI>Drusius,</HI></L>
+<L>And <HI>Nature</HI> too! yea a compendious</L>
+<L>Both <HI>Magazine of worth,</HI> and Follower</L>
+<L>Of all that ever great and famose were.</L>
+<L>A <HI>great Soul</HI> in a <HI>little Body.</HI> (Add!</L>
+<L>In a small <HI>Nutshell</HI> Graces <HI>Iliad.)</HI></L>
+<L>How many <HI>Angels</HI> on a Needle's point</L>
+<L>Can stand, is thought, perhaps, a <HI>needless Point▪</HI></L>
+<L><HI>Oakes</HI> Vertues too I'me at a loss to tell:</L>
+<L>In short, <HI>Hee was New-England</HI>'s <NOTE PLACE="marg">t <GAP DESC="illegible" REASON="page cropped" EXTENT="1 span" DISP="〈…〉"/></NOTE><HI>SAMUEL;</HI></L>
+<L>And had as many gallant Propertyes</L>
+<L>As ere an <HI>Oak</HI> had <HI>Leaves;</HI> or <HI>Argus Eyes.</HI></L>
+<L>A better <HI>Christian</HI> would a <HI>miracle</HI></L>
+<L>Be thought! From most he bore away the <HI>Bell</HI>!</L>
+<L><HI>Grace</HI> and <HI>good Nature</HI> were so purely mett</L>
+<L>In him, wee saw in <HI>Gold a Iewel</HI> sett.</L>
+<L>His very <HI>Name</HI> spake <HI>Heavenly;</HI> and Hee</L>
+<L><HI>Vir sui Nominis</HI> would alwayes bee.</L>
+<L>For a Converse with God; and holy frame,</L>
+<L>A <HI>Noah,</HI> and an <HI>Enoch</HI> hee became.</L>
+<L><HI>Vrian</HI> and <HI>George</HI> are Names aequivalent;</L>
+<L>Wee had <HI>Saint George,</HI> though other Places han't.</L>
+<L>Should I say more, like him that would extol</L>
+<L>Huge <HI>Hercules,</HI> my Reader'l on me fall</L>
+<L>With such a check; <HI>Who does dispraise him?</HI> I</L>
+<L>Shall say enough, if his <HI>Humility</HI></L>
+<L>Might be described. Witty <HI>Austin</HI> meant</L>
+<L>This the <HI>First, Second,</HI> and <HI>Third</HI> Ornament,</L>
+<L>Of a Right Soul, should be esteem'd. And so</L>
+<L>Our <HI>Second Moses,</HI> * Humble <HI>Dod,</HI> cry'd, <HI>Know,</HI></L>
+<L><PB N="12" REF="9"/>
+Iust as Humility mens Grace will bee,</L>
+<L>And so much Grace so much Humilitie.</L>
+<L>Ah! <HI>graciose Oakes,</HI> wee saw thee <HI>stoop;</HI> wee saw</L>
+<L>In thee the <HI>Moral</HI> of good <HI>Nature</HI>'s <HI>Law,</HI></L>
+<L>That the <HI>full Ears</HI> of <HI>Corn</HI> should <HI>bend,</HI> and grow</L>
+<L>Down to the ground: <HI>Worth would sit alwayes low.</HI></L>
+<L>And for a <HI>Gospel Minister,</HI> wee had</L>
+<L>In him a <HI>Pattern</HI> for our <HI>Tyro's;</HI> sad!</L>
+<L><HI>Their Head is gone:</HI> Who ever knew a greater</L>
+<L><HI>Student</HI> and <HI>Scholar?</HI> or beheld a better</L>
+<L><HI>Preacher</HI> and <HI>Praesident?</HI> Wee look't on him</L>
+<L>As <HI>Ierom</HI> in our (Hungry) <HI>Bethlechem;</HI></L>
+<L>A perfect <HI>Critic</HI> in <HI>Philology;</HI></L>
+<L>And in <HI>Theology</HI> a <HI>Canaan's Spy.</HI></L>
+<L>His <HI>Gen'ral Learning</HI> had no fewer <HI>Parts</HI></L>
+<L>Than the <HI>Encyclopaedia of Arts:</HI></L>
+<L>The old Say, <HI>Hee that something is in</HI> all,</L>
+<L><HI>Nothing's in</HI> any; Now goes to the wall.</L>
+<L>But when the <HI>Pulpit</HI> had him! there hee spent</L>
+<L>Himself as in his onely <HI>Element:</HI></L>
+<L>And there hee was an <HI>Orpheus:</HI> Hee'd e'en draw</L>
+<L>The <HI>Stones,</HI> and <HI>Trees: Austin</HI> cryes, <HI>If I saw</HI></L>
+<L>Paul in the Pulpit, of my Three Desires</L>
+<L>None of the least (to which my Soul aspires)</L>
+<L><HI>Would gratify'd and granted bee.</HI> Hee might</L>
+<L>Have come and seen't, when <HI>OAKES</HI> gave <HI>Cambridge</HI> Light.</L>
+<L><HI>Oakes</HI> an <HI>Vncomfortable Preacher</HI> was</L>
+<L>I must confess! Hee made us cry, <HI>Alass!</HI></L>
+<L>In sad <HI>Despair!</HI> Of what? Of <HI>ever seeing</HI></L>
+<L>A better Preacher while wee have a beeing.</L>
+<L><PB N="13" REF="9"/><HI>Hee!</HI> oh! <HI>Hee</HI> was, in <HI>Doctrine, Life,</HI> and all</L>
+<L>Angelical, <HI>and</HI> Evangelical.</L>
+<L>A <HI>Benedict</HI> and <HI>Boniface</HI> to boot,</L>
+<L>Commending of the <HI>Tree</HI> by noble <HI>Fruit.</HI></L>
+<L>All said, Our <HI>Oakes</HI> the <HI>Double Power</HI> has</L>
+<L>Of <HI>Boanerges,</HI> and of <HI>Barnabas:</HI></L>
+<L>Hee is a <HI>Christian Nestor!</HI> Oh! that wee</L>
+<L>Might him among us for <HI>three Ages</HI> see!</L>
+<L>But ah! Hee's gone to <HI>Sinus Abrahae.</HI></L>
+<L>What shall I say? Never did any spitt</L>
+<L><HI>Gall</HI> at this <HI>Gall-less, Guile-less Dove;</HI> nor yet</L>
+<L>Did any <HI>Envy</HI> with a cankred breath</L>
+<L>Blast him: It was I'me sure the gen'ral Faith,</L>
+<L><HI>Lett</HI> Oakes <HI>Bee, Say,</HI> or <HI>Do</HI> what e're he wou'd,</L>
+<L>If it were <HI>OAKES,</HI> it must be <HI>wise, <UNCLEAR>true</UNCLEAR>, good</HI></L>
+<L>Except the <HI>Sect'ryes Hammer</HI> might a blow</L>
+<L>Or two, receive from <HI>Anabaptists,</HI> who</L>
+<L>Never lov'd any Man, that wrote a Line</L>
+<L>Their naught, Church-rending Cause to under∣mine.</L>
+<L>Yett after my <HI>Encomiastick Ink</HI></L>
+<L>Is all run out, I must conclude (I think)</L>
+<L>With a <HI>Dicebam,</HI> not a <HI>Dixi!</HI> Yea,</L>
+<L>Such a course will exceeding proper bee:</L>
+<L>The <HI>Iews,</HI> whene're they build an <HI>House,</HI> do leave</L>
+<L>Some <HI>part Imperfect,</HI> as a call to <HI>grieve</HI></L>
+<L>For their <HI>destroy'd Ierus'lem!</HI> I'le do so!</L>
+<L>I do't!—</L>
+</LG>
+<LG>
+<L>And now let <HI>sable Cambridge</HI> broach her Tears!</L>
+<L>(They <HI>forfeit</HI> their own <HI>Eyes</HI> that don't; for here's</L>
+<L><PB N="14" REF="10"/>Occasion sad enough!) Your <HI>Sons</HI> pray call</L>
+<L>All <HI>Ichabod;</HI> and <HI>Daughters, Marah!</HI> Fall</L>
+<L>Dovvn into Sack-cloth, Dust, and Ashes! (To</L>
+<L>Bee senseless Now, Friends, Now! will be to show</L>
+<L>A <HI>CRIME</HI> &amp; <HI>BADG</HI> of <HI>Sin</HI> and <HI>Folly!) Try</HI></L>
+<L>Your <HI>fruitfulness</HI> under the Ministry</L>
+<L>Of that kind <HI>Pelican,</HI> vvho spent his <HI>Blood</HI></L>
+<L>The feed you! Dear <HI>Saints!</HI> Have ye got the Good</L>
+<L>You might? And let a <HI>Verse</HI> too <HI>find</HI> the Men</L>
+<L>Who <HI>fly'd a Sermon!</HI> Oh! Remember vvhen</L>
+<L>Sirs! your <HI>Ezekiel</HI> was like unto</L>
+<L>A <HI>lovely Song of</HI> (Been't <HI>deaf Adders</HI> you)</L>
+<L>One with a pleasant Voice! and that could play</L>
+<L><HI>Well on an Instrument!</HI> And i'n't the Day,</L>
+<L><GAP DESC="illegible" REASON="page cropped" EXTENT="1 letter" DISP="•"/>he gloriose Day, to dawn (ah! yet!) wherein</L>
+<L>You are drawn from the <HI>Egypt-graves</HI> of <HI>Sin</HI></L>
+<L>Compelled <HI>to come in?</HI> For shame come in!</L>
+<L>Nay! Join you all! <HI>Strive</HI> with a <HI>noble Strife,</HI></L>
+<L>To <HI>publish</HI> both in <HI>Print</HI> (as vvell as <HI>Life)</HI></L>
+<L>Your preciose Pastor's <HI>Works!</HI> Bring them to view</L>
+<L>That vvee may <HI>Honey</HI> tast, as vvell as you.</L>
+<L>But, Lord! What has thy <HI>Vineyard</HI> done, that thou</L>
+<L>Command'st the <HI>Clouds</HI> to rain no more? O shevv</L>
+<L>Thy favour to thy <HI>Candlestick!</HI> Thy <HI>Rod</HI></L>
+<L>Hath almost broke it: Lett a <HI>Gift of God,</HI></L>
+<L>Or a sincerely Heaven-touch't <HI>Israelite</HI></L>
+<L>Become a <HI>Teacher</HI> in thy Peoples sight</L>
+</LG>
+<LG>
+<L>At last I vvith <HI>License Poetical</HI></L>
+<L>(Reader! and thy good leave) address to all</L>
+<L><PB N="15" REF="10"/>The children of thy People! Oh! the <HI>Name</HI></L>
+<L>Of <HI>Vrian Oakes,</HI> Nevv-England! does proclame</L>
+<L><HI>SVRE I AN OAK</HI> was to thee! Feel thy Loss!</L>
+<L>Cry, <HI>(Why forsaken, Lord!)</HI> Under the Cross!</L>
+<L>Learn for to <HI>prize Survivers! Kings destroy</HI></L>
+<L>The People that <HI>Embassadors</HI> annoy.</L>
+<L>The Counsil of God's <HI>Herald,</HI> and thy <HI>Friend,</HI></L>
+<L>[Bee wise! Consider well thy latter End!]</L>
+<L>O lay to heart! Pray to the heavenly <HI>Lord</HI></L>
+<L><HI>Of th' Harvest,</HI> that (according to his Word)</L>
+<L>Hee vvould <HI>thrust forth his Labourers:</HI> For vvhy</L>
+<L>Should all thy <HI>Glory</HI> go, and <HI>Beauty</HI> dy</L>
+<L>Through thy default?—</L>
+<L>—Lord! from thy lofty Throne</L>
+<L>Look dovvn upon thy <HI>Heritage!</HI> Lett none</L>
+<L>Of all our <HI>Breaches</HI> bee unhealed! Lett</L>
+<L>This dear, poor Land be our <HI>Immanuel</HI>'s yett!</L>
+<L>Lett's bee a <HI>Goshen</HI> still! Restrain the <HI>Boar</HI></L>
+<L>That makes <HI>Incursions!</HI> Give us daily more</L>
+<L>Of thy All-curing <HI>Spirit</HI> from on High!</L>
+<L>Lett all thy <HI>Churches</HI> flourish! And supply</L>
+<L>The almost <HI>Twenty Ones,</HI> that thy Just Ire</L>
+<L>Has left <HI>without Help</HI> that their Needs require!</L>
+<L>Lett not the <HI>Colledge</HI> droop, and dy! O Lett</L>
+<L>The Fountain run! A <HI>Doctor</HI> give to it!</L>
+<L><HI>Moses</HI>'s are to th' <HI>upper Canaan</HI> gone!</L>
+<L>Lett <HI>Ioshua</HI>'s Succeed them! goes vvhen one room!</L>
+<L><HI>Elijah,</HI> raise <HI>Elisha's! Pauls</HI> become</L>
+<L><HI>Dissolv'd!</HI> vvith Christ! Send <HI>Tim'thees</HI> in their</L>
+<L><PB N="16" REF="11"/>Avert the <HI>Omen,</HI> that vvhen <HI>Teeth</HI> apace</L>
+<L>Fall out, No <HI>new ones</HI> should supply their place!</L>
+</LG>
+<LG>
+<L>Lord! Lett us <HI>Peace</HI> on this our <HI>Israel</HI> see!</L>
+<L>And still both <HI>Hephsibah,</HI> and <HI>Beulah</HI> bee!</L>
+<L>Then vvill thy People <HI>Grace!</HI> and <HI>Glory!</HI> Sing,</L>
+<L>And every Wood vvith <HI>Hallelujah's</HI> ring.</L>
+</LG>
+<CLOSER><SIGNED>N. R.</SIGNED>
+<POSTSCRIPT>
+<Q><L>Vixêre fortes ante Agamemnona</L>
+<L>Multi; sed illachrymabiles</L>
+<L>Vrgentur ignoti{que} longà</L>
+<L>Nocte; carent quia Vate sacro.</L>
+<BIBL>Hor.</BIBL></Q>
+<Q><L>Non ego cuncta meis amplecti Versibus opto.</L>
+<BIBL>Virg.</BIBL></Q>
+<Q><L>—Ingens laudato Poema:</L>
+<L><GAP DESC="illegible" REASON="damage" EXTENT="1 letter" DISP="•"/> legito!—</L>
+<BIBL>Call.</BIBL></Q>
+<Q><L><GAP DESC="illegible" REASON="damage" EXTENT="1 letter" DISP="•"/>ui legis ista, tuam reprehendo, si mea laudes</L>
+<L>Omnia, Stultitiam: Si nihil, Invidiam.</L>
+<BIBL>Owen.</BIBL></Q>
+<Q><L>Non possunt, Lector, multae emendare Liturae</L>
+<L>Versus hos nostros: Vna Litura potest.</L>
+<BIBL>Martial.</BIBL></Q>
+</POSTSCRIPT></CLOSER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="advertisement">
+<HEAD>Advertisement.</HEAD>
+<P>THere is to be sold by <HI>Iohn Browning,</HI> at
+the Corner of the <HI>Prison-Lane</HI> next the
+Tovvn-House, a Sermon of the late Reverend
+Mr. <HI>VRIAN OAKES,</HI> preached from <HI>Eccl.</HI> 9.
+11. Shevving that <HI>Fortune</HI> and <HI>Chance</HI> are infalli∣bly
+determined by God: By vvhich alone, it
+might appear that the <HI>Elogyes</HI> of him are not a vain
+<HI>Hyperbole;</HI> but as it were, the <HI>Eccho</HI> of those Words
+which his Works speak concerning Him.</P>
+<PB REF="11"/>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>
+

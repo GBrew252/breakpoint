@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="2">A vision concerning the mischievous seperation [sic] among Friends in Old England</TITLE><AUTHOR>Keith, George, 1639?-1716.</AUTHOR></TITLESTMT><EXTENT>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2006-02 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A47196</IDNO>
+
+
+<IDNO TYPE="stc">Wing K230</IDNO>
+
+<IDNO TYPE="stc">ESTC R13532</IDNO>
+
+<IDNO TYPE="eebo citation">12936900</IDNO>
+
+<IDNO TYPE="oclc">ocm 12936900</IDNO>
+
+<IDNO TYPE="vid">95769</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A47196)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 95769)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 717:24)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="2">A vision concerning the mischievous seperation [sic] among Friends in Old England</TITLE><AUTHOR>Keith, George, 1639?-1716.</AUTHOR><AUTHOR>Fox, George, 1624-1691.</AUTHOR></TITLESTMT><EXTENT>7 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>Philadelphia :</PUBPLACE>
+<PUBLISHER>Printed and sold by Will. Bradford,</PUBLISHER>
+<DATE>1692.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Signed, p. 5: G.F.</NOTE><NOTE>"Collected and arranged under this false title by George Keith, for an evil purpose, to pass off as George Fox's."--Smith, J. Friends' books, v. 2, 26.</NOTE><NOTE>"A general epistle against separation" [p. 5] has caption title.</NOTE><NOTE>Reproduction of original in Huntington Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Society of Friends --  England.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2005-05</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2005-09</DATE><RESPSTMT><RESP>SPi Global</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2005-10</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2005-10</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2006-01</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A47196">
+<STC T="W">K230</STC>
+<BIBNO T="oclc">12936900</BIBNO>
+<VID>95769</VID>
+</IDG>
+<TEXT>
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>A VISION Concerning The Mischievous Seperation AMONG FRIENDS IN Old England.</P>
+<P>Printed and Sold by <HI>Will. Bradford</HI> at <HI>Philadelphia,</HI> 1692.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="letter">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>A VISION Concerning The Mischievous Seperation, IN Old England</HEAD>
+<LETTER>
+<OPENER><SALUTE>Dear Friends &amp; Brethren,</SALUTE></OPENER>
+<P>AS I was at Prayer in my Chamber upon the twenty third Day of <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>he Twelfth Month, in the Year 1678. and making Inter<GAP DESC="illegible" EXTENT="2 letters" DISP="••"/>ssion to the Lord for Friends, his People, That the Lord would be pleased to preserve th<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>m from this Rough and Foul Spirit that was risen up; and the Lord did answer me in my Prayer▪ That this Spirit was risen up for the Tryal of hi<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> People, in the Life, and Light, and Power, and Grace, and Truth. And I saw more than can be expressed in words; for it was risen for to try them, and that they might keep in th<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> Power of the Lord, and in their Habitations.</P>
+<P><PB REF="3"/>And so, when the Lord hath tryed his People, and their singleness to him, and when this Spirit hath spent its Strength, and gone the Way of all that hath risen before it, Then they may see how all things work together for the good of them that love God. And therefore stand fast in the Liberty where-with Christ hath made you free, in his Light, Grace and Truth, and Power, and Spirit, and Faith, to Christ, from whence it comes, Christ your Rock and Foundation, that cannot be shaken, and in whom is your Election, Life and Salvation. So that all may stand to Christ their Lord and Master, to be ordered by him, with his glorious Gospel, which is not of Man, but from Heaven.</P>
+<P>For I saw all Friends as if they were bedewed from Heaven, and they sate as in a Valley, and wet with the Dew of Life; and the other hard dead Spirit was floating a top with the Words of Truth, which Spirit is for the Tryal of his People, of their standing singly in the Life, to God, upon their own Foun∣dation.</P>
+<P>So as I was at Prayer, the Lord answered me, That this Spirit of <HI>J. S. J. W.</HI> and their Company, were raised up for the Tryal of Friends, their stand∣ing to God; for it was High, and Friends were Low, in the Power and Spiri<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> of God, and wet with Dew and sate in the Valley, and will rise when
+<PB N="5" REF="3"/>
+their Height will fall; and therefore Friends are to stand to God.</P>
+<CLOSER><SIGNED>G. F.</SIGNED></CLOSER>
+</LETTER>
+</DIV1>
+<DIV1 TYPE="letter">
+<LETTER>
+<HEAD>A General EPISTLE AGAINST Seperation.</HEAD>
+<OPENER><SALUTE>Dear Friends and Brethren;</SALUTE></OPENER>
+<P>IN the Lord Jesus Christ, in whom you have all Peace and Life; and in him there is no Division, nor Schism, nor Rent, nor Strife, nor Seperation; for Christ is not divided, and there can be no Seperation in the Light, Grace, Faith and holy Ghost, but Unity, and Fellowship, and Communion; for the Devil was the first that went out of the Truth, and seperated fro<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> it, and tempted Man and Woman to disobey God, and to go from the Truth into a false Liberty, and to that which God forbad. And so, it is the Serpent now that leads Man and Woman into a false L<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>berty, the God of
+<PB REF="4"/>
+<GAP DESC="illegible" EXTENT="2 words" DISP="〈◊◊〉"/>, from which Man and Woman must be sepe∣rated by the Truth, and then for Christ the Truth to make them free, and then they are free indeed; and then they are to stand fast in the Liberty in which Christ hath made them free; and in him, as I said before, there is no Division, nor Schism, nor Rent, nor Seperation, but Peace, and Life, and Reconciliation to God, and one to another; so that in Christ Male and Female are all one; whether they be Male or Female, Jew or Gentile, Bond or Free, they are all one in Christ; and there can be no Schism, Rent or Division in him, nor in the Worship of God in his holy Spirit and Truth, nor in the pure undefiled Religion that keeps from the spots of the World, nor in the Love of God that beareth and en∣dureth all things, nor in the Word of Gods Grace; for it is pure, and endureth forever. Many, you see, have lost the Word of Patience, and the Word of Wis∣dom, that is pure, and peaceable▪ and gentle, and easie to be intreated; when they are gone from the <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ord of Patience, then we have seen their own Patience q<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ickly worn out, when they turn from the Word of Wisd<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>m that is pure, and peace<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>ble, and gentle, and easie to be intreated, then they run into the Wisdom that is below, that is earthly, sensual and devilish, and very uneasie to be entreated; they are gone from the Love of God that <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>eareth all things, and endureth all things, and thinketh no evil, and doth not behave it self unseemly; then they cannot bear, but grow brittle, and are easily provoked, and run into unseemly things and vaunteth it self, and is puffed up, and is Rash, Heady, High-minded and
+<PB N="7" REF="4"/>
+Fierce, and becomes like sounding Brass, or a Tinkling Simbal; and this is contrary to the Nature of the Love of God, which is kind, and endureth all things, and beareth all things.</P>
+<P>And therefore all <HI>Dear Friends</HI> and <HI>Brethren,</HI> dwell in the Love of God; for they who dwell in Love, dwell in God, and God in them, and keep in the Word of Wisdom, which is gentle, pure and peaceable, and the Word of Patience that endureth and beareth all things; and this Word of Patience the Devil, and the World and all his Instruments can never wear out, it will wear them all out, and was before they were, and will be when <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>hey are gone, the pure holy Word of God, by which all Gods Children are born again, and feed on the Milk of the Word of Life, and grow by it. And so my desires are, That you be all of one Heart, Mind, Soul and Spirit, in Christ Jesus. <HI>Amen.</HI></P>
+<CLOSER>You may Read this in your Monethly and Quarterly Meetings.
+<DATELINE><HI>Bednell Green,</HI> near <HI>London,</HI>
+<DATE><HI>the</HI> <GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>5. 10. <HI>Mo.</HI> 1686.</DATE></DATELINE></CLOSER>
+<TRAILER>THE END.</TRAILER>
+</LETTER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

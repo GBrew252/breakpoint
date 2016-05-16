@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">Trve nevves from Yorke consisting of severall matters of note, and high concernment since the 13 of Iune : concerning these severall heads, viz. : concerning 1. Sir Iohn Meldrun, 2. L. Marq. Hamilton, 3. Earl of Newcastle, 4. Earle of Warwick, 5. Lord Willoughbit, 6. Duke of Richmond, 7. L. Marq. Hertford, 8. Earle of Bristoll, 9. Lord Paget : whereunto is added newes from Ireland, viz. : concerning 1. E. of Antrime, 2. E. of Castlehaven, 3. Lord Conway, 4. Lord Digby : with a catalogue of the names of the lords that subscribed to levie hose to assist His Majestie in defence of of [sic] his royall person, the two Houses of Parliament, and the Protestant religion.</TITLE></TITLESTMT><EXTENT>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2003-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A63627</IDNO>
+
+
+<IDNO TYPE="stc">Wing T2847</IDNO>
+
+<IDNO TYPE="stc">ESTC R21800</IDNO>
+
+<IDNO TYPE="eebo citation">12684084</IDNO>
+
+<IDNO TYPE="oclc">ocm 12684084</IDNO>
+
+<IDNO TYPE="vid">65722</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A63627)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 65722)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 252:E153, no 15)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">Trve nevves from Yorke consisting of severall matters of note, and high concernment since the 13 of Iune : concerning these severall heads, viz. : concerning 1. Sir Iohn Meldrun, 2. L. Marq. Hamilton, 3. Earl of Newcastle, 4. Earle of Warwick, 5. Lord Willoughbit, 6. Duke of Richmond, 7. L. Marq. Hertford, 8. Earle of Bristoll, 9. Lord Paget : whereunto is added newes from Ireland, viz. : concerning 1. E. of Antrime, 2. E. of Castlehaven, 3. Lord Conway, 4. Lord Digby : with a catalogue of the names of the lords that subscribed to levie hose to assist His Majestie in defence of of [sic] his royall person, the two Houses of Parliament, and the Protestant religion.</TITLE></TITLESTMT><EXTENT>[8] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>Printed for M. T.,</PUBLISHER>
+<DATE>1642.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Reproduction of original in Thomason Collection, British Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Antrim, Randal MacDonnell, --  Earl of, 1609-1683.</TERM><TERM>Bristol, George Digby, --  Earl of, 1612-1677.</TERM><TERM>Bristol, John Digby, --  Earl of, 1580-1654.</TERM><TERM>Castlehaven, James Touchet, --  Earl of, 1617?-1684.</TERM><TERM>Hamilton, James Hamilton, --  Duke of, 1606-1649.</TERM><TERM>Lennox, James Stuart, --  Duke of, 1612-1655.</TERM><TERM>Meldrum, John, --  Sir, d. 1645.</TERM><TERM>Newcastle, William Cavendish, --  Duke of, 1592-1676.</TERM><TERM>Paget, William Paget, --  Baron, 1609-1678.</TERM><TERM>Somerset, William Seymour, --  Duke of, 1588-1660.</TERM><TERM>Warwick, Robert Rich, --  Earl of, 1587-1658.</TERM><TERM>Conway of Conway Castle, Edward Conway, --  Viscount, 1594-1655.</TERM><TERM>Willoughby of Parham, Francis Willoughby, --  Baron, 1613?-1666.</TERM><TERM>Great Britain --  History --  Charles I, 1625-1649.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2000-00</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2001-11</DATE><RESPSTMT><RESP>SPi Global</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2002-01</DATE><RESPSTMT><RESP>TCP Staff (Michigan)</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2002-01</DATE><RESPSTMT><RESP>TCP Staff (Michigan)</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2002-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A63627">
+<STC T="W">T2847</STC>
+<BIBNO T="oclc">12684084</BIBNO>
+<VID>65722</VID>
+</IDG>
+<TEXT>
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1" MS="y"/>
+<P>TRVE NEVVES FROM YORKE. Consisting of severall Matters of Note, and High Concernment, since the 13. of <HI>Iune,</HI> concerning these severall heads, <HI>viz.</HI> CONCERNING 1. Sir <HI>Iohn Meldrun.</HI> 2. L. Marq. <HI>Hamilton.</HI> 3. Earle of <HI>Newcastle.</HI> 4. Earle of <HI>Warwick.</HI> 5. Lord <HI>Willoughbie.</HI> 6. Duke of <HI>Richmond.</HI> 7. L. Marq. <HI>Hertford.</HI> 8. Earle of <HI>Bristoll.</HI> 9. Lord <HI>Paget.</HI></P>
+<P>Whereunto is added Newes from <HI>Ireland.</HI> viz. CONCERNING 1. E. of <HI>Antrime.</HI> 2. E. of <HI>Castlehaven.</HI> 3. Lord <HI>Conway.</HI> 4. Lord <HI>Digby.</HI></P>
+<P>With a Catalogue of the Names of the Lords that Sub∣scribed to Levie Horse to Assist his Majestie in de∣fence of of His Royall person, the two Houses of Parliament, and the Protestant Religion.</P>
+<P><HI>London</HI> Printed for <HI>M. T.</HI> 1642.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="part">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>TRVE NEVVES FROM YORKE. Since Monday the thirteenth of Iune. <HI>1642.</HI></HEAD>
+<P>SIR <HI>Iohn Meldrun</HI> hath sent a Letter to the King, to advise Him to submit to the Parlia∣ment, and His Maiestie hath given <HI>Meldruns</HI> place to Ma∣ster <HI>Hilliard</HI> a Yorkeshire Gentleman that tooke Sir <HI>Iohn Hothams</HI> Ensigne.</P>
+<P>The Lord Marquesse <HI>Hammiltoun</HI> hath
+<PB REF="3"/>
+made a speech to the King to vindicate him∣selfe of the Iealousies that are and have been upon him, wherein he protests, not onely his owne loyaltie and fidelitie to His Maie∣stie, but undertakes with the ingagement of his person and Fortunes for all his Countrey men the Scots, that they are His Maiesties undoubted faithfull Subiects and Servants, and are and will be ready to lay downe their lives and fortunes for his Maiesty whenso∣ever he shall be pleased to command them, and they have sent an Admonition to the Parliament to agree and submit to their good King.</P>
+<P>The Earle of <HI>Newcastle</HI> is made Gover∣nour of <HI>Newcastle,</HI> and is now there in the Towne with a Troope of Horse, and a Re∣giment of Foote, consisting of 1200. The Earle of <HI>Warwick</HI> had a designe with three Ships to have surp<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>ized <HI>Newcastle</HI> and held it for the Par<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>iament</P>
+<P>The Lord <HI>Willoughby</HI> of <HI>Parham</HI> hath committed a M<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>ssenger of the Kings, that was <GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>ent with the Kings proclamat<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>on to the Maior of <HI>Linc<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>lne,</HI> and hath sent him
+<PB REF="3"/>
+with a Guard to the Parliament, and com∣manded the Maior to attend at <HI>Yorke.</HI></P>
+<P>The King and the Lords declare together the Lords having unanimiously resolved to defend the Kings person, and have there∣unto all of them set their hands, and are readie to raise a great Army, the Duke of <HI>Richmond</HI> an hundred Horse, the Lord Mar∣quesse <HI>Hertford</HI> an hundred Horse, and the rest of the Lords each of them forty or fifty Horse, being present above forty Lords at∣tending His Majestie. The Earle of <HI>Bristoll</HI> is come to <HI>Yorke,</HI> and the Lord <HI>Paget</HI> is come and hath begged His pardon, and is now all for the King, and will set forth a Declara∣tion how much he hath been abused. The King hath set forth a Narration, and hath sent Articles of Accomodation of his owne to the parliament, absolutely refusing theirs, he hath offered a generall pardon to all but nine, which are the five Members formerly impeached, and <HI>Hotham, Martin, Ludlowe,</HI> and <GAP DESC="illegible" REASON="faint" EXTENT="5 letters" DISP="•••••"/>worth.</P>
+</DIV1>
+<DIV1 TYPE="part">
+<PB REF="4"/>
+<HEAD>NEWES FROM IRELAND.</HEAD>
+<P>THat the Earle of <HI>Antrim</HI> is taken prisoner by the Scots, the Earle of <HI>Castlehaven</HI> commit∣ted at <HI>Dublin</HI> and charged with high Trea∣son, The Lord <HI>Conway</HI> being Martiall of <HI>Ireland</HI> is reported to be so poore a spirited man, that hee hath ioyned with the Scots, and put himselfe un∣der the command of Colonel <HI>Munroe,</HI> and it is much feared the English and Scots will fall toge∣ther by the Eares, for the Scots grow so insolent they are not to be endured.</P>
+<P>The Lord <HI>Digby</HI> of <HI>Ireland</HI> is dead, and honest <HI>Francis Palmes</HI> of a disease in <HI>Ireland</HI> that they fear is the plague, and our English are in all kind of wants that can be imagined.</P>
+<P>The Dutchesse of <HI>Buckingham</HI> is landed at <HI>Ches∣ter,</HI> and is comming to settle her selfe at a House of hers in <HI>Nottinghamshire.</HI></P>
+<P>The KING in His propositions of Accom∣madations doth declare that he will have the last Remonstarance taken out of the Parliament Rolls and disavowed to be the Act of both, or either, House of Parliament; That he will have the Par∣liament forthwith adjourned either to one of the Vniversities, or the Cities of <HI>Yorke, Bristoll, Win∣chester, Salisbury,</HI> or <HI>Coventry</HI>; and then he will sit with them. And that there be a time limited for the dispatch of all Businesse and a concluding
+<PB REF="4"/>
+of this Parliament. And His Majesty doth fur∣ther declare in another Declaration assented unto by the Lords here, that whosoever shall furnish the Parliament with Horse, Armes, or Money, they shall be proceeded against with all legall se∣verity, and that whosoever on the contrary shall fu<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>nish His Majesty with any of them for the per∣forming of the Peace of the Kingdome; His Ma∣j<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>sty will protect them, and repay them what th<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>y shall disburse by assurance out of His Parkes Houses, Lands, <HI>&amp;c.</HI></P>
+</DIV1>
+<DIV1 TYPE="catalogue">
+<HEAD>A Catalogue of the Names of the Lords that Subscri∣b<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>d to L<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>vie Horse to as<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>ist His Ma<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>estie in defence of His Royall Person, the two Houses of Parliament, and the Protestant Religion.</HEAD>
+<OPENER><DATELINE>Yorke <DATE>the 22. of June. 1642.</DATE></DATELINE></OPENER>
+<P>VVHereas it may be collected by severall Declarati∣ons printed in the name of both Houses of Parlia∣ment: That the Kings sacred person, the Houses of Parliament, the Protestant Religion, the Lawes of the Land, the L<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>berty and propriety of the Subject, and the priviledges of Parliament are all in danger.</P>
+<P>We whose names are under-written doe voluntarily offer and severally ingage our selves, according to the following Subscripti∣ons, to assist his Majesty in defence of his Royall Person, the two Houses of Parliament, the Protestant Religion, the Lawes of the Land, the Liberty and propriety of the Subject, and priviledges of Parliament, when his Majestie shall have given commission under the Great Seale, for levying of Forces for those purposes a∣gainst all power, levies and forces whatsoever, or to be raised, up∣on any pretence whatsoever:</P>
+<P><PB REF="5"/>To pay Horses for three Months, thirty dayes to the Month, at two shillings six pence <HI>per diem,</HI> still advanceing a Months pay, the first payment to begin so soon as the King shall call for it, af∣ter the Commissions shall be issued under the Great Seale. In this number are not to be reckoned the Horses of the Subscribers, or those that shall attend them.</P>
+<LIST>
+<LABEL></LABEL>
+<ITEM><HI>Horse</HI></ITEM>
+<LABEL>THe Prince</LABEL>
+<ITEM>200</ITEM>
+<LABEL>The Duke of Yorke</LABEL>
+<ITEM>120</ITEM>
+<LABEL>Lord Keeper</LABEL>
+<ITEM>40</ITEM>
+<LABEL>Duke of Richmond</LABEL>
+<ITEM>100</ITEM>
+<LABEL>Lo. Marquesse Hartford</LABEL>
+<ITEM>60</ITEM>
+<LABEL>Lo. <GAP DESC="illegible" REASON="faint" EXTENT="1 letter" DISP="•"/>reat Chamberline</LABEL>
+<ITEM>30</ITEM>
+<LABEL>Earle of Cumberland</LABEL>
+<ITEM>50</ITEM>
+<LABEL>Earle of H<GAP DESC="illegible" REASON="faint" EXTENT="2 letters" DISP="••"/>ington</LABEL>
+<ITEM>20</ITEM>
+<LABEL>Earle of Bath</LABEL>
+<ITEM>50</ITEM>
+<LABEL>Earle of Southampton</LABEL>
+<ITEM>60</ITEM>
+<LABEL>Earle of Dorset</LABEL>
+<ITEM>60</ITEM>
+<LABEL>Ear<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>e of Northampton</LABEL>
+<ITEM>40</ITEM>
+<LABEL>Earle of Deavonshire</LABEL>
+<ITEM>60</ITEM>
+<LABEL>Earle of Dover</LABEL>
+<ITEM>25</ITEM>
+<LABEL>Earle of Cambridge</LABEL>
+<ITEM>60</ITEM>
+<LABEL>Earle of Bristoll</LABEL>
+<ITEM>60</ITEM>
+<LABEL>Earle of Westmerland</LABEL>
+<ITEM>20</ITEM>
+<LABEL>E. of Barkshire &amp; L. Andover</LABEL>
+<ITEM>30</ITEM>
+<LABEL>Earle of Monmouth</LABEL>
+<ITEM>30</ITEM>
+<LABEL>Earle Rivers</LABEL>
+<ITEM>30</ITEM>
+<LABEL>Earle of Carnarvon</LABEL>
+<ITEM>20</ITEM>
+<LABEL>Earle of Newport</LABEL>
+<ITEM>50</ITEM>
+<LABEL>Lord Mowbray</LABEL>
+<ITEM>50</ITEM>
+<LABEL>Lord Willoughby</LABEL>
+<ITEM>30</ITEM>
+<LABEL>Lord Gray of Ruthin</LABEL>
+<ITEM>10</ITEM>
+<LABEL>Lord Lovelace</LABEL>
+<ITEM>40</ITEM>
+<LABEL>Lord Paget</LABEL>
+<ITEM>30</ITEM>
+<LABEL>Lo. Faulconbridge to come</LABEL>
+<ITEM></ITEM>
+<LABEL>Lord Rich</LABEL>
+<ITEM>30</ITEM>
+<LABEL>Lord Pawlet</LABEL>
+<ITEM>40</ITEM>
+<LABEL>Lord Newark</LABEL>
+<ITEM>30</ITEM>
+<LABEL>Lord Mauntague</LABEL>
+<ITEM>30</ITEM>
+<LABEL>Lord Coventrey</LABEL>
+<ITEM>100</ITEM>
+<LABEL>Lord Savill</LABEL>
+<ITEM>50</ITEM>
+<LABEL>Lord Mohun</LABEL>
+<ITEM>20</ITEM>
+<LABEL>Lord Dunsmor</LABEL>
+<ITEM>40</ITEM>
+<LABEL>Lord Seymor</LABEL>
+<ITEM>20</ITEM>
+<LABEL>Lord Capell</LABEL>
+<ITEM>100</ITEM>
+<LABEL>Lord Faulkland</LABEL>
+<ITEM>20</ITEM>
+<LABEL>Master Comptroller</LABEL>
+<ITEM>20</ITEM>
+<LABEL>Master Secretary Nicholas</LABEL>
+<ITEM>20</ITEM>
+<LABEL>Lo. chief Justice Banks.</LABEL>
+<ITEM>20</ITEM>
+</LIST>
+<P>The Lord Thanet is not here, but one hath undertaken a hun∣dred for him.</P>
+<P><HI>Sum. total.</HI> 1695.</P>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="5"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

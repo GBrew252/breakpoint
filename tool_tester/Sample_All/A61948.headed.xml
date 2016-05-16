@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="2">A letter from Sir John Suckling to Mr. Henry German, in the beginning of the late Long Parliament, anno 1640</TITLE><AUTHOR>Suckling, John, Sir, 1609-1642.</AUTHOR></TITLESTMT><EXTENT>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2003-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A61948</IDNO>
+
+
+<IDNO TYPE="stc">Wing S6132</IDNO>
+
+<IDNO TYPE="stc">ESTC R625</IDNO>
+
+<IDNO TYPE="eebo citation">11944932</IDNO>
+
+<IDNO TYPE="oclc">ocm 11944932</IDNO>
+
+<IDNO TYPE="vid">51306</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A61948)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 51306)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 516:8)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="2">A letter from Sir John Suckling to Mr. Henry German, in the beginning of the late Long Parliament, anno 1640</TITLE><AUTHOR>Suckling, John, Sir, 1609-1642.</AUTHOR></TITLESTMT><EXTENT>4 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>[London :</PUBPLACE>
+<PUBLISHER>s.n.,</PUBLISHER>
+<DATE>1679]</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>BM dates this "1660?"</NOTE><NOTE>Caption title.</NOTE><NOTE>Refers to the duties of the King.</NOTE><NOTE>Reproduction of original in Huntington Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Kings and rulers --  Duties.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2002-09</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2002-10</DATE><RESPSTMT><RESP>SPi Global</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2002-11</DATE><RESPSTMT><RESP>John Latta</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2002-11</DATE><RESPSTMT><RESP>John Latta</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2002-12</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A61948">
+<STC T="W">S6132</STC>
+<BIBNO T="oclc">11944932</BIBNO>
+<VID>51306</VID>
+</IDG>
+<TEXT>
+<BODY>
+<DIV1 TYPE="letter">
+<PB REF="1"/>
+<PB N="1" REF="1" MS="y"/>
+<HEAD>A LETTER FROM Sir John Suckling TO Mr. <HI>HENRY GERMAN,</HI> In the beginning of the late Long Parliament, <HI>Anno</HI> 1640.</HEAD>
+<OPENER><SALUTE>SIR,</SALUTE></OPENER>
+<P>THat it is fit for the King to do something Extraor∣dinary at this present, is not onely the Opinion of the Wise, but the Expectation. Men observe him more now than at other times: for Majesty in an Eclipse [like the Sun] draws Eyes that would not so much as have look'd towards it, if it had shined out, and appeared like it self. To lie still now, would at the best shew but a Calm∣ness of Mind, not a Magnanimity; since in matter of Go∣vernment to think well at any time, (much less in a very Active) is little better than to dream well. Nor must he stay to act till his People desire, because 'tis thought nothing relishes else; for therefore hath nothing relish'd with them, because the King hath for the most part staid till they have de∣sired, done nothing but what they have or were Petitioning for. But that the King should do, will not be so much the question, as what he should do. And certainly for a King to have right Counsel given him at all times, is strange, and at
+<PB N="2" REF="2"/>
+this present impossible. His Party for the most part (I would that were modestly said, and it were not all) have so much to do for their own Preservation, that they cannot (without breaking a Law in Nature) intend anothers. Those that have Courage have not perchance Innocence, and so dare not shew themselves in the King's Business; and if they have Innocence, they want Parts to make themselves considerable; so conse∣quently the things they undertake. Then in Court they give much Counsel as they believe the King inclin'd, determime his Good by his Desires; which is a kind of setting the Sun by the Dial; interest which cannot err, by Passions which may.</P>
+<P>In going about to shew the King a Cure, now a Man should first plainly shew him the Disease. But to Kings as to some kind of Patients, 'tis not always proper to tell how ill they be. And it is like a Country Clown, not to shew the way, unless he know from whence, and discourse of things before.</P>
+<P>Kings may be mistaken, and Counsellors corrupted; but true Interest alone (saith <HI>Monsieur de Rohan</HI>) cannot err. It were not amiss then to find out the Interest; for setting down right Principles before Conclusions, is weighing the Scales be∣fore we deal out the Commodity.</P>
+<P>Certainly the great Interest of the King is, <HI>A Union with his People</HI>; and whosoever hath told him otherwise, (as the Scri∣pture saith of the Devil) <HI>was a Seducer from the first.</HI> If there ever had been any one Prince in the whole world, that made a Felicity in this Life, and left fair Fame after death, without the Love of his Subjects, there were some colour to desp<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter" DISP="•"/>se it.</P>
+<P>There was not among all our Princes a greater Courtier of the People than <HI>Richard</HI> the Third, not so much out of Fear, as out of Wisdom. And shall the worst of our Kings have striven for that, and shall not the best? (it being an Angelical thing to gain Love.)</P>
+<P>There are two things in which the People expect to be sa∣tisfied, RELIGION and JUSTICE; nor can this be done by any little Acts, but by Royal and Kingly Resolutions.</P>
+<P>If any shall think, that by dividing the Factions (a good Rule at other times) he shall master the rest now, he will be strang∣ly deceived; for in the beginning of things that would do much, but not when whole Kingdoms are resolv'd. Of those now that lead these Parties, if you could take off the major Number, the lesser would govern, and do the same things
+<PB N="3" REF="2"/>
+still: nay, if you could take off all, they would set up one, and follow him.</P>
+<P>And of how great consequence it is for the King to resume this right, and be the Author himself, let any body judge; since (as <HI>Cumneus</HI> said) <HI>Those that have the Art to please the People, have commonly the Power to raise them.</HI></P>
+<P>To do things so that there shall remain no Jealousie is very necessary, and is no more than really reforming, that is, pleasing them. For to do things that shall grieve hereafter, and yet pretend Love (amongst Lovers themselves, where there is ea∣siest Faith) will not be accepted. It will not be enough for the King to do what they desire, but he must do something more. I mean by (doing more) doing something of his own, as throwing away things they call not for, or giving things they expected not. And when they see the King doing the same things with them, it will take away all thought and apprehen∣sion that he thinks the things they have done already ill.</P>
+<P>Now if the King ends the differences, and takes away Suspect for the future, the Case will fall out to be no worse than when two Duellists enter the Field, where the worsted Party (the other having no ill Opinion of him) hath his Sword given him again, without further hurt after he is in the others power. But otherwise it is not safe to imagine what may follow; for the People are naturally not Valiant, and not much Cavalier. Now it is the nature of Cowards to hurt where they can re∣ceive none. They will not be content (while they fear and have the upper hand) to fetter onely Royalty, but perchance (as Timorous Spirits use) will not think themselves safe while that is at all. And possibly this is the present state of things.</P>
+<P>In this great Work (at least to make it appear perfect and lasting to the Kingdom) it is necessary the Queen really joyn; for if she stand aloof, there will still be Suspicions: it being a received Opinion in the world, That she hath a great Interest in the King's Favour and Power. And to invite her, she is to consider with her self, whether such great Vertues and eminent Excellencies (though they be highly admir'd and valu'd by those that know her) ought to rest satisfied with so narrow a Payment as the Estimation of a few: And whether it be not more proper for a great Queen to arrive at Universal Honour and Love, than private Esteem and Value.</P>
+<P><PB N="4" REF="3"/>Then how becoming a Work for the sweetness and softness of her Sex, is composing of Differences and uniting Hearts? and how proper for a Queen, reconciling King and People?</P>
+<P>There is but one thing remains, which whisper'd abroad busies the King's Mind much (if not disturbs it) in the midst of these great Revolutions, and that is, The Preservation of some Servants, whom he thinks somewhat hardly torn from him of late; which is of so tender a nature, I shall rather propound something about it, than resolve it.</P>
+<P>The first <HI>Quaere</HI> will be, Whether as things now stand (King∣doms in the Balance) the King is not to follow Nature, where the Conservation of the more general still commands and go∣verns the less. As Iron by particular sympathy sticks to the Loadstone, but yet if it be joyned with a great Body of Iron, it quits those particular Affections to the Loadstone, and moves with the other to the greater, the common Countrey.</P>
+<P>The second will be, Whether if he could preserve those Mi∣nisters, they can be of any use to him hereafter? since no man is served with a greater prejudice, than he that imploys suspect∣ed Instruments, or not beloved, though able and deserving in themselves.</P>
+<P>The third is, Whether to preserve them there be any other way, than for the King to be first right with his People? since the Rule in Philosophy must ever hold good, <HI>Nil dat quod non habet.</HI> Before the King have Power to save, he must have Power.</P>
+<P>Lastly, Whether the way to preserve this Power be not to give it away? for the People of <HI>England</HI> have ever been like Wantons, which pull and tug as long as the Princes have pull'd with them, as you may see in <HI>Henry</HI> III. King <HI>Iohn, Edward</HI> II. and indeed all the troublesom and unfortunate Reigns; but when they have let it go, they come and put it into their hands again, that they may play on, as you may see in Q. <HI>Eliz.</HI></P>
+<P>I will conelude with a Prayer, (not that I think it needs at this present; Prayers are to keep us from what may be, as well as to preserve us from what is) <HI>That the King be neither too insen∣sible of what is without him, nor too resolved from what is within him.</HI> To be sick of a dangerous Sickness, and find no Pain, cannot but be with loss of Understanding, ('tis an Aphorism of <HI>Hippo∣crates</HI>;) and on the other side, Opiniastry is a sullen Porter, and (as it was Wittily said of Constancy) shuts out oftentimes better things than it lets in.</P>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

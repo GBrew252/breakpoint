@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="4">The muses mourning: or funerall sonnets on the death of Iohn Moray Esquire. By Iohn Taylor</TITLE><AUTHOR>Taylor, John, 1580-1653.</AUTHOR></TITLESTMT><EXTENT>Approx. 12 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2003-01 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A13474</IDNO>
+
+
+<IDNO TYPE="stc">STC 23775</IDNO>
+
+<IDNO TYPE="stc">ESTC S102447</IDNO>
+
+<IDNO TYPE="eebo citation">99838232</IDNO>
+
+<IDNO TYPE="proquest">99838232</IDNO>
+
+<IDNO TYPE="vid">2599</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A13474)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 2599)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1475-1640 ; 1085:17)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="4">The muses mourning: or funerall sonnets on the death of Iohn Moray Esquire. By Iohn Taylor</TITLE><AUTHOR>Taylor, John, 1580-1653.</AUTHOR></TITLESTMT><EXTENT>[32] p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>[London :</PUBPLACE>
+<PUBLISHER>s.n.,</PUBLISHER>
+<DATE>1615]</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Xylographic title page.</NOTE><NOTE>Imprint from STC.</NOTE><NOTE>Signatures: A-B.</NOTE><NOTE>Versos have been inked out, with no loss of text.</NOTE><NOTE>Reproduction of the original in the British Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Moray, John --  Early works to 1800.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2002-07</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2002-08</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2002-09</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2002-09</DATE><RESPSTMT><RESP>Mona Logarbo</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2002-10</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A13474">
+<STC T="S">23775</STC>
+<BIBNO T="umi">99838232</BIBNO>
+<VID>2599</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P><FIGURE>
+<P>THE
+MVSES
+MOVRNING:
+OR,
+FVNERALL SON∣NETS
+ON THE
+DEATH OF IOHN
+MORAY ESQVIRE</P>
+<P>BY
+IOHN TAYLOR.</P>
+</FIGURE></P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="sonnets">
+<PB REF="2"/>
+<PB REF="2"/>
+<HEAD>To the whole and Entire number of the
+Noble and Antient name of Morayes; Iohn
+Taylor dedicates these sad Funerall
+sonnets.</HEAD>
+<DIV2 N="1" TYPE="sonnet">
+<HEAD>Sonnet. 1.</HEAD>
+<L>WHen King <HI>Corbredus</HI> wore the Scottish <UNCLEAR>Crowne</UNCLEAR></L>
+<L>The <HI>Romaines</HI> did the Brittaine land afflict:</L>
+<L>But <HI>Corbred</HI> ioynd confederate with the Pict,</L>
+<L>By whom Queene <HI>Woadaes</HI> foes were ouerthrowne.</L>
+<L>The <HI>Morayes</HI> then, to haue their valour knowne,</L>
+<L>Did first the <HI>Romaine</HI> forces contradict:</L>
+<L>And made them render vp their liues so strict,</L>
+<L>That horse and foote, and all were beaten downe.</L>
+<L>Loe thus began the <HI>Morayes</HI> honour'd Race,</L>
+<L>Of memorable Antient worthy fame:</L>
+<L>And since the fiue and fiftith yeare of Grace,</L>
+<L>In <HI>Scotland</HI> hath suruiu'd that noble name.</L>
+<L>To whome aliue, and to my dead friends hearse,</L>
+<L>In duty heere I consecrate this verse.</L>
+<SIGNED>He that is euer obliged
+to your noble name:
+<HI>IOHN TAYLOR.</HI></SIGNED>
+</DIV2>
+<DIV2 N="2" TYPE="sonnet">
+<PB REF="3"/>
+<PB REF="3"/>
+<HEAD>Sonnet. 2.</HEAD>
+<L>VVEepe euerlastingly you Nimphs diuine,</L>
+<L>Your very <HI>Quintisence</HI> is waste and spent:</L>
+<L>Sigh, grone and weepe, with wofull languishment,</L>
+<L>Dead is the life that made your Glories shine.</L>
+<L>The heau'nly numbers of your Sacred nine▪</L>
+<L>He tun'd as an <HI>Aetheriall</HI> Instrument,</L>
+<L>So sweet, as if the Gods did all consent</L>
+<L>In him their Consort wholy to combine.</L>
+<L>Weepe <HI>Muses,</HI> euerlastingly lament,</L>
+<L>Ecclipsed is your Sire <HI>Apolloes</HI> shrine:</L>
+<L>Grim <HI>Death,</HI> the life hath from your Champion rent,</L>
+<L>And therefore sigh, grone, weepe, lament and pine:</L>
+<L>And let the <HI>Lawrell</HI> rot, consume and wither,</L>
+<L>Dye <HI>Muses,</HI> and be Tombd with him togither.</L>
+</DIV2>
+<DIV2 N="3" TYPE="sonnet">
+<PB REF="4"/>
+<PB REF="4"/>
+<HEAD>Sonnets. 3.</HEAD>
+<L>FRom two strong Iayles thy corps, &amp; soul's acquite<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/></L>
+<L>The one compact of flesh, and blood and bone:</L>
+<L>The other vnrelenting senceles stone,</L>
+<L>By God to one, by man to one commited.</L>
+<L>I euer did expect a happie time</L>
+<L>When thou shouldst shake thy bondage from thy ba<GAP DESC="illegible" REASON="missing" EXTENT="3 letters" DISP="•••"/></L>
+<L>I euer hop'd that thy vnwilling crime</L>
+<L>Would be forgot, and thou securde from wracke.</L>
+<L>For this I wishd, and prayd both day and night:</L>
+<L>I onely aymde to haue thy body freed,</L>
+<L>But Heau'n, (beyond my Reason) had decreed,</L>
+<L>Soule, body, both at once to free thee quite.</L>
+<L>Thou in thy life hast past a world of trouble,</L>
+<L>But <HI>Death</HI> from double Iayles hath freed thee dou<GAP DESC="illegible" REASON="missing" EXTENT="3 letters" DISP="•••"/></L>
+</DIV2>
+<DIV2 N="4" TYPE="sonnet">
+<PB REF="5"/>
+<PB REF="5"/>
+<HEAD>Sonnet. 4.</HEAD>
+<L>COrruption, Incorruption hath put on,</L>
+<L>Immortall, weake mortality is made:</L>
+<L>Earths woe, hath gain'd A happy heauenly throne,</L>
+<L>By death, life dyes, by life deaths force doth fade▪</L>
+<L>Though death kill life, yet life doth conquer death,</L>
+<L>Death but putts off our Raggs of shame and sinne:</L>
+<L>When for a moment's an eternall breath,</L>
+<L>Life (passing through the dore of death) doth win.</L>
+<L>This thou well knew'st (my much beloued friend)</L>
+<L>And therefore thou didst dare death to his worst,</L>
+<L>But he (much busied) could not thee attend,</L>
+<L>Or durst not, till thy cares thy heart had burst.</L>
+<L>And then the slaue came stealing like a theefe,</L>
+<L>And gainst his will, did giue thy woes releefe.</L>
+</DIV2>
+<DIV2 N="5" TYPE="sonnet">
+<PB REF="6"/>
+<PB REF="6"/>
+<HEAD>Sonnet. 5.</HEAD>
+<L>THou Fortunes foot-ball, whom she vsd to tosse,</L>
+<L>From wrong to wrong, from woe to woe againe:</L>
+<L>From griefe rebounding backe to pinching paine,</L>
+<L>As't pleasd the blind-fold Dame to blesse or crosse.</L>
+<L>But thou, vnmou'd with either gaine or losse,</L>
+<L>Nor ioy, or care, could vexe thy constant braine:</L>
+<L>Thou smild'st at all her buffets with disdaine,</L>
+<L>And all her fauours thou esteem'dst as drosse:</L>
+<L>Her and her Fauorites thou still didst deeme</L>
+<L>Iust as they are, not as they seeme to be:</L>
+<L>Her Minions all as fooles thou didst esteeme,</L>
+<L>And that's the cause she would not fauour thee:</L>
+<L>Then since such reckning she of fooles doth make:</L>
+<L>Would thou hadst bene one, for her fauours sake.</L>
+</DIV2>
+<DIV2 N="6" TYPE="sonnet">
+<PB REF="7"/>
+<PB REF="7"/>
+<HEAD>Sonnet. 6.</HEAD>
+<L>'TIs written in the euerliuing word,</L>
+<L>(the Rule and Square that men should liue thereby)</L>
+<L>Afflictions are the tuch-stones of the Lord,</L>
+<L>By which he onely doth his seruants trie.</L>
+<L>Then Noble <HI>Moray,</HI> <UNCLEAR>thou</UNCLEAR> hadst many a tuch,</L>
+<L>And still thy patience good and currant prou'd,</L>
+<L>Thy manly cariage in thy griefes were such,</L>
+<L>Which made thee (more then much) admird and lou'd.</L>
+<L>What yeare, what month, weeke, day or fading houre</L>
+<L><UNCLEAR>Wherein</UNCLEAR> some mischiefe did thee not befall?</L>
+<L>Yet had Afflicton ouer thee no power</L>
+<L>To conquer thee, but thou didst conquer all,</L>
+<L>Vnnumbred times thou wast both tucht and tride,</L>
+<L>And in thy makers feare and fauour dide.</L>
+</DIV2>
+<DIV2 N="7" TYPE="sonnet">
+<PB REF="8"/>
+<PB REF="8"/>
+<HEAD>Sonnet. 7.</HEAD>
+<L>WE<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/>pe heart, weepe eyes, weepe my vnable pen</L>
+<L>In teares of blood of water, and of Inke:</L>
+<L>With bread of sorrow, and afflictions drinke</L>
+<L>I liue, for I haue lost a man of men.</L>
+<L>Yet heart, eyes, pen, dry vp your teares agen,</L>
+<L>He is not lost, he's rather newly found:</L>
+<L>Enfranchisde from a dolefull theeuish den,</L>
+<L>And with a rich Immortall Crowne is crownd.</L>
+<L>Then heart, eyes, pen, no more with teares be drownd▪</L>
+<L>Weepe not for him that doth reioyce for euer:</L>
+<L>Yet this againe my comfort doth confound,</L>
+<L>Hee's lost to me, and I shall finde him neuer.</L>
+<L>Then weepe Muse, heart, eyes, pen, lament and weepe</L>
+<L>My ioyes are buried in eternall sleepe.</L>
+</DIV2>
+<DIV2 N="8" TYPE="sonnet">
+<PB REF="9"/>
+<PB REF="9"/>
+<HEAD>Sonnet. 8.</HEAD>
+<L>SLeepe gentle Spirit in Eternall rest,</L>
+<L>Free from all hart tormenting sorrow sleepe:</L>
+<L>Whilst I doe vent from my care crazed brest,</L>
+<L>Hart-wondring sighs that there their mansion keepe.</L>
+<L>And let my Grones from out that Cauerne deepe,</L>
+<L>With lamentations and cloud cracking thunder</L>
+<L>And let mine eyes an Innundation weepe,</L>
+<L>Let sighs, grones, teares, make all the world to wonder</L>
+<L>I meane my little <HI>Microcosmo</HI> world,</L>
+<L>sigh stormes, grone thunder, weepe a floud of teares:</L>
+<L>Through eu'ry part of me, let griefe be hurld.</L>
+<L>That whosoeuer my lamenting heares:</L>
+<L>May moane (with me) the cause of this my Ditty,</L>
+<L>Or if not moane with me, vouchsafe to pitty.</L>
+</DIV2>
+<DIV2 N="9" TYPE="sonnet">
+<PB REF="10"/>
+<PB REF="10"/>
+<HEAD>Sonnet. 9.</HEAD>
+<L>SInce cursed fates haue fatally decreed,</L>
+<L>To tosse and tumble harmles Innocence:</L>
+<L>And all the crew of Hells Abhortiue breed</L>
+<L>Haue glutted Enuies maw, by lawes defence.</L>
+<L>Yet God whose knowledge knowes the least offence,</L>
+<L>Who all thinges sees with his all-searching eye:</L>
+<L>Doth with his glorious great omnipotence,</L>
+<L>Right wronged wrongs, and heares his seruants cry.</L>
+<L>His mercy's not immur'd within the sky,</L>
+<L>But freely he doth power it downe on earth:</L>
+<L>He with afflictions scorge his sonnes doth try,</L>
+<L>And when he pleases turnes their mone to mirth.</L>
+<L>And though man liues in care, and <UNCLEAR>dies</UNCLEAR> in sorrow,</L>
+<L>A heauy euening brings a ioyfull morrow.</L>
+</DIV2>
+<DIV2 N="10" TYPE="sonnet">
+<PB REF="11"/>
+<PB REF="11"/>
+<HEAD>Sonnet 10.</HEAD>
+<L>VVEll hast thou Run in this thy weary race,</L>
+<L>Well hast thou fought with Sathan hand to hand:</L>
+<L>Th'ast won the Goale, and gaind the blessed Land,</L>
+<L>That's neither limitted with time or place.</L>
+<L><UNCLEAR>There</UNCLEAR> thou attendest on the throne of Grace,</L>
+<L>There Angells, and Archangells sweetly sing:</L>
+<L>Eternall praises to th'eternall King.</L>
+<L>And see the Glorious brightnes of his face.</L>
+<L>All this (I doubt not) but thou well hast don,</L>
+<L>Not of thy selfe (with shamefull sinne poluted)</L>
+<L>But thy Redeemer hath the conquest won,</L>
+<L>And vnto thee the victori's Imputed.</L>
+<L>He paid the score, and canceld all thy bands,</L>
+<L>And gaue thee to his blessed Fathers hands.</L>
+</DIV2>
+<DIV2 N="11" TYPE="sonnet">
+<PB REF="12"/>
+<PB REF="12"/>
+<HEAD>Sonnet 11.</HEAD>
+<L>NOw may you theeuing Poets filch and steale,</L>
+<L>Without controulement breaking <HI>Priscians</HI> pate:</L>
+<L>For he that whilom could your theft reueale,</L>
+<L>Your <HI>Criticke,</HI> and your <HI>H<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>ppercritick<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/></HI> late.</L>
+<L>Now may you cog and lie, and sweare and prate,</L>
+<L>And make your idle verses lame and halt:</L>
+<L>For by the powre of Euiternall fate,</L>
+<L>He's gone that could and would correct each fault,</L>
+<L>But you haue greatest cause to moane his want,</L>
+<L>You sacred heau'nly Sisters (three times thrice)</L>
+<L>He from your Gardens, could all weeds supplant.</L>
+<L>And replant fruits and flowers of peereles price;</L>
+<L>He kept (vnbroake) your Numbers, Tipes and Trop<GAP DESC="illegible" REASON="missing" EXTENT="2 letters" DISP="••"/></L>
+<L><UNCLEAR>But</UNCLEAR> now hee's dead, dead are your onely hopes.</L>
+</DIV2>
+<DIV2 N="12" TYPE="sonnet">
+<PB REF="13"/>
+<PB REF="13"/>
+<HEAD>Sonnet. 12.</HEAD>
+<L>AS <HI>Solon,</HI> to rich haples <HI>Cressus</HI> said,</L>
+<L>No man, is happy till his life doth end:</L>
+<L>The proofe in thee so plainly is displaid,</L>
+<L>As if he thy Natiuity had kend.</L>
+<L>What mortall miseries, could mischeife send,</L>
+<L>But thou therein hast had a treble share:</L>
+<L>As if Calamities their powers should bend,</L>
+<L>To make thy Corps a treasure house of care.</L>
+<L>Yet fell Aduersity thou didst out-dare,</L>
+<L>And valiantly gainst stormes of woe resisted;</L>
+<L>Loue of the world thy minde could not insnare,</L>
+<L>Thou knewst wherein the best of best consisted.</L>
+<L>And as olde <HI>Solon</HI> said, so I agree,</L>
+<L>Death makes men happy, as it hath done thee.</L>
+</DIV2>
+<DIV2 N="13" TYPE="sonnet">
+<PB REF="14"/>
+<PB REF="14"/>
+<HEAD>Sonnet. 13.</HEAD>
+<L>NO Monumentall Trophe, vertue needes,</L>
+<L>And good Report a marble Tombe out-weares:</L>
+<L><HI>Fame</HI> plaies the Harrold and proclaimes mens deeds,</L>
+<L>Her<GAP DESC="illegible" EXTENT="1 letter" DISP="•"/> Trump's shrill sound the spacious world heares.</L>
+<L>And such a vniuersall Tombe hast thou,</L>
+<L>Borne on the tops of thousand thousand tong<GAP DESC="illegible" REASON="missing" EXTENT="1 letter" DISP="•"/>:</L>
+<L>Thy liuing merrit doth thy name allow,</L>
+<L>A Monument for euer, which belongs</L>
+<L>To none but such as whilom was thy selfe,</L>
+<L>Who vsd the world as if <UNCLEAR>they</UNCLEAR> vsd it not:</L>
+<L>And did acknowledge misbegotten pelfe,</L>
+<L>Must (like the getters of it) Rust and rot.</L>
+<L>And such a liuing Tombe thy Corps inherit,</L>
+<L>A good Report, according to thy merrit.</L>
+</DIV2>
+<DIV2 N="14" TYPE="sonnet">
+<PB REF="15"/>
+<PB REF="15"/>
+<HEAD>Sonnet. 14.</HEAD>
+<L>HAd I the skill of <HI>Homer, Maro, Naso,</HI></L>
+<L>Or had I that Admir'd ornated stile:</L>
+<L>Of <HI>Petrark,</HI> or the braue Italian <HI>Tasso</HI></L>
+<L>I could not ouermuch thy praise compile.</L>
+<L>But as I am (Alas and woe the while)</L>
+<L>A poore vnlearned silly simple swaine:</L>
+<L>At whose attempt the world with scorne will smile,</L>
+<L>And flout <GAP DESC="illegible" EXTENT="1 word" DISP="〈◊〉"/> th'unshapen issue of my braine.</L>
+<L>But duty bids me launch into this Maine,</L>
+<L>Though my performance be but weake of store,</L>
+<L>Yet worthy mindes this goodnes doth retaine,</L>
+<L>Not to despise the seruice of the poore.</L>
+<L>I lou'd him liuing, and my loue to show,</L>
+<L>My least and last poore loue I heere bestow.</L>
+<PB REF="16"/>
+<GAP DESC="duplicate" EXTENT="1 page" DISP="〈1 page duplicate〉"/>
+<PB REF="16"/>
+<GAP DESC="duplicate" EXTENT="1 page" DISP="〈1 page duplicate〉"/>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

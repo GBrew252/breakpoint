@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+
+<HEADER><FILEDESC><TITLESTMT><TITLE TYPE="245" I2="0">Healing queries for sick churches that is, some seasonable thing begun, whereby the present breaches in churches may be repaired, future rents and divisions prevented, and so all the Lords people have communion not in darknesse but light / published, by a friend to the virgin daughter of Zion.</TITLE><AUTHOR>Friend to the virgin daughter of Zion.</AUTHOR></TITLESTMT><EXTENT>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</EXTENT><PUBLICATIONSTMT><PUBPLACE>Ann Arbor, MI ; Oxford (UK) :</PUBPLACE><PUBLISHER>Text Creation Partnership,</PUBLISHER><DATE>2007-10 (EEBO-TCP Phase 1).</DATE><IDNO TYPE="DLPS">A43196</IDNO>
+
+
+<IDNO TYPE="stc">Wing H1303</IDNO>
+
+<IDNO TYPE="stc">ESTC R12197</IDNO>
+
+<IDNO TYPE="eebo citation">13016561</IDNO>
+
+<IDNO TYPE="oclc">ocm 13016561</IDNO>
+
+<IDNO TYPE="vid">96550</IDNO>
+<AVAILABILITY><P>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part.  Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</P></AVAILABILITY></PUBLICATIONSTMT><SERIESSTMT><TITLE>Early English books online.</TITLE></SERIESSTMT><NOTESSTMT><NOTE>(EEBO-TCP ; phase 1, no. A43196)</NOTE><NOTE>Transcribed from: (Early English Books Online ; image set 96550)</NOTE><NOTE>Images scanned from microfilm: (Early English books, 1641-1700 ; 741:25)</NOTE></NOTESSTMT><SOURCEDESC><BIBLFULL><TITLESTMT><TITLE TYPE="245" I2="0">Healing queries for sick churches that is, some seasonable thing begun, whereby the present breaches in churches may be repaired, future rents and divisions prevented, and so all the Lords people have communion not in darknesse but light / published, by a friend to the virgin daughter of Zion.</TITLE><AUTHOR>Friend to the virgin daughter of Zion.</AUTHOR></TITLESTMT><EXTENT>[4], 8 p.   </EXTENT><PUBLICATIONSTMT>
+<PUBPLACE>London :</PUBPLACE>
+<PUBLISHER>[s.n.],</PUBLISHER>
+<DATE>1658.</DATE>
+</PUBLICATIONSTMT><NOTESSTMT><NOTE>Reproduction of original in Huntington Library.</NOTE></NOTESSTMT></BIBLFULL></SOURCEDESC></FILEDESC><ENCODINGDESC><PROJECTDESC><P>Header created with script mrcb2eeboutf.xsl on 2014-03-05.</P></PROJECTDESC><EDITORIALDECL N="4"><P>Manually keyed and coded text linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</P><P>Issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</P><P>Keying and markup guidelines available at TCP web site (http://www.textcreationpartnership.org/docs/)</P></EDITORIALDECL></ENCODINGDESC><PROFILEDESC><LANGUSAGE ID="eng"><LANGUAGE>eng</LANGUAGE></LANGUSAGE><TEXTCLASS><KEYWORDS><TERM>Schism.</TERM><TERM>Concord.</TERM></KEYWORDS></TEXTCLASS></PROFILEDESC><REVISIONDESC><CHANGE><DATE>2006-12</DATE><RESPSTMT><RESP>TCP</RESP></RESPSTMT><ITEM>Assigned for keying and markup</ITEM></CHANGE><CHANGE><DATE>2006-12</DATE><RESPSTMT><RESP>Aptara</RESP></RESPSTMT><ITEM>Keyed and coded from ProQuest page images</ITEM></CHANGE><CHANGE><DATE>2007-01</DATE><RESPSTMT><RESP>Robyn Anspach</RESP></RESPSTMT><ITEM>Sampled and proofread</ITEM></CHANGE><CHANGE><DATE>2007-01</DATE><RESPSTMT><RESP>Robyn Anspach</RESP></RESPSTMT><ITEM>Text and markup reviewed and edited</ITEM></CHANGE><CHANGE><DATE>2007-02</DATE><RESPSTMT><RESP>pfs</RESP></RESPSTMT><ITEM>Batch review (QC) and XML conversion</ITEM></CHANGE></REVISIONDESC></HEADER>
+<EEBO>
+<IDG S="marc" R="UM" ID="A43196">
+<STC T="W">H1303</STC>
+<BIBNO T="oclc">13016561</BIBNO>
+<VID>96550</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<PB REF="1"/>
+<P>HEALING QVERIES
+FOR
+SICK CHVRCHES.</P>
+<P>That is,
+Some seasonable thing begun, whereby
+the Present Breaches in Churches may
+be Repaired: Future Rents and Divisions prevented;
+and so all the Lords People have <HI>Communion</HI> not in
+darknesse but <HI>LIGHT.</HI></P>
+<P>PUBLISHED,
+<HI>By a</HI> FRIEND <HI>to the</HI> Virgin Daughter
+of Zion.</P>
+<Q><BIBL>Jer. 8. 22.</BIBL>
+<P>Is there no Balm in Gilead? Is there no Physitian there?
+Why then is not the health of the daughter of my people
+recovered?</P></Q>
+<P><HI>London,</HI> Printed in the Year, 1658.</P>
+</DIV1>
+<DIV1 TYPE="preface">
+<PB REF="2"/>
+<PB REF="2"/>
+<OPENER><SALUTE>To all the
+GATHERED CHVRCHES
+in England, Scotland and Ireland,
+PEACE with HOLINES be wished.</SALUTE></OPENER>
+<OPENER><SALUTE>Men, Fathers and Brethren,</SALUTE></OPENER>
+<P>I May say in <HI>Jacobs</HI> words: <HI>Why do ye look one upon ano∣ther?
+Behold I have heard that there is Corn in Aegypt,</HI> Gen.
+42. 12. Parents as they are deeply affected with their Childrens
+afflictions: so they are carefull to use what means they can for
+their recovery. It is very pious and Christian, <HI>for the divisions of</HI>
+Reuben <HI>there be great thoughts of heart.</HI> Indeed our eyes cannot
+weep enough for the breaches among brethren: yet this is but part of
+our duty. <HI>Get thee up</HI> (saith God to <HI>Joshua) wherefore lyest thou
+upon thy face?</HI> Josh. 7. 10. Not blaming him for his mourning, but
+telling him there was more work to be done. There are three Reasons
+(which I shall name) why I have published these Queries. First, that
+they may be of some use to <HI>Pastours</HI> and <HI>Teachers of Churches:</HI> who
+are most concerned in seeking to <HI>heale</HI> the <HI>breaches</HI> among them. Now
+I do not see away more probable for <HI>healing,</HI> than to look into the
+Cause of their differences.</P>
+<P>As for example, when some Brethren are not satisfied about the
+place of <HI>TRIERS;</HI> cannot comfortably joyn in communion with
+<HI>Souldiers:</HI> Nor with such as have civill Offices under the present Go∣vernment:
+think it a <HI>PUBLIKC SCANDALL</HI> to Religion, that
+Church-members should be <HI>Jaylors</HI> and <HI>Judges</HI> of the Saints; and
+<PB REF="3"/>
+shew no cause why they persecute them: Here it is the Ministers duty
+in a speciall manner to appear, where such offences are taken. And by
+sound Doctrine prove (if he can) that these scruples and questions do
+arise through the ignorance, and weaknes of the Brethren, and that
+they are offences taken, but not given.</P>
+<P>Secondly, Of some use to such Brethren as desire to keep themselves
+pure, and not be partakers of other mens sins: I hope without any fur∣ther
+enlargment, those who know what it is <HI>not to defile their gar∣ments,</HI>
+God will inable them to make a fruitfull improvement of these
+<HI>Queries.</HI></P>
+<P>Thirdly, Because I do intend to prosecute this subject about Chur∣ches
+a little further; These <HI>Queries</HI> concern Churches already con∣stituted:
+But I have something to publish for their sakes, who are not
+yet in Church fellowship. <HI>Lift up your eyes and look on the fields;
+for they are white already to Harvest,</HI> Joh. 4. 35. Here I shall shew
+(so far as may be hinted by Queries:) first, what things are necessary
+that Saints agree upon as <HI>uniting principles:</HI> secondly, what things
+(as differences) may be born with: thirdly, what Opinions and pra∣ctises
+are destructive to the peace and growth of Churches, which here∣after
+shall be constituted. <HI>Because of the house of Jehovah our God,
+I will seek good for thee,</HI> Psal. 122. 9.</P>
+<P>But in the queries one thing I forgot; Whereas some <HI>Church Offi∣cers</HI>
+a while since took great liberty and boldness to write against the
+misdemeanour of the late <HI>King,</HI> and in their Sermons, had often that
+Text, <HI>Judg. 5. 23. Curse ye Meroh, &amp;c.</HI> What is the reason that Do∣ctrine
+is now laid aside? I move this question, to the end that such
+who are herein concerned may vindicate themselves: For it is gene∣rally
+said, if that which they wrote and preacht against the <HI>King,</HI> had
+been done sincerely, and in the fear of God, they would now by Preach∣ing
+and Writing, as earnestly perswade people to lcome forth <HI>to the
+help of the Lord against the mighty,</HI> as they did then.</P>
+<P>The close is thus, so that I may be any way usefull for the overthrow∣ing
+of Iniquity, in Church and State, and the advancement of righte∣ousness
+in both, I have my end: With me it is a very small thing to
+be judged of mans judgment: my judgment is with the Lord,
+and my work with my God.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB N="1" REF="3"/>
+<HEAD>Healing Queries for sick Churches.</HEAD>
+<P N="1"><HI>Question</HI> I. WHether in a Church rightly constituted, every member
+is not alike under the power of Christ, given to the
+Church; that is, whosoever breaks the known laws of
+Christ, ought to be admonished and dealt with according to <HI>Mat.
+18. 15, 16, 17, <GAP DESC="illegible" REASON="blurred" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/>. 16. 17. 1 Thess. 3. 14. Levit. 19. 17. Gal. 5. 12. 1 Tim.</HI> 1. 20.</P>
+<P N="2"><HI>Quest.</HI> II. Whether such Church Members as know any of their
+Brethren (in the same fellowship with them) walk disorderly to
+the dishonour of God, the scandal of Religion, and hardning wic∣ked
+men in their sins; do not wrap themselves in the sin and
+guilt of their Brethren; yea, and are murderers before God, if they
+seek not to reclaim them, according to the Rules of the Gospel,
+<HI>Lev.</HI> 19. 17. with 1 <HI>Joh. 3. 15. Ezec. 3. 18. Jam. 5. 19. 20. Gal.</HI> 6. 1.</P>
+<P N="3"><HI>Quest.</HI> III. If a Brother or Brethren sin openly, and the same is
+known to the whol Church, but the Church useth not the means
+and way, which Christ hath appointed for the humbling and re∣covering
+of such scandalous members: The question is, whether
+the whole Church be not leavened, and her holy things polluted?
+yea, further, it may be queried by what Gospel promise such a
+People can expect the presence of Christ in the midst of them, so
+long as they remain thus rebellious against the Lord, and the whol
+lump leavened: 1 <HI>Tim. 5. 20. Hag. 2. 12, 13, &amp;c.</HI> 1 Cor. 5. 6. <HI>Isa. 1. 11.
+to 17. Josh. 7. 12. Hab. 1. 13. Jer. 7. 8, 9. Gen 35. 2, 3, 4. Amos</HI> 3. 3.</P>
+<P N="4"><HI>Quest.</HI> IV. Whether Churches are to take Cognizance of the
+Sins mentioned by <HI>Paul</HI> in 2 <HI>Tim. 3. 2, 3, &amp;c.</HI> and more particular∣ly,
+whether it be their duty to enquire and judge, who are the
+<HI>Traitours and Covenant breakers,</HI> there foretold to be in the last
+dayes; briefly, whether Churches, (as Churches) ought to judge
+the Actions of their members in civill things, that is, about the
+lawfulness of mens Callings, Places, Offices, Administrations,
+<PB N="2" REF="4"/>
+Maintenance? suppose it be State Affairs, (as they call it) what
+hath the Church to do with her members in such a case? 1 <HI>Cor. 6.
+2. 1 Thes. 4 6. Phil. 4. 8. 1 Cor. 10. 32. 33. 2 Tim. 4. 5. Rev. 2. 2. Heb.</HI> 10. 24.</P>
+<P N="5"><HI>Quest.</HI> V. Whether such Church members walk not scanda∣lously
+and bring a publick dishonour to the Name of God, who
+joyn and act with the open Enemies of the Gospel against the
+Saints; that is, persecute their Brethren, apprehend them, and cast
+them into prison, will be their <HI>Judges and Jaylors,</HI> and yet have no
+matter of Crime to lay to their charge? If so, whether then it be
+not a great sin and shame to that Church, who keeps in her bosom
+any open persecutors of the Lords people, <HI>Psal. 50. 18. Obe. v. 11, 12,
+13, &amp;c. Mat. 24. 48, 49, 50. Act. 9. 4, 5, Mat. 25. 39, 40 43, 45. Ps, 93. 5 1 Pet.</HI> 2. 12</P>
+<P N="6"><HI>Quest.</HI> VI. In case the greater number of a Church shall tolerate
+and allow apparent sin, in some members, and not deal with them
+for the same? what is the duty of the other part (howsoever the
+lesser) knowing the walking of such members to be very scanda∣lous
+and sinfull (and yet born with by the greater number) that
+they may keep themselves pure, and not be partakers of others
+mens sin. 2 <HI>Cor. 6. 17. 2 Tim. 3. 2. 3. 5. Hos. 11. 12. 1. Tim. 5. 22. Hos. 2. 2.
+Rev.</HI> 3. 4. Or thus, If known scandalous persons are in a Church,
+and the Church is dealt with for suffering the same? whether that
+Church may lawfully be left and separated from, by Brethren
+(many or few, yet so as the lesser number) who have used all due
+means and wayes (so far as their duty is) to have the Church pur∣ged
+of such defilements? but the <HI>Major part</HI> will not heare, but
+rather abets the sinners and justifies the wicked? Again, if the
+greater number in such a case may be left, the question is whether
+as a true Church, or a company of Rebels, and the visible Church.
+State remain with the better part, though fewer in number, <HI>Rev. 2.
+5. Jer. 7. 11, 12. Mat. 21. 13 Eccles. 9. 18. 2 Chro. 15. 2. Prov. 17. 15. Jer.</HI> 28. 16.</P>
+<P N="7"><HI>Quest.</HI> VII. Whether a Church lying under the guilt of much
+sin should not please God far more to execute justice and judge∣ment,
+that is, <HI>purge out the old leaven,</HI> and destroy the accursed from
+among them, than to pray, preach, fast, break bread, <HI>&amp;c.</HI> Yea more,
+so long as judgment is neglected, and nothing done against scan∣dalous
+walkers? where is there any promise that the Lord will
+<PB N="3" REF="4"/>
+accept of their sacrifices, as Prayer, Preaching, Fasting, <HI>&amp;c. Prov.
+21. 3. 1 Sam. 15. 22. &amp;c. Isa. 1. 11 Hos. 6. 6. Mic. 6. 6, 7, 8. Isa. 33. 5. Mic. 3. 10, 11,
+12. Jer. 7. 21. 23. Mat. 23. 23, 24. Mat. 5. 23, 2<GAP DESC="illegible" REASON="faint" RESP="tech" EXTENT="1 letter" DISP="•"/>. Rev. 2. 12. Jam. 4. 8. 1 Pet.</HI> 2. 1, 2.</P>
+<P N="8"><HI>Quest.</HI> VIII. Seeing it is well known how the Churches have
+been charged with Apostacy publickly to the world, and in them
+(as it is asserted) the second Apostacy is fulfilled, set down in 2 <HI>Tim.</HI>
+3. 1, 2, <HI>&amp;c.</HI> It is queried, why some thing is not published for their
+vindication; Besides it is desired that they will declare, 1. What
+Apostacy that is of which <HI>Paul</HI> there speaks, 2. To what time it is
+to be applied, 3. How it doth appear that such Churches as are fal∣len
+in with the present Government, have not by it made that A∣postacy.
+4. What is meant by these words in the Text <HI>from such
+turn a side, 2 Pet. 3. 15. Josh. 22. 10, 11. Tit. 1. 9. Act. 11. 2, 3, 4. &amp;c.</HI></P>
+<P N="9"><HI>Quest.</HI> IX. Whether such Pastors and Teachers of Churches, as
+joyn with this present Government, and have much worldly ad∣vantage
+by it; do not by their silence shew either great ingrati∣tude
+to their Lord Protector, being as they say a <HI>nursing Father</HI> to
+them (if they can justifie the Power and Government which he
+hath taken up:) or otherwise, whether they give not just occasion
+unto People to think they cannot justifie him, by Law, Reason,
+Religion, <HI>&amp;c.</HI> and so it is rather of coveteousness than Consci∣ence,
+that they are faln in with him; besides by their silence, whe∣ther
+they deal not the more unworthily with their <HI>Nursing father,</HI>
+(if they can defend him) considering they well know, how the
+most conscientious Christians in the Nation are altogether dissa∣tisfied
+about the present Government. <HI>Prov. 27. 10. &amp;</HI> 22. 1.</P>
+<P N="10"><HI>Quest.</HI> X. Whereas that place <HI>Rom. 13. 1, 2, &amp;c.</HI> is by our Bre∣thren
+often brought against us (as they know it was once the spe∣ciall
+objection of Royalists against them and us,) <HI>Let every soule be
+subject to the higher powers, &amp;c.</HI> Here we shall propose a few things,
+1. If the higher powers must be submitted too, because <HI>they are or∣dained
+of God, and are Gods Ordnanceiv.</HI> whether it be not meant,
+so far as they are lawfully constituted, &amp; do govern according to
+reason and just laws, preserve their peoples Liberties, Persons and
+Estates; Again, when they prove Traitors to the Nation, and are
+the Devils Agents, whether they may not be severely punished
+<PB N="4" REF="5"/>
+for it. 2. Because <HI>these who resist lawfull authority and just commands
+receive to themselves condemnation;</HI> it be not a <HI>non sequitur; Ergo,</HI>
+Usurpers must be submitted too, and unjust commands obeyed.
+3. Rulers must be obeyed, because <HI>they are not a terror to good
+works but to evill, v.</HI> 3. Whether this be a good consequence,
+when they are profest enemies to good works, and do evill
+continually with both hands; therefore they must be obeyed. 4.
+Seeing the Magistrate is to be obeyed, because <HI>he bears not the sword
+in vain, he is the Minister of God, a revenger to execute wrath on him
+that doth evill, v.</HI> 4. Here the query may be, if he seek to ruin, spoil,
+and enslave the people, gives liberty to all manner of unrighte∣ousnes,
+bears the sword not onely in vain, in reference to the pub∣lick
+good, but draws it forth upon those that are good, and be∣cause
+they are good, whither it be the intendment of this text,
+<HI>therefore he must be obeyed.</HI> 5. Whither that which is not the Ordi∣nance
+of God, but rather of the Devill, and the meer sin, and pre∣sumption
+of men, is within the compasse of this Text. 6. Whe∣ther
+that which is no point or part of the Magistrates lawfull po∣wer
+ordained of God, but <HI>Diametrically</HI> repugnant to it, as Tyran∣ny,
+Oppression, Violence, <HI>&amp;c.</HI> is within the Verge of this Text,
+and to be obeyed for conscience fake. 7. Whether all the powers
+intended in the text, said <HI>to be ordained of God,</HI> are not circumscri∣bed
+and bounded with certain rules of Law, Justice, and Honesty,
+within which they must contain themselves, and if they passe be∣yond
+those limits, they are none of Gods Ordinances; <HI>Consider of
+it, take advise and speak your mindes. Judg. 19. 30. Prov.</HI> 22. 21.</P>
+<P N="11"><HI>Quest.</HI> XI. Whereas one special cause of the present differences
+divisions, and rents in Churches, is this; namely, <HI>That souldiers and
+others, who have places under the present Government (being Church
+members) are not called to an account as evill doers:</HI> The question is,
+whether it be not the duty of Churches, (especially the Officers)
+for the satisfaction of their offended Brethren, to give some rea∣sons,
+that howsoever there is offence taken at Souldiers and o∣ther
+State <HI>Officers,</HI> yet they have the word of God to warrant their
+practise in holding communion with them, <HI>Isa. 8. 20. 2 Tim. 3. 16, 17
+Tit. 1. 9. 2 Tim. 2. 24, 25. Acts 20 2<GAP DESC="illegible" REASON="smudged" RESP="tech" EXTENT="1 letter" DISP="•"/>. 2 Cor. 1. <GAP DESC="illegible" REASON="smudged" RESP="tech" EXTENT="1 letter" DISP="•"/>4. 1 Thess. 2. 7, 8, &amp;c.</HI></P>
+<P N="12"><PB N="5" REF="5"/>
+<HI>Quest.</HI> XII. In like manner, where as it is well known that the
+place of <HI>Tryers.</HI> (as it is commonly called) hath given offence to
+many pretious Christians, and occasioned much trouble in some
+Churches, no lesse than division; the query is, whether it be not
+the Duty of such TRIERS as are Church-members to prove (if
+they can) what they act in that particular business to be lawfull
+by the Word of God, 1 <HI>Cor. 10. 32, 33. 1 Pet. 5. 2, 3. 1 Cor. 8. 12,
+13. &amp; 9. 22, 23. 1 Thess. 5. 22. 1 Joh. 2. 10. Isa. 57. 14. 2 Cor. 8. 21 &amp;</HI> 13. 7.</P>
+<P N="13"><HI>Quest.</HI> XIII. Whereas in the dayes of the late King, many ho∣nest
+men for refusing to submit to an Arbitrary Power, and Ille∣gall
+Taxes, and standing for the Rights and Liberties of the Peo∣ple,
+suffered very much in their Liberties and Estates, and were
+counted for it, <HI>Good Patriots to their Country:</HI> The question is, if
+in Churches there are some Persons, who shall promote an Arbi∣trary
+Power, and seek to destroy the civill Rights and Liberties of
+the People? whether this be not a <HI>Scandall</HI> to Religion, and a
+matter which the Church is to take notice off, and to deal with
+such members as offenders, 1 <HI>Cor. 6. 8, 9. 1 Tim. 1. 13. Job 24. 2.
+Psal. 50. 18. Deut. 19. 14. &amp; 27 17. Prov. 22. 28. Phil. 4 8. 1 Thess,</HI> 4. 12.</P>
+<P N="14"><HI>Quest.</HI> XIV. Whether in all Ages the Lord hath not had some
+glorious work proper to every Generation;<NOTE PLACE="marg">* Whereas Mr. <HI>William Bridge,</HI> preaching lately at the <HI>Charterhouse, May</HI> 23. 1658. Told his Hearers, That there is now <HI>a Gene∣ration work, a generation Truth, and generation Sins.</HI> Whether it be not the du∣ty of all <HI>Pastors</HI> and <HI>Tea∣chers,</HI> clearly to declare unto their people, when the proper <HI>Work, Truth</HI> &amp; <HI>Sins</HI> are of this generation. <HI>Psal. 40. 10. Jer. 23. 28. Rom.</HI> 1. 18.</NOTE>
+if so, what is the Work now, as most proper
+to the Saints of this Generation; <HI>Acts 13. 36.
+2 Tim.</HI> 3. 1. 5. Or thus, whether to bear wit∣ness
+to and for the glorious and visible King∣dome
+of <HI>Jesus Christ,</HI> and to hold forth a pub∣lick
+Testimony against the present Powers
+of the World, that they shall be all broken to
+pieces, and <HI>the Lord alone exalted as King of
+Saints and Nations;</HI> be not now a Work
+more proper to the Churches and People of
+God than it was to Saints in former Ages;
+<HI>Dan. 2. 44 &amp; 7. 13, 14. &amp; 12. 8, 9, 10. Rev. 22. 10. Act. 1. 6, 7. Isa.</HI> 35. 5.</P>
+<P N="15"><HI>Quest.</HI> XV. Whereas <HI>Rev.</HI> 11. 16. There is mention made of
+the <HI>twenty foure Elders,</HI> but the <HI>foure living Creatures,</HI> are left out
+of the Text; The question is, whether it may not probably be
+<PB N="6" REF="6"/>
+concluded from the place, (comparing our present experience
+with it) that neer or about the expiration of the <HI>Fourth Monarchy,</HI>
+when <HI>the Kingdoms of this world, are to become the kingdomes of our
+Lord and his Christ;</HI> there will be a generall declining of <HI>Church-Officers</HI>
+from the work of that Generation, and the Brethren,
+(not in Office) more faithfull than their Pastors and Teachers, in
+holding forth a publick Testimony to the glorious Kingdom and
+and Reign of Christ, <HI>Psal. 8. 2. Isa. 26. 2. Jer. 50. 45. 1 Cor. 1. 26, 27.
+Isa. 29. 9. 10, 11, 12. 18. &amp; 43. 27. Rev. 12. 4. Joel</HI> 3. 15, 16.</P>
+<P N="16"><HI>Quest.</HI> XVI. Whereas the late divisions and rents in many
+Churches have <HI>risen from Souldiers and others, who have places un∣der
+the present Government;</HI> It be not necessary that all Churches
+(as yet free from the occasion of such trouble) do well consider
+what they do, before they admit Souldiers and others (so much
+excepted against) into Church Fellowship? Again, for others who
+either intend to joyn to some Church already gathered, or to
+constitute themselves a Church? Whether it do not likewise ve∣ry
+much concern them to avoid that thing which others have
+been so much prejudiced by: As a wise man will not run his Ship
+upon that rock, on which he sees another Vessel is split before his
+eyes. <HI>Prov. 22. 3. Ezra 4. 1, 2, 3. 1 Cor.</HI> 5. 6.</P>
+<P N="17"><HI>Quest.</HI> XVII. Whether Churches in such a day as this is, should
+not make diligent enquiry, what it is that hinders their glory and
+growth? What it is that keeps the bad in, and the good out?
+whence it is that they do not experience so much life, sweetnesse,
+and divine Presence in Church Ordinances as formerly they did?
+Again, would they be conscientious, and sincere in searching for
+the cause? then, whether it would not be found: First, <HI>Negli∣gence</HI>
+in some Officers, who look more after the world than after
+the walking of their Flock, and seek to keep up state and pompe
+in their own Family, more than purity and holines in the house of
+God. Secondly, <HI>Arrogancy</HI> and Pride in some Members who be∣ing
+<HI>Statesmen,</HI> are like the <HI>Sons of Zerviah, too hard for the rest:</HI>
+For through fear some dare not speak to them of their scandalous
+walking; others by gifts and preferment have their mouths stopt,
+<PB N="7" REF="6"/>
+though not their consciences, others care not for it, as if (<HI>Caa<GAP DESC="illegible" REASON="blurred" RESP="tech" EXTENT="1 letter" DISP="•"/>∣like</HI>)
+they were <HI>not their brothers keeper,</HI> Thus though the wicked∣nes
+of some Church members be like <HI>Gehazis leprosie upon the fore
+head of the Church;</HI> and the world cryes shame on it; yet the
+Church hath neither an ear to hear, nor an ey to see, <HI>Lam. 3. 40.
+Josh. 7. 5, 6. 2 Cor. 7. 9, 10, 11. Ezec. 3. 4, 5, &amp;c. Mat.</HI> 18 7.</P>
+<P N="18"><HI>Quest.</HI> XVIII. Whether unfaithfulness among Churches in
+neglecting their Christian Duty each to other, that is, not admo∣nishing
+one another of the great corruption, which they see crept
+into Churches (especially the deceitfull walking of some <HI>Church-Officers,</HI>
+who were winked at, when they openly sought by LET∣TERS
+and other wayes to corrupt the Churches) hath not (by
+the just hand of God) brought many troubles and divisions upon
+them: Again, if a Church be corrupted by suffering scandalous
+persons in it, what is the Duty of a <HI>Sister Church</HI> knowing the
+same to, be true? And how far, and how long may a Church
+hold communion with any Church, which keeps scandalous per∣sons
+in communion howsoever admonished of it.</P>
+<P N="19"><HI>Quest.</HI> XIX. Whether the <HI>stop,</HI> that hath been put to the Lords
+work, and the <HI>good old Cause</HI> once famous in the <HI>three Nations,</HI> with
+what present oppression and persecution is amongst us: hath not
+been raised and continued in a speciall manner, by some <HI>Church-members;</HI>
+And whether such Church members have not been
+more false to the Interest of Christ and his People, then any o∣ther
+people, and betrayed the most glorious Cause that ever was
+in the world. <HI>Jer.</HI> 11. 15.</P>
+<P N="20"><HI>Quest.</HI> XX. Whether <HI>Pride</HI> and <HI>Covetousness</HI> (so much con∣demned
+in holy Scripture) are sins to be born with in Churches?
+If not, what is the reason that few (if any) Church members,
+though never so apparently <HI>proud</HI> and <HI>Coveteous</HI> are called to an
+account for such sins. Besides, whether for <HI>Pride</HI> and <HI>Coveteous∣nesse,</HI>
+some <HI>WITHIN</HI> do not far exceed most <HI>WITHOƲT; Prov. 8. 13
+Hos. 5. 5. 1 Joh. 2. 16. Isa. 2. 12. Mal. 3. 15. 2 Tim. 3. 2. Jam. 4. 6. Psal. 10. 3.
+1 Cor. 6 10. Ephes 5. 5. Luk. 12. 15. Col 3. 5. Isa. 5<GAP DESC="illegible" REASON="faint" RESP="tech" EXTENT="1 letter" DISP="•"/>. 11. Ezec. 16. 48. 51. 1 Cor. 5. 4
+Thou canst not bear them that do evill,</HI> Rev. 2. 2.</P>
+<P N="21"><HI>Quest.</HI> XXI. Whereas the <HI>Name of God and Religion,</HI> lies under
+so much reproach everywhere, by reason of the Apostacy, Hypo-
+<PB N="8" REF="7"/>
+<GAP DESC="illegible" REASON="blurred" RESP="tech" EXTENT="4 letters" DISP="••••"/>hood of Professors; for many hereby are hindred from joyn∣ing
+to Churches: Others hardned in errour and sin; yea, many
+by this occasion are become Libertines, Blasphemers, Atheists, and
+what not? Query is, How far it is the duty of Churches, publick∣ly
+to appear in vindicating the <HI>great name of God,</HI> and wiping off
+that scandal and reproach which lies upon the truth &amp; them too.
+<HI>Exo. 32. 32. Josh. 7. 9. &amp; Psa. 122. 9. &amp; 137. 5, 6. Numb. 25. 13. Joh. 2. 17.
+Neh. 2. 3. Prov.</HI> 22. 1.</P>
+<P N="22"><HI>Quest.</HI> XXII. That some Brethren at this time not holding
+forth a faithfull Testimony, against the corruptions crept into the
+Churches, and shewing the Churches their evill and sin: so far as
+their light and duty is: whether this be not one great cause, that
+the abuses and corruptions now in Churches are not reformed?
+Further the Query is, In what <HI>souldanger</HI> that member is, who hath
+made a solemn Covenant before the Lord with his Brethren to
+practise all known <HI>Gospel order, Christian <GAP DESC="illegible" REASON="faint" RESP="tech" EXTENT="1 word" DISP="〈◊〉"/> &amp; duties,</HI> both to the
+Church and every individuall member, shall notwithstanding
+(contrary to the light of his own conscience) break that Cove∣nant
+so solemnly made in the principall part of it. <HI>Prov. 14. 25.
+Ezek. 2. 7. Isa. 58. 1. Jer. 23. 22. Ephe. 17. 15, 16, 17, 18. Rom. 1. 31. Psal.</HI> 15. 4.
+Rom. 21. 27. and 22. 15. 1 <HI>Joh. 3. 20. Ruth. 3. 18. Isa. 30. 9. and</HI> 63. 8.</P>
+<P N="23"><HI>Quest.</HI> XXIII. Our last Query shall be; first, Whether there be
+not good ground to think, when the Lord shall bring forth his
+judgements against the Nations of the world, he will <HI>begin at his
+own house; Jer. 25. 18. 29. Eze. 9. 6. Amo. 3. 2. 1 Pet.</HI> 4. 17.</P>
+<P>Secondly, Whether the Lords controversie at this time against
+Churches, be not their neglect of judgement? <HI>Isa.</HI> 59. 4. 9. 14, 15.</P>
+<P>Thirdly, Whether there be any way (following the Word of
+God) for Churches to escape publique judgments, than to purge
+out unclean persons and things? <HI>Josh. 7. 13. 26. 2 Sam. 21. 14. Rev. 2.
+5. 16. J<GAP DESC="illegible" REASON="smudged" RESP="tech" EXTENT="2 letters" DISP="••"/>.</HI> 1. 15.</P>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="7"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+
