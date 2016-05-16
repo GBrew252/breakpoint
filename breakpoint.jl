@@ -1,15 +1,23 @@
 #=
     breakpoint.jl
-    Breakpoint analysis to find word frequency in texts
     By: Connor Riddell
+    Crunch word frequency by file and match it to a year through the metadata file.
+        It's all wrapped up in a structure that is an array of tuples where the first index is the year
+        and the second index is a dictionary of words and frequencies.
+
+    Usage: julia breakpoint metadata_file(ARG 1) text_frequency_file_directory(ARG 2) 
 =#
 
-using JLD
 using UnicodePlots
+
+# set argument values
+metadata_path   = ARGS[1]
+txt_dir         = ARGS[2]
 
 #=
     Function to read in lines for tsv file of words and their frequencies
     then add them to an array of tuples.
+    Arguments: file path (String), file name (String)
     Returns tuple of file name and array of sorted word frequencies
 =#
 function crunch_word_freq(file_path::String, file_name::String)
@@ -55,11 +63,10 @@ end
 #=
     Function to read in metadata for word frequency files
     Saves file name and year to dictionary
+    Arguments: N/A
     Returns dictionary of key = file name and value = year(int)
 =#
 function crunch_metadata()
-    metadata_path = "/Users/connor/Desktop/breakpoint/freq_sample_years.tsv"
-
     # open text file for metadata on text
     f = open(metadata_path)
     lines = readlines(f)
@@ -88,8 +95,8 @@ function crunch_metadata()
 end
 
 #=
-    Function to calculate home many words were in each given year for the sample size
-    Arguments: N/A for now 
+    Find words per Year - Function to calculate home many words were in each given year for the sample size
+    Arguments: crunched_data(array), (dictionary) of text names and frequencies 
     Returns: Dictionary of words as key and word amount as value
 =#
 function crunch_wpy(crunched_data::Array, txt_year_dict::Dict)    
@@ -125,33 +132,44 @@ end
     Main function for crunching data
 =#
 function main()
+    # error check input arguments
+    if length(ARGS) != 2
+        println("Need 2 agruments. $(length(ARGS)) given.")
+        exit()
+    end # if
+    if !isfile(metadata)
+        println("First argument must be metadata file.")
+        exit()
+    end # if
+    if !isdir(txt_dir)
+        println("Second argument must be frequency files folder.")
+        exit()
+    end # if
+
     # print starting statement and begin looking at data in files
     println("Starting data crunch...")
-    word_files = readdir(ARGS[1]) # get directory where all files are
-   
+    word_files = readdir(txt_dir) # get directory where all files are
+     
     # crunch data from each file
     crunched_data = Array((Any,Any), 0)
     counter = 1
     for file in word_files
-        file_path = string(ARGS[1], file) # get file path
+        file_path = string(txt_dir, file) # get file path
 
         # print how many files are left every thousand processed
         if counter % 100 == 0
             println("Crunched ", counter, " files. ", (length(word_files)-counter), " files to go...")
-        end
+        end # if statement
 
         push!(crunched_data, crunch_word_freq(file_path, file)) # add data to array in form of tuple
         counter += 1
-    end
+    end # for loop
 
     # get metadata
     println("Crunching metadata...")
     txt_year_dict = crunch_metadata() # crunch basic metadata
     
     words_per_year = crunch_wpy(crunched_data, txt_year_dict)
-    println(words_per_year)
-    println(length(collect(keys(words_per_year))))
-    
 
     #save("crunched_data.jld","crunched_data",crunched_data)
     while true
@@ -162,7 +180,11 @@ function main()
         queried_word = chomp(readline(STDIN))
         if queried_word == "exit()"
             break
-        end
+        end # if statement
+        # user pressed enter
+        if queried_word == ""
+            continue
+        end # if statement
 
         println("Printing all frequencies for word, \"" * queried_word * "\" for given years:")
         
@@ -182,11 +204,16 @@ function main()
                     else
                         # else make a new key value pair
                         year_with_freq[file_year] = tup[1]
-                    end
-                end
-             end
-        end
+                    end # if/else statement
+                end # if statement
+             end # inner for loop
+        end # outter for loop
         
+        if length(year_with_freq) == 0
+            println("No results found for querry \"$queried_word\"...")
+            continue
+        end # if statement
+
         # sort the keys by chronology and save the key and value to seperate arrays
         ordered_year = Array(Int64, 0)
         ordered_freq = Array(Float64, 0)
@@ -195,17 +222,33 @@ function main()
             println("$key => $(year_with_freq[key])")
 
             # push the data to each respective sorted arrays
-            push!(ordered_freq, (year_with_freq[key] / words_per_year[key]))
+            # in parts per million
+            push!(ordered_freq, (year_with_freq[key] / words_per_year[key]) * 1000000) # normalized by dividing by total word in year
             push!(ordered_year, key)
-        end
+        end # for loop
         
-       # create line plot
-       print(lineplot(ordered_year, ordered_freq, title = "\""*queried_word*"\"" * " frequency"))
-       print(barplot(ordered_year, ordered_freq, title = "\""*queried_word*"\"" * " frequency"))
+        # create line plot
+        print(lineplot(ordered_year, ordered_freq, title = "\""*queried_word*"\"" * " frequency in parts per million", color = :blue))
+        print(barplot(ordered_year, ordered_freq, title = "\""*queried_word*"\"" * " frequency in parts per million", color = :blue))
 
+        # create arrays of absolute changes and year ranges
+        abs_changes = Array(Int64, 0)
+        year_ranges = Array(String, 0)
+        index = 1
+        while index < length(ordered_year)
+            freq_change = abs((year_with_freq[ordered_year[index]] - year_with_freq[ordered_year[index+1]]))
 
-    end
+            push!(abs_changes, freq_change)
+            push!(year_ranges, "$(ordered_year[index]) - $(ordered_year[index+1])")
 
-end
+            index += 1
+        end # while loop
+
+        # create barplot
+        print(barplot(year_ranges, abs_changes, title = "\""*queried_word*"\"" * " Year-By-Year Change", color = :blue))
+
+    end # while loop
+
+end # main function
 
 main()

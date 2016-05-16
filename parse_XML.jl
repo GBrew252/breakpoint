@@ -1,15 +1,17 @@
 #=
-    parseXML.jl
-    Scan over xml file
+    parse_XML.jl
     By; Connor Riddell
+    Scan over xml file and create word txt-year file and a directory
+        of the txts with words and their frequencies
+    Usage: julia parse_XML.jl raw-XML-directory
 =#
 
 using LightXML
-include("/Users/connor/workspace/breakpoint/RomanDecimal.jl")
+include("roman_decimal.jl")
 
 # lowercase letters of alphabet
-alpha_letters = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n',
-'o','p','q','r','s','t','u','v','w','x','y','z']
+alpha_letters = ['a','b','c','d','e','f','g','h','i','j',
+'k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
 
 # punctuation array
 punctuation = ['!','"','#','$','%','&','\'','(',')','*','+',',',
@@ -157,7 +159,35 @@ end # function get-metadata
 =#
 function create_year_text_file(raw_files::Array, input_file_folder::String, output_name::String)
     # open file by name in argument
-    year_f = open("/Users/connor/workspace/breakpoint/$output_name", "w+")
+    if !isfile(output_name)
+        year_f = open("$output_name", "w+")
+    else
+        println("Caution: File already exists.")
+        print("Overwrite? (y/n) ")
+
+        # all valid answers
+        answers = ["y","yes","n","no"]
+
+        # get user input in lowercase
+        answer = Base.lowercase(chomp(readline(STDIN)))
+
+        # check if answer valid
+        while !in(answer, answers)
+            println("Invalid answer.")
+            print("Overwrite? (y/n) ")
+            answer = Base.lowercase(chomp(readline(STDIN)))
+        end # while loop
+        
+        # if they answer yes to overwrite, continue
+        if (answer == "y") || (answer == "yes")
+            progress = true
+        # if user answers no to overwrite, ask for new directory
+        elseif (answer == "n") || (answer == "no")
+            print("Create new output folder: ")
+            year_f = open(chomp(readline(STDIN)) * ".tsv", "w+")
+        end #if/elseif
+
+    end # if/else
 
     # loop over files to get assigned dates
     for file in raw_files
@@ -333,8 +363,9 @@ function main()
     orig_dir_name = path_split[length(path_split)] * "/"
     
     # make text year file and frequency file folder
-#    create_year_text_file(raw_files, orig_dir_name, "test.tsv")
-    create_freq_files(raw_files, orig_dir_name, "test_folder") 
+    create_year_text_file(raw_files, orig_dir_name, "text_years.tsv")
+    create_freq_files(raw_files, orig_dir_name, "text_word_freq_files") 
 
 end # function main
+
 main()

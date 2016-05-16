@@ -1,6 +1,8 @@
 #=
-    Convert Roman numberals to decimal string
+    roman_decimal.jl
     By: Connor Riddell
+    Two functions: r2d2 converts the Roman numeral to the decimal year
+        and is_rn checks to see if the string given is a roman numeral
 =#
 
 #=
