@@ -1,11 +1,13 @@
 #=
-    breakpoint.jl
+    make_freq_change_csv.v2.jl
     By: Connor Riddell
     Crunch word frequency by file and match it to a year through the metadata file.
         It's all wrapped up in a structure that is an array of tuples where the first index is the year
-        and the second index is a dictionary of words and frequencies.
+        and the second index is a dictionary of words and frequencies. Then write to csv file with the change
+        over each year. Change is regularized by number of words per year and multiplied by one million to read
+        easier.
 
-    Usage: julia breakpoint metadata_file(ARG 1) text_frequency_file_directory(ARG 2) 
+    Usage: julia make_freq_change_csv.v2.jl  metadata_file(ARG 1) text_frequency_file_directory(ARG 2) 
 =#
 
 using UnicodePlots
@@ -149,7 +151,18 @@ function main()
     # print starting statement and begin looking at data in files
     println("Starting data crunch...")
     word_files = readdir(txt_dir) # get directory where all files are
-     
+    word_list = Array(Any,0)
+
+    # import word list
+    word_list_f = open("word_list_current_uniq.txt")
+    raw_lines = readlines(word_list_f)
+    close(word_list_f)
+    
+    # get rid of new line at end of words
+    for line in raw_lines
+        push!(word_list, chomp(line))
+    end # for 
+
     # crunch data from each file
     crunched_data = Array((Any,Any), 0)
     counter = 1
@@ -170,24 +183,24 @@ function main()
     txt_year_dict = crunch_metadata() # crunch basic metadata
     
     words_per_year = crunch_wpy(crunched_data, txt_year_dict)
+    
+    # to be used for frequencies later
+    year_freqs = Dict()
 
-    #save("crunched_data.jld","crunched_data",crunched_data)
-    while true
-        # print message to user for word to be searched for
-        print("Type word you would like frequency for: ")
+    # open csv file
+    csv_f = open("word_freq_diffs.csv", "w")
+    # write comma first. This will make the first cell empty when
+    # imported to excel.
+    write(csv_f, ",")
 
-        # get user input and remove newline at end
-        queried_word = chomp(readline(STDIN))
-        if queried_word == "exit()"
-            break
-        end # if statement
-        # user pressed enter
-        if queried_word == ""
-            continue
-        end # if statement
-
-        println("Printing all frequencies for word, \"" * queried_word * "\" for given years:")
-        
+    # write the year ranges as the top row
+    for i = 1400:1699
+        write(csv_f, "$i-$(i+1),")
+    end #for
+    write(csv_f, "\n") # new line
+    
+    counter = 0
+    for queried_word in word_list 
         # dictionary for year with frequency as value
         year_with_freq = Dict()
         # unwrap this massive structure to get to the words and frequencies
@@ -208,47 +221,43 @@ function main()
                 end # if statement
              end # inner for loop
         end # outter for loop
+
+        # write word to file
+        write(csv_f, "$queried_word,")
         
-        if length(year_with_freq) == 0
-            println("No results found for querry \"$queried_word\"...")
-            continue
-        end # if statement
-
-        # sort the keys by chronology and save the key and value to seperate arrays
-        ordered_year = Array(Int64, 0)
-        ordered_freq = Array(Float64, 0)
-        for key in sort(collect(keys(year_with_freq)))
-            # print each year with the frequency of the word
-            println("$key => $(year_with_freq[key])")
-
-            # push the data to each respective sorted arrays
-            # in parts per million
-            push!(ordered_freq, (year_with_freq[key] / words_per_year[key]) * 1000000) # normalized by dividing by total word in year
-            push!(ordered_year, key)
-        end # for loop
+        # set all values to 0
+        for i in 1400:1700
+            year_freqs[i] = 0
+        end # for
         
-        # create line plot
-        print(lineplot(ordered_year, ordered_freq, title = "\""*queried_word*"\"" * " frequency in parts per million", color = :blue))
-        print(barplot(ordered_year, ordered_freq, title = "\""*queried_word*"\"" * " frequency in parts per million", color = :blue))
+        for key in collect(keys(year_with_freq))
+            year_freqs[key] = (year_with_freq[key] / words_per_year[key] * 1000000)
+        end # for
 
-        # create arrays of absolute changes and year ranges
-        abs_changes = Array(Int64, 0)
-        year_ranges = Array(String, 0)
-        index = 1
-        while index < length(ordered_year)
-            freq_change = abs((year_with_freq[ordered_year[index]] - year_with_freq[ordered_year[index+1]]))
+        # loop over years and calculate absolute changes
+        # add changes to array
+        freq_changes = Array(Float64,0)
+        for year in 1400:1699
+            freq_diff = abs(year_freqs[year] - year_freqs[year+1])
+            push!(freq_changes, freq_diff)
+        end
+                
+        # write each of the differences to the file 
+        for freq_diff in freq_changes
+            write(csv_f, "$freq_diff,")
+        end
+                    
+        # write new line for next word
+        write(csv_f, "\n")
 
-            push!(abs_changes, freq_change)
-            push!(year_ranges, "$(ordered_year[index]) - $(ordered_year[index+1])")
-
-            index += 1
-        end # while loop
-
-        # create barplot
-        print(barplot(year_ranges, abs_changes, title = "\""*queried_word*"\"" * " Year-By-Year Change", color = :blue))
-
-    end # while loop
+        counter += 1
+        println("$counter word diffs written...")
+        if counter % 1000 == 0
+            println("$counter word diffs written...")
+        end # if
+    end # for loop
 
 end # main function
 
 main()
+
